@@ -13,6 +13,4 @@ Te aconsejamos que leas el presente manual de usuario para disfrutar del product
 * cuatros
 
 
-<hr>
-
-<span style="color: #FF0000">asda</span>
+> askdjf kashdfjaa
