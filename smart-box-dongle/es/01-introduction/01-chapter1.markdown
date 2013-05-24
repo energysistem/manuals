@@ -1,5 +1,9 @@
-# Introducción
+# Introducciï¿½n
 
-Energy Sistem™ te agradece la compra de tu nuevo Energy Android TV Dongle. Deseamos que lo disfrutes. Este dispositivo transforma tu televisor en un Android Smart TV con acceso a Internet a través de la conexión Wi-Fi integrada, descarga miles de aplicaciones y juegos para Android™ y disfruta de vídeos FullHD. Versátil tamaño pendrive para llevar contigo allá donde vayas.
+Energy Sistemï¿½ te agradece la compra de tu nuevo Energy Android TV Dongle. Deseamos que lo disfrutes. Este dispositivo transforma tu televisor en un Android Smart TV con acceso a Internet a travï¿½s de la conexiï¿½n Wi-Fi integrada, descarga miles de aplicaciones y juegos para Androidï¿½ y disfruta de vï¿½deos FullHD. Versï¿½til tamaï¿½o pendrive para llevar contigo allï¿½ donde vayas.
 
-Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo sus prestaciones.
+Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al mï¿½ximo sus prestaciones.
+
+[guia_rapida]
+prueba
+[/guia_rapida]
