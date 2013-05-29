@@ -56,7 +56,7 @@ Este proceso lo seguiremos cuando queramos hacer un *commit* del estado actual d
 2. Seleccionas los ficheros que queremos "commitear" y hacemos click en *Stage Changed* para moverlos a la lista de **Staged Changes** que como aclara entre paréntesis, hace referencia a los ficheros de los que se hará un commit.
 3. Antes de hacer el commit hemos de escribir un **Commit Message** explicando qué cambios hemos hecho brevemente. Esto nos servirá para que nosotros u otras personas puedan ver el histórico del proyecto claramente.
 4. Ahora ya podemos hacer el *Commit* (click en Commit :D).
-5. (Opcional) Si además queremos subir los cambios a Internet hacemos click en *Push* y el último commit hecho se subirá al repositorio de GitHub.
+5. (Opcional) Si además queremos subir los cambios a Internet hacemos click en *Push* y el último commit hecho se subirá al repositorio de GitHub. Nos pedirá nuestras credenciales de GitHub, las introducimos y profit!
 
 ### Extras ###
 
