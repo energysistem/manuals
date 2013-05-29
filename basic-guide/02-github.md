@@ -58,3 +58,6 @@ Este proceso lo seguiremos cuando queramos hacer un *commit* del estado actual d
 4. Ahora ya podemos hacer el *Commit* (click en Commit :D).
 5. (Opcional) Si además queremos subir los cambios a Internet hacemos click en *Push* y el último commit hecho se subirá al repositorio de GitHub.
 
+### Extras ###
+
+Git en combinación con GitHub es una herramienta muy potente para gestionar proyectos con documentos y tareas. Si quieres aprender más googlea o, aún más fácil, pregúntame (Alfredo).
