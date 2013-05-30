@@ -13,7 +13,7 @@ Si tienes una tarjeta microSD insertada, el dispositivo compilará toda la infor
 
 1. Inserta tu tarjeta microSD
 2. Soporta hasta tarjetas microSD de 32 GB
-
+3. Puedes conectarte a la web
 ![]('/imagenes/navegacion.jpg')
 Figura 1
 
