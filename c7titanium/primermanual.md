@@ -14,6 +14,7 @@ Si tienes una tarjeta microSD insertada, el dispositivo compilará toda la infor
 1. Inserta tu tarjeta microSD
 2. Soporta hasta tarjetas microSD de 32 GB
 3. Permite volar
+4. Permite probar
 
 ![]('/imagenes/navegacion.jpg')
 Figura 1
