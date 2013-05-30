@@ -14,17 +14,17 @@ Una vez estáis registrados, notificad a alguien del equipo web (de momento a Al
 
 Lo primero que debemos hacer es clonar el proyecto sobre el que deseemos trabajar a nuestra máquina:
 
-![Git GUI 1](images/git-gui1.jpg "Git GUI 1")
+![Git GUI 1](../basic-guide/images/git-gui1.jpg "Git GUI 1")
 
 A continuación hemos de introducir la dirección del repositorio que queremos clonar y la carpeta en la que queremos clonarlo y pulsamos *Clone*.
 
 > **¡Importante!** La carpeta donde se va a clonar el proyecto **NO** debe existir.
 
-![Git GUI 2](images/git-gui2.jpg "Git GUI 2")
+![Git GUI 2](../basic-guide/images/git-gui2.jpg "Git GUI 2")
 
 Si queremos trabajar con un proyecto que ya tenemos clonado en nuestro ordenador le damos a *Open Existing Repository* de la primera imagen y luego seleccionamos la carpeta del proyecto.
 
-![Git GUI 3](images/git-gui3.jpg "Git GUI 3")
+![Git GUI 3](../basic-guide/images/git-gui3.jpg "Git GUI 3")
 
 Si el proyecto ya tiene contenido, el programa debería verse parecido a la siguiente figura.
 
@@ -35,7 +35,7 @@ Si el proyecto ya tiene contenido, el programa debería verse parecido a la sigu
 
 > No os asustéis, más adelante veremos este proceso que es bastante sencillo.
 
-![Git GUI 4](images/git-gui4.jpg "Git GUI 4")
+![Git GUI 4](../basic-guide/images/git-gui4.jpg "Git GUI 4")
 
 ### Nuestro usuario ###
 

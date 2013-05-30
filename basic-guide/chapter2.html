@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+						<html>
+							<head>
+								<meta charset="UTF-8">
+								<link href="../github.css" rel="stylesheet"/>
+								<title>chapter2</title>
+							</head>
+							<body><h1>Git / GitHub</h1>
+
+<p>Una vez tenemos nuestro manual creado, queremos modificar alguno o queremos traducir necesitaremos tener una cuenta en <strong>GitHub</strong> y el programa <strong>msysgit</strong>.</p>
+
+<h2>Registro en GitHub</h2>
+
+<p>Para registrarte entra en este enlace <a href="http://www.github.com/users">GitHub</a>.</p>
+
+<p>Una vez estáis registrados, notificad a alguien del equipo web (de momento a Alfredo) que os añada a la <a href="http://www.github.com/energysistem">organización Energy Sistem en GitHub</a></p>
+
+<h2>Uso de msysgit (Git)</h2>
+
+<blockquote>
+  <p>¡Antes de empezar, hay que pedirle a Juanfran que nos lo instale!</p>
+</blockquote>
+
+<p>Lo primero que debemos hacer es clonar el proyecto sobre el que deseemos trabajar a nuestra máquina:</p>
+
+<p><img src="../basic-guide/images/git-gui1.jpg" alt="Git GUI 1" title="Git GUI 1" /></p>
+
+<p>A continuación hemos de introducir la dirección del repositorio que queremos clonar y la carpeta en la que queremos clonarlo y pulsamos <em>Clone</em>.</p>
+
+<blockquote>
+  <p><strong>¡Importante!</strong> La carpeta donde se va a clonar el proyecto <strong>NO</strong> debe existir.</p>
+</blockquote>
+
+<p><img src="../basic-guide/images/git-gui2.jpg" alt="Git GUI 2" title="Git GUI 2" /></p>
+
+<p>Si queremos trabajar con un proyecto que ya tenemos clonado en nuestro ordenador le damos a <em>Open Existing Repository</em> de la primera imagen y luego seleccionamos la carpeta del proyecto.</p>
+
+<p><img src="../basic-guide/images/git-gui3.jpg" alt="Git GUI 3" title="Git GUI 3" /></p>
+
+<p>Si el proyecto ya tiene contenido, el programa debería verse parecido a la siguiente figura.</p>
+
+<ul>
+<li>En <strong>Unstaged changes</strong> vemos los ficheros que hemos modificado en el proyecto</li>
+<li>En <strong>Staged Changes</strong> vemos los ficheros que se añadirán en el siguiente <em>commit</em></li>
+<li>En la parte central vemos el contenido del fichero seleccionado en <em>Unstadged Changes</em></li>
+<li>En la parte inferior tenemos los botones para Reescanear los cambios en el proyecto, mover ficheros de <em>Unstaged</em> a <em>Staged</em>, hacer un <em>commit</em> y hacer un <em>push</em>.</li>
+</ul>
+
+<blockquote>
+  <p>No os asustéis, más adelante veremos este proceso que es bastante sencillo.</p>
+</blockquote>
+
+<p><img src="../basic-guide/images/git-gui4.jpg" alt="Git GUI 4" title="Git GUI 4" /></p>
+
+<h3>Nuestro usuario</h3>
+
+<p>Una vez tenemos abierto el <strong>msysgit</strong> lo primero que hay que hacer es definir nuestro usuario y cambiar la codificación:</p>
+
+<ol>
+<li>Vamos a Edit->Options y los datos los introducimos en las dos columnas (la del repositorio actual y en Global)</li>
+<li>Introducimos nuestro <em>username</em> y <em>email</em> en GitHub</li>
+<li>Cambiamos la codificación (<em>Default file contents encoding</em>), hacemos click en Change y marcamos <strong>Unicode (UTF-8)</strong></li>
+<li>Click en <em>Save</em>.</li>
+</ol>
+
+<h3> </h3>
+
+<h3>El "proceso"</h3>
+
+<p>Este proceso lo seguiremos cuando queramos hacer un <em>commit</em> del estado actual del proyecto o cuando queramos publicar los cambios en Internet.</p>
+
+<ol>
+<li>Hacemos un <em>Rescan</em> para listar todos los ficheros modificados en la lista de <strong>Unstaged Changes</strong>.</li>
+<li>Seleccionas los ficheros que queremos "commitear" y hacemos click en <em>Stage Changed</em> para moverlos a la lista de <strong>Staged Changes</strong> que como aclara entre paréntesis, hace referencia a los ficheros de los que se hará un commit.</li>
+<li>Antes de hacer el commit hemos de escribir un <strong>Commit Message</strong> explicando qué cambios hemos hecho brevemente. Esto nos servirá para que nosotros u otras personas puedan ver el histórico del proyecto claramente.</li>
+<li>Ahora ya podemos hacer el <em>Commit</em> (click en Commit :D).</li>
+<li>(Opcional) Si además queremos subir los cambios a Internet hacemos click en <em>Push</em> y el último commit hecho se subirá al repositorio de GitHub. Nos pedirá nuestras credenciales de GitHub, las introducimos y profit!</li>
+</ol>
+
+<h3>Extras</h3>
+
+<p>Git en combinación con GitHub es una herramienta muy potente para gestionar proyectos con documentos y tareas. Si quieres aprender más googlea o, aún más fácil, pregúntame (Alfredo).</p>
+</body>
+						</html>

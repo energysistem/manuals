@@ -62,4 +62,4 @@ while (args[--i]) {
 }
 ```
 
-![Texto alternativo](images/logo_store.png "Logo de Energy")
+![Texto alternativo](../basic-guide/images/logo_store.png "Logo de Energy")
