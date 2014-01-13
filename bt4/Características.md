@@ -1,4 +1,4 @@
-PRINCIPALES CARACTERÍSTICAS
+Principales Características
 =========
 * Auriculares Bluetooth® V4.0 clase 2.
 *	Conexiones: Bluetooth® y microUSB.
