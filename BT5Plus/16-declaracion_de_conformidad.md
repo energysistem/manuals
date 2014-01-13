@@ -15,4 +15,4 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 
 |  |  |
 |:-------|:-------|
-|INSERTAR IMAGEN DE RECICLAJE | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42ba28fbe9.jpg) | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
