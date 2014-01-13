@@ -11,3 +11,9 @@ Declaramos bajo nuestra exclusica responsabilidad la conformidad del producto:
 
 _**País de fabricación:**_ China  
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de Marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+
+
+|  |  |
+|:-------|:-------|
+|INSERTAR IMAGEN DE RECICLAJE | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
+
