@@ -1,4 +1,4 @@
-Cuidado y mantenimientos
+Cuidado y mantenimiento
 ===========
 * No expongas tu *Energy Wireless BT4 Sport* a golpes, polvo, humedad o altas temperaturas.
 * No uses productos de limpieza corrosivos o abrasivos.
