@@ -9,5 +9,4 @@ CONTROL DE LLAMADA
 6.	LED INDICADOR.
 7.	CONEXIÓN LINE-IN.
 
-
--- INSERTAR IMAGEN ----
+![Imagen1](http://static.energysistem.com/images/manuals/39930/52d90b7deaf7f.jpg)
