@@ -1,4 +1,4 @@
-Principales Características
+<quick_guide>Principales Características
 =========
 * Auriculares intrauditivos Bluetooth® V4.0 clase II.
 *	Conexiones: Bluetooth® y microUSB.
@@ -12,3 +12,4 @@ Principales Características
 *	Micrófono de alta sensibilidad con cancelación de ruido.
 *	Distancia de uso hasta 10 metros de alcance.
 *	Batería de litio recargable de larga duración.
+</quick_guide>
