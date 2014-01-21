@@ -4,4 +4,3 @@ Contenido del producto
 * Cable de audio
 * Cable USB
 * Manual de usuario
-* Tarjeta de garantía
