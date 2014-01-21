@@ -1,5 +1,4 @@
-<quick_guide>
-Presentación general
+<quick_guide>Presentación general
 ==============
 1.	ALMOHADILLAS
 2.	BOTÓN MULTIFUNCIÓN
