@@ -1,3 +1,4 @@
+<quick_guide>
 Presentación general
 ==============
 1.	ALMOHADILLAS
@@ -10,3 +11,4 @@ Presentación general
 8.	VOLUMEN + / FORWARD
 9.	MICRÓFONO PRINCIPAL
 10.	CABLE DE UNIÓN
+</quick_guide>
