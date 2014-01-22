@@ -1,4 +1,5 @@
-<quick_guide>![Imagen1](http://static.energysistem.com/images/manuals/39930/52dfac7ac5e0a.jpg)<BR>
+<quick_guide>![Imagen1](http://static.energysistem.com/images/manuals/39930/52dfac7ac5e0a.jpg)
+
 *BLUETOOTH SPORT EARPHONES*
 #ENERGY WIRELESS BT4 SPORT
 
