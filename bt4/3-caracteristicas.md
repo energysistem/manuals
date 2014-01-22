@@ -1,5 +1,5 @@
 <quick_guide>Principales Características
-=========
+--------------
 * Auriculares intrauditivos Bluetooth® V4.0 clase II.
 *	Conexiones: Bluetooth® y microUSB.
 *	Conectividad sin cables: Bluetooth®.

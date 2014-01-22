@@ -1,5 +1,5 @@
 Encendido y apagado del dispositivo
-===============
+----------------
 
 Utiliza el botón (1) para encender o apagar el dispositivo.
 
