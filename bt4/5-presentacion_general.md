@@ -1,5 +1,5 @@
 <quick_guide>Presentación general
-==============
+---------------
 1.	ALMOHADILLAS
 2.	BOTÓN MULTIFUNCIÓN
 3.	CONEXIÓN USB
