@@ -1,5 +1,5 @@
 Instrucciones de seguridad
-=======================
+----------------------
 * No expongas tu *Energy™ Wireless BT5+* a golpes, polvo, humedad o altas temperaturas.
 * No uses productos de limpieza corrosivos o abrasivos.
 * No sitúes tu *Energy™ Wireless BT5+* cerca de dispositivos que emitan campos electromagnéticos intensos.
