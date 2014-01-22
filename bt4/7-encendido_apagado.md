@@ -1,5 +1,5 @@
 <quick_guide>Encendido y apagado del dispositivo
-===========
+----------------
 Utiliza el botón multifunción (2) para encender o apagar el dispositivo.
 
 Para encender el dispositivo, pulsa durante 5 segundos el botón multifunción (2) y verás que el LED (5) parpadea de color azul. Escucharás por el dispositivo “POWER ON” que indica que el dispositivo está encendido. 
