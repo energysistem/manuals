@@ -1,7 +1,7 @@
 Manuals
 =======
 
-Product manuals Energy Sistem
+Product manuals Energy Sistem.
 
 # Erratas
 
