@@ -5,4 +5,4 @@ Introducción
 * Micrófono integrado con cancelación de ruido. 
 * Completamente ajustables, plegables y con batería de litio recargable.
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones...
-kljjl
+kljjl asdf asa
