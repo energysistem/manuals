@@ -12,3 +12,4 @@ Características técnicas
 * Hasta 10 horas de autonomía.
 dfasf
 hhthhth
+vamooos
