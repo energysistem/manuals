@@ -7,3 +7,4 @@ Cuidado y mantenimiento
 * Asegúrate de mantener tu *Energy™ Wireless BT5+* apagado cuando no este en uso.
 * Recarga la batería cuando esta se haya agotado para alargar la vida de la misma.
 cuidaooo
+ya no genera la carpeta html
