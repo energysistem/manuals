@@ -6,3 +6,4 @@ Cuidado y mantenimiento
 * No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec, S.A.
 * Asegúrate de mantener tu *Energy™ Wireless BT5+* apagado cuando no este en uso.
 * Recarga la batería cuando esta se haya agotado para alargar la vida de la misma.
+cuidaooo
