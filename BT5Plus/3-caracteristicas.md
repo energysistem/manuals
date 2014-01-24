@@ -10,4 +10,4 @@ Características técnicas
 * Distancia de uso hasta 10m de alcance.
 * Batería de litio recargable.
 * Hasta 10 horas de autonomía.
-dffd
+dffd dfd
