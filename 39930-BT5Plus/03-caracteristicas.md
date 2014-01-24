@@ -11,3 +11,4 @@ Características técnicas
 * Batería de litio recargable.
 * Hasta 10 horas de autonomía.
 dfasf
+hhthhth
