@@ -1,4 +1,4 @@
-Introducción 7
+Introducción 8
 =============
 * Energy Sistem® te agradece que hayas adquirido el Energy™ Wireless BT 5+, deseamos que lo disfrutes.
 * Auricular estéreo con tecnología Bluetooth® V4.0 y NFC, con diseño circumaural que aísla el ruido ambiental ofreciendo una gran fidelidad de tu música. 
