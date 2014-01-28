@@ -6,7 +6,7 @@ INTRODUCCIÓN
 * Completamente ajustables, plegables y con batería de litio recargable.
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones...
 kljjl asdf asa
-hola hola
+hola hola sad
 cuanto mas!
 ya tienes permiso
 como a la luz del sol
