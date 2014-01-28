@@ -1,6 +1,6 @@
 INTRODUCCIÓN
 --------------
-###Prueba
+### Prueba
 * Energy Sistem® te #trade# agradece que hayas adquirido el Energy#trade# Wireless BT 5+, deseamos que lo disfrutes.
 * Auricular estéreo con tecnología Bluetooth® V4.0 y NFC, con diseño circumaural que aísla el ruido ambiental ofreciendo una gran fidelidad de tu música. 
 * Micrófono integrado con cancelación de ruido. 
