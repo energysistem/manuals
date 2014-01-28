@@ -7,4 +7,4 @@ INTRODUCCIÓN
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones...
 html entities #trade#  
 str replace &trade;
-asdf
+asdf replace
