@@ -1,5 +1,6 @@
-<quick_guide>Encendido y apagado del dispositivo
-----------------
+##<quick_guide>Funciones Principales
+
+### Encendido y apagado del dispositivo
 
 Utiliza el botón (1) para encender o apagar el dispositivo.
 
@@ -11,7 +12,7 @@ Mientras esté encendido el dispositivo el LED (6) indicador se mantendrá parpa
 
 </quick_guide>
 
-###*Carga de la batería*
+### Carga de la batería
 
 Cuando el auricular ya no emite sonido o comienzas a percibir que a corta distancia el auricular emite interferencias, es el momento de recargarlo, conectando el extremo mini USB del cable USB (incluido) al propio *Energy#trade# Wireless BT5+* (5), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (6) se ilumina en rojo y cuando la carga sea completa se apagará.
 
