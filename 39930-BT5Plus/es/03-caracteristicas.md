@@ -1,7 +1,7 @@
 Características
 -------------
 
-###*Características generales*
+### *Características generales*
 
 * Auriculares dinámicos circumaurales cerrados con tecnología Bluetooth® V4.0.
 * Micrófono de alta sensibilidad y con cancelación de eco y ruido.
