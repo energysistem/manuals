@@ -1,7 +1,7 @@
-Contenido del producto
-====================
+<quick_guide>Contenido del producto
+------------
 * Energy™ Wireless BT5+ 
 * Cable de audio
 * Cable USB
-* Manual de usuario
-* Tarjeta de garantía
+* Guía rápida
+</quick_guide>

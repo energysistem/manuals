@@ -1,6 +1,8 @@
-Contenido del producto
-============
+<quick_guide>Contenido del producto
+----------
 * Energy Wireless BT4 Sport
 * Cable USB
-* Tarjeta de garantía
+* Funda rígida de transporte.
+* Almohadillas intercambiables.
 * Mini catálogo
+</quick_guide>

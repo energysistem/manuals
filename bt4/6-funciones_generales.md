@@ -1,5 +1,5 @@
 Funciones generales
-===========
+--------------
 *	Auriculares estéreo Bluetooth® V4.0.
 *	Conexión instantánea con sólo activar la conexión Bluetooth® de tu móvil.
 * Compatibilidad con iOS, ANDROID™, Windows, Blackberry, MAC OS, etc.
