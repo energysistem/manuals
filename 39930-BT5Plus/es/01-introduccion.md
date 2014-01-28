@@ -6,4 +6,4 @@ INTRODUCCIÓN
 * Completamente ajustables, plegables y con batería de litio recargable.
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones...
 html entities
-vaaamooos
+every minute!
