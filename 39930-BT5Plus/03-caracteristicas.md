@@ -1,5 +1,5 @@
-Características
--------------
+## Características
+
 
 *Características generales*
 
