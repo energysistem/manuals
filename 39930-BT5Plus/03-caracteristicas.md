@@ -1,7 +1,8 @@
 Características
 -------------
 
-###*Características generales*
+*Características generales*
+
 
 * Auriculares dinámicos circumaurales cerrados con tecnología Bluetooth® V4.0.
 * Micrófono de alta sensibilidad y con cancelación de eco y ruido.
@@ -15,7 +16,8 @@ Características
 * Batería de litio recargable.
 * Hasta 10 horas de autonomía.
 
-###*Características técnicas*
+
+*Características técnicas*
 
 * Protocolo Bluetooth: A2DP1.0, AVRCP1.4, HSP1.2, HFP1.6.
 * Respuesta en frecuencia: 60 Hz ~ 20 KHz.
