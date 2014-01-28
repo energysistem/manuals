@@ -1,10 +1,5 @@
-<<<<<<< HEAD:39930-BT5Plus/es/15-funcionamiento_garantia.md
-Funcionamiento de la garantíaaa
-==============
-=======
 Funcionamiento de la garantía
 ---------------
->>>>>>> 3a70613f2465f7cad718850a1c3fb102d3153023:BT5Plus/15-funcionamiento_garantia.md
 Entrando en http://support.energysistem.com y tras seleccionar tu producto podrás encontrar FAQ’s (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones. Puedes consultar la disponibilidad del manual en tu idioma en http://www.energysistem.com/es-es/support/manuals  
 Si no obtienes en la sección de soporte la solución, puedes hacernos llegar tu consulta o solicitud de gestión de garantías a través del email: soporte@energysistem.com  
 También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (Teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.  

@@ -14,13 +14,6 @@ Características
 * Distancia de uso hasta 10m de alcance.
 * Batería de litio recargable.
 * Hasta 10 horas de autonomía.
-<<<<<<< HEAD:39930-BT5Plus/es/03-caracteristicas.md
-dfasf
-hhthhth
-vamooos o no vamos?!
-ahora si
-permisos
-=======
 
 ###*Características técnicas*
 
@@ -34,4 +27,3 @@ permisos
 * Puerto de carga: Micro USB tipo B.
 * Sensibilidad del micrófono: -42 dB.
 * Peso: 160 g.
->>>>>>> 3a70613f2465f7cad718850a1c3fb102d3153023:BT5Plus/3-caracteristicas.md
