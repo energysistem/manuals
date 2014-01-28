@@ -1,5 +1,5 @@
-Sincronización NFC
-------------
+## Sincronización NFC
+
 En la actualidad existen Smartphones en el mercado con la función *NFC* (Near Field Communication) la cual te permite sincronizar dispositivos manteniendo un contacto entre ellos.
 Los *Energy Wireless BT5+* cuentan con la función NFC por lo que puedes sincronizarlos a tu Smartphone con un contacto entre ambos.
 
