@@ -16,7 +16,7 @@ Pero tú sólo tienes que trabajar en la carpeta ES.
 El nombre de cada fichero que crees, debe seguir el siguiente patrón: "CC-"+"Nombre_Capitulo"+".md"
 >00-portada_manual.md"
 
-El número de capítulo debe tener siempre dos cifras, poniendo un cero delante para los capítulos del 0 al 9. Los espacios se deben representar con "_" para evitar problemas en la transformación web del código. En caso de no poner la extensión ".md" el fichero se guardará pero no podrás previsualizar el resultado. 
+El número de capítulo debe tener siempre dos cifras, poniendo un cero delante para los capítulos del 0 al 9. Los espacios se deben representar con "_" para evitar problemas en la transformación web del código. Es obligatorio poner la  extensión ".md" a los ficheros o el manual no se generará correctamente.
 
 ### Marcas especiales
 
