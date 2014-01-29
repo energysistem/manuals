@@ -4,4 +4,5 @@
 * Cable de audio
 * Cable USB
 * Guía rápida
+* una mas
 </quick_guide>
