@@ -3,5 +3,5 @@
 * Energy Wireless BT5+ 
 * Cable de audio
 * Cable USB
-* Guía rápida
+* Guía rápida asdas
 </quick_guide>
