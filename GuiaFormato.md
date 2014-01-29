@@ -18,6 +18,16 @@ El nombre de cada fichero que crees, debe seguir el siguiente patrón: "CC-"+"No
 
 El número de capítulo debe tener siempre dos cifras, poniendo un cero delante para los capítulos del 0 al 9. Los espacios se deben representar con "_" para evitar problemas en la transformación web del código. En caso de no poner la extensión ".md" el fichero se guardará pero no podrás previsualizar el resultado. 
 
+### Marcas especiales
+
+Para que se pueda extraer una guía rápida del manual, es necesario que pongas marcas en el texto que quieres que aparezca en la guía. Concretamente, debes encerrar el texto de la guía rápida entre las siguientes marcas:
+>
+\<quick_quide> Este texto, va en la guía rápida\</quick_guide>
+
+En caso de que haya algo que quieras que aparezca **únicamente** en la guia rápida y no en el manual online, debes encerrar ese texto entre las siguientes marcas:
+>
+\<unique> Este texto aparecerá sólo en la guía rápida</unique>
+
 ### Formato
 
 Existen X elementos en los manuales que requieren que les des un formato especial, para facilitar su uso, los puedes encontrar a continuación:
@@ -26,9 +36,8 @@ Existen X elementos en los manuales que requieren que les des un formato especia
 
 Los títulos o encabezados se introducen con el caracter \# . Cuantas más veces aparezca, menor es la importancia del encabezado. En concreto, para los manuales utilizaremos:
 
-
-\#\# Título del capítulo
-## Título del capítulo
+> \#\# Título del capítulo  
+>## Título del capítulo
 \#\#\# Título de subapartado
 ### Título de subapartado
 
