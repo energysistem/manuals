@@ -1,4 +1,4 @@
-##<quick_guide> Contenido del producto
+## <quick_guide> Contenido del producto
 
 * Energy#trade# Wireless BT5+ 
 * Cable de audio
