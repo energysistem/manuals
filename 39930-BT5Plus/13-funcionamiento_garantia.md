@@ -1,4 +1,4 @@
-## Funcionamiento de la garantía
+## <quick_guide> Funcionamiento de la garantía
 
 Entrando en http://support.energysistem.com y tras seleccionar tu producto podrás encontrar FAQ’s (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones. Puedes consultar la disponibilidad del manual en tu idioma en http://www.energysistem.com/support/manuals  
 Si no obtienes en la sección de soporte la solución, puedes hacernos llegar tu consulta o solicitud de gestión de garantías a través del email: soporte@energysistem.com  
@@ -8,3 +8,4 @@ Importante: Los datos o información contenidos en los productos no están cubie
 Las especificaciones están sujetas a cambios sin previo aviso.  
 *Marcas comerciales* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 ©2013 por Energy Sistem®. Todos los derechos reservados.
+</quick_guide>
