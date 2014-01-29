@@ -1,6 +1,6 @@
-##<quick_guide> Contenido del producto
+## <quick_guide> Contenido del producto
 
-* Energy#trade# Wireless BT5+ 
+* Energy Wireless BT5+ 
 * Cable de audio
 * Cable USB
 * Guía rápida
