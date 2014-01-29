@@ -33,3 +33,31 @@ Los títulos o encabezados se introducen con el caracter \# . Cuantas más veces
 ### Título de subapartado
 
 *Nota:* Se debe poner un espacio entre los símbolos de \# y el título.
+
+#### Texto
+
+Dentro del texto puede que necesites resaltar algunas partes como podría ser el nombre del producto. Para ello, puedes utilizar \* *Cursivas*\* y \*\* **Negrita**\*\*.
+
+#### Imágenes
+
+Para enlazar las imágenes del manual que el Dpto. de diseño realizará y subirá a la herramienta "Gestión de imágenes de los manuales" (http://energysistem/tools/manuals/) basta con que entrés a la herramienta y busques el producto que te interesa. Alli aparecerán todos los links a las imágenes, elige el que quieras e introdúcelo en el manual de la siguiente manera:
+
+\!\[Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg)
+
+#### Tablas
+
+Quizá las tablas sean la parte más compleja, sin embargo no es habitual su uso en los manuales, puede que quieras utilizarla para tener texto al lado de una o varias imágenes como en el capítulo "Presentación general". Estas tablas constan de 3 partes: Encabezado de tabla, formato y contenido.
+
+El encabezado y el formato siempre será igual en los manuales a menos que quieras introducir una tabla especial y tendrás que hacerlo de la siguiente manera:
+
+|  |  |     - Encabezado de la tabla<br>
+|:-------|:-------| - Tipo de tabla<br>
+|Contenido col1|Contenido col2|
+
+Esto produce el siguiente resultado:
+
+|  |  |
+|:-------|:-------|
+|Contenido col1|Contenido col2|
+
+Que una vez tratado por el intérprete HTML se convierte en una tabla sin bordes en la web. Se pueden poner tantas columnas como quieras, basta con añadir en cada apartado (encabezado, tipo, contenido) tantas "|" como columnas necesites.
