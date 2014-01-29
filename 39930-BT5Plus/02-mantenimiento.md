@@ -1,4 +1,4 @@
-## Recomendaciones de mantenimiento
+## Cuidado y mantenimiento
 
 * No expongas tu *Energy Wireless BT5+* a golpes, polvo, humedad o altas temperaturas.
 * No uses productos de limpieza corrosivos o abrasivos.
