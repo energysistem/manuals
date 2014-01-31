@@ -14,7 +14,7 @@ Dentro de cada directorio de producto encontrarás diferentes carpetas para los 
 Pero tú sólo tienes que trabajar en la carpeta ES. 
 
 El nombre de cada fichero que crees, debe seguir el siguiente patrón: "CC-"+"Nombre_Capitulo"+".md"
->00-portada_manual.md"
+>00-portada_manual.md
 
 El número de capítulo debe tener siempre dos cifras, poniendo un cero delante para los capítulos del 0 al 9. Los espacios se deben representar con "_" para evitar problemas en la transformación web del código. Es obligatorio poner la  extensión ".md" a los ficheros o el manual no se generará correctamente.
 
@@ -30,7 +30,7 @@ En caso de que haya algo que quieras que aparezca **únicamente** en la guia rá
 
 ### Formato
 
-Existen X elementos en los manuales que requieren que les des un formato especial, para facilitar su uso, los puedes encontrar a continuación:
+Existen algunos elementos en los manuales que requieren que les des un formato especial, para facilitar su uso, los puedes encontrar a continuación:
 
 #### Encabezados
 
@@ -70,3 +70,34 @@ Esto produce el siguiente resultado:
 |Contenido col1|Contenido col2|
 
 Que una vez tratado por el intérprete HTML se convierte en una tabla sin bordes en la web. Se pueden poner tantas columnas como quieras, basta con añadir en cada apartado (encabezado, tipo, contenido) tantas "|" como columnas necesites.
+
+#### Listas
+
+A veces, necesitarás crear listas, ya sean numeradas o no. Esto lo podrás hacer de la siguiente manera:
+
+Lista no numerada:
+> \* Primer elemento  
+\* Segundo elemento  
+\* Tercer elemento
+
+Se muestra así:  
+> * Primer elemento
+* Segundo elemento
+* Tercer elemento
+
+Lista numerada  
+> 1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+#### Símbolos especiales
+
+Para introducir caracteres o símbolos especiales, simplemente hay que escribirlos directametne salvo una excepción, el símbolo TM, que para que se muestre correctamente en la web, debemos escribirlo como #trade#, es decir:
+> Energy Sistem#trade#
+
+Se transformará en la web a:
+
+> Energy Sistem™
+
+
+
