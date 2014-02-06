@@ -5,3 +5,5 @@
 </quick_guide>
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones. 
 * <unique>Encuentra el manual completo del *Energy Wireless BT5+* en el siguiente enlace http://www.energysistem.com/guide/39930 </unique>. 
+
+prueba
