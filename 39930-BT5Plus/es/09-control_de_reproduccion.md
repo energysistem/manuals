@@ -1,4 +1,4 @@
-## Control de funciones
+## Control de reproducción
 
 Una vez ya sincronizado el *Energy Wireless BT5+* puedes controlar las funciones básicas de reproducción desde el mismo auricular; como son subir y bajar el volumen, avance o retroceso de canción y reproducción o pausa de la canción.
 
