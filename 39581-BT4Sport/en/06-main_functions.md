@@ -6,7 +6,7 @@ Use the button (1) to turn on / off your device.
 
 To turn on you device, press button (1) for 5 seconds and you will see the LED indicator (6) flashing in blue color, and hearing "POWER ON" in your device, meaning that it is turned on.
 
-To turn off your device, press button (1) again for 3 seconds, hearing "POWER OFF" in your device. The LED indicator (6) will stop its flashing.
+To turn off your device, press button (1) again for 3 seconds, hearing "POWER OFF" in your device. The LED indicator (6) will stop flashing.
 
 As long your device is turned on, the LED indicator keeps flashing in blue color.
 </quick_guide>
