@@ -5,7 +5,7 @@ _**Dirección:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (E
 _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
 
 
-Declaramos bajo nuestra exclusica responsabilidad la conformidad del producto:
+Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 >*Energy Sistem#trade# Auriculares estéreo Bluetooth® Energy Wireless BT5+*
 
