@@ -1,6 +1,6 @@
 ## NFC Pairing
 
-Currently, there are smartphones on the market with NFC function (Near Field Communication), which allows you to pair devices by keeping them closed. The *Energy Wireless BT5+* have this NFC technology so you can easily pair your headphones with your smartphone. 
+Currently, there are smartphones on the market with NFC function (Near Field Communication), which allows you to pair devices by keeping them close. The *Energy Wireless BT5+* have this NFC technology so you can easily pair your headphones with your smartphone. 
 
 In order to pair your smartphone and your *Energy Wireless BT5+*, you just have to take the following steps: 
 
