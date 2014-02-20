@@ -4,8 +4,8 @@
 
 * Closed circumaural dynamic headphones with Bluetooth ® V4.0 technology. 
 * High sensitivity microphone with echo and noise cancellation. 
-* Sound clean, clear and full of detail. 
-* Total compatibility with tablets, smartphones, laptops, PlayStation, MAC and PC. 
+* Clean and clear sound full of detail. 
+* Full compatibility with tablets, smartphones, laptops, PlayStation, MAC and PC. 
 * Easy pairing without codes. 
 * NFC pairing function. 
 * Control for PLAY, STOP, <<, >> and VOLUME functions from the headset. 
@@ -19,7 +19,7 @@
 * Support for A2DP1.0, AVRCP1.4, HSP1.2, HFP1.6. bluetooth protocols.
 * Frequency response: 60 Hz ~ 20 KHz.
 * Transducer Type: dynamic
-* Diaphram diameter: 40 mm.
+* Diaphragm diameter: 40 mm.
 * Speaker impedance: 32 Ohm.
 * Lithium battery 220 mAh.
 * Autonomy: 10 hours.
