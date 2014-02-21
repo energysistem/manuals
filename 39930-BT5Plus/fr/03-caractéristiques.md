@@ -8,7 +8,7 @@
 * Son propre, clair et plein de détails.
 * Compatibilité totale avec des Tablettes, des Smartphones, des téléphones portables, PlayStation, MAC et PC.
 * Simple synchronisation sans codes.
-* Fonction de communication NFC..
+* Fonction de communication NFC.
 * Contrôle pour les fonctions PLAY, STOP, <<, >>, et VOLUME inclut dans le même écouteur.
 * Maximum confort grâce à son design ergonomique et très léger, idéal pour des longues séances.
 * Distance d'utilisation jusqu'à 10m de portée.
