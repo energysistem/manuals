@@ -10,7 +10,7 @@ Declaramos bajo nuestra exclusica responsabilidad la conformidad del producto:
 >*Energy Sistem#trade# Auriculares estéreo Bluetooth® Energy Wireless BT4 Sport*
 
 _**País de fabricación:**_ China  
-Al que se refiere esta declaración, con la(s) norma(s) u otros documento(s) normativo(s) de acuerdo con las disposiciones de la Directiva 2004/108/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
+Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
 
 |  |  |
 |:-------|:-------|
