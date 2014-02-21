@@ -1,6 +1,6 @@
 ## Soin et maintenance
 
-* Ne pas exposer votre Energy Wireless BT5+à des coups, à la poussière, à l'humidité ou à hautes températures.
+* Ne pas exposer votre Energy Wireless BT5+ à des coups, à la poussière, à l'humidité ou à hautes températures.
 * Ne pas utiliser des produits corrosifs ou abrasifs. 
 * Ne pas mettre votre Energy Wireless BT5+ près des appareils qui émettent des champs électromagnétiques très intenses.
 * Gardez l'appareil propre et sans poussière, pour cela, utilisez un chiffon doux et sec. 
