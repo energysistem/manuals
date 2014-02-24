@@ -14,6 +14,6 @@ Lorsque l'appareil soit allumé, la lumière LED (6) indicateur clignotera.
 
 ### Chargement de la batterie
 
-Quand l'écouteur n'émet pas du son ou quand vous commencez à percevoir que l'écouteur émet des interférences à courte distance, c'est le moment de le charger, et de le connecté au bout du mini USB du câble USB (inclus) dans le même Energy Wireless BT5+(5), et l'autre extrémité de l'USB sur un autre appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB, pour la voiture, etc). La lumière LED (6) sera illuminée en rouge et quand le chargement soit complet, sera éteinte.
+Quand l'écouteur n'émet pas du son ou quand vous commencez à percevoir que l'écouteur émet des interférences à courte distance, c'est le moment de le charger, et de le connecté au bout du mini USB du câble USB (inclus) dans le même Energy *Wireless BT5+*(5), et l'autre extrémité de l'USB sur un autre appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB, pour la voiture, etc). La lumière LED (6) sera illuminée en rouge et quand le chargement soit complet, sera éteinte.
 
-AVIS IMPORTANT: Pour garder la batterie dans de bonnes conditions, il est très recommandé de ne pas la recharger jusqu'à qu'elle ne soit complètement épuisée. De cette façon, ne pas arrêter le chargement lorsque la batterie est complètement chargée.
+**AVIS IMPORTANT:** Pour garder la batterie dans de bonnes conditions, il est très recommandé de ne pas la recharger jusqu'à qu'elle ne soit complètement épuisée. De cette façon, ne pas arrêter le chargement lorsque la batterie est complètement chargée.
