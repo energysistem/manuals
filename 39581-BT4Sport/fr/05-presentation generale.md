@@ -1,4 +1,4 @@
-## <quick_guide> P
+## <quick_guide> Présentation générale
 
 |  |  |
 |:-------|:-------|
