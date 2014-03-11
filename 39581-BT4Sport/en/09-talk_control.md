@@ -1,6 +1,6 @@
 ## Talk Control
 
-Having paired your *Energy Wireless BT4 Sport* you can manage your phone calls from the earphones.
+Once you have paired your *Energy Wireless BT Sport*, you can manage your phone calls from the earphones.
 
 **Answering a call**
 

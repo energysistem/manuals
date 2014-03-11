@@ -1,6 +1,6 @@
 ## <quick_guide>Product Content
 
-* Energy BT4 Sport earphones
+* Energy BT Sport earphones
 * USB cable
 * Hard carrying case
 * User manual

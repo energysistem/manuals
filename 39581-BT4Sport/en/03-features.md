@@ -3,7 +3,7 @@
 ### General features
 
 * Sports Bluetooth® earphones.
-* Conexions: Bluetooth® and microUSB.
+* Conections: Bluetooth® and microUSB.
 * Easy pairing with tablets, smartphones, laptops, MAC, PC, PlayStation and any other Bluetooth® device.
 * Volume control from the earphones.
 * Pairing without codes.

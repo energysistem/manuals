@@ -18,6 +18,8 @@ El nombre de cada fichero que crees, debe seguir el siguiente patrón: "CC-"+"No
 
 El número de capítulo debe tener siempre dos cifras, poniendo un cero delante para los capítulos del 0 al 9. Los espacios se deben representar con "_" para evitar problemas en la transformación web del código. Es obligatorio poner la  extensión ".md" a los ficheros o el manual no se generará correctamente.
 
+**NOTA:** El nombre no debe contener acentos ni caracteres que no sea "_"
+
 ### Marcas especiales
 
 Para que se pueda extraer una guía rápida del manual, es necesario que pongas marcas en el texto que quieres que aparezca en la guía. Concretamente, debes encerrar el texto de la guía rápida entre las siguientes marcas:

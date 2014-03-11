@@ -1,6 +1,6 @@
 ## Control de llamadas
 
-Teniendo tus *Energy Wireless BT4 Sport* sincronizados con un teléfono podrás gestionar tus llamadas desde los auriculares.
+Teniendo tus *Energy Wireless BT Sport* sincronizados con un teléfono podrás gestionar tus llamadas desde los auriculares.
 
 **Contestar una llamada**  
 Para contestar una llamada presiona cualquiera de los botones de volumen (2) "+" o (3) "-" una única vez.

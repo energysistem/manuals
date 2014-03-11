@@ -10,7 +10,7 @@ We declare under our own exclusive responsibility that the product:
 >*Energy Sistem#trade# Stéreo Bluetooth® Earphone Energy Wireless BT5+*
 
 _**Manufacturing Country:**_ China  
-Is in comliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
+Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
 
 |  |  |
 |:-------|:-------|
