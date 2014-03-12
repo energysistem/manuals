@@ -1,4 +1,4 @@
-## Contrôle d'appels
+##Contrôle d'appels
 
 Si vous avez vos Energy Wireless BT Sport synchronisés avec un téléphone, vous pourrez gérer vos appels depuis des écouteurs.
 
