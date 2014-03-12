@@ -1,10 +1,9 @@
-## <quick_guide> Warranty
+## <quick_guide> Condições da garantia
 
-Energy Sistem Soyntec SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months. Batteries are excluded from the 36-month warranty, having a warranty
-period of 12 months.
+EEnergy Sistem Soyntec S.A. é responsável por qualquer falta de conformidade que exista no momento em que as mercadorias foram adquiridas durante um período de 36 meses. As baterias estão excluídas da garantia de 36 meses, tendo um período de garantia de 12 meses.
 
-This warranty covers any defects in workmanship or materials. This warranty does not cover any failure of the product due to accidents, misuse or
-alteration made by an unauthorized person.
+Esta garantia cobre defeitos de fabricação ou materiais. Esta garantia não cobre qualquer defeito do produto devido a acidentes, mau uso ou alteração feita por uma pessoa não autorizada.
 
-The special 36-months warranty is valid for the European Union. For other countries, please refer to your specific legislation or your local distributor.
+ A garantia especial de 36 meses é válida para a União Européia. Para outros países, consulte a sua legislação específica ou o seu distribuidor local.
+
 </quick_guide>
