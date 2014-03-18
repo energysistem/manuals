@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1. BOUTON MULTIFONCTION  <br> 2.	VOLUME + / AVANCER <br> 3.	VOLUME - / RECUL  <br> 4.	MICROPHONE <br> 5.	CONNEXION USB <br> 6.	INDICATEUR LED|![Imagen1](http://static.energysistem.com/images/manuals/39930/52e7dcfe953ce.jpg)|
+|1. BOUTON MULTIFONCTION  <br> 2.	CONNEXION USB<br> 3.	MICROPHONE   <br> 4.	VOLUME + / AVANCER <br> 5.	VOLUME - / RECUL <br> 6.	INDICATEUR LED|![Imagen1](http://static.energysistem.com/images/manuals/39581/5328898d8bb0b.jpg)|
 </quick_guide>
