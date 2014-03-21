@@ -5,4 +5,4 @@
 
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones. 
 <unique> 
-* Encuentra el manual completo de los *Energy Bluetooth Music Box BZ1* en el siguiente enlace http://www.energysistem.com/guide/39974 </unique> </quick_guide>
+* Encuentra el manual completo del *Energy Bluetooth Music Box BZ1* en el siguiente enlace http://www.energysistem.com/guide/39974 </unique> </quick_guide>
