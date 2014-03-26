@@ -1,7 +1,7 @@
 ## Line-in
 
-It is also possible to enjoy your *Energy Bluetooth Music Box BZ1* without pairing it with a bluetooth device
-También es posible disfrutar de tu *Energy Bluetooth Music Box BZ1* sin necesidad de sincronizarlo con un dispositivo bluetooth, ya que cuenta con una entrada en línea (9) en la cual le puedes conectar un cable de audio con jack de 3,5mm y el otro extremo a tu reproductor.
-Es necesario tener el *Energy Bluetooth Music Box BZ1* encendido para utilizar esta función. 
+It is also possible to enjoy your *Energy Bluetooth Music Box BZ1* without pairing it with a bluetooth device thanks to its line-ie connection (9) in which you can connect an audio cable with a 3.5mm jack connector and the other end to your player. 
 
-**NOTA:** Mientras se utiliza el altavoz en modo "line in", no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+To have turned on your *Energy Bluetooth Music Box BZ1* is a need in order to use this function.
+
+**NOTE:** While using the device in "line in" mode, it is not possible to control the reproduction neither the volume from the speaker. You have to do it from your connected player. 
