@@ -1,5 +1,6 @@
 ## <quick_guide> Bluetooth Pairing
-Everytime you turn on your *Energy Bluetooth Music Box BZ1* it will enter into pairing mode automatically; at the same time you have to start searching for Bluetooth  al mismo tiempo desde tu dispositivo Bluetooth®, (móvil, tablet, portátil, etc.) inicia la búsqueda y sincronización de dispositivos. Una vez ya identificado el *Energy Bluetooth Music Box BZ1* en tu dispositivo selecciona conectar. La conexión se realizará de forma inmediata y sin necesidad de códigos. El altavoz reproducirá un sonido que indica que la conexión entre ambos dispositivos se ha establecido satisfactoriamente.
+Everytime you turn on your *Energy Bluetooth Music Box BZ1* it will enter into pairing mode automatically; at the same time start the search and pairing process from your Bluetooth® device (smartphone, tablet, laptop, etc). Once you have found the *Energy Bluetooth Music Box BZ1* in your device, select "Connect" and both devices will pair each other immediately with no need of pairing codes; the speaker will play a sound indicating that the connection has been stablished. 
 
-Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta con encender el *Energy Bluetooth Music Box BZ1* y la sincronización se llevará a cabo de manera automática. 
+To pair again with the last device paired it is enought to turn on the *Energy Bluetooth Music Box BZ1* and the synchronization will take place automatically.
+
 </quick_guide>
