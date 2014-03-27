@@ -17,6 +17,6 @@ Cuando se introduce una tarjeta o se conecta un reproductor mediante line in, el
 
 ### Carga de la batería
 
-Cuando el altavoz ya no emite sonido o comienzas a percibir que emite interferencias, es el momento de recargarlo, conectando el extremo mini USB del cable USB (incluido) al propio *Energy Bluetooth Music Box BZ1* (8), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (3) se ilumina en rojo y cuando la carga sea completa se apagará.
+Cuando el altavoz ya no emite sonido o comienzas a percibir que emite interferencias, es el momento de recargarlo, conectando el extremo mini USB del cable USB (incluido) al propio *Energy Music Box Z1* (8), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (3) se ilumina en rojo y cuando la carga sea completa se apagará.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargarla batería hasta que no se haya agotado completamente. Del mismo modo, no interrumpir el proceso de carga hasta que la batería este completamente cargada.
