@@ -28,11 +28,6 @@
 * Peso neto: 212g
 * Medidas: 72x72x75mm
 
-Parámetros de la batería
-* Voltaje nominal: 3.7V DC
-* Tiempo de carga: 2-3 horas
-* Capacidad nominal: 500mA
-
 ### Características de la batería de litio recargable
 * Voltaje nominal: 3.7V DC
 * Tiempo de carga: 2-3 horas
