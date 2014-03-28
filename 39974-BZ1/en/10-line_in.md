@@ -4,4 +4,4 @@ It is also possible to enjoy your *Energy Bluetooth Music Box BZ1* without pairi
 
 Your *Energy Bluetooth Music Box BZ1* must be turned on in order to use this function.
 
-**NOTE:** While using the device in "line in" mode, it is not possible to control the playback neither the volume from the speaker. You have to do it from your connected player. 
+**NOTE:** While using the device in "line in" mode, it is not possible to control the playback neither the volume from the speaker. You have to do it from the player connected. 
