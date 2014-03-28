@@ -11,12 +11,12 @@ While the device is turned on, the LED indicator (7) will keep flashig in blue o
 
 ### Changing play mode
 
-When you turn on the device, pairing mode will start automtically. To change into "line in" mode, you only need to connect the audio cable (included) to the "line in" connection (9). Press the menu button (5) to switch between different playback modes. 
-When "line in" mode is selected, the led indicator (7) change its color to green.
+When you turn on your *Energy Music Box Z1*, it will play music from the connected device (micro SD card or line-in) in case both sources are active, the device will priorize micro SD card mode. When a micro SD card is inserted or an external player is connected to the line-in connection, the device will automatically change into that play mode. If both sources are connected (micro SD card and line-in) you can change the play mode by pressing the menu button (5).
+
 </quick_guide>
 
 ### Charging the battery
 
-When your device does not emit any sound or you start hearing some interference in short distance while bluetooth mode is selected, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Bluettoh Music Box BZ1* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (3) will turn red and when the charge is completed the LED will turn off.
+When your device does not emit any sound or you start hearing some interference, it is time to charge it. Connect the micro USB end of the included USB cable to your *Energy Music Box Z1* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (3) will turn red and when the charge is completed the LED will turn off.
 
 IMPORTANT NOTE: To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
