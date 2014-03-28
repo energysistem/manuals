@@ -6,4 +6,4 @@
 * Keep your earphones clean and dust them with a soft dry cloth.
 * Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
 * Be sure to keep your *Energy Bluetooth Music Box BZ1* turned off while not in use.
-* Charge the lithium battery when ran out to lengthen its life.
+* Charge the lithium battery when ran out to extend its life.
