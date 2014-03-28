@@ -3,7 +3,7 @@
 ### Características generales
 
 * Reproduce MP3 desde tarjetas micro SD/SDHC con capacidad de hasta 32 GB.
-* Entrada "line-in" de 3.5 mm: para escuchar música de cualquier reproductor portátil u ordenador.
+* Entrada line-in de 3.5 mm: para escuchar música de cualquier reproductor portátil u ordenador.
 * Libertad de sonido: escucha y comparte tu música en cualquier lugar.
 * Sonido limpio y claro, nitidez en todo el espectro acústico. 
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
