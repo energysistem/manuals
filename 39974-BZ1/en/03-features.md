@@ -21,7 +21,6 @@
 * Compatibility with A2DP y AVRCP profiles.
 * Distance range up to 10m.
 * 3.5mm Jack connection.
-* USB charging system
 * Frequency response: 180Hz-20KHz
 * S/N Ratio: >80 dB.
 * Output power: 3W
@@ -34,3 +33,4 @@
 * Rated voltage: 3.7V DC
 * Charging time: 2~3 hours
 * Battery capacity: 500mA
+* USB charging system
