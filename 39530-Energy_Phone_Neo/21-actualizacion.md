@@ -3,7 +3,9 @@
 Tu Energy Phone tiene un sistema operativo instalado basado en Android™, que es posible reinstalar
 o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu
 Energy Phone se conectará automaticamente con nuestros servidores, hará la descarga e instalará el
-nuevo software en cuanto tengamos una nueva actualización lista para usar. Tambien puedes actualizar tu
+nuevo software en cuanto tengamos una nueva actualización lista para usar. 
+
+Tambien puedes actualizar tu
 Energy Phone a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente
 cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o
 tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o
