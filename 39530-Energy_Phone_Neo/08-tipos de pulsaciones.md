@@ -3,32 +3,32 @@
 ### Gestos elementales
 
 
-Pulsación
+* Pulsación
 
 Pulsa brevemente la pantalla
 
 
-Doble pulsación
+* Doble pulsación
 
 Pulsa rápidamente dos veces la pantalla
 
 
-Arrastrar
+* Arrastrar
 
 Mueve el dedo sobre la superficie sin perder el contacto
 
 
-Deslizar
+* Deslizar
 
 Desliza el dedo rápidamente sobre la pantalla
 
 
-Presionar
+* Presionar
 
 Toque la superficie durante un período prolongado de tiempo
 
 
-Zoom
+* Zoom
 
 Ampliar y reducir la imagen de pantalla
 
