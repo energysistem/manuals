@@ -1,3 +1,5 @@
+## Navegador de Internet
+
 Tu nuevo Energy Phone dispone de un potente navegador Web entre la lista de aplicaciones instaladas por
 defecto, con el que podrás utilizar Internet de una forma rápida y sencilla.
 Una vez el dispositivo esté conectado a una red Wi-Fi o 3G, pulsa sobre el icono Navegador situado en el
