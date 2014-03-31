@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-Energy Sistem™ Energy Phone Neo
+**Energy Sistem™ Energy Phone Neo**
 
 País de fabricación: China
 
