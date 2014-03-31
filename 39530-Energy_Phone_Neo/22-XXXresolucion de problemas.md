@@ -19,7 +19,7 @@ Tu Energy Phone puede reproducir múltiples formatos de video sin recodificar.
 Muchas cámaras fotográficas digitales y programas de edición de imágenes añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu Energy Phone no cargue las imágenes. Prueba a eliminarlos grabando la imagen con otro nombre.
 
 7.	A veces la pantalla se queda en negro y el dispositivo no responde. 
-Pulsa el botón de Reset para reiniciar el dispositivo.
+Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo sacando y poniendo de vuelta la batería y pulsando en el botón de encendido. 
 
 8.	La capacidad de memoria del Energy Phone Neo es de 4GB, pero la memoria disponible es inferior ¿Por qué? 
 El sistema operativo Android™ y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 1,5 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a 4GB.
