@@ -4,7 +4,7 @@
 
 Use the button (10) to turn on / off your device.
 
-To turn on you device, move the ON/OFF button (10) to the "ON" position and you will see that the LED (7) flashes in blue. The speaker will play a welcome sound meaning that the device is now turned on.
+To turn on your device, move the ON/OFF button (10) to the "ON" position and you will see that the LED (7) flashes in blue. The speaker will play a welcome sound meaning that the device is now turned on.
 To turn off your device, move the ON/OFF button (10) to the "OFF" position.
 
 While the device is turned on, the LED indicator (7) will keep flashig in blue or green depending on the play mode selected.
@@ -12,7 +12,7 @@ While the device is turned on, the LED indicator (7) will keep flashig in blue o
 ### Changing play mode
 
 When you turn on the device, pairing mode will start automtically. To change into "line in" mode, you only need to connect the audio cable (included) to the "line in" connection (9). Press the menu button (5) to switch between different playback modes. 
-When "line in" mode is selected, the led indicator (7) change its color to green.
+When "line in" mode is selected, the led indicator (7) changes its color to green.
 </quick_guide>
 
 ### Charging the battery
