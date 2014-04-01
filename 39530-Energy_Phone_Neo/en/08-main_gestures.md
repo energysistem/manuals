@@ -1,7 +1,13 @@
 ## Main Gestures
+
 ### Main gestures
+
+
 * Tap
+
 Touch the screen briefly
+
+
 * Double tap
 Touch the screen twice quickly
 * Drag
