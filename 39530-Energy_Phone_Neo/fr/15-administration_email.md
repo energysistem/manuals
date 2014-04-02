@@ -1,4 +1,4 @@
-Administration d'Email
+## Administration d'Email
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
