@@ -1,7 +1,7 @@
 ## Main Screen
 
 1. **Status Bar:** displays information about the signal status, battery and clock. If you slide your finger down from this area, 
-you will access a new basic settings menu version tha manages notifications and settings menu.
+you will access a new basic settings menu version that manages the notifications and the settings menu.
 
 2. **Search:** direct access to Google’s™ search engine.
 
@@ -9,11 +9,11 @@ you will access a new basic settings menu version tha manages notifications and 
 
 4. **Music:** music player.
 
-5. **Play Store™:** Download the best and most popular apps for your Android™ system.
+5. **Play Store™:** download the best and most popular apps for your Android™ system.
 
-6. **Gallery:** images gallery. 
+6. **Gallery:** image gallery. 
 
-7. **Camera:** access to the buil—in camera.
+7. **Camera:** access to the built-in camera.
 
 8. **Internet:** web browser.
 
