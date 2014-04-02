@@ -8,7 +8,7 @@ up to 1080p, music, photos, eBooks, etc.).
 In addition, there are thousands of applications and games available so you can get the most out of your 
 device.
 The device has a 4.5” (540x960 pixels) capacitive multi-touch display, Dual Core ARM Cortex
-A7 1.3GHz, Bluetooth 4.0, WiFi, GPS, 3G connectivity and rear and front cameras.
+A7 1.3GHz processor, Bluetooth 4.0, WiFi, GPS, 3G connectivity and rear and front cameras.
 * We recommend you to read this manual to enjoy your device in a safe way and 
 with maximum performance.
 
