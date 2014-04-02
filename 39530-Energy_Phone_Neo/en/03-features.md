@@ -19,7 +19,7 @@
 * Display with auto brightness. 
 * Proximity sensor. 
 * Built-in magnetic sensor. 
-* Installed applications: Internet browser, email manager, applications for playing music / videos / photos, FM radio, alarm and calculator.
+* Installed applications: Internet browser, e-mail client, applications for playing music / videos / photos, FM radio, alarm and calculator.
 * Allows you to install thousands of applications and games available for ANDROID™ operating system.
 * Operating frequencies: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
 * Battery capacity: 1.400mAh.
