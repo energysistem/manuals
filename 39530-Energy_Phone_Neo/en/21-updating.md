@@ -1,6 +1,6 @@
 ## Updating
 
-Your Energy Phone has an operating system based on Android™ which you can reinstall or update if necessary. Updates will be made via OTA (Over-The-Air) by default, so your Energy Phone will automatically connect with our servers, download the file and install the new software as soon as it is released. 
+Your Energy Phone has an operating system based on Android™ which you can reinstall or update if necessary. Updates will be made via OTA (Over-The-Air) by default, so your Energy Phone will automatically connect to our servers, download the file and install the new software as soon as it is released. 
 
 You can also update your Energy Phone using your PC. The process is simple but has to be done carefully and only when it is really necessary. If you notice that the device crashes, restarts unexpectedly or you have problems accessing the content of the internal storage memory, you should reinstall or update the operating system to a newer compatible version if available.
 
