@@ -10,4 +10,4 @@
 8. Play / pause.
 9. Previous song. 
 10. Repeat.
-11. Time played.
+11. Elapsed time.
