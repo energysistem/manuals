@@ -6,4 +6,4 @@
 5. Full screen. 
 6. Length.
 7. Progress bar.
-8. Time played.
+8. Elapsed time.
