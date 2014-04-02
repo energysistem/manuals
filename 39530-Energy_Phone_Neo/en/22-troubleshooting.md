@@ -23,11 +23,11 @@ It is always better to reboot the device through one of the options available wi
 8.	The built-in memory of the Energy Phone Neo has 4GB, but the available memory is lower. Why? 
 The Android™ operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than 4GB.
 
-9.	I updated the firmware but I no longer have any multimedia files nor wallpaper. How can I retrieve the contents that came preinstalled? 
-Before any system update, we recommend making a backup of everything you want to keep. In energysistem.com, you will find not only all the content that came preinstalled in your Energy Phone, but many more multimedia files and additional wallpapers.
+9.	I updated the firmware but I no longer have any multimedia files nor wallpapers. How can I retrieve the contents that came preinstalled? 
+Before any system update, we recommend making a backup of everything you want to keep. In www.energysistem.com, you will find not only all the content that came preinstalled in your Energy Phone, but many more multimedia files and additional wallpapers.
 
 10.	What must I do to install an application? 
-Firstly, make sure that the file has the Android™ application extension (.APK), secondly Android™ will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
+First, make sure that the file has the Android™ application extension (.APK). Android™ will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
 
 11.	How long does the battery last? 
 It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The Energy Phone Neo battery lasts up to 120 hours on standby and 2.5 hours talking.
