@@ -1,15 +1,11 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem™ te agradece la compra de tu nuevo Energy Phone Neo. Deseamos que lo disfrutes.
-* Este dispositivo pertenece a la familia Energy Smartphone: una nueva generación de dispositivos de comunicación
-basada en el sistema operativo Android™, con el que podrás acceder a Internet y comunicarte en cualquier
-momento y lugar, consultar tu correo electrónico y reproducir todo tipo de contenido multimedia (vídeos en alta
-definición hasta 1080p, música, fotografías, eBooks, etc.).
-Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle el máximo provecho al
-dispositivo.
-El sistema dispone de una pantalla multi-táctil capacitiva de 4.5” (540x960 píxeles), procesador ARM Cortex
-A7 Dual Core 1.3GHz, Bluetooth 4.0, WiFi, GPS, conexión 3G y cámaras frontal y trasera.
-* Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
-aprovechando al máximo sus prestaciones.
+* Energy Sistem™ lhe agradece a compra do seu Energy Phone Neo. Esperamos que desfrute deste aparelho.
+* Este dispositivo pertence a família dos Energy Smartphone: uma nova geração de dispositivos baseada no sistema operativo Android™, com o qual poderá aceder à Internet em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir todo tipo de conteúdo multimédia (vídeos em alta definição até 1080p, músicas, fotografias, eBooks, etc.).
 
-## * Encuentra el manual completo del *Energy Wireless BT5+* en el siguiente enlace  http://www.energysistem.com/guide/39930.</unique></quick_guide>
+Ademais, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo proveito do dispositivo.
+O sistema dispõe de uma tela capacitiva de 4.5” (540x960 píxeis) com sensor multi-táctil, processador ARM Cortex A7 Dual Core 1.3 GHz, Bluetooth 4.0, WiFi, GPS, conexão 3G e câmaras frontal e traseira.
+
+* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
+
+## * Encontre o manual completo dos Energy Wireless BT Sport no seguinte link http://www.energysistem.com/guide/39930.</unique></quick_guide>
