@@ -1,6 +1,6 @@
 ## <quick_guide> Introducción
 
-* Energy Sistem™ te agradece la compra de tu nuevo Energy Phone Neo. Deseamos que lo disfrutes.
+* Energy Sistem™ te agradece la compra de tu nuevo Energy Phone 3 Neo. Deseamos que lo disfrutes.
 * Este dispositivo pertenece a la familia Energy Smartphone: una nueva generación de dispositivos de comunicación
 basada en el sistema operativo Android™, con el que podrás acceder a Internet y comunicarte en cualquier
 momento y lugar, consultar tu correo electrónico y reproducir todo tipo de contenido multimedia (vídeos en alta
