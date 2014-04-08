@@ -16,3 +16,4 @@
 13. Slot para cartão SIM 2.
 14. Bateria.
 15. Número de série e números IMEI.
+</quick_guide>
