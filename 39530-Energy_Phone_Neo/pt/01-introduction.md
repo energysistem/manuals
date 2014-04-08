@@ -5,7 +5,7 @@
 
 Ademais, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo proveito do dispositivo.
 O sistema dispõe de uma tela capacitiva de 4.5” (540x960 píxeis) com sensor multi-táctil, processador ARM Cortex A7 Dual Core 1.3 GHz, Bluetooth 4.0, WiFi, GPS, conexão 3G e câmaras frontal e traseira.
-
+</quick_guide>
 * Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
-## * Encontre o manual completo dos Energy Wireless BT Sport no seguinte link http://www.energysistem.com/guide/39930.</unique></quick_guide>
+## <unique> * Encontre o manual completo dos Energy Smartphone Neo no seguinte link http://www.energysistem.com/guide/39530.
