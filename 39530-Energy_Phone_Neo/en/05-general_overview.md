@@ -15,3 +15,4 @@
 13. SIM 2 card slot 
 14. Battery 
 15. Serial and IMEI number
+</quick_guide>
