@@ -13,5 +13,5 @@ A7 Dual Core 1.3GHz, Bluetooth 4.0, WiFi, GPS, conexión 3G y cámaras frontal y
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
 
-<unique>
-##  * Encuentra el manual completo del *Energy Phone Neo* en el siguiente enlace  http://www.energysistem.com/guide/39530.</unique>
+
+## <unique> * Encuentra el manual completo del *Energy Phone Neo* en el siguiente enlace  http://www.energysistem.com/guide/39530
