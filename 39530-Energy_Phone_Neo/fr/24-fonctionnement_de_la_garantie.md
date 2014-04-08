@@ -12,6 +12,6 @@ Les spécifications sont sujettes à changement sans préavis
 
 Marques commerciales: Tous les autres noms de produits ou d’entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
-© 2013 par Energy Sistem Soyntec S.A. Tous droits réservés.
+© 2014 par Energy Sistem Soyntec S.A. Tous droits réservés.
 
 </quick_guide>
