@@ -9,7 +9,8 @@ In addition, there are thousands of applications and games available so you can 
 device.
 The device has a 4.5” (540x960 pixels) capacitive multi-touch display, Dual Core ARM Cortex
 A7 1.3GHz processor, Bluetooth 4.0, WiFi, GPS, 3G connectivity and rear and front cameras.
+</quick_guide>
 * We recommend you to read this manual to enjoy your device in a safe way and 
 with maximum performance.
 
-## * Find the whole *Energy Wireless BT5+* user manual on the following link   http://www.energysistem.com/guide/39930.</unique></quick_guide>
+## <unique> * Find the whole *Energy Smartphone Neo* user manual on the following link   http://www.energysistem.com/guide/39530.
