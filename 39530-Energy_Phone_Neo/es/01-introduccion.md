@@ -9,7 +9,8 @@ Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle 
 dispositivo.
 El sistema dispone de una pantalla multi-táctil capacitiva de 4.5” (540x960 píxeles), procesador ARM Cortex
 A7 Dual Core 1.3GHz, Bluetooth 4.0, WiFi, GPS, conexión 3G y cámaras frontal y trasera.
+</quick_guide>
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
 
-## * Encuentra el manual completo del *Energy Wireless BT5+* en el siguiente enlace  http://www.energysistem.com/guide/39930.</unique></quick_guide>
+## <quick_guide> * Encuentra el manual completo del *Energy Phone Neo* en el siguiente enlace  http://www.energysistem.com/guide/39530.</unique></quick_guide>
