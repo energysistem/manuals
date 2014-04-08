@@ -16,3 +16,5 @@
 13. Ranura de tarjeta SIM 2. 
 14. Batería. 
 15. Número de serie y números IMEI.
+
+</quick_guide>
