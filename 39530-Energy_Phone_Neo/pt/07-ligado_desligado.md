@@ -5,4 +5,4 @@ Antes de ligar seu Energy Smartphone, assegure que os cartões SIM estão inseri
 Para tal, insira o número PIN dos seus cartões SIM e depois, arraste com o dedo o ícone do cadeado para fora do círculo. Para desligar o dispositivo mantenha apertado o botão de ligado / desligado (11) a até que apareça o menu de desligado. Em seguida, escolha a opção “Desligar”.
 
 Um breve toque no botão ligar/desligar (15) bloqueia/desbloqueia o dispositivo, ao mesmo tempo que liga/desliga a tela e activa o modo de economia de energia.
-
+</quick_guide>
