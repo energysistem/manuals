@@ -16,3 +16,4 @@
 14.	Fente pour les cartes SIM 2.
 15.	Batterie.
 16.	Numéro de série et numéros IMEI.
+</quick_guide>
