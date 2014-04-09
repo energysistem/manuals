@@ -6,4 +6,4 @@ A Widget can be relocated or removed easily. To relocate a widget, tap and hold 
 
 To remove the widget, tap and hold it for a few seconds and the X icon will appear on the top side of the screen, drag the widget to the X icon and release it.
 
-To add, move or delete applications, you only have to choose the application from the “application and widget” menu (1) and take the same steps.
+To add, move or delete applications, you only have to choose the application from the "application and widget" menu (1) and take the same steps.
