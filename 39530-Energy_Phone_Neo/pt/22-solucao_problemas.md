@@ -27,7 +27,7 @@ O sistema operacional Android#trade# e as aplicações pré-instaladas no dispos
 Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados no seu Energy Phone e muito mais arquivos multimédia e fundos de tela adicionais.
 
 10.	Que devo fazer para que me deixe instalar uma aplicação? 
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde “Fontes desconhecidas”, esta opção está desactivado por segurança.
+Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
 11.	Qual é a autonomia do dispositivo? 
