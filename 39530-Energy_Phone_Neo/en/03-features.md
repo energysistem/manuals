@@ -1,5 +1,5 @@
 ## Key Features
-* Smartphone designed for ANDROID™ 4.2.
+* Smartphone designed for ANDROID#trade# 4.2.
 * 4.5" IPS capacitive display (qHD - 960x540 pixels).
 * Dual Core ARM Cortex A7 1.3GHz processor and Mali-400 GPU.
 * 3G data connection to surf the web 24 hours a day. 
@@ -20,7 +20,7 @@
 * Proximity sensor. 
 * Built-in magnetic sensor. 
 * Installed applications: Internet browser, e-mail client, applications for playing music / videos / photos, FM radio, alarm and calculator.
-* Allows you to install thousands of applications and games available for ANDROID™ operating system.
+* Allows you to install thousands of applications and games available for ANDROID#trade# operating system.
 * Operating frequencies: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
 * Battery capacity: 1.400mAh.
 * SAR rating: 0.436 (W/Kg) at the ear and 0.444 (W/Kg) at the body (10mm distance).
