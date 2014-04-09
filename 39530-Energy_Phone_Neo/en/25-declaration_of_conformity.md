@@ -12,8 +12,6 @@ We declare under our own exclusive responsibility that the product:
 _**Manufacturing Country:**_ China  
 Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed at the end of life separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
+**Note:** The present device could contain connections to other sites or websites operated by third parties not related to Energy Sistem Soyntec S.A. These connections are provided for your information or convenience; Energy Sistem Soyntec S.A is not responsible for their availability, content, update, adequacy or accuracy.
 
-</quick_guide>
+These external connections might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All the rights reserved are property of their respective owners, and your are not granted with any license or right related to those brand names, patents, industrial sectrets, technologies, products, processes or other rights property of other companies or individuals.
