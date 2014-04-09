@@ -21,7 +21,7 @@
 * Sensor de proximidad. 
 * Sensor magnético integrado. 
 * Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / videos / fotos, radio FM, alarma y calculadora.
-* Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID™.
+* Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID#trade#.
 * Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz
 * Capacidad de batería: 1.400mAh.
 * Medición SAR: 0.436 (W/Kg) a la oreja y 0.444 (W/Kg) al cuerpo (a 10mm de distancia).
