@@ -7,7 +7,7 @@ momento y lugar, consultar tu correo electrónico y reproducir todo tipo de cont
 definición hasta 1080p, música, fotografías, eBooks, etc.).
 Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle el máximo provecho al
 dispositivo.
-El sistema dispone de una pantalla multi-táctil capacitiva de 4.5” (540x960 píxeles), procesador ARM Cortex
+El sistema dispone de una pantalla multi-táctil capacitiva de 4.5" (540x960 píxeles), procesador ARM Cortex
 A7 Dual Core 1.3GHz, Bluetooth 4.0, WiFi, GPS, conexión 3G y cámaras frontal y trasera.
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
