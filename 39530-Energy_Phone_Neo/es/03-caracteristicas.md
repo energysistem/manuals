@@ -1,6 +1,6 @@
 ## Principales Características
 
-* Smartphone optimizado para ANDROID™ 4.2.
+* Smartphone optimizado para ANDROID#trade# 4.2.
 * Pantalla capacitiva IPS de 4.5" (qHD - 960x540 pixeles).
 * Procesador de doble núcleo ARM Cortex A7 1.3GHz y GPU Mali-400.
 * Conexión 3G para disfrutar de Internet cuando quieras. 
