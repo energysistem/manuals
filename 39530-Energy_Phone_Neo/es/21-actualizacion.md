@@ -1,6 +1,6 @@
 ## Actualización
 
-Tu Energy Phone tiene un sistema operativo instalado basado en Android™, que es posible reinstalar
+Tu Energy Phone tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar
 o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu
 Energy Phone se conectará automaticamente con nuestros servidores, hará la descarga e instalará el
 nuevo software en cuanto tengamos una nueva actualización lista para usar. 
@@ -19,7 +19,7 @@ proporcionado y espera a que la batería se cargue del todo.
 
 2. Accede a la página web www.energysistem.com desde tu ordenador.
 
-3. Entra en la sección “Soporte” y elige el tipo de producto “Smartphone”.
+3. Entra en la sección "Soporte" y elige el tipo de producto "Smartphone".
 
 4. Elige tu modelo de Energy Phone de la lista desplegable que aparecerá y a continuación descarga la
 última versión sistema operativo Android™ disponible.
