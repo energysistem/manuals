@@ -1,4 +1,4 @@
-## Lecture de musique.
+## Lecture de musique
 
 1.	Liste de fichiers.
 2.	Liste de lecture.

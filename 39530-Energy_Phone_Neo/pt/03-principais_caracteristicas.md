@@ -1,6 +1,6 @@
 ## Principais características
 
-* Smartphone otimizado para ANDROID™ 4.2.
+* Smartphone otimizado para ANDROID#trade# 4.2.
 * Tela capacitiva IPS de 4.5" (qHD - 960x540 píxeis).
 * Processador dual core ARM Cortex A7 1.3GHz e GPU Mali-400.
 * Conexão 3G para desfrutar da Internet quando você deseje.
@@ -21,7 +21,7 @@
 * Sensor de proximidade.
 * Sensor magnético integrado.
 * Aplicações instaladas: navegador de Internet, gerente de correio eletrônico, aplicações para a lectura de música / vídeos / fotos, radio FM, alarme e calculadora.
-* Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operacional ANDROID™.
+* Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operacional ANDROID#trade#.
 * Frequências da operação: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz
 * Capacidade da bateria: 1.400mAh.
 * Medição SAR: 0.436 (W/Kg) na orelha e 0.444 (W/Kg) no corpo (à 10mm de distância).
