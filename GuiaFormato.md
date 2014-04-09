@@ -28,7 +28,7 @@ Para que se pueda extraer una guía rápida del manual, es necesario que pongas 
 
 En caso de que haya algo que quieras que aparezca **únicamente** en la guia rápida y no en el manual online, debes encerrar ese texto entre las siguientes marcas:
 >
-\<unique> Este texto aparecerá sólo en la guía rápida</unique>
+\<unique> Este texto aparecerá sólo en la guía rápida \</unique>
 
 ### Formato
 
