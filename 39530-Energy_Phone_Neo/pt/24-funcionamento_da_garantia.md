@@ -10,6 +10,6 @@ Importante: Esta garantia não cobre qualquer dano ou perda de quaisquer dados a
 As especificações estão sujeitas a alterações sem aviso prévio.
   
 Marcas Registradas. Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
-©2013 por Energy Sistem®. Todos os direitos reservados.
+©2014 por Energy Sistem®. Todos os direitos reservados.
 
 </quick_guide>
