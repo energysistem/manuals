@@ -4,5 +4,5 @@ Energy Sistem Soyntec S.A. é responsável por qualquer falta de conformidade qu
 
 Esta garantia cobre defeitos de fabricação ou materiais. Esta garantia não cobre qualquer defeito do produto devido a acidentes, mau uso ou alteração feita por uma pessoa não autorizada.
 
- A garantia especial de 36 meses é válida para a União Européia. Para outros países, consulte a sua legislação específica ou o seu distribuidor local.
+A garantia especial de 36 meses é válida para a União Européia. Para outros países, consulte a sua legislação específica ou o seu distribuidor local.
 </quick_guide>
