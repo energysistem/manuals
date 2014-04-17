@@ -1,7 +1,7 @@
-## <quick_guide> Introducción
+## <quick_guide> Introdução
 
-* Energy Sistem® te agradece que hayas adquirido el *Energy Bluetooth Music Box BZ1*, deseamos que lo disfrutes.
-* Altavoz portátil con tecnología Bluetooth® y función manos libres. Disfruta sin cables de la música almacenada en tu smartphone, tablet o pc. Podrás llevártelo donde quieras y deleitarte con su sonido lleno de detalles durante horas gracias a su potente batería.
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones. 
+* Energy Sistem® agradece-lhe a aquisição do *Energy Bluetooth Music Box BZ1*, desejamos-lhe que o desfrute.
+* Alto-falante portátil com tecnología Bluetooth® e função mãos livre. Desfruta sem fios da música armazenada no seu smartphone, tablet ou pc. Poderá levá-lo consigo por onde você queira e deleitar-se com o seu som estéreo durante horas com sua potente bateria.
+* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações. 
 <unique> 
-* Encuentra el manual completo del *Energy Bluetooth Music Box BZ1* en el siguiente enlace http://www.energysistem.com/guide/39974 </unique> </quick_guide>
+* Encontre o manual completo dos Energy Wireless BT Sport no seguinte link http://www.energysistem.com/guide/39974  </unique> </quick_guide>
