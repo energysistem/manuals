@@ -25,7 +25,7 @@
 * Sensibilidade do microfone principal: 42dB
 *	Sensibilidade do microfone secundário: 45dB
 
-### Características da bateria de lítio recarregáve
+### Características da bateria de lítio recarregável
 
 * Capacidade: 100mAh
 - Sistema de carregamento por USB
