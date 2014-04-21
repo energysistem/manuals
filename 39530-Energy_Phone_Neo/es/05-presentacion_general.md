@@ -3,8 +3,8 @@
 |:-------|:-------|
 |1. Sensores de luminosidad y de proximidad.<br>
 2. Salida de auriculares.<br>
-3. Altavoz frontal.
-4. Entrada USB OTG/HOST.
+3. Altavoz frontal.<br>
+4. Entrada USB OTG/HOST.<br>
 5. Cámara frontal.
 6. Cámara trasera. 
 7. Botón de volumen. 
