@@ -6,7 +6,7 @@
 * Pulsación
 
 Pulsa brevemente la pantalla
-
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535569b2b5b35.jpg)
 
 * Doble pulsación
 
