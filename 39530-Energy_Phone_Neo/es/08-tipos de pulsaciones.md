@@ -25,7 +25,7 @@ Mueve el dedo sobre la superficie sin perder el contacto
 
 Desliza el dedo rápidamente sobre la pantalla
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aaed15c2.jpg)
 
 * Presionar
 
