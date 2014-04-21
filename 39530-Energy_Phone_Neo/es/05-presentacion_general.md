@@ -1,5 +1,6 @@
 ## <quick_guide> Presentación general
-
+|  |  |
+|:-------|:-------|
 1. Sensores de luminosidad y de proximidad.
 2. Salida de auriculares.
 3. Altavoz frontal.
