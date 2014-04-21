@@ -1,8 +1,7 @@
 ## <quick_guide> Presentación general
 |  |  |
 |:-------|:-------|
-|1. Sensores de luminosidad y de proximidad.<br>
-2. Salida de auriculares.<br>
+|1. Sensores de luminosidad y de proximidad.<br> 2. Salida de auriculares.<br>
 3. Altavoz frontal.<br>
 4. Entrada USB OTG/HOST.<br>
 5. Cámara frontal.
