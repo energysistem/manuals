@@ -1,7 +1,7 @@
 ## <quick_guide> Presentación general
 |  |  |
 |:-------|:-------|
-1. Sensores de luminosidad y de proximidad.
+|1. Sensores de luminosidad y de proximidad.
 2. Salida de auriculares.
 3. Altavoz frontal.
 4. Entrada USB OTG/HOST.
@@ -16,6 +16,6 @@
 12. Ranura de tarjeta SIM 1. 
 13. Ranura de tarjeta SIM 2. 
 14. Batería. 
-15. Número de serie y números IMEI.
+15. Número de serie y números IMEI.|
 
 </quick_guide>
