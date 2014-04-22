@@ -10,12 +10,12 @@ Este símbolo indica que este producto incorpora doble aislamiento entre la alim
 
 PRECAUCIÓN: Para reducir el riesgo de incendios o descargas eléctricas no exponga este aparato a la lluvia.
 Consideraciones sobre seguridad
-≥≥Coloca los cables a fin de que no se puedan pisar, pinchar o cortar.
-≥≥No uses el D2600 en condiciones húmedas.
-≥≥No permitas que el D2600 se moje.
-≥≥No expongas el D2600 a goteos o salpicaduras.
-≥≥No coloques objetos llenos de agua tales como floreros en la parte superior del D2600.
-≥≥No coloques fuentes de llama desnuda, como velas, en la parte superior del D2600.
+* Coloca los cables a fin de que no se puedan pisar, pinchar o cortar.
+* No uses el D2600 en condiciones húmedas.
+* No permitas que el D2600 se moje.
+* No expongas el D2600 a goteos o salpicaduras.
+* No coloques objetos llenos de agua tales como floreros en la parte superior del D2600.
+* No coloques fuentes de llama desnuda, como velas, en la parte superior del D2600.
 Ventilación
 Las ranuras y aberturas en el D2600 son para la ventilación. No las cubras o bloquees, ya que puede causar un sobrecalentamiento.
 NUNCA permitas que los niños introduzcan nada en los orificios o ranuras.
