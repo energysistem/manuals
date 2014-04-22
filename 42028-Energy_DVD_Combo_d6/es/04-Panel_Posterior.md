@@ -1,6 +1,6 @@
 ## 2. PANEL POSTERIOR
 
-![Imagen1](URL: http://static.energysistem.com/images/manuals/42028/53564ed369362.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/5356583d2f6ed.jpg)
 
 1. RF IN: Conexión de antena.
 2. RF LOOPTHROUGH: Proporciona a la entrada de radiofrecuencia de la TV u otro receptor la señal proveniente de la antena externa.
