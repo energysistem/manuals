@@ -55,24 +55,30 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 * Ordenar
 
   Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
-  * 
-7.2.2. Búsqueda de cadenas
-≥≥Búsqueda Automática
-Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes. Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas. Seleccione “No” para añadir las cadenas nuevas a la lista. Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
-≥≥Búsqueda Manual
-Con la búsqueda manual puede sintonizar una cadena en particular. Introduzca luego el número de la cadena que desea y confírmela mediante el botón OK. Las cadenas sintonizadas manualmente se añadirán a la lista, pero el aparato no saldrá automáticamente del menú donde se encuentra.
-7.2.3. Control Paterno
-≥≥Bloqueo de las cadenas
-Seleccione la opción “Bloq. Canal” para bloquear la selección de una cadena. Para activar el bloqueo no necesita introducir ningún código. En cambio, para desactivarlo, sí necesitará introducir código.
-≥≥Configuración paterna
-Las opciones de Configuración paterna y Bloqueo de canal sirven para bloquear el acceso a alguna cadena. Antes de acceder a la página de Configuración paterna necesitará introducir el código PIN. Con este menú podrá seleccionar aquellas cadenas que desea bloquear. Una vez haya bloqueado su acceso, el sistema le pedirá el código PIN para visualizar las cadenas bloqueadas.
+
+#### 7.2.2. Búsqueda de cadenas
+* Búsqueda Automática
+  Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes. Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas. Seleccione “No” para añadir las cadenas nuevas a la lista. Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
+
+* Búsqueda Manual
+
+  Con la búsqueda manual puede sintonizar una cadena en particular. Introduzca luego el número de la cadena que desea y confírmela mediante el botón OK. Las cadenas sintonizadas manualmente se añadirán a la lista, pero el aparato no saldrá automáticamente del menú donde se encuentra.
+
+#### 7.2.3. Control Paterno
+
+* Bloqueo de las cadenas
+  Seleccione la opción “Bloq. Canal” para bloquear la selección de una cadena. Para activar el bloqueo no necesita introducir ningún código. En cambio, para desactivarlo, sí necesitará introducir código.
+* Configuración paterna
+  Las opciones de Configuración paterna y Bloqueo de canal sirven para bloquear el acceso a alguna cadena. Antes de acceder a la página de Configuración paterna necesitará introducir el código PIN. Con este menú podrá seleccionar aquellas cadenas que desea bloquear. Una vez haya bloqueado su acceso, el sistema le pedirá el código PIN para visualizar las cadenas bloqueadas.
 Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
-7.2.4. Configuración del Sistema
-≥≥Antena (Alimentación Antena)
-Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El D2600 es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
-≥≥País
-Seleccione esta opción para elegir el país de recepción de las señales DVB.
-≥≥Idioma
+
+#### 7.2.4. Configuración del Sistema
+* Antena (Alimentación Antena)
+  Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El D2600 es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
+* País
+  Seleccione esta opción para elegir el país de recepción de las señales DVB.
+* Idioma
+* 
 El submenú Idioma tiene 3 opciones:
 “Audio 1” y “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”.
 Subtítulos: Seleccione esta opción para configurar el idioma de los subtítulos.
