@@ -1,4 +1,4 @@
-## 5. Conexiones
+## 5. CONEXIONES
 
 Precaución: Asegúrate que la tensión de la toma de corriente es la misma que la del receptor.
 
