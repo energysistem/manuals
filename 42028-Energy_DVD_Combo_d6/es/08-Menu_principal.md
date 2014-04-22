@@ -61,7 +61,9 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 * Búsqueda Automática
 
   Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
+  
   Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas.
+  
   Seleccione “No” para añadir las cadenas nuevas a la lista.
   Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
 
