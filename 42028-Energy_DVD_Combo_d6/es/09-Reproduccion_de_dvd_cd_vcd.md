@@ -3,7 +3,6 @@
 > Nota: Este dispositivo no es compatible con el formato DIVX3.
 
 * Abrir/Cerrar
-
         Pulse este botón para abrir la bandeja del disco. Vuelva a pulsar este botón para cerrar la bandeja del disco. La reproducción del disco se iniciará de forma automática.Nota: Introduzca el disco con la cara impresa hacia arriba.
     
 * Reproducción/Pausa
