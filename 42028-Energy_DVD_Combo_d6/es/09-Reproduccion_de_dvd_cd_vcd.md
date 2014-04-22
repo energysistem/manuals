@@ -74,5 +74,17 @@ El D6 permite seleccionar el orden de reproducción de títulos, capítulos o pi
 
 El D6 permite la repetición de la reproducción de un título, un capítulo o una pista.
 
-> Nota: Durante la reproducción de un VCD/SVCD la repetición sólo estará disponible si la función PCB está desactivada.Botón REPEAT: DVDs: Desactivado > Capítulo > Título CD /VCD/SVCD: Desactivado > Pista > Todo Archivos MP3 / JPEG / WMA: Desactivado > Fichero > Carpeta > TodoBotón A-BPulsa el botón A-B para establecer el inicio del segmento (punto A).Pulsa el botónA-B de nuevo para establecer el final del segmento (punto B).El segmento seleccionado se repetirá hasta que pulses de nuevo el botón A-B.Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
+> Nota: Durante la reproducción de un VCD/SVCD la repetición sólo estará disponible si la función PCB está desactivada.
+
+* Botón REPEAT:
+    * DVDs: Desactivado > Capítulo > Título
+    * CD /VCD/SVCD: Desactivado > Pista > Todo
+    * Archivos MP3 / JPEG / WMA: Desactivado > Fichero > Carpeta > Todo
+
+* Botón A-B:
+
+    * Pulsa el botón A-B para establecer el inicio del segmento (punto A).
+    * Pulsa el botón A-B de nuevo para establecer el final del segmento (punto B).
+    El segmento seleccionado se repetirá hasta que pulses de nuevo el botón A-B.
+    > Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
 
