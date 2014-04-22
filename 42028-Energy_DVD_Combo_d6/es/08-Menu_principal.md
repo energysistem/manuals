@@ -39,14 +39,15 @@ En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona�
 La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
  * Favoritos
 
-> Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
+  Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
  
  * Lista
 
- Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
+  Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
+ 
  * Borrar
 
- Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
+  Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
 
 * Emisoras de Radio
  * La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
