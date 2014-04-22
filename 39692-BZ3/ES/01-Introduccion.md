@@ -1,7 +1,7 @@
 ## <quick_guide> Introducción
 
 * Energy Sistem® te agradece que hayas adquirido el *Energy Bluetooth Music Box BZ3*, deseamos que lo disfrutes.
-* Altavoz portátil con tecnología Bluetooth® y función manos libres. Disfruta sin cables de la música almacenada en tu smartphone, tablet o pc. Podrás llevártelo donde quieras y deleitarte con su sonido lleno de detalles durante horas gracias a su potente batería.
+* Reproductor MP3 portátil con tecnología Bluetooth®. Disfruta de tu música sin cables desde cualquier dispositivo Bluetooth® además de reproducir tus canciones MP3 a través de USB, SD/MMC y Line-in. Display retroiluminado, FM, y batería recargable.
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones. 
 <unique> 
-* Encuentra el manual completo del *Energy Bluetooth Music Box BZ3* en el siguiente enlace http://www.energysistem.com/guide/39974 </unique> </quick_guide>
+* Encuentra el manual completo del *Energy Bluetooth Music Box BZ3* en el siguiente enlace http://www.energysistem.com/guide/39692 </unique> </quick_guide>
