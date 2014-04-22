@@ -89,7 +89,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 * Idioma
 
   El submenú Idioma tiene 2 opciones:
- * “Audio 1” o “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”.
+ * “Audio 1” o “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”. Estos distintos tipos de audio son, normalmente, el idioma del país en el que se encuentra y el idioma en versión original.
  * Subtítulos: Seleccione esta opción para configurar el idioma de los subtítulos.
 
   La función Idioma sólo está operativa si la cadena tiene varios idiomas disponibles. En caso contrario, el idioma de la cadena se selecciona automáticamente.
@@ -97,26 +97,44 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 * Huso GMT
 
   Seleccione esta opción para activar o desactivar el huso GMT. La opción “Zona horaria” no está disponible si esta función está activada. Si la función está activada entonces seleccione la zona horaria donde se encuentre.
-≥≥Zona horaria
-Seleccione esta función para elegir la zona horaria en la que se encuentre.
-≥≥Programación
-Seleccione esta función para programar la visualización de cadenas. Puedes almacenar hasta 10 programaciones.
-7.3. CONFIGURACIÓN DE SISTEMA
-7.3.1. Configuración Idioma
-≥≥OSD: Selección del idioma de visualización en pantalla.
-7.3.2. Configuración pantalla
-≥≥Sistema TV
-Selecciona uno de los siguientes sistemas: NTSC, PAL o AUTO (Multi) para que coincida con el usado por tu TV.
-≥≥Formato TV
-4:3PS – Selecciona este formato para visualizar las imágenes 4:3 sin deformación alguna. Unas franjas negras aparecerán en los laterales derecho e izquierdo de la pantalla.
-4:3LB – Selecciona este formato cuando la unidad está conectada a un televisor de 4:3. Las imágenes panorámicas se visualizarán con unas franjas negras en las partes superior e inferior de la pantalla.
-16:9 – Selecciona este formato para visualizar las imágenes panorámicas en un televisor panorámico.
-≥≥Salida video
-Selecciona la salida de video: CVBS (Video compuesto) o RGB (Euroconector o video por componentes).
-≥≥Brillo
+
+* Zona horaria
+
+  Seleccione esta función para elegir la zona horaria en la que se encuentre.
+
+* Programación
+
+  Seleccione esta función para programar la visualización de cadenas. Puedes almacenar hasta 10 programaciones.
+
+### 7.3. CONFIGURACIÓN DE SISTEMA
+
+####7.3.1. Configuración Idioma
+
+* OSD: Selección del idioma de visualización en pantalla.
+
+#### 7.3.2. Configuración pantalla
+
+* Sistema TV
+  
+  Selecciona uno de los siguientes sistemas: NTSC, PAL o AUTO (Multi) para que coincida con el usado por tu TV.
+
+* Formato TV
+ * 4:3PS – Selecciona este formato para visualizar las imágenes 4:3 sin deformación alguna. Unas franjas negras aparecerán en los laterales derecho e izquierdo de la pantalla.
+ * 4:3LB – Selecciona este formato cuando la unidad está conectada a un televisor de 4:3. Las imágenes panorámicas se visualizarán con unas franjas negras en las partes superior e inferior de la pantalla.
+ * 16:9 – Selecciona este formato para visualizar las imágenes panorámicas en un televisor panorámico.
+
+* Salida video
+
+  Selecciona la salida de video: CVBS (Video compuesto) o RGB (Euroconector o video por componentes).
+
+* Brillo
+  
 Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, “Brillante” o “Suave”.
-≥≥Contraste
-Ajusta el contraste de la pantalla.
+
+* Contraste
+
+  Ajusta el contraste de la pantalla.
+ 
 7.3.3. Preferencias
 ≥≥Estilo UI (interfaz)
 Dispone de 4 estilos diferentes para elegir.
