@@ -42,3 +42,22 @@ información adicional del canal.
 
 Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del
 canal.
+
+### 4.2. Instalación de las pilas
+
+Retira la tapa de las pilas en el mando a distancia y coloca pilas de tipo AAA.
+El siguiente diagrama indica la forma correcta de insertar las pilas.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42028/535677c71d9e9.jpg)
+
+### 4.3. Utilizando el mando a distancia
+
+Para utilizar el mando a distancia, dirígelo hacia la parte frontal del receptor.
+El mando a distancia tiene un alcance de 5 metros desde el receptor en un ángulo de hasta 60
+grados.
+30º 30º
+
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53567865ad46a.jpg)
+
+El mando a distancia no funcionará si el camino hacia el receptor está bloqueado.
+La luz del sol u otra luz muy intensa pueden reducir la sensibilidad del mando a distancia.
