@@ -9,7 +9,7 @@ de la conexión.
 
 ### 5.1 CONEXIÓN DE ANTENA
 
-![Imagen1](ttp://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
 
 ### 5.2 CONEXIÓN SCART
 
