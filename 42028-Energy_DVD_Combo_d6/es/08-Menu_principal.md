@@ -67,24 +67,36 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 #### 7.2.3. Control Paterno
 
 * Bloqueo de las cadenas
+  
   Seleccione la opción “Bloq. Canal” para bloquear la selección de una cadena. Para activar el bloqueo no necesita introducir ningún código. En cambio, para desactivarlo, sí necesitará introducir código.
+
 * Configuración paterna
+
   Las opciones de Configuración paterna y Bloqueo de canal sirven para bloquear el acceso a alguna cadena. Antes de acceder a la página de Configuración paterna necesitará introducir el código PIN. Con este menú podrá seleccionar aquellas cadenas que desea bloquear. Una vez haya bloqueado su acceso, el sistema le pedirá el código PIN para visualizar las cadenas bloqueadas.
-Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
+
+> Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
 
 #### 7.2.4. Configuración del Sistema
+
 * Antena (Alimentación Antena)
+
   Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El D2600 es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
+
 * País
+
   Seleccione esta opción para elegir el país de recepción de las señales DVB.
+  
 * Idioma
-* 
-El submenú Idioma tiene 3 opciones:
-“Audio 1” y “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”.
-Subtítulos: Seleccione esta opción para configurar el idioma de los subtítulos.
-La función Idioma sólo está operativa si la cadena tiene varios idiomas disponibles. En caso contrario, el idioma de la cadena se selecciona automáticamente.
-≥≥Huso GMT
-Seleccione esta opción para activar o desactivar el huso GMT. La opción “Zona horaria” no está disponible si esta función está activada. Si la función está activada entonces seleccione la zona horaria donde se encuentre.
+
+  El submenú Idioma tiene 2 opciones:
+ * “Audio 1” o “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”.
+ * Subtítulos: Seleccione esta opción para configurar el idioma de los subtítulos.
+
+  La función Idioma sólo está operativa si la cadena tiene varios idiomas disponibles. En caso contrario, el idioma de la cadena se selecciona automáticamente.
+
+* Huso GMT
+
+  Seleccione esta opción para activar o desactivar el huso GMT. La opción “Zona horaria” no está disponible si esta función está activada. Si la función está activada entonces seleccione la zona horaria donde se encuentre.
 ≥≥Zona horaria
 Seleccione esta función para elegir la zona horaria en la que se encuentre.
 ≥≥Programación
