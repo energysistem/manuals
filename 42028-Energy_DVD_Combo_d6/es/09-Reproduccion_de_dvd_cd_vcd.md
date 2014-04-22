@@ -88,5 +88,5 @@ El D6 permite la repetición de la reproducción de un título, un capítulo o u
 
     El segmento seleccionado se repetirá hasta que pulses de nuevo el botón A-B.
     
-> Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
+        > Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
 
