@@ -14,12 +14,12 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
 #### 7.1.2. Configuración Audio
 
 * Salida Digital
-** Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
-** SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
-** SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
+  * Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
+  * SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
+  * SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
 * Downmix
-** Lt/Rt: Selecciona esta opción cuando el D2600 esté conectado a un dispositivo compatible con Dolby Pro Logic.
-** Lo/Ro: Selecciona esta opción cuando el D2600 está conectado a un dispositivo estéreo convencional.
+  * Lt/Rt: Selecciona esta opción cuando el D2600 esté conectado a un dispositivo compatible con Dolby Pro Logic.
+  * Lo/Ro: Selecciona esta opción cuando el D2600 está conectado a un dispositivo estéreo convencional.
 
 #### 7.1.3. Configuración Personal
 
