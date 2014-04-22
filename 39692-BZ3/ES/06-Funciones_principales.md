@@ -2,17 +2,17 @@
 <quick_guide>
 ### Encendido y apagado del dispositivo
 
-Utiliza el botón ON/OFF(10) para encender o apagar el dispositivo.
+Utiliza el botón ON/OFF(4) para encender o apagar el dispositivo.
 
-Para encender el dispositivo, desplaza el botón ON/OFF (10) hacia la posición ON y verás que el LED (7) parpadea de color azul. El altavoz emitirá un sonido de bienvenida que indica que el dispositivo está encendido. 
+Para encender el dispositivo, mantén pulsado el botón ON/OFF (4) durante 2 segundos. El altavoz emitirá un sonido de bienvenida que indica que el dispositivo está encendido y se encenderá el DISPLAY (8). 
 
-Para apagar el dispositivo, desplaza el botón ON/OFF (10) hacia la posición OFF.
+Para apagar el dispositivo, mantén pulsado el botón ON/OFF (4) durante 2 segundos.
 
-Mientras el dispositivo esté encendido, el LED indicador (7) se mantendrá iluminado en verde o azul en función del modo de reproducción.
+Mientras el dispositivo esté encendido, el DISPLAY (8) se mantendrá iluminado en color azul con la información del modo de reproducción.
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo line-in basta con conectar el cable de audio (incluido) a la conexión line-in (9). Para cambiar entre los distintos modos de reproducción pulsa el botón menú (5). En modo line-in el indicador LED (6) cambia a color verde fijo. 
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo reproducción USB basta con conectar la memoria USB a la conexión USB (10). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3). 
 
 </quick_guide>
 
