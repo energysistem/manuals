@@ -3,37 +3,3 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53564f94c7818.jpg)
 
-1. STANDBY: Enciende/apaga (modo espera) el D2600.
-2. MUTE: Activa/desactiva el sonido.
-3. REV: Retroceso.
-4. FWD: Avance.
-5. SETUP: Menú de configuración.
-6. CH+/-: Desplazamiento por las pantallas del menú o cambiar los canales.
-7. VOL+/-: Desplazamiento por las pantallas del menú o cambiar el volumen.
-8. DISPLAY: Muestra la información acerca del canal que se está viendo o información adicional del canal.
-9. TECLAS NUMÉRICAS: Seleccionan canales o números en los menús.
-10. PROGRAM: Programa el orden de reproducción.
-11. TITLE/TTX: Menú principal en modo DVD / Teletexto en modo TDT.
-TECLAS DE COLOR (ROJO/VERDE/AMARILLO/AZUL): Selecciona diferentes funciones de teletexto o en los menús.
-12. REPEAT: Cambia entre las diferentes opciones de repetición.
-13. A-B: Define una secuencia y la repite.
-14. EPG: Muestra la programación del canal actual.
-15. FAVORITE: Accede a los canales favoritos.
-16. VCR: Cambia entre la señal proveniente del dispositivo conectado al euroconector de entrada y el DVD/TDT.
-17. OPEN/CLOSE: Abre/cierra la bandeja de disco.
-18. PLAY/PAUSE: Para o reinicia la reproducción en curso.
-19. PREVIOUS: Retrocede un capítulo/pista/archivo o comienza a reproducir desde el principio del actual.
-20. NEXT: Avanza un capítulo/pista/fichero.
-21. STOP: Detiene la reproducción en curso.
-22. SOURCE: Cambia entre modo reproductor de disco / sintonizador.
-23. OK: Confirma una selección en un menú.
-24. RETURN/EXIT: Vuelve a la pantalla o menú anterior.
-25. SLOW: Reproducción lenta.
-26. GOTO: Desplazamiento a un punto en el tiempo, título, capítulo o fichero/carpeta dependiendo del contexto.
-27. AUDIO: Selecciona entre las pistas de audio disponibles o el modo LR (estéreo), LL (izquierda) o RR (derecha).
-28. SUBTITLE: Cambia entre los subtítulos disponibles.
-29. MENU: Menú principal en modo DVD.
-30. ANGLE: Selecciona entre los ángulos de cámara disponibles (DVD).
-31. TV/RADIO: Cambia entre canales de TV y de radio.
-32. ZOOM: Aumenta la imagen.
-Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del canal.
