@@ -43,16 +43,18 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
  
  * Lista
 
-  Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
+    Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
  
  * Borrar
 
-  Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
+    Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
 
 * Emisoras de Radio
- * La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
+
+  La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
 * Ordenar
-  * Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
+
+  Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
   * 
 7.2.2. Búsqueda de cadenas
 ≥≥Búsqueda Automática
