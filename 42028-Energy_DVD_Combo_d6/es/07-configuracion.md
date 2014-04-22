@@ -27,7 +27,9 @@ Introduzca un dispositivo USB en el reproductor. Pulse el botón SOURCE del mand
 
 Cuando se usa el modo TDT por primera vez se mostrará el menú de configuración inicial. Este menú guiará en la primera instalación TDT.
 
-Elige primero “Sí” y pulsa el botón OK. El sistema comenzará con la instalación inicial.
+Elige primero “Sí” y pulsa el botón OK.
+
+El sistema comenzará con la instalación inicial.
 Selecciona la información regional correspondiente (país, idioma OSD y zona horaria). El D6 escaneará automáticamente buscando canales con la configuración regional suministrada.
 
 Selecciona “Sí” para comenzar la búsqueda automática.
