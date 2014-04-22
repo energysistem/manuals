@@ -37,6 +37,7 @@ En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona�
 
 * Cadenas de TV
 La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
+ 
  * Favoritos
 
     Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
@@ -58,7 +59,11 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
 #### 7.2.2. Búsqueda de cadenas
 * Búsqueda Automática
-  Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes. Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas. Seleccione “No” para añadir las cadenas nuevas a la lista. Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
+
+  Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
+  Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas.
+  Seleccione “No” para añadir las cadenas nuevas a la lista.
+  Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
 
 * Búsqueda Manual
 
@@ -135,16 +140,32 @@ Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, 
 
   Ajusta el contraste de la pantalla.
  
-7.3.3. Preferencias
-≥≥Estilo UI (interfaz)
-Dispone de 4 estilos diferentes para elegir.
-≥≥Cambiar PIN
-Cambia la contraseña de control paterno (por defecto “6666”).
-≥≥Tipo predeterminado
-DVD/DVB/USB/Selección usuario/Último usado: Selección de la fuente predeterminada cuando el aparato está encendido.
-≥≥Predeterminado
-Restaura los valores de fábrica.
-≥≥Info Sistema
-La información sobre el sistema incluye el modelo, hardware, software y fecha.
-7.4. JUEGOS
-Tres juegos (Mine, Tetris y Rush Hour) y Calendario.
+#### 7.3.3. Preferencias
+
+* Estilo UI (interfaz)
+
+  Dispone de 4 estilos diferentes para elegir.
+
+* Cambiar PIN
+
+  Cambia la contraseña de control paterno (por defecto “6666”).
+
+* Tipo predeterminado
+
+  DVD o DVB o USB o Selección usuario/Último usado(Selección de la fuente predeterminada cuando el aparato está encendido)
+  
+* Predeterminado
+
+  Restaura los valores de fábrica.
+  
+* Info Sistema
+
+  La información sobre el sistema incluye el modelo, hardware, software y fecha.
+
+### 7.4. JUEGOS
+
+* Tres juegos
+ * Mine
+ * Tetris
+ * Rush Hour
+* Calendario.
