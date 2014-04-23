@@ -12,12 +12,12 @@ Mientras el dispositivo esté encendido, el DISPLAY (8) se mantendrá iluminado 
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar al modo reproducción USB basta con conectar la memoria USB a la conexión USB (10). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3). 
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo line-in basta con conectar el cable de audio (incluido) a la conexión line-in (14). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3). 
 
 </quick_guide>
 
 ### Carga de la batería
 
-Cuando el altavoz ya no emite sonido o comienzas a percibir que a corta distancia emite interferencias en modo bluetooth, es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box BZ3 Bluetooth* (9), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (3) se ilumina en rojo y cuando la carga sea completa se apagará.
+Cuando el altavoz ya no emite sonido o comienzas a percibir que a corta distancia emite interferencias en modo bluetooth, es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box BZ3 Bluetooth* (11), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (10) se ilumina en rojo y cuando la carga sea completa se apagará.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargarla hasta que no se haya agotado completamente. Del mismo modo, no interrumpir el proceso de carga hasta que la batería este completamente cargada.
