@@ -3,5 +3,5 @@ Cada vez que enciendas tu *Energy Music Box BZ3 Bluetooth* automáticamente come
 
 Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta con encender el *Energy Music Box BZ3 Bluetooth* y la sincronización se llevará a cabo de manera automática. 
 
-Si deseas sincronizar otro dispositivo Bluetooth®, basta con mantener pulsado el botón de llamada (5). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
+Si deseas sincronizar otro dispositivo Bluetooth®, basta con mantener pulsado el botón de CONTROL DE LLAMADA (5). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
 </quick_guide>
