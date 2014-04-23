@@ -4,4 +4,4 @@ Una vez sincronizado el *Energy Music Box BZ3 Bluetooth* puedes controlar el vol
 
 Para pausar o reanudar la reprodución, pulsa el botón PLAY/PAUSE (4) una única vez.
 
-Para avanzar o retroceder una canción pulsa los botones SIGUIENTE (7) o ANTERIOR (6).
+Para avanzar o retroceder una canción pulsa los botones de AVANCE (7) o RETROCESO (6).
