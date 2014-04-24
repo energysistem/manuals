@@ -1,5 +1,25 @@
 Este documento contiene la información necesaria relativa a la nomenclatura de los ficheros y directorios en GitHub así como una serie de ejemplos para poder dar el formato adecuado a los capítulos del manual.
 
+### Creación de un nuevo manual
+
+Para la creación un nuevo manual deberás crear un nuevo directorio. Para ello primero asegúrate de no estar en la branch "master", si no en la copia que hayas creado.
+
+A continuación deberás pulsar el símbolo "+" que está a la derecha de Tu_Branch: Manuals/+, dicha opción viene asociada a "Create a new file".
+
+En la nueva página encontrarás una casilla que dice "Name your file...", añade en ella el nombre de tu directorio siguiendo las reglas del apartado posterior a este denominado "Nomenclatura". Tras el nombre debes añadir el símbolo "/" y el nombre de un fichero acabado en .md. Finalmente, añade texto/imágenes en la ventana de edición y pulsa "Commit new file".
+
+Ejemplo:
+
+>39930-Nombre_Producto/00_portada.md
+
+También existe la posibilidad de crear subcarpetas introduciendo más barras "/". 
+
+Ejemplo:
+
+>39930-Nombre_Producto/es/00_portada.md
+
+IMPORTANTE: siempre debes añadir al final ".md"
+
 ### Nomenclatura
 
 Cada manual estará en un directorio que llevará por nombre "Código de producto-" + El texto que tú quieras:
