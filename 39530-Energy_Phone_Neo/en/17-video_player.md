@@ -3,7 +3,6 @@
 2. Share.
 3. Now playing.
 4. Play / Pause.
-5. Full screen. 
-6. Length.
-7. Progress bar.
-8. Elapsed time.
+5. Length.
+6. Progress bar.
+7. Elapsed time.
