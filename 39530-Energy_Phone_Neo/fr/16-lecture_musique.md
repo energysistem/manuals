@@ -1,13 +1,12 @@
 ## Lecture de musique
 
-1.	Liste de fichiers.
-2.	Liste de lecture.
-3.	Visualisation.
-4.	Durée.
-5.	Barre de progression.
-6.	Lecture aléatoire.
-7.	Chanson postérieure.
-8.	Play / pause.
-9.	Chanson antérieur.
-10.	Répéter.
-11.	Temps de lecture.
+1.	Liste de lecture.
+2.	Visualisation.
+3.	Durée.
+4.	Barre de progression.
+5.	Lecture aléatoire.
+6.	Chanson postérieure.
+7.	Play / pause.
+8.	Chanson antérieur.
+9.	Répéter.
+10.	Temps de lecture.
