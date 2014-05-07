@@ -3,7 +3,6 @@
 2.	Partager.
 3.	Film en cours
 4.	Play / Pause.
-5.	Écran complet.
-6.	Durée.
-7.	Barre de progression.
-8.	Temps de lecture.
+5.	Durée.
+6.	Barre de progression.
+7.	Temps de lecture.
