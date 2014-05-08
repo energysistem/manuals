@@ -34,3 +34,4 @@
 * Charging time: 2~3 hours
 * Battery capacity: 500mA
 * USB charging system
+* Battery life up to 8 hours in Bluetooth mode
