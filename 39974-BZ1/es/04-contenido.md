@@ -1,6 +1,6 @@
 ## <quick_guide> Contenido del producto
 
-* Altavoz Energy Bluetooth Music Box BZ1
+* Altavoz Energy Music Box BZ1 Bluetooth
 * Cable USB
 * Cable de audio
 * Guía rápida
