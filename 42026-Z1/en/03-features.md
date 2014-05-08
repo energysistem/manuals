@@ -3,7 +3,7 @@
 ### General features
 
 * Play MP3 files from micro SD/SDHC up to 32GB.
-* 3.5 mm "line-in" port: listen to music from any portable player or even PC.
+* 3.5 mm line-in port: listen to music from any portable player or even PC.
 * Sound freedom: Share and listen to your music wirelessly everywhere.
 * Clear and clean sound across the audio spectrum.
 * Portable and compact design that allows you to take it everywhere with you and amplify your music.
@@ -32,3 +32,4 @@
 * Charging time: 2~3 hours
 * Battery capacity: 500mA
 * USB charging system
+* Battery life up to 8h in micro SD card mode.
