@@ -1,6 +1,6 @@
 ## <quick_guide> Product Content
 
-* Energy Bluetooth Music Box BZ1 Speaker
+* Energy Music Box BZ1 Bluetooth Speaker
 * Line-in cable
 * USB cable
 * Quick guide
