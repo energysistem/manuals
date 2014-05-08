@@ -1,9 +1,9 @@
 ## Care and maintenance
 
-* Do not expose your *Energy Bluetooth Music Box BZ1* to shock, dust, humidity or high temperatures.
+* Do not expose your *Energy Music Box BZ1 Bluetooth* to shock, dust, humidity or high temperatures.
 * Do not use abrasive or corrosive cleaning products.
-* Do not place your *Energy Bluetooth Music Box BZ1* close to devices that emit strong magnetic fields.
+* Do not place your *Energy Music Box BZ1 Bluetooth* close to devices that emit strong magnetic fields.
 * Keep your speaker clean and dust them with a soft dry cloth.
 * Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
-* Be sure to keep your *Energy Bluetooth Music Box BZ1* turned off while not in use.
+* Be sure to keep your *Energy Music Box BZ1 Bluetooth* turned off while not in use.
 * Charge the lithium battery when ran out to extend its life.
