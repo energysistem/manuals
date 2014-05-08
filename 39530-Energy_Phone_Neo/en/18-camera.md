@@ -1,11 +1,12 @@
 ## Camera
-1. Scene mode bar. 
+1. Panoramic mode.
 2. Fash settings. 
 3. Switch camera.
-4. Gallery. 
+4. White balance.
 5. Shutter.
 6. Video mode.
-7. Options menu.
+7. Picture mode.
 8. Settings.
 9. Zoom +.
 10. Zoom -.
+11. Exposure.
