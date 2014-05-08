@@ -3,7 +3,7 @@
 ### Características generales
 
 * Transfiere y escucha tu música a través de conexión inalámbrica gracias a la tecnología Bluetooth®.
-* Fácil sincronización con tablets, smartphones, portátiles, MAC, PC, PlayStation y cualquier otro dispositivo Bluetooth®.
+* Fácil sincronización con tablets, smartphones, portátiles, MAC, PC, PlayStation y cualquier otro dispositivo Bluetooth® emisor.
 * Compatibilidad con iOS, ANDROID#trade#, Windows, Blackberry, MAC OS, etc.
 * Libertad de sonido: escucha y comparte tu música en cualquier lugar, sin cables.
 * Sonido limpio y claro, nitidez en todo el espectro acústico. 
@@ -32,3 +32,4 @@
 * Tiempo de carga: 2-3 horas
 * Capacidad nominal: 500mA
 * Sistema de carga por USB
+* Autonomía hasta 8 horas en modo Bluetooth
