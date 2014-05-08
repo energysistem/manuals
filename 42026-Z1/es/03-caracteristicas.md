@@ -32,4 +32,4 @@
 * Tiempo de carga: 2-3 horas
 * Capacidad nominal: 500mA
 * Sistema de carga por USB
-* Autonomía: 8 horas
+* Autonomía: 8 horas en modo tarjeta.
