@@ -20,6 +20,6 @@ Après avoir allumé l'appareil, la recherche d'appareils bluetooth démarrera a
 
 ### Chargement de la batterie
 
-Quand l'haut-parleur n'émet pas de son ou vous commencez à percevoir qu'il émet des interférences à courte distance en mode bluetooth, c'est le moment de le recharger, pour cela, branchez le bout du mini USB du câble USB (inclut) à l' Energy Bluetooth Music Box BZ1 (8), et l'autre bout à d'autres appareils avec port USB pour fournir de l'énergie (PC, chargeur USB mural, de voiture, etc.). La lumière LED (3) s'allumera en rouge et s'éteindra quand la charge soit complète.
+Quand l'haut-parleur n'émet pas de son ou vous commencez à percevoir qu'il émet des interférences à courte distance en mode bluetooth, c'est le moment de le recharger, pour cela, branchez le bout du mini USB du câble USB (inclut) à l' *Energy Music Box BZ1 Bluetooth* (8), et l'autre bout à d'autres appareils avec port USB pour fournir de l'énergie (PC, chargeur USB mural, de voiture, etc.). La lumière LED (3) s'allumera en rouge et s'éteindra quand la charge soit complète.
 
 **AVIS IMPORTANT:** Pour garder la batterie dans de bonnes conditions, il est très recommandé de ne pas la recharger jusqu'à qu'elle ne soit complètement épuisée. De cette façon, ne pas arrêter le chargement lorsque la batterie est complètement chargée.
