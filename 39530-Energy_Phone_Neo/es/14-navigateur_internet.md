@@ -7,3 +7,5 @@ Votre nouveau Energy Phone dispose d’un navigateur Web puissant parmi la liste
 4.	Administrer onglets.
 5.	Avancer.
 6.	Recul.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)
