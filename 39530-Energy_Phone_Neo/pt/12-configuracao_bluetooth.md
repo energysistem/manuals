@@ -7,3 +7,5 @@ O seu Energy Phone dispõe de conexão Bluetooth 4.0 para conectar o dispositivo
 2. Habilite a opção Bluetooth. .
 3. Seleccione o aparelho ao qual quer.
 4. Aceite o pedido de emparelhamento.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/5370806320b03.jpg)

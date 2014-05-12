@@ -10,3 +10,5 @@ realizar la conexión.
 2. Habilita la casilla Bluetooth.
 3. Selecciona el dispositivo al cual quieras conectarte.
 4. Acepta la solicitud de sincronización.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/5370806320b03.jpg)

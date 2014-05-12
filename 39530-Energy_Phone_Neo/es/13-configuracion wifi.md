@@ -7,6 +7,9 @@ Pantalla de ajustes
 1. Wi-Fi.
 2. Habilita la casilla Wi-Fi.
 3. Selecciona tu red Wi-Fi.
+4. Establece conexión.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/537082c35c33b.jpg)
 
 **Nota:** Tu Energy Phone es compatible con los estándares de seguridad y encriptación WEP, WPA, WPA2, TKIP y
 AES. Una vez se haya completado el proceso de autentificación con éxito, tu Energy Phone guardará los datos

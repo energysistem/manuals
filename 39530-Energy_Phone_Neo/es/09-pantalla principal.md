@@ -1,26 +1,5 @@
 ## Pantalla Principal
 
-1. **Barra de estado:** muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo en esta zona se
-despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
-
-2. **Buscador:** acceso directo al motor de búsqueda WEB de Google#trade#.
-
-3. **Búsqueda por voz:** Accede a la búsqueda por voz de Google#trade# y mucho más.
-
-4. **Music:** reproducción de archivos de sonido.
-
-5. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
-
-6. **Gallery:** visualización de imágenes. 
-
-7. **Camera:** acceso a la cámara de fotos integrada.
-
-8. **Internet:** navegador web.
-
-9. **Email:** correo electrónico.
-
-10. Acceso al menú de aplicaciones y widgets.
-
-11. **Contactos:** gestión de contactos. 
-
-12. Llamada.
+|  |  |
+|:-------|:-------|
+|1. **Barra de estado:** muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo en esta zona se despliega<br> una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.<br> 2. **Buscador:** acceso directo al motor de búsqueda WEB de Google#trade#.<br> 3. **Búsqueda por voz:** Accede a la búsqueda por voz de Google#trade# y mucho más.<br> 4. **Music:** reproducción de archivos de sonido.<br> 5. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones<br> para tu sistema Android#trade#.<br> 6. **Gallery:** visualización de imágenes.<br> 7. **Camera:** acceso a la cámara de fotos integrada.<br> 8. **Internet:** navegador web.<br> 9. **Email:** correo electrónico.<br> 10. Acceso al menú de aplicaciones y widgets.<br> 11. **Contactos:** gestión de contactos.<br> 12. Llamada.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/53707eb01dbf1.jpg)|

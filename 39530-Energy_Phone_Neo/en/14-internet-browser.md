@@ -10,3 +10,5 @@ on the desktop or in the application menu to start the program. The system will 
 4. Tab management. 
 5. Forward.
 6. Back.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)

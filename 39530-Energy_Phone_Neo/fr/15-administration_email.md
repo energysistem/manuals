@@ -8,3 +8,5 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 4.	Chercher.
 5.	Dossiers.
 6.	Charger.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)

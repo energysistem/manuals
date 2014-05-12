@@ -8,3 +8,6 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 4. Buscar.
 5. Carpetas.
 6. Recargar. 
+
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
