@@ -30,4 +30,4 @@ Before any system update, we recommend making a backup of everything you want to
 First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
 
 11.	How long does the battery last? 
-It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The Energy Phone Neo battery lasts up to 120 hours on standby and 2.5 hours talking.
+It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The Energy Phone Neo battery lasts up to 120 hours on standby and 8 hours talking.
