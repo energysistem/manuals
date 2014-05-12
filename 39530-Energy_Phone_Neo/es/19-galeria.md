@@ -5,5 +5,5 @@ Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
 |  |  |
 |:-------|:-------|
-|1. | |
+|![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg) | |
 
