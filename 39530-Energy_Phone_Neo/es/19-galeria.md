@@ -5,7 +5,7 @@ Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
 |  | |
 | -- | -- |
-| szdfhsd| zxfgasfg |
+| szdfhsd | zxfgasfg |
 
 
 |  |  |
