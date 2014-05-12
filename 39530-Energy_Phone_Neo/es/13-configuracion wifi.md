@@ -7,6 +7,7 @@ Pantalla de ajustes
 1. Wi-Fi.
 2. Habilita la casilla Wi-Fi.
 3. Selecciona tu red Wi-Fi.
+4. Establece conexión.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/537082c35c33b.jpg)
 
