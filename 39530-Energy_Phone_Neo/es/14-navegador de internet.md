@@ -14,3 +14,5 @@ establecida por defecto y la mostrará en pantalla.
 4. Gestionar pestañas. 
 5. Avanzar.
 6. Retroceder.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)
