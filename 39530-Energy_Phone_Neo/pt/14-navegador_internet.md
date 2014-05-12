@@ -10,3 +10,5 @@ O seu novo Energy Phone dispõe de um potente navegador de Internet entre a list
 4. Administrar separadores do navegador. 
 5. Avançar.
 6. Voltar.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)
