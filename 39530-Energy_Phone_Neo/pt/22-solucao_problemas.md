@@ -31,4 +31,4 @@ Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação And
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
 11.	Qual é a autonomia do dispositivo? 
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone é de até 120 horas de navegação em standby e 2.5 horas de conversação.
+Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone é de até 120 horas de navegação em standby e 8 horas de conversação.
