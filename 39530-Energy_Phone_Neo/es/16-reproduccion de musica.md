@@ -2,13 +2,4 @@
 
 |  |  |
 |:-------|:-------|
-|1. Lista de reproducción. <br>
-2. Visualización.
-3. Duración.
-4. Barra de progreso.
-5. Reproducción aleatoria.
-6. Canción posterior.
-7. Play / pause.
-8. Canción anterior. 
-9. Repetir.
-10. Tiempo reproducido.|![Imagen1](http://static.energysistem.com/images/manuals/39530/5370848fbf9be.jpg)|
+|1. Lista de reproducción.<br> 2. Visualización.<br> 3. Duración.<br> 4. Barra de progreso.<br> 5. Reproducción aleatoria.<br> 6. Canción posterior.<br> 7. Play / pause.<br> 8. Canción anterior.<br> 9. Repetir.<br> 10. Tiempo reproducido.|![Imagen1](http://static.energysistem.com/images/manuals/39530/5370848fbf9be.jpg)|
