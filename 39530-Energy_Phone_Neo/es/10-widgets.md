@@ -5,6 +5,7 @@ Para añadir un Widget a cualquiera de los escritorios pulsa "aplicaciones y wid
 instalados. Elige el que quieras añadir al escritorio manteniéndolo pulsado (4) y soltándolo a continuación (5).
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53707f89d8a39.jpg)
+
 Los Widgets pueden reubicarse a otras zonas del mismo escritorio o ser borrados fácilmente. Para mover
 un Widget desde su ubicación actual pulsa sobre él y mantenlo seleccionado unos segundos. Cuando la
 aplicación quede resaltada, podrás mover el Widget a otra posición dentro del escritorio.
