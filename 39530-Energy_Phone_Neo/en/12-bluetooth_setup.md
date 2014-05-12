@@ -8,3 +8,5 @@ the connection.
 2. Enable the Bluetooth option.
 3. Select the device you want to connect to.
 4. Accept the synchronization request.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/5370806320b03.jpg)
