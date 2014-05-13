@@ -1,4 +1,4 @@
-## Wi-Fi Setup
+### Wi-Fi Setup
 Tap on Settings in the MAIN SCREEN. 
 
 Settings screen.
