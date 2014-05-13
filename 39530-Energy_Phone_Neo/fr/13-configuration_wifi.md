@@ -1,4 +1,4 @@
-## Configuration Wi-Fi
+### Configuration Wi-Fi
 Accédez à Paramètres depuis l’ÉCRAN PRINCIPAL.
 
 Écran des paramètres
