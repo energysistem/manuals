@@ -1,4 +1,4 @@
-## E-Mail Client
+### E-Mail Client
 Note: In order to know your account settings, ask your e-mail provider.
 
 1. Selected folder.
