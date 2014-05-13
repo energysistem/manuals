@@ -12,4 +12,4 @@ A7 1.3GHz processor, Bluetooth 4.0, WiFi, GPS, 3G connectivity and rear and fron
 * We recommend you to read this manual to enjoy your device in a safe way and 
 with maximum performance.
 
-## <unique> * Find the whole *Energy Smartphone Neo* user manual on the following link   http://www.energysistem.com/guide/39530. </unique> </quick_guide>
+## <unique> * Find the whole *Energy Smartphone Neo* user manual on the following link   http://www.energysistem.com/en/guide/39530. </unique> </quick_guide>
