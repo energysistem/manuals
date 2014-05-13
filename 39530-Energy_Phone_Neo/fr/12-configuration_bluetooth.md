@@ -3,7 +3,7 @@ Tu Energy Phone dispone de conexión Bluetooth 4.0. Pour connecter votre apparai
 
 1.	Bluetooth.
 2.	Connectez la case Bluetooth.
-3.	Sélectionner l’appareil que vous voulez connecter.
+3.	Sélectionner l'appareil que vous voulez connecter.
 4.	Accepter la synchronisation demandé.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370806320b03.jpg)
