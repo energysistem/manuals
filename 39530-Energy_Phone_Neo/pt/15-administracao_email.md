@@ -1,4 +1,4 @@
-## Administração de E-mail
+### Administração de E-mail
 
 Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, consulte o seu provedor de correio electrónico.
 
