@@ -21,7 +21,7 @@
 * Capteur de proximité.
 *	Capteur magnétique inclut.
 * Applications installées: navigateur Internet, gestionnaire de courrier électronique, applications pour la lecture de musique / vidéos / photos, radio FM, alarme et calculatrice.
-* Permet l'installation des applications et des jeux disponibles pour le système d'exploitation ANDROID™.
+* Permet l'installation des applications et des jeux disponibles pour le système d'exploitation ANDROID#trade#.
 * Fréquences opérationnelles: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz
 *	Capacité de la batterie: 1.400mAh
 * Mesure SAR: 0.436 (W/Kg) pour l'oreille et 0.444 (W/Kg) pour le corps (à 10mm de portée).
