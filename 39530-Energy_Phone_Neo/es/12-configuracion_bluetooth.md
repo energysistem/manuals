@@ -1,4 +1,4 @@
-## Configuración Bluetooth
+### Configuración Bluetooth
 
 Tu Energy Phone dispone de conexión Bluetooth 4.0. Para conectar tu dispositivo con auriculares, ordenadores, tablets,
 etc. Solo tienes que ir a Ajustes >> Bluetooth y mover el interruptor a la posición ON. A continuación comenzará a
