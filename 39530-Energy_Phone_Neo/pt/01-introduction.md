@@ -6,4 +6,4 @@ O sistema dispõe de uma tela capacitiva de 4.5" (540x960 píxeis) com sensor mu
 
 * Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
-## <unique> * Encontre o manual completo dos Energy Smartphone Neo no seguinte link http://www.energysistem.com/guide/39530. </unique> </quick_guide>
+## <unique> * Encontre o manual completo dos Energy Smartphone Neo no seguinte link http://www.energysistem.com/pt/guide/39530. </unique> </quick_guide>
