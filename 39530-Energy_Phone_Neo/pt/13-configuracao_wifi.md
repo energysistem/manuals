@@ -1,4 +1,4 @@
-## Configuração Wi-Fi
+### Configuração Wi-Fi
 
 Aceda a Definições desde a TELA PRINCIPAL.
 
