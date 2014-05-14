@@ -10,10 +10,10 @@
 8. Altavoz trasero. 
 9. Botones táctiles Menú, Inicio, Volver. 
 10. Micrófono.
+11. Botón de encendido / apagado. 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
-111. Botón de encendido / apagado. 
 12. Ranura de tarjeta microSD HC/XC. 
 13. Ranura de tarjeta SIM 1. 
 14. Ranura de tarjeta SIM 2. 
