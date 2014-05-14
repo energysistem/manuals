@@ -11,11 +11,14 @@
 9. Botones táctiles Menú, Inicio, Volver. 
 10. Micrófono.
 11. Botón de encendido / apagado. 
-12. Ranura de tarjeta microSD HC/XC. 
-13. Ranura de tarjeta SIM 1. 
-14. Ranura de tarjeta SIM 2. 
-15. Batería. 
-16. Número de serie y números IMEI.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
+
+<br>12. Ranura de tarjeta microSD HC/XC.<br> 
+13. Ranura de tarjeta SIM 1.<br> 
+14. Ranura de tarjeta SIM 2.<br>
+15. Batería.<br>
+16. Número de serie y números IMEI. <br> 
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
 </quick_guide>
