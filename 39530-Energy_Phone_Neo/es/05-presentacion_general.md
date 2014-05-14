@@ -11,6 +11,7 @@
 9. Botones táctiles Menú, Inicio, Volver. 
 10. Micrófono.
 11. Botón de encendido / apagado. 
+15.  ugiug
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
