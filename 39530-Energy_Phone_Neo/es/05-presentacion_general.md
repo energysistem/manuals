@@ -14,7 +14,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
-12. Ranura de tarjeta microSD HC/XC. 
+<br>12. Ranura de tarjeta microSD HC/XC.<br> 
 13. Ranura de tarjeta SIM 1. 
 14. Ranura de tarjeta SIM 2. 
 15. Batería. 
