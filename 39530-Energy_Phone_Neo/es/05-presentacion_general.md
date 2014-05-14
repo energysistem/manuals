@@ -13,7 +13,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
-11. Botón de encendido / apagado. 
+111. Botón de encendido / apagado. 
 12. Ranura de tarjeta microSD HC/XC. 
 13. Ranura de tarjeta SIM 1. 
 14. Ranura de tarjeta SIM 2. 
