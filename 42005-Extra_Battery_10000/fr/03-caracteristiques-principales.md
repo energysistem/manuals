@@ -1,7 +1,7 @@
 # Caractéristiques principales
 - Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
 - Câble inclut pour Ã©viter les noeuds.
-- Idéale pour charger des Smartphones, Android et iPhone* inclus.
+- Idéale pour charger des Smartphones, Android et Apple* inclus.
 - Indicateur LED de chargement.
 - Permet de retenir le 95% de chargement jusqu'à 30 jours.
 - Son circuit intelligent permet de recharger deux appareils au même temps.

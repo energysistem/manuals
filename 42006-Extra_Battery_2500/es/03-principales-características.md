@@ -9,8 +9,8 @@
 * Batería recargable de 3.6V / 2500 mAh.
 * Compatible con Apple*, Android, Windows mobile y Blackberry.
 * Entrada: micro USB de 5V / 1000mA y recarga a través de fuente USB estándar de 5V.
-* Salida: Micro USB 5V / 1000mA.
+* Salida: Micro USB 5V / max. 1000mA.
 
 
-*cable no incluido
+*conector no incluido
 

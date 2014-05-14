@@ -10,8 +10,8 @@
 -  - Batterie lithium-ion portable et rechargeable de 3.6V / 2500mAh.
 -  Compatible avec iOS, Android™, Windows Mobile® et Blackberry®.
 - Entrée: Micro USB de 5V / 1000mA et chargement à travers des ports USB standard de 5V.
-- Sortie: Micro USB 5V / 1000mA.
+- Sortie: Micro USB 5V / max. 1000mA.
 
 
 
-*Connecteur de iPhone pas inclus.
+*Connecteur iPhone non inclus.

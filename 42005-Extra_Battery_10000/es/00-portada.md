@@ -1,3 +1,3 @@
 <quick_guide>
-(foto de la Extra Batterry 10000 , ver con diseño)
+http://static.energysistem.com/images/manuals/39245/53735b380e71b.jpg
 </quick_guide>

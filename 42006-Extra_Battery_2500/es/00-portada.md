@@ -1,3 +1,2 @@
 <quick_guide>
-(foto de la Extra Batterry 2500 , ver con diseño)
-</quick_guide>
+http://static.energysistem.com/images/manuals/42006/53735a3fc84a3.jpg</quick_guide>
