@@ -13,7 +13,7 @@
 
 7.	Quelques fois, l'écran est en toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
 
-8.	La capacité de mémoire do Energy Tablet x7 Quad 3G est 8Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
+8.	La capacité de mémoire do Energy Phone est 4Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
 
 9.	J'ai mis à jour le firmware et j'ai aucun livre ni fond d'écran. Comment pourrais-je récupérer les contenus qui étaient préinstallés? Avant de toute mise à jour du système, nous recommandons de faire une copie de sécurité de tout ce que vous voulez conserver. À energysistem.com vous trouverez non seulement tous les contenus qui viennent préinstallés dans votre Energy Phone sinon beaucoup plus des livres et des fonds d'écran additionnels.
 
