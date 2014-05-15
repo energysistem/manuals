@@ -18,4 +18,4 @@
 
 <br>12. Ranura de tarjeta microSD HC/XC.<br>13. Ranura de tarjeta SIM 1.<br>14. Ranura de tarjeta SIM 2.<br>15. Batería.<br>
 16. Número de serie y números IMEI.
-17. </quick_guide>
+</quick_guide>
