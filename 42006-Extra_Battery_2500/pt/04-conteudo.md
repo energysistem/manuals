@@ -1,9 +1,4 @@
 ## <quick_guide> Conteúdo do produto
 
-* Energy Smartphone Neo.
-* Guia Rápida.
-* Cabo USB.
-* Fonte de alimentação AC/DC (Europlug) 100-240V AC 50-60Hz.
-* Fones com microfone integrado. 
-* Protector de tela.
-</quick_guide>
+* 1 x Energy Extra Battery 2500 com Cabo Micro USB integrado.
+* 1 x manual do usuário.
