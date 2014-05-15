@@ -1,4 +1,5 @@
 ## <quick_guide> Principais características
+
 * Bateria de lítio-polímero com mais fiabilidade, eficiência e leveza. 
 * Cabo USB integrado para evotar enrolamentos ou perdas. 
 * Sistema inteligente que permite-lhe carregar dois dispositivos ao mesmo tempo
