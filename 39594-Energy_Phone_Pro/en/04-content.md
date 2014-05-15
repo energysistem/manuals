@@ -1,5 +1,5 @@
 ## <quick_guide> Product Content
-* Energy Smartphone Neo.
+* Energy Smartphone Pro.
 * Quick guide.
 * USB cable
 * AC/DC (Europlug) 100-240V AC 50-60Hz power adapter.
