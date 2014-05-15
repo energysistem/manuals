@@ -1,5 +1,5 @@
 ### Wi-Fi Setup
-Tap on Settings in the MAIN SCREEN. 
+Tap on Settings in the MAIN SCREEN.
 
 Settings screen.
 
@@ -8,7 +8,7 @@ Settings screen.
 3. Select your Wi-Fi network.
 4. Connect.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537082c35c33b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/53738c2c7447b.jpg)
 
-**Note:** Your Energy Phone is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Phone will save the Wi-Fi access 
+**Note:** Your Energy Phone is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Phone will save the Wi-Fi access
 data and you will be able to access the Internet. The device will remember the network and will automatically connect when it is available.
