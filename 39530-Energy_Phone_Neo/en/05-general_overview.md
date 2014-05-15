@@ -15,7 +15,8 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
-<br>12. SIM 1 card slot.<br>
+<br>
+12. SIM 1 card slot.<br>
 13. SIM 2 card slot.<br>
 14. Battery.<br>
 15. Serial and IMEI numbe<br>
