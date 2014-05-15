@@ -12,10 +12,13 @@
 9. Microphone.
 10. Power button.
 11. MicroSD HC/XC card slot.
-12. SIM 1 card slot.
-13. SIM 2 card slot.
-14. Battery.
-15. Serial and IMEI numbe
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
+
+<br>12. SIM 1 card slot.<br>
+13. SIM 2 card slot.<br>
+14. Battery.<br>
+15. Serial and IMEI numbe<br>
+
+ ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
 </quick_guide>
