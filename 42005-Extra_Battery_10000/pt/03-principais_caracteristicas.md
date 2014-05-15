@@ -14,5 +14,4 @@
 * Entrada: micro USB de 5V / 1000mA e recarrega através de porta USB estándar de 5V.
 * Saída: USB 5V / 1000mA.
 
-
 * Conector para Iphone/Ipad não incluido.
