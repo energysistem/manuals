@@ -11,11 +11,14 @@
 9. Botões tácteis Menu, Início, Regressar.
 10. Microfone.
 11. Botão de ligado / desligado.
-12. Slot para cartão microSD HC/XC.
-13. Slot para cartão SIM 1.
-14. Slot para cartão SIM 2.
-15. Bateria.
-16. Número de série e números IMEI.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg)
+
+<br>12. Slot para cartão microSD HC/XC.<br>
+13. Slot para cartão SIM 1.<br>
+14. Slot para cartão SIM 2.<br>
+15. Bateria.<br>
+16. Número de série e números IMEI.<br>
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
 </quick_guide>
