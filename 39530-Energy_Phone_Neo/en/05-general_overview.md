@@ -14,8 +14,7 @@
 10. Microphone.
 11. Power button.
 
- ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
 
 <br>12. MicroSD HC/XC card slot.<br>13. SIM 1 card slot.<br>14. SIM 2 card slot.<br>15. Battery.<br>16. Serial and IMEI number.
-
 </quick_guide>
