@@ -11,12 +11,11 @@
 9. Menu, Home, Back touch buttons.
 9. Microphone.
 10. Power button.
-11. MicroSD HC/XC card slot.
+11. MicroSD HC/XC card slot.<br>
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) 
 
-<br>
-12. SIM 1 card slot.<br>
+<br>12. SIM 1 card slot.<br>
 13. SIM 2 card slot.<br>
 14. Battery.<br>
 15. Serial and IMEI numbe<br>
