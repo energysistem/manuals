@@ -1,4 +1,4 @@
-## <quick_guide> Instruções de uso
+## <quick_guide> Instruções de utilização
 
 **Carga de um dispositivo móvel:**
 
