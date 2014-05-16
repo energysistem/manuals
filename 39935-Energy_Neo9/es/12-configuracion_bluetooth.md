@@ -10,4 +10,4 @@ realizar la conexión.
 3. Selecciona el dispositivo al cual quieras conectarte.
 4. Acepta la solicitud de sincronización.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370806320b03.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce6409792.jpg)
