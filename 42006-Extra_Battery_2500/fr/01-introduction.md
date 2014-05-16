@@ -1,4 +1,4 @@
-# Introduction
+#<quick_guide> Introduction
 
 Energy Sistem™ vous remercie pour l’achat de cette nouvelle Batterie Portable Energy Extra
 Battery 2500. On vous souhaite une bonne utilisation. Cette batterie portable et rechargeable
@@ -7,3 +7,4 @@ multimédia ou d’autres appareils électroniques. Câble inclut, design très 
 
 On vous conseille de lire le présent manuel de l’utilisateur pour profiter du produit d’une manière
 sûre et en profitant de ses fonctions.
+</quick_guide>

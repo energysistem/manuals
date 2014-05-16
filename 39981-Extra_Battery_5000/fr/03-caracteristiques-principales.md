@@ -1,4 +1,4 @@
-# Caractéristiques principales
+#<quick_guide> Caractéristiques principales
 - Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
 - Câble inclut pour éviter les noeuds.
 - Idéale pour charger des Smartphones, Android et Apple* inclus.
@@ -17,3 +17,4 @@
 
 
 *Connecteur d'iPhone non inclus.
+</quick_guide>

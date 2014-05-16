@@ -1,4 +1,4 @@
-# Caractéristiques principales
+#<quick_guide> Caractéristiques principales
 - Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
 - Câble inclut pour Ã©viter les noeuds.
 - Idéale pour charger des Smartphones, Android et Apple* inclus.
@@ -13,3 +13,4 @@
 -  Compatible avec iOS, Android, Windows Mobile® et Blackberry®.
 - Entrée: Micro USB de 5V / 1000mA et chargement à travers des ports USB standard de 5V.
 - Sortie: Micro USB 5V / 1000mA.
+</quick_guide>

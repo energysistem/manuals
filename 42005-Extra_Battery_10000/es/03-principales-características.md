@@ -17,3 +17,4 @@
 
 *Conector para Iphone/Ipad no incluido.
 
+</quick_guide>

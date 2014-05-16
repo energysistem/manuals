@@ -1,4 +1,4 @@
-# Main features
+#<quick_guide> Main features
 - Reliable, efficient and light lithium polymer battery.
 - Built-in USB cable to avoid tangles and losing the cable.
 - Intelligent circuit that allows you to charge 2 devices at the same time.
@@ -14,3 +14,4 @@
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
 - Output: Micro USB 5V / 1000mA.
 
+</quick_guide>

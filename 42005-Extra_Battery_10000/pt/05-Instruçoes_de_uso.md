@@ -19,3 +19,4 @@
 **AVISO IMPORTANTE:**
 
 Não é recomendável realizar a carga da Extra Battery quando está ligada à outro dispositivo, uma vez que este tipo de operação pode diminuir a vida útil deste produto.
+</quick_guide>
