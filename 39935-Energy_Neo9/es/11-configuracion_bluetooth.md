@@ -1,4 +1,4 @@
-## Configuración
+## Configuración inhalámbrica
 
 ###Bluetooth
 
