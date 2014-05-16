@@ -7,7 +7,7 @@
 
 4.	Pour quoi je ne peux pas voir mes fichiers de vidéo, image ou texte quand j'utilise le lecteur de musique? Généralement, les applications seulement montrent les fichiers compatibles, qui peuvent être lis par le programme. Pourtant, pendant que vous naviguez par les dossiers depuis une application en particulier, vous pourriez seulement visualiser les fichiers associés à ce programme (chansons avec le lecteur de musique, des filmes avec le lecteur de vidéo, etc). Pour regarder tous les fichiers dans la mémoire, au même temps, initiez l'application Explorateur depuis le bureau d'applications.
 
-5.	Quels sont les formats de vidéo compatibles avec mon Energy Phone? Votre Energy Tablet peut jouer multiples formats de vidéo sans recoder.
+5.	Quels sont les formats de vidéo compatibles avec mon Energy Phone? Votre Energy Phone peut jouer multiples formats de vidéo sans recoder.
 
 6.	Pour quoi je n'arrive pas à visualiser mes fichiers des images .jpg? Nombreux appareils photos numériques et programmes d'édition d'images ont additionnés des donnés cachés aux fichiers .jpg. Ces donnés peuvent faire que votre Energy Tablet ne charge pas les images.  Essayez de les effacer en enregistrant l'image avec un autre nom.
 
