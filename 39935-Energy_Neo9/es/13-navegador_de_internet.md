@@ -1,4 +1,4 @@
-##Principales aplicaciones
+## Principales aplicaciones
 
 ### Navegador de Internet
 
