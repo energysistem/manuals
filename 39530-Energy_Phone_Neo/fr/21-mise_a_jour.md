@@ -11,8 +11,8 @@ Suivez les pas suivants pour réaliser l'installation:
 
 3.	Entrez sur la section "Support" et choisissez le type de produit "Smartphone".
 
-4.	Choisissez votre modèle Energy Tablet de la liste dépliant qui apparaitra, et tout de suite, déchargez la dernière version du système d'exploitation Android#trade# disponible. Important:  Assurez-vous que la version du système d'exploitation que vous êtes en train de décharger soit spécifique pour votre modèle et numéro de série, car au cas contraire, votre dispositif pourra être endommagé.
+4.	Choisissez votre modèle Energy Phone de la liste dépliant qui apparaitra, et tout de suite, déchargez la dernière version du système d'exploitation Android#trade# disponible. Important:  Assurez-vous que la version du système d'exploitation que vous êtes en train de décharger soit spécifique pour votre modèle et numéro de série, car au cas contraire, votre dispositif pourra être endommagé.
 
 5.	Décomprimez le fichier sur votre ordinateur.
 
-6.	Ouvrez le fichier de texte inclut dans la décharge et suivez les instructions pour l'installation du nouveau système d'exploitation dans votre Energy Tablet.
+6.	Ouvrez le fichier de texte inclut dans la décharge et suivez les instructions pour l'installation du nouveau système d'exploitation dans votre Energy Phone.
