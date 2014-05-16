@@ -11,7 +11,7 @@
 * [Tipos de pulsaciones](08-tipos_de_pulsaciones.md)
 * [Pantalla principal](09-pantalla_principal.md)
 * [Widgets](10-widgets.md)
-* [Configuracion inhalambrica](11-configuracion_bluetooth.md)
+* [Configuracion inalambrica](11-configuracion_bluetooth.md)
 * [Principales aplicaciones](13-navegador_de_internet.md)
 * [Actualizacion](20-actualizacion.md)
 * [Resolucion de problemas](21-resolucion_de_problemas.md)

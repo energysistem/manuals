@@ -1,5 +1,17 @@
 ## Pantalla Principal
 
-|IMAGEN DE LA PANTALLA PRINCIPAL CON ICONOS |
-| -- |
-|1. Buscador: acceso directo al motor de búsquedaWEB de Google™.<BR/>2. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.<BR/>3. Home: te devuelve a la pantalla principal.<BR/>4. Tareas: muestra las aplicaciones usadas recientemente.<BR/>5. Music: reproducción de archivos de sonido.<BR/>6. Play Store: Tienda de aplicaciones de Google™.<BR/>7. Gallery: visualización de imágenes.<BR/>8. Camera: acceso a la cámara de fotos integrada.<BR/>9. Email: correo electrónico.<BR/>10. Internet: navegador web.<BR/>11. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Pulsando esta zona se despliega una versión del menú de configuración básica que gestiona la configuración Wi-Fi, el giroscopio, el brillo de la pantalla, las notificaciones y el menú de configuración completa.<BR/>12. Acceso al menú de aplicaciones y widgets.<BR/>13. Búsqueda por voz: accede a la búsqueda por voz de Google™ y mucho más. |
+![imagen](http://static.energysistem.com/images/manuals/39935/5375cef9bc71a.jpg)
+
+1. Buscador: acceso directo al motor de búsquedaWEB de Google#trade#
+2. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando
+3. Home: te devuelve a la pantalla principal
+4. Tareas: muestra las aplicaciones usadas recientemente
+5. Music: reproducción de archivos de sonido
+6. Play Store: Tienda de aplicaciones de Google#trade#
+7. Gallery: visualización de imágenes
+8. Camera: acceso a la cámara de fotos integrada
+9. Email: correo electrónico
+10. Internet: navegador web
+11. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Pulsando esta zona se despliega una versión del menú de configuración básica que gestiona la configuración Wi-Fi, el giroscopio, el brillo de la pantalla, las notificaciones y el menú de configuración completa
+12. Acceso al menú de aplicaciones y widgets
+13. Búsqueda por voz: accede a la búsqueda por voz de Google#trade# y mucho más
