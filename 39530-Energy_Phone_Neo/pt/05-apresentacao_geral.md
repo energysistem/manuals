@@ -5,7 +5,7 @@
 1. Sensores de luminosidade e de proximidade.
 2. Saída de auscultadores.
 3. Alto-falante frontal.
-4. Entrada USB OTG/HOST.
+4. Entrada USB.
 5. Câmara frontal.
 6. Câmara traseira.
 7. Botão de volume.
