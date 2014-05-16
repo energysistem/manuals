@@ -6,7 +6,7 @@ You can also update your Energy Phone using your PC. The process is simple but h
 
 Follow these steps to install:
 
-1. Make sure that the battery of your Energy Phone is fully charged. Otherwise, plug your Energy Tablet to the external power using the provided AC/DC power adapter and wait until the battery is fully charged.
+1. Make sure that the battery of your Energy Phone is fully charged. Otherwise, plug your Energy Phone to the external power using the provided AC/DC power adapter and wait until the battery is fully charged.
 
 2. Access the www.energysistem.com website from your computer.
 
