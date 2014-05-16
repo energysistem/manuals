@@ -1,4 +1,4 @@
-# Conditions de la garantie
+#<quick_guide> Conditions de la garantie
 
 Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, conforme à RDL 1/2007, Energy Sistem Soyntec S.A. répondra pour tout défaut de conformité existant au moment de la réception du bien, dans les termes et sous les conditions établies dans cette norme. Les batteries du produit sont exclues de la durée de 36 mois, ayant comme durée de la garantie 12 mois.
 

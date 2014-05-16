@@ -1,4 +1,4 @@
-# Main features
+#<quick_guide> Main features
 - Reliable, efficient and light lithium polymer battery.
 - Built-in USB cable to avoid tangles and losing the cable.
 - Ideal to charge smartphones, including Android and iPhone*.
@@ -12,3 +12,4 @@
 - Output: Micro USB 5V / max. 1000mA.
 
 *iPhone connector not included
+</quick_guide>

@@ -16,3 +16,4 @@
 * Saída: USB 5V / 1000mA.
 
 * Conector para Iphone/Ipad não incluido.
+</quick_guide>

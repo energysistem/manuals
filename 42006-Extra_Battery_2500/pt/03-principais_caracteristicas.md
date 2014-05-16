@@ -14,3 +14,4 @@
 
 
 *conector não fornecido
+</quick_guide>

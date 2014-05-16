@@ -5,3 +5,4 @@
 2 - Indicador LED
 3 - Entrada: Micro USB de 5V / 1000 mA
 4 - Salida: USB de 5V / 1000 mA
+</quick_guide>

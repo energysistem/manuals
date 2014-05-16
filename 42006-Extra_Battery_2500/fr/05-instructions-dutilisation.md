@@ -20,4 +20,4 @@
 
 **REMARQUE IMPORTANTE**
 Il n'est pas recommandé de réaliser le chargement de l'Extra Battery en même temps qu'elle soit connectée sur un aute appareil, car cela peut réduire la durée de ce type de batterie.
-
+</quick_guide>

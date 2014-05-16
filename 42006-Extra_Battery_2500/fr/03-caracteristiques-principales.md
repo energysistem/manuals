@@ -1,4 +1,4 @@
-# Caractéristiques principales
+#<quick_guide> Caractéristiques principales
 
 - Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
 - Câble inclut pour éviter les noeuds.
@@ -15,3 +15,4 @@
 
 
 *Connecteur iPhone non inclus.
+</quick_guide>

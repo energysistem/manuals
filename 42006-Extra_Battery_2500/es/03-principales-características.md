@@ -13,4 +13,4 @@
 
 
 *conector no incluido
-
+</quick_guide>
