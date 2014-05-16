@@ -4,7 +4,7 @@
 O arquivo MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. No caso contrario tem que recodificar mediante software.
 
 2.	Meu Energy Phone não liga, que posso fazer? 
-Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se mesmo carregando a bateria ao menos 30 minutos, o sistema continua sem ligar, é possível que exista um problema com o sistema operacional instalado. Por favor, leia a secção “ATUALIZAÇÃO” deste manual.
+Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se mesmo carregando a bateria ao menos 30 minutos, o sistema continua sem ligar, é possível que exista um problema com o sistema operacional instalado. Por favor, leia a secção "ATUALIZAÇÃO" deste manual.
 
 3.	Por que não se reproduzem alguns arquivos WMA? 
 Assegure-se que não estás codificando os WMA com DRM.
@@ -27,7 +27,7 @@ O sistema operacional Android#trade# e as aplicações pré-instaladas no dispos
 Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados no seu Energy Phone e muito mais arquivos multimédia e fundos de tela adicionais.
 
 10.	Que devo fazer para que me deixe instalar uma aplicação? 
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
+Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
 11.	Qual é a autonomia do dispositivo? 
