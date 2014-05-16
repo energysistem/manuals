@@ -4,7 +4,7 @@ Your new Energy Phone has a powerful Web browser among the list of applications 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)
 
 1. Refresh.
-2. WEB address. 2.1 type. 2.2 tap on “Enter” key.
+2. WEB address. 2.1 type. 2.2 tap on "Enter" key.
 3. Bookmarks.
 4. Tab management.
 5. Forward.
