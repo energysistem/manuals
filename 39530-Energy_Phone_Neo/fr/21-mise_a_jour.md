@@ -5,7 +5,7 @@ Vous pouvez aussi mettre à jour votre Energy Phone à travers de votre ordinate
 
 Suivez les pas suivants pour réaliser l'installation:
 
-1.	Assurez-vous que la batterie de votre Energy Tablet soit totalement chargée. Au contraire, branchez votre Energy Tablet à la prise externe de l'adaptateur de courante AC/DC fourni et attendez que la batterie soit complètement chargée.
+1.	Assurez-vous que la batterie de votre Energy Phone soit totalement chargée. Au contraire, branchez votre Energy Phone à la prise externe de l'adaptateur de courante AC/DC fourni et attendez que la batterie soit complètement chargée.
 
 2.	Accédez au site web www.energysistem.com desde tu ordenador.
 
