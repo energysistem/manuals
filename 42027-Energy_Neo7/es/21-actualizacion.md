@@ -1,6 +1,6 @@
 ## Actualización
 
-Tu Energy Tablet tiene un sistema operativo instalado basado en Android™, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy Tablet se conectará automaticamente con nuestros servidores, hará la descarga e instalará el nuevo software en cuanto tengamos una nueva actualización lista para usar.
+Tu Energy Tablet tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy Tablet se conectará automaticamente con nuestros servidores, hará la descarga e instalará el nuevo software en cuanto tengamos una nueva actualización lista para usar.
 
 Tambien puedes actualizar tu Energy Tablet a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o actualizarlo a una nueva versión compatible si esta se encuentra disponible.
 
@@ -12,7 +12,7 @@ Sigue los siguientes pasos para realizar la instalación:
 
 3. Entra en la sección "Soporte" y elige el tipo de producto "Tablet".
 
-4. Elige tu modelo de Energy Tablet de la lista desplegable que aparecerá y a continuación descarga la última versión sistema operativo Android™ disponible.
+4. Elige tu modelo de Energy Tablet de la lista desplegable que aparecerá y a continuación descarga la última versión sistema operativo Android#trade# disponible.
 **Importante:**
 Asegúrate de que la versión de sistema operativo que estás descargando es específico para tu modelo y número de serie, ya que de lo contrario se podría dañar el dispositivo.
 
