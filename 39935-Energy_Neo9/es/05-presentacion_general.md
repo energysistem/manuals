@@ -1,4 +1,5 @@
 ## <quick_guide> Presentación general
+
 |  |
 | -- |
 | ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cee1e0fac.jpg) |
