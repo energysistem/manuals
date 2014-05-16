@@ -5,7 +5,7 @@
 1. Proximity and luminosity sensors.
 2. Headphones output.
 3. Front speaker.
-4. USB OTG/HOST port.
+4. USB port.
 5. Front camera.
 6. Rear camera.
 7. Volume button.
