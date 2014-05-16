@@ -1,5 +1,6 @@
 ## <quick_guide> Presentación general
 
+![Imagen1](http://static.energysistem.com/images/manuals/39594/53738a86b238b.jpg)
 
 1. Sensores de luminosidad y de proximidad.
 2. Salida de auriculares.
@@ -18,5 +19,4 @@
 15. Ranura de tarjeta SIM1.
 15. Ranura de tarjeta SIM2.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738a86b238b.jpg)
 </quick_guide>
