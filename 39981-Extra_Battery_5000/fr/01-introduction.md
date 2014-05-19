@@ -1,5 +1,5 @@
-#<quick_guide> Introduction
-Energy Sistem™ vous remercie pour l’achat de cette nouvelle Batterie Portable Energy Extra
+##<quick_guide> Introduction
+Energy Sistem#trade# vous remercie pour l’achat de cette nouvelle Batterie Portable Energy Extra
 Battery 5000. On vous souhaite une bonne utilisation. Cette batterie portable et rechargeable
 avec 5000mAh de capacité est idéale pour recharger votre smartphone, tablettes, lecteurs
 multimédia ou d’autres appareils électroniques. Connecteurs interchangeables. Câble inclut et design compact.

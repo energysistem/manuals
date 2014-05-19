@@ -4,7 +4,7 @@
 
 1. Conecta el cable USB al puerto de salida de la batería.
 1. Conecta el cable USB tipo A-Micro USB a la entrada de alimentación del dispositivo móvil que quieres recargar.
-1. El proceso de carga comenzará de forma automática. Ningún LED indicador debe encenderse durante la carga del dispositivo, pudiendo consultar el estado de la carga desde el propio dispositivo.
+1. El proceso de carga comenzará de forma automática.
 1. Cuando finalice la carga, desconecta el dispositivo y la Extra Battery se apagará automáticamente de forma inmediata.
 
 

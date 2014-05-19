@@ -1,13 +1,13 @@
 # Summary
 
 * [Portada](00-capa.md)
-* [Introducción](01-introducao.md)
-* [Información general](02-informacao_geral.md)
-* [Principales características](03-principais_caracteristicas.md)
-* [Contenido del producto](04-conteudo.md)
-* [Instrucciones de uso](05-intru�oes_de_uso.md)
+* [Introducao](01-introducao.md)
+* [Apresentacao geral](02-apresentacao_geral.md)
+* [Principais caracteristicas](03-principais_caracteristicas.md)
+* [Conteudo](04-conteudo.md)
+* [Instrucoes de uso](05-instrucoes_de_uso.md)
 * [FAQs](06-FAQs.md)
-* [Condiciones de la garantía](07-garanti�a.md)
-* [Funcionamiento de la garantía](08-funcionamiento-da-garanti�a.md)
-* [Declaración de conformidad](09-declaracao-conformidade.md)
+* [Garantia](07-garantia.md)
+* [Funcionamento da garantia](08-funcionamento_da_garantia.md)
+* [Declaracao conformidade](09-declaracao_conformidade.md)
 

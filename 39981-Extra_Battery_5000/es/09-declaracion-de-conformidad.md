@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem - Extra Battery 5000**
+**Energy Sistem#trade# - Extra Battery 5000**
 
 Paí­s de fabricación: China
 
