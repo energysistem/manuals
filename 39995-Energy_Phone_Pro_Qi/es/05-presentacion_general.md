@@ -1,5 +1,7 @@
 ## <quick_guide> Presentación general
 
+![Imagen1](http://static.energysistem.com/images/manuals/39995/53738dfbd08f2.jpg)
+
 1. Sensores de luminosidad y de proximidad.
 2. Salida de auriculares.
 3. Altavoz frontal.
@@ -17,5 +19,4 @@
 15. Ranura de tarjeta microSIM1.
 15. Ranura de tarjeta microSIM2.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/53738dfbd08f2.jpg)
 </quick_guide>
