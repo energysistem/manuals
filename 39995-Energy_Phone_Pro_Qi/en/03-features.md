@@ -6,7 +6,7 @@
 - GPS function: the most precise and reliable satellite navigation.
 - NFC (Near Field Communication) and Bluetooth 4.0 wireless connections for headphones, speakers and other NFC or Bluetooth devices.
 - MHL connection for content playback on your TV or monitor without HDMI cables.
-- Dual SIM-card Slot.
+- Dual microSIM-card Slot.
 - 2GB RAM.
 - 32GB internal memory that can store up to 128 hours of video or 16.000 songs.
 - Integrated 5.0 Mpx BSI+ FOV 88º front camera with LED flash.

@@ -8,7 +8,7 @@
 * Función GPS: La navegación via satélite más precisa y fiable.
 * Conexiónes inalámbricas NFC (Near Field Communication) y Bluetooth 4.0 para auriculares, altavoces y otros dispositivos NFC y Bluetooth.
 * Conexión MHL (Mobile High-definition Link) para reproducir contenidos en tu TV o monitor sin cables HDMI.
-* Doble entrada de tarjeta SIM.
+* Doble entrada de tarjeta microSIM.
 * 2GB RAM.
 * 32GB de memoria interna que permiten almacenar hasta 128 horas de video u 16.000 canciones.
 * Cámara frontal integrada con sensor de 5.0 Mpx BSI+ con angulo de apertura ancho 88º y flash LED.
