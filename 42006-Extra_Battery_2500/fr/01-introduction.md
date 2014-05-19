@@ -1,6 +1,6 @@
-#<quick_guide> Introduction
+##<quick_guide> Introduction
 
-Energy Sistem™ vous remercie pour l’achat de cette nouvelle Batterie Portable Energy Extra
+Energy Sistem#trade# vous remercie pour l’achat de cette nouvelle Batterie Portable Energy Extra
 Battery 2500. On vous souhaite une bonne utilisation. Cette batterie portable et rechargeable
 avec 2500mAh de capacité est idéale pour recharger votre smartphone, tablettes, lecteurs
 multimédia ou d’autres appareils électroniques. Câble inclut, design très léger et format de poche.
