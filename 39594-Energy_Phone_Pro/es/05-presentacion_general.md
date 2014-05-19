@@ -16,7 +16,7 @@
 12. Botón de encendido/apagado.
 13. Micrófono inferior.
 14. Micrófono trasero.
-15. Ranura de tarjeta SIM1.
-15. Ranura de tarjeta SIM2.
+15. Ranura de tarjeta microSIM1.
+15. Ranura de tarjeta microSIM2.
 
 </quick_guide>

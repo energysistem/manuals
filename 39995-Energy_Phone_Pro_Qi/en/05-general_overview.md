@@ -14,8 +14,8 @@
 12. Power button.
 13. Lower microphone.
 14. Rear microphone.
-15. SIM card slot 1.
-16. SIM card slot 2.
+15. microSIM card slot 1.
+16. microSIM card slot 2.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39594/53738a86b238b.jpg)
 </quick_guide>

@@ -5,7 +5,7 @@
 - WI-FI connection (802.11 b/g/n): the fastest Internet connection through a Wi-Fi access point.
 - GPS function: the most precise and reliable satellite navigation.
 - NFC (Near Field Communication) and Bluetooth 4.0 wireless connections for headphones, speakers and other NFC or Bluetooth devices.
-- Dual SIM-card Slot.
+- Dual microSIM-card Slot.
 - 2GB RAM.
 - 16GB internal memory that can store up to 64 hours of video and 8.000 songs.
 - Integrated 5.0 Mpx BSI+ FOV 88º front camera with LED flash.

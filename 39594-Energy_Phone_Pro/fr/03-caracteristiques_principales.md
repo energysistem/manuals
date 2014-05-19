@@ -6,7 +6,7 @@
 * Connexion WI-FI (802.11 b/g/n): permet une connexion rapide à Internet via un point d'accès Wi-Fi.
 * Fonction GPS: La navigation via satellite est plus précise et fiable.
 * Connexions sans fil NFC (Near Field Communication) et Bluetooth 4.0 pour les écouteurs, haut-parleurs et d'autres appareils NFC et Bluetooth.
-* Double entrée de cartes SIM.
+* Double entrée de cartes microSIM.
 * 2 Go RAM.
 * 16 Go de mémoire interne qui permettent de stocker jusqu'à 64 heures de vidéo ou 8.000 chansons.
 * Caméra frontale intégrée de 5.0 Mpx BSI+ avec un angle de ouverture de 88º de largeur et flash LED.

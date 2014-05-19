@@ -14,8 +14,8 @@
 12. Botón de encendido/apagado.
 13. Micrófono inferior.
 14. Micrófono trasero.
-15. Ranura de tarjeta SIM1.
-15. Ranura de tarjeta SIM2.
+15. Ranura de tarjeta microSIM1.
+15. Ranura de tarjeta microSIM2.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39995/53738dfbd08f2.jpg)
 </quick_guide>
