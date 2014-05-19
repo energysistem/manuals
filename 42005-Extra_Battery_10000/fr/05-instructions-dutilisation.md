@@ -1,9 +1,9 @@
 ## <quick_guide> Instructions d'utilisation
 
 **Chargement d'un appareil portable:**
-1. Branchez le c�ble USB sur le port de sortie de la batterie.
+1. Branchez le câble USB sur le port de sortie de la batterie.
 1. Branchez le câble USB type A-Micro USB sur l'entrée du port de l'appareil portable à charger.
-2. Le processus de chargement commencera automatiquement. AUcun indicateur LED doit s'allumer pendant le chargement de l'appareil, pouvant vérifier l'état de chargement depuis l'appareil.
+2. Le processus de chargement commencera automatiquement.
 3. Une fois le chargement terminé, déconnectez l'appareil et la Extra Battery s'éteindra automatiquement et immédiatement.
 
 
@@ -17,5 +17,6 @@
 
 
 **REMARQUE IMPORTANTE**
+
 Il n'est pas recommandé de réaliser le chargement de l'Extra Battery en même temps qu'elle soit connectée sur un aute appareil, car cela peut réduire la durée de ce type de batterie.
 </quick_guide>
