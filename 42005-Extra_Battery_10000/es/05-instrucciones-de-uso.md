@@ -9,7 +9,7 @@
 
 
 **Carga de Energy Extra Battery:**
-1. Conecta el tipo A-Micro USB al conector USB micro de tu Energy Extra Battery.
+1. Conecta el tipo A-Micro USB al conector micro USB de tu Energy Extra Battery.
 1. Conecta el extremo USB tipo A a un alimentador de 5V o a un ordenador con salida USB tipo A.
 1. La carga comenzará automáticamente, encendiéndose el indicador LED en color rojo, lo que indica que la carga ha comenzado.
 1. Cuando finalice la carga, el indicador LED cambiará de rojo a azul, indicando que la batería está completamente cargada.
