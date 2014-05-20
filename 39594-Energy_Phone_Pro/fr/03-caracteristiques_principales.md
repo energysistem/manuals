@@ -24,4 +24,4 @@
 * Fréquence d'opération: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
 * Autonomie: jusqu'à 360 heures en standby et 18 heures de conversation.
 * Capacité de la batterie: 2.300mAh.
-* Mesure SAR: 0.401 (W/Kg) en tête et 0.679 (W/Kg) en corps (à 10mm de distance).
+* Mesure SAR: 0.401 (W/Kg) en tête et 0.679 (W/Kg) en corps (à 10mm de portée).
