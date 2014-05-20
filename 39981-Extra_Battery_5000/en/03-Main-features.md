@@ -2,7 +2,7 @@
 - Reliable, efficient and light lithium polymer battery.
 - Built-in USB cable to avoid tangles and losing the cable.
 - Intelligent circuit that allows you to charge 2 devices at the same time.
-- Ideal to charge smartphones, including Android and Apple*.
+- Ideal to charge smartphones, including Android and IOS*.
 - Intelligent Protection System when overcharging, voltage spikes and short circuit.
 - LED charge indicator.
 - Shake the battery to control the battery level

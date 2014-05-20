@@ -3,7 +3,7 @@
 * Cable USB integrado, para evitar enredos o pérdidas.
 * Circuito inteligente que permite recargar el Extra Battery y recargar tu dispositivo simultáneamente.
 * Sistema inteligente que te permite cargar dos dispositivos a la vez.
-* Ideal para cargar smartphones (via Micro USB), compatible con las principales marcas de Smartphones y tablets incluido Android, Apple*..
+* Ideal para cargar smartphones y tablets (via Micro USB), compatible con las principales marcas del mercado y sistemas operativos*.
 * Sistema inteligente de protección ante sobrecarga, pico de tensión y corto circuito.
 * Indicador LED de carga.
 * Agita tu Extra Battery para comprobar el estado de la carga.
