@@ -7,7 +7,8 @@
 * [Contenu du produit](04-contenu-du-produit.md)
 * [Instructions d'utilisation](05-instructions-dutilisation.md)
 * [FAQs](06-FAQs.md)
-* [Conditions de la garantie](07-conditions-de-la-garantie.md)
-* [Fonctionnement de la garantie](08-fonctionnement-de-la-garantie.md)
-* [Déclaration de conformité](09-declaration-de-conformite.md)
+* [Soin et maintenance](07-soin-et-maintenance.md)
+* [Conditions de la garantie](08-conditions-de-la-garantie.md)
+* [Fonctionnement de la garantie](09-fonctionnement-de-la-garantie.md)
+* [Déclaration de conformité](10-declaration-de-conformite.md)
 
