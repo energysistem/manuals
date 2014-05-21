@@ -19,6 +19,7 @@
 * Capteur de mouvement (accéléromètre).
 * Écran avec réglage automatique de luminosité.
 * Capteur de proximité.
+* LED de notifications.
 * Smartphone avec système ANDROID#trade#  4.2 optimisée (Android 4.4 disponible très bientot via OTA).
 * Applications installées: navigateur d'Internet, gestionnaire de courrier électronique, applications pour jouer de la musique / des vidéos / des photos, radio FM, alarme et calculatrice.
 * Permet l'installation des milliers d'applications et des jeux disponibles pour le système d'exploitation ANDROID#trade# .
