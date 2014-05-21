@@ -1,4 +1,4 @@
-##<quick_guide> Pr�sentation générale
+##<quick_guide> Présentation générale
 
 1 - Câble Micro USB
 
