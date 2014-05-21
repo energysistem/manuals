@@ -2,6 +2,7 @@
 
 * Écran tactile capacitif OGS de 5.0" IPS (Full HD - 1920x1080p).
 * Processeur octo-coeur ARM Cortex A7 1.7GHz et GPU Mali-450.
+* Cadre frontal et structure d'aluminium.
 * Connexion 3G pour profiter de l'Internet quand vous voulez.
 * Connexion WI-FI (802.11 b/g/n): permet une connexion rapide à Internet via un point d'accès Wi-Fi.
 * Fonction GPS: La navigation via satellite est plus précise et fiable.
