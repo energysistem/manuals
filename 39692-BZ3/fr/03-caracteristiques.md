@@ -39,3 +39,9 @@
 * Chargeur de batterie USB.
 * Sortie pour les écouteurs.
 * Distance d'utilisation jusqu'à 10m de portée.
+
+
+### Caractéristiques de la batterie de lithium rechargeable.
+
+* Capacité nominale: 1050 mA.
+* Tension nominale: 3.7V.
