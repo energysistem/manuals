@@ -2,7 +2,7 @@
 
 * [Portada](00-Portada.md)
 * [Introduction](01-introduction.md)
-* [Information générale](02-Information-generale.md)
+* [Presentation générale](02-presentation-generale.md)
 * [Caractéristiques principales](03-caracteristiques-principales.md)
 * [Contenu du produit](04-contenu-du-produit.md)
 * [Instructions d'utilisation](05-instructions-dutilisation.md)
