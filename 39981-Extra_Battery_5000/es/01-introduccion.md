@@ -5,4 +5,5 @@ para recargar tu smartphone, tablet, reproductor multimedia u otros dispositivos
 estés. Conectores intercambiables. Cable integrado y diseño compacto y ligero.
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una
 manera segura y aprovechando al máximo sus prestaciones.
+Encuentra el manual completo de la ENERGY EXTRA BATTERY 5000 en el siguiente enlace http://www.energysistem.com/guide/39981
 </quick_guide>

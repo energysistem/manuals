@@ -5,4 +5,5 @@ para recargar tu smartphone, tablet, reproductor multimedia u otros dispositivos
 estés. Cable integrado, diseño ultraligero y práctico tamaño de bolsillo.
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una
 manera segura y aprovechando al máximo sus prestaciones.
+Encuentra el manual completo de la ENERGY EXTRA BATTERY 2500 en el siguiente enlace http://www.energysistem.com/guide/42006 
 </quick_guide>

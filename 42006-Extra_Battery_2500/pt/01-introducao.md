@@ -5,4 +5,5 @@ para carregar teu smartphone, tablet, leitor multimédia ou outros dispositivos 
 vá. Cabo integrado, desenho ultra-leve e práctico tamanho de bolso.
 Aconselhamos-lhe leia o presente manual do usuário para desfrutar do produto de uma
 manear segura e triando ao máximo suas prestações.
+Encontre o manual completo do ENERGY EXTRA BATTERY 2500 no link http://www.energysistem.com/guide/42006 
 </quick_guide>

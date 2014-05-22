@@ -7,4 +7,7 @@ multimédia ou d’autres appareils électroniques. Câble inclut, design très 
 
 On vous conseille de lire le présent manuel de l’utilisateur pour profiter du produit d’une manière
 sûre et en profitant de ses fonctions.
+
+Trouvez le manuel complet de l'ENERGY EXTRA BATTERY 2500 sur le site internet http://www.energysistem.com/guide/42006 
+
 </quick_guide>

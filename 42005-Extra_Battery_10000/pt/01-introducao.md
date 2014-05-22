@@ -5,4 +5,5 @@ para carregar teu smartphone, tablet, leitor multimédia ou outros dispositivos 
 vá. Conectores intercambiáveis. Cabo integrado e design compacto e leve.
 Aconselhamos-lhe leia o presente manual do usuário para desfrutar do produto de uma
 manear segura e triando ao máximo suas prestações.
+Encontre o manual completo do ENERGY EXTRA BATTERY 10000 no link http://www.energysistem.com/guide/42005
 </quick_guide>

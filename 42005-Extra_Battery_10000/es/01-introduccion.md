@@ -5,4 +5,6 @@ para recargar tu smartphone, tablet, reproductor multimedia u otros dispositivos
 estés. Cable Integrado y función de carga simultánea de 2 dispositivos
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una
 manera segura y aprovechando al máximo sus prestaciones.
+Encuentra el manual completo de la ENERGY EXTRA BATTERY 10000 en el siguiente enlace http://www.energysistem.com/guide/42005 
+
 </quick_guide>
