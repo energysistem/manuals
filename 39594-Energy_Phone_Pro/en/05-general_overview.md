@@ -1,6 +1,6 @@
 ## <quick_guide> General Overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738a86b238b.jpg)
+![Imagen1](	http://static.energysistem.com/images/manuals/39594/537da549e8825.jpg)
 
 1. Proximity and luminosity sensors.
 2. Headphones output.
@@ -18,4 +18,5 @@
 14. Rear microphone.
 15. microSIM card slot 1.
 16. microSIM card slot 2.
+17. Notifications LED.
 </quick_guide>

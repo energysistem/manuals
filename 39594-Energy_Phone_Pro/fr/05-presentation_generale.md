@@ -1,6 +1,6 @@
 ## <quick_guide> Vue principale
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738a86b238b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/537da549e8825.jpg)
 
 1. Capteurs de luminosité et de proximité.
 2. Sortie pour les écouteurs.
@@ -18,5 +18,6 @@
 14. Microphone arrière.
 15. Entrée cartes microSIM 1.
 16. Entrée cartes microSIM 2.
+17. LED de notifications.
 
 </quick_guide>
