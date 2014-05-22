@@ -1,18 +1,14 @@
 #<quick_guide> Usage instructions
 **Portable device charges:**
-1. Connect the micro USB cable to the portable device you want to charge .
-2. Charging process will start automatically.
-3. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically and instantly.
+
+Connect the micro USB cable (1) to the portable device you want to charge. Charging process will start automatically. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically and instantly.
 
 
 **Energy Extra Battery charge:**
-1. Connect any cables * Micro-USB Type A to micro USB connector of your Energy Extra Battery.
-2. Connect the USB type A to 5V charger or computer's USB port. Then connect micro USB to your Energy Extra Battery.
-3. Charging process will start automaticallym LED indicator will light in red.
-4. When the charging process has finished, LED indicator will light in blue, indicating that the battery is completely charged.
-5. Disconnect the Energy Extra Battery and it will switch off automatically.
 
-*Cable not included
+Connect any cables * Micro-USB Type A to micro USB connector of your Energy Extra Battery (3). Connect the USB type A to 5V charger or computer's USB port. Then connect micro USB to your Energy Extra Battery. Charging process will start automatically LED indicator will light in red (2). When the charging process has finished, LED indicator will light in blue (2), indicating that the battery is completely charged. Disconnect the Energy Extra Battery and it will switch off automatically.
+
+*Cable not included.
 
 **IMPORTANT**
 Charging the Extra Battery with a device connected at the same time is not recommanded, as this procedure can reduce the normal life-cycle of this model of battery.

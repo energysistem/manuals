@@ -1,4 +1,4 @@
-##<quick_guide> Introduction
+##<quick_guide> General presentation
 1 - USB cable type A_ Micro USB
 
 2 - LED battery level indicator

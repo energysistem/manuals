@@ -3,19 +3,14 @@
 **Carga de um dispositivo móvel:**
 
 
-1. Liga o cabo Micro USB à entrada para alimentação do dispositivo móvel que você quere recarregar.
-1. O processo de carga começará de forma automática.
-1. Quando esteja finalizada a carga, desligue o dispositivo e a Extra Battery se desligar automaticamente de imediato.
+Liga o cabo Micro USB (1) à entrada para alimentação do dispositivo móvel que você quere recarregar. O processo de carga começará de forma automática. Quando esteja finalizada a carga, desligue o dispositivo e a Extra Battery se desligar automaticamente de imediato.
 
 
 **Carga de Energy Extra Battery:**
-1. Liga qualquer cabo* tipo A-Micro USB no conector USB micro da tua Energy Extra Battery.
-1. Liga a extremidade USB tipo A num alimentador de 5V ou num computador com saída USB tipo A.
-1. A carga começará automáticamente, quando ligue-se o indicador LED em cor vermelho.
-1. Quando o carregamento estiver concluído, o indicador LED mudará de vermelho à azul, indicando que a bateria está totalmente carregada.
-1. Desliga tua Extra Battery da corrente e desligará-e instantaneamente.
 
-*cabo não incluído.
+Liga qualquer cabo* tipo A-Micro USB no conector USB micro da tua Energy Extra Battery (3). Liga a extremidade USB tipo A num alimentador de 5V ou num computador com saída USB tipo A. A carga começará automáticamente, quando ligue-se o indicador LED em cor vermelho (2). Quando o carregamento estiver concluído, o indicador LED mudará de vermelho à azul (2), indicando que a bateria está totalmente carregada. Desliga tua Extra Battery da corrente e desligará-e instantaneamente.
+
+*Cabo não incluído.
 
 **AVISO IMPORTANTE:**
 
