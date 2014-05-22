@@ -1,6 +1,6 @@
 ## Características
 
-### Características gerai
+### Características gerais
 
 * Reproduz MP3 desde cartões micro SD/SDHC com capacidade de até 32 GB.
 * Entrada line-in de 3.5 mm: para escutar música de qualquer leitor poratátil ou computador.
