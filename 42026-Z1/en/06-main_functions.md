@@ -4,10 +4,10 @@
 
 Use the button (10) to turn on / off your device.
 
-To turn on your device, move the ON/OFF button (10) to the "ON" position and you will see that the LED (7) flashes in blue. The speaker will play a welcome sound meaning that the device is now turned on.
+To turn on your device, move the ON/OFF button (10) to the "ON" position and you will see that the LED (7) flashes in green. The speaker will play a welcome sound meaning that the device is now turned on.
 To turn off your device, move the ON/OFF button (10) to the "OFF" position.
 
-While the device is turned on, the LED indicator (7) will keep flashig in blue or green depending on the play mode selected.
+While the device is turned on, the LED indicator (7) will keep flashing in green.
 
 ### Changing play mode
 
