@@ -9,7 +9,7 @@
 -  Batterie préchargée pour une utilisation instantanée.
 -  Agiter pour contrôler l'état de la batterie
 -  S'éteint automatiquement quand il n'y a pas d'appareils branchés pour économiser la batterie.
--  Batterie lithium-ion portable et rechargeable de 3.6V / 5000mAh.
+-  Batterie lithium-ion portable et rechargeable de 3.6V / 10000mAh.
 -  Compatible avec iOS*, Android, Windows Mobile® et Blackberry®.
 - Entrée: Micro USB de 5V / 1000mA et chargement à travers des ports USB standard de 5V.
 - Sortie: Micro USB 5V / 1000mA.
