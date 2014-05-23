@@ -1,5 +1,6 @@
 ##<quick_guide> Usage instructions
 **Portable device charges:**
+
 Connect the USB cable (1) to the output of your Extra Battery (4). Connect the other extreme of USB cable type A-micro USB (1) to the portable device you want to charge by using one of the included conectors. Charging process will start automatically. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically and instantly.
 
 

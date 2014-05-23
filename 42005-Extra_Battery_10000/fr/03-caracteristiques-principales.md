@@ -1,7 +1,7 @@
 ##<quick_guide> Caractéristiques principales
 - Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
-- Câble inclut pour Ã©viter les noeuds.
-- Idéale pour charger des Smartphones et tablettes, compatible avec les principales marques du march�.
+- Câble inclut pour éviter les noeuds.
+- Idéale pour charger des Smartphones et tablettes, compatible avec les principales marques du marché.
 - Indicateur LED de chargement.
 - Permet de retenir le 95% de chargement jusqu'à 30 jours.
 - Son circuit intelligent permet de recharger deux appareils au même temps.
