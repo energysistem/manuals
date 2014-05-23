@@ -4,12 +4,11 @@
 
 Utilisez le bouton ON/OFF(10) pour allumer ou éteindre l'appareil.
 
-Pour allumer l'appareil, déplacez le bouton ON/OFF (10) vers la position ON et vous verrez que le LED (7) clignote en bleu. L'haut-parleur émettra un son de bienvenue qu'indique que l'appareil est allumé.
+Pour allumer l'appareil, déplacez le bouton ON/OFF (10) vers la position ON et vous verrez que le LED (7) clignote en vert. L'haut-parleur émettra un son de bienvenue qu'indique que l'appareil est allumé.
 
 Pour éteindre l'appareil, déplacez le bouton ON/OFF (10) vers la position OFF.
 
-Si l'appareil est allumé, la lumière LED indicateur (7) sera allumée en vert ou bleu en fonction du mode le lecture.
-
+Si l'appareil est allumé, la lumière LED indicateur (7) sera allumée en vert.
 ### Changement du mode de lecture
 
 AAprès avoir allumé l'appareil, la recherche d'appareils bluetooth démarrera automatiquement. Pour changer vers le mode line-in, il faut brancher le câble audio (inclut) à la connexion line-in (9). Pour changer entre les différents modes de lecture, appuyez le touche menu (5). En mode line-in, l'indicateur LED (6) changera à couleur vert. </quick_guide>
