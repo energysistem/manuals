@@ -12,7 +12,7 @@
 - Portable and rechargeable lithium-ion battery 3.6V/5000mAh.
 - Auto Power Off in order to save battery power
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
-- Output: Micro USB 5V / 1000mA.
+- Output: USB 5V / 1000mA.
 
 *Iphone connectors not included.
 

@@ -9,6 +9,7 @@ We declare under our own exclusive responsibility that the product:
 **Energy Sistem#trade# - Extra Battery 5000**
 
 _**Manufacturing Country:**_ China
+
 Is in compliance with the essential norms and standards of the Directive 2004/i08/CE of the European Parliament and of the Council of December 15th 2004.
 </quick_guide>
 

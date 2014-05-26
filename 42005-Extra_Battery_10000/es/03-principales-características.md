@@ -1,7 +1,7 @@
 ## <quick_guide> Principales características
 * Batería de polímero de litio con más fiabilidad, eficiencia y ligereza.
 * Cable USB integrado, para evitar enredos o pérdidas.
-* Circuito inteligente que permite recargar el Extra Battery y recargar tu dispositivo simultáneamente.
+* Circuito inteligente que permite recargar la Extra Battery y recargar tu dispositivo simultáneamente.
 * Sistema inteligente que te permite cargar dos dispositivos a la vez.
 * Ideal para cargar smartphones y tablets (via Micro USB), compatible con las principales marcas del mercado y sistemas operativos*.
 * Sistema inteligente de protección ante sobrecarga, pico de tensión y corto circuito.

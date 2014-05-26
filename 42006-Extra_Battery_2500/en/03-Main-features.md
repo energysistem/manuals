@@ -1,7 +1,7 @@
 ##<quick_guide> Main features
 - Reliable, efficient and light lithium polymer battery.
 - Built-in USB cable to avoid tangles and losing the cable.
-- Ideal to charge smartphones, including Android and Apple*.
+- Ideal to charge smartphones (via micro USB).
 - LED charge indicator.
 - The battery keeps 95% charge up to 30 days.
 - Ultra-slim and pocket size only 60 g and 7mm of thickness.
