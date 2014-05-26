@@ -2,7 +2,7 @@
 
 **Carga de um dispositivo móvel:**
 
-Liga o cabo USB (1) na porta de saída da bateria (4). Liga o cabo USB tipo A-Micro USB (1) à entrada para alimentação do dispositivo móvel que você quere recarregar. O processo de carga começará de forma automática. Quando esteja finalizada a carga, desligue o dispositivo e a Extra Battery se desligar automaticamente de imediato.
+Liga o cabo USB tipo A-Micro USB (1) à entrada para alimentação do dispositivo móvel que você quere recarregar. O processo de carga começará de forma automática. Os indicadores LED piscam e indicam a capacidade atual da bateria. Quando esteja finalizada a carga, desligue o dispositivo e a Extra Battery se desligar automaticamente de imediato.
 
 
 **Carga de Energy Extra Battery:**

@@ -10,6 +10,6 @@ Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
 _**País de fabricação:**_ China
 
-Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+Está em conformidade com as normas e padrões essenciais da Diretiva 2004/08/CE do Parlamento Europeu e do Conselho de 15 de dizembre de 2004.
 
  </quick_guide>

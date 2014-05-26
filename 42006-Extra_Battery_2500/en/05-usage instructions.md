@@ -1,4 +1,4 @@
-#<quick_guide> Usage instructions
+##<quick_guide> Usage instructions
 **Portable device charges:**
 
 Connect the micro USB cable (1) to the portable device you want to charge. Charging process will start automatically. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically and instantly.
@@ -11,5 +11,6 @@ Connect any cable * Micro USB - USB A Type to micro USB port of your Energy Extr
 *Cable not included.
 
 **IMPORTANT**
+
 Charging the Extra Battery with a device connected at the same time is not recommanded, as this procedure can reduce the normal life-cycle of this model of battery.
 </quick_guide>

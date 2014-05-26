@@ -9,6 +9,7 @@ Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 **Energy Sistem#trade# - Extra Battery 2500**
 
 _**País de fabricação:**_ China
+
 Está em conformidade com as normas e padrões essenciais da Diretiva 2004/08/CE  do Parlamento Europeu e do Conselho de 15 do dezembro do 2004.
 
  </quick_guide>

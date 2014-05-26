@@ -1,4 +1,4 @@
-##<quick_guide> Introduction
+##<quick_guide> General presentation
 1 - Micro USB Cable
 
 2 - LED charge indicator

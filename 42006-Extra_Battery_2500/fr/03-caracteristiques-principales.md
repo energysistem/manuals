@@ -1,7 +1,7 @@
 ##<quick_guide> Caractéristiques principales
 
 - Batterie de lithium-ion polymère plus fiable, efficace et légère.
-- Câble inclut pour éviter les noeuds.
+- Câble intégré pour éviter les noeuds.
 - Idéale pour charger des Smartphones (via Micro USB).
 - Indicateur LED de chargement.
 - Permet de retenir 95% du chargement jusqu'à 30 jours.
