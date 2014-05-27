@@ -6,7 +6,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
-**Energy Sistem#trade# - Extra Battery 10000**
+**Energy Sistem#trade# - Extra Battery 10000+**
 
 _**País de fabricação:**_ China
 
