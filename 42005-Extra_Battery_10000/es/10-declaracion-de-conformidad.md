@@ -12,7 +12,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 **Energy Sistem#trade# - Extra Battery 10000+**
 
-Paí­s de fabricación: China
+**Paí­s de fabricación**: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
