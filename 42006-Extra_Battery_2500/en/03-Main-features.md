@@ -11,5 +11,5 @@
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
 - Output: Micro USB 5V / max. 1000mA.
 
-*iPhone connector not included
+*IPhone/Ipad connector not included
 </quick_guide>

@@ -14,5 +14,5 @@
 
 
 
-*Connecteur iPhone non inclus.
+*Connecteur IPhone/Ipad non inclus.
 </quick_guide>

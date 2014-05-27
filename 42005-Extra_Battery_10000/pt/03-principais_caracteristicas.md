@@ -3,7 +3,7 @@
 * Bateria de lítio-polímero com mais fiabilidade, eficiência e leveza.
 * Cabo USB integrado para evotar enrolamentos ou perdas.
 * Sistema inteligente que permite-lhe carregar dois dispositivos ao mesmo tempo.
-* Ideal para carregar smartphones (via Micro USB), compatível com as principais marcas de Smartphones e tablets incluindo Android, IOS*.
+* Ideal para carregar smartphones (via Micro USB), compatível com as principais marcas de Smartphones e tablets*.
 * Sistema inteligente de protecção o sobrecarga, pico de tensão e curto-circuito.
 * Indicador LED de carga.
 * Agitar a Extra Battery e verificar o estado da carga.

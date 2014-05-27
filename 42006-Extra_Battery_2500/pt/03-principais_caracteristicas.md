@@ -9,9 +9,9 @@
 * Bateria pré-carregada para utilização imediata.
 * Bateria recarregável de 3.6V / 2500 mAh.
 * Compatível com IOS*, Android, Windows mobile e Blackberry.
-* Entrada: micro USB de 5V / 1000mA e recarrega através de porta USB estándar de 5V.
+* Entrada: Micro USB de 5V / 1000mA e recarrega através de porta USB estándar de 5V.
 * Saída: Micro USB 5V / max. 1000mA.
 
 
-*conector não fornecido
+*Conector Iphone/Ipad não fornecido.
 </quick_guide>
