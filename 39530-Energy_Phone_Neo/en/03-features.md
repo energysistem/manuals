@@ -16,7 +16,6 @@
 * Built-in speaker.
 * Built-in omnidirectional microphone.
 * Motion sensor (accelerometer).
-* Display with auto brightness. 
 * Proximity sensor. 
 * Built-in magnetic sensor. 
 * Installed applications: Internet browser, e-mail client, applications for playing music / videos / photos, FM radio, alarm and calculator.
