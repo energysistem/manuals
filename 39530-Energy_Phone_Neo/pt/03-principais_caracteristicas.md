@@ -17,7 +17,6 @@
 * Alto-falante integrado.
 * Microfone omnidirecional integrado.
 * Sensor de movimento (acelerómetro).
-* Tela com ajuste automático de luminosidade.
 * Sensor de proximidade.
 * Sensor magnético integrado.
 * Aplicações instaladas: navegador de Internet, gerente de correio eletrônico, aplicações para a lectura de música / vídeos / fotos, radio FM, alarme e calculadora.
