@@ -18,6 +18,6 @@ Quand vous allumez l'appareil, la recherche d'appareils bluetooth commencera aut
 
 ### Chargement de la batterie.
 
-Quand l'haut-parleur n'émet pas de son ou vous commencez à percevoir qu'à une courte distance émet des interférences en mode bluetooth, c'est le moment de le charger, pour cela, connectez-le sur le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box BZ3 Bluetooth* (11), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (10) s'allume en rouge et quand la charge soit complète s'éteint.
+Quand l'haut-parleur n'émet pas de son ou l'icône de la batterie commence à clignoter, c'est le moment de le charger, pour cela, connectez-le sur le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box BZ3 Bluetooth* (11), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (10) s'allume en rouge et quand la charge soit complète s'éteint.
 
 **AVIS IMPORTANT:** Pour mantenir la batterie en bon état, il est fortement conseillé de ne pas la charger jusqu'au son épuisement. De la même façon, ne pas interrompre le processus de chargement jusqu'à qu'elle soit complètement chargée.
