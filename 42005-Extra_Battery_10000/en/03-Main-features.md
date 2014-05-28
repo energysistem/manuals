@@ -2,7 +2,7 @@
 - Reliable, efficient and light lithium polymer battery.
 - Built-in USB cable to avoid tangles and losing the cable.
 - Intelligent circuit that allows you to charge 2 devices at the same time.
-- Ideal to charge smartphones, including Android and IOS*.
+- Ideal to charge smartphones, compatible with all market brands*.
 - Intelligent Protection System when overcharging, voltage spikes and short circuit.
 - LED charge indicator.
 - Shake the battery to monitor the battery level.
@@ -11,8 +11,8 @@
 - Portable and rechargeable lithium-ion battery 3.6V/10000mAh.
 - Auto Power Off in order to save battery power.
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
-- Output: Micro USB 5V / 1000mA.
+- Output: USB 5V / 1000mA.
 
-*Iphone connectors not included.
+*Iphone/Ipad connectors not included.
 
 </quick_guide>

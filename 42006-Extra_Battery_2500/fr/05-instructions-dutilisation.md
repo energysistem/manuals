@@ -7,7 +7,7 @@ Branchez le câble Micro USB (1) sur l'entrée du port de l'appareil portable à
 
 **Chargement de l'Extra Battery**
 
-Branchez n'importe quel câble* type A-Micro USB au port micro USB de votre Extra Battery (3). Branchez le port USB type A à une prise d'alimentation de 5V ou au port de sortie USB type A d'un ordinateur. Le chargement commencera automatiquement, s'allumera un indicateur LED de couleur rouge (2). Une fois le chargement terminé, l'indicateur LED changera de rouge à bleu (2), indiquant que la batterie est complètement chargée. Débranchez votre Extra Battery et elle s'éteindra instentanément.
+Branchez n'importe quel câble* USB type A-Micro USB au port micro USB de votre Extra Battery (3). Branchez le connecteur USB type A à une prise d'alimentation de 5V ou au port de sortie USB type A d'un ordinateur. Le chargement commencera automatiquement, s'allumera un indicateur LED de couleur rouge (2). Une fois le chargement terminé, l'indicateur LED changera de rouge à bleu (2), indiquant que la batterie est complètement chargée. Débranchez votre Extra Battery et elle s'éteindra instentanément.
 
 
 *Câble non inclus.

@@ -1,7 +1,7 @@
 ##<quick_guide> Usage instructions
 **Portable device charges:**
 
-Connect the built-in USB cable with the micro USB port(1) of the portable device you want to charge. Charging process will start automatically. The LED indicators will flash indicating the current capacity of battery. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically.
+Connect the built-in USB cable with the micro USB port (1) of the portable device you want to charge. Charging process will start automatically. The LED indicators will flash indicating the current capacity of battery. Once the charge is finished, disconnect the device and the Extra Battery will switch off automatically.
 
 
 **Energy Extra Battery charge:**
@@ -11,7 +11,7 @@ Connect the cable USB type A-Micro USB  (1) with the micro USB port of your Ener
 
 **IMPORTANT**
 
-Shake the battery to control the battery level.
+Shake the battery to monitor the battery level.
 
 Charging the Extra Battery with a device connected at the same time is not recommanded, as this procedure may reduce the normal life-cycle of battery.
 </quick_guide>

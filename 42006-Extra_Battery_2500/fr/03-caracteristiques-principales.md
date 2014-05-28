@@ -1,11 +1,11 @@
 ##<quick_guide> Caractéristiques principales
 
-- Batterie de lithium-ion polymère avec plus fiable, efficace et légère.
-- Câble inclut pour éviter les noeuds.
-- Idéale pour charger des Smartphones, Android et Apple* inclus.
+- Batterie de lithium-ion polymère plus fiable, efficace et légère.
+- Câble intégré pour éviter les noeuds.
+- Idéale pour charger des Smartphones (via Micro USB).
 - Indicateur LED de chargement.
-- Permet de retenir le 95% de chargement jusqu'à 30 jours.
--  Ultra-léger avec un design compact, seulement 60g et 7mm d'épaisseur.
+- Permet de retenir 95% du chargement jusqu'à 30 jours.
+-  Ultra-légère avec un design compact, seulement 60g et 7mm d'épaisseur.
 -  Batterie préchargée pour une utilisation instantanée.
 - Batterie lithium-ion portable et rechargeable de 3.6V / 2500mAh.
 -  Compatible avec iOS*, Android, Windows Mobile et Blackberry.
@@ -14,5 +14,5 @@
 
 
 
-*Connecteur iPhone non inclus.
+*Connecteur IPhone/Ipad non inclus.
 </quick_guide>

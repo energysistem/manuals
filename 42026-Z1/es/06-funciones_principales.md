@@ -4,11 +4,11 @@
 
 Utiliza el botón ON/OFF(10) para encender o apagar el dispositivo.
 
-Para encender el dispositivo, desplaza el botón ON/OFF (10) hacia la posición ON y verás que el LED (7) parpadea de color azul. El altavoz emitirá un sonido de bienvenida que indica que el dispositivo está encendido. 
+Para encender el dispositivo, desplaza el botón ON/OFF (10) hacia la posición ON y verás que el LED (7) parpadea de color verde. El altavoz emitirá un sonido de bienvenida que indica que el dispositivo está encendido. 
 
 Para apagar el dispositivo, desplaza el botón ON/OFF (10) hacia la posición OFF.
 
-Mientras el dispositivo esté encendido el LED (7) indicador se mantendrá iluminado en verde o azul en función del modo de reproducción.
+Mientras el dispositivo esté encendido el LED (7) indicador se mantendrá iluminado en verde o parpadeará en función del modo de reproducción.
 
 ### Cambio de modo de reproducción
 

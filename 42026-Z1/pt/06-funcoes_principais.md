@@ -4,11 +4,11 @@
 
 Utiliza o botão ON/OFF (10) para ligar ou desligar o dispositivo.
 
-Para ligar o dispositivo, desloca o botão ON/OFF (10) à posição ON e a LED (7) piscará de cor azul.  O alto-falante emitirá um som de boas-vindas que indica que o dispositivo está ligado.
+Para ligar o dispositivo, desloca o botão ON/OFF (10) à posição ON e a LED (7) piscará de cor verde.  O alto-falante emitirá um som de boas-vindas que indica que o dispositivo está ligado.
 
 Para desligar o dispositivo, desloca o botão ON/OFF (10) à posição OFF.
 
-Enquanto o dispositivo seja ligado, a LED indicador (7) estará em cor verde ou azul em relação do modo de leitura.
+Enquanto o dispositivo seja ligado, a LED indicador (7) estará em cor verde.
 
 ### Mudar o modo de leitura
 
