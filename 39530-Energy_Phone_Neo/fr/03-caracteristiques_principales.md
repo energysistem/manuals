@@ -17,7 +17,6 @@
 * Haut-parleur inclut.
 * Microphone omnidirectionnel inclut.
 * Capteur de mouvement (accéléromètre).
-* Écran avec réglage de luminosité.
 * Capteur de proximité.
 *	Capteur magnétique inclut.
 * Applications installées: navigateur Internet, gestionnaire de courrier électronique, applications pour la lecture de musique / vidéos / photos, radio FM, alarme et calculatrice.
