@@ -45,4 +45,8 @@
 
 * Capacidad nominal: 1050 mA.
 * Voltaje nominal: 3.7V.
-
+* Autonomía en modo radio: 15 horas.*
+* Autonomía en modo música: 12 horas.*
+* Autonomía en modo Bluetooth: 10 horas.*
+<br/><br/>
+ **La duración de la batería es aproximada. Mayor volumen en los auriculares se traduce en un mayor consumo de la batería.
