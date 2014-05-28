@@ -38,6 +38,7 @@
 * Capacidad nominal: 1800 mA.
 * Voltaje nominal: 3.7V.
 * Autonomía: 15 horas.*
+* Autonomía en modo música: 12 horas.*
 * Peso: 43 g.
 <br/><br/>
  *La duración de la batería es aproximada. Mayor potencia en los altavoces se traduce en un mayor consumo de la batería.
