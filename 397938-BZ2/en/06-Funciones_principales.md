@@ -4,14 +4,14 @@
 
 Use the button (9) to turn on / off your device.
 
-To turn on your device, move the ON/OFF button (9) to the "ON" position. The LED INDICATOR (7) will be flash, meaning that the device is now turned on.
+To turn on your device, move the ON/OFF button (9) to the "ON" position. The LED INDICATOR (2) will be flash, meaning that the device is now turned on.
 
-To turn off your device, move the ON/OFF button (4) to the "OFF" position.
+To turn off your device, move the ON/OFF button (9) to the "OFF" position.
 
 
 ### Changing play mode
 
-When you turn the device, pairing mode will start automatically. To change into "line-in" mode, you only need to connect audio cable (included) to the line-in connection (11). Press the MODE button (1) to switch between different playback modes.
+When you turn on the device, pairing mode will start automatically. To change into "line-in" mode, you only need to connect audio cable (included) to the line-in connection (11). Press the MODE button (1) to switch between different playback modes.
 
 
 </quick_guide>

@@ -15,8 +15,7 @@
 - 3.5 mm "line-in" port: listen to music from any portable player or PC.
 - Rechargeable lithium battery up to 14 hours duration.*
 - USB port charging system.
-<br/><br/>
-*The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+
 
 ### Technical features
 
@@ -45,5 +44,6 @@
 - Autonomy in radio mode: 11 hours.*
 - Autonomy in micro SD player mode: 9 hours.*
 - Autonomy in Bluetooth mode: 8 hours.*
-<br/><br/>
- **The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+
+<br/>
+*The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.

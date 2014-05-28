@@ -1,6 +1,6 @@
 ## Control de reproducción
 
-Una vez sincronizado el *Energy Music Box BZ2 Bluetooth* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, mantén pulsados los botones (3) “ - ” ó (4) “ + ”.
+Una vez sincronizado el *Energy Music Box BZ2 Bluetooth* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, mantén pulsados los botones (3) “ VOLUMEN -” ó (4) “VOLUMEN  +”.
 
 Para pausar o reanudar la reprodución, pulsa el botón PLAY/PAUSE (5) una única vez.
 
