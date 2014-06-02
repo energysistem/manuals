@@ -1,4 +1,4 @@
-## Função MP3 COM memórias externas
+## Função MP3 com memórias externas
 
 Para reproduzir arquivos em formato MP3 ou FLAC, insira uma memória externa USB ou um cartão de memória SD/MMC nas fendas correspondentes; (12) y (13) respectivamente. 
 
