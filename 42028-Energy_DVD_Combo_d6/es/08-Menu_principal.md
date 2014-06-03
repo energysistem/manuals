@@ -1,17 +1,17 @@
-## 7. MENÚ PRINCIPAL
+## 8. MENÚ PRINCIPAL
 
 El menú principal te permite acceder a la Configuración DVD, Menú DVB, Configuración de Sistema y Juegos. Pulsa el botón SETUP para acceder al menú principal.
 
-### 7.1. CONFIGURACIÓN DVD
+### 8.1. CONFIGURACIÓN DVD
 
-#### 7.1.1. CONFIGURACIÓN DEL IDIOMA
+#### 8.1.1. CONFIGURACIÓN DEL IDIOMA
 
 * Menu: Selecciona el idioma del menú de disco.
 * Audio: Selecciona el idioma del audio.
 * Subtítulos: Selecciona el idioma de los subtítulos.
 * Subtítulos externos: Selecciona la codificación de los subtítulos MPEG4.
 
-#### 7.1.2. CONFIGURACIÓN DEL AUDIO
+#### 8.1.2. CONFIGURACIÓN DEL AUDIO
 
 * Salida Digital
   * Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
@@ -21,7 +21,7 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
   * Lt/Rt: Selecciona esta opción cuando el D2600 esté conectado a un dispositivo compatible con Dolby Pro Logic.
   * Lo/Ro: Selecciona esta opción cuando el D2600 está conectado a un dispositivo estéreo convencional.
 
-#### 7.1.3. CONFIGURACIÓN PERSONAL
+#### 8.1.3. CONFIGURACIÓN PERSONAL
 
 * Control parental
  * Selecciona el nivel que desees y pulsa OK para confirmar. A continuación, introduzca la contraseña por defecto “6666”. Si has olvidado la contraseña introduce la contraseña por defecto: “6666”.
@@ -29,11 +29,11 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
  * Act.: Activa la función.
  * Desac.: Desactiva la función.
 
-### 7.2. MENÚ DVB-T
+### 8.2. MENÚ DVB-T
 
 En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona“DVB menu”.
 
-#### 7.2.1. LISTA DE PROGRAMAS
+#### 8.2.1. LISTA DE PROGRAMAS
 
 * Cadenas de TV
 La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
@@ -57,7 +57,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
   Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
 
-#### 7.2.2. BÚSQUEDA DE CADENAS
+#### 8.2.2. BÚSQUEDA DE CADENAS
 * Búsqueda Automática
 
   Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
@@ -72,7 +72,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
   Con la búsqueda manual puede sintonizar una cadena en particular. Introduzca luego el número de la cadena que desea y confírmela mediante el botón OK. Las cadenas sintonizadas manualmente se añadirán a la lista, pero el aparato no saldrá automáticamente del menú donde se encuentra.
 
-#### 7.2.3. CONTROL PATERNO
+#### 8.2.3. CONTROL PATERNO
 
 * Bloqueo de las cadenas
 
@@ -84,7 +84,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
 > Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
 
-#### 7.2.4. CONFIGURACIÓN DEL SISTEMA
+#### 8.2.4. CONFIGURACIÓN DEL SISTEMA
 
 * Antena (Alimentación Antena)
 
@@ -114,13 +114,13 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
   Seleccione esta función para programar la visualización de cadenas. Puedes almacenar hasta 10 programaciones.
 
-### 7.3. CONFIGURACIÓN DE SISTEMA
+### 8.3. CONFIGURACIÓN DE SISTEMA
 
-####7.3.1. CONFIGURACIÓN DEL IDIOMA
+#### 8.3.1. CONFIGURACIÓN DEL IDIOMA
 
 * OSD: Selección del idioma de visualización en pantalla.
 
-#### 7.3.2. CONFIGURACION DE LA PANTALLA
+#### 8.3.2. CONFIGURACION DE LA PANTALLA
 
 * Sistema TV
 
@@ -143,7 +143,7 @@ Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, 
 
   Ajusta el contraste de la pantalla.
 
-#### 7.3.3. PREFERENCIAS
+#### 8.3.3. PREFERENCIAS
 
 * Estilo UI (interfaz)
 
@@ -165,7 +165,7 @@ Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, 
 
   La información sobre el sistema incluye el modelo, hardware, software y fecha.
 
-### 7.4. JUEGOS
+### 8.4. JUEGOS
 
 * Tres juegos
  * Mine
