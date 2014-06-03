@@ -32,7 +32,7 @@ Consulta con la autoridad local sobre la normativa de residuos.
 ### LIMPIEZA
 Desconecta siempre el D6 antes de limpiarlo.
 No utilices limpiadores líquidos o en aerosol.
-Limpia el D2600 con una tela suave y húmeda (no mojada).
+Limpia el d6 con una tela suave y húmeda (no mojada).
 
 ### CUIDADOS DEL D6
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53564c7ccf0c8.jpg)
