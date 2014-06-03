@@ -19,20 +19,20 @@ Consideraciones sobre seguridad
 * No coloques objetos llenos de agua tales como floreros en la parte superior del D6.
 * No coloques fuentes de llama desnuda, como velas, en la parte superior del D6.
 
-### Ventilación
+### VENTILACIÓN
 Las ranuras y aberturas en el D6 son para la ventilación. No las cubras o bloquees, ya que puede causar un sobrecalentamiento.
 NUNCA permitas que los niños introduzcan nada en los orificios o ranuras.
 
-### Mantenimiento
+### MANTENIMIENTO
 El D6 no necesita mantenimiento.
 Tratamiento de las pilas agotadas
 Nunca deseches las baterías tirándolas al fuego o con otros residuos domésticos.
 Consulta con la autoridad local sobre la normativa de residuos.
 
-### Limpieza
+### LIMPIEZA
 Desconecta siempre el D6 antes de limpiarlo.
 No utilices limpiadores líquidos o en aerosol.
 Limpia el D2600 con una tela suave y húmeda (no mojada).
 
-### Cuidado del D6
+### CUIDADOS DEL D6
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53564c7ccf0c8.jpg)

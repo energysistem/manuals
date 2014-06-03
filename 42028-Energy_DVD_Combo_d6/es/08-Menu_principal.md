@@ -4,14 +4,14 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
 
 ### 7.1. CONFIGURACIÓN DVD
 
-#### 7.1.1. Configuración Idioma
+#### 7.1.1. CONFIGURACIÓN DEL IDIOMA
 
 * Menu: Selecciona el idioma del menú de disco.
 * Audio: Selecciona el idioma del audio.
 * Subtítulos: Selecciona el idioma de los subtítulos.
 * Subtítulos externos: Selecciona la codificación de los subtítulos MPEG4.
 
-#### 7.1.2. Configuración Audio
+#### 7.1.2. CONFIGURACIÓN DEL AUDIO
 
 * Salida Digital
   * Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
@@ -21,7 +21,7 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
   * Lt/Rt: Selecciona esta opción cuando el D2600 esté conectado a un dispositivo compatible con Dolby Pro Logic.
   * Lo/Ro: Selecciona esta opción cuando el D2600 está conectado a un dispositivo estéreo convencional.
 
-#### 7.1.3. Configuración Personal
+#### 7.1.3. CONFIGURACIÓN PERSONAL
 
 * Control parental
  * Selecciona el nivel que desees y pulsa OK para confirmar. A continuación, introduzca la contraseña por defecto “6666”. Si has olvidado la contraseña introduce la contraseña por defecto: “6666”.
@@ -33,19 +33,19 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
 
 En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona“DVB menu”.
 
-#### 7.2.1. Lista de Programas
+#### 7.2.1. LISTA DE PROGRAMAS
 
 * Cadenas de TV
 La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
- 
+
  * Favoritos
 
     Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
- 
+
  * Lista
 
     Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
- 
+
  * Borrar
 
     Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
@@ -57,25 +57,25 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
   Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
 
-#### 7.2.2. Búsqueda de cadenas
+#### 7.2.2. BÚSQUEDA DE CADENAS
 * Búsqueda Automática
 
   Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
-  
+
   Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas.
-  
+
   Seleccione “No” para añadir las cadenas nuevas a la lista.
-  
+
   Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
 
 * Búsqueda Manual
 
   Con la búsqueda manual puede sintonizar una cadena en particular. Introduzca luego el número de la cadena que desea y confírmela mediante el botón OK. Las cadenas sintonizadas manualmente se añadirán a la lista, pero el aparato no saldrá automáticamente del menú donde se encuentra.
 
-#### 7.2.3. Control Paterno
+#### 7.2.3. CONTROL PATERNO
 
 * Bloqueo de las cadenas
-  
+
   Seleccione la opción “Bloq. Canal” para bloquear la selección de una cadena. Para activar el bloqueo no necesita introducir ningún código. En cambio, para desactivarlo, sí necesitará introducir código.
 
 * Configuración paterna
@@ -84,7 +84,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
 > Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
 
-#### 7.2.4. Configuración del Sistema
+#### 7.2.4. CONFIGURACIÓN DEL SISTEMA
 
 * Antena (Alimentación Antena)
 
@@ -93,7 +93,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 * País
 
   Seleccione esta opción para elegir el país de recepción de las señales DVB.
-  
+
 * Idioma
 
   El submenú Idioma tiene 2 opciones:
@@ -116,14 +116,14 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
 ### 7.3. CONFIGURACIÓN DE SISTEMA
 
-####7.3.1. Configuración Idioma
+####7.3.1. CONFIGURACIÓN DEL IDIOMA
 
 * OSD: Selección del idioma de visualización en pantalla.
 
-#### 7.3.2. Configuración pantalla
+#### 7.3.2. CONFIGURACION DE LA PANTALLA
 
 * Sistema TV
-  
+
   Selecciona uno de los siguientes sistemas: NTSC, PAL o AUTO (Multi) para que coincida con el usado por tu TV.
 
 * Formato TV
@@ -136,14 +136,14 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
   Selecciona la salida de video: CVBS (Video compuesto) o RGB (Euroconector o video por componentes).
 
 * Brillo
-  
+
 Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, “Brillante” o “Suave”.
 
 * Contraste
 
   Ajusta el contraste de la pantalla.
- 
-#### 7.3.3. Preferencias
+
+#### 7.3.3. PREFERENCIAS
 
 * Estilo UI (interfaz)
 
@@ -156,11 +156,11 @@ Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, 
 * Tipo predeterminado
 
   DVD o DVB o USB o Selección usuario/Último usado(Selección de la fuente predeterminada cuando el aparato está encendido)
-  
+
 * Predeterminado
 
   Restaura los valores de fábrica.
-  
+
 * Info Sistema
 
   La información sobre el sistema incluye el modelo, hardware, software y fecha.
