@@ -1,4 +1,4 @@
-## FUNCIÓN MP3 CON MEMORIAS EXTERNAS
+## Función MP3 con memorias externas
 
 Para reproducir archivos en formato MP3 o WAV, inserta una memoria externa USB o una tarjeta de memoria SD/MMC en las ranuras correspondientes (12) y (13) respectivamente.
 
