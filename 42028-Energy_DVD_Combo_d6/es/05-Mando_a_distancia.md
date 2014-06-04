@@ -1,5 +1,5 @@
-## 5. MANDO A DISTANCIA
-### 5.1 DESCRIPCIÓN DE LOS BOTONES
+## 3. MANDO A DISTANCIA
+### 3.1 DESCRIPCIÓN DE LOS BOTONES
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/535658cbd805c.jpg)
 
@@ -43,14 +43,14 @@ información adicional del canal.
 Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del
 canal.
 
-### 5.2. INSTALACIÓN DE LAS PILAS
+### 3.2. INSTALACIÓN DE LAS PILAS
 
 Retira la tapa de las pilas en el mando a distancia y coloca pilas de tipo AAA.
 El siguiente diagrama indica la forma correcta de insertar las pilas.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/535677c71d9e9.jpg)
 
-### 5.3. UTILIZANDO EL MANDO A DISTANCIA
+### 3.3. UTILIZANDO EL MANDO A DISTANCIA
 
 Para utilizar el mando a distancia, dirígelo hacia la parte frontal del receptor.
 El mando a distancia tiene un alcance de 5 metros desde el receptor en un ángulo de hasta 60

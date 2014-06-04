@@ -1,4 +1,4 @@
-## 9. REPRODUCCIÓN DE DVD/CD/VCD
+## 7. REPRODUCCIÓN DE DVD/CD/VCD
 
 > Nota: Este dispositivo no es compatible con el formato DIVX3.
 

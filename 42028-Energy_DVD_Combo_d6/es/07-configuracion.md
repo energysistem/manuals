@@ -1,6 +1,6 @@
-## 7. CONFIGURACIÓN
+## 5. CONFIGURACIÓN
 
-### 7.1. PREPARACIÓN
+### 5.1. PREPARACIÓN
 
 1. Efectúa las conexiones de acuerdo a lo indicado en la sección "CONEXIONES".
 2. Introduzca dos pilas AAA (incluidas) en el compartimento de pilas del mando a distancia respetando la polaridad.
@@ -13,17 +13,17 @@ Notas:
 * Cambie las pilas del mando a distancia cuando disminuya el alcance del mismo.
 * Si no va a utilizar el mando a distancia durante un periodo de tiempo prolongado retire las pilas para evitar que se produzcan daños causados por la corrosión debida a una pérdida de líquido.
 
-### 7.2. INTRODUCCIÓN DE DISCOS
+### 5.2. INTRODUCCIÓN DE DISCOS
 
 1. Pulse el botón SOURCE del mando a distancia y utilice los botones arriba/abajo para seleccionar la fuente de entrada: DVD. Pulse el botón OK para confirmar.
 2. Pulse el botón OPEN/CLOSE para abrir la bandeja de disco.
 3. Introduzca el disco y pulse de nuevo el botón OPEN/CLOSE para cerrar la bandeja de disco. Se cargará el disco y dará comienzo la reproducción o se visualizará el menú de arranque.
 
-### 7.3. INTRODUCCIÓN DE UN DISPOSITIVO USB
+### 5.3. INTRODUCCIÓN DE UN DISPOSITIVO USB
 
 Introduzca un dispositivo USB en el reproductor. Pulse el botón SOURCE del mando a distancia y utilice los botones arriba/abajo para seleccionar la fuente de entrada USB. Pulse el botón OK para confirmar la selección.
 
-### 7.4. INSTALACIÓN INICIAL TDT
+### 5.4. INSTALACIÓN INICIAL TDT
 
 Cuando se usa el modo TDT por primera vez se mostrará el menú de configuración inicial. Este menú guiará en la primera instalación TDT.
 
