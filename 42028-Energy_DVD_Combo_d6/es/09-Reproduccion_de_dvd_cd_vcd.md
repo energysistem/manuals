@@ -1,31 +1,31 @@
-## 8. REPRODUCCIÓN DE DVD/CD/VCD
+## 9. REPRODUCCIÓN DE DVD/CD/VCD
 
 > Nota: Este dispositivo no es compatible con el formato DIVX3.
 
 * Abrir/Cerrar
-        
-	Pulse este botón para abrir la bandeja del disco. Vuelva a pulsar este botón para cerrar la bandeja del disco. La reproducción del disco se iniciará de forma automática. 
+
+	Pulse este botón para abrir la bandeja del disco. Vuelva a pulsar este botón para cerrar la bandeja del disco. La reproducción del disco se iniciará de forma automática.
 
 	> Nota: Introduzca el disco con la cara impresa hacia arriba.
-    
+
 * Reproducción/Pausa
 
 	Pulsa para iniciar la reproducción. Vuelve a pulsar este botón para interrumpir momentáneamente la reproducción.
-    
+
 * Slow (Cámara lenta)
-  
+
 	Pulsa el botón SLOW para activar la reproducción a cámara lenta hacia adelante. Cada vez que pulse uno de estos botones, la velocidad disminuirá en el siguiente orden: 1/2, 1/4, 1/8, 1/16, 1/32. Para restablecer la velocidad normal de reproducción, pulse el botón Play/Pause.
 
 	> Nota: La función de reproducción a cámara lenta no estará disponible durante la reproducción de un CD.
-    
+
 * Avance / retroceso rápido
 
 	Pulsa el botón FF/FB para efectuar una búsqueda rápida hacia atrás o hacia delante respectiva¬mente. Para restablecer la velocidad normal de reproducción pulsa el botón Play/Pause. Cada vez que pulse este botón la velocidad de reproducción se modificará en el siguiente orden: x2, x4, x8, x16, x32.
-    
+
 * Anterior/Siguente
 
 	Durante la reproducción pulsa para retroceder al comienzo del capítulo o pista anterior/siguente.Durante la reproducción de un CD de audio utilice los botones numéricos para introducir directa¬mente el número de la pista que desea escuchar.
-    
+
 * Stop
 
   * Pulsa una vez el botón Stop para detener la reproducción.
@@ -67,7 +67,7 @@
 * GoTo
 
 	Seleciona un título/capítulo de un DVD o un momento concreto en un CD/DVD. Pulsa Izquierda/Derecha para seleccionar el título / capítulo (DVD) o tiempo (CD/VCD) e introducir el valor mediante los botones numéricos.Pulsa OK para confirmar. Se iniciará la reproducción del fragmento que haya seleccionado.
-        
+
 	> Nota: Algunos discos pueden no permitir el uso de esta función. Para VCDs, esta función sólo está disponible si PBC está desactivado.
 
 * Reproducción Programada
@@ -92,6 +92,6 @@
     * Pulsa el botón A-B de nuevo para establecer el final del segmento (punto B).
 
 	El segmento seleccionado se repetirá hasta que pulses de nuevo el botón A-B.
-    
+
 	> Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
 
