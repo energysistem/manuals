@@ -34,7 +34,7 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 |  |  |
 |:-------|:-------|
-|1.	Temps de lecture.<br> 2.	Baisser le volume.<br> 3.	Marqueur.<br> 4.	Luminosité.<br> 5.	Vidéo antérieur.<br> 6.	Play / Pausa.<br> 7.	Vidéo postérieure.<br> 7.	Rapport d'aspect.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)|
+|1.	Temps de lecture.<br> 2.	Baisser le volume.<br> 3.	Marqueur.<br> 4.	Luminosité.<br> 5.	Vidéo antérieur.<br> 6.	Play / Pausa.<br> 7.	Vidéo postérieure.<br> 8.	Rapport d'aspect.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)|
 
 ## Caméra
 
