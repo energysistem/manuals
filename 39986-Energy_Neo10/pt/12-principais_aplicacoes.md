@@ -6,7 +6,7 @@ O seu novo Energy Tablet dispõe de um potente navegador de Internet entre a lis
 
 |  |  |
 |:-------|:-------|
-|1. Voltar.<br> 2. Avançar.<br> 3. Recarregar.<br> 4. Endereço WEB. <br> 5. Digita.<br> 6. Aperte enter. <br> 7. Criar etiqueta. <br> 8. Fechar etiqueta.<br> Opções.<br>|![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)|
+|1. Voltar.<br> 2. Avançar.<br> 3. Recarregar.<br> 4. Endereço WEB. <br> 5. Digita.<br> 6. Aperte enter. <br> 7. Criar etiqueta. <br> 8. Fechar etiqueta.<br> 9. Opções.<br>|![Imagen1](http://static.energysistem.com/images/manuals/39530/53708384daf5e.jpg)|
 
 ### Administração de E-mail
 
