@@ -11,4 +11,7 @@
 * [Reproducción de DVD/CD/VCD](09-Reproduccion_de_dvd_cd_vcd.md)
 * [Reproducción de archivos MP3 / JPEG / WMA / MPEG 4](10-Reproduccion_de_archivos_mp3_jpg_wma_mpg4.md)
 * [Funcionamiento DVB-T](11-Funcionamiento_DVBT.md)
+* [Solución de Problemas](12-Solución de Problemas.md)
+* [Especificaciones](13-Especificaciones.md)
+* [Garantía](14-Garantía.md)
 
