@@ -35,3 +35,4 @@ Selecciona la información regional correspondiente (país, idioma OSD y zona ho
 Selecciona "Sí" para comenzar la búsqueda automática.
 
 Al final de la búsqueda el sistema pasará a modo TDT para visualizar los canales encontrados.
+
