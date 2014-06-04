@@ -1,5 +1,5 @@
 ## Mise à jour
-Votre Energy Phone a un système d'exploitation installé basé sur Android#trade#, vous pouvez le réinstaller ou le mettre à jour s'il est nécessaire. Par défaut, les actualisations sont faites via OTA (Over-The-Air), votre Energy Phone sera connecté automatiquement sur vos serveurs, il téléchargera et installera le nouveau software quand une nouvelle actualisation soit disponible.
+Votre Energy Tablet a un système d'exploitation installé basé sur Android#trade#, vous pouvez le réinstaller ou le mettre à jour s'il est nécessaire. Par défaut, les actualisations sont faites via OTA (Over-The-Air), votre Energy Phone sera connecté automatiquement sur vos serveurs, il téléchargera et installera le nouveau software quand une nouvelle actualisation soit disponible.
 
 Vous pouvez aussi mettre à jour votre Energy Phone à travers de votre ordinateur portable. Le processus est très simple mais il doit se réaliser avec attention et quand il soit nécessaire. Si l'appareil est bloqué, réinitié de manière imprévue ou vous avez des problèmes pour accéder au contenu de la mémoire, il est nécessaire de réinstaller le système d'exploitation ou de le mettre à jour avec la nouvelle version compatible, si elle est disponible.
 
