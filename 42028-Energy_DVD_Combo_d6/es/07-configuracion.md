@@ -2,7 +2,7 @@
 
 ### 7.1. PREPARACIÓN
 
-1. Efectúa las conexiones de acuerdo a lo indicado en la sección “CONEXIONES”.
+1. Efectúa las conexiones de acuerdo a lo indicado en la sección "CONEXIONES".
 2. Introduzca dos pilas AAA (incluidas) en el compartimento de pilas del mando a distancia respetando la polaridad.
 3. Enchufe el cable de alimentación en una toma de corriente. Pulse el botón STANDBY para encender el reproductor.
 4. Encienda el televisor y seleccione la fuente de video adecuada.
@@ -27,11 +27,11 @@ Introduzca un dispositivo USB en el reproductor. Pulse el botón SOURCE del mand
 
 Cuando se usa el modo TDT por primera vez se mostrará el menú de configuración inicial. Este menú guiará en la primera instalación TDT.
 
-Elige primero “Sí” y pulsa el botón OK.
+Elige primero "Sí" y pulsa el botón OK.
 
 El sistema comenzará con la instalación inicial.
 Selecciona la información regional correspondiente (país, idioma OSD y zona horaria). El D6 escaneará automáticamente buscando canales con la configuración regional suministrada.
 
-Selecciona “Sí” para comenzar la búsqueda automática.
+Selecciona "Sí" para comenzar la búsqueda automática.
 
 Al final de la búsqueda el sistema pasará a modo TDT para visualizar los canales encontrados.
