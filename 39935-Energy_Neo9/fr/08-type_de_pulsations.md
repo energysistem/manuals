@@ -1,4 +1,4 @@
-## Type de pulsations
+## Types de pulsations
 
 ### Gestes élémentaires
 
