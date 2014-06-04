@@ -1,5 +1,3 @@
-## Configuration Wi-Fi
-
 ## Configuration sans fil
 
 ### Bluetooth
