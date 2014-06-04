@@ -1,5 +1,5 @@
-## 4 PRODUCTO
-### 4.1 PANEL FRONTAL
+## 2 PRODUCTO
+### 2.1 PANEL FRONTAL
 
  ![Imagen1](http://static.energysistem.com/images/manuals/42028/5356583d2f6ed.jpg)
 
@@ -11,7 +11,7 @@
 6. Pantalla LED.
 7. PUERTO USB: Conecta tus HUBs/lectores de tarjetas/dispositivos de almacenamiento externo USB.
 
-### 4.2. PANEL POSTERIOR
+### 2.2. PANEL POSTERIOR
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53564ed369362.jpg)
 
