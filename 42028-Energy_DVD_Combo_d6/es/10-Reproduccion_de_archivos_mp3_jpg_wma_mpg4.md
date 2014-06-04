@@ -11,7 +11,6 @@ Nota: Este dispositivo no es compatible con el formato DIVX3.
 * Inversión y rotación de imágenes (JPEG)
 <br>Pulsa los botones direccionales para girar una imagen o darle la vuelta.
 * Menú de selección
-
 1. Pulsa Stop para visualizar el menú raíz.
 2. Pulsa las teclas de navegación para seleccionar una carpeta o fichero y pulsa Ok para confirmar.
 
