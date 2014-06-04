@@ -1,4 +1,4 @@
-## Principales Aplicaciones
+## Principales Applications
 
 ### Administrateur d'Email
 
