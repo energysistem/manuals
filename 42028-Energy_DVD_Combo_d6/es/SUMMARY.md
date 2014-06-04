@@ -9,4 +9,6 @@
 * [Cuidado y mantenimiento](07-configuracion.md)
 * [Menú Principal](08-Menu_principal.md)
 * [Reproducción de DVD/CD/VCD](09-Reproduccion_de_dvd_cd_vcd.md)
+* asdf
+* [REPRODUCCIÓN DE ARCHIVOS](REPRODUCCIÓN DE ARCHIVOS.md)
 
