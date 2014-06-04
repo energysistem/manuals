@@ -1,7 +1,7 @@
 ## 10. REPRODUCCIÓN DE ARCHIVOS MP3 / JPEG / WMA / MPEG 4
 Nota: Este dispositivo no es compatible con el formato DIVX3.
 * Play/Pause
-<br>Inicia la reproducción. Pulsa de nuevo para interrumpirla momentáneamente.
+Inicia la reproducción. Pulsa de nuevo para interrumpirla momentáneamente.
 * Skip
 Pasa al archivo anterior/siguiente.
 Stop
