@@ -4,3 +4,4 @@ Votre Energy Tablet est une batterie rechargeable de lithium-ion. Initialement, 
 Vous avez différentes façons d'améliorer le rendement et d'optimiser l'utilisation de la batterie de votre Energy Tablet:
 Configurez l'arrêt automatique de l'écran après quelques seconds d'inactivité depuis Paramètres > Écran > Éteindre après.
 Choisissez un niveau d'éclat d'écran optimale dans le menu Réglages > Écran > Luminosité.
+</quick_guide>
