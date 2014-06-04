@@ -14,7 +14,7 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 
 |  |  |
 |:-------|:-------|
-|1. Pasta seleccionada.<br> 2. E-mails.<br> 3. Novo email.<br> 4. Procurar.<br> 5. Pastas.<br>|![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)|
+|1. Pasta seleccionada.<br> 2. E-mails.<br> 3. Novo email.<br> 4. Procurar.<br> 5. Opções.<br>|![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)|
 
 ### Leitura de Música
 
