@@ -1,6 +1,6 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem#trade# lhe agradece a compra do seu Energy Phone Neo. Esperamos que desfrute deste aparelho.
+* Energy Sistem#trade# lhe agradece a compra do seu Energy Neo 7. Esperamos que desfrute deste aparelho.
 * Este dispositivo pertence a família dos Energy Smartphone: uma nova geração de dispositivos baseada no sistema operativo Android#trade#, com o qual poderá aceder à Internet em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir todo tipo de conteúdo multimédia (vídeos em alta definição até 1080p, músicas, fotografias, eBooks, etc.). Ademais, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo proveito do dispositivo.
 O sistema dispõe de uma tela capacitiva de 4.5" (540x960 píxeis) com sensor multi-táctil, processador ARM Cortex A7 Dual Core 1.3 GHz, Bluetooth 4.0, WiFi, GPS, conexão 3G e câmaras frontal e traseira.
 
