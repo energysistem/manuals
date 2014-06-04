@@ -25,4 +25,4 @@ Tela de definições
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/537082c35c33b.jpg)
 
-**Obs.:** Seu Energy Tablet é compatível com os padrões de segurança e encriptação WEP, WPA, WPA2, TKIP e AES. Uma vez completado com êxito o processo de verificação, seu Energy Phone guardará os dados de acesso à rede Wi-Fi e estará preparado para que possa utilizar a Internet. O dispositivo salvará a rede e ligará automaticamente quando a mesma estiver disponível.
+**Obs.:** Seu Energy Tablet é compatível com os padrões de segurança e encriptação WEP, WPA, WPA2, TKIP e AES. Uma vez completado com êxito o processo de verificação, seu Energy Tablet guardará os dados de acesso à rede Wi-Fi e estará preparado para que possa utilizar a Internet. O dispositivo salvará a rede e ligará automaticamente quando a mesma estiver disponível.
