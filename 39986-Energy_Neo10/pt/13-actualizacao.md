@@ -6,7 +6,7 @@ Também pode actualizar/reinstalar seu dispositivo através do computador. Se ob
 
 Siga os seguintes passos para realizar a instalação:
 
-1. Assegure-se que a bateria da sua Energy Tablet se encontra totalmente carregada. Em caso contrário ligue o seu Energy Phone à tomada eléctrica utilizando o adaptador de corrente AC/DC proporcionado e espere que a bateria se carregue completamente. 
+1. Assegure-se que a bateria da sua Energy Tablet se encontra totalmente carregada. Em caso contrário ligue a sua Energy Tablet à tomada eléctrica utilizando o adaptador de corrente AC/DC proporcionado e espere que a bateria se carregue completamente. 
 
 2. Acesso à página web www.energysistem.com desde o seu computador. 
 
