@@ -14,5 +14,4 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
 
-<br>12. Entrée pour cartes microSD HC/XC.<br>13. Entrée pour carte SIM 1.<br>14. Entrée pour carte SIM 2.<br>15. Batterie.<br>16. Numéro série et numéros IMEI.
 </quick_guide>
