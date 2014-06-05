@@ -14,7 +14,7 @@
 * Haut-parleur inclut 1w.
 * Microphone omnidirectionnel inclut.
 * Capteur de mouvement (accéléromètre).
-* Capacité de la batterie: 3.7v/ 2800mAh.
+* Capacité de la batterie: 3.7v/ 6000mAh.
 * Autonomie: jusqu'à 4 heures de navigation Wi-Fi.
 * Chargement avec adaptateur AC 100-240v 50-60Hz DC 5v/2A.
 Caméra arrière 2Mpx.
