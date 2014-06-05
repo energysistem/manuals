@@ -1,6 +1,6 @@
 ## <quick_guide> Contenu du produit
 
-* Energy Smartphone Neo 9.
+* Energy Tablet Neo 9.
 * Guide Rapide.
 * Câble USB 2.0 High-Speed pour la connecter au PC.
 * Câble USB-HOST para conexão de dispositivos USB externes.
