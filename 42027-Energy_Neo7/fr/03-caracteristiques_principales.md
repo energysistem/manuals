@@ -4,7 +4,7 @@
 * Écran capacitif multi-touch de 5 points.
 * Processeur double coeur ARM Cortex A9 1GHz avec GPU Mali-400 inclut.
 * 1 Go DDR3 RAM.
-* 4 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
+* 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n
 * Bluetooth 3.0
 * Caméra frontale 0.3Mpx.
