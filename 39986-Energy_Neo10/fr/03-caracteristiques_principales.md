@@ -1,7 +1,7 @@
 ## Caractéristiques Principales
 
 * Écran TFT 10.1" 16:9 (1280x800 pixels).
-* Écran capacitif multi-touch de 10 points.
+* Écran capacitif multi-touch de 5 points.
 * Processeur quad coeur ARM Cortex  A7 1GHz con GPU SGX544MP2 inclut.
 * 1 Go DDR3 RAM.
 * 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 32 Go).

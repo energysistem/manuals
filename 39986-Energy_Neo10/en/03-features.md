@@ -1,6 +1,6 @@
 ## Key Features
 * 10.1" IPS screen 16:9 (1280x800 pixels).
-* 10 points capacitive multitouch screen.
+* 5 points capacitive multitouch screen.
 * Quad Core ARM Cortex A7 1GHz processor and SGX544MP2 GPU.
 * 1GB RAM.
 * 8GB GB internal memory expandable memory up to 64GB via microSD-HC/XC cards.
