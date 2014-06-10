@@ -16,7 +16,7 @@
 9. **Email:** e-mail client
 10. **Internet:** web browser
 11. **Status bar:** displays information about the wi-fi signal status, battery and clock. Pressing this area displays a larger version showing the date. Pressing it again accesses a basic settings menu that manages the Wi-Fi configuration, gyroscope, screen brightness, notifications and the full settings menu
-12. **Main menu:** Button to access to the apps and widgets
+12. **Main menu:** Button to access to the apps
 13. **Voice Search:** Access to Google’s™ voice search and
 much more
 

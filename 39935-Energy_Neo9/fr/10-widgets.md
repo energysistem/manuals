@@ -1,5 +1,5 @@
 ## Widgets
-Pour ajouter un Widget sur l'un des bureaux, appuyez sur "applications et widgets" (1) et à continuation, choisisez l'option "WIDGETS" sur la partie supérieure de l'écran (2). Avec le geste de tourner la page (3) vous pourrez voir tous les Widgets installés. Choisisez celle dont vous voulez ajouter au bureau en appuyant sur (4) et relâcher le bouton à continuation (5).
+Pour ajouter un Widget sur l'un des écrans principales, appuyez sur l’écran principale (1) et puis choisissez « WIDGETS » (2). Avec le geste de tourner la page (3) vous pourrez voir tous les Widgets installés. Choisisez celle dont vous voulez ajouter au bureau en appuyant sur (4) et relâcher le bouton à continuation (5).
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53707f89d8a39.jpg)
 

@@ -58,15 +58,9 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
 
-1. Switch camera
-2. Capture normal/continues mode
-3. Panoramic mode
-4. Postprocess effect
-5. Setup
-6. Photo/video mode
-7. Shutter
-8. Zoom +
-9. Zoom -
+1. Setup
+2. Photo/video mode
+3. Shutter
 
 ### Gallery: Images and Videos
 

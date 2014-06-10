@@ -30,9 +30,11 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 
 ### Câmara
 
-|  |  |
-|:-------|:-------|
-|1. Mudar câmara.<br> 2. Modo de captura normal/continuo.<br> 3. Modo panorâmico.<br> 4. Efeito post-captura.<br> 5. Ajustes.<br> 6. Modo fotografia/vídeo.<br> 7. Disparador.<br> 8. Pré-visualizar fotos.<br> 9. Zoom +.<br> 10. Zoom -.<br>| ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
+1. Ajustes
+2. Modo fotografia/vídeo
+3. Disparador
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
 
 ### Galeria: Imagens e Vídeos
 

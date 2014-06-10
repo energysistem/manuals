@@ -61,16 +61,9 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
 
-1. Cambiar de cámara
-2. Modo de captura normal/continuo
-3. Modo panorámico
-4. Efecto postcaptura
-5. Ajustes
-6. Modo fotografía/video
-7. Disparador
-8. Previsualizar fotos
-9. Zoom +
-10. Zoom -
+1. Ajustes
+2. Modo fotografía/video
+3. Disparador
 
 ### Galería: Imágenes y Vídeos
 

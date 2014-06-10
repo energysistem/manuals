@@ -21,9 +21,13 @@ Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateu
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
-|  |  |
-|:-------|:-------|
-|1.	Dossier choisi.<br> 2.	E-mails.<br> 3.	Nouveau email.<br> 4.	Chercher.<br> 5.	Options.|![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)|
+
+1.	Dossier choisi
+2.	E-mails
+3.	Nouveau email
+4.	Chercher
+5.	Options
+![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
 
 ### Lecture de musique
 |  |  |
@@ -38,9 +42,11 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ## Caméra
 
-|  |  |
-|:-------|:-------|
-|1.	Changer de caméra.<br> 2.	Mode de capture normal/ continu.<br> 3.	Mode panoramique.<br> 4.	Effet post-capture.<br> 5.	Paramètres.<br> 6. Mode photographie/vidéo.<br> 7.	Déclencheur.<br> 8.	Pré-visualiser photos.<br> 9.	Zoom +.<br> 10.	Zoom -.<br> | ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
+1.	Paramètres
+2.	Mode photographie/vidéo
+3.	Déclencheur
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 
 ## Galerie: Images et Vidéos
 Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
