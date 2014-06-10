@@ -1,6 +1,6 @@
 ## Widgets
 
-In order to add a Widget to one of your desktops, tap "applications and widgets" (1), then select "WIDGETS" at the top of the screen (2). You can slide your finger to the left or right to see all your installed Widgets. Select the one you want to add to your desktop by pressing (4) on the widget and then releasing it on the desktop (5).
+In order to add a Widget to one of your desktops, keep pressing it (1), then select "WIDGETS" (2). You can slide your finger to the left or right to see all your installed Widgets. Select the one you want to add to your desktop by pressing (4) on the widget and then releasing it on the desktop (5).
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf0dab784.jpg)
 
