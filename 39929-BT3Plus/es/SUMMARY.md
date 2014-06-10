@@ -9,4 +9,6 @@
 * [Sincronización Bluetooth](06-sincronizacion_bluetooth.md)
 * [Control de reproducción](07-control_reproduccion.md)
 * [Control de llamadas](08-control_llamadas.md)
-
+* [Garantía](09-garantia.md)
+* [Funcionamiento de la garantía](10-funcionamiento_garantia.md)
+* [Declaración de conformidad](11-declaracion_de_conformidad.md)
