@@ -1,32 +1,50 @@
-## Principales Aplicaciones
+## Principales Applications
 
-### Administration d'Email
+### Navigateur Internet
+
+Votre nouveau Energy Tablet a un puissant navigateur Web entre la liste d'applications utilisées par défaut, avec lequel vous pourrez utiliser l'Internet d'une façon simple et rapide.
+Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateur situé dans le bureau ou le menu d'applications pour démarrer le programme. Le système chargera la page de démarrage par défaut et sera affichée sur l'écran.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+
+1. Reculer
+2. Avancer
+3. Charger
+4. Site WEB
+5. Écrire
+6. Appuyez enter
+7. Créer onglet
+8. Fermer onglet
+9. Options
+
+### Administrateur d'Email
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
 |  |  |
 |:-------|:-------|
-|1.	Dossier choisi.<br> 2.	E-mails.<br> 3.	Nouveau courrier électronique.<br> 4.	Chercher.<br> 5.	Dossiers.<br> 6.	Charger.|![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)|
+|1.	Dossier choisi.<br> 2.	E-mails.<br> 3.	Nouveau email.<br> 4.	Chercher.<br> 5.	Options.|![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)|
 
 ### Lecture de musique
 |  |  |
 |:-------|:-------|
-|1.	Liste de lecture.<br> 2.	Visualisation.<br> 3.	Durée.<br> 4.	Barre de progression.<br> 5.	Lecture aléatoire.<br> 6.	Chanson postérieure.<br> 7.	Play / pause.<br> 8.	Chanson antérieur.<br> 9.	Répéter.<br> 10.	Temps de lecture. |![Imagen1](http://static.energysistem.com/images/manuals/39530/537087d20de5d.jpg)|
+|1.	Liste de lecture.<br> 2.	Lecture aléatoire.<br> 3.	Répétition.<br> 4. Chanson antérieure.<br> 5.	Play / pause.<br> 6.	Chanson postérieure.<br> |![Imagen1](http://static.energysistem.com/images/manuals/39530/537087d20de5d.jpg)|
 
-### Lecture Vidéo
+### Visualisation Vidéo
 
 |  |  |
 |:-------|:-------|
-|1.	Retourner sur la liste des vidéos.<br> 2.	Partager.<br> 3.	Film en cours.<br> 4.	Play / Pause.<br> 5.	Durée.<br> 6.	Barre de progression.<br> 7.	Temps de lecture.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)|
+|1.	Temps de lecture.<br> 2.	Baisser le volume.<br> 3.	Marqueur.<br> 4.	Luminosité.<br> 5.	Vidéo antérieur.<br> 6.	Play / Pausa.<br> 7.	Vidéo postérieure.<br> 7.	Rapport d'aspect.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)|
 
 ## Caméra
 
 |  |  |
 |:-------|:-------|
-|1.	Mode panoramique.<br> 2.	Paramètres flash.<br> 3.	Changer caméra.<br> 4.	Balance des blancs.<br> 5.	Déclencheur.<br> 6.	Mode vidéo.<br> 7.	Mode photo.<br> 8.	Paramètres.<br> 9.	Zoom +.<br> 10.	Zoom -.<br> 11.	Exposition.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
+|1.	Changer de caméra.<br> 2.	Mode de capture normal/ continu.<br> 3.	Mode panoramique.<br> 4.	Effet post-capture.<br> 5.	Paramètres.<br> 6. Mode photographie/vidéo.<br> 7.	Déclencheur.<br> 8.	Pré-visualiser photos.<br> 9.	Zoom +.<br> 10.	Zoom -.<br> | ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 
 ## Galerie: Images et Vidéos
-Pour regarder l'antérieure/suivante image, déplacez votre doigt par l'écran avec un mouvement horizontal. Pour retourner au bureau principal, appuyez sur l'icône de retour ou Menu démarrer.
+Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
+Pour retourner au bureau d'accueil, appuyez sur le bouton de retour ou Démarrage
 
 
 |  |  |

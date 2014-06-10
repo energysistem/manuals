@@ -1,6 +1,14 @@
 ## <quick_guide> Apresentação geral
 
-|  |  |
-|:-------|:-------|
-|1. Sensores de luminosidade e de proximidade.<br> 2. Saída de auscultadores.<br> 3. Alto-falante frontal.<br> 4. Entrada USB OTG/HOST.<br> 5. Câmara frontal.<br> 6. Câmara traseira.<br> 7. Botão de volume.<br> 8. Alto-falante traseiro.<br> 9. Botões tácteis Menu, Início, Regressar.<br> 10. Microfone.<br> 10. Botão de ligado / desligado.<br> 11. Slot para cartão microSD HC/XC. <br> 12. Slot para cartão SIM 1.<br> 13. Slot para cartão SIM 2.<br> 14. Bateria.<br> 15. Número de série e números IMEI.|![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)|
+1. Câmara traseira.
+2. Câmara frontal.
+3. Alto-falante.
+4. Botão de ligado/desligado.
+5. Botão de controle de volume.
+6. Tela táctil.
+7. Slot para microSD.
+8. Conector microUSB.
+9. Saída de fones.
+10. Conector para carregamento. ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg)
+
 </quick_guide>
