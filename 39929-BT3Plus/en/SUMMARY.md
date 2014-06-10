@@ -7,4 +7,5 @@
 * [Content](04-content.md)
 * [General Overview](05-general_overview.md)
 * [Main Functions](06-main_functions.md)
+* [Bluetooth Pairing](07-bluetooth_synchronization.md)
 
