@@ -1,5 +1,16 @@
 ## Tela Principal
 
-|  |  |
-|:-------|:-------|
-|1. **Barra de pesquisa:** acesso direito ao motor de busca WEB de Google #trade#.<br> 2. **Atrás**: permite retroceder à tela anterior na aplicação que neste momento seja utilizada.<br> 3. **Home:** volta à tela principal.<br> 4. **Tarefas:** mostra as aplicações utilizadas recentemente.<br> 5. **Music:** leitura de arquivos de som.<br> 6. **Play Store:** Loja de aplicações de Google #trade#.<br> 7. **Gallery:** visualização de imágens.<br> 8. **Câmera:** acesso à câmara de fotos integrada.<br> 9. **Email:** correio eletrônico.<br> 10. **Internet:** navegador web.<br> 11. **Barra de status:**: visualiza a informação sobre o status da cobertura, bateria e hora. Se você aperta esta zona uma versão do menu de configuração básica se desdobra para administrar a configuração Wi-Fi, o giroscópio, a luminosidade da tela, as notificações e o menu de configuração completa.<br> 12. Acesso ao menu de aplicações. <br> 13. Pesquisa por voz: acede à procura por voz de Google#trade# e mais.<br>| ![Imagen1](http://static.energysistem.com/images/manuals/39530/53707eb01dbf1.jpg)|
+![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
+1. **Barra de pesquisa:** acesso direito ao motor de busca WEB de Google #trade#.
+2. **Atrás**: permite retroceder à tela anterior na aplicação que neste momento seja utilizada.
+3. **Home:** volta à tela principal.
+4. **Tarefas:** mostra as aplicações utilizadas recentemente.
+5. **Music:** leitura de arquivos de som.
+6. **Play Store:** Loja de aplicações de Google #trade#.
+7. **Gallery:** visualização de imágens.
+8. **Câmera:** acesso à câmara de fotos integrada.
+9. **Email:** correio eletrônico.
+10. **Internet:** navegador web.
+11. **Barra de status:**: visualiza a informação sobre o status da cobertura, bateria e hora. Se você aperta esta zona uma versão do menu de configuração básica se desdobra para administrar a configuração Wi-Fi, o giroscópio, a luminosidade da tela, as notificações e o menu de configuração completa.
+12. **Acesso ao menu de aplicações**.
+13. **Pesquisa por voz**: acede à procura por voz de Google#trade# e mais.<br>

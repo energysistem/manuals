@@ -46,7 +46,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Reproducción de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 
 1. Tiempo reproducido
 2. Bajar volumen
@@ -59,7 +59,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397245894b43.jpg)
 
 1. Ajustes
 2. Modo fotografía/video
@@ -70,6 +70,5 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg)
-
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370897f72d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
