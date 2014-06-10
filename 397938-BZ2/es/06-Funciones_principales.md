@@ -17,6 +17,6 @@ Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositi
 
 ### Carga de la batería
 
-Cuando el altavoz emite unos pitidos, es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box BZ2 Bluetooth* (8), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (2) se mantendrá iluminado y cuando la carga sea completa se apagará.
+Cuando el altavoz emite unos pitidos, es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box BZ2 Bluetooth* (8), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (6) se mantendrá iluminado y cuando la carga sea completa se apagará.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargarla hasta que no se haya agotado completamente. Del mismo modo, no interrumpir el proceso de carga hasta que la batería este completamente cargada.

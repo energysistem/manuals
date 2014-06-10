@@ -11,7 +11,7 @@ Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando
 Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantí­a, por lo tanto el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información por lo que es recomendable entregar el equipo sin información en la memoria del mismo, o con la información original de fabrica.
 Las especificaciones están sujetas a cambios sin previo aviso.
 
-*Marcas comerciales*. Toda compañí­a, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañí­as.
-©2014 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
+*Marcas comerciales*. Toda compañí­a, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañí­a.<br/>
+© 2014 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
 </quick_guide>
 

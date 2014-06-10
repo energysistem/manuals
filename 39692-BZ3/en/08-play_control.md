@@ -1,6 +1,6 @@
 ## Play Control
 
-Once you have paired your *Energy Music Box BZ3 Bluetooth*, you can control the volume from the speaker. In order to do that; press buttons "VOLUME -" (1) or "VOLUME +" (2).
+Once you have paired your *Energy Music Box BZ3 Bluetooth*, you can control the volume from the speaker. In order to do that; press buttons "VOLUME - " (1) or "VOLUME + " (2).
 
 To pause or resume the playback, press PLAY/PAUSE button (4) once.
 

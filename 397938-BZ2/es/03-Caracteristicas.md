@@ -44,5 +44,6 @@
 - Autonomía en modo radio: 11 horas.*
 - Autonomía en modo micro SD: 9 horas.*
 - Autonomía en modo Bluetooth: 8 horas.*
-<br/><br/>
- **La duración de la batería es aproximada. Mayor potencia en los altavoces se traduce en un mayor consumo de la batería.
+
+<br/>
+ *La duración de la batería es aproximada. Mayor potencia en los altavoces se traduce en un mayor consumo de la batería.
