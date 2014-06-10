@@ -3,5 +3,5 @@ Sempre que ligue seu *Energy Music Box BZ2 Bluetooth* automaticamente começará
 
 Para sincronizar de novo com o último dispositivo ligado, basta ligar o *Energy Music Box BZ2 Bluetooth* e a sincronização será realizada automaticamente.
 
-Se deseja sincronizar outro dispositivo Bluetooth®, basta manter premido o botão de CONTROLE DE CHAMADA (6). Desta forma, a sincronização atual parará e realizarça uma nova pesquisa de dispositivos Bluetooth®.
+Se deseja sincronizar outro dispositivo Bluetooth®, basta manter premido o botão de CONTROLE DE CHAMADA (4). Desta forma, a sincronização atual parará e realizarça uma nova pesquisa de dispositivos Bluetooth®.
 </quick_guide>
