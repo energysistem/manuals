@@ -45,3 +45,8 @@ Rácio sinal/ruído: >80 dB.
 
 * Capacidade nominal: 1050 mA.
 * Voltagem nominal: 3.7V.
+* Autonomia em modo radio: 15 horas.*
+* Autonomia em modo música: 12 horas.*
+* Autonomia em modo Bluetooh: 10 horas.*
+<br/><br/>
+ *A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria.
