@@ -1,4 +1,4 @@
-## MP3 FUNCTION WITH EXTERNAL MEMORIES
+## MP3 Function with External Memories
 
 In order to play MP3/WMA files, insert an external USB memory or Micro SD/SDHC memory card in the indicated slot (11) & (12) respectively.
 

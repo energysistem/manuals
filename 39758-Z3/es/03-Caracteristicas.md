@@ -42,5 +42,4 @@
 * Peso: 43 g.
 <br/><br/>
  *La duración de la batería es aproximada. Mayor potencia en los altavoces se traduce en un mayor consumo de la batería.
-<br/>
 
