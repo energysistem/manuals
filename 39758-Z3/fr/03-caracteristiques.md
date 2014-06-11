@@ -41,5 +41,5 @@
 * Autonomie en mode musique: 12 heures.*
 * Poids: 43 g.
 <br/><br/>
-* La durée de vie de la batterie est approximative.  Plus de puissance dans les haut parleurs se traduit par une plus grande consommation de la batterie.
+ *La durée de vie de la batterie est approximative.  Plus de puissance dans les haut parleurs se traduit par une plus grande consommation de la batterie.
 <br/>
