@@ -1,5 +1,16 @@
 ## Écran Principal
 
-|  |  |
-|:-------|:-------|
-|1.	**Chercheur:** accès direct au moteur de rechercheWEB de Google#trade#. <br>2.	**Arrière:** permet de reculer vers l'écran antérieure dans l'application qui soit en fonctionnement dans ce moment.<br> 3.	**Home:** retourner à l'écran principal.<br> 4.	**Tâches:** montrez les applications utilisées récemment.<br> 5.	**Music:** lecture de fichiers de son.<br> 6.	**Vidéo:** lecture de fichiers de vidéo.<br> 7.	**Gallery:** visualisation d'images.<br> 8.**Gallery**:visualisation d'images.<br> 9.	**Email:** courrier électronique.<br> 10.	**Barre d'état:** montre l'information sur l'état de la couverture, la batterie et l'heure. Si vous appuyez sur cette partie, une version du menu de configuration est déployée pour administrer la configuration Wi-Fi, le gyroscope, la luminosité de l'écran, les notifications et le menu de configuration complète .<br> 11. **Internet:** navigateur web.<br> 12. **Caméra:** accès à l'appareil photo inclut. <br> 13.Play Store#trade#:téléchargez les meilleures et les plus connues applications pour votre système Android #trade#. <br> 14. Accès au menu d'applications et widgets. <br> 15. **Recherche par voix:** accédez à la recherche par voix de Google #trade# et encore plus.<br>| ![Imagen1](http://static.energysistem.com/images/manuals/39530/53707eb01dbf1.jpg)|
+![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
+1.	**Chercheur:** accès direct au moteur de rechercheWEB de Google#trade#
+2.	**Arrière:** permet de reculer vers l'écran antérieure dans l'application qui soit en fonctionnement dans ce moment
+3.	**Home:** retourner à l'écran principal
+4.	**Tâches:** montrez les applications utilisées récemment
+5.	**Music:** lecture de fichiers de son
+6.	**Play Store:** Magasin d'applications de Google#trade#
+7.	**Gallery:**visualisation d'images
+8.	**Caméra:** accès à l'appareil photo inclut
+9.	**Email:** courrier électronique
+10.	Internet: navigateur web
+11.	**Barre d'état:** montre l'information sur l'état de la couverture, la batterie et l'heure. Si vous appuyez sur cette partie, une version du menu de configuration est déployée pour administrer la configuration Wi-Fi, le gyroscope, la luminosité de l'écran, les notifications et le menu de configuration complète
+12.	**Accès au menu d'applications et widgets**
+13.	**Recherche par voix**: accédez à la recherche par voix de Google#trade# et d'autres.
