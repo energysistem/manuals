@@ -1,4 +1,4 @@
-## FONCTION RADIO FM
+## Function Radio FM
 
 Pour utiliser la fonction radio FM, premièrement, veuillez réaliser la synchronisation des stations pour stocker, sélectionnez entre les stations. Il n'est pas nécessaire de répeter cette recherche sauf si la localisation change ou la syntonie de la station voulue est modifiée.
 
