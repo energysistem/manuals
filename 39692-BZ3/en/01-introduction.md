@@ -1,4 +1,4 @@
-## <quick_guide> Introducción
+## <quick_guide> Introduction
 
 * Thank you for purchasing this *Energy Music Box BZ3 Bluetooth*. We hope you will enjoy it.
 * Portable MP3 player with Bluetooth® technology. Enjoy your music wirelessly from any Bluetooth® device as well as play your MP3 and WAV music from pen drives, SD cards and line-in. Backlit display, FM radio and rechargeable battery.
