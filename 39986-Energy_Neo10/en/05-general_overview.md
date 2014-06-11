@@ -1,6 +1,6 @@
 ## <quick_guide> General Overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceea665c3.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39986/539803b427bc0.jpg)
 
 1. Rear camera
 2. Front camera

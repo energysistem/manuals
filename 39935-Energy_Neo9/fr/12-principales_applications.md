@@ -62,8 +62,6 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 6.  Mode photographie/vidéo
 7.	Déclencheur
 8.	Pré-visualiser photos
-9.	Zoom +
-10.	Zoom -
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 

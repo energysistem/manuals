@@ -17,17 +17,21 @@ Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Nav
 8. Cerrar pestaña
 9. Opciones
 
+
 ### Gestión de Email
 
 Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
+
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
 
 1. Carpeta seleccionada
 2. E-mails
 3. Nuevo correo
 4. Buscar
 5. Opciones
+
 
 ### Reproducción de Música
 
@@ -40,7 +44,9 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 5. Play / pause
 6. Canción posterior
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
+### Reproducción de Vídeo
+
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 
 1. Tiempo reproducido
 2. Bajar volumen
@@ -51,11 +57,9 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 7. Vídeo posterior
 8. Relación de aspecto
 
-
 ### Cámara
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
-
 1. Cambiar de cámara
 2. Modo de captura normal/continuo
 3. Modo panorámico
@@ -64,13 +68,12 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 6. Modo fotografía/video
 7. Disparador
 8. Zoom +
-9. Zoom -
-
+9. Zoom - |
 
 ### Galería: Imágenes y Vídeos
 
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370897f72d62.jpg)
-
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)

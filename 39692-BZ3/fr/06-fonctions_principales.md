@@ -1,4 +1,4 @@
-## Fonctions Principales
+## Fonctions principales
 <quick_guide>
 ### Allumage et éteint de l'appareil
 

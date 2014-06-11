@@ -65,8 +65,6 @@ Note: In order to know your account settings, ask your e-mail provider.
 5. Setup
 6. Photo/video mode
 7. Shutter
-8. Zoom +
-9. Zoom -
 
 ### Gallery: Images and Videos
 

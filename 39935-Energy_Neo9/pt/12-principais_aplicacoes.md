@@ -61,8 +61,7 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 6. Modo fotografia/vídeo
 7. Disparador
 8. Pré-visualizar fotos
-9. Zoom +
-10. Zoom -
+
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
 
 ### Galeria: Imagens e Vídeos
