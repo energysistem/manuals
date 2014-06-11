@@ -2,7 +2,7 @@
 
 ### <quick_guide> Ligado e desligado do dispositivo
 
-Utiliza o botão ON/OFF(4) para ligar o desligar o dispositivo.
+Utiliza o botão ON/OFF (4) para ligar o desligar o dispositivo.
 
 Para ligar o dispositivo, pressione o botão ON/OFF (4) durante 2 segundos. O DISPLAY (8) sera ligado, com o icone do coração. E depois a tela iniciará, indicando que o dispositivo está ligado.
 
