@@ -1,4 +1,4 @@
-## FUNCIÓN RADIO FM
+## Radio FM Function
 
 Before using radio you have to search radio stations first. The device will save them in memory to select them later. It is not necessary to repeat this search unless change of location or the modification of the radio station signal.
 
