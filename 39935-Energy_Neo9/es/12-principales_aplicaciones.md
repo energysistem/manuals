@@ -67,8 +67,6 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 5. Ajustes
 6. Modo fotografía/video
 7. Disparador
-8. Zoom +
-9. Zoom - |
 
 ### Galería: Imágenes y Vídeos
 
