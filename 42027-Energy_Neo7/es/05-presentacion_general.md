@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![IMAGEN DEL PRODUCTO NUMERADA](http://static.energysistem.com/images/manuals/42027/539801f9b12fb.jpg)
+![IMAGEN DEL PRODUCTO NUMERADA](http://static.energysistem.com/images/manuals/42027/53980ea80d774.jpg)
 
 1. Cámara trasera
 2. Cámara delantera

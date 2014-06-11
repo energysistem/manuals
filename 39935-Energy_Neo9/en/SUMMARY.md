@@ -11,7 +11,7 @@
 * [Tipos de pulsaciones](08-main_gestures.md)
 * [Pantalla principal](09-main_screen.md)
 * [Widgets](10-widgets.md)
-* [Configuracion inalámbrica](11-wireless_config.md)
+* [Configuracion inalámbrica](11-wireless_conection.md)
 * [Principales aplicaciones](12-main_apps.md)
 * [Actualizacion](13-updating.md)
 * [Resolucion de problemas](14-troubleshooting.md)

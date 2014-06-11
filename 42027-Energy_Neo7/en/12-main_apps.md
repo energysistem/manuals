@@ -10,8 +10,8 @@ Your new Energy Tablet has a powerful Web browser among the list of applications
 2. Forward
 3. Reload
 4. WEB address
-4.1 type
-4.2 tap on “Enter” key
+5. Type
+6. Tap on “Enter” key
 5. New tab
 6. Close tab
 7. Options

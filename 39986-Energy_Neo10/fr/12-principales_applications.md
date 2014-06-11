@@ -40,7 +40,17 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 |  |  |
 |:-------|:-------|
-|1.	Changer de caméra.<br> 2.	Mode de capture normal/ continu.<br> 3.	Mode panoramique.<br> 4.	Effet post-capture.<br> 5.	Paramètres.<br> 6. Mode photographie/vidéo.<br> 7.	Déclencheur.<br> 8.	Pré-visualiser photos.<br> 9.	Zoom +.<br> 10.	Zoom -.<br> | ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
+1.	Changer de caméra
+2.  Mode de capture normal/ continu
+3.	Mode panoramique
+4.	Effet post-capture
+5.	Paramètres
+6. Mode photographie/vidéo
+7.	Déclencheur
+8.	Pré-visualiser photos
+9.	Zoom +
+10.	Zoom -
+ ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 
 ## Galerie: Images et Vidéos
 Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
