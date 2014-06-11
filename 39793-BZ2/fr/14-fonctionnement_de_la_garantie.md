@@ -1,4 +1,4 @@
-## <quick_guide>Fonctionnement de la Garantie
+## <quick_guide>Fonctionnement de la garantie
 
 1. Lorsque vous entrez sur : http://support.energysistem.com http://support.soyntec.com et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), guides d’utilisation, drivers et mises à jour, comme la possibilité d’envoyer une consultation au service technique ou de gérer la garantie. 
 Vous pouvez vérifier la disponibilité du manuel dans votre langue sur http://www.energysistem.com/fr-fr/support/manuals 
