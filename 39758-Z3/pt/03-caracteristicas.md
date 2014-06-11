@@ -19,7 +19,7 @@
 
 ### Características técnicas
 
-Reproduz ficheiros MP3/WAV desde cartões SD/SDHC/MMC com capacidade de até 32 GB.
+* Reproduz ficheiros MP3/WAV desde cartões SD/SDHC/MMC com capacidade de até 32 GB.
 * Descodificador USB:reproduz arquivos MP3 desde a memória flash USB com capacidade de até 32 GB.
 * Ecrã integrada no dispositivo.
 * Alto-falantes 2.0 com sistema de melhora acústica.
@@ -38,8 +38,7 @@ Resposta em frequência: 90 Hz ~ 20 KHz.
 * Capacidade nominal: 1800 mA.
 * Voltagem nominal: 3.7V.
 * Autonomia: 15 horas.*
-- Autonomia em modo música: 12 horas.*
+* Autonomia em modo música: 12 horas.*
 * Peso: 43 g.
 <br/><br/>
-* A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria. 
-<br/>
+ *A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria. 
