@@ -1,4 +1,4 @@
-## Fonction MP3 avec Mémoires Externes
+## Fonction MP3 avec mémoires externes
 
 Pour visualiser les fichiers en format MP3 ou WAV, insérez une mémoire SD/MMC dans la fente correspondante (10).
 
