@@ -6,35 +6,37 @@ Tu nuevo Energy Tablet dispone de un potente navegador Web entre la lista de apl
 Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Navegador situado en el escritorio o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+
 1. Retroceder
 2. Avanzar
 3. Recargar
 4. Dirección WEB
-5. Tteclea
+5. Teclea
 6. Pulsa enter
 7. Crear pestaña
 8. Cerrar pestaña
 9. Opciones
 
+
 ### Gestión de Email
 
 Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
-
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
 
-1. Carpeta seleccionada<br/>
-2. E-mails<br/>
-3. Nuevo correo<br/>
-4. Buscar<br/>
+1. Carpeta seleccionada
+2. E-mails
+3. Nuevo correo
+4. Buscar
 5. Opciones
 
 
 ### Reproducción de Música
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+
 1. Lista de reproducción
 2. Reproducción aleatoria
 3. Repetición
@@ -44,7 +46,8 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Reproducción de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
+
 1. Tiempo reproducido
 2. Bajar volumen
 3. Marcador
@@ -72,8 +75,6 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
-
-|![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg)
-
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370897f72d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
 
