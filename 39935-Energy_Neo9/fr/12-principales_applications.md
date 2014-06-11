@@ -21,24 +21,36 @@ Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateu
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
 
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
 1.	Dossier choisi
-2.	E-mails
+2.	E-mails.
 3.	Nouveau email
 4.	Chercher
-5.	Options
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
+5.	Options.
 
 ### Lecture de musique
-|  |  |
-|:-------|:-------|
-|1.	Liste de lecture.<br> 2.	Lecture aléatoire.<br> 3.	Répétition.<br> 4. Chanson antérieure.<br> 5.	Play / pause.<br> 6.	Chanson postérieure.<br> |![Imagen1](http://static.energysistem.com/images/manuals/39530/537087d20de5d.jpg)|
+
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+1.	Liste de lecture
+2.	Lecture aléatoire
+3.	Répétition
+4.	Chanson antérieure
+5.	Play / pause
+6.	Chanson postérieure
 
 ### Visualisation Vidéo
 
-|  |  |
-|:-------|:-------|
-|1.	Temps de lecture.<br> 2.	Baisser le volume.<br> 3.	Marqueur.<br> 4.	Luminosité.<br> 5.	Vidéo antérieur.<br> 6.	Play / Pausa.<br> 7.	Vidéo postérieure.<br> 8.	Rapport d'aspect.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)|
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
+1.	Temps de lecture
+2.	Baisser le volume
+3.	Marqueur
+4.	Luminosité
+5.	Vidéo antérieur
+6.	Play / Pausa
+7.	Vidéo postérieure
+8.	Rapport d'aspect
 
 ## Caméra
 
@@ -49,10 +61,9 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 
 ## Galerie: Images et Vidéos
+
 Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
 Pour retourner au bureau d'accueil, appuyez sur le bouton de retour ou Démarrage
 
-
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg) | ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370897f72d62.jpg)|
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)

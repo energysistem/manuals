@@ -1,6 +1,16 @@
 ## <quick_guide> Présentation générale
 
-|  |  |
-|:-------|:-------|
-|1. Caméra arrière.<br> 2.	Caméra frontale.<br> 3.	Haut-parleur.<br> 4.	Bouton d'allumage/éteint.<br> 5. Bouton de contrôle de volume +/-.<br> 6.	Écran tactile.<br> 7.	Fente pour microSD.<br> 8.	Sortie HDMI.<br> 9.	Entrée pour microUSB<br> 10. Sortie d'écouteurs<br> 11. Connecteur d'alimentation.<br>  | ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)|
+![Imagen1](	http://static.energysistem.com/images/manuals/39935/53980401b9a92.jpg)
+1. Caméra arrière
+2. Caméra frontale
+3. Haut-parleur
+4. Bouton d'allumage/éteint
+5. Bouton de contrôle de volume +/-
+6. Écran tactile
+7. Fente pour microSD
+8. Sortie HDMI
+9. Entrée pour microUSB
+10. Sortie d'écouteurs
+11. Connecteur d'alimentation
+
 </quick_guide>
