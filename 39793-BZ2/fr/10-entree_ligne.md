@@ -1,4 +1,4 @@
-## Entrée en ligne
+## Entrée en Ligne
 
 C'est possible profiter de votre *Energy Music Box BZ2 Bluetooth* sans besoin de le synchroniser avec un appareil bluetooth, car il a une entrée en ligne (11) pour connecter l'appareil avec un câble audio jack de 3,5mm.
 
