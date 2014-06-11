@@ -39,6 +39,6 @@
 - Weight: 43 g.
 - Autonomy in radio mode: 15 hours.*
 - Autonomy in music player mode: 12 hours.*
-<br/><br/>
-**The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+<br/>
+ *The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
 

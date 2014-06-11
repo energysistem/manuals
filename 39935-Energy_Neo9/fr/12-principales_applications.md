@@ -44,13 +44,11 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 1.	Temps de lecture
-2.	Baisser le volume
-3.	Marqueur
-4.	Luminosité
-5.	Vidéo antérieur
-6.	Play / Pausa
-7.	Vidéo postérieure
-8.	Rapport d'aspect
+2.	Rapport d'aspect
+3.	Vidéo antérieur
+4.	Play / Pausa
+5.	Vidéo postérieure
+6.	Paramètres
 
 ## Caméra
 

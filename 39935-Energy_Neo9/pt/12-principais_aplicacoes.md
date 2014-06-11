@@ -43,13 +43,11 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 1. Tempo reproduzido.
-2. Baixar volume.
-3. Marcador.
-4. Luminosidade.
-5. Vídeo anterior.
-6. Play/ Pause.
-7. Vídeo posterior.
-8. Relação de aspecto.
+2. Relação de aspecto.
+3. Vídeo anterior.
+4. Play/ Pause.
+5. Vídeo posterior.
+6. Ajustes.
 
 ### Câmara
 
