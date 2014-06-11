@@ -1,4 +1,4 @@
-## <quick_guide> Introducción
+## <quick_guide> Introduction
 
 * Thank you for purchasing this *Energy Music Box BZ2 Bluetooth*. We hope you will enjoy it.
 * Portable MP3 player with Bluetooth® technology. This small speaker will surprise you due to its many playback options and sound quality. Take it with you and listen to the radio and music from your device, even from MicroSD cards.
