@@ -1,4 +1,4 @@
-## FUNCIÓN RADIO FM
+## Función Radio FM
 
 Para usar la función radio FM, en primer lugar es necesario realizar una sintonización de canales que quedará almacenada para posteriormente seleccionar entre canales. No será necesario repetir esta búsqueda a menos que se cambie de localización, o se modifique la sintonía de la emisora deseada.
 
