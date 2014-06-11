@@ -46,13 +46,11 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 1. Elapsed time
-2. Volume down
-3. Marker
+2. Aspect ratio
+3. MPrevious video
 4. Play / Pause
-5. Previous video
-6. Play/Pause
-7. Next video
-8. Aspect ratio
+5. Next video
+6. Setup
 
 ### Camera
 
@@ -65,8 +63,6 @@ Note: In order to know your account settings, ask your e-mail provider.
 5. Setup
 6. Photo/video mode
 7. Shutter
-8. Zoom +
-9. Zoom -
 
 ### Gallery: Images and Videos
 

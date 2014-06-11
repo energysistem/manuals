@@ -8,7 +8,7 @@
 * WI-FI N: module 802.11 b/g/n
 * Bluetooth 3.0
 * Caméra frontale 0.3Mpx.
-* * Fonction USB-Host.
+* Fonction USB-Host.
 * Fonction USB-OTG
 * Haut-parleur inclut 1w.
 * Microphone omnidirectionnel inclut.
