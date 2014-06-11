@@ -1,4 +1,4 @@
-## FONCTION MP3 AVEC MÉMOIRES EXTERNES
+## Fonction MP3 avec Mémories Externes
 
 Pour lire les fichiers en format MP3 ou FLAC, insérez une mémoire externe USB ou une carte mémoire SD/MMC dans les fentes correspondantes; (12) et (13) respectivement. 
 
