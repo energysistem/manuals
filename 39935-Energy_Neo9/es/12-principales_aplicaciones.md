@@ -49,13 +49,11 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 
 1. Tiempo reproducido
-2. Bajar volumen
-3. Marcador
-4. Brillo
-5. Vídeo anterior
-6. Play / Pausa
-7. Vídeo posterior
-8. Relación de aspecto
+2. Relación de aspecto
+3. Vídeo anterior
+4. Play / Pausa
+5. Vídeo posterior
+6. Ajustes
 
 ### Cámara
 
