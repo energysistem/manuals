@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	PLAY/PAUSE BUTTON <br> 2.	MICROPHONE <br> 3.	CHARGING LED  <br> 4.	VOLUME - <br> 5. MENU BUTTON <br> 6.	VOLUME + <br> 7.	LED INDICATOR <br> 8.	USB CONNECTION <br> 9.	LINE-IN CONNECTION <br> 10. ON/OFF BUTTON <br> 11. CARD SLOT|![General_overview](http://static.energysistem.com/images/manuals/42026/539866a2b00dd.jpg)|
+|1.	CHARGING LED <br> 2. VOLUME - <br> 3.	PLAY/PAUSE BUTTON <br> 4. VOLUME + <br> 5. LED INDICATOR  <br> 6.	MENU BUTTON <br> 7.	CARD SLOT<br> 8.	USB CONNECTION <br> 9.	LINE-IN CONNECTION <br> 10. ON/OFF BUTTON <br> |![General_overview](http://static.energysistem.com/images/manuals/42026/539866a2b00dd.jpg)|
 </quick_guide>
