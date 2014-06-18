@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	LED DE CARGA<br> 2.	VOLUMEN - <br> 3.	BOTÓN PLAY/PAUSE  <br> 4.  VOLUMEN + <br> 5. INDICADOR LED <br> 6. BOTÓN MENÚ<br> 7. RANURA PARA TARJETA<br> 8.	CONEXIÓN USB <br> 9.	CONEXIÓN LINE-IN <br> 10. BOTÓN ON/OFF <br>|![Esquema](http://static.energysistem.com/images/manuals/42026/53a15454021ec.jpg)|
+|1.	Led De Carga<Br> 2.	Volumen - <Br> 3.	Botón Play/Pause  <Br> 4.  Volumen + <Br> 5. Indicador Led <Br> 6. Botón Menú<Br> 7. Ranura Para Tarjeta<Br> 8.	Conexión Usb<br> 9.	Conexión Line-in <br> 10. Botón On/Off <br>|![Esquema](http://static.energysistem.com/images/manuals/42026/53a15f5c56902.jpg)|
 </quick_guide>
