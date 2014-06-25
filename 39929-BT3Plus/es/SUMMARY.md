@@ -1,7 +1,7 @@
 # Summary
 
 * [Portada](00-portada.md)
-* [Introducción](01-introduccion.md)
+* [Introducción](01-introducciones.md)
 * [Cuidado y mantenimiento](02-mantenimiendo.md)
 * [Características](03-caracteristicas.md)
 * [Contenido](04-contenido.md)
@@ -13,3 +13,4 @@
 * [Garantía](10-garantia.md)
 * [Funcionamiento de la garantía](11-funcionamiento_garantia.md)
 * [Declaración de conformidad](12-declaracion_de_conformidad.md)
+
