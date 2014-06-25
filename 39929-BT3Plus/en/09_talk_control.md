@@ -10,6 +10,6 @@ Ifyou prefer to use your smartphone instead of the handsfree function you can tr
 
 In case you can not answer a phone call, you can reject it by keeping pressed the multifunction button (1) for 2 seconds.
 
-###Recall
+### Recall
 
 Your *Energy Headphones BT3+ Bluetooth* let you repeat the last phone call registered in your phone calls list. To do this, press twice the multifunction button (1) and it will make the phone call automatically.
