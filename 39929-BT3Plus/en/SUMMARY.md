@@ -7,5 +7,7 @@
 * [Content](04-content.md)
 * [General Overview](05-general_overview.md)
 * [Main Functions](06-main_functions.md)
-* [Bluetooth Pairing](07-bluetooth_synchronization.md)
+* [Bluetooth Pairing](07-bluetooth_pairing.md)
+* [Play Control](08-play_control.md)
+* [Talk Control](09_talk_control.md)
 
