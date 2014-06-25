@@ -10,4 +10,7 @@
 * [Bluetooth Pairing](07-bluetooth_pairing.md)
 * [Play Control](08-play_control.md)
 * [Talk Control](09_talk_control.md)
+* [Warranty](10-warranty.md)
+* [Warranty Procedure](11-warranty_procedure.md)
+* [Declaration Of Conformity](12-declaration_conformity.md)
 
