@@ -1,6 +1,6 @@
 # 10. Solución de Problemas
 
-Si tienes problemas con el uso del d6 o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos y esta tabla.
+Si tienes problemas con el uso del d5 AV o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos y esta tabla.
 
 | Problema | Posible solución |
 | -- | -- |

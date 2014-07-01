@@ -18,8 +18,8 @@ El menú principal te permite acceder a la Configuración DVD, Menú DVB, Config
   * SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
   * SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
 * Downmix
-  * Lt/Rt: Selecciona esta opción cuando el d6 esté conectado a un dispositivo compatible con Dolby Pro Logic.
-  * Lo/Ro: Selecciona esta opción cuando el d6 está conectado a un dispositivo estéreo convencional.
+  * Lt/Rt: Selecciona esta opción cuando el d5 AV esté conectado a un dispositivo compatible con Dolby Pro Logic.
+  * Lo/Ro: Selecciona esta opción cuando el d5 AV está conectado a un dispositivo estéreo convencional.
 
 #### 6.1.3. CONFIGURACIÓN PERSONAL
 
@@ -88,7 +88,7 @@ La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
 
 * Antena (Alimentación Antena)
 
-  Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El d6 es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
+  Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El d5 AV es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
 
 * País
 
