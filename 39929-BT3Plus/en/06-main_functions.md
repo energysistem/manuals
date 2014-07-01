@@ -13,6 +13,6 @@ As long as your device is turned on, the LED indicator will keep flashing blue.
 
 ### Charging the battery
 
-When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Headphones BT3+ Bluetooth* (7) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charge is completed the LED will turn off.
+When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the included USB to your *Energy Headphones BT3+ Bluetooth* (7) and to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charging process is completed the LED will turn off.
 
-IMPORTANT NOTE: To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
+IMPORTANT NOTE: To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Also, do not interrupt the charging process until the battery is fully charged.
