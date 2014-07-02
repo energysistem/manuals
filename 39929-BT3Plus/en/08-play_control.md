@@ -1,9 +1,9 @@
 ## Play Control
 
-Once you have paired your *Energy Headphones BT3+ Bluetooth* you can control basic playback options from the own headphones such as raise/low volume, move forward or backword a song and play/pause the playback.
+Once you have paired your *Energy Headphones BT3+ Bluetooth* you can control basic playback options directly from the headphones such as raise/low volume, move forward or backward a song and play/pause your music.
 
-To forward one song press once the forward button (2), if you want to move within the same song, keep forward button pressed until you reach the desired time. You can also rewind a song or go to a previous point in the same song by pressing once or pressing and holding the back button (4).
+To forward one song press the forward button (2) once; if you want to move within the same song, keep the forward button pressed until you reach the desired time. You can also rewind a song or go to a previous point in the same song by pressing once or pressing and holding the backward button (4).
 
-You can raise and low the volume by ussing buttons 3 and 5 respectively. You will hear a bip sound with each change of volume and a higher bip sound when you reach the maximun volume allowed.
+You can raise and low the volume by ussing buttons 3 and 5 respectively. You will hear a beep sound with each change of volume and a higher beep sound when you reach the maximun volume allowed.
 
-To pause and resume the playback press once the multifunction button (1).
+To pause and resume, press the multifunction button (1) once.
