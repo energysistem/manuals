@@ -1,4 +1,4 @@
-## <quick_guide> Introduction
+## <quick_guide> Introdução
 
 * Energy Sistem® agradece-lhe a aquisição do Energy Wireless BT Sport, desejamos-lhe que o desfrute.
 * Fones Bluetooth desportivos com função mãos livres. Concebidos para oferecer-lhe a liberdade que você precisa e fazer desporto desfrutando de uma grande qualidade de som. Gerir as chamadas desde o mesmo fone sem deixar de treinar.
