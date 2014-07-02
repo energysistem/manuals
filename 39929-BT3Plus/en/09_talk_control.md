@@ -1,6 +1,6 @@
 ## Talk Control
 
-Having your *Energy Headphones BT3+ Bluetooth* paired with your smartphone you can receive phone calls and use the built-in microphon (8) to talk from the own device.
+Having your *Energy Headphones BT3+ Bluetooth* paired with your smartphone you will be able to receive phone calls and use the built-in microphone (8) to talk from the own device.
 
 To answer a phone call you only need to press once the multifunction button (1). In case you were listening to a song in the moment you receive the phone call, the playback will be paused and you will hear a ring tone.
 
