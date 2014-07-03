@@ -14,6 +14,6 @@ Is in compliance with the essential norms and standards of the Directive 1999/5/
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed at the end of life separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed, at the end of its life, separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
 
 </quick_guide>
