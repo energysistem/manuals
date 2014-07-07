@@ -1,6 +1,5 @@
-## Entrada en línea
+## Altavoz USB
 
-También es posible disfrutar de tu *Energy Music Box Z1* sin necesidad de utilizar una tarjeta micro SD, ya que cuenta con una entrada en línea (9) en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5mm.
-Es necesario tener el *Energy Music Box Z1* encendido para utilizar esta función. 
+También puedes utilizar tu *Energy Music Box Z1* como altavoz USB conectándolo a tu portátil u ordenador de sobremesa. Para ello, coneccta el cable USB y enciende tu *Energy Music Box Z1*, tu ordenador lo reconocerá y podrás escuchar la música de tu ordenador a través del music box a la vez que éste recarga su batería.
 
-**NOTA:** Mientras se utiliza el altavoz en modo line-in, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+**NOTA:** Mientras se utiliza el altavoz en modo USB, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el portñatil u ordenador de sobremesa al que se encuentra conectado.
