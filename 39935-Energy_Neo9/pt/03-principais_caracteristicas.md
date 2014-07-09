@@ -4,7 +4,7 @@
 * Tela capacitiva multi-táctil de 5 pontos.
 * Processador quad core A7 1GHz con GPU SGX544MP2 incluido.
 * 1GB DDR3 RAM.
-* 8GB de memória interna expandíveis com cartões microSD-HC/XC (até 32GB).
+* 8GB de memória interna expandíveis com cartões microSD-HC/XC (até 64GB).
 * Conexão WI-FI N: 802.11 b/g/n
 * Bluetooth 3.0
 * Saída HDMI 720p.

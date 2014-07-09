@@ -4,7 +4,7 @@
 * Écran capacitif multi-touch de 5 points.
 * Processeur quad coeur ARM Cortex A7 1GHz avec GPU SGX544MP2 inclut.
 * 1 Go DDR3 RAM.
-* 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 32 Go).
+* 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n
 * Bluetooth 3.0
 * Sortie HDMI 720p.
