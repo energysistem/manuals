@@ -6,7 +6,7 @@
 * 1GB DDR3 RAM.
 * 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
-* Bluetooth 3.0
+* Bluetooth 4.0
 * Salida HDMI @ 720p
 * Cámara frontal 0.3Mpx.
 * Cámara trasera 2Mpx.

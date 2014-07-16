@@ -2,11 +2,11 @@
 
 * Tela TFT de 9" 16:9(1024x600 píxeis).
 * Tela capacitiva multi-táctil de 5 pontos.
-* Processador quad core A7 1GHz con GPU SGX544MP2 incluido.
+* Processador quad core A7 1.2GHz con GPU SGX544MP2 incluido.
 * 1GB DDR3 RAM.
 * 8GB de memória interna expandíveis com cartões microSD-HC/XC (até 64GB).
 * Conexão WI-FI N: 802.11 b/g/n
-* Bluetooth 3.0
+* Bluetooth 4.0
 * Saída HDMI 720p.
 * Câmara frontal de 0.3Mpx.
 * Câmara traseira de 2Mpx.
