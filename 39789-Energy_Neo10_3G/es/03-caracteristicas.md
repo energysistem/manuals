@@ -1,19 +1,21 @@
 ## Principales Características
 
 * Pantalla IPS 10.1" 16:9 (1280x800 píxels).
-* Pantalla capacitiva multi-táctil de 5 puntos.
-* Procesador quad core ARM Cortex A7 1GHz con GPU SGX544MP2 integrada.
+* Pantalla capacitiva multi-táctil
+* Procesador quad core ARM Cortex A7 1.3GHz con GPU Mali-400 integrada.
 * 1GB DDR3 RAM.
-* 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 32 GB).
+* 16GB eMMC de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
-* Bluetooth 3.0
-* Cámara frontal 0.3Mpx.
-* Cámara trasera 2Mpx.
+* Bluetooth 4.0
+* 3G WCDMA(850&1900&2100MHz)
+* GPS
+* Cámara frontal 2 Mpx.
+* Cámara trasera  5 Mpx AF.
 * Función USB-Host.
 * Función USB-OTG
-* Altavoz integrado 1w.
+* 2 x Altavoz integrado 1w.
 * Micrófono omnidireccional integrado.
 * Sensor de movimiento (acelerómetro).
-* Capacidad de batería: 3.7v/6000mAh.
-* Autonomía: hasta 4 horas de navegación Wi-Fi.
+* Capacidad de batería: 3.7v/7000mAh.
+* Autonomía: hasta 5 horas de navegación Wi-Fi.
 * Alimentación mediante adaptador AC 100-240v 50-60Hz DC 5v/2A.
