@@ -5,4 +5,6 @@ Recharge the battery by connecting the device to the outlet only using the AC/DC
 You have several ways to improve the performance and optimize the battery use of your Energy Tablet:
 Set your tablet to automatically turn off the display after a few seconds of inactivity in Settings > Display > Sleep after.
 Select an ideal display brightness in Settings > Display > Brightness.
+
+If you want to use the SIM card of your telephone company with the Energy Neo 10 3G, extract the tray of the SIM slot using the thimble included in the pack, and insert the SIM inside the tray in the correct position. Then, introduce both inside the slot.
 </quick_guide>
