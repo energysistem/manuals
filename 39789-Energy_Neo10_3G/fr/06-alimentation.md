@@ -4,4 +4,6 @@ Votre Energy Tablet est une batterie rechargeable de lithium-ion. Initialement, 
 Vous avez différentes façons d'améliorer le rendement et d'optimiser l'utilisation de la batterie de votre Energy Tablet:
 Configurez l'arrêt automatique de l'écran après quelques seconds d'inactivité depuis Paramètres > Écran > Éteindre après.
 Choisissez un niveau d'éclat d'écran optimale dans le menu Réglages > Écran > Luminosité.
+
+Pour utiliser la carte de votre opérateur téléphonique sur notre Energy Tablet, retirez la carte SIM de l’entrée avec l’accessoire inclut. Mettez la carte SIM dans l’entrée en position correcte et puis, introduisez l’ensemble dans l’entrée pour les cartes SIM.
 </quick_guide>
