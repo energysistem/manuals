@@ -1,5 +1,10 @@
 ## Configuração sem fios
 
+### Configuraçao cartão SIM
+
+Seu Energy Tablet tem a possibilidade de utilizar um chip SIM. Para administrar o uso do chip, entre em Definições
+>> Gestão de SIM.
+
 ### Bluetooth
 
 A sua Energy Tablet dispõe de conexão Bluetooth. Para conectar o dispositivo a qualquer periférico como fones de ouvido, PC, tablets, etc. Para tanto deve ir a Ajustes>> Bluetooth y mover a opção à posição ON. À continuação irá realizar uma busca de todos os aparelhos disponíveis e então deve seleccionar um deles para realizar a conexão.

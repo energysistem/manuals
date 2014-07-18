@@ -1,5 +1,10 @@
 ## Configuration sans fil
 
+### Configuration de la carte SIM
+
+Votre Energy Tablet a la possibilité d’utiliser cartes SIM. Sur la section Paramètres >> Administration de carte
+SIM, vous pourrez gérer les cartes.
+
 ### Bluetooth
 
 Votre Energy Tablet inclut une connexion Bluetooth. Pour conencter votre appareil avec les écouteurs, ordinateurs portables, tablettes, smartphones, etc. Allez sur Paramètres >> Bluetooth et changez vers la position ON. À continuation comencera à
