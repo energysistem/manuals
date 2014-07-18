@@ -42,3 +42,22 @@ information supplémentaire de la chaîne.
 
 Avis: La disponibilité de SURTITRES/TEXT/AUDIO dépend de l'émetteur de la
 chaîne.
+
+### 3.2. INSTALLATION DES PILES
+
+Retirez le courvercle des piles de la télécommand et insérez les piles type AAA.
+Ce diagramme indique la façon correcte d'insérer les piles.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42028/535677c71d9e9.jpg)
+
+### 3.3. UTILISER LA TÉLÉCOMMANDE
+
+Pour utiliser la télécommande, adressez-le à la partie frontale du récepteur.
+La télécommande a une portée de 5 mètres depuis le récepteur d'un angle de 60
+degrés.
+30º 30º
+
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53567865ad46a.jpg)
+
+La télécommande ne fonctionnera pas si le chemin au récepteur est bloqué.
+La lumière du soleil ou une autre très intense peut réduire la sensibilité de la télécommande.
