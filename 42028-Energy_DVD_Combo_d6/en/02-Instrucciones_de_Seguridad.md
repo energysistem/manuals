@@ -1,38 +1,37 @@
-## 1. INSTRUCCIONES DE SEGURIDAD
+## 1. SECURITY INSTRUCTIONS
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/5355556fa3df6.jpg)
 
-Para garantizar tu seguridad y la de los demás asegúrate de leer estas instrucciones antes de utilizar este producto.
-Guarda este manual para futura referencia.
-Este símbolo indica que este producto incorpora doble aislamiento entre la alimentación y los elementos accesibles al usuario.
+To ensure your safety and the safety of others, please ensure that you read all the safety information before operating this product.
+Keep this information in a safe place for future reference.This symbol indicates that this product incorporates double insulation between hazardous mains voltage and user accessible parts.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/535555ed12bbc.jpg)
 
-PRECAUCIÓN: Para reducir el riesgo de incendios o descargas eléctricas no exponga este aparato a la lluvia.
-Consideraciones sobre seguridad
+WARNING: To reduce the risk of fire or electric shock, do not expose this apparatus to rain or moisture.
 
-### Consideraciones sobre seguridad
-* Coloca los cables a fin de que no se puedan pisar, pinchar o cortar.
-* No uses el d5 AV en condiciones húmedas.
-* No permitas que el d5 AV se moje.
-* No expongas el d5 AV a goteos o salpicaduras.
-* No coloques objetos llenos de agua tales como floreros en la parte superior del d5 AV.
-* No coloques fuentes de llama desnuda, como velas, en la parte superior del d5 AV.
+### Safety Considerations.
 
-### VENTILACIÓN
-Las ranuras y aberturas en el d5 AV son para la ventilación. No las cubras o bloquees, ya que puede causar un sobrecalentamiento.
-NUNCA permitas que los niños introduzcan nada en los orificios o ranuras.
+Position the cables so that they cannot be walked on or pinched by items placed on or against them.
+* Do not use the d5 AV in humid or damp conditions.
+* Do not allow the d5 AV to get wet.
+* Do not expose the d5 AV to dripping or splashing.
+* Do not place water filled objects such as vases on top of the d5 AV.
+* Do not place naked flame sources, such as candles, on the top of the d5 AV.
 
-### MANTENIMIENTO
-El d5 AV no necesita mantenimiento.
-Tratamiento de las pilas agotadas
-Nunca deseches las baterías tirándolas al fuego o con otros residuos domésticos.
-Consulta con la autoridad local sobre la normativa de residuos.
+### Ventilation
+The slots and openings on the set top box are for ventilation. Do not cover or block them as it may cause overheating.
+NEVER let children push anything into the holes or slots on the case.
 
-### LIMPIEZA
-Desconecta siempre el d5 AV antes de limpiarlo.
-No utilices limpiadores líquidos o en aerosol.
-Limpia el d5 AV con una tela suave y húmeda (no mojada).
+### Servicing
+The d5 doesn't need maintaing.
+Treatment for used batteries:
+Never dispose batteries in fire o with any other domestic waste.
+You must check disposal regulations with your locar authorites.
 
-### CUIDADOS DEL d5 AV
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53564c7ccf0c8.jpg)
+### Cleaning
+ALWAYS unplug the d5 AV before you clean it.
+Do not use liquid or aerosol cleaners.
+Clean the d5 AV with a soft, damp (not wet) cloth.
+
+### d5 AV handling and care
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cd046dbd60e.jpg)

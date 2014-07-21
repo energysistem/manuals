@@ -3,17 +3,15 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/535658cbd805c.jpg)
 
-1. STANDBY: Enciende/apaga (modo espera) el d5.
-2. REPEAT: Cambia entre las diferentes opciones de repetición.
-3. PROG: Programa el orden de reproducción.
-4. PLAY/PAUSE: Inicia o pausa la reproducción en curso.
-5. STOP: Detiene la reproducción en curso.
-6. FAV/GOTO: Accede a los canales favoritos (TV). Desplazamiento a un
-punto en el tiempo, título, capítulo o fichero/carpeta dependiendo del
-contexto (USB/DVD).
-7. OPEN/CLOSE: Abre/cierra la bandeja de disco.
-8. SETUP: Menú de configuración.
-9. VCR. Conmuta entre la salida principal y la entrada de euroconector.
+1. STANDBY: Switch the d5 AV between on and standby mode.
+2. REPEAT: Change between repeat options.
+3. PROG: Program the playback order.
+4. PLAY/PAUSE: Play, Pause or Playback the on course reproduction.
+5. STOP: Stop the current recording if exists or stop the playback.
+6. FAV/GOTO: Go to time point, title, chapter or file/folder depending on context (USB/DVD).
+7. OPEN/CLOSE: Open/close the disc tray.
+8. SETUP: Open the setup menu window.
+9. VCR. Switch between SCART input and DVD/DVB-T.
 10. MENU/TTX: Menú principal en modo DVD / Teletexto en modo TDT.
 11. OK/CH LIST: Confirma una selección en un menú. Muestra la lista de
 canales en modo TV.
