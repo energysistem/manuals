@@ -3,7 +3,7 @@
 
 ### Características generales
 
-- Auriculares Bluetooth® 4.0.
+- Auriculares Bluetooth 4.0.
 - Fácil sincronización sin códigos.
 - Compatible con dispositivos iOS, ANDROID, PC y sistemas PlayStation.
 - Micrófono integrado con cancelación de eco y ruidos.
