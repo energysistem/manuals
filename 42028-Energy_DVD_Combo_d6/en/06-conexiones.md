@@ -1,20 +1,17 @@
-## 4. CONEXIONES
+## 4. CONNECTIONS
 
-Precaución: Asegúrate que la tensión de la toma de corriente es la misma que la del receptor.
+Caution: Make sure to check that the voltage of the wall outlet has the same rating than the receiver.
+To prevent the risk of electric shock, do not open the cover or the back of the receiver.
+When connecting the receiver to other equipment (e.g. TV, VCR and amplifier) make sure to refer to relevant user manual for instruction. Also, make sure you disconnect all the equipments from the mains supply before the connection.
 
-Para evitar el riesgo de descargas eléctricas no abras la tapa o la parte trasera del receptor.
-Al conectar el receptor a otro equipo, por ejemplo: TV, VCR o amplificador, consulta antes la información
-correspondiente. Además asegúrate de desenchufar todos los equipos de la red eléctrica antes
-de la conexión.
-
-### 4.1 CONEXIÓN DE ANTENA
+### 4.1 ANTENNA CONNECTION
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
 
-### 4.2 CONEXIÓN SCART
+### 4.2 SCART CONNECTION
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53567c2c29c99.jpg)
 
-### 4.3 CONEXIÓN A AMPLIFICADOR A/V CON ENTRADA DE AUDIO DIGITAL
+### 4.3 CONNECTING TO AN A/V RECEIVER WITH DIGITAL INPUT
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53567ca54d546.jpg)

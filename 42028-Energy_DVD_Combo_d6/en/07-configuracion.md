@@ -1,38 +1,35 @@
-## 5. CONFIGURACIÓN
+## 5. GETTING STARTED
 
-### 5.1. PREPARACIÓN
+### 5.1. POWER SUPPLY FOR THE UNIT
 
-1. Efectúa las conexiones de acuerdo a lo indicado en la sección "CONEXIONES".
-2. Introduzca dos pilas AAA (incluidas) en el compartimento de pilas del mando a distancia respetando la polaridad.
-3. Enchufe el cable de alimentación en una toma de corriente. Pulse el botón STANDBY para encender el reproductor.
-4. Encienda el televisor y seleccione la fuente de video adecuada.
-5. Pulse el botón STANDBY para poner el aparato en reposo. Si no va a utilizar el aparato durante un periodo de tiempo prolongado desenchufe el cable de alimentación de la toma de corriente.
+1. Connect the unit as shown in “CONNECTIONS”.
+2. Insert 2 AAA batteries (supplied) into the battery compartment in the remote control, taking care to follow the correct polarity.
+3. Connect the power cord to an AC mains outlet. Press the STANDBY button to turn on the unit.
+4. Turn on the TV and set to the correct video-in source.
+5. To go to standby mode, press the STANDBY button. If the unit is not to be used for a long time, please disconnect the power cord.
+Note:
+* The range of the remote control is about 5 meters.
+* Replace the batteries when the remote control range starts to reduce.
+* If the remote control is not to be used for a long time, remove the batteries to avoid damage caused by battery leakage.
 
-Notas:
-* El alcance del mando a distancia es de unos 5 metros.
-* Cambie las pilas del mando a distancia cuando disminuya el alcance del mismo.
-* Si no va a utilizar el mando a distancia durante un periodo de tiempo prolongado retire las pilas para evitar que se produzcan daños causados por la corrosión debida a una pérdida de líquido.
+### 5.2. INSERTING A DISC
+1. Press the SOURCE button on the remote control and use the up/down buttons to select the source: DVD-ROM Drive. Press the OK button to confirm.
+2. Press the OPEN/CLOSE button to open the disc tray.
+3. Insert a disc, then press the OPEN/CLOSE button again to close the disc tray. The unit will read the disc and start to play it, or it will display a start menu
 
-### 5.2. INTRODUCCIÓN DE DISCOS
+### 5.3. INSERTING A USB DEVICE
 
-1. Pulse el botón SOURCE del mando a distancia y utilice los botones arriba/abajo para seleccionar la fuente de entrada: DVD. Pulse el botón OK para confirmar.
-2. Pulse el botón OPEN/CLOSE para abrir la bandeja de disco.
-3. Introduzca el disco y pulse de nuevo el botón OPEN/CLOSE para cerrar la bandeja de disco. Se cargará el disco y dará comienzo la reproducción o se visualizará el menú de arranque.
+Insert a USB device into the unit. Press the SOURCE button on the remote control and use the up/down buttons to select the source: DVD, DVB or USB. Press the OK button to confirm.
 
-### 5.3. INTRODUCCIÓN DE UN DISPOSITIVO USB
+### 5.4. DVB-T FIRST TIME INSTALLATION
 
-Introduzca un dispositivo USB en el reproductor. Pulse el botón SOURCE del mando a distancia y utilice los botones arriba/abajo para seleccionar la fuente de entrada USB. Pulse el botón OK para confirmar la selección.
+When DVB mode is used for the first time, the screen will display the First Time Installation page. This will guide the user through the initial DVB mode setup.
 
-### 5.4. INSTALACIÓN INICIAL TDT
+First, choose “Yes”, then press the OK button. The system will then start the initial setup.
 
-Cuando se usa el modo TDT por primera vez se mostrará el menú de configuración inicial. Este menú guiará en la primera instalación TDT.
+Then select the relevant regional information (country, OSD language and Time Zone. The system will automatically scan through the channels according to the information you have entered.
 
-Elige primero "Sí" y pulsa el botón OK.
+Select “Yes” to start the automatic search.
 
-El sistema comenzará con la instalación inicial.
-Selecciona la información regional correspondiente (país, idioma OSD y zona horaria). El d5 AV escaneará automáticamente buscando canales con la configuración regional suministrada.
-
-Selecciona "Sí" para comenzar la búsqueda automática.
-
-Al final de la búsqueda el sistema pasará a modo TDT para visualizar los canales encontrados.
+At the end of the search, the system will go to DVB mode in order to view the channels found
 

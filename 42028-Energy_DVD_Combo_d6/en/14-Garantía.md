@@ -1,5 +1,3 @@
-# 12. Garantía
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Soyntec S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del Bien, en los términos y bajo las condiciones establecidas en la citada norma.
-<br>En el caso de que el Bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución o, subsidiariamente, a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
-<br>Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero debido a uso indebido, negligencia, uso o empleo del Bien distinto a aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación.
-<br>Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
+# 12. WARRANTY
+Energy Sistem Soyntec S.A. warrants its products to be free from defects in materials and workmanship at the time of purchase.
+The warranty period is 36 months from the date of purchase.

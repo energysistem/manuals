@@ -1,15 +1,27 @@
-# 9. Funcionamiento DVB-T
-Pulsa el botón SOURCE en el mando a distancia y usa los botones Arriba/Abajo para seleccionar DVB.
-<br>Pulsa OK para confirmar.
+# 9. DVB-T OPERATION
 
-* Selección de un canal
-<br>Pulsa CH-/CH+ o utiliza los botones numéricos para pasar de un canal a otro.
-En modo normal pulsa OK para visualizar la lista de canales.
+
+Press the SOURCE button on the remote control and use the Up/Down buttons to select DVB.
+
+Press the OK button to confirm.
+
+* Selecting a Channel
+
+	Press CH-/CH+ to go through the channels or press the numeric buttons on the remote control.
+	In normal playback mode, press the OK button to display the channel list on the screen. You can then select which channel you want to watch.
+
 * Audio
-<br>Pulsa el botón Audio para seleccionar el canal de audio (Audio 1 o Audio 2) y uno de los tres modos de audio: II, DD e ID.
-* Subtítulos
-<br>Pulsa el botón Subtitle para seleccionar el idioma de visualización de los subtítulos. El número de idiomas disponibles varía en función de la cadena. Si el canal no dispone de subtítulos solo aparecerá la opción “Desactivado”.
-* Guía de Programación Electrónica
-<br>Pulsa el botón EPG para consultar la Guía de Programación Electrónica. Utiliza los botones Arriba/Abajo para seleccionar una cadena y consultar la lista de programas. Pulsa el botón OK para volver a la visualización normal de la cadena. Pulsa Derecha para visualizar la lista completa de los programas del día y los botones Arriba/Abajo para visualizar más información. La información solicitada se visualizará en panralla a la derecha de la lista de programas. Para añadir un programa a la lista de programas planificados.
+
+	Press the Audio button to choose the audio channel (Audio 1 or Audio 2) and three audio modes: LL, RR and LR.
+
+* Subtitles
+
+	Press the Subtitle button to choose the subtitle language. The number of available languages depends on the channel. If no other language can be chosen, only the “off” option will be available.
+
+* EPG Page
+
+	Press the EPG button to enter EPG mode (electronic program guide). Use the Up/Down buttons to choose a channel and check the program list for the next two sessions. To return to normal viewing of the channel, press the OK button. To check the complete program list for a day, press the Play button to display it. Press the Up/Down buttons to obtain detailed information. This information will be shown to the right of the program list. When you have chosen a program, use the OK button to preset the time for changing channel to make sure that you do not miss the program.
+
 * TV/RADIO
-<br>Pulsa el botón TV/RADIO para cambiar entre cadenas de TV y emisoras de radio.
+
+	Press the TV/RADIO button to select the TV or radio channels.

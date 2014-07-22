@@ -1,9 +1,9 @@
-# Summary
+﻿# Summary
 
 * [Portada](00-portada.md)
 * [Introducción](01-Introduccion.md)
 * [Instrucciones de Seguridad](02-Instrucciones_de_Seguridad.md)
-* [Producto](03-Panel_Frontal.md)
+* [Producto](03-Producto.md)
 * [Mando a distancia](05-Mando_a_distancia.md)
 * [Conexiones](06-conexiones.md)
 * [Configuración](07-configuracion.md)

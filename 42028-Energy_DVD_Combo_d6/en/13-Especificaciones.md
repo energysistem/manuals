@@ -1,4 +1,3 @@
-// Incluir aqui la captura de pantalla de la tabla de especificaciones.
-
 # 11 Especificaciones
 
+ ![Imagen1](http://static.energysistem.com/images/manuals/42028/53ce628c88bbf.jpg)

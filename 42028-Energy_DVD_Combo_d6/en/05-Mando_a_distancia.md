@@ -12,50 +12,48 @@
 7. OPEN/CLOSE: Open/close the disc tray.
 8. SETUP: Open the setup menu window.
 9. VCR. Switch between SCART input and DVD/DVB-T.
-10. MENU/TTX: Menú principal en modo DVD / Teletexto en modo TDT.
-11. OK/CH LIST: Confirma una selección en un menú. Muestra la lista de
-canales en modo TV.
-12. GUIDE: Muestra la programación del canal actual.
-13. VOL+/-: cambiar el volumen.
-14. Zoom: Permite ampliar la imagen.
-15. TECLAS NUMÉRICAS: Seleccionan canales o números en los menús.
-16. AUDIO: Selecciona entre las pistas de audio disponibles o el modo LR
-(estéreo), LL (izquierda) o RR (derecha).
-17. MUTE: Activa/desactiva el sonido.
-18. SLOW: Reproducción lenta.
-19. ANGLE: Selecciona entre los ángulos de cámara disponibles (DVD).
-20. REV: Retroceso.
+10. MENU/TTX: Main menu in DVD mode / Teletext en DVB-T mode.
+11. OK/CH LIST: Confirm a selection within a menu. Shows channel list.
+12. GUIDE: Displays the actual channel schedule.
+13. VOL+/-: Change the volume in normal play mode.
+14. Zoom: Enlarges the image.
+15. TECLAS NUMÉRICAS: SSelect channel numbers or input numbers in menus.
+16. AUDIO: Select the available audio track or set the sound mode as LR(stereo), LL(left), RR(right).
+17. MUTE: Mute/unmute the sound.
+18. SLOW: Fast forward at selectable speeds.
+19. ANGLE: Selects a DVD camera angle if available.
+20. REV: Fast backward at selectable speeds.
 21. FWD: Avance.
-22. PREVIOUS: Retrocede un capítulo/pista/archivo o comienza a reproducir
-desde el principio del actual.
-23. NEXT: Avanza un capítulo/pista/archivo
-24. TV/RADIO: Cambia entre canales de TV y de radio.
-25. RECALL: Vuelve al canal seleccionado anteriormente.
-26. EXIT: Vuelve a la pantalla o menú anterior.
-27. SOURCE: Cambia entre modo reproductor de disco / USB / sintonizador.
-28. INFO: Muestra la información acerca del canal que se está viendo o
-información adicional del canal.
-29. CH+/-: cambiar los canales.
-30. SUBTITLE: Cambia entre los subtítulos disponibles.
+22. PREVIOUS: Go to previous chapter/track/file or to the beginning of the currently playing one.
+23. NEXT: Go to the next chapter/track/file.
+24. TV/RADIO: Switch between TV channels and Radio stations.
+25. RECALL: Return to the previous channel.
+26. EXIT: Return to the previous screen or menu.
+27. SOURCE: Changes between DVD, USB and DVB-T mode.
+28. INFO: Display information about the channel being viewed or further information about the program when in normal play mode
+29. CH+/-: Move around the menu screens or change the channels in normal play mode.
+30. SUBTITLE: Switch among different available subtitles.
 
-Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del
-canal.
+NOTE: SUBTITLES/TEXT/AUDIO may not be available for all channels.
 
-### 3.2. INSTALACIÓN DE LAS PILAS
+### 3.2. INSTALLING THE BATTERIES
 
-Retira la tapa de las pilas en el mando a distancia y coloca pilas de tipo AAA.
-El siguiente diagrama indica la forma correcta de insertar las pilas.
+Remove the battery cover from the remote control and put 2xAAA size batteries inside the compartment.
+The diagram inside the battery compartment shows the correct way to install the batteries.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/535677c71d9e9.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53ce13353d7b1.jpg)
 
-### 3.3. UTILIZANDO EL MANDO A DISTANCIA
+Precautions when using batteries
+* Only use the batteries recommended by the manufacturer.
+* Ensure the correct polarity when installing the batteries (see compartment). Reversed polarity may damage the remote control.
+* Exhausted batteries must be removed to prevent possible battery leakage.
+* Dispose of batteries properly according to environmental regulations.
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del receptor.
-El mando a distancia tiene un alcance de 5 metros desde el receptor en un ángulo de hasta 60
-grados.
-30º 30º
+### 3.3. USING THE REMOTE CONTROL
+To use the remote control point it towards the front of the digital set top box.
+The remote control has a range of up to 5 metres from the set top box at an angle of up to 60 degrees.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53567865ad46a.jpg)
 
-El mando a distancia no funcionará si el camino hacia el receptor está bloqueado.
-La luz del sol u otra luz muy intensa pueden reducir la sensibilidad del mando a distancia.
+The remote control will not operate if its path is blocked.
+Sunlight or very bright light will decrease the sensitivity of the remote control.

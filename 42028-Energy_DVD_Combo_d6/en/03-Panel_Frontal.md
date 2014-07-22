@@ -1,5 +1,5 @@
-## 2 PRODUCT
-### 2.1 FRONT PANEL
+## <quick_guide> 2 PRODUCT
+### 2.1. FRONT PANEL
 
  ![Imagen1](http://static.energysistem.com/images/manuals/42028/5356583d2f6ed.jpg)
 
@@ -25,3 +25,5 @@
 6. SCART OUT: This socket connects to your TV.
 7. SCART IN: This socket connects to either a VCR or other video system.
 8. MAINS CABLE: This is used to connect to your main power supply.
+9.
+</quick_guide>

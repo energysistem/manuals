@@ -1,2 +1,2 @@
-## 14. Marcas Comerciales
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+## 14. TRADEMARKS
+All company, brand and product names are trademarks or registered trademarks of their respective companies.

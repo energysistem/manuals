@@ -1,97 +1,94 @@
-## 7. REPRODUCCIÓN DE DVD/CD/VCD
+## 7. PLAYING DVD / CD / VCD DISCS
 
-> Nota: Este dispositivo no es compatible con el formato DIVX3.
+* Open/Close
+	Press to open the disc tray. Press this button again to close the disc tray. The unit will start playback automatically.
 
-* Abrir/Cerrar
+> Note: Load the disc on the tray with printed side facing up.
 
-	Pulse este botón para abrir la bandeja del disco. Vuelva a pulsar este botón para cerrar la bandeja del disco. La reproducción del disco se iniciará de forma automática.
+* Play/Pause
 
-	> Nota: Introduzca el disco con la cara impresa hacia arriba.
+    Press to start playback. Press this button again to pause playback.
+* Slow
 
-* Reproducción/Pausa
+	Press the SLOW button to start forward slow motion play. Each time the Slow button is pressed, the playback speed will change as follows: 1/2, 1/4, 1/8, 1/16, 1/32. Press the Play/Pause button to return to normal playback.
 
-	Pulsa para iniciar la reproducción. Vuelve a pulsar este botón para interrumpir momentáneamente la reproducción.
+> Note: Slow motion is not available when playing a CD.
 
-* Slow (Cámara lenta)
+* Fast forward/backward
 
-	Pulsa el botón SLOW para activar la reproducción a cámara lenta hacia adelante. Cada vez que pulse uno de estos botones, la velocidad disminuirá en el siguiente orden: 1/2, 1/4, 1/8, 1/16, 1/32. Para restablecer la velocidad normal de reproducción, pulse el botón Play/Pause.
+    Press the FF/FB buttons to perform a fast forward or backward search. Press the Play/Pause button to return to normal playback. Each time these buttons are pressed, the playback speed will change as follows: x2, x4, x8, x16, x32.
 
-	> Nota: La función de reproducción a cámara lenta no estará disponible durante la reproducción de un CD.
+* Skip Forward/Backward
 
-* Avance / retroceso rápido
-
-	Pulsa el botón FF/FB para efectuar una búsqueda rápida hacia atrás o hacia delante respectiva¬mente. Para restablecer la velocidad normal de reproducción pulsa el botón Play/Pause. Cada vez que pulse este botón la velocidad de reproducción se modificará en el siguiente orden: x2, x4, x8, x16, x32.
-
-* Anterior/Siguente
-
-	Durante la reproducción pulsa para retroceder al comienzo del capítulo o pista anterior/siguente.Durante la reproducción de un CD de audio utilice los botones numéricos para introducir directa¬mente el número de la pista que desea escuchar.
-
+    When a disc is playing, you can skip backward/forward to the next track or chapter.
+	For audio CD discs, use the number buttons 0-9 to directly enter the number of the track you want to listen to.
 * Stop
 
-  * Pulsa una vez el botón Stop para detener la reproducción.
-  * A continuación pulsa el botón Play/Pause para reanudar la reproducción a partir del punto en el que se interrumpió.
-  * Pulsa dos veces el botón Stop para detener definitivamente la reproducción.
-    No podrá reanudar la reproducción a partir del punto en el que la detuvo.
-  * Pulsa Play/Pause para iniciar la reproducción al comienzo del disco.
+	Press Stop once to interrupt playback. Press Play/Pause to resume playback from the point where the disc was stopped.
+	Press Stop twice to stop playback completely. It is now impossible to resume playback from the place where playback was stopped. Press Play/Pause to start playback from the beginning of the disc.
+* Menu
 
-* Menú
-
-	Pulsa para visualizar el menú del DVD. Este botón no está operativo durante la reproducción de un CD de audio.
-
-* Título
-
-	Pulsa para visualizar el menú de títulos de un DVD (la disponibilidad de esta función depende del disco).
-
+	Press to display the disc menu. This button has no function when playing an audio CD.
+* Title
+	Press to display the DVD title menu (the availability of this function depends on the disc).
 * Zoom
 
-	Aumenta el tamaño de la imagen durante la reproducción.Durante la reproducción de un disco cada vez que se pulsa este botón se modifica el tamaño de la imagen en el siguiente orden: x1 -> x2 -> x4.
-
-	Utilice los botones direccionales para desplazarse por la imagen ampliada. Para restablecer el tamaño normal de la imagen pulse el botón Zoom hasta que el mensaje Zoom x1 aparezca en pantalla.
-
+	The picture size can be magnified during playback.
+	When a disc is playing, press the Zoom button. Each time the Zoom button is pressed, the image size will change as follows: x1 -> x2 -> x4
+	While an image is magnified, use the arrow keys to pan the image for viewing.
+	To return to the normal view, press the Zoom button until the message x1 appears.
 * Angle
 
-	Visualiza una escena desde diferentes ángulos (la disponibilidad de esta función depende del DVD).
-
+	Change the viewing angle on a DVD. This button enables you to view a scene from different angles (the availability of this function depends on the DVD). Press Angle repeatedly to select different viewing angles.
 * Audio
 
-	Selecciona uno de los idiomas de audio disponibles en el disco.Con una pulsación visualiza el idioma actual y pulsando repetidamente cambia entre los idiomas disponibles. Nota: Al reproducir VCD las opciones disponibles son: L/L (Left), R/R (Right), L/R (Mix).Si el formato de audio es DTS no habrá ninguna salida de audio.
+	Select from the audio languages available on the disc. When a disc is playing, press Audio to show the current audio language. Press repeatedly to select the desired audio language.
 
-* Subtítulo
+> Note: You can select the audio output when playing a VCD disc: L/L (Left), R/R (Right), L/R (Mix).
+There will be no sound output when DTS audio format is selected.
 
-	Selecciona uno de los subtítulos disponibles en el disco. Durante la reproducción puedes cambiar el idioma de los subtítulos o deshabilitarlos.Con una pulsación visualiza el idioma actual y pulsando repetidamente cambia entre los subtítulos disponibles.
+* Subtitle
 
-* Info
+	To select one of the subtitle languages available on the disc)
+	During playback, you can change the subtitle language or disable the subtitle function.
+	While a disc is playing, press Subtitle to show the current subtitle language.
+	Press repeatedly to select the desired subtitle language.
+* Display
 
-	Durante la reproducción de un disco pulsa el botón Info para ver información sobre la reproduc¬ción en curso.
-
+	While a disc is playing, press to show playback information available, depending on the disc.
 * GoTo
 
-	Seleciona un título/capítulo de un DVD o un momento concreto en un CD/DVD. Pulsa Izquierda/Derecha para seleccionar el título / capítulo (DVD) o tiempo (CD/VCD) e introducir el valor mediante los botones numéricos.Pulsa OK para confirmar. Se iniciará la reproducción del fragmento que haya seleccionado.
+	Select a specific title/chapter on a DVD or time on a CD/VCD.
+	Press Left/Right to highlight the title / chapter (DVD) or time (CD/VCD) field or enter the relevant number using the numeric keypad.
+	Press OK to confirm. The unit will then start playback from the selected position.
 
-	> Nota: Algunos discos pueden no permitir el uso de esta función. Para VCDs, esta función sólo está disponible si PBC está desactivado.
+> Note: Some discs may not allow use of this function. For VCDs, this function is only available if PBC is off.
 
-* Reproducción Programada
+* Program
 
-	El d5 AV permite seleccionar el orden de reproducción de títulos, capítulos o pistas.Nota: Durante la reproducción de un VCD o de un SVCD la reproducción programada sólo está disponible si la función PBC está desactivada.Usa los botones Arriba/Abajo para seleccionar un título a la derecha del menú de programación y pulse el botón Ok para confirmar. Usa los botones Arriba/Abajo para seleccionar un capítulo y presiona Ok para confirmar. El número del programa seleccionado aparecerá en la parte izquierda del menú.Repite los pasos anteriores para el resto de títulos/capítulos (o pistas en un CD).Pulsa Play/Pause u OK para comenzar la reproducción programada.Para borrar un item seleccionalo y pulsa el botón Stop.
+    * The contents of the disc can be played in a selected order.
+> Note: During VCD/SVCD playback, this function is only available when PBC is OFF.
 
-* Repetición
+        * Use the Up/Down buttons to select the title number to the right of the program menu and press the OK button. Use the Up/Down buttons to select a chapter number and then press OK to confirm your selection. The selected program number “xx--xx” will be displayed to the left of the program menu.
+        * Repeat the above step for the next titles/chapters (or tracks in CDs).
+        * Press Play/Pause or OK to start the programmed playback.
+        * Refer to the previous section to program the tracks of your choice.
 
-	El d5 AV permite la repetición de la reproducción de un título, un capítulo o una pista.
+	        Select the item and then press Stop to delete it.
 
-	> Nota: Durante la reproducción de un VCD/SVCD la repetición sólo estará disponible si la función PCB está desactivada.
+* Repeat playback
+	A specific title, chapter or track can be played repeatedly.
+> Note: During VCD / SVCD playback, repeat playback is only available when PBC is OFF.
 
-* Botón REPEAT:
 
-    * DVDs: Desactivado > Capítulo > Título
-    * CD /VCD/SVCD: Desactivado > Pista > Todo
-    * Archivos MP3 / JPEG / WMA: Desactivado > Fichero > Carpeta > Todo
+* REPEAT button:
+	* DVDs: Off > Chapter > Title
+	* CD /VCD/SVCD: Off > Track > All
+	* MP3 / JPEG / WMA files: Off > Track > Folder > All
+* A-B button:
+	* Press the A-B button to set the start of the section (point A).
+	* Press the A-B button again to set the end of the section (point B).
+	The unit will then immediately begin replaying the selection (A to B) repeatedly.
+	Press the A-B button again to clear the programmed repeat playback and return to normal playback.
 
-* Botón A-B:
-
-    * Pulsa el botón A-B para establecer el inicio del segmento (punto A).
-    * Pulsa el botón A-B de nuevo para establecer el final del segmento (punto B).
-
-	El segmento seleccionado se repetirá hasta que pulses de nuevo el botón A-B.
-
-	> Nota: Esta función sólo puede ser usada dentro del mismo título o pista. Si los puntos A y B están en títulos o pistas diferentes la función se cancelará.
-
+> Note: The A-B repeat function can only be used within the same title or track. If points A and B are defined in different titles or tracks, A-B repeat is cancelled.

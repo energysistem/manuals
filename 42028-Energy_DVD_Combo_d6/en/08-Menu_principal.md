@@ -1,174 +1,168 @@
-## 6. MENÚ PRINCIPAL
+## 6. MAIN MENU
 
-El menú principal te permite acceder a la Configuración DVD, Menú DVB, Configuración de Sistema y Juegos. Pulsa el botón SETUP para acceder al menú principal.
+The main menu allows you to access DVD Setup, DVB Menu, System Setting and Game. Press the SETUP button to access the main menu.
 
 ### 6.1. CONFIGURACIÓN DVD
 
 #### 6.1.1. CONFIGURACIÓN DEL IDIOMA
 
-* Menu: Selecciona el idioma del menú de disco.
-* Audio: Selecciona el idioma del audio.
-* Subtítulos: Selecciona el idioma de los subtítulos.
-* Subtítulos externos: Selecciona la codificación de los subtítulos MPEG4.
+* Menu: To select the disc menu language.
+* Audio: To select the audio language.
+* Subtitle: To select the subtitle language.
+* External Subtitle: To select an alphabet for the MPEG4 subtitle language.
 
 #### 6.1.2. CONFIGURACIÓN DEL AUDIO
 
-* Salida Digital
-  * Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
-  * SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
-  * SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
+* Digital Output
+  * OFF – Select this option when no digital output is used.
+  * SPDIF/RAW - Dolby Digital signals are unaltered. Generally, this setting is used with a digital 5.1 channel amp.
+  * SPDIF/PCM – Dolby Digital and MPEG 2 multi-channel signals are converted to PCM (Pulse Code Modulation). This setting is suitable for amplifiers or receivers without digital multi-channel sound decoders.
 * Downmix
-  * Lt/Rt: Selecciona esta opción cuando el d5 AV esté conectado a un dispositivo compatible con Dolby Pro Logic.
-  * Lo/Ro: Selecciona esta opción cuando el d5 AV está conectado a un dispositivo estéreo convencional.
+    * Lt/Rt: Select this option when connected to a Dolby Pro Logic compatible sound device.
+    * Lo/Ro: Select when connected to a standard stereophonic sound playback device such as hi-fi or headphones.
 
-#### 6.1.3. CONFIGURACIÓN PERSONAL
+#### 6.1.3. CUSTOM SETUP
 
-* Control parental
- * Selecciona el nivel que desees y pulsa OK para confirmar. A continuación, introduzca la contraseña por defecto “6666”. Si has olvidado la contraseña introduce la contraseña por defecto: “6666”.
-* Marca de ángulo
- * Act.: Activa la función.
- * Desac.: Desactiva la función.
+* Parental Control
+	* Select a level and press OK to confirm. Then enter the default password “6666” and press OK to confirm. If you forget the password, you can always use the default password “6666”.
+* Angle Mark
+	* On: Enable the angle mark function. Off: Disable the function.
 
-### 6.2. MENÚ DVB-T
+### 6.2. DVB-T MENU
 
-En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona“DVB menu”.
+In DVB-T mode, press the SETUP button to enter the main menu and select “DVB menu”.
 
 #### 6.2.1. LISTA DE PROGRAMAS
 
-* Cadenas de TV
-La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
+* TV Program
+The table has three options: Favor, Move and Del.
 
- * Favoritos
+ * Favourites
 
-    Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
+    You can use this option to select your favorite channels. Go to the “Favor” box corresponding to the channel which you want to add to your favorites and press OK. Once a channel is chosen, a symbol (heart) will appear in the corresponding “Favor” box. To remove a channel from the favorites list, select the channel and press OK. You can then use the FAVORITE button to access your favorite channels.
 
- * Lista
+ * Move
 
-    Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
+    This option allows you to change the order of channels on the list. Go to the “Move” box corresponding to the channel that you want to move. Press OK, then use the up/down buttons to move the channel. Then press OK to confirm.
 
- * Borrar
+ * Del
 
-    Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
+    You can use this option to delete channels. Go to the “Del” box corresponding to the channel that you want to delete, then press the OK button. An ‘X’ will appear. This channel will not appear the next time the list is displayed.
 
 * Emisoras de Radio
 
-  La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
+  The list of radio stations is displayed in the same way as the list of TV Channels. Please refer to the previous section to edit the radio station list.
+
 * Ordenar
 
-  Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
+  You can sort channels on the list by Name (channel name), Service ID, Channel No. (number) or LCN (Logic channel number).
 
-#### 6.2.2. BÚSQUEDA DE CADENAS
-* Búsqueda Automática
+#### 6.2.2. Channel Search
+* Automatic Search
 
-  Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
+  This option enables the user to search for channels automatically according to the Country and Time Zone settings. Before starting a search, the system will ask whether existing channels in the program list should be deleted.
 
-  Seleccione “Sí” para sustituir las cadenas antiguas por las nuevas.
+Choose “Yes” to replace the old channels with the new channels.
 
-  Seleccione “No” para añadir las cadenas nuevas a la lista.
+Choose “No” to add the new channels to the list. When the automatic search is over, DVB mode will close and the unit will return to the channel display mode. If you press the RETURN/EXIT button to suspend the search, the new channels will be added to the list and the unit will show the last channel found.
 
-  Cuando la búsqueda automática finaliza el menú DVB se desactiva y el aparato pasa al modo de visualización de las cadenas. Pulse el botón RETURN/EXIT para anular la búsqueda, las nuevas cadenas se añadirán a la lista y la última cadena sintonizada se visualizará en la pantalla.
+* Manual Search
 
-* Búsqueda Manual
+  Use manual search to find a particular channel. You must provide the system with the channel number and confirm with the OK button. The channels found during the manual search will be added to the list but the unit will not exit the menu automatically.
 
-  Con la búsqueda manual puede sintonizar una cadena en particular. Introduzca luego el número de la cadena que desea y confírmela mediante el botón OK. Las cadenas sintonizadas manualmente se añadirán a la lista, pero el aparato no saldrá automáticamente del menú donde se encuentra.
+#### 6.2.3. Parental control
 
-#### 6.2.3. CONTROL PATERNO
+* Channel Lock
 
-* Bloqueo de las cadenas
+  Select Channel Lock to block certain channels. To activate the channel lock (“Yes”), no code is needed. But to disable the channel lock (“No”), the user must enter the code.
 
-  Seleccione la opción “Bloq. Canal” para bloquear la selección de una cadena. Para activar el bloqueo no necesita introducir ningún código. En cambio, para desactivarlo, sí necesitará introducir código.
+* Parental Setting
 
-* Configuración paterna
+  The Parental Setting can be used together with the Channel lock to lock channels. In order to enter the Parental Setting page, you must enter the PIN code. This menu enables you to select the channels to be locked. To view the locked channels, the user must enter the correct PIN code.
 
-  Las opciones de Configuración paterna y Bloqueo de canal sirven para bloquear el acceso a alguna cadena. Antes de acceder a la página de Configuración paterna necesitará introducir el código PIN. Con este menú podrá seleccionar aquellas cadenas que desea bloquear. Una vez haya bloqueado su acceso, el sistema le pedirá el código PIN para visualizar las cadenas bloqueadas.
+> Note: the default PIN code is 6666. To change it, return to Main Menu and select “System Setting”, then enter the System Setting Menu-Preference page and select the “Change PIN” option.
 
-> Nota: El código PIN por defecto es “6666”. Para modificarlo vuelva al menú principal u seleccione Configurar Sistema. Una vez haya seleccionado el menú de configuración del sistema, diríjase a la página “Preferencias” y seleccione “Cambiar PIN”.
+#### 6.2.4. System Setting
 
-#### 6.2.4. CONFIGURACIÓN DEL SISTEMA
+* Antenna Power
 
-* Antena (Alimentación Antena)
+  Select this option to set the country for receiving DVB signals.
 
-  Esta función está desactivada por defecto. Actívela si utiliza una antena portátil amplificada (activa) que necesita ser alimentada. El d5 AV es capaz de suministrar una corriente continua de 5V a 50 mA máximo.
-
-* País
+* Country
 
   Seleccione esta opción para elegir el país de recepción de las señales DVB.
 
-* Idioma
+* Language
 
-  El submenú Idioma tiene 2 opciones:
- * “Audio 1” o “Audio 2”: El usuario puede elegir el idioma de audio entre “Audio 1” o “Audio 2”. Estos distintos tipos de audio son, normalmente, el idioma del país en el que se encuentra y el idioma en versión original.
- * Subtítulos: Seleccione esta opción para configurar el idioma de los subtítulos.
+  The Language submenu has 3 options:
+ * “Audio 1” and “Audio 2”: The user can choose the audio language from “Audio 1”or “Audio 2”.
+ * Subtitle: Select this option to choose the subtitle language.
 
-  La función Idioma sólo está operativa si la cadena tiene varios idiomas disponibles. En caso contrario, el idioma de la cadena se selecciona automáticamente.
+  The Language option only works when the channel offers several languages. Otherwise, the preset language of that channel will be chosen automatically.
 
-* Huso GMT
+* GMT Usage
 
-  Seleccione esta opción para activar o desactivar el huso GMT. La opción “Zona horaria” no está disponible si esta función está activada. Si la función está activada entonces seleccione la zona horaria donde se encuentre.
+  Select this option to turn GMT usage on/off. When it is “Off”, the Time Zone option will not be available and you must set the time yourself. When it is “On”, you can select the Time Zone for your location.
 
-* Zona horaria
+* Time Zone
 
-  Seleccione esta función para elegir la zona horaria en la que se encuentre.
+  Select this option to set your time zone.
 
 * Programación
 
   Seleccione esta función para programar la visualización de cadenas. Puedes almacenar hasta 10 programaciones.
 
-### 6.3. CONFIGURACIÓN DE SISTEMA
+### 6.3. SYSTEM SETUP
 
-#### 6.3.1. CONFIGURACIÓN DEL IDIOMA
+#### 6.3.1. LANGUAGE SETUP
 
-* OSD: Selección del idioma de visualización en pantalla.
+* OSD: To select the on-screen display language.
 
 #### 6.3.2. CONFIGURACION DE LA PANTALLA
 
-* Sistema TV
+* TV Standard
 
-  Selecciona uno de los siguientes sistemas: NTSC, PAL o AUTO (Multi) para que coincida con el usado por tu TV.
+  You can select one of the following systems: NTSC, PAL and AUTO (Multi). Select the system that matches your TV.
 
-* Formato TV
- * 4:3PS – Selecciona este formato para visualizar las imágenes 4:3 sin deformación alguna. Unas franjas negras aparecerán en los laterales derecho e izquierdo de la pantalla.
- * 4:3LB – Selecciona este formato cuando la unidad está conectada a un televisor de 4:3. Las imágenes panorámicas se visualizarán con unas franjas negras en las partes superior e inferior de la pantalla.
- * 16:9 – Selecciona este formato para visualizar las imágenes panorámicas en un televisor panorámico.
+* Display type.
+ * 4:3PS – Select this format to display 4:3 images without distorting the picture. In this case, black bands will appear on left and right of the screen.
+ * 4:3LB – Select this format when the unit is connected to a 4:3 TV. Wide-screen images will be shown in full with black bands at the top and bottom of the screen.
+ * 16:9 – Select this format to play wide-screen videos in full-screen mode.
 
-* Salida video
+* Video Output
 
-  Selecciona la salida de video: CVBS (Video compuesto) o RGB (Euroconector o video por componentes).
+  Select the video output: CVBS (Composite VIDEO) or RGB (SCART or Component VIDEO).
 
-* Brillo
+* Brightness
 
-Selecciona uno de los siguientes ajustes para la salida de video: “Normal”, “Brillante” o “Suave”.
+Select one of the following video output picture modes: “Normal”, “Bright” or “Soft”.
 
 * Contraste
 
-  Ajusta el contraste de la pantalla.
+  Select the contrast of the display.
 
-#### 6.3.3. PREFERENCIAS
+#### 6.3.3. Preferences
 
-* Estilo UI (interfaz)
+* UI Style
 
-  Dispone de 4 estilos diferentes para elegir.
+	Four setup menu styles can be selected.
 
-* Cambiar PIN
+* Change PIN
 
-  Cambia la contraseña de control paterno (por defecto “6666”).
+	Change the parental control password. The default is “6666”.
 
-* Tipo predeterminado
+* Default Type
 
-  DVD o DVB o USB o Selección usuario/Último usado(Selección de la fuente predeterminada cuando el aparato está encendido)
+	DVD/DVB/USB/User Select/Last Operating Type: Select the default source when the unit is switched on.
 
-* Predeterminado
+* Default
 
-  Restaura los valores de fábrica.
+	Restore the factory default settings.
 
-* Info Sistema
+* System Info
 
-  La información sobre el sistema incluye el modelo, hardware, software y fecha.
+	The system information includes the Model, HW (hardware), SW (software) and Date.
 
 ### 6.4. JUEGOS
 
-* Tres juegos
- * Mine
- * Tetris
- * Rush Hour
-* Calendario.
+Three games (Mine, Tetris and Rush Hour) and Calendar.
