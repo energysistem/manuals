@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [Portada](00-portada.md)
 * [Introducción](01-Introduccion.md)
@@ -16,5 +16,5 @@
 * [Garantía](14-Garantía.md)
 * [Funcionamiento de la garantía](15-Funcionamiento_de_la_garantía.md)
 * [Marcas Comerciales](16-Marcas_Comerciales.md)
-* [Declaración de Conformidad](17-Declaracion_de_conformidad.md)
+* [Declaración de Conformidad](17-declaracion_de_conformidad.md)
 

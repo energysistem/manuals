@@ -25,5 +25,4 @@
 6. SCART OUT: This socket connects to your TV.
 7. SCART IN: This socket connects to either a VCR or other video system.
 8. MAINS CABLE: This is used to connect to your main power supply.
-9.
 </quick_guide>
