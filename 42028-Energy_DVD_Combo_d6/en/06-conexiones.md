@@ -6,7 +6,7 @@ When connecting the receiver to other equipment (e.g. TV, VCR and amplifier) mak
 
 ### 4.1 ANTENNA CONNECTION
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf81ea5e251.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf8b8e866e8.jpg)
 
 ### 4.2 SCART CONNECTION
 
