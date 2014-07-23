@@ -9,12 +9,12 @@ la connexion.
 
 ### 4.1 CONNEXION D'ANTENNE
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf8b8e866e8.jpg)
 
 ### 4.2 CONNEXION SCART
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567c2c29c99.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf86252d89a.jpg)
 
 ### 4.3 CONNEXION À L'AMPLIFICATEUR A/V AVEC ENTRÉE AUDIO NUMÉRIQUE
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567ca54d546.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf845dd5a80.jpg)
