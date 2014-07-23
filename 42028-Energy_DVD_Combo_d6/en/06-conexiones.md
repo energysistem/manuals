@@ -15,5 +15,3 @@ When connecting the receiver to other equipment (e.g. TV, VCR and amplifier) mak
 ### 4.3 CONNECTING TO AN A/V RECEIVER WITH DIGITAL INPUT
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf845dd5a80.jpg)
-
-TV
