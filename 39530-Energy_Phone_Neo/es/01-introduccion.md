@@ -1,5 +1,7 @@
 ## <quick_guide> Introducción
 
+Esto ya es un texto cambiado por mi para probar que funciona toda la sincronización.
+
 * Energy Sistem#trade# te agradece la compra de tu nuevo Energy Phone Neo. Deseamos que lo disfrutes.
 * Este dispositivo pertenece a la familia Energy Smartphone: una nueva generación de dispositivos de comunicación
 basada en el sistema operativo Android#trade#, con el que podrás acceder a Internet y comunicarte en cualquier
