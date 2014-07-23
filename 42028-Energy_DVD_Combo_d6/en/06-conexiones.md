@@ -6,12 +6,12 @@ When connecting the receiver to other equipment (e.g. TV, VCR and amplifier) mak
 
 ### 4.1 ANTENNA CONNECTION
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf81ea5e251.jpg)
 
 ### 4.2 SCART CONNECTION
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567c2c29c99.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf86252d89a.jpg)
 
 ### 4.3 CONNECTING TO AN A/V RECEIVER WITH DIGITAL INPUT
 
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567ca54d546.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf845dd5a80.jpg)
