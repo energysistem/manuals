@@ -6,4 +6,4 @@ Para avanzar una canción pulsa el botón de avance (2) una única vez, si lo qu
 
 Podrás subir y bajar el volumen de reproducción utilizando para ello los botones 2 y 4 respectivamente. Oirás un bip con cada cambio de volumen realizado y un bip más agudo cuando alcances el volumen máximo.
 
-Para pausar o reanudar la reproducción pulsa una única vez el botón de reproducción /pausa (1).
+Para pausar o reanudar la reproducción pulsa una única vez el botón multifunción (1).
