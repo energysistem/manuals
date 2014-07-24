@@ -4,7 +4,7 @@
 
 Utiliza el botón ON/OFF (9) para encender o apagar el dispositivo.
 
-Para encender el dispositivo, desliza el interruptor (9) a la izquierda. El LED (2) se iluminará, indicando que el dispositivo está encendido.
+Para encender el dispositivo, desliza el interruptor (9) a la izquierda. El LED (6) se iluminará, indicando que el dispositivo está encendido.
 
 Para apagar el dispositivo, desliza el interruptor (9) a la derecha.
 
