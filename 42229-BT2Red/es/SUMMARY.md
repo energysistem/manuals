@@ -1,5 +1,5 @@
 # Summary
-
+* [Portada](00-portada.md)
 * [Introducción](01-introduccion.md)
 * [Cuidado y Mantenimiento](02-mantenimiento.md)
 * [Características](03-caracteristicas.md)
@@ -9,6 +9,7 @@
 * [Sincronización Bluetooth](07-sincronizacion.md)
 * [Control de Reproducción](Control_reproduccion.md)
 * [Control de llamadas](08-llamadas.md)
+* [Control de  Reproducción] (09-control_reproduccion.md)
 * [Condiciones de la Garantía](10-Condiciones_Garantia.md)
 * [Funcionamiento de la Garantía](11-funcionamiento_garantia.md)
 * [Declaración de Conformación](12-declaracion_conformidad.md)
