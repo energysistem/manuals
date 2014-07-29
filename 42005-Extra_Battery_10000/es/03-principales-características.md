@@ -4,7 +4,7 @@
 * Circuito inteligente que permite recargar la Extra Battery y recargar tu dispositivo simultáneamente.
 * Sistema inteligente que te permite cargar dos dispositivos a la vez.
 * Ideal para cargar smartphones y tablets (via Micro USB), compatible con las principales marcas del mercado y sistemas operativos*.
-* Sistema inteligente de protección ante sobrecarga, pico de tensión y corto circuito.
+* Sistema inteligente de protección ante sobrecarga, pico de tensión y cortocircuito.
 * Indicador LED de carga.
 * Agita tu Extra Battery para comprobar el estado de la carga.
 * Permite retener el 95% de carga hasta 30 dí­as.
