@@ -1,5 +1,5 @@
 ##<quick_guide> General presentation
-1 - USB cable type A_ Micro USB
+1 - USB cable type A - Micro USB
 
 2 - LED battery level indicator
 
