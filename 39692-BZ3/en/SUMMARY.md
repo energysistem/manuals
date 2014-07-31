@@ -12,7 +12,7 @@
 * [Talk Control](09-talk_control.md)
 * [Line-in](10-line_in.md)
 * [Radio FM](11-radio_fm.md)
-* [Funcion memorias externas](12-external_memories.md)
+* [External memories](12-external_memories.md)
 * [Warranty](13-warranty.md)
 * [Warranty Procedure](14-warranty_procedure.md)
 * [Declaration of Conformity](15-Declaration_of_conformity.md)

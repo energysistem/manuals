@@ -7,3 +7,5 @@ Se desliga o *Energy Music Box Z3* ou extraiu alguma das memórias, o momento de
 Para passar de canção, pressione os botões de AVANÇO (7) e RECUO (6). Também pode avançar à pasta seguinte, se aperta o botão de NAVEGAÇÃO POR PASTAS (5).
 
 Para avançar ou recuar rápido na mesma canção, mantenha apertados os botões de AVANÇO (7) ou RECUO (6). Quando solte o botão, será retomada a leitura.
+
+Você pode alterar o modo de reprodução através de memórias USB e SD/MMC, pressionando o botão MODE (3) por 2 segundos. Dessa forma, você pode escolher entre modo de reprodução normal, aleatória ou repetição da pista.

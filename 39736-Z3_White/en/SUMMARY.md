@@ -7,7 +7,6 @@
 * [Content](04-content.md)
 * [General Overview](05-general_overview.md)
 * [Main Functions](06-main_functions.md)
-* [Play Control](08-play_control.md)
 * [Line-in](10-line_in.md)
 * [Radio FM](11-radio_fm.md)
 * [Funtion external memories](12-external_memories.md)

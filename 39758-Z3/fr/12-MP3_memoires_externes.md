@@ -7,3 +7,5 @@ Si vous éteignez *Energy Music Box Z3* ou vous retirez des mémoires, le moment
 Pour passer la chanson, appuyez sur les boutons d'AVANCE (7) et RECUL (6). Vous pouvez aussi avancer ver le dossier suivant, appuyant sur le bouton NAVIGATION PAR DOSSIERS (5).
 
 Pour avancer ou reculer rapidement dans une même chanson, appuyez les boutons d'AVANCE (7) ou RECUL (6). Si vous relâchez le bouton, la lecture sera reprise.
+
+Vous pouvez changer le mode de lecture via mémoires USB et cartes SD/MMC en appuyant sur le bouton MODE (3) pendant 2 secondes. De cette façon, vous pouvez choisir entre la lecture normale, aléatoire ou répétition de piste.
