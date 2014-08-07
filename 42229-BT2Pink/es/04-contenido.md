@@ -1,8 +1,6 @@
-<quick_guide>
+## <quick_guide> Contenido del Producto
 
-## Contenido del Producto
-
-* Energy Headphones BT2 Red Bluetooth
+* Energy Headphones BT2 Pink Bluetooth
 * Cable Usb
 * Guía rápida
 

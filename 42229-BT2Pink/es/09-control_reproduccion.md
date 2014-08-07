@@ -1,6 +1,6 @@
 ## Control de Reproducción
 
-Teniendo tus *Energy Headphones BT2 Red Bluetooth* sincronizados con tu dispositivo bluetooth puedes controlar las funciones básicas de reproducción desde los auriculares.
+Teniendo tus *Energy Headphones BT2 Pink Bluetooth* sincronizados con tu dispositivo bluetooth puedes controlar las funciones básicas de reproducción desde los auriculares.
 
 Para avanzar o retroceder una canción utiliza los botones Avance(2) o Retroceso(3) una única vez. Si lo que deseas es cambiar el volumen de la música, pulsa los botones "Volumen -" (4) y "Volumen +"(5) hasta alcanzar el volumen deseado. Una vez alcanzado el volumen máximo oirás un pitido a través de los auriculares.
 
