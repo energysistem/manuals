@@ -1,5 +1,5 @@
 ## Funciones Principales
-
+<quick_guide>
 ### Encendido y apagado del dispositivo
 
 Para encender y apagar tus *Energy Headphones BT2 Red Bluetooth* utiliza el botón multifunción (1).
@@ -7,6 +7,8 @@ Para encender y apagar tus *Energy Headphones BT2 Red Bluetooth* utiliza el bot�
 Pulsa el botón durante aproximadamente 3 segundos para encender el dispositivo. El led que se encuentra detrás del botón se iluminará y comenzará a parpadear en caso de que previamente se haya emparejado con algún dispositivo, tratará de establecer la conexión con dicho dispositivo, en caso contrario, entrará en modo emparejamiento.
 
 Para apagar los auriculares, pulsa el botón multifunción (1) durante aproximadamente 5 segundos.
+
+</quick_guide>
 
 ### Carga de la batería
 
