@@ -1,4 +1,4 @@
-## <quick_guide>Main Functions
+## <quick_guide> Main Functions
 
 ### Turn on / off your device
 
