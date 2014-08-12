@@ -7,9 +7,9 @@
 - Use distance up to 10m of range.
 - Rechargeable battery with up to 10 hours autonomy.
 - Built-in noise-cancelling microphone.
-- Control talk function for answering calls and controlling music playback from the headphones.
-- Compatibility with most popular operating systems.
-- Folding system for a comfortable transport.
+- Control talk function for answering phone calls and controlling your music directly from the headphones.
+- Compatible with most operating systems.
+- Transport them comfortably with their folding system.
 
 ### Technical Features
 
