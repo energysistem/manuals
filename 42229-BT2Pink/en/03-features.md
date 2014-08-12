@@ -4,7 +4,7 @@
 
 - Bluetooth V4.0 headphones.
 - Easy synchronization without pairing codes.
-- Use distance up to 10m of range.
+- Up to 10m of range.
 - Rechargeable battery with up to 10 hours autonomy.
 - Built-in noise-cancelling microphone.
 - Control talk function for answering phone calls and controlling your music directly from the headphones.
@@ -30,7 +30,7 @@
 - Battery capacity: 200mah.
 - Charging time: About 3 hours.
 - Playback Autonomy: 10 hours. *
-- Working current: 20mA.
+- Operating current: 20mA.
 - Standby current: 0.01-10mA.
 - Power off current: 1uA.
 - Charging current: 90-110mA.
