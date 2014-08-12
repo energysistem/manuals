@@ -5,7 +5,7 @@
 - Auriculares Bluetooth V4.0.
 - Fácil sincronización sin códigos.
 - Distancia de uso hasta 10m.
-- Batería de litio recargable con autonomía hasta 10 horas.
+- Batería de litio recargable con una autonomía de hasta 10 horas.
 - Micrófono integrado con cancelación de ruido.
 - Función control talk para contestar las llamadas y controlar la reproducción de música desde el auricular.
 - Compatibilidad con los principales sistemas operativos.
@@ -36,4 +36,4 @@ Especificaciones de la batería de litio:
 - Corriente de apagado: 1uA.
 - Corriente de carga: 90-110mA.
 
-(*) La duración de la batería es aproximada. Mayor volumen en los auriculares se traduce en un mayor consumo de la batería.
+(*) La duración de la batería es aproximada. Un mayor volumen en los auriculares se traduce en un mayor consumo de la batería.
