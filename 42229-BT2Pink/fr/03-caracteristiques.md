@@ -1,5 +1,5 @@
-##Caractéristiques
-###Caractéristiques principales 
+## Caractéristiques
+### Caractéristiques principales 
 
 - Casque Bluetooth V4.0. 
 - Synchronisation facile sans codes. 
@@ -10,7 +10,7 @@
 - Compatibilité avec tous les principaux systèmes d'exploitation. 
 - Pliable pour un transport confortable. 
 
-###Caractéristiques techniques
+### Caractéristiques techniques
 
 - Version Bluetooth: 4.0. 
 - Portée: 10m. 
@@ -24,7 +24,7 @@
 - Sensibilité du microphone: -38dB ± 3dB. 
 - Fréquence porteuse: 2.402GHz-2.480GHz. 
 
-###Spécifications de batterie au lithium: 
+### Spécifications de batterie au lithium: 
 
 - Type de batterie: Polymère. 
 - Capacité de batterie: 200mAh. 
