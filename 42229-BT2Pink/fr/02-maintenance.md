@@ -4,7 +4,7 @@
 
 * Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
 
-* Ne placez pas vos *Energy Headphones BT2 Pink Bluetooth* à proximité d’appareils qui émettent des champs électromagnétiques puissants. Gardez votre casque propre et sans poussière; utilisez à cette fin un chiffon doux et sec. 
+* Ne placez pas votre *Energy Headphones BT2 Pink Bluetooth* à proximité d’appareils qui émettent des champs électromagnétiques puissants. Gardez votre casque propre et sans poussière; utilisez à cette fin un chiffon doux et sec. 
 
 * Ne démontez pas le casque. Toutes les réparations doivent être effectuées uniquement par un personnel qualifié de Energy Sistem Soyntec S.A.
 
