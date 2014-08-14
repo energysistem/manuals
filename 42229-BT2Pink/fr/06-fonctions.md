@@ -1,6 +1,6 @@
 ## <quick_guide>Fonctions principales 
 
-### Allumer et éteindre l’appareil 
+### Allumer et éteindre l'appareil 
 
 Pour allumer et éteindre votre *Headphones BT2 Pink Bluetooth* utilisez le bouton multifonction (1). 
 
