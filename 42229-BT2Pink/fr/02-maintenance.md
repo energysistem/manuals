@@ -1,13 +1,13 @@
 ## Entretien et maintenance 
 
-• Ne pas exposer votre *Energy Headphones BT2 Pink Bluetooth*, à la poussière, l'humidité ou à des températures extrêmes. 
+* Ne pas exposer votre *Energy Headphones BT2 Pink Bluetooth*, à la poussière, l'humidité ou à des températures extrêmes. 
 
-• Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
+* Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
 
-• Ne placez pas vos *Energy Headphones BT2 Pink Bluetooth* à proximité d’appareils qui émettent des champs électromagnétiques puissants. Gardez votre casque propre et sans poussière; utilisez à cette fin un chiffon doux et sec. 
+* Ne placez pas vos *Energy Headphones BT2 Pink Bluetooth* à proximité d’appareils qui émettent des champs électromagnétiques puissants. Gardez votre casque propre et sans poussière; utilisez à cette fin un chiffon doux et sec. 
 
-• Ne démontez pas le casque. Toutes les réparations doivent être effectuées uniquement par un personnel qualifié de Energy Sistem Soyntec S.A.
+* Ne démontez pas le casque. Toutes les réparations doivent être effectuées uniquement par un personnel qualifié de Energy Sistem Soyntec S.A.
 
-• Assurez-vous de garder votre *Energy Headphones BT2 Pink Bluetooth* éteint lorsque vous ne l'utilisez pas. 
+* Assurez-vous de garder votre *Energy Headphones BT2 Pink Bluetooth* éteint lorsque vous ne l'utilisez pas. 
 
-• Rechargez la batterie quand elle est épuisée pour prolonger la vie de celle-ci. 
+* Rechargez la batterie quand elle est épuisée pour prolonger la vie de celle-ci. 
