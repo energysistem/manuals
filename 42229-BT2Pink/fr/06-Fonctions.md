@@ -2,7 +2,7 @@
 
 ### Allumer et éteindre l’appareil 
 
-Pour allumer et éteindre votre Headphones BT2 Pink Bluetooth utilisez le bouton multifonction (1). 
+Pour allumer et éteindre votre *Headphones BT2 Pink Bluetooth* utilisez le bouton multifonction (1). 
 
 Appuyez sur le bouton pendant environ 3 secondes pour allumer l'appareil. Le voyant qui se trouve 
 derrière le bouton s'allume et clignote s'il a déjà été couplé avec un appareil, et établira 
