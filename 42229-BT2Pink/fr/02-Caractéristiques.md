@@ -36,4 +36,5 @@
 - Courant de charge: 90-110mA. 
 
 <br/>
+
 * La durée de vie de la batterie est approximative. Plus de volume plus grande consommation de la batterie.
