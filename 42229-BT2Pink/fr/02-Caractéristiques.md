@@ -1,8 +1,7 @@
 ##Caractéristiques
-Caractéristiques principales 
+###Caractéristiques principales 
 
 • Casque Bluetooth V4.0. 
-
 • Synchronisation facile sans codes. 
 
 • Portée de 10m. 
@@ -20,7 +19,7 @@ Caractéristiques principales
 
 
 
-##Caractéristiques techniques
+###Caractéristiques techniques
 
 
 • Version Bluetooth: 4.0. 
@@ -49,7 +48,7 @@ Caractéristiques principales
 
 
 
-##Spécifications de batterie au lithium: 
+###Spécifications de batterie au lithium: 
 
 
 - Type de batterie: Polymère. 
@@ -68,4 +67,5 @@ Caractéristiques principales
 
 - Courant de charge: 90-110mA. 
 
+<br/>
 * La durée de vie de la batterie est approximative. Plus de volume plus grande consommation de la batterie.
