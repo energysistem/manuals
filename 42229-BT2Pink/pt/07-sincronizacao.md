@@ -1,6 +1,6 @@
 ## Sincronização Bluetooth 
 
-Com suos Energy Headphones BT2 Pink Bluetoot desligados, mantenha premido o botão multi-função (1) durante 3 segundos quando se liga, os fones entrarão automaticamente no modo de sincronização. 
+Com seus Energy Headphones BT2 Pink Bluetoot desligados, mantenha premido o botão multi-função (1) durante 3 segundos quando se liga, os fones entrarão automaticamente no modo de sincronização. 
 Inicia ao mesmo tempo a procura e sincronização de dispositivos a partir do seu dispositivo bluetooth, e uma vez identificados os *Energy Headphones BT2 Pink Bluetooth* escolha conectar. A conexão entre os dois dispositivos é feita sem entrar códigos.6 
 
 Uma vez sincronizados, o LED que está por trás do botão multi-função (1) começará a piscar mais lentamente. 
