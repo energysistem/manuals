@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	MICRÓFONO <br> 2.	LED DE CARGA<br> 3.	 VOLUMEN - <br> 4. BOTÓN PLAY/PAUSE y CONTROL DE LLAMADA <br> 5.	VOLUMEN +<br> 6. INDICADOR LED <br> 7.	BOTÓN MENÚ <br> 8.	CONEXIÓN LINE-IN<br> 9.	CONEXIÓN USB  <br> 10. BOTÓN ON/OFF|![Esquema](http://static.energysistem.com/images/manuals/42122/53c39b089ee1d.jpg)|
+|1.	MICRÓFONO <br> 2.	LED DE CARGA<br> 3.	 VOLUMEN - <br> 4. VOLUMEN +<br> 5.	INDICADOR LED <br> 6. BOTÓN MENÚ <br> 7.	CONEXIÓN LINE-IN<br> 8.	CONEXIÓN MICROUSB<br> 9.	BOTÓN ON/OFF  <br> 10. BOTÓN PLAY/PAUSE y CONTROL DE LLAMADAS|![Esquema](http://static.energysistem.com/images/manuals/42122/53c39b089ee1d.jpg)|
 </quick_guide>
