@@ -1,10 +1,10 @@
 ## Talk Control
 
-Having the *Energy Headphones BT2 Pink Bluetooth* paired with your smartphone or tablet, you will be able to receive and answer phone calls with its built-in microphone (8).
+With the *Energy Headphones BT2 Pink Bluetooth* paired to your smartphone or tablet, you will be able to receive and answer phone calls with its built-in microphone (8).
 
-To answer a phone call you only need to press the multifunction button (1) once. In case you were listening to a song at the moment you receive the phone call, the music playback will stop automatically and you will hear a ring tone.
+To answer phone calls simply press the multifunction button (1) once. In case you are listening to a song when receiving a phone call, the music will stop automatically and you will hear a ring tone. 
 
-To end the phone call, press the multifunction button (1) once; the playback will resume from the moment you received the phone call.
+Press the multifunction button (1) again to end the phone call; the song you were listening to will resume from where it stopped when you received the phone call.
 
 In case you are not able answer a phone call, you can reject it by pressing the multifunction button (1) for 3 seconds.
 
