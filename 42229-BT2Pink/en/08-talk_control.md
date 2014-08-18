@@ -10,4 +10,4 @@ In case you are not able answer a phone call, you can reject it by pressing the 
 
 ### Recall
 
-Your *Energy Headphones BT2 Pink Bluetooth* let you repeat the last phone call registered in your phone calls list. To do this, press the multifunction button (1) twice and it will make the phone call automatically.
+With your *Energy Headphones BT2 Pink Bluetooth* you will be able to repeat the last phone call registered on your smartphone. To do so, press the multifunction button (1) twice and it will automatically make the phone call.
