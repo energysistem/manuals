@@ -1,9 +1,6 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem#trade# lhe agradece a compra do seu Energy Neo 10 3G. Esperamos que desfrute deste aparelho.
-* Este dispositivo pertence a família  Energy Tablet Neo: uma nova geração de dispositivos baseada no sistema operativo Android#trade#, com o qual poderá aceder à Internet em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir todo tipo de conteúdo multimédia (vídeos em alta definição até 1080p, músicas, fotografias, eBooks, etc.). Ademais, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo proveito do dispositivo.
-O sistema dispõe de uma tela multi-táctil capacitiva de 10.1" (1280x800 píxeis), processador ARM Cortex A7 Quad Core 1,3GHz, Bluetooth 4.0, WiFi,3G, GPS câmaras frontal e traseira, conector HDMI e memória expansível com cartões microSD.
+*Energy Sistem #trade# agradece-lhe por adquirir o seu novo Teclado sem fio Bluetooth Neo 10. Desejamos que tire o maior proveito. Este teclado portátil possui a tecnologia Bluetooth para uma conexão sem fio eficiente para o seu Energy Tablet Neo 10. Tamanho confortável e um design ultra-slim para uma fácil potabilidade. Teclas planas confortáveis e silenciosas incluindo todas as funções multimédia. 
+*Sugerimos que você leia este manual para obter o máximo de seu produto de forma segura e aproveitando seus benefícios. 
 
-* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
-
-## <unique> * Encontre o manual completo da sua Energy Tablet Neo 10 no seguinte link http://www.energysistem.com/guide/39789 </unique> </quick_guide>
+## <unique> * Encontre o manual completo do seu *Energy Bluetooth Keyboard Neo 10* no link a seguir http://www.energysistem.com/guide/42180 </unique> </quick_guide>

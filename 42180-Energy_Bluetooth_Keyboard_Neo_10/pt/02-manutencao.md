@@ -1,7 +1,7 @@
 ## Cuidado e manutenção
 
-* Não exponha sua Energy Tablet à golpes, pó, luz do sol direita, humidade ou altas temperaturas.
-* Não use produtos de limpeza corrosivos ou abrasivos.
-* Mantenha o aparato limpo e sem pó com um pano suave e seco.
-* Recarregue a bateria quando na tela apareça o ícone de bateria baixa. Carregue o dispositivo somente com o carregador original incluído. 
-* Não desmonte o aparelho. Qualquer reparação deve fazê-la exclusivamente o pessoal qualificado de Energy Sistem Soyntec S.A.
+* Não exponha o seu Teclado Bluetooth a golpes, poeira, fogo, luz solar direta, humidade ou temperaturas extremas.
+* Não use agentes de limpeza corrosivos ou abrasivos.
+* Mantenha o Teclado Bluetooth limpo e sem poeira com um pano macio e seco, faça a limpeza com o teclado desligado e sem as baterias instaladas.
+* Não tente desmontar o Teclado Bluetooth. Todas as reparações devem ser realizadas exclusivamente por pessoal qualificado de Energy Sistem Soyntec S.A.
+

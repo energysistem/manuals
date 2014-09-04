@@ -1,4 +1,4 @@
 ## <quick_guide>  Allumer et éteindre
 
-Avant d'allumer votre Energy Tablet, appuyez sur la touche allumage / éteinte (4) pendant quelques secondes. Lorsque le système d'exploitation a été chargé, vous devez débloquer l'appareil pour commencer à l'utiliser. Pour cela, déplacez le cadenat hors le cercle. Pour éteindre l'appareil, appuyez sur la touche d'allumé /éteint (4) jusqu'à l'éteint, à continuation, choisisez l'option "Éteint". Une pulsation brève de la touche d'allumé/ éteint (4) bloquer / débloquer l'appareil, allumer et éteindre l'écran et activer le mode d'économie d'énergie.
+Pour allumer votre Energy Bluetooth Keyboard activez l’interrupteur marche/arrêt  (1). Après avoir appuyé sur le bouton de synchronisation (2) l'indicateur Bluetooth se mettra à clignoter (3). Activez le Bluetooth sur votre Energy Neo 10 et attendez que le dispositif Energy apparaisse dans la liste des appareils à proximité (Energy BT Keyboard). Une fois  que l'appareil est apparu dans la liste, cliquez pour le synchroniser avec le clavier et tapez le code numérique qui apparaît sur votre tablette. 
 </quick_guide>

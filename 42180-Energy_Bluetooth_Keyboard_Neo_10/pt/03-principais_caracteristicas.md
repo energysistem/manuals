@@ -1,21 +1,11 @@
 ## Principais características
 
-* Tela TFT de 10.1" 16:9(1280x800 píxeis).
-* Tela capacitiva multi-táctil.
-* Processador quad core ARM Cortex A7 1.3GHz com Mali-400 incluido.
-* 1GB DDR3 RAM.
-* 16GB eMMC de memória interna expandíveis com cartões microSD-HC/XC (até 64GB).
-* Conexão WI-FI: 802.11 b/g/n
-* Bluetooth 4.0
-* 3G WCDMA(850&1900&2100MHz)
-* GPS
-* Câmara frontal de 2 Mpx.
-* Câmara traseira de 5 Mpx AF.
-* Função USB-Host.
-* Função USB-OTG.
-* 2 x Altifalante integrado 1w.
-* Microfone omnidirecional integrado.
-* Sensor de movimento (acelerómetro).
-* Capacidade da bateria: 3.7v/ 7000mAh.
-* Autonomia: até 4 horas de navigação Wi-Fi.
-* Connexão com adaptador AC 100-240v 50-60Hz DC 5v/2A.
+* Ideal para uso com o seu Energy tablet Neo 10
+* Desfrute de um grande alcance de até 10 m. 
+* 12 teclas de acesso rápido para o leitor multimédia, internet, email, etc.
+* 82 teclas de tesoura planas: pulsação mais confortável, fluida e silenciosa. 
+* Design ultra-slim para levar com você onde você quer (apenas 7 mm e 280 g). 
+* Apoios de borracha anti-derrapante. 
+* Ergonómico e confortável. 
+* Funciona com bateria interna 80 mAh 
+

@@ -2,15 +2,11 @@
 ![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/53c63be1c021d.jpg)
 ![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/53c63bee79c4b.jpg)
 
-1. Câmara traseira
-2. Câmara frontal
-3. Alto-falante
-4. Botão de ligado/desligado
-5. Botão de controle de volume
-6. Tela táctil
-7. Slot para microSD
-8. Saída de fones
-9. Conector microUSB
-10. Slot para SIM
+1. Interruptor para ligar/desligar
+2. Botão Sincronizar 
+3. Indicador de carga 
+4. Indicador BT 
+5. Interruptor de abertura do suporte 
+6. Teclas multimédia 
 
 </quick_guide>
