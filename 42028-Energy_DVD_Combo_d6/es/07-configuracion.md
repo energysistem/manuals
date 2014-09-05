@@ -30,7 +30,11 @@ Cuando se usa el modo TDT por primera vez se mostrará el menú de configuració
 Elige primero "Sí" y pulsa el botón OK.
 
 El sistema comenzará con la instalación inicial.
+<<<<<<< HEAD
 Selecciona la información regional correspondiente (país, idioma OSD y zona horaria). El D6 escaneará automáticamente buscando canales con la configuración regional suministrada.
+=======
+Selecciona la información regional correspondiente (país, idioma OSD y zona horaria). El d5 AV escaneará automáticamente buscando canales con la configuración regional suministrada.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 Selecciona "Sí" para comenzar la búsqueda automática.
 

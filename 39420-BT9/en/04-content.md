@@ -1,5 +1,8 @@
 ## <quick_guide> Content
-- Energy Headphones BT3+ Bluetooth.
-- Micro-USB battery charger cable.
-- Quick Guide.
+
+- Energy Headphones BT9.
+- 3.5 mm audio cable.
+- USB Cable.
+- Quick start guide
+
 </quick_guide>

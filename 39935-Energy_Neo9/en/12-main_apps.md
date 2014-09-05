@@ -4,7 +4,11 @@
 Your new Energy Tablet has a powerful Web browser among the list of applications installed by default, with which you will be able to surf the Internet quickly and easily. Once the device is connected to a Wi-Fi or 3G network, press the browser icon located on the desktop or in the application menu to start the program. The system will load and display the home page set by default.
 
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Back
 2. Forward
@@ -44,7 +48,11 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ### Video Player
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 1. Elapsed time
 2. Aspect ratio
 3. MPrevious video
@@ -54,7 +62,11 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ### Camera
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Switch camera
 2. Capture normal/continues mode

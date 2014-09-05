@@ -9,7 +9,7 @@
 - Reproduce MP3 desde tarjetas microSD/SDHC con capacidad de hasta 64 GB.
 - Lector de tarjetas con función USB-OTG.
 - Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC, PS3 y cualquier otro dispositivo Bluetooth®.
-- Control total de funciones desde el propio auricular.
+- Control total de las funciones desde el propio auricular.
 - Sincronización sin códigos.
 - Conexión a dispositivos de audio mediante cable con jack de 3,5mm (incluido).
 - Recepción de llamadas automática.
@@ -23,7 +23,7 @@
 
 - Bluetooth® bidireccional.
 - Versión 4.0.
-- Función NFC: empareja tus dispositivos Bluetooth® con tan solo tocarlos.
+- Función NFC: empareja tus dispositivos Bluetooth® con solo pulsar un botón.
 - Reproducción de tarjetas micro SD/SDHC con capacidad de hasta 64 GB.
 - Lector de tarjetas con función USB-OTG.
 - Frecuencia: 2.4GHz banda ISM.

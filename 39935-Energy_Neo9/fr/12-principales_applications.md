@@ -5,7 +5,11 @@
 Votre nouveau Energy Tablet a un puissant navigateur Web entre la liste d'applications utilisées par défaut, avec lequel vous pourrez utiliser l'Internet d'une façon simple et rapide.
 Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateur situé dans le bureau ou le menu d'applications pour démarrer le programme. Le système chargera la page de démarrage par défaut et sera affichée sur l'écran.
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Reculer
 2. Avancer
@@ -42,7 +46,11 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ### Visualisation Vidéo
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 1.	Temps de lecture
 2.	Rapport d'aspect
 3.	Vidéo antérieur
@@ -52,6 +60,10 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ## Caméra
 
+<<<<<<< HEAD
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 1.	Changer de caméra
 2.  Mode de capture normal/ continu
 3.	Mode panoramique
@@ -61,8 +73,11 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 7.	Déclencheur
 8.	Pré-visualiser photos
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
 
+=======
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 ## Galerie: Images et Vidéos
 
 Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.

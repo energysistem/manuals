@@ -7,5 +7,8 @@ Si apagas el *Energy Music Box BZ3 Bluetooth* o extraes alguna de las memorias, 
 Para pasar de canción en canción, pulsa los botones de AVANCE (7) y RETROCESO (6). También puedes avanzar a la carpeta siguiente, pulsando el botón de NAVEGACIÓN POR CARPETAS (5).
 
 Para avanzar o retroceder rápido dentro de una misma canción, mantén pulsados los botones de AVANCE (7) o RETROCESO (6). Cuando sueltes el botón, se reanudará la reproducción.
+<<<<<<< HEAD
 
 Se puede cambiar el modo de reproducción a través de memorias USB y tarjetas de memoria SD/MMC, pulsando el botón MODO (3) durante 2 segundos. De esta forma, podrás seleccionar entre reproducción normal, reproducción aleatoria o repetición de pista.
+=======
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27

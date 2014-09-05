@@ -1,5 +1,10 @@
-## <quick_guide>Bluetooth Pairing
+## <quick_guide> Bluetooth pairing
 
-With your *Energy Headphones BT3+ Bluetooth* turned off, press the pairing button (1) for 6 seconds until the LED indicator (6) starts flahing blue and red, which means that your *Energy Headphones BT3+ Bluetooth* are trying to connect with another Bluetooth device; at the same time start the search and pairing process from your Bluetooth device (smartphone, tablet, laptop, etc). Once you have found the *Energy Headphones BT3+ Bluetooth* in your device, select "Connect" and both devices will pair each other immediately with no need of pairing codes; then the LED indicator (6) will flash only blue which means that the connection has been successfully established.
+With your * Energy Bluetooth Headphones BT9* turned off press the Bluetooth button (1) and you will see the LED (4) flash in red and blue.This will indicate that your * Energy Bluetooth Headphones BT9* are trying to sync with another Bluetooth device; start at the same time on your Bluetooth device, smartphone, tablet, laptop, etc. the sync function and once the * Energy BT9 Headphones Bluetooth* are available, select “connect” on your device; they will connect immediately and without needing any codes. The LED will flash in blue to indicate that the device is switched on and in Bluetooth mode.
+
+
+If your device has a NFC function, you can pair your devices by simply touching the *** NFC*** (2) icon, which located on the right earpiece.
 
 </quick_guide>
+
+If your * Energy Headphones BT9 Bluetooth* are already synced with a device, they will pair automatically. To pair a new device, turn your * Energy BT9 Headphones Bluetooth* on and hold the Bluetooth button (1). This way the headphones will start a new search

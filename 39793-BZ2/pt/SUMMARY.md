@@ -14,6 +14,6 @@
 * [Radio FM](11-radio_FM.md)
 * [MP3 memorias externas](12-mp3_memorias_externas.md)
 * [Garantia](13-garantia.md)
-* [Procedimiento garantia](14-procedimiento_garantia.md)
+* [Procedimiento garantia](14-procedimento_garantia.md)
 * [Declaracao conformidade](15-declaracao_conformidade.md)
 

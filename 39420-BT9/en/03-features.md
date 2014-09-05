@@ -1,40 +1,42 @@
 ## Features
 
+
 ### General Features
 
-- Bluetooth® headphones V4.0.
-- Easy synchronization without any code.
-- Compatible with iOS and Android devices, PC and PlayStation systems
-- Built in microphone with echo and noise cancellation.
-- Handsfree function and calls control.
-- Playback and volume control from the headphones.
-- Effective use distance up to 10m.
-- Modern design finished in high quality rubber.
-- Rechargeable lithium with 8 hourse of autonomy in playback mode.
-- USB charging system.
+- Bluetooth V4.0 headphones.
+- Wireless connectivity: Bluetooth® and NFC.
+- Multi Driver technology with 8 speakers for an amazing surround sound.
+- Play all your MP3 files directly from MicroSD/SDHC cards up to 64 GB.
+- Card reader with USB-OTG function.
+- Easy to sync with tablets, smartphones, laptops, MAC, PC, PS3 and other Bluetooth® devices.
+- Control all its functions directly from the headphones.
+- Syncing without codes.
+- Connect to audio devices with a 3.5mm jack cable (included).
+- Automatic answer function.
+- Integrated noise-cancelling microphone.
+- Up to 10m of range.
+- Rechargeable lithium battery
+- 20 hours of use.
 
-### Technical Features
+### Technical features
 
-- Bluetooth Version: Bluetooth 4.0
-- Supported profiles: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6
-- Wireless Range: 10m
-- Noise and Echo reduction DSP: CVC6.0
-- Speaker Frequency Response: 60HZ – 20KHZ
-- Driver Type: Dynamic
-- Speaker diameter: 40 mm
-- Speaker impedance: 32 ohm
-- Built in microphone.
-- Microphone Sensitivity: -42 dB
-- Dimensions: 170 x 165 x 53 mm.
-- Weight:126g
-
-### Rechargeable lithium battery specifications
-
-- Battery type: Li-ion battery 195mAH
-- Battery life in playback mode: 8 hours
-- Battery life in talking mode: 8 hours
-- Battery life in standby mode: 20 hours
-- Battery lifetime: Remain 80% capacity after 300 cycles
-- Charging time:~2 hours
-- USB charging system
+- Bidirectional Bluetooth®
+- V4.0
+- NFC function: pair your Bluetooth® devices with a single touch.
+- Compatible with MicroSD/SDHC cards up to 64 GB.
+- Card reader with USB-OTG function.
+- Frequency: 2.4GHz ISM band.
+- Frequency response: 5 Hz~25 KHz.
+- Compatible with the following Bluetooth® versions: V 1.0. / V1.1. / V1.2 / V2.0 / V2.1 and newer versions.
+- Bluetooth® protocols: HSP, HFP, A2DP, AVRCP.
+- Sensitivity: 110 dB.
+- Microphone Sensitivity: <=80 dB.
+- Total Harmonic Distortion: <0.1%.
+- S/N: 82 dB.
+- Playback autonomy: 16 hours.
+- Call mode autonomy: 20 hours.
+- Stand by autonomy: 325 hours.
+- Battery Type: Polymer.
+- Battery capacity: 650 mAh.
+- Rechargeable via USB.
 

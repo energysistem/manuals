@@ -72,11 +72,19 @@
 
 * Reproducción Programada
 
+<<<<<<< HEAD
 	El D6 permite seleccionar el orden de reproducción de títulos, capítulos o pistas.Nota: Durante la reproducción de un VCD o de un SVCD la reproducción programada sólo está disponible si la función PBC está desactivada.Usa los botones Arriba/Abajo para seleccionar un título a la derecha del menú de programación y pulse el botón Ok para confirmar. Usa los botones Arriba/Abajo para seleccionar un capítulo y presiona Ok para confirmar. El número del programa seleccionado aparecerá en la parte izquierda del menú.Repite los pasos anteriores para el resto de títulos/capítulos (o pistas en un CD).Pulsa Play/Pause u OK para comenzar la reproducción programada.Para borrar un item seleccionalo y pulsa el botón Stop.
 
 * Repetición
 
 	El D6 permite la repetición de la reproducción de un título, un capítulo o una pista.
+=======
+	El d5 AV permite seleccionar el orden de reproducción de títulos, capítulos o pistas.Nota: Durante la reproducción de un VCD o de un SVCD la reproducción programada sólo está disponible si la función PBC está desactivada.Usa los botones Arriba/Abajo para seleccionar un título a la derecha del menú de programación y pulse el botón Ok para confirmar. Usa los botones Arriba/Abajo para seleccionar un capítulo y presiona Ok para confirmar. El número del programa seleccionado aparecerá en la parte izquierda del menú.Repite los pasos anteriores para el resto de títulos/capítulos (o pistas en un CD).Pulsa Play/Pause u OK para comenzar la reproducción programada.Para borrar un item seleccionalo y pulsa el botón Stop.
+
+* Repetición
+
+	El d5 AV permite la repetición de la reproducción de un título, un capítulo o una pista.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 	> Nota: Durante la reproducción de un VCD/SVCD la repetición sólo estará disponible si la función PCB está desactivada.
 
