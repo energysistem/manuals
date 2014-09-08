@@ -4,7 +4,7 @@
 
 Utiliza o botão (1) para ligar ou desligar o dispositivo.
 
-Para ligar o dispositivo, aperte durante 5 segundos o botão (1) e verá que a LED (6) pisca em azul. Escutará "POWER ON" no dispositivo que indica que o dispositivo está ligado.
+Para ligar o dispositivo, aperte durante 2 segundos o botão (1) e verá que a LED (6) pisca em azul. Escutará "POWER ON" no dispositivo que indica que o dispositivo está ligado.
 
 Para desligar o dispositivo aperte de novo durante 3 segundos o botão (1), escutando por el dispositivo “POWER OFF” que indica que el dispositivo esta apagado. A LED (6) deixará de piscar.
 
