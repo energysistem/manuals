@@ -7,3 +7,8 @@ If you switch off the *Energy Bike Music Box BZ3 Bluetooth* or remove the Micro 
 Change the track by using the NEXT (7) and PREVIOUS (6) buttons. To advance to the next folder, press the BROWSE button (5).
 
 To quick forward or backward the song, keep the NEXT (7) or PREVIOUS (6) buttons. By releasing the button, the playback will continue normally.
+<<<<<<< HEAD
+
+You can change the playback mode via USB device and SD/MMC memory cards by pressing the MODE button (3) for 2 seconds. This way, you can select between normal play, random or repeat track mode.
+=======
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27

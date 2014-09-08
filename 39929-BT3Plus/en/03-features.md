@@ -4,6 +4,15 @@
 
 - Bluetooth® headphones V4.0.
 - Easy synchronization without any code.
+<<<<<<< HEAD
+- Compatible with iOS and Android devices, PC and PlayStation systems
+- Built in microphone with echo and noise cancellation.
+- Handsfree function and calls control.
+- Playback and volume control from the headphones.
+- Effective use distance up to 10m.
+- Modern design finished in high quality rubber.
+- Rechargeable lithium with 8 hourse of autonomy in playback mode.
+=======
 - Compatible with iOS and Android devices, PC and PlayStation systems.
 - Built-in microphone with echo and noise cancellation.
 - Handsfree function and phonecall control.
@@ -11,6 +20,7 @@
 - Range: up to 10m.
 - Modern design finished in high quality rubber.
 - Rechargeable lithium battery with 8 hours of autonomy in playback mode.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 - USB charging system.
 
 ### Technical Features

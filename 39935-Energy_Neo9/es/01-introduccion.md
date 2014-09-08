@@ -7,7 +7,11 @@ momento y lugar, consultar tu correo electrónico y reproducir todo tipo de cont
 Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle el máximo provecho al
 dispositivo.
 El sistema dispone de una pantalla multi-táctil capacitiva de 9" (1024x600 píxeles), procesador ARM Cortex
+<<<<<<< HEAD
+A7 Quad Core 1GHz, Bluetooth 3.0, WiFi, salida HDMI, cámaras frontal y trasera y memoria ampliable mediante tarjeta microSD.
+=======
 A7 Quad Core 1.2GHz, Bluetooth 4.0, WiFi, salida HDMI, cámaras frontal y trasera y memoria ampliable mediante tarjeta microSD.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
 

@@ -6,9 +6,15 @@
 * 1 Go DDR3 RAM.
 * 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n
+<<<<<<< HEAD
+* Bluetooth 3.0
+* Caméra frontale 0.3Mpx.
+* * Fonction USB-Host.
+=======
 * Bluetooth 4.0
 * Caméra frontale 0.3Mpx.
 * Fonction USB-Host.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Fonction USB-OTG
 * Haut-parleur inclut 1w.
 * Microphone omnidirectionnel inclut.

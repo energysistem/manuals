@@ -5,8 +5,12 @@
 Tu nuevo Energy Tablet dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás utilizar Internet de una forma rápida y sencilla.
 Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Navegador situado en el escritorio o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla.
 
+<<<<<<< HEAD
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+=======
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg
 )
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Retroceder
 2. Avanzar

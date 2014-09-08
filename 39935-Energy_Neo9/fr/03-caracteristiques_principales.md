@@ -2,11 +2,19 @@
 
 * Écran TFT 9" 16:9 (1024x600 pixels).
 * Écran capacitif multi-touch de 5 points.
+<<<<<<< HEAD
+* Processeur quad coeur ARM Cortex A7 1GHz avec GPU SGX544MP2 inclut.
+* 1 Go DDR3 RAM.
+* 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 32 Go).
+* WI-FI N: module 802.11 b/g/n
+* Bluetooth 3.0
+=======
 * Processeur quad coeur ARM Cortex A7 1.2GHz avec GPU SGX544MP2 inclut.
 * 1 Go DDR3 RAM.
 * 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n
 * Bluetooth 4.0
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Sortie HDMI 720p.
 * Caméra frontale 0.3Mpx.
 * Caméra arrière 2Mpx.
