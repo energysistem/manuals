@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Phone Pro**
+**Energy Sistem#trade# Energy Bluetooth Keyboard Neo 10**
 
 País de fabricación: China
 

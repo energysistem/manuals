@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Bluetooth Keyboard Neo 10 3G**
+**Energy Sistem#trade# Energy Pro8 Windows**
 
 País de fabricación: China
 
