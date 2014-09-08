@@ -6,4 +6,6 @@ Dispõe de várias formas para melhorar o rendimento e optimizar o uso da bateri
 Configure o desligado automático da tela depois de uns segundos de inactividade em Configuração> Tela > Modo de espera depois de. Seleccione um nível ideal de brilho de tela em Configurações> Exibir > Brilho.
 
 Para utilizar o cartão da sua operadora de telefonia móvel na sua Energy Tablet, tire o cartão da ranhura SIM com o acessório incluido. Coloque o cartão SIM na posição correcta dentro da ranhura e introduz o conjunto dentro da ranhura para SIM.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39789/540dc87a967cd.jpg)
 </quick_guide>

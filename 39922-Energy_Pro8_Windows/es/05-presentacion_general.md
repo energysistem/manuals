@@ -5,13 +5,14 @@
 
 1. Cámara trasera
 2. Cámara delantera
-3. Altavoces
+3. Altavoz
 4. Botón de encendido/apagado
-5. Botón de control de volumen +/-
-6. Pantalla táctil
-7. Ranura para microSD
-8. Salida de auriculares
-9. Conector microUSB
-10. Ranura para SIM
+5. Botón de control de volumen +
+6. Botón de control de volumen -
+7. Pantalla táctil
+8. Ranura para microSD
+9. Salida de auriculares
+10. Conector microUSB
+11. Conector MicroHDMI
 
 </quick_guide>

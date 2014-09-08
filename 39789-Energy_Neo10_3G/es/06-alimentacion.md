@@ -6,4 +6,7 @@ Configura el apagado de la pantalla automáticamente tras unos segundos de inact
 Selecciona un nivel de brillo de pantalla óptimo en el menú Ajustes > Pantalla > Brillo.
 
 Para utilizar la tarjeta de tu operadora telefónica en tu Energy tablet, extrae la bandeja del slot SIM ayudandote del accesorio que incluimos. Coloca la SIM dentro de la bandeja en la posición correcta, e introduce el conjunto dentro de la ranura para SIM.
+
+![Imagen1](http://static.energysistem.com/images/manuals/39789/540dc87a967cd.jpg)
+
 </quick_guide>
