@@ -1,5 +1,4 @@
 <quick_guide>
-FALTA FOTO
+FALTA FOTO PORTADA
 </quick_guide>
-
 
