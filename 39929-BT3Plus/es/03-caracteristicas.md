@@ -3,11 +3,7 @@
 
 ### Características generales
 
-<<<<<<< HEAD
-- Auriculares Bluetooth® 4.0.
-=======
 - Auriculares Bluetooth 4.0.
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 - Fácil sincronización sin códigos.
 - Compatible con dispositivos iOS, ANDROID, PC y sistemas PlayStation.
 - Micrófono integrado con cancelación de eco y ruidos.
