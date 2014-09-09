@@ -6,11 +6,11 @@
 2. **Back:** allow you to come back to the previous screen
 3. **Home:** returns to the main screen
 4. **Tasks:** displays recently opened applications
-5. **Music:** music player.
+5. **Telephone:** call to your contacts..
 6. **Play store#trade#:** Google's#trade# app store
-7. **Gallery:** Pictures: images gallery
+7. **Contacts:** Contacts list
 8. **Camera:** access to the integrated camera
-9. **Email:** e-mail client
+9. **Music:** music player.
 10. **Internet:** web browser
 11. **Status bar:** displays information about the wi-fi signal status, battery and clock. Pressing this area displays a larger version showing the date. Pressing it again accesses a basic settings menu that manages the Wi-Fi configuration, gyroscope, screen brightness, notifications and the full settings menu
 12. **Main menu:** Button to access to the apps and widgets

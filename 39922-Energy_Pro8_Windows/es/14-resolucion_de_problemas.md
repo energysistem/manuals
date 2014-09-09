@@ -13,7 +13,7 @@ Asegúrate que no estás codificando los WMA con DRM.
 Generalmente las aplicaciones sólo muestran los ficheros compatibles, que puedan ser reproducidos por el programa. Por tanto, mientras navegas por las carpetas desde una aplicación en concreto sólo podrás visualizar los archivos del tipo asociado a ese programa (canciones con el reproductor de música, películas con el reproductor de vídeo, etc...).
 
 5.	¿Cuáles son los formatos de vídeo compatibles con mi Energy Tablet?
-Tu Energy Tablet puede reproducir múltiples formatos de video sin recodificar.
+Tu Energy Tablet puede reproducir múltiples formatos de video sin recodificar. Puedes descargarte aplicaciones con diferentes codecs para aumentar el número de archivos compatibles.
 
 6.	¿Por qué no consigo visualizar mis archivos de imágenes .jpg?
 Muchas cámaras fotográficas digitales y programas de edición de imágenes añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu Energy Tablet no cargue las imágenes. Prueba a eliminarlos grabando la imagen con otro nombre.
@@ -25,7 +25,7 @@ Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles 
 El sistema operativo Windows™ y las aplicaciones preinstaladas en el dispositivo necesitan memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a la especificada.
 
 9.	He actualizado el firmware y ya no tengo ningún archivo multimedia ni fondo de pantalla ¿Cómo puedo recuperar los contenidos que venían preinstalados?
-Antes de cualquier actualización del sistema recomendamos hacer una copia de seguridad de todo lo que quieras conservar. En energysistem.com encontrarás no sólo todos los contenidos que venían preinstalados en tu Energy Phone sino muchos más archivos multimedia y fondos de pantalla adicionales.
+Antes de cualquier actualización del sistema recomendamos hacer una copia de seguridad de todo lo que quieras conservar. En energysistem.com encontrarás no sólo todos los contenidos que venían preinstalados en tu Energy Tablet sino muchos más archivos multimedia y fondos de pantalla adicionales.
 
 10.	¿Cuál es la autonomía del dispositivo?
 Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado, la potencia que requiera la ejecución de aplicaciones y juegos, etc.
