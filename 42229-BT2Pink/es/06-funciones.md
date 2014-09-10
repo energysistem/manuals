@@ -2,7 +2,7 @@
 
 ### <quick_guide> Encendido y apagado del dispositivo
 
-Para encender y apagar tus *Energy Headphones BT2 Pink Bluetooth* utiliza el botón multifunción (1).
+Para encender y apagar tus *Energy Headphones BT2 Bluetooth* utiliza el botón multifunción (1).
 
 Pulsa el botón durante aproximadamente 3 segundos para encender el dispositivo. El led que se encuentra detrás del botón se iluminará y comenzará a parpadear en caso de que previamente se haya emparejado con algún dispositivo, y tratará de establecer la conexión con el mismo; en caso contrario, entrará en modo emparejamiento.
 
