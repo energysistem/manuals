@@ -2,74 +2,46 @@
 
 ### Navegador de Internet
 
-Tu nuevo Energy Tablet dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás utilizar Internet de una forma rápida y sencilla.
+Tu nuevo Energy Tablet dispone del potente navegador Web Internet Explorer 11 entre la lista de aplicaciones instaladas por defecto, con el que podrás utilizar Internet de una forma rápida y sencilla.
 Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Navegador situado en el escritorio o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla.
-
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
-
-1. Retroceder
-2. Avanzar
-3. Recargar
-4. Dirección WEB
-5. Teclea
-6. Pulsa enter
-7. Crear pestaña
-8. Cerrar pestaña
-9. Opciones
 
 
 ### Gestión de Email
 
-Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
+Tu Energy Tablet posee una aplicación de gestión de correo electrónico instalada por defecto con la que podrás trabajar con tu cuenta personal de correo de manera cómoda y eficaz. Además, con la licencia que incluimos de Microsoft Office 365, dispones de Microsoft Outlook para tener una experiencia ampliada a la hora de trabajar con tu correo.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
-
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
-
-1. Carpeta seleccionada
-2. E-mails
-3. Nuevo correo
-4. Buscar
-5. Opciones
+Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
 
-### Reproducción de Música
+### Microsoft Office 365
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+Tu Energy Tablet incluye el conjunto de ofimática Mircrosoft Office 365 que incluye, entre otras, las aplicaciones Microsoft Word, Microsoft Excel y Microsoft Outlook. Amplia la experiencia de uso de tu Energy Tablet gracias a la licencia de un año que incluimos con él.
 
-1. Lista de reproducción
-2. Reproducción aleatoria
-3. Repetición
-4. Canción anterior
-5. Play / pause
-6. Canción posterior
 
-### Reproducción de Vídeo
+### OneDrive
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+OneDrive nos permite compartir documentos en la nube y descargarlos fácilmente desde cualquier otro dispositivo conectado a Internet. Podras acceder a todos tus documentos estés donde estés, y con tu Energy Tablet tendrás disponibles 15Gb de almacenamiento gratuito.
 
-1. Tiempo reproducido
-2. Relación de aspecto
-3. Vídeo anterior
-4. Play / Pausa
-5. Vídeo posterior
-6. Ajustes
+
+###Skype
+
+Skype te permite mantenerte en contacto desde tu casa, el trabajo o dondequiera que estés con todo el mundo. Además, esta plataforma se puede instalar en tu tablet, PC, smartphone, etc. Con tu Energy Tablet podras disfrutar de 60 minutos de llamadas gratuitas al més durante un año.
+
+
+### Reproducción de Audio y Vídeo
+
+Puedes utilizar el Reproductor de Windows Media  para reproducir música y vídeos. Soporta los formatos más extendidos tanto de audio como video y permite realizar multiples ajustes en los mismos.
+
+
+### Galería: Fotos
+
+Puedes usar esta aplicación para ver las fotos que tengas tanto en tu Energy Tablet como en OneDrive. Además,si tiene fotos en tu teléfono, puedes importarlas mediante esta aplicación.
+Para visualizar tus fotos, abre la aplicación Fotos que esta en la pantalla Inicio. Todas las fotos de tu carpeta Imágenes aparecen en esta aplicación.
+
 
 ### Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
-1. Cambiar de cámara
-2. Modo de captura normal/continuo
-3. Modo panorámico
-4. Efecto postcaptura
-5. Ajustes
-6. Modo fotografía/video
-7. Disparador
+Tu Energy Tablet dispone de la aplicación Cámara preinstalada  y además puedes utilizar otras aplicaciones Cámara descargandotelas de la Tienda Windows.
+Para hacer una foto o grabar un vídeo debes abrir la aplicación Cámara posteriormente pulsar el botón Foto o el botón Vídeo en pantalla.
 
-### Galería: Imágenes y Vídeos
 
-Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
-Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
-
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)

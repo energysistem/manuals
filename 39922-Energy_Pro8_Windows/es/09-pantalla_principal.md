@@ -1,18 +1,20 @@
 ## Pantalla Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
+FALTA FOTO
 
-1. Buscador: acceso directo al motor de búsqueda WEB de Google#trade#
-2. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando
-3. Home: te devuelve a la pantalla principal
-4. Tareas: muestra las aplicaciones usadas recientemente
-5. Music: reproducción de archivos de sonido
-6. Play store: Tienda de aplicaciones de Google#trade#
-7. Gallery: visualización de imágenes
-8. Camera: acceso a la cámara de fotos integrada
-9. Email: correo electrónico
-10. Internet: navegador web
-11. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Pulsando esta zona se despliega una versión del menú de configuración básica que gestiona la configuración Wi-Fi, el giroscopio, el brillo de la pantalla, las notificaciones y el menú de configuración completa
-12. Acceso al menú de aplicaciones y widgets
-13. Búsqueda por voz: accede a la búsqueda por voz de Google#trade# y mucho más
+1. Usuario: muestra la sesión de usuario activa y permite cerrarla e iniciar una nueva sesión
+2. Búsqueda: permite realizar búsquedas en la tablet,
+en la web, en la Tienda Windows y en las aplicaciones que lo permitan.
+3. Escritorio: accede al modo tradicional del escritorio Windows#trade#
+4. Email: correo electrónico
+5. Equipo: acceso a las unidades de almacenamiento del sistema
+6. Configuración: ajustes del equipo
+7. Store: Tienda de aplicaciones de Windows#trade#
+8. Office: Microsoft Word, Excel, Outlook...
+9. OneDrive: almacenamiento en la nube
+10. Cámara: acceso a las cámaras de fotos integradas
+11. Galería: acceso a la galería de imágenes
+12. Internet explorer: navegador web
+13. Contactos: libreta de direcciones universal
+14. Skype: realiza videoconferencias, llamadas...
 

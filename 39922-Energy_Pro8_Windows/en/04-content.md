@@ -1,5 +1,5 @@
 ## <quick_guide> Product Content
-* Energy Tablet Neo 10 3G.
+* Energy Tablet Pro 8 Windows.
 * Quick guide.
 * USB cable 2.0 High-speed to connect the PC.
 * USB-HOST cable to connect external USB.

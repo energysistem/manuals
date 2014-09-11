@@ -2,6 +2,27 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
 
+1. **User: shows the opened user account 
+2. **Search:** direct access to tablet, windows store and applications search engine.
+3. **Desktop:** classic windows desktop mode
+4. **Email:** e-mail client
+5. 
+6. **Settings**: 
+7. **Store:** Windows#trade# app store
+8. **Office:** Microsoft Word, Excel, Outlook...
+9. **OneDrive:** 
+10. **Camera:** Access to the integrated camera
+11. **Gallery:** Pictures: images gallery
+12. **Internet explorer:** web browser
+13. **People**: contact list
+14. **Skype**: videocalls, messages...
+
+
+
+
+
+
+
 1. **Search:** direct access to Google’s#trade# search engine
 2. **Back:** allow you to come back to the previous screen
 3. **Home:** returns to the main screen
@@ -9,7 +30,7 @@
 5. **Music:** music player.
 6. **Play store#trade#:** Google's#trade# app store
 7. **Gallery:** Pictures: images gallery
-8. **Camera:** access to the integrated camera
+8. Office: Microsoft Word, Excel, Outlook...
 9. **Email:** e-mail client
 10. **Internet:** web browser
 11. **Status bar:** displays information about the wi-fi signal status, battery and clock. Pressing this area displays a larger version showing the date. Pressing it again accesses a basic settings menu that manages the Wi-Fi configuration, gyroscope, screen brightness, notifications and the full settings menu
