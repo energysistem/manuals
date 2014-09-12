@@ -1,0 +1,6 @@
+## <quick_guide>Sincronização Bluetooth
+
+Com seus Energy Wireless BT Sport desligados, aperte o botão de sincronização (1) durante 4 segundos, até que a LED (6) comece a trocar os cores (vermelho/ azul) neste momento os  Energy Wireless BT Sport procuraram a sincronização com outro dispositivo Bluetooth®; ao mesmo tempo desde o seu dispositivo Bluetooth®, smartphone, tablet, portátil, etc. inicia a pesquisa e a sincronização de dispositivos. Uma vez identificado o Energy Wireless BT4 Sport no seu dispositivo, escolha ligar, será ligado de forma imediata e sem códigos. Através do dispositivo você escutará a mensagem "CONNECTION SUCCESSFUL" que indica que a conexão entre os dois dispositivos foi satisfatória.
+Para sincronizar de novo os dispositivos não é preciso repetir todo o processo, basta manter ligado o Energy Wireless BT Sport e seleccioná-lo desde o smartphone, tablet, computador portátil, etc.
+
+Seus Energy Wireless BT Sport incluem a tecnologia multiponto com a qual poderá ligar dois dispositivos Bluetooth® de forma simultânea. Por isso, repete os mesmos passos para sincronizar só um dispositivo e quando seja sincronizado satisfatoriamente, reinicie os fones para que os dois dispositivos são sincronizados automaticamente.</quick_guide>

@@ -13,7 +13,7 @@
 * [Widgets](10-widgets.md)
 * [Configuracion inalámbrica](11-configuracion_inalambrica.md)
 * [Principales aplicaciones](12-principales_aplicaciones.md)
-* [Actualizacion](13-actualizacion.md)
+* [Actualizacion](13-Actualizacion.md)
 * [Resolucion de problemas](14-resolucion_de_problemas.md)
 * [Condiciones de la garantia](15-condiciones_de_la_garantia.md)
 * [Funcionamiento de la garantia](16-funcionamiento_de_la_garantia.md)

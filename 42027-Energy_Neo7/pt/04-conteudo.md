@@ -1,9 +1,9 @@
 ## <quick_guide> Conteúdo do produto
 
-* Energy Smartphone Neo.
+* Energy Tablet Neo 7.
 * Guia Rápida.
-* Cabo USB.
-* Fonte de alimentação AC/DC (Europlug) 100-240V AC 50-60Hz.
-* Fones com microfone integrado. 
-* Protector de tela.
+* Cabo USB 2.0 High-Speed para conexão ao PC.
+* Cabo USB-HOST para conexão de dispositivos USB externos.
+* Adaptador de corrente AC/DC (Europlug) 100-240V AC 50-60Hz.
+
 </quick_guide>

@@ -1,5 +1,5 @@
 ## <quick_guide> Synchronisation Bluetooth
-À chaque fois quand vous allumez votre *Energy Music Box BZ3 Bluetooth* commencera automatiquement la recherche d'appareils pour établir la synchronisation bluetooth; au même temps depuis votre appareil Bluetooth®, (portable, tablette, portable, etc.) Commencez la recherche et la synchronisation d'appareils. Lorsqu'on a identifié l'*Energy Music Box BZ3 Bluetooth*sur votre appareil, choisissez l'option connecter.  La connexion sera réalisée immédiatement et sans besoin de codes. L'haut-parleur reproduira un son qu'indique une bonne connexion entre les différents appareils.
+À chaque fois quand vous allumez votre *Energy Music Box BZ3 Bluetooth* commencera automatiquement la recherche d'appareils pour établir la synchronisation bluetooth; au même temps depuis votre appareil Bluetooth®, (portable, tablette, portable, etc.) Commencez la recherche et la synchronisation d'appareils. Lorsqu'on a identifié l'*Energy Music Box BZ3 Bluetooth* sur votre appareil, choisissez l'option connecter.  La connexion sera réalisée immédiatement et sans besoin de codes. L'haut-parleur reproduira un son qu'indique une bonne connexion entre les différents appareils.
 
 Pour synchroniser à nouveau le dernier appareil qu'a été synchronisé, il faut connecter l'*Energy Music Box BZ3 Bluetooth* et la synchronisation sera automatique. 
 

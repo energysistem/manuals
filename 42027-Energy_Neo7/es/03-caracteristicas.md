@@ -4,9 +4,13 @@
 * Pantalla capacitiva multi-táctil de 5 puntos.
 * Procesador de doble núcleo ARM Cortex A9 1GHz con GPU Mali-400 integrada.
 * 1GB DDR3 RAM.
-* 4GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
+* 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
+<<<<<<< HEAD
 * Bluetooth 3.0
+=======
+* Bluetooth 4.0
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Cámara frontal 0.3Mpx.
 * Cámara trasera 2Mpx.
 * Función USB-Host.

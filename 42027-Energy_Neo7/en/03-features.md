@@ -3,9 +3,13 @@
 * 5 points capacitive multitouch screen.
 * Quad Core ARM Cortex A7 1GHz processor and SGX544MP2 GPU.
 * 1GB RAM.
-* 4GB GB internal memory expandable memory up to 64GB via microSD-HC/XC cards.
+* 8GB GB internal memory expandable memory up to 64GB via microSD-HC/XC cards.
 * Wi-Fi connection (802.11 b/g/n).
+<<<<<<< HEAD
 * Bluetooth 3.0.
+=======
+* Bluetooth 4.0.
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Built-in front camera 0.3Mpx.
 * Built-in rear camera 2.0 Mpx.
 * USB-Host.

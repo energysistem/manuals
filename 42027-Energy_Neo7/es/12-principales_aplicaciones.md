@@ -5,7 +5,12 @@
 Tu nuevo Energy Tablet dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás utilizar Internet de una forma rápida y sencilla.
 Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Navegador situado en el escritorio o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla.
 
+<<<<<<< HEAD
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
+=======
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg
+)
+>>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Retroceder
 2. Avanzar
@@ -46,7 +51,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Reproducción de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
 
 1. Tiempo reproducido
 2. Bajar volumen
@@ -59,24 +64,16 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce75eca68.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/5397245894b43.jpg)
 
-1. Cambiar de cámara
-2. Modo de captura normal/continuo
-3. Modo panorámico
-4. Efecto postcaptura
-5. Ajustes
-6. Modo fotografía/video
-7. Disparador
-8. Previsualizar fotos
-9. Zoom +
-10. Zoom -
+1. Ajustes
+2. Modo fotografía/video
+3. Disparador
 
 ### Galería: Imágenes y Vídeos
 
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708986b10b0.jpg)
-
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370897f72d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)

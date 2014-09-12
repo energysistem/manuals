@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-![imagen](http://static.energysistem.com/images/manuals/39935/5375cef9bc71a.jpg)
+![imagen](	http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
 
 1. Buscador: acceso directo al motor de búsquedaWEB de Google#trade#
 2. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando
@@ -13,5 +13,5 @@
 9. Email: correo electrónico
 10. Internet: navegador web
 11. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Pulsando esta zona se despliega una versión del menú de configuración básica que gestiona la configuración Wi-Fi, el giroscopio, el brillo de la pantalla, las notificaciones y el menú de configuración completa
-12. Acceso al menú de aplicaciones y widgets
+12. Acceso al menú de aplicaciones
 13. Búsqueda por voz: accede a la búsqueda por voz de Google#trade# y mucho más

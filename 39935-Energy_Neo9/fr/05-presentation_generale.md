@@ -1,6 +1,16 @@
-## <quick_guide> Vue principale
+## <quick_guide> Présentation générale
 
-|  |  |
-|:-------|:-------|
-|1. Capteurs de luminosité et de proximité.<br> 2.	Sortie pour les écouteurs.<br> 3.	Haut-parleur frontal.<br> 4.	Entrée USB OTG/HOST.<br> 5.	Caméra frontale.<br> 6.	Caméra de recul.<br> 7.	Touche de volume.<br> 8.	Haut-parleur arrière.<br> 9.	Touches tactiles Menu, Démarrage, Retour.<br> 10.	Microphone.<br> 11.	Bouton de démarrage / éteint.<br> 12.	Fente pour les cartes microSD HC/XC.<br> 13.	Fente pour les cartes SIM 1.<br> 14.	Fente pour les cartes SIM 2.<br> 15.	Batterie.<br> 16.	Numéro de série et numéros IMEI.| ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg) ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)|
+![Imagen1](	http://static.energysistem.com/images/manuals/39935/53980401b9a92.jpg)
+1. Caméra arrière
+2. Caméra frontale
+3. Haut-parleur
+4. Bouton d'allumage/éteint
+5. Bouton de contrôle de volume +/-
+6. Écran tactile
+7. Fente pour microSD
+8. Sortie HDMI
+9. Entrée pour microUSB
+10. Sortie d'écouteurs
+11. Connecteur d'alimentation
+
 </quick_guide>
