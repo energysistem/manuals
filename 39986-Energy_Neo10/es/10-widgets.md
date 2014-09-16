@@ -1,11 +1,10 @@
 ## Widgets
 
-In order to add a Widget to one of your desktops, keep pressing it (1), then select "WIDGETS" (2).
+Para añadir un Widget a cualquiera de los escritorios, mantén una pulsación sobre el escritorio (1) y selecciona "WIDGETS" (2).
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/53972952db90a.jpg)
-You can slide your finger to the left or right to see all your installed Widgets. Select the one you want to add to your desktop by pressing (4) on the widget and then releasing it on the desktop (5).
+Con el gesto de pasar página (3) podrás ver todos los Widgets instalados. Elige el que quieras añadir al escritorio manteniéndolo pulsado (4) y soltándolo a continuación (5).
 ![Imagen2](http://static.energysistem.com/images/manuals/42027/53972436eb9a1.jpg)
 ![Imagen3](http://static.energysistem.com/images/manuals/42027/539729c41d97f.jpg)
+Los Widgets pueden reubicarse a otras zonas del mismo escritorio o ser borrados fácilmente. Para mover un Widget desde su ubicación actual pulsa sobre él y mantenlo seleccionado unos segundos. Cuando la aplicación quede resaltada, podrás mover el Widget a otra posición dentro del escritorio.
 
-A Widget can be relocated or removed easily. To relocate a widget, tap and hold it for a few seconds. Once the widget is highlighted, you can move it to another position within the desktop.
-
-To remove the widget, tap and hold it for a few seconds and the X icon will appear on the top side of the screen, drag the widget to the X icon and release it.
+Para eliminar el Widget manténlo seleccionado durante unos segundos sin soltarlo, verás aparecer en pantalla el icono X, arrastra el widget al ícono y suéltalo.
