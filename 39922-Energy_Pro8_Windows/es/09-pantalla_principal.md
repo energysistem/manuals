@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-FALTA FOTO
+![FALTA FOTO](	http://static.energysistem.com/images/manuals/39922/5416ee6a0b430.jpg)
 
 1. Usuario: muestra la sesión de usuario activa y permite cerrarla e iniciar una nueva sesión
 2. Búsqueda: permite realizar búsquedas en la tablet,
