@@ -5,7 +5,6 @@ Your new Energy Tablet has a powerful Web browser among the list of applications
 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Back
 2. Forward
@@ -16,6 +15,8 @@ Your new Energy Tablet has a powerful Web browser among the list of applications
 7. New tab
 8. Close tab
 9. Options
+
+
 
 ### E-Mail Client
 Note: In order to know your account settings, ask your e-mail provider.
@@ -30,6 +31,8 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
 
+
+
 ### Music Player
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
@@ -43,6 +46,8 @@ Note: In order to know your account settings, ask your e-mail provider.
 7. Decrease volume
 8. Increase volume
 
+
+
 ### Video Player
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
@@ -53,6 +58,8 @@ Note: In order to know your account settings, ask your e-mail provider.
 4. Play / Pause
 5. Next video
 6. Setup
+
+
 
 ### Camera
 
@@ -65,6 +72,8 @@ Note: In order to know your account settings, ask your e-mail provider.
 5. Setup
 6. Photo/video mode
 7. Shutter
+
+
 
 ### Gallery: Images and Videos
 

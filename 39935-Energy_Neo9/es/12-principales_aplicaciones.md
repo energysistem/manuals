@@ -6,7 +6,6 @@ Tu nuevo Energy Tablet dispone de un potente navegador Web entre la lista de apl
 Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Navegador situado en el escritorio o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Retroceder
 2. Avanzar
@@ -45,6 +44,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 5. Play / pause
 6. Canción posterior
 
+
 ### Reproducción de Vídeo
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
@@ -55,6 +55,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 4. Play / Pausa
 5. Vídeo posterior
 6. Ajustes
+
 
 ### Cámara
 
@@ -68,7 +69,8 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 6. Modo fotografía/video
 7. Disparador
 
-### Galería: Imágenes y Vídeos
+
+###Galería: Imágenes y Vídeos
 
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
