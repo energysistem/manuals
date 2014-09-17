@@ -17,11 +17,13 @@
 * Fonction USB pour avoir un simple accès à la mémoire depuis l'ordinateur (câble inclut).
 * Haut-parleur intégré.
 * Microphone omnidirectionnel intégré.
+* Connecteur audio avec standard CTIA.
 * Capteur de mouvement (accéléromètre).
 * Écran avec réglage de luminosité.
 * Capteur de proximité.
 * Applications installées: navigateur Internet, gestionnaire de courrier électronique, applications pour la lecture de musique, vidéos, photos, radio FM, alarme et calculatrice.
 * Permet l'installation des applications et des jeux disponibles pour le système d'exploitation ANDROID#trade#.
 * Fréquences opérationnelles: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
+* Autonomie: jusqu'à XXX heures en standby et XXX heures de conversation. 
 *	Capacité de la batterie: 1.450mAh
 * Mesure SAR: 0.205 (W/Kg) pour l'oreille et 0.382 (W/Kg) pour le corps (à 10mm de portée).
