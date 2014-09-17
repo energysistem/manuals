@@ -25,6 +25,6 @@
 * Aplicações instaladas: navegador de Internet, gerente de correio eletrônico, aplicações para a lectura de música, vídeos, fotos, radio FM, alarme e calculadora.
 * Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operacional ANDROID#trade#.
 * Frequências da operação: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz
-* Autonomie: jusqu'à XXX heures en standby et XXX heures de conversation. 
+* Autonomia: até XXX horas em espera e XXX horas em conversação.
 * Capacidade da bateria: 1.450mAh.
 * Medição SAR: 0.205 (W/Kg) na orelha e 0.382 (W/Kg) no corpo (à 10mm de distância).
