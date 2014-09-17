@@ -1,4 +1,4 @@
-## Pantalla Principal
+.## Pantalla Principal
 
 ![FALTA FOTO](	http://static.energysistem.com/images/manuals/39922/5416ee6a0b430.jpg)
 

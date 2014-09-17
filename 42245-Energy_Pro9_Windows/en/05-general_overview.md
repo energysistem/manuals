@@ -14,5 +14,7 @@
 9. Headphone output
 10. MicroUSB connector
 11. MicroHDMI connector
+12. MicroSIM Slot
+13. Keyboard Connector
 
 </quick_guide>

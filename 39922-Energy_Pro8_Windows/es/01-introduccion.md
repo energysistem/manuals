@@ -5,7 +5,7 @@
 basada en el sistema operativo Windows#trade#, con el que podrás acceder a Internet y comunicarte en cualquier
 momento y lugar, consultar tu correo electrónico y reproducir todo tipo de contenido multimedia (vídeos en alta definición hasta 1080p, música, fotografías, eBooks, etc.).
 Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle el máximo provecho al dispositivo.
-El sistema dispone de una pantalla multi-táctil capacitiva de 8" (800x1280 píxeles), procesador de cuatro núcleos Intel Baytrail Z3735F 1.83Ghz, Bluetooth 4.0, WiFi, cámaras frontal y trasera, y memoria ampliable mediante tarjeta microSD.
+El sistema dispone de una pantalla multi-táctil capacitiva IPS de 8" (800x1280 píxeles), procesador de cuatro núcleos Intel Baytrail Z3735F 1.83Ghz, Bluetooth 4.0, WiFi, cámaras frontal y trasera, y memoria ampliable mediante tarjeta microSD.
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
 

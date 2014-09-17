@@ -20,7 +20,7 @@ Tu Energy Tablet incluye el conjunto de ofimática Mircrosoft Office 365 que inc
 
 ### OneDrive
 
-OneDrive nos permite compartir documentos en la nube y descargarlos fácilmente desde cualquier otro dispositivo conectado a Internet. Podras acceder a todos tus documentos estés donde estés, y con tu Energy Tablet tendrás disponibles 1Tb de almacenamiento gratuito.
+OneDrive nos permite compartir documentos en la nube y descargarlos fácilmente desde cualquier otro dispositivo conectado a Internet. Podras acceder a todos tus documentos estés donde estés, y con tu Energy Tablet tendrás disponible 1TB de almacenamiento gratuito.
 
 
 ###Skype
