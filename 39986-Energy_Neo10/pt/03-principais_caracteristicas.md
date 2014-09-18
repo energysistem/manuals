@@ -2,19 +2,11 @@
 
 * Tela TFT de 10.1" 16:9(1280x800 píxeis).
 * Tela capacitiva multi-táctil de 5 pontos.
-<<<<<<< HEAD
-* Processador quad core ARM Cortex A7 1GHz com SGX544MP2 incluido.
-* 1GB DDR3 RAM.
-* 8GB de memória interna expandíveis com cartões microSD-HC/XC (até 32GB).
-* Conexão WI-FI: 802.11 b/g/n
-* Bluetooth 3.0
-=======
 * Processador quad core ARM Cortex A7 1.2GHz com SGX544MP2 incluido.
 * 1GB DDR3 RAM.
 * 8GB de memória interna expandíveis com cartões microSD-HC/XC (até 32GB).
 * Conexão WI-FI: 802.11 b/g/n
 * Bluetooth 4.0
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Câmara frontal de 0.3Mpx.
 * Câmara traseira de 2Mpx.
 * Função USB-Host.

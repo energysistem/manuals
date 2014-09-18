@@ -4,11 +4,8 @@
 
 O seu novo Energy Tablet dispõe de um potente navegador de Internet entre a lista de aplicações instaladas por padrão, com o qual poderá utilizar a Internet de uma forma rápida e fácil. Uma vez ligado o dispositivo a uma rede Wi-Fi, aperte sobre o ícone Navegador situado no desktop ou no menu de aplicações para iniciar o programa. O sistema carregará a página de entrada estabelecida por padrão e a mostrará na tela.
 
-<<<<<<< HEAD
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
-=======
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
 1. Voltar.
 2. Avançar.
 3. Recarregar.
@@ -45,20 +42,6 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 
 ### Leitura de Vídeo
 
-<<<<<<< HEAD
-![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
-1. Tempo reproduzido.
-2. Baixar volume.
-3. Marcador.
-4. Luminosidade.
-5. Vídeo anterior.
-6. Play/ Pause.
-7. Vídeo posterior.
-8. Relação de aspecto.
-
-### Câmara
-
-=======
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
 1. Tempo reproduzido.
 2. Relação de aspecto.
@@ -67,10 +50,12 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 5. Vídeo posterior.
 6. Ajustes.
 
+
+
 ### Câmara
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
 1. Mudar câmara
 2. Modo de captura normal/continuo
 3. Modo panorâmico
@@ -79,12 +64,8 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 6. Modo fotografia/vídeo
 7. Disparador
 8. Pré-visualizar fotos
-<<<<<<< HEAD
-9. Zoom +
-10. Zoom -
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
-=======
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
+
 
 ### Galeria: Imagens e Vídeos
 

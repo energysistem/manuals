@@ -5,11 +5,7 @@
 Votre nouveau Energy Tablet a un puissant navigateur Web entre la liste d'applications utilisées par défaut, avec lequel vous pourrez utiliser l'Internet d'une façon simple et rapide.
 Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateur situé dans le bureau ou le menu d'applications pour démarrer le programme. Le système chargera la page de démarrage par défaut et sera affichée sur l'écran.
 
-<<<<<<< HEAD
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf00a728a.jpg)
-=======
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 
 1. Reculer
 2. Avancer
@@ -20,6 +16,8 @@ Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateu
 7. Créer onglet
 8. Fermer onglet
 9. Options
+
+
 
 ### Administrateur d'Email
 
@@ -34,6 +32,8 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 4.	Chercher
 5.	Options.
 
+
+
 ### Lecture de musique
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
@@ -44,22 +44,10 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 5.	Play / pause
 6.	Chanson postérieure
 
+
+
 ### Visualisation Vidéo
 
-<<<<<<< HEAD
-![Imagen1](http://static.energysistem.com/images/manuals/42027/5397241676a40.jpg)
-1.	Temps de lecture
-2.	Baisser le volume
-3.	Marqueur
-4.	Luminosité
-5.	Vidéo antérieur
-6.	Play / Pausa
-7.	Vidéo postérieure
-8.	Rapport d'aspect
-
-## Caméra
-
-=======
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
 1.	Temps de lecture
 2.	Rapport d'aspect
@@ -68,10 +56,12 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 5.	Vidéo postérieure
 6.	Paramètres
 
+
+
 ## Caméra
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
 1.	Changer de caméra
 2.  Mode de capture normal/ continu
 3.	Mode panoramique
@@ -80,13 +70,8 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 6.  Mode photographie/vidéo
 7.	Déclencheur
 8.	Pré-visualiser photos
-<<<<<<< HEAD
-9.	Zoom +
-10.	Zoom -
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)|
-=======
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
 
 ## Galerie: Images et Vidéos
 

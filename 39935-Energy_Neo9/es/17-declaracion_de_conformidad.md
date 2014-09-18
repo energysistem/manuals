@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Tablet Neo**
+**Energy Sistem#trade# Energy Tablet Neo 9**
 
 País de fabricación: China
 
