@@ -2,12 +2,12 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39903/5419b4d599ef4.jpg)
 
-1. **User: shows the opened user account
+1. **User**: shows the opened user account
 2. **Search:** direct access to tablet, windows store and applications search engine.
 3. **Desktop:** classic windows desktop mode
 4. **Email:** e-mail client
-5. **System: Access to storage units from device**
-6. **Settings**:
+5. **System**: Access to storage units from device
+6. **Settings**: configure your Windows#trade# system
 7. **Store:** Windows#trade# app store
 8. **Office:** Microsoft Word, Excel, Outlook...
 9. **OneDrive:** Cloud storage

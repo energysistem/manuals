@@ -13,7 +13,7 @@
 8. Ranura para microSD
 9. Salida de auriculares
 10. Conector microUSB
-11. Conector MicroHDMI
+11. Conector microHDMI
 12. Conector USB
 13. Conector DC
 14. Conector Keyboard

@@ -20,28 +20,28 @@ Tu Energy Tablet incluye el conjunto de ofimática Mircrosoft Office 365 que inc
 
 ### OneDrive
 
-OneDrive nos permite compartir documentos en la nube y descargarlos fácilmente desde cualquier otro dispositivo conectado a Internet. Podras acceder a todos tus documentos estés donde estés, y con tu Energy Tablet tendrás disponibles 1Tb de almacenamiento gratuito.
+OneDrive nos permite compartir documentos en la nube y descargarlos fácilmente desde cualquier otro dispositivo conectado a Internet. Podrás acceder a todos tus documentos estés donde estés, y con tu Energy Tablet tendrás disponibles 1Tb de almacenamiento gratuito.
 
 
-###Skype
+### Skype
 
-Skype te permite mantenerte en contacto desde tu casa, el trabajo o dondequiera que estés con todo el mundo. Además, esta plataforma se puede instalar en tu tablet, PC, smartphone, etc. Con tu Energy Tablet podras disfrutar de 60 minutos de llamadas gratuitas al més durante un año.
+Skype te permite mantenerte en contacto desde tu casa, el trabajo o dondequiera que estés con todo el mundo. Además, esta plataforma se puede instalar en tu tablet, PC, smartphone, etc. Con tu Energy Tablet podrás disfrutar de 60 minutos de llamadas gratuitas al mas durante un año.
 
 
 ### Reproducción de Audio y Vídeo
 
-Puedes utilizar el Reproductor de Windows Media  para reproducir música y vídeos. Soporta los formatos más extendidos tanto de audio como video y permite realizar multiples ajustes en los mismos.
+Puedes utilizar el Reproductor de Windows Media  para reproducir música y vídeos. Soporta los formatos más extendidos tanto de audio como video y permite realizar múltiples ajustes en los mismos.
 
 
 ### Galería: Fotos
 
-Puedes usar esta aplicación para ver las fotos que tengas tanto en tu Energy Tablet como en OneDrive. Además,si tiene fotos en tu teléfono, puedes importarlas mediante esta aplicación.
+Puedes usar esta aplicación para ver las fotos que tengas tanto en tu Energy Tablet como en OneDrive. Además, si tiene fotos en tu teléfono, puedes importarlas mediante esta aplicación.
 Para visualizar tus fotos, abre la aplicación Fotos que esta en la pantalla Inicio. Todas las fotos de tu carpeta Imágenes aparecen en esta aplicación.
 
 
 ### Cámara
 
-Tu Energy Tablet dispone de la aplicación Cámara preinstalada  y además puedes utilizar otras aplicaciones Cámara descargandotelas de la Tienda Windows.
+Tu Energy Tablet dispone de la aplicación Cámara preinstalada  y además puedes utilizar otras aplicaciones Cámara descargándolas de la Tienda Windows.
 Para hacer una foto o grabar un vídeo debes abrir la aplicación Cámara posteriormente pulsar el botón Foto o el botón Vídeo en pantalla.
 
 

@@ -12,8 +12,8 @@
 7. Touch panel
 8. microSD slot
 9. Headphone output
-10. MicroUSB connector
-11. MicroHDMI connector
+10. microUSB connector
+11. microHDMI connector
 12. USB connector
 13. DC connector
 14. Keyboard connector
