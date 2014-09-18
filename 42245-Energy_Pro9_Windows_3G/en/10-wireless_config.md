@@ -1,5 +1,7 @@
 ##Wireless conection
 
+COPIAR  INSTRUCCIONES WINDOWS
+
 ### Bluetooth Setup
 
 Your Energy Tablet has Bluetooth for connecting your device with headphones, computers, tablets, smartphones, etc. To pair the Bluetooth device follow the steps below. 
