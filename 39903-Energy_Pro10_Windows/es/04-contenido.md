@@ -1,4 +1,5 @@
 ## <quick_guide> Contenido del producto
+
 * Energy Tablet Pro 10 Windows.
 * Guía rápida.
 * Cable USB 2.0 High-Speed para conexión al PC.

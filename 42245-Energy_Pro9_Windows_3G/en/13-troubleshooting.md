@@ -1,4 +1,5 @@
 ## Troubleshooting
+
 1.	Why can't I play some MP3 files?
 The MP3 file must follow the "layer 3" standard for MPEG1, MPEG2 and MPEG 2.5 formats. Otherwise, it must be converted using a specific software.
 

@@ -7,7 +7,7 @@
 3. **Desktop:** classic windows desktop mode
 4. **Email:** e-mail client
 5. **System:** Access to storage units from device
-6. **Settings**
+6. **Settings**: Configure your Windows#trade# system
 7. **Store:** Windows#trade# app store
 8. **Office:** Microsoft Word, Excel, Outlook...
 9. **OneDrive:** Cloud storage

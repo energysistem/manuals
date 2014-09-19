@@ -13,9 +13,9 @@ http://static.energysistem.com/images/manuals/42245/54193b8ea304e.jpg)
 7. Touch panel
 8. microSD slot
 9. Headphone output
-10. MicroUSB connector
-11. MicroHDMI connector
-12. MicroSIM Slot
+10. microUSB connector
+11. microHDMI out
+12. microSIM Slot
 13. Keyboard Connector
 
 </quick_guide>

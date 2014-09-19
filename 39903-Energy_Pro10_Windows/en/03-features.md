@@ -1,6 +1,6 @@
 ## Key Features
 
-* 10.1" IPS screen 16:9 (1280x800 pixels).
+* 10.1" IPS screen (1280x800 pixels).
 * Capacitive multitouch screen.
 * Quad Core Intel Atom up to 1.83GHz processor.
 * 2GB RAM.
@@ -9,7 +9,7 @@
 * Bluetooth 4.0.
 * Built-in front camera 2 Mpx.
 * Built-in rear camera 5 Mpx.
-* microHDMI port.
+* microHDMI out.
 * USB-Host.
 * USB-OTG .
 * Built-in speakers 2x1w.
