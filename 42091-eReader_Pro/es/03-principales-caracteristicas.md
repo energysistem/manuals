@@ -1,7 +1,7 @@
 ## <quick_guide> Principales características
 - Lector de libros electrónicos con pantalla de tinta electrónica  6", 16 niveles de gris y alto contraste y 212ppp, resolución 758 x 1024 pixels.
 - Pantalla táctil con luz integrada y regulable para leer bajo cualquier condición de luminosidad.
-- Wi-Fi integrado de alta velocidad.
+- Conectividad Wi-Fi integrada de alta velocidad.
 - Procesador de doble núcleo ARM Cortex A9 1.0Ghz.
 - Disfruta de aplicaciones de navegación, correo, descarga de contenidos en la nube, etc.
 - Diseño ergonómico ideal para la sujeción durante horas de lectura.
@@ -14,6 +14,6 @@
 - Incluye 1500 libros de la literatura universal de regalo.
 
 
-*Cálculo basado en media hora de lectura diaria, con mínimo nivel de luz y el WiFi desactivado.
+*Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
 
 </quick_guide>
