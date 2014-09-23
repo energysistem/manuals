@@ -1,6 +1,6 @@
 ## Main Screen
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39789/542134a2e344d.jpg)
 
 1. **Search:** direct access to Google’s#trade# search engine
 2. **Back:** allow you to come back to the previous screen
