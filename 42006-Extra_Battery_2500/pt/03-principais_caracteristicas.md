@@ -8,10 +8,8 @@
 * Ultrafino com tamanho de bolso, só 60g e 7mm de espessura.
 * Bateria pré-carregada para utilização imediata.
 * Bateria recarregável de 3.6V / 2500 mAh.
-* Compatível com iOS*, Android, Windows mobile e Blackberry.
+* Compatível com Android, Windows mobile e Blackberry.
 * Entrada: Micro USB de 5V / 1000mA e recarrega através de porta USB estándar de 5V.
 * Saída: Micro USB 5V / max. 1000mA.
 
-
-*Conector Iphone/Ipad não fornecido.
 </quick_guide>
