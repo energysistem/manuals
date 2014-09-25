@@ -6,11 +6,11 @@
 una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
 2. Buscador: acceso directo al motor de búsqueda WEB de Google#trade#.
 3. Búsqueda por voz: Accede a la búsqueda por voz de Google#trade# y mucho más.
-4. Music: reproducción de archivos de sonido.
+4. Energy Music: reproducción de archivos de sonido.
 5. Play Store#trade#: Descargue las mejores y más famosas aplicaciones
 para tu sistema Android#trade#.
-6. Gallery: visualización de imágenes.
-7. Camera: acceso a la cámara de fotos integrada.
+6. Galería: visualización de imágenes.
+7. Cámara: acceso a la cámara de fotos integrada.
 8. Internet: navegador web.
 9. Email: correo electrónico.
 10. Acceso al menú de aplicaciones y widgets.
