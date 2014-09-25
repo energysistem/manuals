@@ -1,1 +1,4 @@
 # Sincronización Bluetooth
+
+sdfgsdgdf
+sdfgs
