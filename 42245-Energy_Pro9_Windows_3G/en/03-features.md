@@ -1,11 +1,11 @@
 ## Key Features
 
-* 8.9" IPS screen 16:9 (1920x1200 pixels).
+* 8.9" IPS screen (1920x1200 pixels).
 * Capacitive multitouch screen.
-* Quad Core Intel Baytrail 1.83GHz processor.
+* Quad Core Intel Baytrail up to 1.83GHz processor.
 * 2GB RAM.
 * 16GB eMMC internal memory expandable up to 64GB via microSD.
-* 3G connectivity.
+* 3G connectivity (GSM 850/900/1900/2100 & WCDMA 850/1900/2100)
 * Wi-Fi connection (802.11 b/g/n).
 * Bluetooth 4.0.
 * Built-in front camera 2 Mpx.

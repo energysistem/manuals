@@ -7,6 +7,6 @@ Seu Energy eReader Pro tem uma bateria de lítio recarregável. Inicialmente, a 
 
 **Ligar e desligar:**
 
-Para ligar o seu eReader, pressione o botão de ligar (1) durante alguns segundos. Para desligar o seu eReader, segure o botão de ligar (1) até que o menu desligar aparece e pressione a opção "desligar". Um toque no botão de ligar (1) bloqueia/desbloqueia o eReader. No bloqueio ou modo desligar, o dispositivo mostra uma imagem na tela.
+Para ligar o seu eReader, pressione o botão de ligar (1) durante alguns segundos. Para desligar o seu eReader, segure o botão de ligar (1) até que o menu desligar aparece e pressione a opção "OK". Um toque no botão de ligar (1) bloqueia/desbloqueia o eReader. No bloqueio ou modo desligar, o dispositivo mostra uma imagem na tela.
 
 </quick_guide>

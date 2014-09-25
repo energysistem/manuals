@@ -1,8 +1,8 @@
 ## Principales Características
 
-* Pantalla IPS 8.9" 16:9 (1920x1200 píxels).
+* Pantalla IPS 8.9" (1920x1200 píxels).
 * Pantalla capacitiva multi-táctil.
-* Procesador de cuatro núcleos Intel Atom Z3735F 1.83Ghz.
+* Procesador de cuatro núcleos Intel Atom Z3735F hasta 1.83Ghz.
 * 2GB DDR3 RAM.
 * 16GB eMMC de memoria interna ampliable mediante tarjetas microSD (hasta 64 GB).
 * 3G (GSM 850/900/1900/2100 & WCDMA 850/1900/2100)

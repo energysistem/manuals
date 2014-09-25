@@ -13,7 +13,7 @@
 8. microSD slot
 9. Headphone output
 10. microUSB connector
-11. microHDMI connector
+11. microHDMI out
 12. USB connector
 13. DC connector
 14. Keyboard connector

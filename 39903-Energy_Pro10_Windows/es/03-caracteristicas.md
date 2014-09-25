@@ -1,6 +1,6 @@
 ## Principales Características
 
-* Pantalla IPS 10.1" 16:9 (1280x800 píxels).
+* Pantalla IPS 10.1" (1280x800 píxels).
 * Pantalla capacitiva multi-táctil
 * Procesador de cuatro núcleos Intel Atom Z3735F hasta 1.83Ghz.
 * 2GB DDR3 RAM.

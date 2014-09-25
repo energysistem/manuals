@@ -7,7 +7,7 @@ Your Energy eReader Pro has a rechargeable lithium battery. Initially the batter
 
 **Switching On and Off:**
 
-To switch on your eReader, press the power button (1) during a few seconds. To turn off your eReader, hold the power button (1) until the power off menu appears, and press the option "turn off". One press of the power button (1) locks/unlocks the eReader. On the lock or switch off mode, the device shows a picture on the screen.
+To switch on your eReader, press the power button (1) during a few seconds. To turn off your eReader, hold the power button (1) until the power off menu appears, and press the option "OK". One press of the power button (1) locks/unlocks the eReader. On the lock or switch off mode, the device shows a picture on the screen.
 
 
 </quick_guide>

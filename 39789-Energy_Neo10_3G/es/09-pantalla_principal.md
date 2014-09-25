@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/539723eb3581f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39789/542134a2e344d.jpg)
 
 1. Buscador: acceso directo al motor de búsqueda WEB de Google#trade#
 2. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando

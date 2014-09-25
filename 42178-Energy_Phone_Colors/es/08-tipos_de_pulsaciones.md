@@ -1,4 +1,4 @@
-## Tipos de Pulsaciones
+## Tipos de pulsaciones
 
 ### Gestos elementales
 

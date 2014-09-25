@@ -1,23 +1,17 @@
-## Configuración inalámbrica
+### Configuración inalámbrica
 
+### Configuración Red 3G
 
-### Configuración Tarjeta SIM
-
-COPIAR  INSTRUCCIONES WINDOWS
-
-Tu Energy Tablet tiene la posibilidad de utilizar tarjetas SIM. En el apartado Ajustes >> Administración de la
-tarjeta SIM, podrás gestionar la tarjeta.
-
+Tu Energy Tablet dispone de conexión 3G. Para conectar tu dispositivo a una red de datos entra en el apartado de configuración inalámbrica y selecciona la red 3G del dispositivo.
 
 ### Bluetooth
 
 Tu Energy Tablet dispone de conexión Bluetooth. Para conectar tu dispositivo con auriculares, ordenadores, tablets, smartphones, etc. Para emparejar el dispositivo Bluetooth sigue los siguientes pasos.
+
 1. Activa el dispositivo en modo emparejamiento.
 2. Abre el acceso a Configuración, haz clic en Cambiar configuración de PC > PC y dispositivos > Bluetooth.
 3. Debes asegurarte de que el Bluetooth esté activado, y empezaran a aparecer los dispositivos Bluetooth disponibles dentro del alcance.
 4. Sigue las instrucciones en pantalla para finalizar el emparejamiento del dispositivo.
-
-
 
 ### Configuración Wi-Fi
 

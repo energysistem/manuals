@@ -1,4 +1,4 @@
-## Principales Características
+## Principales características
 
 - Smartphone libre con sistema ANDROID™ 4.4 Kit Kat optimizado.
 - 3 carcasas intercambiables de color incluidas.
@@ -24,6 +24,6 @@
 - Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / vídeos / fotos, radio FM, alarma y calculadora.
 - Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID™.
 - Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
-- Autonomía: hasta XXX horas en standby y XXX horas de conversación.
+- Autonomía: hasta 500 horas en standby y 10 horas de conversación.
 - Capacidad de batería: 1.450mAh.
 - Medición SAR: 0.205 (W/Kg) a la oreja y 0.382 (W/Kg) al cuerpo (a 10mm de distancia).

@@ -8,11 +8,8 @@
 -  Ultra-légère avec un design compact, seulement 60g et 7mm d'épaisseur.
 -  Batterie préchargée pour une utilisation instantanée.
 - Batterie lithium-ion portable et rechargeable de 3.6V / 2500mAh.
--  Compatible avec iOS*, Android, Windows Mobile et Blackberry.
+-  Compatible avec Android, Windows Mobile et Blackberry.
 - Entrée: Micro USB de 5V / 1000mA et chargement à travers des ports USB standard de 5V.
 - Sortie: Micro USB 5V / max. 1000mA.
 
-
-
-*Connecteur IPhone/Ipad non inclus.
 </quick_guide>

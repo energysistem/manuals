@@ -13,9 +13,7 @@ Follow these steps to install:
 3. Enter the "Support" section and choose the type of product "Tablet".
 
 4. Choose your Energy Tablet model from the dropdown list that appears and then download the latest Android#trade# operating system version available.
+
 **Important:**
 Make sure that the operating system version you are downloading is specific for your model and serial number, otherwise you could damage the device.
 
-5. Unzip the file on your computer.
-
-6. Open the text file included with the download and follow the instructions to install the new operating system on your Energy Tablet.

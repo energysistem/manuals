@@ -1,10 +1,5 @@
-## <quick_guide> Introducci贸n
+## <quick_guide> Introducci髇
 
-<<<<<<< HEAD
-=======
-Esto ya es un texto cambiado por mi para probar que funciona toda la sincronizaci贸n.
-
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Energy Sistem#trade# te agradece la compra de tu nuevo Energy Phone Neo. Deseamos que lo disfrutes.
 * Este dispositivo pertenece a la familia Energy Smartphone: una nueva generaci贸n de dispositivos de comunicaci贸n
 basada en el sistema operativo Android#trade#, con el que podr谩s acceder a Internet y comunicarte en cualquier

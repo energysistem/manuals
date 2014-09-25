@@ -2,10 +2,10 @@
 
 ### Internet Explorer
 
-Your new Energy Tablet has a powerful Web browser among the list of applications installed by default, with which you will be able to surf the Internet quickly and easily. Once the device is connected to a Wi-Fi or 3G network, press the browser icon located on the desktop or in the application menu to start the program. The system will load and display the home page set by default.
+Your new Energy Tablet has a powerful Internet Explorer 11 Web browser among the list of applications installed by default, with which you will be able to surf the Internet quickly and easily. Once the device is connected to a Wi-Fi or 3G network, press the browser icon located on the desktop or in the application menu to start the program. The system will load and display the home page set by default.
 
 
-### Email
+### Mail
 
 Your Energy Tablet has a management application installed by default email which allows you to work with your email account conveniently and effectively. In addition, with Microsoft Office 365 license, you also have Microsoft Outlook to feel an extended experience in working with your email.
 
@@ -41,6 +41,6 @@ To display your pictures, open the pictures application is in the home screen. A
 ### Camera
 
 Your Energy Tablet Camera has a preinstalled application and other applications can also be used Camera as well downloading them from the Windows Store.
-To take a picture or record a video, you need to open Camera and press the Photo button or Video button on the screen.
+To take a picture or record a video, you need to open Camera and press the Photo button or Video button on the screen. You can modify the settings of the camera to improve your photos and videos.
 
 
