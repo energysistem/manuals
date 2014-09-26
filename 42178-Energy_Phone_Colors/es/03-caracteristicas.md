@@ -5,7 +5,7 @@
 - Pantalla capacitiva TFT-LCD de 4.0" (WVGA - 800x480 pixeles).
 - Procesador de doble núcleo ARM Cortex A7 1.3GHz y GPU Mali-400.
 - Conexión 3G para disfrutar de Internet cuando quieras.
-- Conexión WI-FI (802.11 b/g/n): permite la más rapida conexión a Internet a través de un punto de acceso Wi-Fi.
+- Conexión Wi-Fi (802.11 b/g/n): permite la más rapida conexión a Internet a través de un punto de acceso Wi-Fi.
 - Función GPS: La navegación via satélite más precisa y fiable.
 - Conexión inalámbrica Bluetooth 4.0 para auriculares, altavoces y otros dispositivos Bluetooth.
 - Doble entrada de tarjeta SIM.
