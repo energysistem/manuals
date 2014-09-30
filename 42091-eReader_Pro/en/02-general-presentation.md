@@ -14,7 +14,7 @@
 
 7 -	Micro USB port
 
-8 - Nicro SD card input
+8 - Micro SD card input
 
 9 - Refresh button
 
