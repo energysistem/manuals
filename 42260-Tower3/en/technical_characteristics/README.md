@@ -6,8 +6,8 @@
 - Wireless Connectivity: Bluetooth® v4.0 + EDR.
 - RMS Power: 30 W.
 - Streaming audio wireless from Bluetooth®-connected devices.
-- Easy synchronization with Tablets, Smartphones, Laptops, MAC, PC or any other devices with Bluetooth®.
-- Distance of Bluetooth® system:  10 m.
+- Easy synchronization with tablets, smartphones, laptops, MAC, PC or any other devices with Bluetooth®.
+- Distance of Bluetooth® system:  10 metres.
 - Reading USB pendrives and SD / SDHC / MMC cards with capacity up to 64 GB.
 - FM Radio.
 - Connecting to audio devices by means of 3.5mm jack cable (included).
@@ -20,6 +20,7 @@
 - Preset EQs with manual setting option.
 
 ### Technical Specifications
+
 - 2.0 sound system with real power of 30W (10W + 5W * 2 * 2.)
 - Bluetooth V.4.0 + EDR (Enhanced Data Rate)
 - Protocols Bluetooth: A2DP; AVRCP.
