@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Energy Sistem® thanks you for buying your new *Energy Tower 3*, we wish you to enjoy it.
 

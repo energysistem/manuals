@@ -1,4 +1,4 @@
-# Bluetooth® function
+## Bluetooth® function
 
 When you start the *Energy Tower 3* you can see "bt" in the screen.
 After that moment you can paitr it with your Bluetooth® audio device (tablet, smartphone, PC, MAC, etc).

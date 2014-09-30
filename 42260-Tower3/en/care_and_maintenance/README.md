@@ -1,4 +1,4 @@
-# Care and maintenance
+## Care and maintenance
 
 * Do not expose your *Energy Tower 3* to impacts dust or even high temperatures.
 
