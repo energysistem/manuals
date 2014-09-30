@@ -16,5 +16,5 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/54219bfec0c74.jpg)
 
-<br>12. Ranura de tarjeta microSD HC/XC.<br>13. Ranura de tarjeta SIM 1.<br>14. Ranura de tarjeta SIM 2.<br>15. Batería.<br>16. Número de serie y números IMEI.
+<br>12. Ranura de tarjeta microSD.<br>13. Ranura de tarjeta SIM 1.<br>14. Ranura de tarjeta SIM 2.<br>15. Batería.<br>16. Número de serie y números IMEI.
 </quick_guide>

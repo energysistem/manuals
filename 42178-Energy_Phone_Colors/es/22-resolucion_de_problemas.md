@@ -13,7 +13,7 @@ Asegúrate que no estás codificando los WMA con DRM.
 Generalmente las aplicaciones sólo muestran los ficheros compatibles, que puedan ser reproducidos por el programa. Por tanto, mientras navegas por las carpetas desde una aplicación en concreto sólo podrás visualizar los archivos del tipo asociado a ese programa (canciones con el reproductor de música, películas con el reproductor de vídeo, etc...). Para ver todos los archivos en memoria a la vez, inicia la aplicación "Administración de archivos" desde el menú de aplicaciones.
 
 5.	¿Cuáles son los formatos de vídeo compatibles con mi Energy Phone?
-Tu Energy Phone puede reproducir múltiples formatos de video sin recodificar.
+Tu Energy Phone puede reproducir múltiples formatos de video sin recodificar, como por ejemplo MP4, 3GP, MOV entre otros.
 
 6.	¿Por qué no consigo visualizar mis archivos de imágenes .jpg?
 Muchas cámaras fotográficas digitales y programas de edición de imágenes añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu Energy Phone no cargue las imágenes. Prueba a eliminarlos y volviendo a grabar la imagen con otro nombre.
@@ -24,11 +24,8 @@ Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles 
 8.	La capacidad de memoria del Energy Phone Colors es de 4GB, pero la memoria disponible es inferior ¿Por qué?
 El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 1,5 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a 4GB.
 
-9.	He actualizado el firmware y ya no tengo ningún archivo multimedia ni fondo de pantalla ¿Cómo puedo recuperar los contenidos que venían preinstalados?
-Antes de cualquier actualización del sistema recomendamos hacer una copia de seguridad de todo lo que quieras conservar. En www.energysistem.com encontrarás no sólo todos los contenidos que venían preinstalados en tu Energy Phone sino muchos más archivos multimedia y fondos de pantalla adicionales.
-
-10.	¿Qué debo hacer para que me deje instalar una aplicación?
+9.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar).
 
-11.	¿Cuál es la autonomía del dispositivo?
+10.	¿Cuál es la autonomía del dispositivo?
 Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM y 3G. Aproximadamente la autonomía del Energy Phone Colors es de hasta hasta 500 horas en standby y 10 horas de conversación.

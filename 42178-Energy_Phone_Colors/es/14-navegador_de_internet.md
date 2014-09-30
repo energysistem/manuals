@@ -7,8 +7,6 @@ Una vez el dispositivo esté conectado a una red Wi-Fi o 3G, pulsa sobre el icon
 
 1. Recargar.
 2. Dirección WEB.
-2.1 Teclea.
-2.2 Pulsa Enter.
 3. Marcadores.
 4. Gestionar pestañas.
 5. Avanzar.
