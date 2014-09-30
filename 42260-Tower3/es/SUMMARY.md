@@ -12,6 +12,7 @@
 * [Reproducción desde tarjetas y USB](09-tarjetas_USB.md)
 * [Radio FM](10-radio.md)
 * [Line In](11-line.md)
+* [EQ Manual](eq_manual/README.md)
 * [Carga de Dispositivos](12-carga.md)
 * [Mando a distancia](13_mando_a_distancia/README.md)
 * [Condiciones de garantía](condiciones_de_garantia/README.md)

@@ -14,6 +14,7 @@
 * [FM Radio](fm_radio/README.md)
 * [Line in](line_in/README.md)
 * [MP3 function with external memories](mp3_function_with_external_memories/README.md)
+* [Manual EQ](manual_eq/README.md)
 * [Remote control](remote_control/README.md)
 * [Warranty](warranty/README.md)
 * [Warranty procedure](warranty_procedure/README.md)

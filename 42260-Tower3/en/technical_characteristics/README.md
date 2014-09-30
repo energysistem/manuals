@@ -6,7 +6,7 @@
 - Wireless Connectivity: Bluetooth® v4.0 + EDR.
 - RMS Power: 30 W.
 - Streaming audio wireless from Bluetooth®-connected devices.
-- Easy synchronization with tablets, Smartphones, Laptops, MAC, PC or any other devices with Bluetooth®.
+- Easy synchronization with Tablets, Smartphones, Laptops, MAC, PC or any other devices with Bluetooth®.
 - Distance of Bluetooth® system:  10 m.
 - Reading USB pendrives and SD / SDHC / MMC cards with capacity up to 64 GB.
 - FM Radio.
@@ -26,9 +26,9 @@
 - Plays MP3 files from SD / SDHC / MMC cards with capacity up to 64 GB.
 - USB memory decoder: plays MP3 files from USB memory drives with capacity up to 64 GB.
 - Playback Formats Audio (USB / SD): WAV and MP3.
-- Speakers: 4 "x 2 (core) + 1,5''x 2 (twitters).
+- Speakers: 4" x 2 (core) + 1,5" x 2 (twitters).
 - Frequency response: 20Hz-20KHz
-- Output current USB charging ports: 5V 2A
+- Output current USB charging ports: 5V, 2A.
 - LED Display.
 - Frequency range (FM): 87.5-108MHz
 - 3.5 mm line-in input.

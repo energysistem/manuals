@@ -4,6 +4,9 @@
 
 * Do not use corrosive or abrasive cleaning products.
 * Keep the device clean and without dust.
+
 * Do not disassemble the device. Any repair should be done by the qualified staff of Energy Sistem Soyntec S.A.
+
 * Keep your *Energy Tower 3* for form water or humidity, that one can be harmful for both speakers or for the amplifier.
+
 * Make sure that your *Energy Tower 3* is off while you are not using it.
