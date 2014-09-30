@@ -8,7 +8,7 @@
 - Shake the battery to monitor the battery level.
 - The battery keeps 95% charge up to 30 days.
 - Pre-charged battery for immediate use.
-- Portable and rechargeable lithium-ion battery 3.6V/10000mAh.
+- Portable and rechargeable lithium polymer battery 3.6V/10000mAh.
 - Auto Power Off in order to save battery power.
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
 - Output: USB 5V / 1000mA.

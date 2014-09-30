@@ -9,7 +9,7 @@
 - The battery keeps 95% charge up to 30 days.
 - Ultra-light with Slim design, just 124 g and 11mm of thickness.
 - Pre-charged battery for immediate use.
-- Portable and rechargeable lithium-ion battery 3.6V/5000mAh.
+- Portable and rechargeable lithium polymer battery 3.6V/5000mAh.
 - Auto Power Off in order to save battery power
 - Input: Micro USB 5V / 1000mA; charge through standard 5V USB Host.
 - Output: USB 5V / 1000mA.
