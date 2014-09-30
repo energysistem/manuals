@@ -4,3 +4,4 @@ Teniendo el *Energy Music Box BZ2 Bluetooth* sincronizado con tu móvil o smartp
 
 Para contestar una llamada únicamente tienes que pulsar el botón PLAY/PAUSE (2). En caso de estar escuchando alguna canción por el altavoz en el instante de recibir la llamada, ésta se detendrá en ese momento escuchándose el tono de llamada. Para finalizar la llamada pulsa nuevamente el botón PLAY/PAUSE (2), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
 
+
