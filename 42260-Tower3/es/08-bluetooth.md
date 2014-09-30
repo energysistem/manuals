@@ -1,4 +1,4 @@
-## Sincronización Bluetooth
+﻿## Sincronización Bluetooth® 
 
 Pulsando el botón X() selecciona el modo Bluetooth®, aparecerá en el display las letras "bt".
 En ese momento puedes realizar la sincronización con tu dispositivo Bluetooth®.
