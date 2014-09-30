@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Portada](00-portada.md)
 * [Introducción](01-intro.md)
 * [Cuidado y Mantenimiento](02-mantenimiento.md)
@@ -12,5 +13,8 @@
 * [Radio FM](10-radio.md)
 * [Line In](11-line.md)
 * [Carga de Dispositivos](12-carga.md)
-* [PRUEBA](07-prueba.md)
+* [Mando a distancia](13_mando_a_distancia/README.md)
+* [Condiciones de garantía](condiciones_de_garantia/README.md)
+* [Funcionamiento de la garantía](funcionamiento_de_la_garantia/README.md)
+* [Declaración de conformidad](declaracion_de_conformidad/README.md)
 
