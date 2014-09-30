@@ -6,6 +6,8 @@
 * [Cuidado y Mantenimiento](02-mantenimiento.md)
 * [Características](03-caracteristicas.md)
 * [Contenido del Producto](05-contenido.md)
+* [Parte superior](parte_superior/README.md)
+* [Parte posterior](parte_posterior/README.md)
 * [Presentación General](06-presentacion.md)
 * [Funciones Principales](07-funciones_principales.md)
 * [Sincronización Bluetooth](08-bluetooth.md)

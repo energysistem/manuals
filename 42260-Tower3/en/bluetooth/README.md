@@ -7,4 +7,4 @@ You can view the *Energy Tower 3* as "Energy Tower 3" in your Bluetooth® device
 
 When the pairing is done you can start to play your favourite songs without cables. If you want to change your paired Bluetooth® device, turn off the Bluetooth® function from your audio device. Then you can search and pair with other Bluetooth® audio device.
 
-
+The *Energy Tower 3* is provided with the Bluetooth profiles A2DP (Advanced Audio Distribution Profile) that lets you listen to stereo music and the AVRCP (Audio Video Remote Control Profile) by which you can control the music from the top panel or from Remote Control.
