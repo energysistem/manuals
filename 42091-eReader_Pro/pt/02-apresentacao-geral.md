@@ -1,17 +1,21 @@
 ## <quick_guide> Apresentação geral
 
-1- Botão de ligar
+1- Botão Voltar
 
-2- Botão Page Up e Page Down do painel lateral
+2- Avançar e retroceder página
 
-3- Botão Voltar
+3- Indicador de carga LED
 
-4- Botão Actualizar
+4- Botão de ligar
 
-5- Porta Micro USB
+5- Porta de áudio-jack
 
-6- Porta de áudio-jack
+6- Botão de Reset
 
-7- Entrada de cartão MicroSD
+7- Porta Micro USB
+
+8- Entrada de cartão MicroSD
+
+9- Botão Actualizar
 
 </quick_guide>
