@@ -1,6 +1,6 @@
 ## <quick_guide> Principais características
 
-- Leitor eBook com tela de 6", escala de cinzas com 16 níveis e alto contraste e 212 ppi, resolução 758 x 1024 pixels.
+- Leitor eBook com tela E-Ink de 6", escala de cinzas com 16 níveis e alto contraste. Resolução 758 x 1024 pixels e 212 ppi.
 - Tela táctil com luz integrada e ajustável para ler em qualquer condição de iluminação.
 - Wi-Fi integrado de alta velocidade.
 - Processador ARM dual-core Cortex A9 1.0Ghz.
