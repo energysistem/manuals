@@ -8,7 +8,7 @@
 4. Barra de progreso.
 5. Reproducción aleatoria.
 6. Canción posterior.
-7. Play / pause.
+7. Play / Pause.
 8. Canción anterior.
 9. Repetir.
 10. Tiempo reproducido.
