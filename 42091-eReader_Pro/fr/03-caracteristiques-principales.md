@@ -1,6 +1,6 @@
 ##<quick_guide> Caractéristiques principales
 
-- Lecteur de livres électroniques avec écran e-ink de 6", 16 niveaux de gris, un grand contraste et 212 ppp, résolution 758 x 1024 pixels.
+- Lecteur de livres électroniques avec écran E-Ink de 6", 16 niveaux de gris et un grand contraste. Résolution 758 x 1024 pixels et 212 ppp.
 - Écran tactile avec lumière intégrée et ajustable pour lire dans n'importe quelle condition de luminosité.
 - Wi-Fi intégré avec une vitesse maximale.
 - Processeur dual core ARM Cortex A9 1.0Ghz.
