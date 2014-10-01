@@ -1,4 +1,4 @@
-## Widgets
+### Widgets
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/542bc272e5522.jpg)
 
