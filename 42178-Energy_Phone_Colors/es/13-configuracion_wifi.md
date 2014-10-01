@@ -1,4 +1,4 @@
-### Configuración Wi-Fi
+## Configuración Wi-Fi
 
 Pulsa en Ajustes desde la PANTALLA PRINCIPAL.
 

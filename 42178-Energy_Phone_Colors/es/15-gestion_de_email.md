@@ -1,4 +1,4 @@
-### Gestión de Email
+## Gestión de Email
 
 **Nota:** Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
