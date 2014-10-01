@@ -1,4 +1,5 @@
 # Summary
+
 * [Cover](README.md)
 * [Introduction](01-Introduction.md)
 * [Care and maintenance](02-care.md)
@@ -14,7 +15,9 @@
 * [FM Radio](11-radio.md)
 * [Line in](12-linein.md)
 * [Manual EQ](13-manualeq.md)
+* [Charge](14-charge.md)
 * [Remote control](15-remote.md)
 * [Warranty](16-warranty.md)
 * [Warranty procedure](17-warrantyprocedure.md)
 * [Declaration of conformity](18-declaration.md)
+
