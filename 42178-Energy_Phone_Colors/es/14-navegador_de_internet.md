@@ -11,3 +11,6 @@ Una vez el dispositivo esté conectado a una red Wi-Fi o 3G, pulsa sobre el icon
 4. Gestionar pestañas.
 5. Avanzar.
 6. Retroceder.
+7.
+
+PRUEBAAAAA
