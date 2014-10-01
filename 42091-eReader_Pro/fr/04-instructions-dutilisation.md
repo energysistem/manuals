@@ -7,7 +7,7 @@ Votre Energy eReader Pro possède une batterie rechargeable de lithium. La batte
 
 **Allumer/Éteindre:**
 
-Pour allumer votre eReader, appuyez sur le bouton Power (1) durant quelques secondes. Pour l'éteindre, restez appuyer sur ce même bouton (1) jusqu’à ce qu'apparaisse le mode de veille, ensuite choisissez l'option "OK". Une brève pulsation sur le bouton Power bloque/débloque l'appareil. En mode blocage ou éteint, le dispositif montrera toujours une image sur son écran.
+Pour allumer votre eReader, appuyez sur le bouton Power (4) durant quelques secondes. Pour l'éteindre, restez appuyer sur ce même bouton (4) jusqu'à ce qu'apparaisse le mode de veille, ensuite choisissez l'option "OK". Une brève pulsation sur le bouton Power (4) bloque/débloque l'appareil. En mode blocage ou éteint, le dispositif montrera toujours une image sur son écran.
 
 
 </quick_guide>

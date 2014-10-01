@@ -18,6 +18,7 @@ Una vez el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono Nav
 9. Opciones
 
 
+
 ### Gestión de Email
 
 Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.

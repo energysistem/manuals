@@ -11,4 +11,4 @@ Le système inclut un écran multi-touch capacitif de 10.1" (1280x800 pixels), p
 et au maximum de tous ses avantages.
 
 
-## <unique> Consultez le manuel entier de votre *Energy Tablet Neo 7 * sur ce lien http://www.energysistem.com/guide/39789 </unique> </quick_guide>
+## <unique> Consultez le manuel entier de votre *Energy Tablet Neo 10 3G * sur ce lien http://www.energysistem.com/guide/39789 </unique> </quick_guide>

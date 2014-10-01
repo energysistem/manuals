@@ -7,7 +7,7 @@ Tu Energy eReader Pro lleva una batería recargable de litio. Inicialmente, la b
 
 **Encendido y apagado:**
 
-Para encender tu eReader, pulsa el botón encendido/apagado (1) durante unos segundos. Para apagar el dispositivo, mantenga pulsado el botón encendido/apagado (1) hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar". Una pulsación breve del botón encendido/apagado (1) bloquea/desbloquea el dispositivo. En el modo bloqueo o apagado, el dispositivo muestra una imagen en su pantalla.
+Para encender tu eReader, pulsa el botón encendido/apagado (4) durante unos segundos. Para apagar el dispositivo, mantenga pulsado el botón encendido/apagado (4) hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar". Una pulsación breve del botón encendido/apagado (4) bloquea/desbloquea el dispositivo. En el modo bloqueo o apagado, el dispositivo muestra una imagen en su pantalla.
 
 
 </quick_guide>

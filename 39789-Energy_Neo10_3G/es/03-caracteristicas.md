@@ -4,10 +4,10 @@
 * Pantalla capacitiva multi-táctil
 * Procesador quad core ARM Cortex A7 1.3GHz con GPU Mali-400 integrada.
 * 1GB DDR3 RAM.
-* 16GB eMMC de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
+* 16GB eMMC de memoria interna ampliable mediante tarjetas microSD (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
 * Bluetooth 4.0
-* 3G WCDMA(850&1900&2100MHz)
+* 3G (850,900,1900,2100) WCDMA(850,1900,2100MHz)
 * GPS
 * Cámara frontal 2 Mpx.
 * Cámara trasera  5 Mpx AF.

@@ -1,17 +1,21 @@
 ##<quick_guide> Présentation générale
 
-1 - Bouton Power ON/OFF
+1 - Bouton retour
 
-2 -	Boutons latéraux pour avancer et reculer de page
+2 -	Avancer et reculer de page
 
-3 -	Bouton retour
+3 -	Indicateur LED de chargement
 
-4 -	Bouton actualisation de page
+4 -	Bouton Power ON/OFF
 
-5 -	Port micro USB
+5 -	Port jack audio
 
-6 -	Port jack audio
+6 -	Bouton Reset
 
-7 -	Entrée carte micro SD
+7 -	Port micro USB
+
+8 - Entrée carte micro SD
+
+9 - Bouton actualisation de page
 
 </quick_guide>
