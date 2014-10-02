@@ -1,6 +1,6 @@
 ## Principales características
 
-- Smartphone libre con sistema ANDROID™ 4.4 Kit Kat optimizado.
+- Smartphone libre con sistema ANDROID#trade# 4.4 Kit Kat optimizado.
 - 3 carcasas intercambiables de color incluidas.
 - Pantalla capacitiva TFT-LCD de 4.0" (WVGA - 800x480 pixeles).
 - Procesador de doble núcleo ARM Cortex A7 1.3GHz y GPU Mali-400.
@@ -22,7 +22,7 @@
 - Pantalla con ajuste automático de brillo.
 - Sensor de proximidad.
 - Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / vídeos / fotos, radio FM, alarma y calculadora.
-- Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID™.
+- Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID#trade# .
 - Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
 - Autonomía: hasta 500 horas en standby y 10 horas de conversación.
 - Capacidad de batería: 1.450mAh.
