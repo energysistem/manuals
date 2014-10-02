@@ -14,5 +14,6 @@
 9. Headphone output
 10. microUSB connector
 11. microHDMI out
+12. Microphone
 
 </quick_guide>

@@ -14,5 +14,6 @@
 9. Salida de auriculares
 10. Conector microUSB
 11. Salida microHDMI
+12. Micrófono
 
 </quick_guide>
