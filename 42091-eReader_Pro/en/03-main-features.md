@@ -1,5 +1,5 @@
 ##<quick_guide> Main features
-- 6" E-Ink eBook reader, 16 levels greyscale, high contrast, 212 dpi and 758 × 1024 pixels.
+- 6" E-Ink eBook reader, 16 levels greyscale, high contrast and 758 × 1024 pixels / 212 dpi.
 - Touch screen with integrated and adjustable light to read under any lighting condition.
 - Maximum speed with built-in Wi-Fi.
 - ARM Cortex A9 1.0Ghz dual core processor.
