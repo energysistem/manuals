@@ -1,7 +1,6 @@
-### Reproducción de Música
+### Reproducción de música
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537087d20de5d.jpg)
-
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d10feb70e2.jpg)
 
 1. Lista de reproducción.
 2. Visualización.
@@ -9,7 +8,7 @@
 4. Barra de progreso.
 5. Reproducción aleatoria.
 6. Canción posterior.
-7. Play / pause.
+7. Play / Pause.
 8. Canción anterior.
 9. Repetir.
 10. Tiempo reproducido.

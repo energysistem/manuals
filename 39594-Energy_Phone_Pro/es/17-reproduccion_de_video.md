@@ -1,6 +1,6 @@
-### Reproducción de Vídeo
+### Reproducción de vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738c4393dc5.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d0d685c0a4.jpg )
 
 1. Volver al listado de vídeos.
 2. Compartir.
@@ -9,4 +9,4 @@
 5. Duración.
 6. Barra de progreso.
 7. Tiempo reproducido.
-8. Pantalla completa.
+

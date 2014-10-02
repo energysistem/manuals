@@ -9,7 +9,7 @@
 5. Cámara frontal.
 6. Cámara trasera.
 7. Flash frontal.
-8. Flash trasero.
+8. Doble flash trasero.
 9. Botón de volumen.
 10. Altavoz trasero.
 11. Botones táctiles de menú, inicio, volver.
@@ -17,7 +17,7 @@
 13. Micrófono inferior.
 14. Micrófono trasero.
 15. Ranura de tarjeta microSIM1.
-15. Ranura de tarjeta microSIM2.
-16. LED de notificaciones.
+16. Ranura de tarjeta microSIM2.
+17. LED de notificaciones.
 
 </quick_guide>
