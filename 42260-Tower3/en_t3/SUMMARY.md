@@ -14,7 +14,7 @@
 * [MP3 function with external memories](10-mpfuntion.md)
 * [FM Radio](11-radio.md)
 * [Line in](12-linein.md)
-* [Manual EQ](13-manualeq.md)
+* [Equalize sound](13-manualeq.md)
 * [Charge](14-charge.md)
 * [Remote control](15-remote.md)
 * [Warranty](16-warranty.md)
