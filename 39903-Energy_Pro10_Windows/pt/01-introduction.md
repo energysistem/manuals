@@ -1,9 +1,12 @@
-## <Quick_guide> Introdução
+## <quick_guide> Introdução 
 
-*Energy Sistem #trade# agradece-lhe por adquirir o seu novo Energy Tablet Pro 8 Windows. Desejamos que tire o maior proveito. Este teclado portátil possui a tecnologia Bluetooth para uma conexão sem fio eficiente para o seu Energy Tablet Neo 10. Tamanho confortável e um design ultra-slim para uma fácil potabilidade. Teclas planas confortáveis e silenciosas incluindo todas as funções multimédia. 
+* Energy Sistem #trade # lhe agradece a compra do seu novo Energy Tablet Pro 10 Windows. Esperamos que gostem! 
+* Este dispositivo pertenece a família Energy Tablet Pro: uma nova geração de dispositivos de comunicação com base no sistema operacional Windows#trade#, que você pode acessar a internet e se comunicar em qualquer tempo e lugar, verificar seu e-mail e reproduzir todos os tipos de conteúdos multimédia (vídeos em HD de até 1080p, música, fotos, livros, etc). 
+Além disso, existem milhares de aplicações e jogos para que você possa aproveitar ao máximo o dispositivo. 
+O sistema tem uma tela multi-táctil capacitiva IPS de 8" (800x1280 pixels), processador Intel Atom Z3735F quad core de até 1,83 GHz, Bluetooth 4.0, Wi-Fi, câmaras frontal e traseira e memória expansível via cartão microSD. 
+* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
-*Sugerimos que você leia este manual para obter o máximo de seu produto de forma segura e aproveitando seus benefícios. 
+
+## <unique> * Encontre o manual completo do *Energy Tablet Pro 8 Windows* no seguinte link http://www.energysistem.com/guide/39922 </unique> </quick_guide>
 
 
-
-## <unique> Encontre o manual completo do seu *Energy Bluetooth Keyboard Neo 10* no link a seguir http://www.energysistem.com/guide/42180 </ unique> </ quick_guide> 
