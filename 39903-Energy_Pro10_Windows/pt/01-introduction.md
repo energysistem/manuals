@@ -7,6 +7,6 @@ O sistema tem uma tela multi-táctil capacitiva IPS de 8" (800x1280 pixels), pro
 * Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
 
-## <unique> * Encontre o manual completo do *Energy Tablet Pro 8 Windows* no seguinte link http://www.energysistem.com/guide/39922 </unique> </quick_guide>
+## <unique> * Encontre o manual completo do *Energy Tablet Pro 10 Windows* no seguinte link http://www.energysistem.com/guide/39922 </unique> </quick_guide>
 
 
