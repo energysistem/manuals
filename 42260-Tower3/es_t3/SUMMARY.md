@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [Introduction](README.md)
 * [Portada](00-portada.md)
@@ -14,7 +14,7 @@
 * [Reproducción desde tarjetas y USB](10-tarjetas_USB.md)
 * [Radio FM](11-radio.md)
 * [Line In](12-line.md)
-* [EQ Manual](13-manualeq.md)
+* [Ecualización del sonido](13-manualeq.md)
 * [Carga de Dispositivos](14-carga.md)
 * [Mando a distancia](15-mando.md)
 * [Condiciones de garantía](16-garantia.md)

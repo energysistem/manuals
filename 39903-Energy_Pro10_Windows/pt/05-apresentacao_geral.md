@@ -1,16 +1,21 @@
 ## <quick_guide> Apresentação geral
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/53c63be1c021d.jpg)
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/53c63bee79c4b.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/5416ee36813ec.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/5416ee45742d9.jpg)
 
-1. Câmara traseira
-2. Câmara frontal
+1. Câmara traseira 
+2. Câmara frontal 
 3. Alto-falante
-4. Botão de ligado/desligado
-5. Botão de controle de volume
-6. Tela táctil
-7. Slot para microSD
-8. Saída de fones
-9. Conector microUSB
-10. Slot para SIM
+4. Botão ligar/desligar 
+5. Botão de controle de volume + 
+6. Botão de controle de volume - 
+7. Tela táctil 
+8. Slot microSD 
+9. Saída para fones
+10. Conector microUSB  
+11. Saída microHDMI 
+12. Conector USB
+13. Conector DC
+14. Conector Keyboard
+
 
 </quick_guide>
