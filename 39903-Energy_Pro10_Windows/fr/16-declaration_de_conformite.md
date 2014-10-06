@@ -7,7 +7,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# Energy Tablet Neo**
+**Energy Sistem#trade# Energy Tablet Pro 10 Windows**
 
 _**Pays de fabrication:**_ Chine  
 Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09 mars 1999.
