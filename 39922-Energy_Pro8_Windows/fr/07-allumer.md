@@ -7,3 +7,4 @@ Lors du premier démarrage, suivez les étapes que vous indique l'appareil pour 
 Pour éteindre l’appareil appuyez et maintenez le bouton allumage / éteinte (4) jusqu'à ce que l'écran de verrouillage s'affiche et faites glisser vers le bas. 
 
 </ quick_guide> 
+
