@@ -1,4 +1,4 @@
-## Key Features
+## Key features
 - Unlocked smartphone with ANDROID™ 4.4 Kit Kat O.S.
 - 3 interchangable color back casings.
 - Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
@@ -23,6 +23,6 @@
 - Installed apps: web browser, email manager, music- video- and photo player, FM radio, alarm and calculator.
 - Allows you to install thousands of app and games available for the Android™ operating system.
 - Operating frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
-- Battery life: up to XXX hours in stand-by and 4,5 hours of talk time.
+- Battery life: up to 500 hours in stand-by and 10 hours of talk time.
 - Battery capacity: 1.450mAh.
 - SAR rating: 0.205 (W/Kg) held at the ear and 0.382 (W/Kg) on the body (distance:10mm).

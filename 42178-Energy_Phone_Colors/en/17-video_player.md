@@ -1,4 +1,4 @@
-### Video Player
+### Video player
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
 
