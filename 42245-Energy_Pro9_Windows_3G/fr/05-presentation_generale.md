@@ -6,7 +6,7 @@
 1. Caméra arrière 
 2. Caméra avant 
 3. Haut-parleur
-4. Bouton marche / arrêt
+4. Bouton allumage / éteinte 
 5. Bouton de contrôle de volume +
 6. Bouton de contrôle de volume -
 7. Écran tactile
