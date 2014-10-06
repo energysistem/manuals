@@ -1,6 +1,6 @@
 ## <quick_guide> Conteúdo do produto
 
-* Energy Tablet Pro 8 Windows. 
+* Energy Tablet Pro 10 Windows. 
 * Guia rápida. 
 * Cabo USB 2.0 High-Speed para ligação ao PC. 
 * Cabo USB-HOST para ligação de dispositivos USB externos. 
