@@ -5,4 +5,4 @@
 *Nous vous conseillons de lire le présent manuel de l'utilisateur pour profiter du produit en toute sécurité et au maximum de tous ses avantages.
 
 
-## <unique> Trouvez le manuel complet de votre * Energy Tablet Pro 9 Windows 3G* sur le lien suivant http://www.energysistem.com/guide/42245 </ unique> </ quick_guide> 
+## <unique> Trouvez le manuel complet de votre * Energy Tablet Pro 9 Windows 3G* sur le lien suivant http://www.energysistem.com/guide/42245 </unique> </quick_guide> 
