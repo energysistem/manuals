@@ -1,5 +1,6 @@
 ## Key features
-- Unlocked smartphone with ANDROID™ 4.4 Kit Kat O.S.
+
+- Unlocked smartphone with ANDROID#trade# 4.4 Kit Kat O.S.
 - 3 interchangable color back casings.
 - Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
 - Dual Core processor ARM Cortex A7, 1.3 GHz and GPU Mali-400.
@@ -21,7 +22,7 @@
 - Display with auto brightness ajustment.
 - Proximity sensor.
 - Installed apps: web browser, email manager, music- video- and photo player, FM radio, alarm and calculator.
-- Allows you to install thousands of app and games available for the Android™ operating system.
+- Allows you to install thousands of app and games available for the Android#trade# operating system.
 - Operating frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
 - Battery life: up to 500 hours in stand-by and 10 hours of talk time.
 - Battery capacity: 1.450mAh.

@@ -7,10 +7,10 @@
 3. **Voice Search:** Access to Google's#trade# voice search and much more.
 4. **Energy Music:** Music player.
 5. **Play Store#trade#:** Download the best and most popular apps for your Android#trade# system.
-6.** Gallery:** Image gallery.
+6.**Gallery:** Image gallery.
 7. **Energy Cam:** Access to the built-in camera.
-8. ** Internet:** Web browser.
-9. ** Email:** E-mail client.
+8. **Internet: **Web browser.
+9. **Email: **E-mail client.
 10. Access to the application and widget menu.
-11. ** Contacts:** Contact management.
+11. **Contacts:** Contact management.
 12. Call.
