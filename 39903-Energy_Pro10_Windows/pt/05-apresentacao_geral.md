@@ -10,9 +10,12 @@
 6. Botão de controle de volume - 
 7. Tela táctil 
 8. Slot microSD 
-9. Saída para auscultadores  
+9. Saída para fones
 10. Conector microUSB  
 11. Saída microHDMI 
+12. Conector USB
+13. Conector DC
+14. Conector Keyboard
 
 
 </quick_guide>
