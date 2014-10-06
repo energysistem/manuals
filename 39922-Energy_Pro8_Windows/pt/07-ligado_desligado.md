@@ -8,3 +8,4 @@ Para desligar pressione e segure o botão ligar / desligar (4) até que a tela d
 
 
 </quick_guide> 
+
