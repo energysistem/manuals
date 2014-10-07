@@ -1,8 +1,14 @@
 ## <quick_guide> Déclaration de conformité
 
-_**Nom du Fournisseur:**_ Energy Sistem Soyntec S.A.
-_**Adresse:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Nom du Fournisseur:Energy Sistem Soyntec S.A. DATE: 01/10/2014
+
+Adresse: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
+
+Tel:902 388 388
+
+Fax:902 119 034
+
+NIF:A53107488
 
 
 Déclarons sous notre seule responsabilité que le produit:
@@ -10,6 +16,7 @@ Déclarons sous notre seule responsabilité que le produit:
 **Energy Sistem#trade# Energy Phone Pro**
 
 _**Pays de fabrication:**_ Chine
+
 Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09 mars 1999.
 
 **Avis:** Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d'autrui à Energy Sistem Soytenc, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem Soyntec S.A. ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude.

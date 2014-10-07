@@ -1,8 +1,8 @@
 ### Leitura de Música
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537087d20de5d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d10feb70e2.jpg)
 
-1. Lista de leitura. 
+1. Lista de leitura.
 2. Visualização.
 3. Duração.
 4. Barra de progresso.

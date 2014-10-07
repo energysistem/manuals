@@ -1,6 +1,6 @@
-## Main Gestures
+## Main gestures
 
-### Main gestures
+### Basic gestures
 
 
 * Tap

@@ -1,15 +1,16 @@
 ## Caméra
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738e5448727.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d11228abed.jpg)
 
-1. Sélection du mode.
-2. Paramètres flash.
-3. Changer caméra.
-4. Option HDR
-5. Déclencheur.
-6. Mode vidéo.
-7. Détection de sourire.
-8. Paramètres.
-9. Zoom +.
-10. Zoom -.
-11. Dernière capture
+1. Zoom
+2. Mode prise de veu
+3. Mode Beauté
+4. HDR
+5. Effets
+6. Paramètres
+7. Flash
+8. Caméra exchange
+9. Accès a la galerie
+10. Mode capture
+11. Déclencheur
+12. Mode vidéo
