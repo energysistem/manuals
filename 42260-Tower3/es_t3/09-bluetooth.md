@@ -1,6 +1,6 @@
 ## Sincronización Bluetooth®
 
-Pulsando el botón X() selecciona el modo Bluetooth®, aparecerá en el display las letras "bt".
+Pulsando el botón X(-) selecciona el modo Bluetooth®, aparecerá en el display las letras "bt".
 En ese momento puedes realizar la sincronización con tu dispositivo Bluetooth®.
 
 Cuando tengas visualizado en tu dispositivo Bluetooth® el nombre de "Energy Tower 3" solamente selecciona conectar y tras esperar unos segundos la conexión está finalizada.

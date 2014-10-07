@@ -1,6 +1,7 @@
-## MicroSD-HC/XC & USB
-Your Energy Phone has a slot for MicroSD card memories to expand your device's memory. Turn off your device before inserting / extracting the card to avoid accidental data loss. 
+## MicroSD & USB
 
-Your Energy Phone has also a USB port so you can transfer files from/to your PC. You only need to connect the cable included with the product to establish the connection and manage the transfer of your music, videos and photos. 
+Your Energy Phone has a slot for MicroSD card memories to expand your device's memory. To use it, turn off your device before inserting / extracting the card to avoid accidental data loss. Supports High Capacity (microSD-HC) and Extended Capacity (microSD-XC) formats.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53709926100aa.jpg)
+Your Energy Phone has also a USB port so you can transfer files from/to your PC. You only need to connect the cable included with the product to establish the connection and manage the transfer of your files.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/54242f056c428.jpg)

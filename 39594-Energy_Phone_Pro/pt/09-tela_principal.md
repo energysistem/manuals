@@ -1,6 +1,6 @@
 ## Tela Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53707eb01dbf1.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d112e7cca1.jpg)
 
 1. Barra de estado: mostra informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo nesta zona,
 se desdobra uma versão do menu de configuração básica que administra as notificações e o menu de configuração.

@@ -1,6 +1,6 @@
 ### Reproducción de vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/5370875333d62.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/5424302d7520b.jpg)
 
 1. Volver al listado de vídeos.
 2. Compartir.

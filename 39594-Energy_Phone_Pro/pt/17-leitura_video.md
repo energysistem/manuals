@@ -1,6 +1,6 @@
 ### Leitura de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738c4393dc5.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d0d685c0a4.jpg)
 
 1. Voltar para a lista de vídeos.
 2. Compartilhar.
@@ -9,4 +9,4 @@
 5. Duração.
 6. Barra de progresso.
 7. Tempo reproduzido.
-8. Ecrã inteiro.
+

@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+<<<<<<< HEAD
 * [Introduction](introduction/README.md)
 * [Care and maintenance](care_and_maintenance/README.md)
 * [Technical characteristics](technical_characteristics/README.md)
@@ -19,4 +20,25 @@
 * [Warranty](warranty/README.md)
 * [Warranty procedure](warranty_procedure/README.md)
 * [Declaration of conformity](declaration_of_conformity/README.md)
+=======
+* [Introduction](01-Introduction.md)
+* [Care and maintenance](02-care.md)
+* [Technical characteristics](03-technical.md)
+* [Product Content](04-content.md)
+* [Top view](05-topview.md)
+* [Back view](06-backview.md)
+* [Presentation](07-presentation.md)
+* [Stand by mode](08-standby.md)
+* [Display](08b-display.md)
+* [Bluetooth](09-BT.md)
+* [MP3 function with external memories](10-mpfuntion.md)
+* [FM Radio](11-radio.md)
+* [Line in](12-linein.md)
+* [Manual EQ](13-manualeq.md)
+* [Charge](14-charge.md)
+* [Remote control](15-remote.md)
+* [Warranty](16-warranty.md)
+* [Warranty procedure](17-warrantyprocedure.md)
+* [Declaration of conformity](18-declaration.md)
+>>>>>>> 99413336d685d13da6cf5aac3730d65336565e86
 

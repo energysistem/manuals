@@ -1,15 +1,16 @@
 ## Câmera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738e5448727.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39594/542d11228abed.jpg)
 
-1. Seleção de modo.
-2. Ajustes de flash.
-3. Mudar de câmera.
-4. Opção HDR.
-5. Disparador.
-6. Modo vídeo.
-7. Detecção de sorriso.
-8. Ajustes.
-9. Zoom +.
-10. Zoom -.
-11. Última captura.
+1. Zoom
+2. Modo de disparo
+3. Modo Beleza
+4. HDR
+5. Efeitos
+6. Configuraçöes
+7. Flash
+8. Mudar câmera
+9. Acesso à galeria
+10. Modo de captura
+11. Botão do obturador
+12. Modo de vídeo.

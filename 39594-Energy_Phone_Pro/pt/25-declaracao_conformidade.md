@@ -1,8 +1,14 @@
 ## <quick_guide> Declaração de conformidade
 
-_**Nome do fabricante:**_ Energy Sistem Soyntec S.A.
-_**Endereço:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Nome do fabricante: Energy Sistem Soyntec S.A. DATA:01/10/2014
+
+Endereço:Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
+
+Tel:902 388 388
+
+Fax:902 119 034
+
+NIF:A53107488
 
 Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
