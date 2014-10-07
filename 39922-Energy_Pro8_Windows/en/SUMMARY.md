@@ -17,3 +17,4 @@
 * [Condiciones de la garantia](14-warranty.md)
 * [Funcionamiento de la garantia](15-warranty_procedure.md)
 * [Declaracion de conformidad](16-declaration_of_conformity.md)
+
