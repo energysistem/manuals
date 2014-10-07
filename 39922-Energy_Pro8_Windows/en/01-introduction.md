@@ -1,4 +1,4 @@
-# <quick_guide> Introduction
+## <quick_guide> Introduction
 
 * Energy Sistem#trade# thanks you for buying your new Energy Pro 8 Windows. We hope you enjoy it!.
 * This device belongs to the Energy Tablet Pro family:  a new generation of communication devices based on Windows#trade# operating system, with which you can access the Internet and communicate anytime, anywhere, check your e-mails and play any multimedia content (high definition 1080p video, music, photos, eBooks, etc.).
