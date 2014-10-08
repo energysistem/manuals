@@ -1,4 +1,4 @@
-## <quick_guide> Vue principale
+## <quick_guide> Présentation générale
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg)
 
@@ -6,8 +6,8 @@
 2. Sortie pour les écouteurs.
 3. Haut-parleur frontal.
 4. Entrée USB.
-5. Caméra frontale.
-6. Caméra de recul.
+5. Appareil photo frontale.
+6. Appareil photo arrière.
 7. Touche de volume.
 8. Haut-parleur arrière.
 9. Touches tactiles Menu, Démarrage, Retour.
