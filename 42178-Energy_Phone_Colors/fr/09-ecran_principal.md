@@ -9,9 +9,9 @@ nouvelle version apparaîtra dans le menu de configuration basique qui gère les
 4. Musique: lecture de fichiers de son.
 5. Play Store#trade#: Téléchargez les meilleures et les plus connues applications pour votre système Android#trade#.
 6. Gallery: visualisation d'images.
-7. Camera: accès a la camera de photos intégrée.
+7. Appareil photo: accès a l'appareil photo intégré.
 8. Internet: navigateur web.
-9. Email: courrier électronique.
+9. Email: messagerie électronique.
 10. Accès au menu d'applications et widgets.
 11. Contacts: administration de contacts.
 12. Appel.
