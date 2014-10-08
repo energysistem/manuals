@@ -6,4 +6,6 @@ Durante el primer arranque, sigue los pasos que te índica el dispositivo para c
 
 Para apagar el dispositivo mantén pulsado el botón de encendido / apagado (4) hasta que aparezca la pantalla de bloqueo y arrastrala hacia abajo.
 
+Pulsando brevemente el botón de encendido/apagado (4) se bloquea/desbloquea el dispositivo, apagando la pantalla y activando el modo ahorro de energía.
+
 </quick_guide>
