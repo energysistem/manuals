@@ -2,7 +2,7 @@
 
 * Smartphone optimisé pour ANDROID#trade# 4.4.
 * 3 coques colorées interchangeables
-* Écran capacitif TFT-LCD de 4.0" (WVGA - 800x480p).
+* Écran capacitif TFT-LCD de 4.0" (WVGA - 800x480 pixel).
 * Processeur Dual Core ARM Cortex A7 1.3GHz et GPU Mali-400.
 * Connexion 3G pour profiter de l'Internet quand vous voulez.
 * Connexion WI-FI (802.11 b/g/n): permet une connexion à Internet plus rapide à travers d'un point d'accès Wi-Fi.

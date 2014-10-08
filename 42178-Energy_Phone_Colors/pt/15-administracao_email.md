@@ -6,8 +6,8 @@ Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, co
 
 
 1. Pasta seleccionada.
-2. E-mails.
-3. Novo email.
-4. Procurar.
+2. Novo email.
+3. Buscador.
+4. E-mail
 5. Pastas.
-6. Recarregar.
+

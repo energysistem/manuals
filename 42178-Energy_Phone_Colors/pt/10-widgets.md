@@ -9,5 +9,4 @@ Os Widgets podem recolocar-se em outras zonas do mesmo desktop ou ser apagados f
 
 Para eliminar o Widget, mantenha-o seleccionado durante uns segundos sem soltá-lo Verá aparecer na tela o ícone X, arraste o widget até o ícone e solte-o. 
 
-Para adicionar, mover ou apagar aplicações só tem que escolher a aplicação no menu "aplicações e widgets" (1) e seguir os mesmos passos.
 
