@@ -6,4 +6,6 @@ Recharge the battery connecting the device to the AC/DC 5V included with the pro
 You have several ways to improve the performance and optimize the battery use of your Energy Tablet:
 Set your tablet to automatically turn off the display after a few seconds of inactivity and select an ideal display brightness to enlarge the battery life.
 
+To use your phone card insert it on the SIM slot into the correct position
+
 </quick_guide>
