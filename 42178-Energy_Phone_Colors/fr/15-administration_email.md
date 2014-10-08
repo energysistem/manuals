@@ -5,9 +5,9 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
 
 1. Dossier choisi.
-2. E-mails.
-3. Nouveau courrier électronique.
-4. Chercher.
+2. Nouveau courrier électronique.
+3. Chercher.
+4. E-mails.
 5. Dossiers.
-6. Charger.
+
 
