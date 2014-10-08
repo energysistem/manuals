@@ -2,9 +2,10 @@
 
 ### Main Features
 
-- 2.0 sound system tower.
+- 2.1 sound system tower.
+- Touch control.
 - Wireless Connectivity: Bluetooth® v4.0 + EDR.
-- RMS Power: 30 W.
+- RMS Power: 60 W.
 - Streaming audio wireless from Bluetooth®-connected devices.
 - Easy synchronization with tablets, smartphones, laptops, MAC, PC or any other devices with Bluetooth®.
 - Distance of Bluetooth® system:  10 metres.
@@ -21,13 +22,13 @@
 
 ### Technical Specifications
 
-- 2.0 sound system with real power of 30W (10W + 5W * 2 * 2.)
+- 2.1 sound system with real power of 60W (30W + 5W * 2 + 10 * 2.)
 - Bluetooth V.4.0 + EDR (Enhanced Data Rate)
 - Protocols Bluetooth: A2DP; AVRCP.
-- Plays MP3 files from SD / SDHC / MMC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3 files from USB memory drives with capacity up to 64 GB.
+- Plays MP3 files from SD / SDHC / MMC cards with capacity up to 64 GB.
+- USB memory decoder: plays MP3 files from USB memory drives with capacity up to 32 GB.
 - Playback Formats Audio (USB / SD): WAV and MP3.
-- Speakers: 4" x 2 (core) + 1,5" x 2 (twitters).
+- Speakers: 4" x 2 (core) + 1,5" x 2 (twitters) + 4" x 1 (subwoofer).
 - Frequency response: 20Hz-20KHz
 - Output current USB charging ports: 5V, 2A.
 - LED Display.

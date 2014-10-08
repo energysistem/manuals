@@ -1,6 +1,6 @@
 ## Mando a distancia
 
-Mediante el mando a distancia puedes controlar todas las posibilidades que ofrece el *Energy Tower 3*.
+Mediante el mando a distancia puedes controlar todas las posibilidades que ofrece el *Energy Tower 5*.
 
 * Apagado y encendido del equipo.
 
@@ -8,9 +8,9 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Función "Mute" para silenciar todos los modos.
 
-* Control de Volumen, Play/Pause, Avance y Retroceso de pistas/sintonías FM.
+* Control de Volumen, Play/Pause, Avance y Retroceso de pistas/sintonías FM (todos los modos).
 
-* Ecualización (EQ predefinida) para los modos USB y SD.
+* Ecualización (EQ) para los modos USB y SD.
 
 * Navegación por carpetas (Botón X) para los modos USB y SD.
 
