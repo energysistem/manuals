@@ -18,4 +18,4 @@
 13. Connecteur DC
 14. Connecteur Keyboard
 
-</ quick_guide> 
+</quick_guide> 
