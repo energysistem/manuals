@@ -30,4 +30,4 @@
 * Capacidad de batería: 2.300mAh.
 * Medición SAR: 0.401 (W/Kg) en cabeza y 0.679 (W/Kg) en cuerpo (a 10mm de distancia).
 
-* Base de carga inalámbrica y adaptador MHL no incluidos.
+** Base de carga inalámbrica y adaptador MHL no incluidos.

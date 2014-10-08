@@ -2,11 +2,11 @@
 
 Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3b929ea7f.jpg)
 
 1. Carpeta seleccionada.
-2. E-mails.
-3. Nuevo correo.
-4. Buscar.
+2. Nuevo correo.
+3. Buscador.
+4. Correos.
 5. Carpetas.
-6. Recargar.
+

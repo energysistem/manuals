@@ -15,7 +15,7 @@
 * [Configuracion bluetooth](12-configuracion_bluetooth.md)
 * [Configuracion wifi](13-configuracion_wifi.md)
 * [Navegador de internet](14-navegador_de_internet.md)
-* [Gestión de email](15-gestion_de_email.md)
+* [GestiÃ³n de email](15-gestion_de_email.md)
 * [Reproduccion de musica](16-reproduccion_de_musica.md)
 * [Reproduccion de video](17-reproduccion_de_video.md)
 * [Camara](18-camara.md)
@@ -26,3 +26,4 @@
 * [Condiciones de la garantia](23-condiciones_de_la_garantia.md)
 * [Funcionamiento de la garantia](24-funcionamiento_de_la_garantia.md)
 * [Declaracion de conformidad](25-declaracion_de_conformidad.md)
+

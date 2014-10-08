@@ -1,18 +1,16 @@
 ## Pantalla Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53707eb01dbf1.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bd27c699.jpg)
 
-1. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo en esta zona se despliega
-una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
-2. Buscador: acceso directo al motor de búsqueda WEB de Google#trade#.
-3. Búsqueda por voz: Accede a la búsqueda por voz de Google#trade# y mucho más.
-4. Energy Music: reproducción de archivos de sonido.
-5. Play Store#trade#: Descargue las mejores y más famosas aplicaciones
-para tu sistema Android#trade#.
-6. Galería: visualización de imágenes.
-7. Cámara: acceso a la cámara de fotos integrada.
-8. Internet: navegador web.
-9. Email: correo electrónico.
+1. **Barra de estado:** Muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo en esta zona se despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
+2. **Buscador:** Acceso directo al motor de búsqueda WEB de Google#trade#.
+3. **Búsqueda por voz:** Accede a la búsqueda por voz de Google#trade# y mucho más.
+4. **Energy Music:** Reproducción de archivos de sonido.
+5. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
+6. **Galería:** Visualización de imágenes.
+7. **Energy Cam:** Acceso a la cámara de fotos integrada.
+8. **Internet:** Navegador web.
+9. **Email:** Correo electrónico.
 10. Acceso al menú de aplicaciones y widgets.
-11. Contactos: gestión de contactos.
+11. **Contactos:** Gestión de contactos.
 12. Llamada.
