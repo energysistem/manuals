@@ -13,7 +13,7 @@ Assegure-se que não estás codificando os WMA com DRM.
 Geralmente, as aplicações só mostram os arquivos compatíveis que possam ser lidos pelo programa. Por tanto, enquanto navegue pelas pastas desde uma aplicação em concreto, só poderá visualizar os tipos de arquivos associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...). Para poder ver todos os arquivos salvos na memória, inicie a aplicação FileXplorer desde o menu de aplicações.
 
 5.	Quais são os formatos de vídeo compatíveis com meu Energy Phone? 
-O seu Energy Phone pode ler múltiplos formatos de vídeo sem recodificar.
+O seu Energy Phone pode ler múltiplos formatos de vídeo sem recodificar, tais como MP4, 3GP, MOV e mais.
 
 6.	Por que não consigo visualizar os meus arquivos de imagens.jpg? 
 Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos arquivos.jpg. Estes dados podem fazer com que o seu Energy Phone não carregue as imagens. Tente eliminar o arquivo, renomeá-lo e voltar a salvá-lo na memória do dispositivo.
@@ -23,12 +23,9 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 8.	A capacidade de memória do Energy Phone Colors é 4GB, mas a memória disponível é inferior. Por quê?
 O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 1,5 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 4GB.
 
-9.	Actualizei o sistema operacional, mas perdi os arquivos multimédia e fundos de tela salvos. Como posso recuperar os conteúdos pré-instalados? 
-Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados no seu Energy Phone e muito mais arquivos multimédia e fundos de tela adicionais.
-
 10.	Que devo fazer para que me deixe instalar uma aplicação? 
 Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
 11.	Qual é a autonomia do dispositivo? 
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone é de até 120 horas de navegação em standby e 10 horas e 50 minutos de conversação.
+Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone é de até 500 horas de navegação em standby e 10 horas e 50 minutos de conversação.
