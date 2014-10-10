@@ -7,7 +7,7 @@ Te recomendamos que cuando no vayas a utilizar la torre durante un periodo más 
 ## Display
 
 El *Energy Tower 5* está dotado de un display retroiluminado oculto (Hidden Display) en la parte frontal superior.
-Cuando se enciende el dispositivo puedes ver cómo se ilumina el logo Energy Sistem TM en la panel superior. Además, se ilumina también dicho display que indica el modo en el que se encuentra el *Energy Tower 5*.
+Cuando se enciende el dispositivo puedes ver cómo se ilumina el logo Energy Sistem en la panel superior. Además, se ilumina también dicho display que indica el modo en el que se encuentra el *Energy Tower 5*.
 
 ## Panel táctil
 
