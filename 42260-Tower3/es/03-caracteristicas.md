@@ -11,7 +11,7 @@
 - Salidas USB para cargar dispositivos externos.Corriente de salida: 5V, 2A.
 - Display LED retroiluminado.
 - Soporte para tablets y smartphones en la parte superior.
-- Panel superior con 7 botones para un uso más intuitivo de todas las funciones.
+- Panel superior con 8 botones para un uso más intuitivo de todas las funciones.
 - Mando a distancia con control total de funciones.
 - Ecualizaciones predefinidas con opción de ajuste manual.
 - Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
