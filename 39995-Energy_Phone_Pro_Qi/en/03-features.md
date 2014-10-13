@@ -1,7 +1,8 @@
 ## Key Features
+* Smartphone with optimized ANDROID#trade# 4.4. O.S.
 * 5.0" IPS OGS capacitive touch display (Full HD - 1920x1080p).
 * Octa-core ARM Cortex A7 1.7GHz processor and Mali-450 GPU.
-* Front frame and structure in aluminum. 
+* Front frame and structure in aluminum.
 * 3G connection to surf the Internet wherever and whenever you want to.
 * WI-FI connection (802.11 b/g/n): the fastest Internet connection through a Wi-Fi access point.
 * GPS function: the most precise and reliable satellite navigation.
@@ -21,7 +22,6 @@
 * Display with auto brightness.
 * Proximity sensor.
 * Notifications LED.
-* Smartphone with optimized ANDROID#trade# 4.2. O.S. (Android 4.4 available soon via OTA update).
 * Installed applications: web browser, email manager, applications to play music / videos / photos, FM radio, alarm and calculator.
 * Allows you to install thousands of applications and games available for the ANDROID#trade# operating system.
 * Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
@@ -29,4 +29,4 @@
 * Battery capacity: 2.300mAh.
 * SAR rating: 0.401 (W/Kg) at the head and 0.679 (W/Kg) at the body (10mm distance).
 
-* Wireless charge pad and MHL adapter not included.
+** Wireless charge pad and MHL adapter not included.

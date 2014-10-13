@@ -1,5 +1,6 @@
 ## Caractéristiques principales
 
+* Smartphone avec système ANDROID™ 4.4 optimisée.
 * Écran tactile capacitif OGS de 5.0" IPS (Full HD - 1920x1080p).
 * Processeur octo-coeur ARM Cortex A7 1.7GHz et GPU Mali-450.
 * Cadre frontal et structure d'aluminium.
@@ -22,7 +23,6 @@
 * Écran avec réglage automatique de luminosité.
 * Capteur de proximité.
 * LED de notifications.
-* Smartphone avec système ANDROID#trade# 4.2 optimisée (Android 4.4 disponible très bientot via OTA).
 * Applications installées: navigateur d'Internet, gestionnaire de courrier électronique, applications pour jouer de la musique / des vidéos / des photos, radio FM, alarme et calculatrice.
 * Permet l'installation des milliers d'applications et des jeux disponibles pour le système d'exploitation ANDROID#trade#.
 * Fréquence d'opération: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
