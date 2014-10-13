@@ -1,7 +1,7 @@
 ## Key features
 
 - Unlocked smartphone with ANDROID#trade# 4.4 Kit Kat O.S.
-- 3 interchangable color back casings.
+- 3 interchangeable color back casings.
 - Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
 - Dual Core processor ARM Cortex A7, 1.3 GHz and GPU Mali-400.
 - 3G connection to surf the web 24 hours a day.
@@ -26,4 +26,4 @@
 - Operating frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
 - Battery life: up to 500 hours in stand-by and 10 hours of talk time.
 - Battery capacity: 1.450mAh.
-- SAR rating: 0.205 (W/Kg) held at the ear and 0.382 (W/Kg) on the body (distance:10mm).
+- SAR rating: 0.205 (W/Kg) in the head and 0.382 (W/Kg) in the body (distance:10mm).

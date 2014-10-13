@@ -3,8 +3,8 @@
 1.	Why can't I play some MP3 files?
 The MP3 file must follow the "layer 3" standard for MPEG1, MPEG2 and MPEG 2.5 formats. Otherwise, it must be converted using a specific software.
 
-2.	My Energy Phone does not turn on, what can I do?
-Make sure that the battery is charged enough to power the device. If after leaving the device charging for at least 30 minutes the problem continues, there may be a problem with the installed operating system. Please, refer to the "Updating" section of this manual.
+2.	My Energy Phone does not turn on - what can I do?
+Make sure that the battery is charged enough to power the device. If problem continues after leaving the device charging for at least 30 minutes, there may be a problem with the installed operating system. Please, refer to the "Updating" section of this manual.
 
 3.	Why can't I play some WMA files?
 Make sure you are not trying to play WMA file with DRM.
@@ -25,7 +25,7 @@ It is always better to reboot the device through one of the options available wi
 The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than 4GB.
 
 9.	What must I do to install an application?
-First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
+First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the app installation from "Unknown sources"(this option is disabled for safety). To authorize the installation of apps, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
 
 10.	How long does the battery last?
-It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The Energy Phone Colors battery lasts up to 50 hours on standby and 10 hours minutes talking.
+It depends largely on the use, the screen brightness, the use of headphones or speakers, the Wi-Fi connection and the use of GSM and 3G networks. The Energy Phone Colors battery lasts up to 50 hours on standby and 10 hours talking.
