@@ -4,7 +4,7 @@
 - Long-range wireless: up to 10m.
 - 12 hot keys for rapid access to multimedia player, internet, email, etc.
 - 82 Low-profile scissor keys: flat, comfortable and whisper-quiet keystroke.
-- Ultrathin design to carry it wherever you go (only 7mm and 280 g).
+- Ultrathin design to carry it wherever you go (only 7mm and 280g).
 - Anti-slip rubber pads.
 - Ergonomic and comfortable.
 - Works with internal battery (80 mAh)
