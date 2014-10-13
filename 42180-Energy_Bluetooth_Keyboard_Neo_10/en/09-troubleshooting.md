@@ -1,7 +1,7 @@
 ## Troubleshooting
 * Is my new Energy luetooth Keyboard designed to be compatible with all of the devices?
 
-Yes, it is. The only requirement is that the device should be Bluetooth ready. Otherwise, it is necessary to acquire a Bluetooth receiver which is sold separately.
+Yes, it is. The only requirement is that the device should be Bluetooth ready. Otherwise, it is necessary to acquire a Bluetooth receiver which is sold separately.The adjust only is perfect with the Energy Tablet Neo 10.
 
 * The keyboard and my device have been paired rightly, but the symbols printed on the keyboard don’t match with the ones shown on the device.
 
