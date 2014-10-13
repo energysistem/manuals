@@ -1,6 +1,6 @@
 ## Câmara
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
+![Imagen1]()
 
 1. Modo panorâmico.
 2. Configurações  de flash.

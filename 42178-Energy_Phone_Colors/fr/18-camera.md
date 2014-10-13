@@ -1,6 +1,6 @@
 ## Appareil photo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
+![Imagen1]()
 
 1. Mode panoramique.
 2. Paramètres flash.

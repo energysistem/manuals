@@ -20,9 +20,10 @@
 * [Video player](17-leitura_video.md)
 * [Camera](18-camara.md)
 * [Gallery](19-galeria.md)
-* [Usb](20-usb.md)
+* [MicroSD & USB](Usb.md)
 * [Updating](21-actualizacao.md)
 * [Troubleshooting](22-solucao_problemas.md)
 * [warranty](23-garantia.md)
 * [Warranty procedure](24-funcionamento_da_garantia.md)
 * [Declaration of conformity](25-declaracao_conformidade.md)
+

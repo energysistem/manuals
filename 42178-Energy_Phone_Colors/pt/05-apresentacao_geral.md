@@ -1,6 +1,6 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535565e5544ec.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/54219bf1589b2.jpg)
 
 1. Sensores de luminosidade e de proximidade.
 2. Saída de auscultadores.
@@ -14,7 +14,7 @@
 10. Microfone.
 11. Botão de ligado / desligado.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/535565f242a11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/54219bfec0c74.jpg)
 
 <br>12. Slot para cartão microSD HC/XC.<br>13. Slot para cartão SIM 1.<br>14. Slot para cartão SIM 2.<br>15. Bateria.<br>16. Número de série e números IMEI.<br>
 
