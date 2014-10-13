@@ -20,7 +20,7 @@
 * [Video player](17-leitura_video.md)
 * [Camera](18-camara.md)
 * [Gallery](19-galeria.md)
-* [MicroSD & USB](Usb.md)
+* [MicroSD & USB](20-micro_sd.md)
 * [Updating](21-actualizacao.md)
 * [Troubleshooting](22-solucao_problemas.md)
 * [warranty](23-garantia.md)

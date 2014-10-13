@@ -2,8 +2,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/542bb0e22e4e0.jpg)
 
-1. **Barra de estado:** mostra informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo nesta zona,
-se desdobra uma versão do menu de configuração básica que administra as notificações e o menu de configuração.
+1. **Barra de estado:** mostra informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo nesta zona, se desdobra uma versão do menu de configuração básica que administra as notificações e o menu de configuração.
 2. **Busca:** acesso direito ao motor de pesquisa WEB de Google#trade#.
 3. **Busca por voz:** Acesso a busca por voz do Google#trade# e muito mais.
 4. **Energy Music:** leitura de arquivos de som.
