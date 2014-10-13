@@ -3,7 +3,7 @@
 ![Imagen1]()
 
 1. Panoramic mode.
-2. Fash settings.
+2. Flash settings.
 3. Switch camera.
 4. White balance.
 5. Shutter.
