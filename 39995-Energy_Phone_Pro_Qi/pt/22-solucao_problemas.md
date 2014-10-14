@@ -24,12 +24,9 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 8.	A capacidade de memória do Energy Phone é 32GB, mas a memória disponível é inferior. Por quê?
 O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 4,4 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 32GB.
 
-9.	Actualizei o sistema operacional, mas perdi os arquivos multimédia e fundos de tela salvos. Como posso recuperar os conteúdos pré-instalados?
-Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados no seu Energy Phone e muito mais arquivos multimédia e fundos de tela adicionais.
-
-10.	Que devo fazer para que me deixe instalar uma aplicação?
+9.	Que devo fazer para que me deixe instalar uma aplicação?
 Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
-11.	Qual é a autonomia do dispositivo?
+10.	Qual é a autonomia do dispositivo?
 Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone Pro Qi é de até 360 horas de navegação em standby e 18 horas de conversação.
