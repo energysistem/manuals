@@ -7,7 +7,6 @@
 - Protocolos Bluetooth®: A2DP ; AVRCP.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
 - Potencia RMS: 60 W (30W + 10W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
 - Radio FM.
 - Rango de frecuencia (FM): 87,5-108MHz
 - Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
