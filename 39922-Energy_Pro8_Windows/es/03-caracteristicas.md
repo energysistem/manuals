@@ -1,6 +1,6 @@
 ## Principales Características
 
-* Pantalla IPS 8" 16:9 (800x1280 píxels).
+* Pantalla IPS 8" 16:9 (1280x800 píxels).
 * Pantalla capacitiva multi-táctil
 * Procesador de cuatro núcleos Intel Atom Z3735F hasta 1.83Ghz.
 * 2GB DDR3 RAM.
