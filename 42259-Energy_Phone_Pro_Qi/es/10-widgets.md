@@ -1,6 +1,6 @@
 ### Widgets
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bdc9c660.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d03b1ecd8f.jpg)
 
 Para añadir un Widget a cualquiera de los escritorios pulsa "Aplicaciones y Widgets" (1) y a continuación selecciona "WIDGETS" en la zona superior de la pantalla (2). Con el gesto de pasar página (3) podrás ver todos los Widgets instalados. Elige el que quieras añadir al escritorio manteniéndolo pulsado y soltándolo a continuación.
 

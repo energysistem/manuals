@@ -1,6 +1,6 @@
 ### Leitura de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d0d685c0a4.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d0196a6dff.jpg)
 
 1. Voltar para a lista de vídeos.
 2. Compartilhar.

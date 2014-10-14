@@ -6,4 +6,4 @@ Your Energy Phone has also a USB-OTG port so you can transfer files between your
 
 **HOST Mode:** Allows to connect your Energy Phone to the PC.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d10f339d7d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d014d03dcd.jpg)

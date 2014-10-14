@@ -1,6 +1,6 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d11228abed.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d018d71630.jpg)
 
 
 1. Zoom

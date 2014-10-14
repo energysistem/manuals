@@ -6,4 +6,4 @@ In addition, there are thousands of applications and games available so you can 
 The device has a 5" (1080x1920 pixels) capacitive multi-touch display, Octa Core ARM Cortex A7 1.7GHz processor, Bluetooth 4.0, NFC, WiFi, GPS, 3G connectivity, rear and front cameras, MHL and wireless charge option.
 * We recommend you to read this manual to enjoy your device in a safe way and with maximum performance.
 
-## <unique> * Find the whole *Energy Smartphone Pro Qi* user manual on the following link   http://www.energysistem.com/en/guide/39995. </unique> </quick_guide>
+## <unique> * Find the whole *Energy Smartphone Pro Qi* user manual on the following link   http://www.energysistem.com/en/guide/42259. </unique> </quick_guide>

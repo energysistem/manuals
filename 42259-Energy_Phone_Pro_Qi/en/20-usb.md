@@ -6,6 +6,6 @@ OTG Mode: Allows to connect external devices such as keyboards, mousses, memory 
 
 HOST Mode: Allows to connect your Energy Phone to the PC.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3b9f405c5.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d02e442c45.jpg)
 
 

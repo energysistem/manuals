@@ -22,7 +22,7 @@
 * Notifications LED.
 * Installed applications: web browser, email manager, applications to play music / videos / photos, FM radio, alarm and calculator.
 * Allows you to install thousands of applications and games available for the ANDROID#trade# operating system.
-* Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
+* Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
 * Battery life: up to 360 hours on standby and 18 hours talk time.
 * Battery capacity: 2.300mAh.
 * SAR rating: 0.401 (W/Kg) at the head and 0.679 (W/Kg) at the body (10mm distance).

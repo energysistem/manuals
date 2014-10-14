@@ -1,6 +1,6 @@
 ## Câmera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bc682cdc.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d032e9ad0a.jpg)
 
 1. Zoom
 2. Modo de disparo

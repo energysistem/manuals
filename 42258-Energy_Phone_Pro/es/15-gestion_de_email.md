@@ -2,7 +2,7 @@
 
 Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d10e8a777c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d01af860be.jpg)
 
 1. Carpeta seleccionada.
 2. Nuevo correo.

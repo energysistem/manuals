@@ -2,7 +2,7 @@
 
 Aceda a Definições desde a TELA PRINCIPAL.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d115373d9b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d01c9f0962.jpg)
 
 1. Wi-Fi.
 2. Habilite a opção Wi-Fi

@@ -2,7 +2,7 @@
 
 Pulsa en Ajustes desde la PANTALLA PRINCIPAL.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bf381ba3.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d0374ae1df.jpg)
 
 1. Wi-Fi.
 2. Habilita la casilla Wi-Fi.

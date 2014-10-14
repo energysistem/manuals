@@ -6,4 +6,4 @@ O sistema dispõe de uma tela capacitiva de 5" (1080x1920 píxeis) com sensor mu
 
 * Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
-## <unique> * Encontre o manual completo dos Energy Smartphone Pro Qi no seguinte link http://www.energysistem.com/pt/guide/39995. </unique> </quick_guide>
+## <unique> * Encontre o manual completo dos Energy Smartphone Pro Qi no seguinte link http://www.energysistem.com/pt/guide/42259. </unique> </quick_guide>

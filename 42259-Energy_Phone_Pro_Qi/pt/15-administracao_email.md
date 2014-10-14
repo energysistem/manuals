@@ -2,7 +2,7 @@
 
 Aviso: Para conhecer os parâmetros de configuração da sua conta de e-mail, consulte o seu provedor de correio electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/537083f568d9e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d035232af0.jpg)
 
 
 1. Pasta seleccionada.

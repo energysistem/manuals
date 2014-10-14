@@ -2,7 +2,7 @@
 
 O seu novo Energy Phone dispõe de um potente navegador de Internet entre a lista de aplicações instaladas por padrão, com o qual poderá utilizar a Internet de uma forma rápida e fácil. Uma vez ligado o dispositivo a uma rede Wi-Fi, aperte sobre o ícone Navegador situado no desktop ou no menu de aplicações para iniciar o programa. O sistema carregará a página de entrada estabelecida por padrão e a mostrará na tela.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bb515999.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d0361e34e4.jpg)
 
 1. Recarregar.
 2. Endereço WEB.

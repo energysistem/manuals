@@ -9,4 +9,4 @@ El sistema dispone de una pantalla multi-táctil capacitiva de 5" (1080x1920 pí
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo sus prestaciones.
 
 
-## <unique> * Encuentra el manual completo del *Energy Smartphone Pro* en el siguiente enlace  http://www.energysistem.com/guide/39594 </unique> </quick_guide>
+## <unique> * Encuentra el manual completo del *Energy Smartphone Pro* en el siguiente enlace  http://www.energysistem.com/guide/42258 </unique> </quick_guide>

@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/537dadd36d63a.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42259/543d03ce0ebbb.jpg)
 
 1. Sensores de luminosidad y de proximidad.
 2. Salida de auriculares.

@@ -1,6 +1,6 @@
 ### Video Player
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/542d0d685c0a4.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d0196a6dff.jpg)
 
 1. Back to video list.
 2. Share.

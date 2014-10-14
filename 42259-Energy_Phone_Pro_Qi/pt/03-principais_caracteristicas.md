@@ -25,7 +25,7 @@
 * LED de notificações.
 * Aplicações instaladas: navegador de Internet, gestor de correio electrónico, aplicações para reprodução de música / vídeos / fotos, rádio FM, alarme e calculadora.
 * Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operativo ANDROID#trade#.
-* Frequências de operação: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz.
+* Frequências de operação: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
 * Autonomia: até 360 horas em standby e até 18 horas de conversação.
 * Capacidade da bateria: 2.300mAh.
 * Medição SAR: 0.401 (W/Kg) na cabeça e 0.679 (W/Kg) no corpo (a 10mm de distância).

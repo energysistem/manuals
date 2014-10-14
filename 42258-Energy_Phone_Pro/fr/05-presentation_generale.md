@@ -1,6 +1,6 @@
 ## <quick_guide> Vue principale
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/537da549e8825.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/543d0296868ff.jpg)
 
 1. Capteurs de luminosité et de proximité.
 2. Sortie pour les écouteurs.
