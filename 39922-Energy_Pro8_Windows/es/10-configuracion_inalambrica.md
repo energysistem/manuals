@@ -17,7 +17,7 @@ Tu Energy Tablet dispone de conexión Wifi. Para conectar tu dispositivo a una r
 1. Entra en configuración y pulsa en el icono de red inalámbrica.
 2. Haz clic en la red inalámbrica a la que deseas conectarte y pulsa conectar.
 3. En el caso de que la red tenga seguridad, te solicitará la clave de acceso. Escribe la clave de seguridad de la red y haz clic en Siguiente.
-4. Ahora debes indicar si deseas comnpartir tus archivos y dispositivos con los demás equipos de la red e indicar a que tipo de red te estás conectando
+4. Ahora debes indicar si deseas compartir tus archivos y dispositivos con los demás equipos de la red e indicar a que tipo de red te estás conectando
 
 **Nota:** Tu Energy Tablet es compatible con los estándares de seguridad y encriptación WEP, WPA, WPA2, TKIP y
 AES. Una vez se haya completado el proceso de autentificación con éxito, tu Energy Tablet guardará los datos
