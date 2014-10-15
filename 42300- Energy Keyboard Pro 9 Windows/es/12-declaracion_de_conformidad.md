@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Keyboard Pro 9 Windows **
+**Energy Sistem#trade# Energy Keyboard Pro 9 Windows 3G**
 
 País de fabricación: China
 
