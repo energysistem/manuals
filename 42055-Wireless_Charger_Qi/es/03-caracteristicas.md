@@ -1,7 +1,7 @@
 ## Principales características
 
 * Entrada: AC 100-240V, 50/60Hz.
-* Salida: DC 5V ± 0.25V, 1000mA  (1A).
+* Salida: DC 5V, 1000mA  (1A).
 * Fusible: 0.3A.
 * Indicador LED de alimentación.
 * Conector micro USB.
@@ -44,4 +44,4 @@ Distorsión (THD): <1%
 
 Distancia de transmisión: >10M
 
-Temperatura de funcionamiento: -15~40℃
+Temperatura de funcionamiento: -15~40ºC
