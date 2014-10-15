@@ -13,7 +13,7 @@ Para apagar la conexión bluetooth debes mantener el bóton de encendido/apagado
 En la siguiente tabla se resume el significado del led de estado (2) según el comportamiento y color de éste:
 
 |||
-| -- | -- |
+| :-- | :-- |
 | **Estado** | **Descripción** |
 | Luz azul encendida | Bluetooth activado |
 | Base conectada y led apagado | En espera |
