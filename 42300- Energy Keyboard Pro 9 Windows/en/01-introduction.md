@@ -1,4 +1,4 @@
-0020##<quick_guide> Introduction
+##<quick_guide> Introduction
 
 Energy Sistem® thanks you for purchasing the new Energy Keyboard Pro 9 Windows 3G. We hope you will enjoy it.  Portable, comfortable size and ultra-slim, exclusively designed to get the best performance out of your Energy Keyboard Pro 9 Windows 3G. Their comfortable and flat keys with silent keystroke and its multimedia functions will make of it a complete Windows experience. 
 
