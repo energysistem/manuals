@@ -2,7 +2,6 @@
 
 Dentro de este menú podemos realizar los siguientes ajustes:
 
-
 * Fecha/ Hora: Configura la fecha y la hora.
 
 * Ajustes de música: Puedes ajustar el modo de reproducción, la repetición de las canciones y la ecualización tanto predeterminada como manual.
