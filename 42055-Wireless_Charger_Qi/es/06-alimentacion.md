@@ -6,6 +6,6 @@ A continuación únicamente deberás colocar tu Energy Phone Pro Qi (u otro smar
 
 No coloque objetos metálicos ni imanes entre la base de carga y el smartphone porque impedirá el correcto proceso de carga.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42055/54327635788b7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42055/543f8ae23d08d.jpg)
 
 </quick_guide>
