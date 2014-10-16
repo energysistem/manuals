@@ -1,15 +1,14 @@
 ## Appareil photo
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42178/543fb0c746c4f.jpg)
 
-1. Mode panoramique.
-2. Paramètres flash.
-3. Changer appareil photo.
-4. Balance des blancs.
-5. Déclencheur.
-6. Mode vidéo.
-7. Mode photo.
-8. Paramètres.
-9. Zoom +.
-10. Zoom -.
-11. Exposition.
+1. Mode panoramique
+2. Mode normal
+3. HDR
+4. Mode flash
+5. Changer appareil photo
+6. Accès à la galerie
+7. Bouton déclencheur
+8. Mode vidéo
+9. Paramètres
+
