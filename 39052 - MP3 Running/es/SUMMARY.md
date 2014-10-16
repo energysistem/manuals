@@ -9,7 +9,7 @@
 * [Alimentación](06-alimentacion.md)
 * [Encendido y apagado](07-encendido_y_apagado.md)
 * [Menú principal](08-menu_principal.md)
-* [Reproducción de música MP3/WAV](09-reproduccion_de_musica.md)
+* [Reproducción de música](09-reproduccion_de_musica.md)
 * [Configuración](10-opciones_de_reproduccion_de_musica.md)
 * [Radio ](11-radio.md)
 * [Grabadora de voz](12-grabadora_de_voz.md)
