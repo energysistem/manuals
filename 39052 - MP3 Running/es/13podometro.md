@@ -2,15 +2,15 @@
 
 Para usar el podómetro, en primer lugar debes configurarlo. Para ello entra en la opción “configuración”/“ajustes de podómetro". Debes introducir los siguientes datos:
 
-* Peso: elige una de los rangos en kilogramos que aparece.
+* Peso: elige uno de los rangos en kilogramos que corresponda con tu peso corporal.
 
-* Longitud del paso: elige una de los rangos en centímetros que aparece.
+* Longitud del paso: mide la longitud de tus pasos y elige uno de los rangos en centímetros que aparece.
 
 * Establecer objetivos: Puedes establecer tu objetivo máximo en metros o en minutos.
 
-* Tipo de deporte: Selecciona si caminas o corres.
+* Tipo de deporte: Selecciona si vas a caminar o correr.
 
-Una vez configurado el podómetro, puedes volver al menú principal y entrar en el modo “Podómetro”.En el display aparecerá un contador de pasos y también la distancia recorrida en metros. Debes pulsar el botón “Play/Pause” para comenzar la medición.
+Una vez configurado el podómetro, puedes volver al menú principal y entrar en el modo “Podómetro”.En el display aparecerá un contador de pasos y también la distancia recorrida en metros. Debes pulsar el botón PLAY/PAUSE para comenzar la medición.
 
-Cuando desees terminar la medición pulsa de nuevo el botón “Play/Pause” para detenerla y si lo deseas puedes guardarla pulsando el botón “Menú”, de esta manera la medición se guardará en el apartado “Prácticas” junto con la fecha y la hora en la que se ha archivado la medición.
+Cuando desees terminar la medición pulsa de nuevo el botón PLAY/PAUSE para detenerla y si lo deseas puedes guardarla pulsando el botón MENU, de esta manera la medición se guardará en el apartado “Prácticas” junto con la fecha y la hora en la que se ha archivado la medición.
 
