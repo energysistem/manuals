@@ -1,8 +1,8 @@
 ## Reproducción de música
 
-Tu MP3 Energy te permite disfrutar de audio codificado en los formatos MP3 / WMA gracias a su procesador de alta fidelidad de sonido.
+Tu MP3 Energy te permite disfrutar de audio codificado en los formatos MP3 / WMA / WAV / APE / FLAC gracias a su procesador de alta fidelidad de sonido.
 
-Para entrar al modo de reproducción de MP3 / WMA, pulsa PLAY sobre la opción MUSIC.
+Para entrar al modo de reproducción, pulsa PLAY sobre la opción MUSICA.
 
 Para empezar, reanudar o pausar la reproducción de música pulsa el botón PLAY. Pulsando brevemente los botones PREVIOUS/NEXT
 cambias a la anterior/siguiente pista.
@@ -11,14 +11,26 @@ También puedes retroceder/avanzar dentro de la canción sosteniendo el botón P
 
 Usa los botones VOLUME+/- para subir y bajar el volumen respectivamente.
 
-Con la música en modo pausado en la ventana de reproducción de música puedes acceder al submenú “Navegación” pulsando el botón
-MENU, para que se muestren las diferentes opciones disponibles. Desplázate entre las opciones con los botones PREVIOUS/NEXT y
-selecciona pulsando el botón PLAY:
+Dentro del menú MUSICA aparecerá un submenú con los siguientes apartados:
 
-1. “Navegador”: Muestra las canciones existentes en la memoria del reproductor. Utiliza los botones PREVIOUS/NEXT para encontrar la canción que desees escuchar y pulsa PLAY para seleccionarla. Pulsa PLAY para entrar en las carpetas y pulsa MENU para volver hacia atrás.
+1. Ahora suena: Acceso a la reproducción en curso.
 
-2. “Borrar fichero”: Te permite borrar el fichero que tengas seleccionado en ese momento.
+2. Toda la música: Acceso a todo el repertorio de música.
 
-3. “Borrar todo”: Elimina todos los ficheros MP3 y WMA existentes en la memoria interna del reproductor.
+3. Artistas: Acceso al repertorio clasificado por artistas.
 
-4. “Salir”: Vuelve a la pantalla de reproducción de música. También puedes regresar en cualquier momento pulsando el botón MENU.
+4. Álbum: Acceso al repertorio clasificado por álbum.
+
+5. Género: Acceso al repertorio clasificado por álbum.
+
+6. Directorios: Acceso a las carpetas.
+
+7. Grabaciones: Acceso a las grabaciones realizadas en modo Grabación de voz ò desde la Radio.
+
+8. Mis favoritos: Puedes añadir tus canciones favoritas manteniendo pulsado el botón VOLUMEN + y simultaneamente pulsando PLAY, desde el repertorio que aparece dentro del punto 2 "Toda la música" descrito anteriormente.
+
+9. Actualizar biblioteca: Refresca la memoria interna para actualizar las últimas modificaciones realizadas en ella.
+
+10. Parar reproducción.
+
+

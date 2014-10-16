@@ -10,3 +10,6 @@
 8. VOLUME +: Subir volumen.
 9. VOLUME - : Bajar volumen.
 10. Interruptor de reinicio (Reset) / Micrófono.
+
+
+IMAGEN
