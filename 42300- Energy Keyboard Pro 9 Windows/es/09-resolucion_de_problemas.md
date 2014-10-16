@@ -2,7 +2,7 @@
 
 * ¿Es el teclado compatible con todos los dispositivos?
 
-No. El teclado Energy KeyboarD Pro 9 Windows está diseñado para su funcionamento exclusivo con la Energy Tablet Pro 9 Windows 3G.
+No. El teclado Energy KeyboarD Pro 9 Windows 3G está diseñado para su funcionamento exclusivo con la Energy Tablet Pro 9 Windows 3G.
 
 * He emparejado correctamente el teclado, pero los símbolos del teclado no corresponden con lo que escribe al pulsarlos.
 

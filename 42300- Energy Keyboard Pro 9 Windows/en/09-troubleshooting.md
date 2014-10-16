@@ -2,7 +2,7 @@
 
 * Works this Keyboard with all the devices?
 
-No. This Keyboard was designed exclusively to work with Energy Tablet pro 9 windows.
+No. This Keyboard was designed exclusively to work with Energy Tablet Pro 9  Windows 3G.
 
 * The keyboard and my device have been paired rightly, but the symbols printed on the keyboard don’t match with the ones shown on the device.
 
