@@ -1,12 +1,14 @@
 ## Presentación general
 
-1. Abertura para el colgante.
-2. Salida de auriculares.
-3. Conector USB 2.0 para cargar la batería / transferencia de datos con el PC.
-4. MENU: Menú anterior / Menú principal / Mostrar submenú.
-5. PLAY: Seleccionar / Reproducir / Pausa / Presintonía FM siguiente / Encendido y Apagado.
-6. PREVIOUS: Anterior / Retroceso rápido.
+1. VOLUME +: Subir volumen.
+2. VOLUME - : Bajar volumen.
+3. PLAY: Seleccionar / Reproducir / Pausa / Presintonía FM
+4. Salida de auriculares.
+5. PREVIOUS: Anterior / Retroceso rápido.
+6. MENU: Menú anterior / Menú principal / Mostrar submenú.
 7. NEXT: Siguiente / Avance rápido.
-8. VOLUME +: Subir volumen.
-9. VOLUME - : Bajar volumen.
+8. Pinza de sujeción.
+9. Conector USB de carga y transferencia de datos.
 10. Interruptor de reinicio (Reset) / Micrófono.
+
+![](http://static.energysistem.com/images/manuals/39052/543fae2d2b352.jpg)
