@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [Introduction](README.md)
 * [Introducción](01-introduccion.md)
@@ -13,7 +13,7 @@
 * [Configuración](10-opciones_de_reproduccion_de_musica.md)
 * [Radio ](11-radio.md)
 * [Grabadora de voz](12-grabadora_de_voz.md)
-* [Podómetro](13podometro.md)
+* [Podómetro](13-podometro.md)
 * [Ebook](14-ebook.md)
 * [Explorador](15-explorador.md)
 * [Conexión PC](16-conexion_pc.md)
