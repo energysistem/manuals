@@ -1,4 +1,4 @@
-﻿## Menu Principal
+## Menu Principal
 
 O menu principal tem a seguinte sequência de opções:
 

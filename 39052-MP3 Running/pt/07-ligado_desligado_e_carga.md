@@ -1,4 +1,4 @@
-﻿## LIGADO, DESLIGADO E CARGA
+## Ligado, desligado e carga
 Para ligar seu Energy MP3 Running, aperte o botão PLAY 7 durante alguns segundos.
 Aviso: No momento de ligar o dispositivo, verifique a memória. O tempo de arranque varia em função da quantidade de memória total e da memória ocupada em cada momento.
 Para desligar o dispositivo, aperta o botão PLAY durante alguns segundos quando esté ligado. Neste momento o leitor armazenará as preferências do usuário.

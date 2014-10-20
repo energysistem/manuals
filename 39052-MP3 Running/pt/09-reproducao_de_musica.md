@@ -1,25 +1,25 @@
-﻿## Reprodução de música 
+## Reprodução de música
 
-Seu MP3 Energy permite-lhe desfrutar do áudio codificado em MP3 / WMA / WAV / APE / FLAC com seu processador de alta fidelidade de som. 
+Seu MP3 Energy permite-lhe desfrutar do áudio codificado em MP3 / WMA / WAV / APE / FLAC com seu processador de alta fidelidade de som.
 
-Para entrar no modo de reprodução, pressione o botão PLAY na opção MUSIC. 
+Para entrar no modo de reprodução, pressione o botão PLAY na opção MUSIC.
 
 Para iniciar, continuar ou pausar a reprodução, pressione o botão PLAY. Premindo brevemente PREVIOUS/NEXT pode
-mudar para a faixa anterior/seguinte. 
+mudar para a faixa anterior/seguinte.
 
 Você também pode fazer retroceder/avançar dentro da canção segurando o botão PREVIOUS/NEXT.
 
-Use os botões VOLUME +/- para aumentar e diminuir o volume, respectivamente. 
+Use os botões VOLUME +/- para aumentar e diminuir o volume, respectivamente.
 
-Dentro do menu de MÚSICA aparecerá um sub menu com as seguintes secções: 
+Dentro do menu de MÚSICA aparecerá um sub menu com as seguintes secções:
 
 1. Reproduzindo: Acesso a reprodução actual.
 
-2. Toda a música: Acesso a todo o repertório de música. 
+2. Toda a música: Acesso a todo o repertório de música.
 
-3 Artistas: Acesso ao repertório classificado por artistas. 
+3 Artistas: Acesso ao repertório classificado por artistas.
 
-4 Álbum: Acesso ao repertório classificado por álbum. 
+4 Álbum: Acesso ao repertório classificado por álbum.
 
 5 Género: Acesso ao repertório classificado por álbum.
 

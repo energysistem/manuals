@@ -1,4 +1,5 @@
-﻿## CARREGAMENTO
+## Carregamento
+
 Seu Energy MP3 Running tem integrado uma bateria recarregável de iões de lítio.
 Inicialmente a bateria vem carregada de fábrica, mais é recomendável realizar uma
 carga completa antes da primeira utilização. Carrega a bateria ligando o leitor no teu
