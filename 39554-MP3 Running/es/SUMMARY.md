@@ -4,7 +4,7 @@
 * [Introduction](README.md)
 
 
-* [portada](00-portada.md)
+* [Portada](00-portada.md)
 * [Introducción](01-introduccion.md)
 
 * [Cuidado y mantenimiento](02-cuidado_y_mantenimiento.md)

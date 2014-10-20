@@ -1,5 +1,5 @@
 # Summary
-* [Cover](00-cover.md)
+* [Cover](00-portada.md)
 * [Introduction](01-introduction.md)
 * [Care and maintenance](02-care_and_maitenance.md)
 * [Features](03-features.md)
