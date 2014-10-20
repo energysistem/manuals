@@ -1,4 +1,4 @@
-﻿## PRODUCT CONTENT
+## PRODUCT CONTENT
 • MP3 Player Energy MP3 Running Neon Blue.
 • User manual.
 • Neckband sport earphones.

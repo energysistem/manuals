@@ -1,4 +1,4 @@
-﻿## CARE AND MAINTENANCE
+## CARE AND MAINTENANCE
 
 • Do not expose your MP3 Energy to shakes, dust, direct sun light, moisture or extreme
 temperatures.

@@ -1,12 +1,12 @@
-﻿# Summary
+# Summary
 
 * [Introduction](01-introduction.md)
-* [Care and maintenance](02-care_and_maintenance.md)
+* [Care and maintenance](02-care_and_maitenance.md)
 * [Features](03-features.md)
 * [Product Content](04-product_content.md)
 * [General Overview](05-general _overview.md)
 * [Battery](06-battery.md)
-* [Turn On & Recharge](07-turn_on_&_recharge.md)
+* [Turn On & Recharge](07-turn_on-off_&_recharge.md)
 * [Main Menu](08-main_menu.md)
 * [Music Playback](09-music_playback.md)
 * [Setting](10-setting.md)
