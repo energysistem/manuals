@@ -1,4 +1,4 @@
-﻿## INTRODUCTION
+## INTRODUCTION
 Energy Sistem™ vous remercie l’achat de votre nouveau Energy MP3 Running. Nous vous
 en souhaitons une bonne utilisation. Ce compacte podomètre/lecteur de musique dispose
 d’un écran OLED de haute résolution et contraste, podomètre avec technologie Tri-Axis

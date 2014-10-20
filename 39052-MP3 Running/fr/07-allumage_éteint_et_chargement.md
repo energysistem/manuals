@@ -1,4 +1,4 @@
-﻿##ALLUMAGE, ÉTEINT ET CHARGEMENT
+##ALLUMAGE, ÉTEINT ET CHARGEMENT
 Pour allumer votre Energy MP3 Running, appuyez sur PLAY 7 pendant quelques seconds.
 Avis: Au moment de l’allumer, l’appareil réalisera la vérification de la mémoire. Le
 temps de marche varie en fonction de laquantité de mémoire totale et de la mémoire occupée

@@ -1,4 +1,4 @@
-﻿## CHARGEMENT
+## CHARGEMENT
 Votre Energy MP3 Running inclut une batterie rechargeable de lithium-ion. Initialement,la
 batterie est chargée à l’usine, mais il est recommandé de réaliser une recharge complète
 avant d’utiliser l’appareil. Pour charger la batterie connectez le lecteur à l’ordinateur avec
