@@ -16,3 +16,5 @@ BACKCLIP
 MICRO USB 2.0 CONNECTOR FOR
 BATTERY CHARGING AND DATA
 TRANSFER WITH PC.
+
+[](http://static.energysistem.com/images/manuals/39052/543fae2d2b352.jpg)
