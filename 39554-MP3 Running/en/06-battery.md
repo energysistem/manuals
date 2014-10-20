@@ -1,4 +1,4 @@
-﻿## Battery
+## Battery
 
 Your MP3 Energy has an integrated rechargeable Li-Ion battery. It comes fully charged
 from factory, but it is recommended to perform a full recharge before the first use. Recharge
