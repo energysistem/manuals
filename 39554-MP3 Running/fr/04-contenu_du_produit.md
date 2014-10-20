@@ -1,4 +1,4 @@
-## CONTENU DU PRODUIT
+## Contenu du produit
 
 • Lecteur MP3 Energy Running.
 

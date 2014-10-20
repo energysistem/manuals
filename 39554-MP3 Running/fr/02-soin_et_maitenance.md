@@ -1,4 +1,4 @@
-## SOIN ET MAINTENANCE
+## Soin et maintenance
 
 • Ne pas exposer votre MP3 Energy à des chocs, à la poussière, à l’humidité ou à hautes températures.
 
