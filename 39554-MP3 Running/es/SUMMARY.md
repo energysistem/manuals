@@ -1,9 +1,6 @@
 ﻿# Summary
 
 
-* [Introduction](README.md)
-
-
 * [Portada](00-portada.md)
 * [Introducción](01-introduccion.md)
 
