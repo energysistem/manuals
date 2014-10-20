@@ -1,5 +1,6 @@
 ﻿## CARE AND MAINTENANCE
-Do not expose your MP3 Energy to shakes, dust, direct sun light, moisture or extreme
+
+• Do not expose your MP3 Energy to shakes, dust, direct sun light, moisture or extreme
 temperatures.
 • Do not use abrasive or corrosive cleansers.
 • Keep the device clean and dust free with a soft and dry cloth.
