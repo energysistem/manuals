@@ -1,7 +1,6 @@
 ﻿# Summary
 
-* [Introduction](README.md)
-* [Introducción](01-introduccion.md)
+* [Introduction](01-introduction.md)
 * [Cuidado y mantenimiento](02-cuidado_y_mantenimiento.md)
 * [Características](caracteristicas.md)
 * [Contenido del producto](04-contenido_del_producto.md)
