@@ -1,6 +1,6 @@
 ## Podómetro
 
-Para usar el podómetro, en primer lugar debes configurarlo. Para ello entra en la opción “configuración”/“ajustes de podómetro". Debes introducir los siguientes datos:
+Para usar el podómetro, en primer lugar debes configurarlo. Para ello entra en la opción''configuración/ajustes de podómetro''. Debes introducir los siguientes datos:
 
 * Peso: elige uno de los rangos en kilogramos que corresponda con tu peso corporal.
 
@@ -16,5 +16,5 @@ Manteniendo pulsado el botón NEXT, tendrás acceso a la distancia recorrida y e
 
 Está función también incorpora cronómetro. Pulsa el botón VOL+ para acceder a él.
 
-Cuando desees terminar la medición pulsa de nuevo el botón PLAY/PAUSE para detenerla y si lo deseas puedes guardarla pulsando el botón MENU, de esta manera la medición se guardará en el apartado “Prácticas” junto con la fecha y la hora en la que se ha archivado la medición.
+Cuando desees terminar la medición pulsa de nuevo el botón PLAY/PAUSE para detenerla y si lo deseas puedes guardarla pulsando el botón MENU, de esta manera la medición se guardará en el apartado ''Prácticas'' junto con la fecha y la hora en la que se ha archivado la medición.
 
