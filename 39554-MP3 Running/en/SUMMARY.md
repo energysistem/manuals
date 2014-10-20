@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [Portada](00-Portada.md)
 * [Introduction](README.md)
@@ -19,5 +19,5 @@
 * [Explorador](15-explorer.md)
 * [Conexión PC](16-connecting_to_a_PC.md)
 * [Garantía](17-warranty.md)
-* [Declaración de conformidad](19-declararion_of_conformity.md)
+* [Declaración de conformidad](19-declaration_of_conformity.md)
 
