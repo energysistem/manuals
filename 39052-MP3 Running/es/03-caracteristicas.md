@@ -16,4 +16,4 @@
 - Batería de litio recargable.
 - Firmware actualizable.
 - No necesita drivers.
-*Cálculo basado en canciones de 4 minutos y codificación WMA a 64 kb/s.
+<br><br>*Cálculo basado en canciones de 4 minutos y codificación WMA a 64 kb/s.

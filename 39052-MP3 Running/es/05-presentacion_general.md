@@ -1,4 +1,4 @@
-## Presentación general
+## Presentación General
 
 1. VOLUME +: Subir volumen.
 2. VOLUME - : Bajar volumen.
