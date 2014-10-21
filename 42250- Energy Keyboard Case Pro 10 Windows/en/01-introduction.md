@@ -1,4 +1,4 @@
-0020## <quick_guide> Introduction
+## <quick_guide> Introduction
 
 Energy Sistem® thanks you for purchasing the new Energy Keyboard Case Pro 10 Windows. We hope you will enjoy it. Portable, with a convenient size and ultra-slim keyboard for an easy transport. Comfortable and flat keys with a whisper keystroke including all multimedia functions.
 
