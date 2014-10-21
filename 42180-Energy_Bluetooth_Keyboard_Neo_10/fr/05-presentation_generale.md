@@ -2,12 +2,13 @@
 
 ![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/77828/54242eef545ee.jpg)
 
-1. Interrupteur allumer/éteindre
-2. Bouton synchronisation
-3. Indicateur de charge
-4. Indicateur BT
-5. Interrupteur d’ouverture  du support
-6. Touches multimédia
-7. Port MicroUSB
+1. Port MicroUSB
+2. Interrupteur allumer/éteindre
+3. Bouton synchronisation
+4. Indicateur de charge
+5. Indicateur BT
+6. Interrupteur d’ouverture  du support
+7. Touches multimédia
+
 
 </quick_guide>
