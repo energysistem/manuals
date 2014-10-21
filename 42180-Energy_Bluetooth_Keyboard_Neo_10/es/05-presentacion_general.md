@@ -8,4 +8,5 @@
 4. Indicador BT
 5. Interruptor de apertura del soporte
 6. Teclas multimedia
+7. Puerto MicroUSB
 </quick_guide>

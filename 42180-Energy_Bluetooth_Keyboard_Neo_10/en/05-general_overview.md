@@ -8,5 +8,7 @@
 4. Bluetooth indicator
 5. Support opening button
 6. Multimedia Keys
+7. MicroUSB Port
+
 
 </quick_guide>

@@ -7,5 +7,6 @@
 4. Indicador BT
 5. Interruptor de abertura do suporte
 6. Teclas multimédia
+7. Porta MicroUSB
 
 </quick_guide>
