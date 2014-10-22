@@ -2,7 +2,7 @@
 
 * Le clavier est compatible avec tous les appareils ? 
 
-Non. Le clavier Energy Tablet Keyboard Case Pro 9 Windows est conçu pour une utilisation exclusive avec le Windows Tablet Energy Pro 9. 
+Non. Le clavier Energy Tablet Keyboard Case Pro 9 Windows 3G est conçu pour une utilisation exclusive avec le Windows Tablet Energy Pro 9. 
 
 * J'ai placé correctement le clavier, mais les symboles du clavier ne correspondent pas à ce que je tape quand. 
 
