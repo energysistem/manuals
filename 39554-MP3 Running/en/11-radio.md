@@ -8,11 +8,11 @@ Press the PLAY button and you will be able to browse the station presets you hav
 
 Press the MENU button on the FM dial window to access the submenu options. Scroll through the different options using the NEXT / PREVIOUS buttons and press PLAY to select one:
 
-1. "Auto": Scans through different frequency ranges and saves the first 20 stations.
+1. Auto: Scans through different frequency ranges and saves the first 20 stations.
 
-2. "Save": Allows you to save the station you are listening to. If all 20 station presets are occupied, the last one will overwrite automatically.
+2. Save: Allows you to save the station you are listening to. If all 20 station presets are occupied, the last one will overwrite automatically.
 
-3 "Delete": Select this option to delete station presets.
+3 Delete: Select this option to delete station presets.
 
 To exit the submenu, press and hold the MENU button.
 
