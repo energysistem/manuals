@@ -5,5 +5,5 @@
 Sugerimos que você leia este manual para obter o máximo de seu produto de forma segura e aproveitando seus benefícios.
 
 
-## <unique> Encontre o manual completo do seu *Energy Tablet Keyboard Case Pro 9 Windows* no link a seguir http://www.energysistem.com/guide/42300 </unique> </quick_guide> 
+## <unique> Encontre o manual completo do seu *Energy Tablet Keyboard Case Pro 9 Windows 3G* no link a seguir http://www.energysistem.com/guide/42300 </unique> </quick_guide> 
 
