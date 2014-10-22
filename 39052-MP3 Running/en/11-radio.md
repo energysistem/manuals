@@ -12,7 +12,7 @@ Press the MENU button on the FM dial window to access the submenu options. Scrol
 
 2. Save: Allows you to save the station you are listening to. If all 20 station presets are occupied, the last one will overwrite automatically.
 
-3 Delete: Select this option to delete station presets.
+3. Delete: Select this option to delete station presets.
 
 To exit the submenu, press and hold the MENU button.
 
