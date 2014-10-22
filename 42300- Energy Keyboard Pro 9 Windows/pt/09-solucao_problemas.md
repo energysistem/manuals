@@ -2,7 +2,7 @@
 
 * É o teclado compatível com todos os dispositivos? 
 
-Não, o teclado Energy Tablet Keyboard Case Pro 9 Windows foi projectado para uso exclusivo com o Energy Tablet Pro 9 Windows 3G.
+Não, o teclado Energy Tablet Keyboard Case Pro 9 Windows 3G foi projectado para uso exclusivo com o Energy Tablet Pro 9 Windows 3G.
 
 * Eu coloquei correctamente o teclado, mas os símbolos do teclado não coincidir com o que eu digito.
 
