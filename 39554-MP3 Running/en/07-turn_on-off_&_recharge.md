@@ -1,4 +1,4 @@
-## Turn On/ Off & Recharge
+## Turn On/ Off and Recharge
 To power on your MP3 Energy press PLAY for a few seconds.
 
 NOTE: When powering on, the device performs a memory check. The power on time depends
