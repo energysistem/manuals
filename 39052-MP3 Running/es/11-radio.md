@@ -9,11 +9,11 @@ Pulsando el botón PLAY puedes navegar por las presintonías que tengas grabadas
 
 Accede al submenú de opciones de radio pulsando el botón MENU en la ventana del dial FM para que se muestren las diferentes opciones disponibles. Desplázate entre ellas con los botones NEXT/PREVIOUS y selecciona pulsando el botón PLAY:
 
-1. “Auto”: Realiza un escaneo del rango de frecuencias y guarda las 20 primeras emisoras encontradas en las presintonías.
+1. Auto: Realiza un escaneo del rango de frecuencias y guarda las 20 primeras emisoras encontradas en las presintonías.
 
-2. “Guardar”: Te permite guardar la emisora que estás escuchando en la próxima presintonía libre. Si las 20 presintonías están ocupadas se sobreescribirá la última.
+2. Guardar: Te permite guardar la emisora que estás escuchando en la próxima presintonía libre. Si las 20 presintonías están ocupadas se sobreescribirá la última.
 
-3. “Borrar”: Escoge esta opción para borrar la presintonía en la que te encuentres.
+3. Borrar: Escoge esta opción para borrar la presintonía en la que te encuentres.
 
 Para salir de este submenú, mantén pulsado el botón MENU.
 
