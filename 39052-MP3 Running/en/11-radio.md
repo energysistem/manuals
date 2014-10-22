@@ -16,4 +16,4 @@ Press the MENU button on the FM dial window to access the submenu options. Scrol
 
 To exit the submenu, press and hold the MENU button.
 
-You can also record FM radio broadcasts in WAV audio files. To do this press the PLAY button to start recording. You can pause and resume the recording by pressing the PLAY button. To finish recording, press and hold the MENU button. Press and hold the MENU button again if you want to exit the FM recording function and to return to the dial screen. All recordings are stored in the "Recordings" section of the MUSIC menu.
+You can also record FM radio broadcasts in WAV audio files. To do this press the PLAY button to start recording from main menu of radio mode. You can pause and resume the recording by pressing the PLAY button. To finish recording, press and hold the MENU button. Press and hold the MENU button again if you want to exit the FM recording function and to return to the dial screen. All recordings are stored in the "Recordings" section of the MUSIC menu.
