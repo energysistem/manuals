@@ -1,6 +1,6 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54219bf1589b2.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/5447dc01303f1.jpg)
 
 1. Sensores de luminosidade e de proximidade.
 2. Saída de auscultadores.
