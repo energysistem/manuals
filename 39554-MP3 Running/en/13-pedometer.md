@@ -10,7 +10,7 @@ If you want to use the pedometer, you must configure it. To do so, got to "Setti
 
 * Sportswear Type: Select whether you are walking or running.
 
-Once set the pedometer, you can return to the main menu and enter the "Pedometer" display mode .In a step counter and distance to reach the objective set goals. You must press the PLAY / PAUSE button to start the measurement.
+Once the pedometer set, you can return to the main menu and enter the "Pedometer". In the display you will see a step counter and the remaining distance to reach the objective set goals. You must press the PLAY / PAUSE button to start the measurement.
 
 While pressing the NEXT button, you can access to the distance traveled in meters and the time of measurement. To return to the previous screen hold the PREVIOUS button. 
 
