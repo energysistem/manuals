@@ -6,9 +6,9 @@ If you want to use the pedometer, you must configure it. To do so, got to "Setti
 
 * Step length: measure the length of your steps and select one of the listed options.
 
-* Set goals: Set your goal in time or distance.
+* Goal settings: Set your goal in time or distance.
 
-* Sportswear Type: Select whether you are walking or running.
+* Sport: Select whether you are walking or running.
 
 Once the pedometer set, you can return to the main menu and enter the "Pedometer". In the display you will see a step counter and the remaining distance or time to reach the objective set goals. You must press the PLAY / PAUSE button to start the measurement.
 
