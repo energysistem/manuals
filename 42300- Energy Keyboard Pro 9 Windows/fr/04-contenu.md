@@ -1,5 +1,4 @@
-## <quick_guide> Contenu du produit
-* Energy Bluetooth Keyboard Neo 10
-* Câble MicroUSB - USB 
-* Guide rapide 
+## <quick_guide> Contenu du produit 
+- Energy Keyboard Pro 9 Windows 3G.
+- Guide rapide. 
 </quick_guide>

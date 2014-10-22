@@ -1,7 +1,8 @@
 ## Cuidado e manutenção
 
-* Não exponha o seu Teclado Bluetooth a golpes, poeira, fogo, luz solar direta, humidade ou temperaturas extremas.
+* Não exponha o seu Energy Keyboard Case Pro 10 Windows a golpes, poeira, fogo, luz solar directa, humidade ou temperaturas extremas.
 * Não use agentes de limpeza corrosivos ou abrasivos.
-* Mantenha o Teclado Bluetooth limpo e sem poeira com um pano macio e seco, faça a limpeza com o teclado desligado e sem as baterias instaladas.
-* Não tente desmontar o Teclado Bluetooth. Todas as reparações devem ser realizadas exclusivamente por pessoal qualificado de Energy Sistem Soyntec S.A.
+* Mantenha seu Energy Keyboard Case Pro 10 Windows limpo e sem poeira com um pano macio e seco, faça a limpeza com o teclado desligado.
+* Não tente desmontar o Energy Keyboard Case Pro 10 Windows. Todas as reparações devem ser realizadas exclusivamente por pessoal qualificado de Energy Sistem Soyntec S.A.
+
 
