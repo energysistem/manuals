@@ -1,4 +1,7 @@
-## <quick_guide>  Allumer et éteindre
+## <quick_guide> Allumer et éteindre
 
-Pour allumer votre Energy Bluetooth Keyboard activez l’interrupteur marche/arrêt  (1). Après avoir appuyé sur le bouton de synchronisation (2) l'indicateur Bluetooth se mettra à clignoter (3). Activez le Bluetooth sur votre Energy Neo 10 et attendez que le dispositif Energy apparaisse dans la liste des appareils à proximité (Energy BT Keyboard). Une fois  que l'appareil est apparu dans la liste, cliquez pour le synchroniser avec le clavier et tapez le code numérique qui apparaît sur votre tablette. 
-</quick_guide>
+Vous n’avez pas besoin de faire des ajustements pour allumer votre Energy Keyboard Pro 9 Windows 3G., vous pouvez l’utiliser directement en plaçant sur lui la Tablet Pro 9 Windows. 
+
+Attention: Ne débranchez pas votre Energy Keyboard Pro 9 Windows 3G sans le bloquer. Il peut provoquer un dysfonctionnement de celui-ci lors de la reconnexion.
+
+</quick_guide> 
