@@ -25,7 +25,7 @@ Dentro del menú MUSICA aparecerá un submenú con los siguientes apartados:
 
 6. Directorios: Acceso a las carpetas.
 
-7. Grabaciones: Acceso a las grabaciones realizadas en modo Grabación de voz ò desde la Radio.
+7. Grabaciones: Acceso a las grabaciones realizadas en modo Grabación de voz ó desde la Radio.
 
 8. Mis favoritos: Puedes añadir tus canciones favoritas manteniendo pulsado el botón VOLUMEN + y simultaneamente pulsando PLAY, desde el repertorio que aparece dentro del punto 2 "Toda la música" descrito anteriormente.
 
