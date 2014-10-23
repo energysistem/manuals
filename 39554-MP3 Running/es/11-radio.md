@@ -11,7 +11,11 @@ Accede al submenú de opciones de radio pulsando el botón MENU en la ventana de
 
 1. Auto: Realiza un escaneo del rango de frecuencias y guarda las 20 primeras emisoras encontradas en las presintonías.
 
+2. Manual: En esta opción puedes seleccionar una frecuencia determinada.
+
 2. Guardar: Te permite guardar la emisora que estás escuchando en la próxima presintonía libre. Si las 20 presintonías están ocupadas se sobreescribirá la última.
+
+4. Predet: Si has realizado una busqueda manual, pulsando esta opción volveras a las emisoras almacenadas.
 
 3. Borrar: Escoge esta opción para borrar la presintonía en la que te encuentres.
 
