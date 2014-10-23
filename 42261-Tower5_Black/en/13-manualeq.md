@@ -1,4 +1,4 @@
-# Equalizer sound.
+## Equalizer sound.
 
 The *Energy Tower 5* has two controllers at the rear by which you can equalize sound.
 

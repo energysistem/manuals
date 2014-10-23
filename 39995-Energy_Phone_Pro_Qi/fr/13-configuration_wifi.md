@@ -1,7 +1,8 @@
 ### Configuration Wi-Fi
+
 Accédez à Paramètres depuis l'ÉCRAN PRINCIPAL.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738c2c7447b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bf381ba3.jpg)
 
 1.	Wi-Fi.
 2.	Habilitez la case Wi-Fi.

@@ -1,15 +1,14 @@
 ## Câmara
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53708b799ae7e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/543fb0c746c4f.jpg)
 
-1. Modo panorâmico.
-2. Configurações  de flash.
-3. Mudar de câmara.
-4. Balanço de brancos.
-5. Disparador.
-6. Modo vídeo.
-7. Modo fotografía.
-8. Configurações .
-9. Zoom +.
-10. Zoom -.
-11. Exposição.
+1. Modo panorâmico
+2. Modo normal
+3. HDR
+4. Modo de flash
+5. Mudar câmara
+6. Acesso à galeria
+7. Botão disparo
+8. Modo vídeo
+9. Configurações
+

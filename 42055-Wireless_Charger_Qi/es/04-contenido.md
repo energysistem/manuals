@@ -1,9 +1,8 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Smartphone Pro.
+* Energy Wireless Charger Qi.
 * Guía Rápida.
-* Cable USB.
-* Adaptador de corriente AC/DC (Europlug) 100-240V AC 50-60Hz.
-* Auriculares con micrófono integrado.
-* Protector de pantalla.
+* Cable microUSB-USB.
 </quick_guide>
+
+![Imagen1](http://static.energysistem.com/images/manuals/42055/543f8ae9a6939.jpg)

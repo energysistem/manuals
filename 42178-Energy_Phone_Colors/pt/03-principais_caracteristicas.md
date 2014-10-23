@@ -1,6 +1,6 @@
 ## Principais características
 
-* Smartphone otimizado para ANDROID#trade# 4.2.
+* Smartphone otimizado para ANDROID#trade# 4.4.
 * 3 capas traseiras coloridas intercambiáveis.
 * Tela capacitiva IPS de 4.0" (WVGA - 800x480 pixels).
 * Processador dual core ARM Cortex A7 1.3GHz e GPU Mali-400.

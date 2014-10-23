@@ -2,6 +2,6 @@
 
 * Energy Sistem te agradece que hayas adquirido esta *Energy Tower 3*, deseamos que la disfrutes.
 
-* Disfruta de la espectacular calidad de sonido que ofrece esta torre 2.0 con tecnología Bluetooth® 4.0, capacidad para reproducir MP3 desde USB y tarjetas SD/SDHC, radio FM, line-in y salidas USB para cargar dispositivos externos.
+* Disfruta de un audio de alta calidad capaz de inundar cada rincón de tu hogar con este sistema de sonido 2.0 en torre. Con 30W RMS, conexión Bluetooth, Radio FM y reproducción MP3 desde USB y tarjetas SD/SDHC, es un completo complemento para tu música.
 
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.

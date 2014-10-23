@@ -1,6 +1,6 @@
 ## <quick_guide> General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54219bf1589b2.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/5447dc01303f1.jpg)
 
 1. Proximity and luminosity sensors.
 2. Headphones output.

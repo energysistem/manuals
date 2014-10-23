@@ -2,7 +2,7 @@
 
 O seu Energy Phone dispõe de conexão Bluetooth 4.0 para conectar o dispositivo a qualquer periférico como fones de ouvido, PC, tablets, etc. Para tanto deve ir a Ajustes>> Bluetooth y mover a opção à posição ON. À continuação irá realizar uma busca de todos os aparelhos disponíveis e então deve seleccionar um deles para realizar a conexão.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39995/53738dbc2a018.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3b532cb20.jpg)
 
 1. Bluetooth.
 2. Habilite a opção Bluetooth.

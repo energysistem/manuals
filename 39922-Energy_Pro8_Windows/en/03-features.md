@@ -1,6 +1,6 @@
 ## Key Features
 
-* 8" IPS screen (800x1200 pixels).
+* 8" IPS screen (1200x800 pixels).
 * Capacitive multitouch screen.
 * Quad Core Intel Atom up to 1.83GHz processor.
 * 2GB RAM.

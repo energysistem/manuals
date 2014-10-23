@@ -3,6 +3,7 @@
 ### Bluetooth
 
 Tu Energy Tablet dispone de conexión Bluetooth. Para conectar tu dispositivo con auriculares, ordenadores, tablets, smartphones, etc. Para emparejar el dispositivo Bluetooth sigue los siguientes pasos.
+
 1. Activa el dispositivo en modo emparejamiento.
 2. Abre el acceso a Configuración, haz clic en Cambiar configuración de PC > PC y dispositivos > Bluetooth.
 3. Debes asegurarte de que el Bluetooth esté activado, y empezarán a aparecer los dispositivos Bluetooth disponibles dentro del alcance.

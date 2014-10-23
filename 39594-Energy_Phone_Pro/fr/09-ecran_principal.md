@@ -6,7 +6,7 @@
 nouvelle version apparaîtra dans le menu de configuration basique qui gère les notifications et le menu de configuration.
 **2. Navigateur:** accès directe au moteur de recherche WEB de Google#trade#.
 **3. Recherche vocale:** Accédez sur la recherche vocale de Google#trade# et encore plus des choses.
-**4. Energy Musique:** lecture de fichiers de son.
+**4. Energy Music:** lecture de fichiers de son.
 **5. Play Store#trade#:** Téléchargez les meilleures et les plus connues applications pour votre système Android#trade#.
 **6. Gallery:** visualisation d'images.
 **7. Energy Cam:** accès a la camera de photos intégrée.

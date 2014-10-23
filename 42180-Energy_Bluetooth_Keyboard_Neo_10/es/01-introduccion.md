@@ -5,4 +5,4 @@ Energy Sistem#trade# te agradece la compra de tu nuevo Energy Bluetooth Keyboard
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
 
 
-## <unique> Encuentra el manual completo de tu *Energy Bluetooth Keyboard Neo 10* en el siguiente enlace http://www.energysistem.com/guide/42180 </unique> </quick_guide>
+## <unique> Encuentra el manual completo de tu *Energy Bluetooth Keyboard Neo 10* en el siguiente enlace http://www.energysistem.com/es/guide/42180 </unique> </quick_guide>

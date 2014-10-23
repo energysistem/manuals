@@ -9,12 +9,12 @@ Si apagas el *Energy Tower 5* o extraes alguna de las memorias, se almacenará e
 
 Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de avance...
+Para navegar entre canciones, utiliza los botones de avance() y retroceso(). También puedes cambiar de carpeta pulsando el botón ().
 
 
-## Orden de reproducción.
+## Orden de reproducción
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por oden alfabético.
+Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
 Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
 

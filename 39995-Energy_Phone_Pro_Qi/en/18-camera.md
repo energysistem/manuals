@@ -1,15 +1,16 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39594/53738e5448727.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39995/542d3bc682cdc.jpg)
 
-1. Mode selection.
-2. Fash settings.
-3. Switch camera.
-4. HDR option.
-5. Shutter.
-6. Video mode.
-7. Smile detection mode.
-8. Settings.
-9. Zoom +.
-10. Zoom -.
-11. Last capture.
+1. Zoom
+2. Shooting mode
+3. Beaty mode
+4. HDR
+5. Effects
+6. Settings
+7. Flash
+8. Exchange camera
+9. Access to the gallery
+10. Capture mode
+11. Shooting button
+12. Video mode

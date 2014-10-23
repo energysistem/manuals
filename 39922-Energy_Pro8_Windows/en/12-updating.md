@@ -1,19 +1,10 @@
 ## Updating
 
-Your Energy Tablet has an operating system based on Android#trade# which you can reinstall or update if necessary. Updates will be made via OTA (Over-The-Air) by default, so your Energy Tablet will automatically connect to our servers, download the file and install the new software as soon as it is released.
+Your Energy Tablet offers Windows operating system # trade # 8.1 installed, you can reinstall or update if necessary. By default, automatic updates are enabled, so your Energy Tablet will automatically alert you when an update is available to install.
 
-You can also update your Energy Tablet using your PC. The process is simple but has to be done carefully and only when it is really necessary. If you notice that the device crashes, restarts unexpectedly or you have problems accessing the content of the internal storage memory, you should reinstall or update the operating system to a newer compatible version if available.
+You can also reinstall the factory settings of the operating system. Follow these steps for installation:
 
-Follow these steps to install:
-
-1. Make sure that the battery of your Energy Tablet is fully charged. Otherwise, plug your Energy Tablet to the external power using the provided AC/DC power adapter and wait until the battery is fully charged.
-
-2. Access the www.energysistem.com website from your computer.
-
-3. Enter the "Support" section and choose the type of product "Tablet".
-
-4. Choose your Energy Tablet model from the dropdown list that appears and then download the latest Android#trade# operating system version available.
-
-**Important:**
-Make sure that the operating system version you are downloading is specific for your model and serial number, otherwise you could damage the device.
-
+1. Make sure that your Energy Tablet battery is fully charged. Otherwise your Energy Tablet connected to external power using the AC adapter / DC provided and wait until the battery is fully charged.
+2. Slide the bar on the right side in the main menu, and click on the search icon.
+3. Make the search for "Recovery" and enter it.
+4. Choose the option you want and follow the instructions to restore your system

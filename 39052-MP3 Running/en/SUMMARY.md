@@ -1,0 +1,23 @@
+﻿# Summary
+
+* [Portada](00-Portada.md)
+* [Introduction](README.md)
+* [Introducción](01-introduction.md)
+* [Cuidado y mantenimiento](02-care_and_maitenance.md)
+* [Características](03-features.md)
+* [Contenido del producto](04-product_content.md)
+* [Presentación general](05-general_overview.md)
+* [Alimentación](06-battery.md)
+* [Encendido y apagado](07-turn_on-off_&_recharge.md)
+* [Menú principal](08-main_menu.md)
+* [Reproducción de música](09-music_playback.md)
+* [Configuración](10-setting.md)
+* [Radio ](11-radio.md)
+* [Grabadora de voz](12-voice_recorder.md)
+* [Podómetro](13-pedometer.md)
+* [Ebook](14-ebook.md)
+* [Explorador](15-explorer.md)
+* [Conexión PC](16-connecting_to_a_PC.md)
+* [Garantía](17-warranty.md)
+* [Declaración de conformidad](19-declaration_of_conformity.md)
+

@@ -2,7 +2,8 @@
 
 * ¿Es el teclado Bluetooth compatible con todos los dispositivos?
 
-Sí, el único requisito es que el dispositivo incorpore Bluetooth. En caso contrario, sería necesario adquirir un receptor Bluetooth que se vende por separado.
+Funcionalmente si, el único requisito es que el dispositivo incorpore Bluetooth. En caso contrario, sería necesario adquirir un receptor Bluetooth que se vende por separado.
+Estéticamente, el ajuste solo es perfecto con la Energy Tablet Neo 10.
 
 * He emparejado correctamente el teclado, pero los símbolos del teclado no corresponden con lo que escribe al pulsarlos.
 
