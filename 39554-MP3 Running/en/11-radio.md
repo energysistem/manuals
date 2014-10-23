@@ -10,9 +10,13 @@ Press the MENU button on the FM dial window to access the submenu options. Scrol
 
 1. Auto: Scans through different frequency ranges and saves the first 20 stations.
 
-2. Save: Allows you to save the station you are listening to. If all 20 station presets are occupied, the last one will overwrite automatically.
+2. Manual: You can select any frecuency.
 
-3. Delete: Select this option to delete station presets.
+3. Save: Allows you to save the station you are listening to. If all 20 station presets are occupied, the last one will overwrite automatically.
+
+4. Predet: If you are using manual search by this option you can return to stations saved previously.
+
+5. Delete: Select this option to delete station presets.
 
 To exit the submenu, press and hold the MENU button.
 
