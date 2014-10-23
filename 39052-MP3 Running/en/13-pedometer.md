@@ -14,6 +14,6 @@ Once the pedometer set, you can return to the main menu and enter the "Pedometer
 
 While pressing the NEXT button, you can access to the distance traveled in meters and the time of measurement. To return to the previous screen hold the PREVIOUS button. 
 
-This function also incorporates chronometer. Press the VOL + button to access it.
+This function also incorporates stopwatch. Press the VOL + button to access it.
 
 If you want to finish measuring your footsteps press the PLAY / PAUSE button. You can also save your data by pressing the MENU button; which you will find in PRACTICES along with its date and time.
