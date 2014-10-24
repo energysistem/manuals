@@ -14,5 +14,5 @@
 11. **Galerie**: accès à la galerie d'images 
 12. **Internet Explorer **: navigateur web 
 13. ** Contacts**: carnet d'adresses universel 
-14. ** Skype **: fait des appels de visioconférence ... 
+14. ** Skype **: fait des appels, des visioconférences ... 
 

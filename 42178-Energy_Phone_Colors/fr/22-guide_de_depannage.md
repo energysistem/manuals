@@ -1,4 +1,4 @@
-﻿## Guide de Dépannage
+## Guide de Dépannage
 1.	Pour quoi quelques fichiers MP3 ne peuvent pas être lis? Le fichier MP3 doit respecter les normes layer 3 de MPEG1, MPEG2 ou MPEG 2.5.  Au contraire, il doit être recodé parmi un software.
 
 2.	Mon Energy Phone ne s'allume pas, qu'est-ce que je peux faire? Assurez-vous que la batterie soit suffisamment chargée, après essayer de brancher l'appareil. Si même en le chargeant pendant au moins 30 minutes, le système continue sans pouvoir être allumé, c'est possible qu'il y ait un problème avec le système d'exploitation installé. S'il vous plaît, lisez la section de ce manuel "Mise à jour".
@@ -13,7 +13,7 @@
 
 7.	Quelques fois, l'écran est toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
 
-8.	La capacité de mémoire de mon Energy Phone Colors est 4Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
+8.	La capacité de mémoire do Energy Phone Colors est 4Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
 
 9.	Qu'est-ce que je dois faire pour pouvoir installer une application? Premièrement, assurez-vous bien que le fichier a l'extension d'installation Android#trade#(.APK), deuxièmement, Android#trade# vous demandera d'activer l'installation d'applications depuis « Origines méconnus », cette option est désactivé par sécurité. Pour autoriser l'installation d'applications, vous avez que à suivre les instructions qui vont apparaître sur l'écran, la première fois que vous essayez d'installer une application : Paramètres / Applications / Origines méconnus (activer).
 

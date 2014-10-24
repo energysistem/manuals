@@ -1,5 +1,4 @@
 ## <quick_guide> Ligado e desligado
 
-Para ligar o teclado energy Bluetooth Keyboard ative o interruptor para ligar/desligar (1). Depois de pressionar o botão sync (2) começará a piscar o indicador de Bluetooth (3). Ative o Bluetooth no seu Energy Neo 10 e espere que o dispositivo de Energy aparece na lista de dispositivos próximos (Energy BT Keyboard). Uma vez que o dispositivo apareceu na lista, clique sobre ele para emparelhar com o teclado e digitar o código numérico que aparece no seu tablet. 
-
+Para transformar o seu Energy Bluetooth Keyboard ative o interruptor (1). Depois, pressione o botão sincronizar (2) e o indicador Bluetooth começa a piscar (3). Ative o Bluetooth no seu Energy Pro 8 Windows e aguarde até que o dispositivo Energy apareça na lista de dispositivos próximos (Energy BT Keyboard). Uma vez que o dispositivo tem aparecido na lista, clique sobre ele para emparelhar e digite o código numérico que aparece no seu tablet.
 </quick_guide>
