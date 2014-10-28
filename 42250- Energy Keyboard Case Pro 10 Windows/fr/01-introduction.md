@@ -1,4 +1,4 @@
-## <Quick_guide> Introduction 
+## <quick_guide> Introduction 
 
 Energy Sistem#trade# vous remercie d’avoir acquis votre Nouveau Energy Keyboard Case Pro 10 Windows. *Nous espérons que vous apprécierez notre produit. Ce clavier portable, de taille confortable et design ultrafin est exclusivement conçu pour maximiser les performances de votre  Energy Tablet Pro 10 Windows. Ses touches plates, touche confortable et silencieuse, et ses fonctions multimédia rendent votre expérience Windows complète. 
 
