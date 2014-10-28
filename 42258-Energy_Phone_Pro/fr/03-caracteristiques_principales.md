@@ -16,7 +16,7 @@
 * Caméra avec déclenchement à commande vocale.
 * Fonction USB-OTG pour un simple accès à la mémoire de la tablette depuis l'ordinateur (câble inclut).
 * Haut-parleur intégré.
-* Microphone omnidirectionnel intégré.
+* 2 Microphones omnidirectionnels intégrés.
 * Capteur de mouvement (accéléromètre).
 * Écran avec réglage automatique de luminosité.
 * Capteur de proximité.

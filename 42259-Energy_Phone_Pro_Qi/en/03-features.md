@@ -17,7 +17,7 @@
 * Integrated wireless charge module (Qi standard).
 * USB-OTG function to easily access the smartphone's memory from the computer (cable included).
 * Integrated speakers.
-* Integrated omni directional microphone.
+* 2 Integrated omni directional microphones.
 * Motion sensor (accelerometer).
 * Display with auto brightness.
 * Proximity sensor.

@@ -18,7 +18,7 @@
 * Módulo de carga inalámbrica integrado (estándar Qi).
 * Función USB-OTG para un fácil acceso a la memoria del smartphone desde el ordenador (cable incluído).
 * Altavoz integrado.
-* Micrófono omnidireccional integrado.
+* 2 Micrófonos omnidireccionales integrados.
 * Sensor de movimiento (acelerómetro).
 * Pantalla con ajuste automático de brillo.
 * Sensor de proximidad.

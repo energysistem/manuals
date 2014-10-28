@@ -16,8 +16,8 @@
 12. Bouton de démarrage/éteint.
 13. Microphone.
 14. Microphone arrière.
-15. Entrée cartes microSIM 1.
-16. Entrée cartes microSIM 2.
+15. Entrée cartes microSIM 2.
+16. Entrée cartes microSIM 1.
 17. LED de notifications.
 
 </quick_guide>

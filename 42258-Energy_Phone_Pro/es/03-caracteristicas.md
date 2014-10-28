@@ -16,7 +16,7 @@
 * Cámaras con disparo por control de voz.
 * Función USB-OTG para un fácil acceso a la memoria del smartphone desde el ordenador (cable incluído).
 * Altavoz integrado.
-* Micrófono omnidireccional integrado.
+* 2 Micrófonos omnidireccional integrados.
 * Sensor de movimiento (acelerómetro).
 * Pantalla con ajuste automático de brillo.
 * Sensor de proximidad.
