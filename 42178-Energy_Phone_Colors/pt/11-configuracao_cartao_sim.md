@@ -1,6 +1,6 @@
 ### Configuração cartão SIM
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54242e532e8e7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42178/5450ad0a9d076.jpg)
 
 O seu Energy Phone tem a possibilidade de utilizar um cartão SIM. Para administrar o uso do chip, entre em Definições>> Gestão de SIM.
 
