@@ -1,6 +1,6 @@
 ## <quick_guide> Declaración de Conformidad
 
-Nombre del suministrador: Energy Sistem Soyntec S.A.				FECHA: 01/10/2014
+Nombre del suministrador: Energy Sistem Soyntec S.A.				FECHA: 01/11/2014
 
 Dirección: Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
 

@@ -42,6 +42,6 @@ Respuesta en frecuencia: 80Hz-15KHz
 
 Distorsión (THD): <1%
 
-Distancia de transmisión: >10M
+Distancia de transmisión: <10M
 
 Temperatura de funcionamiento: -15~40ºC
