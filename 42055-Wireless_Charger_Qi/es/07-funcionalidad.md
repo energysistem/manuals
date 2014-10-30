@@ -4,7 +4,7 @@
 
 Para activar la conexión bluetooth del Energy Wireless Charger Qi éste debe estar previamente conectado a la red eléctrica, ordenador u otro dispositivo a través de la entrada microUSB (4). En el interior del embalaje encontrarás un cable microUSB-USB para dicha conexión. A continuación mantén pulsado el botón de encendido/apagado (1) durante 5 segundos hasta que el led de estado (2) se ilumine de color azul y suene una notificación.
 
-Posteriormente deberás activar la función bluetooth de tu Energy Phone Pro Qi u otro dispositivo emisor, realizar la búsqueda del cargador cuya denominación es Energy ChargerQi y sincronizarte.
+Posteriormente deberás activar la función bluetooth de tu Energy Phone Pro Qi u otro dispositivo emisor, realizar la búsqueda del cargador cuya denominación es Energy Qi Charger y sincronizarte.
 
 Para apagar la conexión bluetooth debes mantener el bóton de encendido/apagado (1) durante 5 segundos. El led de estado dejará de iluminarse.
 

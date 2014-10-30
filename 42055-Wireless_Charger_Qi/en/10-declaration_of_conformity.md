@@ -14,6 +14,6 @@ We declare under our own exclusive responsibility the conformity of the product:
 
 Manufacturing country: China
 
-Is in compliance with the essential norms and standards of the Directive 1999/5/CE of the European Parliament and of the Council of March 09th 1999.
+Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
 
 </quick_guide>
