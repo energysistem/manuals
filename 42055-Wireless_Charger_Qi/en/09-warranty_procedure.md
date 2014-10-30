@@ -1,10 +1,11 @@
-## <quick_guide> Funcionamiento de la garantí­a
+## <quick_guide> Warranty procedure
 
-Entrando en http://support.energysistem.com y tras seleccionar tu producto podrásencontrar FAQs (respuestas a preguntas más  frecuentes), manuales, guías de usuario, drivers y actualizaciones.
+Visit the Support section at http://support.energysistem.com and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available, as the possibility to submit a query to the Technical Service or consult the warranty.
 
-También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (Teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica
-ten a mano el Ticket o Factura de compra y el número de serie del producto.
+You can check the availability of the user manual in your language at:
 
-Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando tu Factura o Ticket de compra.
+http://www.energysistem.com/en/guide/420551
+
+Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice. Specifications are subject to change without notice.
 
 </quick_guide>

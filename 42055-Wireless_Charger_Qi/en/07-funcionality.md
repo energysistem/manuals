@@ -1,25 +1,26 @@
-## <quick_guide> Funcionalidad
+## <quick_guide> Funcionality
 
-*CONEXIÓN BLUETOOTH*
+*BLUETOOTH CONNEXION*
 
-Para activar la conexión bluetooth del Energy Wireless Charger Qi éste debe estar previamente conectado a la red eléctrica, ordenador u otro dispositivo a través de la entrada microUSB (4). En el interior del embalaje encontrarás un cable microUSB-USB para dicha conexión. A continuación mantén pulsado el botón de encendido/apagado (1) durante 5 segundos hasta que el led de estado (2) se ilumine de color azul y suene una notificación.
+To activate the bluetooth connection of the Energy Qi Wireless Charger it should be connected to a socket, computer or other device via microUSB input (4). Inside the packaging you will find a microUSB-USB cable for the connection. Then hold the on / off switch (1) for 5 seconds until the status LED (2) lights blue and a notification sounds.
 
-Posteriormente deberás activar la función bluetooth de tu Energy Phone Pro Qi u otro dispositivo emisor, realizar la búsqueda del cargador cuya denominación es Energy ChargerQi y sincronizarte.
+After that, you must activate the Bluetooth function on your Energy Phone Pro Qi or another transmitter device, search for the device whose name is "Energy Qi Charger" and synchronize.
 
-Para apagar la conexión bluetooth debes mantener el bóton de encendido/apagado (1) durante 5 segundos. El led de estado dejará de iluminarse.
+To turn off the bluetooth connection you must keep the on / off switch (1) during 5 seconds. The status LED will leave lighting.
 
-*LED DE ESTADO*
+*STATUS LED*
 
-En la siguiente tabla se resume el significado del led de estado (2) según el comportamiento y color de éste:
+The following table shows the meaning of the status LED (2) according to the behavior and color of this one:
 
 |||
-| :-- | :-- |
-| **Estado** | **Descripción** |
-| Luz azul encendida | Bluetooth activado |
-| Base conectada y led apagado | En espera |
-| Luz verde parpadeando | Cargando correctamente |
-| Luz roja parpadeando | Carga incorrecta |
-| Luz verde encendida | Carga completada |
+|: - |: - |
+| ** Status ** | ** Status description ** |
+| Blue light on | Bluetooth activated |
+| Insert power and led off | Standby |
+| Green light blinking | Normal charging |
+| Red light blinking | Abnormal charging|
+| Green light on | Charging finished |
+
 
 </quick_guide>
 

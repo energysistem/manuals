@@ -1,8 +1,8 @@
-## <quick_guide> Contenido del producto
+## <quick_guide> Content
 
 * Energy Wireless Charger Qi.
-* Guía Rápida.
-* Cable microUSB-USB.
+* Quick guide.
+* MicroUSB-USB cable.
 </quick_guide>
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42055/543f8ae9a6939.jpg)

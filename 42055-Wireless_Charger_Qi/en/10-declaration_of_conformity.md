@@ -1,21 +1,19 @@
-## <quick_guide> Declaración de Conformidad
+## <quick_guide> Declaration of conformity
 
-Nombre del suministrador: Energy Sistem Soyntec S.A.				FECHA: 01/11/2014
+Manufacturer Name: Energy Sistem Soyntec S.A.				DATE: 01/11/2014
 
-Dirección: Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
+Address: Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (Spain)
 
 Tel: 902 388 388
 Fax: 902 119 034
 NIF: A53107488
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+We declare under our own exclusive responsibility the conformity of the product:
 
 **Energy Sistem#trade# Energy Wireless Charger Qi**
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+Manufacturing country: China
 
-País de fabricación: China
-
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+Is in compliance with the essential norms and standards of the Directive 1999/5/CE of the European Parliament and of the Council of March 09th 1999.
 
 </quick_guide>

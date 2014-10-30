@@ -1,47 +1,47 @@
-## Principales características
+## Features
 
-* Entrada: AC 100-240V, 50/60Hz.
-* Salida: DC 5V, 1000mA  (1A).
-* Fusible: 0.3A.
-* Indicador LED de alimentación.
-* Conector micro USB.
+* Input: AC 100-240V, 50/60Hz.
+* Output: DC 5V, 1000mA  (1A).
+* Fuse: 0.3A.
+* LED status indicator.
+* Micro USB connector.
 
-**1. Características del transmisor inalámbrico de carga**
+**1. Features of the transmitter**
 
-Tamaño: 80x80x11.5mm
+Size: 80x80x11.5mm
 
-Voltaje nominal de salida: 5V
+Otuput nominal voltage: 5V
 
-Voltaje de funcionamiento: 5V
+Operating voltage: 5V
 
-Frecuencia de funcionamiento: 110KHz-205KHz
+Operating frequency: 110KHz-205KHz
 
-Corriente de entrada: 1.5A
+Input current: 1.5A
 
-Corriente de salida: 1A
+Output current: 1A
 
-Eficiencia máxima (salida 500mA): >70%
+Maximum efficiency (500mA output): >70%
 
-Temperatura de funcionamiento: -15~40ºC
+Operating temperature: -15~40ºC
 
-**2. Características del altavoz Bluetooth**
+**2. Features Bluetooth speaker**
 
-Voltaje de funcionamiento: 5V
+Operating voltage: 5V
 
-Corriente nominal de funcionamiento: 200mA
+Operating nominal current: 200mA
 
-Sistema de altavoz: Un sólo canal
+Speaker system: one channel
 
-Especificaciones Bluetooth: V3.0+EDR
+Bluetooth specifications: V3.0+EDR
 
-Potencia nominal de salida: 0.5W
+Output nominal power: 0.5W
 
-Relación Señal a Ruido (SNR) >75dB
+Signal to Noise Ratio (SNR) >75dB
 
-Respuesta en frecuencia: 80Hz-15KHz
+Frequency response: 80Hz-15KHz
 
-Distorsión (THD): <1%
+Distortion (THD): <1%
 
-Distancia de transmisión: <10M
+Transmission distance <10M
 
-Temperatura de funcionamiento: -15~40ºC
+Operating temperature: -15~40ºC
