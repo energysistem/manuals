@@ -1,8 +1,6 @@
 ## <quick_guide> Presentación general
 
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/5416ee36813ec.jpg)
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/5416ee45742d9.jpg)
-
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/5458f125bfe20.jpg)
 1. Cámara trasera
 2. Cámara delantera
 3. Altavoz

@@ -1,4 +1,4 @@
-﻿## Principales Applications
+## Principales Applications
 
 ### Navigateur Internet
 
@@ -24,48 +24,48 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
-## Principales applications 
+1.	Dossier choisi
+2.	E-mails.
+3.	Nouveau email
+4.	Chercher
+5.	Options.
 
-### Navigateur Internet 
+### Lecture de musique
 
-Votre nouveau Energy Tablet dispose du puissant navigateur Web Internet Explorer 11 entre la liste des applications installées par défaut, avec laquelle vous pouvez utiliser Internet rapidement et facilement. 
-Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône sur le bureau ou dans le menu applications pour démarrer le programme. Le système va charger et afficher la page d'accueil par défaut.
+![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+1.	Liste de lecture
+2.	Lecture aléatoire
+3.	Répétition
+4.	Chanson antérieure
+5.	Play / pause
+6.	Chanson postérieure
 
+### Visualisation Vidéo
 
-### Email
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+1.	Temps de lecture
+2.	Rapport d'aspect
+3.	Vidéo antérieur
+4.	Play / Pausa
+5.	Vidéo postérieure
+6.	Paramètres
 
-Votre Energy Tablet dispose d'une application de gestion d’email installée par défaut  qui vous permet de travailler avec votre compte de messagerie de manière pratique et efficace. De plus, nous incluons la licence pour Microsoft Office 365, vous disposez de Microsoft Outlook pour une longue expérience dans le travail avec votre e-mail. 
+## Caméra
 
-Pour connaître les paramètres de configuration de votre compte, contactez votre fournisseur email. 
+![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
+1.	Changer de caméra
+2.  Mode de capture normal/ continu
+3.	Mode panoramique
+4.	Effet post-capture
+5.	Paramètres
+6.  Mode photographie/vidéo
+7.	Déclencheur
+8.	Pré-visualiser photos
 
+## Galerie: Images et Vidéos
 
-### Microsoft Office 365 
+Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
+Pour retourner au bureau d'accueil, appuyez sur le bouton de retour ou Démarrage
 
-Votre Energy Tablet comprend un ensemble de bureautique Mircrosoft Office 365 qui inclut, entre autres, les applications Microsoft Word, Microsoft Excel et Microsoft Outlook. Étendez votre expérience en utilisant votre Energy Tablet grâce à la licence d'un an que nous incluons avec elle. 
-
-
-### OneDrive 
-
-OneDrive vous permet de partager des documents dans le nuage et facilement les télécharger à partir de n'importe quel appareil connecté à Internet. Vous pouvez accéder à tous vos documents où que vous soyez, et avoir 1 To d'espace de stockage disponible dans votre Energy Tablet.
-
-
-### Skype 
-
-Skype vous permet de rester en contact depuis votre maison, au travail ou où vous soyez avec tout le monde. De plus, cette plate-forme peut être installée sur votre tablette, PC, smartTablet, etc. Avec votre Energy Tablet vous pouvez profiter de 60 minutes d'appels gratuits par mois pendant un an. 
-
-
-### Lecture Audio et Vidéo 
-
-Vous pouvez utiliser Windows Media Player pour lire de la musique et des vidéos. Supporte les formats plus connus d’audio et vidéo et permet de multiples ajustements dans les mêmes formats. 
-
-
-### Galerie: Photos 
-
-Vous pouvez utiliser cette application pour afficher les photos que vous avez à la fois sur votre Energy Tablet et OneDrive. Aussi, si vous avez des photos sur votre téléTablet, vous pouvez les importer en utilisant cette application. 
-Pour afficher vos photos, ouvrez l'application Photos sur l'écran d'accueil. Toutes les photos dans votre dossier Images apparaissent dans cette application. 
-
-
-### Appareil photo 
-
-Votre Energy Tablet dispose de l’application Appareil photo préinstallé et en plus vous pouvez utiliser d'autres applications Appareil photo en les téléchargeant à partir du Windows Store. 
-Pour prendre une photo ou enregistrer une vidéo, vous devez ouvrir l'application Appareil photo et appuyez sur le bouton Photo ou le bouton Vidéo sur l'écran. Il existe différents paramètres pour améliorer la prise de photos et de vidéos. 
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
