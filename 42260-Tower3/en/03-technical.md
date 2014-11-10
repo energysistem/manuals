@@ -12,14 +12,14 @@
 - 2 x DC output for charging external devices.
 - LED backlit display.
 - Holder for tablets and smartphones on top of the device.
-- Top panel with 8 buttons for more intuitive use of all functions.
+- Top panel with 8 buttons for a more intuitive use of all functions.
 - Wooden cabinet speakers.
-- Remote control with full functions control.
+- Remote control to control all functions .
 - Preset EQs with manual setting option.
-- Plays MP3 files from SD / SDHC / MMC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3 files from USB memory drives with capacity up to 32 GB.
-- Playback Formats Audio (USB / SD): WAV and MP3.
-- Speakers: 4" x 2 (core) + 1,5" x 2 (twitters).
+- Plays MP3 files from SD/SDHC/MMC cards up to 32 GB of capacity.
+- USB memory decoder: plays MP3 files from USB memory drives up to 32 GB of capacity.
+- Compatible audio formats (USB/SD): WAV and MP3.
+- Speakers: 4"x2 (core) + 1.5"x2 (twitters).
 - Frequency response: 20Hz-20KHz
 - Output current USB charging ports: 5V, 2A.
 - Power supply: 120-240 V / 50-60 Hz.
