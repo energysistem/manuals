@@ -1,17 +1,17 @@
 ## Features
 
 - 2.0 tower sound system .
-- Wireless Connectivity: Bluetooth® v4.0 + EDR.
+- Wireless connectivity: Bluetooth® v4.0 + EDR.
 - Bluetooth protocols: A2DP; AVRCP.
-- RMS Power: 30 W (10W + 5W * 2 * 2).
+- RMS power: 30 W (10W + 5W * 2 * 2).
 - Range of use: up to 10m.
 - Cmpatible with USB pendrives and SD/SDHC/MMC cards  up to 32 GB of capacity.
 - FM Radio.
 - Frequency range (FM): 87.5-108MHz
-- Connecting to audio devices by means of 3.5mm jack cable (included).
-- 2 x DC out for charging external devices.
-- LED Backlit Display.
-- Support on top of the device for tablets and smartphones.
+- Connect external audio devices using a 3.5mm jack cable (included).
+- 2 x DC output for charging external devices.
+- LED backlit display.
+- Holder for tablets and smartphones on top of the device.
 - Top panel with 8 buttons for more intuitive use of all functions.
 - Wooden cabinet speakers.
 - Remote control with full functions control.
