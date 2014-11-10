@@ -1,11 +1,11 @@
 ## Features
 
-- 2.0 sound system tower.
+- 2.0 tower sound system .
 - Wireless Connectivity: Bluetooth® v4.0 + EDR.
-- Protocols Bluetooth: A2DP; AVRCP.
+- Bluetooth protocols: A2DP; AVRCP.
 - RMS Power: 30 W (10W + 5W * 2 * 2).
-- Distance of Bluetooth system:  10 metres.
-- Reading USB pendrives and SD / SDHC / MMC cards with capacity up to 32 GB.
+- Range of use: up to 10m.
+- Cmpatible with USB pendrives and SD/SDHC/MMC cards  up to 32 GB of capacity.
 - FM Radio.
 - Frequency range (FM): 87.5-108MHz
 - Connecting to audio devices by means of 3.5mm jack cable (included).
