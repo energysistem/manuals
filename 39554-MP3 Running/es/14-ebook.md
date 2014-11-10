@@ -1,4 +1,4 @@
-## Ebook
+## Notas
 
 Entrando en esta opción del menú puedes leer archivos en formatos de texto introducidos en la memoria.
 
