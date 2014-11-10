@@ -1,6 +1,6 @@
 ## Care and maintenance
 
-* Do not expose your *Energy Tower 3* to impacts dust or even high temperatures.
+* Do not expose your *Energy Tower 3* to impacts, dust or even high temperatures.
 
 * Do not use corrosive or abrasive cleaning products.
 
