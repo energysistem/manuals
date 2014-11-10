@@ -4,10 +4,11 @@ Here you can adjust the following settings:
 
 * Date / Time: Sets the date and time.
 
-* Music Settings: You can adjust the playback and repeat mode, and the EQ (defaul and manual).
+* Music settings: You can adjust the playback and repeat mode, and the EQ (defaul and manual).
 
-* Recording Settings: You can adjust the recording quality.
-* eBook Settings: You can adjust the text scrolling of the eBook mode.
+* Recording settings: You can adjust the recording quality.
+
+* Notes settings: You can adjust the text scrolling of the eBook mode.
 
 * FM radio settings. You can select the FM region and also if you want the audio in stereo quality.
 
