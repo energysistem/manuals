@@ -6,6 +6,6 @@ The main menu has the following options:
 
 
 
-** Music / Radio / Pedometer / Explorer / Practices / Recorder / eBook / Settings **
+** Music / Radio / Pedometer / Explorer / Results / Recorder / Notes / Settings **
 
 You can move through the menu with the PREVIOUS / NEXT buttons and press PLAY to select the desired option.
