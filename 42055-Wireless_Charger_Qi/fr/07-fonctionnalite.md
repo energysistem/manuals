@@ -17,7 +17,7 @@ Le tableau suivant montre la signification de la LED d’état (2) en fonction d
 | :-- | :-- |
 | **État** | **Description** |
 | Lumière bleue allumée | Bluetooth activé |
-| Base connectée et LED éteinte | En attent |
+| Base connectée et LED éteinte | En attente |
 | Clignotant vert | Charge correctement |
 | Clignotant rouge | Charge incorrecte |
 | Allumée en vert | Charge complète |
