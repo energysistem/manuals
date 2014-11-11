@@ -7,7 +7,7 @@ Dentro de este menú podemos realizar los siguientes ajustes:
 * Ajustes de música: Puedes ajustar el modo de reproducción, la repetición de las canciones y la ecualización tanto predeterminada como manual.
 
 * Ajustes de grabación: Puedes ajustar la calidad de la grabación.
-* Ajustes de eBook: Puedes ajustar el desplazamiento del texto en modo Ebook.
+* Ajustes de notas: Puedes ajustar el desplazamiento del texto en modo Ebook.
 
 * Ajustes de radio. Puedes seleccionar la región FM y si deseas el audio en estereo.
 

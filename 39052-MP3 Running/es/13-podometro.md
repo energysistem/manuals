@@ -16,5 +16,5 @@ Manteniendo pulsado el botón NEXT, tendrás acceso a la distancia recorrida y e
 
 Está función también incorpora cronómetro. Pulsa el botón VOL+ para acceder a él.
 
-Cuando desees terminar la medición pulsa de nuevo el botón PLAY/PAUSE para detenerla y si lo deseas puedes guardarla pulsando el botón MENU, de esta manera la medición se guardará en el apartado "Prácticas" junto con la fecha y la hora en la que se ha archivado la medición.
+Cuando desees terminar la medición pulsa de nuevo el botón PLAY/PAUSE para detenerla y si lo deseas puedes guardarla pulsando el botón MENU, de esta manera la medición se guardará en el apartado "Resultados" junto con la fecha y la hora en la que se ha archivado la medición.
 

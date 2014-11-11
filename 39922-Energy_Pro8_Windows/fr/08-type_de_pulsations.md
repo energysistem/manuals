@@ -1,41 +1,39 @@
-﻿## Types de Pulsations 
+## Types de pulsations
 
-### Gestes élémentaires 
+### Gestes élémentaires
 
+*	Pulsation
 
-* Pulsation 
+Appuyez brièvement l'écran
 
-Appuyez brièvement sur l'écran 
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535569b2b5b35.jpg)
 
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/535569b2b5b35.jpg) 
+*	Double clic
 
-* Double clic
+Appuyez rapidement, deux fois sur l’écran
 
-Appuyez rapidement sur l'écran deux fois 
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg)
 
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg) 
-
-* Glisser 
-
-Glissez votre doigt sur la surface sans perdre le contact 
-
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg) 
-
-* Glisser 
+*	Glisser
 
 Glissez le doigt sur la superficie sans perdre le contact
 
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/53556aaed15c2.jpg) 
+![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
-* Appuyez 
+*	Glisser
 
-Touchez la surface pour une période prolongée de temps 
+Glissez rapidement le doigt sur l’écran
 
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/53556aedbd1e1.jpg) 
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aaed15c2.jpg)
 
-* Zoom 
+*	Appuyez
 
-Agrandir ou réduire l'image de l'écran 
+Toucher la surface pendant une période prolongée de temps
 
-! [Image 1] (http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg) 
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aedbd1e1.jpg)
 
+*	Zoom
+
+Zoom dans et hors de l'image de l'écran
+
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)

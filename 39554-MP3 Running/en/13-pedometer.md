@@ -16,4 +16,4 @@ While pressing the NEXT button, you can access to the distance traveled in meter
 
 This function also incorporates stopwatch. Press the VOL + button to access it.
 
-If you want to finish measuring your footsteps press the PLAY / PAUSE button. You can also save your data by pressing the MENU button; which you will find in PRACTICES along with its date and time.
+If you want to finish measuring your footsteps press the PLAY / PAUSE button. You can also save your data by pressing the MENU button; which you will find in RESULTS along with its date and time.

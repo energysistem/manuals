@@ -1,9 +1,7 @@
 ## Display
 
-The *Energy  Tower 3* is equipped with a backlit display hidden on the top of device.
+The *Energy  Tower 3* is equipped with a backlit display (Hidden Display) on the top of device.
 
-When device is turned on, you can see Energy Sistem logo at he top of the panel.
+When turning on the device the Energy Sistem logo on top of tower will light on.
 
-In addition, you can see the display with the actual mode and more information in the front of the top panel.
-
-
+The tower's display will also light on and show information such as the playback mode.

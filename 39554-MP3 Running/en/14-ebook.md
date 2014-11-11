@@ -1,4 +1,4 @@
-## Ebook
+## Notes
 
 In this menu you will be able to read stored text files.
 

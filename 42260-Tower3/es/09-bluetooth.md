@@ -9,5 +9,4 @@ En el momento en el que se establece la conexión ya puedes comenzar con la repr
 
 Si deseas quitar la sincronización actual y sincronizar cualquier otro dispositivo, tienes que presionar el botón ( ) durante 2 segundos y comenzará una nueva búsqueda, ó también puedes salir del modo Bluetooth y volver a entrar con el botón ( ).
 
-Además, el *Energy Tower 3* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) mediante el cual podrás escuchar tu música en estéreo, y AVRCP (Audio Video Remote Control Profile) mediante el cual podrás controlar la reproducción de tu música desde el propio *Energy Tower 3* o desde su control remoto.
-
+Además, el *Energy Tower 3* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) y AVRCP (Audio Video Remote Control Profile) para escuchar tu música en estéreo y controlar la reproducción respectivamente.
