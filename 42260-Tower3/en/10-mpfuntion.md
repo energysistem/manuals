@@ -1,4 +1,4 @@
-## MP3 playback function using SD memory cards and USB external devices
+## MP3 playback using SD memory cards and USB external devices
 
 To play MP3 files, insert an external memory such as a USB stick or a SD/MMC memory card in () and () respectively.
 
@@ -13,8 +13,6 @@ Use the forward () and backward () buttons if you want to skip or listen to a pr
 ## Playback order
 
 Folders inside external memory devices are read in chronological order and all songs contained in these folders are read in alphabetical order.
-
-For example: if after copying two folders of music called ‘A’ and ‘B’, we can copy first folder ‘B’ and later folder ‘A’, so the first played song will be first song in alphabetical order of ‘B’ folder.
 
 Here is a diagram of the reading order:
 
