@@ -7,7 +7,7 @@
 * Connecteur micro USB.
 
 
-**1. Caractéristiques de l’émetteur sans fil de charge **
+**1. Caractéristiques de l'émetteur sans fil de charge **
 
 Taille: 80x80x11.5mm
 
@@ -25,7 +25,7 @@ Efficacité maximal (sortie de 500 mA):>70%
 
 Température de fonctionnement: -15~40ºC
 
-**2. CCaractéristiques du haut-parleur Bluetooth**
+**2. Caractéristiques du haut-parleur Bluetooth**
 
 Tension de fonctionnement: 5V
 
