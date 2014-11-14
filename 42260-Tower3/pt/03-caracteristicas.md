@@ -1,0 +1,24 @@
+## Características  
+
+- Sistema de som 2.0 em torre. 
+- Conectividade sem fio: Bluetooth® v4.0 + EDR. 
+- Distância de uso de dispositivos Bluetooth® até 10 metros. 
+- Protocolos Bluetooth® A2DP; AVRCP. 
+- Potência RMS: 30 W (10 W * 2 + 5W *2). 
+- Leitura USB e SD/SDHC/MMC com capacidade de até 32GB. 
+- Rádio FM. 
+- Conexão com dispositivos de áudio com fio com jack de 3,5 mm (incluído). 
+- Saídas USB para carregar dispositivos externos. Corrente de saída: 5V, 2A. 
+- Display LED retroiluminado. 
+- Suporte para tablets e smartphones na parte superior. 
+- Painel superior com 8 botões para um uso mais intuitivo de todas as funções. 
+- Comando à distância com controlo de todas as funções. 
+- Equalizações predefinidas, com opção de ajuste manual. 
+- Reproduz arquivos MP3 a partir de cartões SD/SDHC/MMC com capacidade de até 32GB. 
+- Descodificador de memória USB: reproduz arquivos MP3 a partir de unidades de memória flash USB com capacidade de até 32 GB. 
+- Formatos de reprodução de áudio (USB / SD): WAV e MP3. 
+- Alto-falantes: 4"x2 (core) + 1,5''x2 (twitters). 
+- Frequência: 20Hz-20KHz 
+- Corpo de madeira. 
+- Faixa de frequência (FM): 87,5-108MHz 
+- Fonte de alimentação: 120-240 V / 50-60 Hz.
