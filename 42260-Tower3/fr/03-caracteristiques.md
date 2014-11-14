@@ -1,0 +1,24 @@
+## Caractéristiques 
+
+- Système de son 2.0 en tour. 
+- Connectivité sans fil: Bluetooth v4.0 + EDR. 
+- Distance d'utilisation avec des périphériques Bluetooth® jusqu'à 10 mètres. 
+- Protocoles Bluetooth® A2DP; AVRCP. 
+- Puissance RMS: 30 W (10W *2 + 5W *2). 
+- Lecture de USB et des cartes SD/SDHC/MMC avec une capacité de jusqu'à 32 Go. 
+- Radio FM. 
+- Connexion à des appareils audio à travers câble jack de 3,5 mm (inclus). 
+- Sorties USB pour la recharge des appareils externes. Courant de sortie: 5V, 2A. 
+- Affichage à LED rétroéclairé. 
+- Support pour des tablettes et des smartphones dans la partie supérieure. 
+- Panneau supérieur avec 8 boutons pour une utilisation plus intuitive de toutes les fonctions.
+- Télécommande avec contrôle total des fonctions. 
+- Égaliseurs prédéfinis avec option de réglage manuel. 
+- Lecture de fichiers MP3 à partir de cartes SD/SDHC/MMC avec capacité de jusqu'à 32 Go. 
+- Décodeur de mémoire USB: lit des fichiers MP3 à partir de la mémoire flash USB avec capacité jusqu'à 32 GB. 
+- Formats de lecture audio (USB/SD): WAV et MP3. 
+- Haut-parleurs: 4 "x 2 (de base) + 1,5''x 2 (twitters). 
+- Réponse en fréquence: 20Hz-20KHz 
+- Corps en bois. 
+- Gamme de fréquence (FM): 87,5-108MHz 
+- Alimentation: 120-240 V / 50-60 Hz. 
