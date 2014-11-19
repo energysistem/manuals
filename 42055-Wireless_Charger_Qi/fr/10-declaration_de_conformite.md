@@ -10,7 +10,7 @@ Tel: 902 388 388 // Fax: 902 119 034 // NIF: A53107488
 
 Déclarons sous notre seule responsabilité la conformité du produit:
 
-**Energy Sistem™ Energy Wireless Charger Qi**
+**Energy Sistem#trade# Energy Wireless Charger Qi**
 
 Pays de fabricationy: China
 
