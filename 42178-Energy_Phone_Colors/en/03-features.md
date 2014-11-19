@@ -3,7 +3,7 @@
 - Unlocked smartphone with ANDROID#trade# 4.4 Kit Kat O.S.
 - 3 interchangeable color back casings.
 - Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
-- Dual Core processor ARM Cortex A7, 1.3 GHz and GPU Mali-400.
+- Dual Core processor ARM Cortex A7, 1GHz and GPU Mali-400.
 - 3G connection to surf the web 24 hours a day.
 - Wi-Fi (802.11 b/g/n): ultrahigh-speed connection to the Internet via access point.
 - GPS satellite-based function for a precise and reliable navigation.

@@ -3,7 +3,7 @@
 * Smartphone otimizado para ANDROID#trade# 4.4.
 * 3 capas traseiras coloridas intercambiáveis.
 * Tela capacitiva IPS de 4.0" (WVGA - 800x480 pixels).
-* Processador dual core ARM Cortex A7 1.3GHz e GPU Mali-400.
+* Processador dual core ARM Cortex A7 1GHz e GPU Mali-400.
 * Conexão 3G para desfrutar da Internet quando você deseje.
 * Conexão WI-FI (802.11 b/g/n): oferece-lhe uma ligação rápida a través do punto a través do ponto de acesso Wi-Fi.
 * Função GPS: a navegação por satélite mais precisa e fiável.
