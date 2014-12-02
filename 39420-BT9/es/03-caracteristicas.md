@@ -1,4 +1,4 @@
-## Características
+﻿## Características
 
 
 ### Características generales
@@ -7,7 +7,7 @@
 
 - Función NFC: empareja tus dispositivos Bluetooth® con solo pulsar un botón.
 - Tecnología multidriver de 8 altavoces para una calidad sonora envolvente.
-- Reproduce MP3 desde tarjetas microSD/SDHC con capacidad de hasta 64 GB.
+- Reproduce MP3 desde tarjetas microSD/SDHC con capacidad de hasta 32 GB.
 - Soporta los multitud de formatos de audio: MP3, WMA, WAV y FLAC.
 - Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
 - Control total de las funciones desde el propio auricular.
@@ -23,7 +23,7 @@
 
 - Bluetooth® bidireccional.
 - Versión 4.0.
-- Reproducción de tarjetas micro SD/SDHC con capacidad de hasta 64 GB.
+- Reproducción de tarjetas micro SD/SDHC con capacidad de hasta 32 GB.
 - Soporta formatos de audio MP3, WMA, WAV y FLAC.
 - Frecuencia: 2.4GHz banda ISM.
 - Respuesta de frecuencia: 5 Hz~25 KHz.

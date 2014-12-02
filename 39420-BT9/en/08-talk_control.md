@@ -4,6 +4,8 @@ With the *Energy Headphones BT9 Bluetooth* paired to your smartphone or tablet, 
 
 Press the multifunction button (1) again to end the phone call; the song you were listening to will resume from where it stopped when you received the phone call.
 
+If you wish to reject the phone call from the headphones just press and hold the bluetooth button (1) for two seconds.
+
 ### Recall
 
 With your *Energy Headphones BT9 Bluetooth* you will be able to repeat the last phone call registered on your smartphone. To do so, press the multifunction button (1) twice and it will automatically make the phone call.
