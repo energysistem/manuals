@@ -1,4 +1,4 @@
-﻿## <quick_guide> Bluetooth pairing
+## <quick_guide> Bluetooth pairing
 
 
 
