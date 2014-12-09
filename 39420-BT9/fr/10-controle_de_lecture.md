@@ -1,4 +1,4 @@
-﻿## Contrôle de lecture
+## Contrôle de lecture
 
 Une fois que le *Energy Headphones BT9 Bluetooth* est synchronisé, vous pouvez contrôler les fonctions de lecture depuis le casque; tels que le volume de haut en bas, en avant ou en arrière la lecture d'un morceau ou mettre en pause la chanson.
 

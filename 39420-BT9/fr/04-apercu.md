@@ -1,4 +1,4 @@
-﻿## <quick_guide> Aperçu
+## <quick_guide> Aperçu
 
 |  |  |
 |:-------|:-------|

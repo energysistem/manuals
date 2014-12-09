@@ -1,4 +1,4 @@
-﻿## <quick_guide> Caractéristiques principales
+## <quick_guide> Caractéristiques principales
 
 ### Allumer et éteindre l’appareil
 

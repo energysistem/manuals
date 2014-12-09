@@ -1,4 +1,4 @@
-﻿## Mode Line-In / USB
+## Mode Line-In / USB
 
 
 Outre les modes décrits, si votre batterie s'épuise ou que vous ne voulez pas utiliser la connexion sans fil, vous avez deux options supplémentaires pour profiter de votre *Energy Headphones BT9 Bluetooth*: connectez-le à votre lecteur via le câble audio ou à un PC en utilisant le câble USB (tous les deux inclus).
