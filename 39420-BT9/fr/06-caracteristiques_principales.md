@@ -1,8 +1,8 @@
-## <quick_guide> Caractéristiques principales
+﻿## <quick_guide> Caractéristiques principales
 
 ### Allumer et éteindre l’appareil
 
-Utilisez le bouton Bluetooth (1) pour allumer ou éteindre l'appareil en mode Bluetooth. Lorsque vous maintenez enfoncé le bouton Bluetooth (1) l'appareil s’allume et passe en mode synchronisation.
+Utilisez le bouton Bluetooth (1) pour allumer ou éteindre l'appareil en mode Bluetooth. Lorsque vous maintenez enfoncé le bouton Bluetooth (1) l'appareil s'allume et passe en mode synchronisation.
 
 Pour allumer ou éteindre le casque en mode lecture de cartes Micro SD/SDHC maintenez le bouton (9). Le casque lira la musique contenue dans la carte SD/SDHC Micro.
 
@@ -10,6 +10,6 @@ Pour allumer ou éteindre le casque en mode lecture de cartes Micro SD/SDHC main
 
 ### Chargement de la batterie
 
-Lorsque le casque n'émet plus de son ou que vous commencez à percevoir que sur de petites distances le casque émet d’interférences, il est temps de le recharger, en connectant l’extrémité mini USB du câble USB (inclus) au *Energy Headphones BT9 Bluetooth* (13) et l'autre extrémité USB de n'importe quel appareil avec un port USB capable de fournir de l’énergie (PC, chargeur USB de mur, de voiture, etc.). La LED (4) s'allume en rouge lors de la charge et la LED (4) s’allume en bleu une fois la charge complète.
+Lorsque le casque n'émet plus de son ou que vous commencez à percevoir que sur de petites distances le casque émet d'interférences, il est temps de le recharger, en connectant l'extrémité mini USB du câble USB (inclus) au *Energy Headphones BT9 Bluetooth* (13) et l'autre extrémité USB de n'importe quel appareil avec un port USB capable de fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.). La LED (4) s'allume en rouge lors de la charge et la LED (4) s'allume en bleu une fois la charge complète.
 
-**NOTE IMPORTANTE :** Pour maintenir la batterie en bon état, nous vous recommandons fortement de ne pas charger la batterie jusqu'à ce qu'elle soit complètement épuisée. Il est également recommandé de ne pas interrompre le chargement ni utiliser le casque  jusqu'à ce que la batterie soit complètement chargée.
+**NOTE IMPORTANTE:** Pour maintenir la batterie en bon état, nous vous recommandons fortement de ne pas charger la batterie jusqu'à ce qu'elle soit complètement épuisée. Il est également recommandé de ne pas interrompre le chargement ni utiliser le casque  jusqu'à ce que la batterie soit complètement chargée.
