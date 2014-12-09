@@ -6,5 +6,5 @@ bracelet sportif de néoprène réglable.
 * Nous vous conseillons de lire la présente guide de démarrage rapide pour tirer le meilleur
 parti au produit d’une façon simple et sécurisée, profitant de ses prestations.
 * Consultez le manuel entier de l’Energy MP3 Running sur ce lien: 
-http://energysistem.com/guide/39052
+http://energysistem.com/guide/39052 
 
