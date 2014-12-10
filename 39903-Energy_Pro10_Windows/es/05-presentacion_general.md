@@ -1,10 +1,10 @@
 ## <quick_guide> Presentación general
 
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/5458f1fe4dd33.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54886c0cd1ba5.jpg)
 
 1. Cámara trasera
 2. Cámara delantera
-3. Altavoz
+3. Altavoces
 4. Botón de encendido/apagado
 5. Botón de control de volumen +
 6. Botón de control de volumen -
@@ -13,8 +13,6 @@
 9. Salida de auriculares
 10. Conector microUSB
 11. Salida microHDMI
-12. Conector USB
-13. Conector DC
-14. Conector Keyboard
-
+12. Conector Keyboard
+13. Botón Windows
 </quick_guide>
