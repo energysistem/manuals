@@ -6,5 +6,6 @@
 2. Teclas Multimedia
 3. Trackpad
 4. Soporte Tablet
+5. Puerto USB
 
 </quick_guide>
