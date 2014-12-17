@@ -1,71 +1,45 @@
-## Principales Applications
+## Top des applications 
 
-### Navigateur Internet
+### Navigateur Web 
 
-Votre nouveau Energy Tablet a un puissant navigateur Web entre la liste d'applications utilisées par défaut, avec lequel vous pourrez utiliser l'Internet d'une façon simple et rapide.
-Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateur situé dans le bureau ou le menu d'applications pour démarrer le programme. Le système chargera la page de démarrage par défaut et sera affichée sur l'écran.
+Votre nouveau Energy Tablet dispose du puissant navigateur Web Internet Explorer 11 entre la liste des applications installées par défaut, vous pouvez utiliser l'Internet rapidement et facilement. 
+Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône sur le bureau ou dans le menu Applications pour lancer l'icône Navigateur. Le système va charger la page d'accueil définie par défaut et affiché. 
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
 
-1. Reculer
-2. Avancer
-3. Charger
-4. Site WEB
-5. Écrire
-6. Appuyez enter
-7. Créer onglet
-8. Fermer onglet
-9. Options
+### Courrier 
 
-### Administrateur d'Email
+Votre Energy Tablet dispose d'un email par défaut installé l'application de gestion qui vous permet de travailler avec votre compte de messagerie pratique et efficace. En outre, nous incluons la licence pour Microsoft Office 365, vous disposez de Microsoft Outlook pour une longue expérience dans le travail avec votre e-mail. 
 
-Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
+Pour les paramètres de configuration de votre requête à votre fournisseur de compte email. 
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
-1.	Dossier choisi
-2.	E-mails.
-3.	Nouveau email
-4.	Chercher
-5.	Options.
+### Microsoft Office 365 
 
-### Lecture de musique
+Votre Energy Tablet comprend ensemble de bureau Mircrosoft Office 365 qui inclut, entre autres, Microsoft Word, Microsoft Excel et les applications Microsoft Outlook. Vaste expérience en utilisant votre énergie grâce Tablet à la licence d'un an que nous incluons avec elle. 
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
-1.	Liste de lecture
-2.	Lecture aléatoire
-3.	Répétition
-4.	Chanson antérieure
-5.	Play / pause
-6.	Chanson postérieure
 
-### Visualisation Vidéo
+### OneDrive 
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
-1.	Temps de lecture
-2.	Rapport d'aspect
-3.	Vidéo antérieur
-4.	Play / Pausa
-5.	Vidéo postérieure
-6.	Paramètres
+OneDrive nous permet de partager des documents dans le nuage et facilement télécharger à partir de n'importe quel appareil connecté à Internet. Vous pouvez accéder à tous vos documents où que vous soyez, et votre Energy Tablet avoir 1 To d'espace de stockage disponible. 
 
-## Caméra
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
-1.	Changer de caméra
-2.  Mode de capture normal/ continu
-3.	Mode panoramique
-4.	Effet post-capture
-5.	Paramètres
-6.  Mode photographie/vidéo
-7.	Déclencheur
-8.	Pré-visualiser photos
+### Skype 
 
-## Galerie: Images et Vidéos
+Skype vous permet de rester en contact à partir de votre maison, au travail ou partout où vous êtes avec tout le monde. En outre, cette plate-forme peut être installé sur votre tablette, PC, smartphone, etc Avec votre Energy Tablet vous pouvez profiter de 60 minutes d'appels gratuits par mois pendant un an. 
 
-Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
-Pour retourner au bureau d'accueil, appuyez sur le bouton de retour ou Démarrage
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
+### Lecture audio et vidéo 
+
+Vous pouvez utiliser Windows Media Player pour jouer de la musique et des vidéos. Prise en charge de l'audio et la vidéo la plus courante et permet de multiples ajustements dans les mêmes formats. 
+
+
+### Galerie: Photos 
+
+Vous pouvez utiliser cette application pour afficher les photos que vous avez à la fois sur votre Energy Tablet et OneDrive. Aussi, si vous avez des photos sur votre téléphone, vous pouvez les importer en utilisant cette application. 
+Pour afficher vos photos, ouvrez l'application Photos sur l'écran d'accueil. Toutes les photos dans votre dossier images apparaissent dans cette application. 
+
+
+### Caméra 
+
+Votre chambre Energy Tablet a préinstallé application et d'autres applications peuvent également utiliser la Chambre les téléchargeant à partir du Windows Store. 
+Pour prendre une photo ou enregistrer une vidéo, vous avez besoin d'ouvrir l'application appareil photo et appuyez sur le bouton Photo touche Video ou sur l'écran. Il existe différents paramètres pour améliorer la prise de photos et de vidéos. 
