@@ -2,25 +2,29 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
 1.Utilisateur: Affiche la session active d'utilisateurs et permet à proximité et de commencer une nouvelle session 
+
 2.Recherche: Permet de rechercher latablette, n'importe où dans le Windows Store et les demandes de permis. 
+
 3.Desktop: accéder au Windows traditionnel mode bureau # # commerce 
-4 Email: email 
-5 Équipe: accès aux unités de stockage du système 
 
-6  ** Réglages **: les paramètres de l'équipement 
+4.Email: email 
 
-7 ** ** magasin: Windows App Store # # commerce 
+5.Équipe: accès aux unités de stockage du système 
 
-8 ** Office 365 ** : Microsoft Word, Excel, Outlook ... 
+6.Réglages: les paramètres de l'équipement 
 
-9 ** OneDrive **: stockage en nuage 
+7. Magasin: Windows App Store # # commerce 
 
-10 ** ** caméra: l'accès aux caméras intégrées 
+8.Office 365: Microsoft Word, Excel, Outlook ... 
 
-11 ** Galerie **: accès à la galerie d'images 
+9.OneDrive: stockage en nuage 
 
-12 ** Internet Explorer **: navigateur web 
+10.Caméra: l'accès aux caméras intégrées 
 
-13 ** Contacts **: carnet d'adresses universel 
+11.Galerie: accès à la galerie d'images 
 
-14 ** Skype **: fait des appels de visioconférence ... 
+12.Internet Explorer: navigateur web 
+
+13.Contacts: carnet d'adresses universel 
+
+14.Skype: fait des appels de visioconférence ... 
