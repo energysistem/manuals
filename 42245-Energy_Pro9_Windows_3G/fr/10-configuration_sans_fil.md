@@ -1,39 +1,25 @@
 ## Configuration sans fil
 
-### Configuration de la carte SIM
-
-Votre Energy Tablet a la possibilité d’utiliser cartes SIM. Sur la section Paramètres >> Administration de carte
-SIM, vous pourrez gérer les cartes.
-
 ### Bluetooth
 
-Votre Energy Tablet inclut une connexion Bluetooth. Pour conencter votre appareil avec les écouteurs, ordinateurs portables, tablettes, smartphones, etc. Allez sur Paramètres >> Bluetooth et changez vers la position ON. À continuation comencera à
-faire la recherche de tous les appareils disponibles et vous devrez que choisir un seul pour commencer la connexion.
+Votre Energy Tablet dispose d'une connexion Bluetooth. Pour connecter votre appareil avec des écouteurs, ordinateurs, tablettes, smartphones, etc Pour coupler le dispositif Bluetooth suivez les étapes ci-dessous. 
+1 permet à l'appareil en mode d'appairage. 
+2 Paramètres d'accès ouvert, cliquez sur les périphériques PC> PC> Modifier les paramètres Bluetooth. 
+3 Vous devez vous assurer que Bluetooth est activé, et a commencé à apparaître périphériques disponibles Bluetooth à portée. 
+4 Suivez les instructions à l'écran pour terminer le couplage de l'appareil. 
 
 
-1. Bluetooth.
-2. Habilitez la case Bluetooth.
-3. Choisissez l'appareil dont vous voulez être connecté.
-4. Accéptez la demande de synchronisation.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce6409792.jpg)
+### Configuration d'une connexion Wi-Fi 
 
-### Configuration Wi-Fi
+Votre Energy Tablet dispose du WiFi. Pour connecter votre appareil à un réseau sans fil les étapes suivantes. 
 
-Appuyez sur Paramètres depuis l'ÉCRAN D'ACCUEIL.
+1 Entrez les paramètres et cliquez sur l'icône de réseau sans fil. 
+2 Cliquez sur le réseau sans fil auquel vous souhaitez vous connecter et cliquez sur se connecter. 
+3 Dans le cas où le réseau est sécurisé, nous demander le mot de passe. Tapez la sécurité du réseau et cliquez sur Suivant. 
+4 Maintenant, vous devez indiquer si vous souhaitez comnpartir vos fichiers et périphériques avec d'autres ordinateurs sur le réseau et indiquer le type de réseau auquel vous vous connectez 
 
-Écran de réglage
-
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf1a88f67.jpg)
-
-1. Wi-Fi.
-2. Habilitez la case Wi-Fi.
-3. Choisissez votre réseau Wi-Fi.
-4. Établir la connexion.
-
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cf13f046d.jpg)
-
-**Avis:** Votre Energy Tablet est compatible avec les standards de sécurité et de cryptage WEP, WPA, WPA2, TKIP et
-AES. Quand le processus d'authentification soit complété avec succès, votre Energy Tablet enregistrera les données
-d'accès au réseau Wi-Fi et sera prêt pour utiliser de l'Internet. L'appareil enregistrera le réseau et sera
-connecté automatiquement quand il soit disponible.
+Note: Votre Energy Tablet est compatible avec les normes de sécurité WEP, WPA, WPA2, TKIP et 
+AES. Une fois que vous avez terminé le processus d'authentification avec succès, votre Energy Tablet enregistrer les données 
+L'accès au réseau Wi-Fi et vous serez prêt pour vous d'utiliser l'Internet. L'appareil mémorise le réseau et 
+connecter automatiquement à elle dès qu'il sera disponible. 
