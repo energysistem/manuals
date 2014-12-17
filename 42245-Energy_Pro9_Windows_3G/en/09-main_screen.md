@@ -1,6 +1,6 @@
 ## Main Screen
 
-![Imagen1](http://static.energysistem.com/images/manuals/42245/54193b9b122ee.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
 
 1. **User**: shows the opened user account
 2. **Search:** direct access to tablet, windows store and applications search engine.
