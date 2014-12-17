@@ -4,10 +4,8 @@
 1.Utilisateur: Affiche la session active d'utilisateurs et permet à proximité et de commencer une nouvelle session 
 2.Recherche: Permet de rechercher latablette, n'importe où dans le Windows Store et les demandes de permis. 
 3.Desktop: accéder au Windows traditionnel mode bureau # # commerce 
-
 4 Email: email 
-
-5 ** équipe **: accès aux unités de stockage du système 
+5 Équipe: accès aux unités de stockage du système 
 
 6  ** Réglages **: les paramètres de l'équipement 
 
