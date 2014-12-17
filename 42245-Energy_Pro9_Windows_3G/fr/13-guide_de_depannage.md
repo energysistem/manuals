@@ -1,23 +1,31 @@
 ## Guide de Dépannage
 
-1.	Pour quoi quelques fichiers MP3 ne peuvent pas être lis? Le fichier MP3 doit respecter les normes layer 3 de MPEG1, MPEG2 ou MPEG 2.5.  Au contraire, il doit être recodé parmi un software.
+1 Pourquoi ne puis-je pas lire certains fichiers MP3? 
+Le fichier MP3 doit respecter la couche de règles 3 de MPEG1, MPEG2 et MPEG 2.5. Sinon, il a été converti en utilisant le logiciel. 
 
-2.	Ma Energy Tablet ne s'allume pas, qu'est-ce que je peux faire? Assurez-vous que la batterie soit suffisamment chargée, après essayer de brancher l'appareil. Si même en le chargeant pendant au moins 30 minutes, le système continue sans pouvoir être allumé, c'est possible qu'il y ait un problème avec le système d'exploitation installé. S'il vous plaît, lisez la section de ce manuel "Mise à jour".
+2 Mon Energy Tablet ne s'allume pas, ce que je peux faire? 
+Assurez-vous que la batterie est suffisamment chargée pour essayer d'allumer l'appareil. Si vous en laissant en charge pendant au moins 30 minutes, le système ne démarre toujours pas, vous pouvez avoir un problème avec le système d'exploitation installé. S'il vous plaît lisez la section de cette "mise à jour" manuel. 
 
-3.	Pour quoi quelques fichiers WMA ne se lissent pas? Assurez-vous que vous n'êtes pas en train de codifier les WMA avec DRM.
+3 Pourquoi ne pas les fichiers WMA? 
+Assurez-vous que vous n'avez pas encodé le WMA avec DRM. 
 
-4.	Pour quoi je ne peux pas voir mes fichiers de vidéo, image ou texte quand j'utilise le lecteur de musique? Généralement, les applications seulement montrent les fichiers compatibles, qui peuvent être lis par le programme. Pourtant, pendant que vous naviguez par les dossiers depuis une application en particulier, vous pourriez seulement visualiser les fichiers associés à ce programme (chansons avec le lecteur de musique, des filmes avec le lecteur de vidéo, etc). Pour regarder tous les fichiers dans la mémoire, au même temps, initiez l'application Explorateur depuis le bureau d'applications.
+4 Pourquoi je ne peux pas voir mes fichiers vidéo, image ou texte quand j'utilise le lecteur de musique? 
+Général, les applications ne montrent que des fichiers compatibles qui peuvent être lus par le programme. Par conséquent, tout en parcourant les dossiers à partir d'une application particulière, vous pouvez afficher uniquement les fichiers du type associé à ce programme (chansons avec le lecteur de musique, les films avec le lecteur vidéo, etc ...). 
 
-5.	Quels sont les formats de vidéo compatibles avec ma Energy Tablet? Votre Energy Tablet peut jouer multiples formats de vidéo sans recoder.
+5 Quels sont les formats vidéo compatibles avec mon Energy Tablet? 
+Votre Energy Tablet peut jouer plusieurs formats vidéo sans recodage. Vous pouvez télécharger des applications avec différents codecs pour augmenter le nombre de fichiers pris en charge. 
 
-6.	Pour quoi je n'arrive pas à visualiser mes fichiers des images .jpg? Nombreux appareils photos numériques et programmes d'édition d'images ont additionnés des donnés cachés aux fichiers .jpg. Ces donnés peuvent faire que votre Energy Tablet ne charge pas les images.  Essayez de les effacer en enregistrant l'image avec un autre nom.
+6 Pourquoi ne puis-je pas afficher mes images jpg? 
+De nombreux appareils photo numériques et des logiciels de retouche d'image ajouter cachés aux données des fichiers jpg. Cela peut rendre votre Energy Tablet charger les images. Essayez de les éliminer en enregistrant le fichier sous un autre nom. 
 
-7.	Quelques fois, l'écran est en toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
+7 Parfois, l'écran devient noir et le dispositif ne répond pas. 
+Il est toujours préférable de redémarrer l'appareil à travers les options disponibles dans le système, mais si cela n'est pas possible, démarrez enlever et remettre la batterie et en appuyant sur le bouton d'alimentation. 
 
-8.	La capacité de mémoire do Energy Tablet x7 Quad 3G est 8Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
+8 La capacité de mémoire disponible dans mon Tablet énergie est inférieure à celle indiquée dans especificaciones¿Por quoi? 
+Le système d'exploitation Windows ™ et les applications installées sur la mémoire interne de l'appareil nécessaire à l'exécution. Par conséquent, la quantité de mémoire disponible pour stocker des données supplémentaires est quelque peu inférieure à celle spécifiée. 
 
-9.	J'ai mis à jour le firmware et j'ai aucun livre ni fond d'écran. Comment pourrais-je récupérer les contenus qui étaient préinstallés? Avant de toute mise à jour du système, nous recommandons de faire une copie de sécurité de tout ce que vous voulez conserver. À energysistem.com vous trouverez non seulement tous les contenus qui viennent préinstallés dans votre Energy Tablet sinon beaucoup plus des livres et des fonds d'écran additionnels.
+9 Je amélioré le firmware et maintenant je n'ai pas de fichiers multimédia ou du papier peint Comment puis-je récupérer les fichiers qui ont été préinstallés? 
+Avant tout système mises à jour vous recommandons de sauvegarder tout ce que vous voulez garder. Dans energysistem.com'll trouver non seulement tous les contenus qui ont été préinstallés sur votre tablette énergie mais beaucoup plus de fichiers multimédia et afficher des fonds supplémentaires. 
 
-10.	Qu'est-ce que je dois faire pour pouvoir installer une application? Premièrement, assurez-vous bien que le fichier a l'extension d'installation Android#trade#(APK), deuxièmement, Android#trade# vous demandera d'activer l'installation d'applications depuis « Origines méconnus », cette option est désactivé par sécurité. Pour autoriser l'installation d'applications, vous avez que à suivre les instructions qui vont apparaître sur l'écran, la première fois que vous essayez d'installer une application : Paramètres / Applications / Origines méconnus (activer).
-
-11.	Quelle est l'autonomie du dispositif? Cela dépend, surtout, des conditions d'usage, comme le niveau d'éclat de l'écran, l'usage d'écouteurs ou du haut parleur, ou si le Wi-Fi est activé ou désactivé et l'usage de réseaux GSM et 3G. L'autonomie de l'Energy Tablet Neo est de 120 heures en standby et 8 heures de conversation.
+10 Quelle est l'autonomie de l'appareil? 
+Il dépend beaucoup des conditions d'utilisation, comme la luminosité de l'écran, avec un casque ou des haut-parleurs, si le Wi-Fi est activé ou désactivé, la puissance écessaire pour l'exécution d'applications et de jeux, etc 
