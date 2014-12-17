@@ -1,13 +1,13 @@
 ## Écran d'accueil 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
-1 ** utilisateur ** Affiche la session active d'utilisateurs et permet à proximité et de commencer une nouvelle session 
+1 Utilisateur: Affiche la session active d'utilisateurs et permet à proximité et de commencer une nouvelle session 
 
-2 ** ** Recherche: Permet de rechercher latablette, n'importe où dans le Windows Store et les demandes de permis. 
+2 Recherche: Permet de rechercher latablette, n'importe où dans le Windows Store et les demandes de permis. 
 
-3 ** ** Desktop: accéder au Windows traditionnel mode bureau # # commerce 
+3 Desktop: accéder au Windows traditionnel mode bureau # # commerce 
 
-4 ** Email **: email 
+4 Email: email 
 
 5 ** équipe **: accès aux unités de stockage du système 
 
