@@ -13,7 +13,7 @@
 
 6.Réglages: les paramètres de l'équipement 
 
-7. Magasin: Windows App Store # # commerce 
+7.Magasin: Windows App Store 
 
 8.Office 365: Microsoft Word, Excel, Outlook ... 
 
