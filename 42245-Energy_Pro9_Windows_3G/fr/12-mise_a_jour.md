@@ -1,6 +1,6 @@
 ## Mise à jour 
 
-Votre Energy Tablet offre exploitation Windows commerce système de # # 8.1 installé, vous pouvez réinstaller ou mettre à jour si nécessaire. Par défaut, les mises à jour automatiques sont activées, de sorte que votre Energy Tablet vous en avertit automatiquement lorsqu'une mise à jour est disponible pour l'installation. 
+Votre Energy Tablet offre exploitation commerce système de Windows 8.1 installé, vous pouvez réinstaller ou mettre à jour si nécessaire. Par défaut, les mises à jour automatiques sont activées, de sorte que votre Energy Tablet vous en avertit automatiquement lorsqu'une mise à jour est disponible pour l'installation. 
 
 Vous pouvez également réinstaller les paramètres d'usine du système d'exploitation. Suivez ces étapes pour l'installation: 
 
