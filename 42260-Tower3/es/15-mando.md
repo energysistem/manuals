@@ -17,9 +17,9 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
     * EQ 3: Jazz.
     * EQ 4: Classic.
 
-* Navegación por carpetas (Botón X) para los modos USB y SD.
+* Navegación por carpetas para los modos USB y SD.
 
-* Modos repeat y random (Botón RPT).
+* Modos repeat y random.
 
 * Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
 
