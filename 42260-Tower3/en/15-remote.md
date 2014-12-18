@@ -17,9 +17,8 @@ Control all the functions the *Energy Tower 3* has to offer:
     * EQ 3: Jazz.
     * EQ 4: Classic.
 
-* Use the X button to browse through in USB and SD mode.
+* Use the mode button to browse through in USB and SD mode.
 
-* Repeat/random modes (RPT
-button).
+* Repeat/random modes (RPT button).
 
 * Select a song or radio station using the number buttons (USB, SD and radioi FM modes).

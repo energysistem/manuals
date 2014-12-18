@@ -3,9 +3,9 @@
 - 2.0 tower sound system .
 - Wireless connectivity: Bluetooth® v4.0 + EDR.
 - Bluetooth protocols: A2DP; AVRCP.
-- RMS power: 30 W (10W + 5W * 2 * 2).
+- RMS power: 40 W (15W + 5W * 2 * 2).
 - Range of use: up to 10m.
-- Cmpatible with USB pendrives and SD/SDHC/MMC cards  up to 32 GB of capacity.
+- Compatible with USB pendrives and SD/SDHC/MMC cards  up to 32 GB of capacity.
 - FM Radio.
 - Frequency range (FM): 87.5-108MHz
 - Connect external audio devices using a 3.5mm jack cable (included).
@@ -17,7 +17,6 @@
 - Remote control to control all functions .
 - Preset EQs with manual setting option.
 - Plays MP3 files from SD/SDHC/MMC cards up to 32 GB of capacity.
-- USB memory decoder: plays MP3 files from USB memory drives up to 32 GB of capacity.
 - Compatible audio formats (USB/SD): WAV and MP3.
 - Speakers: 4"x2 (core) + 1.5"x2 (twitters).
 - Frequency response: 20Hz-20KHz
