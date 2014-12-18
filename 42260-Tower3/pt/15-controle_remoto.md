@@ -1,4 +1,4 @@
-## Controle remoto
+﻿## Controle remoto
 
 Usando o controle remoto você pode controlar todos os recursos da *Energy Tower 3*.
 
@@ -12,7 +12,7 @@ Usando o controle remoto você pode controlar todos os recursos da *Energy Tower
 
 * Equalização (EQ predefinida) para os modos USB e SD. 
 
-* Navegação por pastas * (Botão X) para os modos USB e SD. 
+* Navegação por pastas para os modos USB e SD. 
 
 * modos Repeat e Random (Botão RPT). 
 
