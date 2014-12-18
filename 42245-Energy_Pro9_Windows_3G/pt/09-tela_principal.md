@@ -19,9 +19,9 @@
 
 9. **OneDrive**: armazenamento em nuvem 
 
-10. ** Câmara:** acesso a câmeras integradas 
+10. **Câmara:** acesso a câmeras integradas 
 
-11. ** Galeria **: acesso à galeria de imagens 
+11. **Galeria **: acesso à galeria de imagens 
 
 12. **Internet Explorer**: navegador 
 
