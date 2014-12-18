@@ -15,7 +15,7 @@
 
 7. **Store**: Loja de aplicaçoes Windows #trade# 
 
-8. **Office 365** Escritório: Microsoft Word, Excel, Outlook ... 
+8. **Office 365**: Escritório: Microsoft Word, Excel, Outlook ... 
 
 9. **OneDrive**: armazenamento em nuvem 
 
