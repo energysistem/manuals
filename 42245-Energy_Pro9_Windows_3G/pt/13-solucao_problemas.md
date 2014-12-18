@@ -1,34 +1,32 @@
 ## Solução de Problemas
 
-1.	Por que não podem ser lidos alguns arquivos MP3?
-O arquivo MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. No caso contrario tem que recodificar mediante software.
+1 Por que não consigo reproduzir alguns arquivos de MP3? 
+O arquivo MP3 deve respeitar a camada de regras de 3 de MPEG1, MPEG2 e MPEG 2.5. Caso contrário, ele foi convertido usando software. 
 
-2.	Minha Energy Tablet não liga, que posso fazer? 
-Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se mesmo carregando a bateria ao menos 30 minutos, o sistema continua sem ligar, é possível que exista um problema com o sistema operacional instalado. Por favor, leia a secção “ATUALIZAÇÃO” deste manual.
+2 My Energy Tablet não liga, o que eu posso fazer? 
+Certifique-se de que a bateria está carregada o suficiente para tentar ligar o dispositivo. Se você ainda deixando de cobrar por pelo menos 30 minutos, o sistema ainda não é iniciado, você pode ter um problema com o sistema operacional instalado. Por favor, leia a seção deste "Update" manual. 
 
-3.	Por que não se reproduzem alguns arquivos WMA? 
-Assegure-se que não estás codificando os WMA com DRM.
+3 Por que não alguns arquivos WMA? 
+Verifique se você não está codificando o WMA com DRM. 
 
-4.	Por que não posso ver os meus arquivos de vídeo, imagem ou texto quando utilizo o leitor de musica?  
-Geralmente, as aplicações só mostram os arquivos compatíveis que possam ser lidos pelo programa. Por tanto, enquanto navegue pelas pastas desde uma aplicação em concreto, só poderá visualizar os tipos de arquivos associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...). Para poder ver todos os arquivos salvos na memória, inicie a aplicação FileXplorer desde o menu de aplicações.
+4 Por que eu não posso ver meus arquivos de vídeo, imagem ou texto quando eu uso o leitor de música? 
+Geralmente aplicações mostrar apenas arquivos compatíveis que podem ser reproduzidos pelo programa. Portanto, enquanto navega pastas a partir de um aplicativo específico, você pode visualizar apenas os arquivos do tipo associado a esse programa (músicas com o leitor de música, filmes com o player de vídeo, etc ...). 
 
-5.	Quais são os formatos de vídeo compatíveis com minha Energy Tablet? 
-A minha Energy Tablet pode ler múltiplos formatos de vídeo sem recodificar.
+5 Quais são os formatos de vídeo compatível com o meu Tablet Energia? 
+Seu Energia Tablet pode jogar vários formatos de vídeo sem recodificação. Você pode fazer download de aplicativos com diferentes codecs para aumentar o número de arquivos suportados. 
 
-6.	Por que não consigo visualizar os meus arquivos de imagens.jpg? 
-Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos arquivos.jpg. Estes dados podem fazer com que a Energy Tablet não carregue as imagens. Tente eliminar o arquivo, renomeá-lo e voltar a salvá-lo na memória do dispositivo.
+6 Por que não consigo visualizar os meus arquivos de imagens jpg? 
+Muitas câmeras digitais e software de edição de imagens adicionar dados arquivos jpg ocultos. Isso pode tornar o Tablet Energia carregar as imagens. Tente eliminá-los por salvar o arquivo com outro nome. 
 
-7.	Muitas vezes a tela fica em cor preto e o dispositivo não responde. Aperta ao botão Reset para reiniciar o dispositivo. É melhor reiniciar o dispositivos através das opções disponíveis no sistema, reinicie o dispositivo e ligue-o de novo.
+7 Às vezes, a tela fica preta eo dispositivo não responde. 
+É sempre melhor para reiniciar o dispositivo através das opções disponíveis no sistema, mas se isso não for possível, reiniciar remover e colocar de volta a bateria e pressionar o botão de energia. 
 
-8.	A capacidade de memória da Energy Tablet, mas a memória disponível é inferior. Por quê?
-O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 1,5 GB de memória interna para funcionar. Por isso, a memória disponível para guardar dados adicionais é inferior da especificada.
+8 A capacidade de memória disponível no meu Tablet energia é menor do que o indicado na especificaciones¿Por quê? 
+O sistema operacional Windows ™ e aplicativos instalados na memória interna do dispositivo necessário para executar. Portanto, a memória disponível para armazenar dados adicionais é um pouco menos do que o especificado. 
 
-9.	Actualizei o sistema operacional, mas perdi os arquivos multimédia e fundos de tela salvos. Como posso recuperar os conteúdos pré-instalados? 
-Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados na sua Energy Tablet e muito mais arquivos multimédia e fundos de tela adicionais.
+9 Eu atualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
+Antes de qualquer sistema de atualizações recomendável fazer backup de tudo que você deseja manter. Em energysistem.com'll encontrar não só todo o conteúdo que veio pré-instalado em seu Tablet energia, mas muitos mais arquivos de mídia e exibir fundos adicionais. 
 
-10.	Que devo fazer para que me deixe instalar uma aplicação? 
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
-Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
+10 Qual é a autonomia do aparelho? 
+Depende muito das condições de uso, como o brilho da tela, usando fones de ouvido ou alto-falante, se o Wi-Fi está ligado ou desligado, a energia necessária para a execução de aplicativos e jogos, etc 
 
-11.	Qual é a autonomia do dispositivo? 
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada, a potência que exijam as aplicações e jogos, etc. 
