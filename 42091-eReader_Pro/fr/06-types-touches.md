@@ -1,4 +1,4 @@
-##<quick_guide> Types de touches
+## Types de touches
 
 Gestes élémentaires 
 
@@ -28,5 +28,3 @@ Agrandir ou réduire l'image de l'écran
 
 - Utiliser les boutons latéraux pour avancer ou reculer de page.
 
-
-</quick_guide>
