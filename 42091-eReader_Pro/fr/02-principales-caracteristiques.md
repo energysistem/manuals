@@ -14,4 +14,4 @@
 - Mémoire interne : 8 Go, extensible jusqu'à 64 Go avec des cartes micro SD / SDHC.
 - Inclut 1500 livres de littérature universelle en cadeau.  
 
-- * Calcul basé sur une demi-heure de lecture quotidienne avec un niveau minimum de lumière et le WiFi désactivé.
+*Calcul basé sur une demi-heure de lecture quotidienne avec un niveau minimum de lumière et le WiFi désactivé.*
