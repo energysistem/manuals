@@ -1,4 +1,4 @@
-##<quick_guide> Introduction
+## Introduction
 
 Energy Sistem#trade# vous remercie pour l’achat du nouveau Energy eReader Pro. Nous espérons que vous allez en profiter! Ce nouveau lecteur de livres électroniques possède un écran E-Ink  tactile haute définition de 6’’ et sa fonction screenlight vous permet de lire dans des endroits avec peu de lumière. La navigation et le libre accès à votre courriel est possible grâce à son WiFi intégré. C’est un partenaire idéal de lecture avec ses fonctions avancées de lecture et ses 8Go de mémoire interne. Nous vous conseillons de lire le manuel d’utilisateur pour profiter du produit d’une manière plus sûre et profiter au maximum de toutes ses capacités. 
 
@@ -17,6 +17,3 @@ Nous vous recommandons de lire ce qui suit:
 - Ne pas exercer une pression sur l'écran de l'appareil. 
 - Ne pas retirez la carte micro SD ou éteindre l'appareil pendant la lecture ou l'écriture des données pour empêcher la perte de données. 
 - Assurez-dans celle-ci.
-
-
-</quick_guide>
