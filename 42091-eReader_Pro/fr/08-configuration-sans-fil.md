@@ -1,4 +1,4 @@
-##Configuration sans fil 
+## Configuration sans fil 
 
 Votre eReader Pro Energy possède la connexion Wi-Fi. Pour connecter votre appareil à un réseau sans fil, il suffit d'aller dans Réglages >> Wi-Fi et mettre l’interrupteur sur la position « ON ». Ensuite débutera la recherche de réseaux sans fil et il vous suffit de sélectionner un réseau pour démarrer le processus de connexion. 
 
