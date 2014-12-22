@@ -1,4 +1,4 @@
-##<quick_guide> Écran principal
+##Écran principal
 
 1) Carrousel des livres récemment lus 
 
@@ -21,7 +21,5 @@ parallèles). Cliquez sur cet icône pour accéder aux options avancées.
 
 10) Date/Heure 
 
-* Vous pouvez définir les icônes que vous voulez sur la page principale. Pour les modifier, vous devez suivre ces étapes: Paramètres / Paramètres définis par l'utilisateur / Personnaliser les applications du bureau.
+*Remarque:* Vous pouvez définir les icônes que vous voulez sur la page principale. Pour les modifier, vous devez suivre ces étapes: Paramètres / Paramètres définis par l'utilisateur / Personnaliser les applications du bureau.
 
-
-</quick_guide>
