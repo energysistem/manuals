@@ -1,18 +1,18 @@
-## <quick_guide> Declaración de conformidad
+## <quick_guide> Pantalla principal
 
-**Nombre del suministrador:** Energy Sistem Soyntec S.A.
+1)	Carrusel de los últimos libros leídos
+2)	Carrusel de los últimos libros añadidos
+3)	Iconos principales*
+4)	Home: te devuelve a la pantalla principal
+5)	Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
+6)	En ocasiones, encontrarás el icono de opciones adicionales (icono de las dos rayas paralelas horizontales). Pulsa este icono para acceder a opciones avanzadas.
+7)	Luz: te permite ajustar el nivel de luz para iluminar la pantalla de tu eReader
+8)	Wi-Fi: te indica la recepción de tu señal Wi-Fi
+9)	Batería: te indica el nivel de batería que dispone tu eReader
+10)	Hora
 
-**Dirección:** Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
+* Puedes configurar los iconos que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / Definido por el usuario / Personalizar las apps del escritorio.
 
-**Tel:** 902 388 388 // **Fax:** 902 119 034 // **NIF:** A53107488
-
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
-
-**Energy Sistem#trade# - Energy eReader Pro**
-
-**País de fabricación**: China
-
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
 
 </quick_guide>
