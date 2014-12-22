@@ -38,7 +38,7 @@ Différentes fonctions sont possibles lors de la lecture d'un livre:
 Cette application donne accès à la bibliothèque audio pour profiter de tous vos fichiers stockés dans la mémoire interne de votre eReader ou sur votre carte micro SD / SDHC. Dans le menu de l'application, sélectionnez l’icône: (icône de la musique) 
 Une fois l'application ouverte, vous pouvez profiter de tous vos fichiers audio. La recherche de votre audio préféré est facilicité par le stockage par artistes, par albums ou playlists.
 
-* Mode lecture: * Vous pouvez définir l'ordre de lecture des chansons (lecture aléatoire, répétition chanson en cours, répéter toutes les chansons). 
+*Mode lecture:* Vous pouvez définir l'ordre de lecture des chansons (lecture aléatoire, répétition chanson en cours, répéter toutes les chansons). 
 Ce mode de lecture offre la possibilité de: 
 - Accéder directement à votre bibliothèque pour choisir votre chanson 
 - La lecture aléatoire de vos chansons 
@@ -47,7 +47,7 @@ Ce mode de lecture offre la possibilité de:
 - Contrôler le volume 
 - Modifier les effets sonores 
 
-* Note: * Les boutons latéraux vous permettent d'augmenter ou de diminuer le volume de la chanson que vous écoutez.
+*Note:* Les boutons latéraux vous permettent d'augmenter ou de diminuer le volume de la chanson que vous écoutez.
 
 
 **Bloc notes**
