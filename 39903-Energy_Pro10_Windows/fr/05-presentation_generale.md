@@ -1,6 +1,6 @@
 ## <quick_guide> Présentation générale
 
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/5458f1fe4dd33.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54886c0cd1ba5.jpg)
 
 1. Caméra arrière
 2. Caméra avant
@@ -13,8 +13,7 @@
 9. Sortie pour écouteurs
 10. Connecteur microUSB
 11. Sortie microHDMI
-12. Connecteur USB
-13. Connecteur DC
-14. Connecteur Keyboard
+12. Connecteur Keyboard
+13. Bouton Windows
 
 </quick_guide>

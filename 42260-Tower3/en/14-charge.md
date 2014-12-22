@@ -1,6 +1,6 @@
 ## Device Charging
 
-The *Energy Tower 3* has two "DC OUT" outputs you can use to recharge other devices such as smartphones or tablets while using it as a player.
+The *Energy Tower 3* has two "DC OUT" outputs (8) you can use to recharge other devices such as smartphones or tablets while using it as a player.
 
 "DC OUT" Output specifications: <br>
 
