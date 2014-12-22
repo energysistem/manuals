@@ -2,8 +2,11 @@
 
 **Navigateur Internet** 
 
-Votre Energy eReader Pro dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l’écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l’afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements". 
-(Photo Browser)
+Votre Energy eReader Pro dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l’écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l’afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements".
+
+![] (http://static.energysistem.com/images/manuals/42091/54985696e9a11.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/5498557a5d6f6.jpg)
+
 
 **Email** 
 
@@ -11,10 +14,18 @@ L'application E-mail vous permet de recevoir, envoyer et consulter vos e-mails g
 Lors de la première utilisation de l'application, vous devez configurer l'application en entrant votre adresse e-mail et mot de passe. Une fois que votre compte est enregistré dans l'application, vous pouvez naviguer dans votre interface pour vérifier vos e-mails. 
 Une autre option de cette application est la possibilité de configurer plusieurs comptes de messagerie afin d'être actif sur tous vos comptes dans une seule interface.
 
+![] (http://static.energysistem.com/images/manuals/42091/5498552c4df81.jpg)
+
+
 **Bibliothèque** 
 
 Cette application affiche tous les livres stockés dans la mémoire interne ou la carte micro SD de votre eReader. 
 Vous pouvez sélectionner le mode d'affichage qui vous convient en appuyant sur l'icône de visualisation (3 modes d'affichage des icônes): mode Liste, miniatures (montre la couverture de vos ebooks). Pour ouvrir un livre, il vous suffit de le sélectionner grâce à une pulsation sur la couverture du livre que vous souhaitez ouvrir. 
+
+![] (http://static.energysistem.com/images/manuals/42091/54985fa0e3515.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/54985fab3fbce.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/54985fb433cd3.jpg)
+
  
 *Note:* Si le fichier est stocké sur une carte micro SD / SDHC, il sera affiché dans la liste mais ne pourra pas être ouvert si la micro SD / SDHC a été retiré. 
 
@@ -33,10 +44,17 @@ Différentes fonctions sont possibles lors de la lecture d'un livre:
 - *Recherche de mot:* Cette option vous permet de voir où est le mot recherché dans le livre et d'y accéder avec un simple toucher. 
 - *Régulateur de lumière:* Permet de réglez le niveau le plus approprié de lumière de vote eReader.
 
+![] (http://static.energysistem.com/images/manuals/42091/54985fc2ef300.jpg)
+
 **Musique**
 
 Cette application donne accès à la bibliothèque audio pour profiter de tous vos fichiers stockés dans la mémoire interne de votre eReader ou sur votre carte micro SD / SDHC. Dans le menu de l'application, sélectionnez l’icône: (icône de la musique) 
 Une fois l'application ouverte, vous pouvez profiter de tous vos fichiers audio. La recherche de votre audio préféré est facilicité par le stockage par artistes, par albums ou playlists.
+
+![] (http://static.energysistem.com/images/manuals/42091/5498627b4bb16.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/54986287aa5e1.jpg)
+
+
 
 *Mode lecture:* Vous pouvez définir l'ordre de lecture des chansons (lecture aléatoire, répétition chanson en cours, répéter toutes les chansons). 
 Ce mode de lecture offre la possibilité de: 
