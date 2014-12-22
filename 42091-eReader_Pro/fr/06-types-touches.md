@@ -1,7 +1,6 @@
 ## Types de touches
 
-Gestes élémentaires 
-
+*Gestes élémentaires:*
 - Sélectionner 
 Appuyez brièvement sur l'écran 
 
@@ -20,7 +19,7 @@ Agrandir ou réduire l'image de l'écran
 ![](https://camo.githubusercontent.com/123d08d94943648cf48946d49af9f88b12d17de1/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661666334383930302e6a7067)
 
 
-2 façons de changer de page:
+*2 façons de changer de page:*
 - Glisser le doigt rapidement sur l’écran
  
 ![](https://camo.githubusercontent.com/19a82089a6bd24bb4557d05e1b706dc668d6865b/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661616564313563322e6a7067)
