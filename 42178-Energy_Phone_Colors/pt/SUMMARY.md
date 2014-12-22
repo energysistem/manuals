@@ -23,7 +23,8 @@
 * [MicroSD & USB](20-micro_sd.md)
 * [Updating](21-actualizacao.md)
 * [Troubleshooting](22-solucao_problemas.md)
-* [warranty](23-garantia.md)
-* [Warranty procedure](24-funcionamento_da_garantia.md)
-* [Declaration of conformity](25-declaracao_conformidade.md)
+* [Precauçoes de segurança e SAR](23-Precauçoes _de_segurança_e_SAR.md)
+* [warranty](24-garantia.md)
+* [Warranty procedure](25-funcionamento_da_garantia.md)
+* [Declaration of conformity](26-declaracao_conformidade.md)
 

@@ -14,8 +14,13 @@ Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
 Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
+Você pode solicitar uma cópia da declaração de conformidade em:
+C / Calpe, 1-03509 Finestrat - Alicante (Espanha) Tel. +34 966 831 058
+
 País de fabricação: China
 
 **Nota:** O presente dispositivo pode conter conexões a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Soyntec S.A. Estas conexões são facilitadas para a sua informação ou comodidade; Energy Sistem Soyntec S.A. não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude.
 
-Ditas páginas externas podem conter ou fazer referência a marcas, patentes, informação registrada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são de propriedade dos seus respectivos donos. </quick_guide>
+Ditas páginas externas podem conter ou fazer referência a marcas, patentes, informação registrada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são de propriedade dos seus respectivos donos.
+![Imagen1](http://static.energysistem.com/images/manuals/42178/54984c7857106.jpg)
+</quick_guide>
