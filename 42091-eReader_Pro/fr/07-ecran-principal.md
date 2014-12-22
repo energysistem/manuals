@@ -23,3 +23,4 @@ parallèles). Cliquez sur cet icône pour accéder aux options avancées.
 
 *Remarque:* Vous pouvez définir les icônes que vous voulez sur la page principale. Pour les modifier, vous devez suivre ces étapes: Paramètres / Paramètres définis par l'utilisateur / Personnaliser les applications du bureau.
 
+http://static.energysistem.com/images/manuals/42091/54986aa26eb35.jpg
