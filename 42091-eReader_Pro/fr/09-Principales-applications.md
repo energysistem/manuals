@@ -23,7 +23,6 @@ Cette application affiche tous les livres stockés dans la mémoire interne ou l
 Vous pouvez sélectionner le mode d'affichage qui vous convient en appuyant sur l'icône de visualisation (3 modes d'affichage des icônes): mode Liste, miniatures (montre la couverture de vos ebooks). Pour ouvrir un livre, il vous suffit de le sélectionner grâce à une pulsation sur la couverture du livre que vous souhaitez ouvrir. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54985fa0e3515.jpg)
-![] (http://static.energysistem.com/images/manuals/42091/54985fab3fbce.jpg)
 ![] (http://static.energysistem.com/images/manuals/42091/54985fb433cd3.jpg)
 
  
@@ -45,6 +44,8 @@ Différentes fonctions sont possibles lors de la lecture d'un livre:
 - *Régulateur de lumière:* Permet de réglez le niveau le plus approprié de lumière de vote eReader.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54985fc2ef300.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/549863ddb0e61.jpg)
+
 
 **Musique**
 
