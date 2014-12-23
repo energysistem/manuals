@@ -10,8 +10,9 @@ CAMBIAR FOTO
 4. Button marche / arrêt
 5. Bouton de contrôle de volume +/-
 6. Écran tactile
-7. Fente pour microSD/HDMI/connecteur microUSB
+7. Fente pour microSD
 8. Sortie pour écouteurs
-9. Connecteur de chargement
+9. Connecteur MicroUSB
+10. Flash
 
 </quick_guide>
