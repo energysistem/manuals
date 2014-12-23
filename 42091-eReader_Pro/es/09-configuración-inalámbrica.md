@@ -2,13 +2,13 @@
 
 Tu Energy eReader Pro dispone de conexión Wi-Fi. Para conectar tu dispositivo a una red inalámbrica, solo tienes que ir a ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Ajustes >> ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi y mover el interruptor a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). A continuación comenzará una búsqueda de redes inalámbricas y solo tendrás que seleccionar una para comenzar el proceso de conexión.
 
-1.	![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi 
-2.	Habilita el interruptor Wi-Fi moviéndolo a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
-3.	Selecciona la red a la quieres conectarte
+- ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi 
+- Habilita el interruptor Wi-Fi moviéndolo a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
+- Selecciona la red a la quieres conectarte
 
 ![] (http://static.energysistem.com/images/manuals/42091/549955f859440.jpg)
 
-4.	Establece la conexión, poniendo la contraseña de la red.
+- Establece la conexión, poniendo la contraseña de la red.
 
 ![] (http://static.energysistem.com/images/manuals/42091/549956f23fb5a.jpg)
 
