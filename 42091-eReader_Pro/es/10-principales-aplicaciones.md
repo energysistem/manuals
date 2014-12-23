@@ -5,7 +5,8 @@
 ![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
 
 Tu Energy eReader Pro tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono “Navegador” situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación “Descargas”.
-(Foto del navegador)
+
+![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 
 **Correo:**
 
@@ -20,7 +21,7 @@ Otra opción de esa aplicación es la posibilidad de configurar varias cuentas e
 ![] (http://static.energysistem.com/images/manuals/42091/549963bb6267e.jpg)
 
 Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
-Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización (los 3 iconos modos de visualización): modo lista, miniaturas (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
+Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
  
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
