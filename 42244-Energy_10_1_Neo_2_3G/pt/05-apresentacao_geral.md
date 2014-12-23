@@ -15,5 +15,6 @@ CAMBIAR FOTO
 8. Saída de fones
 9. Conector microUSB
 10. Slot para SIM
+11. Flash
 
 </quick_guide>
