@@ -6,7 +6,6 @@
 * 8GB GB internal memory expandable memory up to 64GB via microSD cards.
 * Wi-Fi connection (802.11 b/g/n).
 * Bluetooth 4.0.
-* HDMI output @ 720p.
 * Built-in front camera 0.3Mpx.
 * Built-in rear camera 2.0 Mpx with Flash .
 * USB-Host.
