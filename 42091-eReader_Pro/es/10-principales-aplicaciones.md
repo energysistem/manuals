@@ -25,19 +25,19 @@ Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
 Diferentes funciones son posibles durante la lectura de un libro:
--	*Ir a página:* Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
--	*Cambiar el tamaño de fuente:* Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
--	*Cambiar de fuente:* Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
--	*Cambiar interlineado:* Te permite elegir el interlineado que prefieres para una lectura más cómoda.
--	*Cambiar el nivel de margen:* Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* Para iniciar la lectura automática, activa el modo autopágina pulsando el “ON”. Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
--	*Rotación de pantalla:* Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
--	*Información del libro*: Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
--	*Añadir marcador:* Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras. 
--	*Menú opciones:* Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
--	*Abrir / eliminar marcadores:* Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
--	*Indicador de luz:* Permite configurar el nivel de luz más adecuado.
+-	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42091/549968861ae4e.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
+-	*Cambiar el tamaño de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
+-	*Cambiar de fuente:* ![] (). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
+-	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
+-	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
+-	*Avance automático de página:* ![] (). Para iniciar la lectura automática, activa el modo autopágina pulsando el “ON”. Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
+-	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42091/5499689351ff1.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
+-	*Información del libro*: ![] (). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
+-	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras. 
+-	*Menú opciones:* ![] (). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
+-	*Abrir / eliminar marcadores:* ![] (). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
+-	*Búsqueda de palabras:* ![] (). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
+-	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
 
 **Música:**
 
