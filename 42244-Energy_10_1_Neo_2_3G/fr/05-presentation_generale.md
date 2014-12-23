@@ -17,5 +17,6 @@ http://static.energysistem.com/images/manuals/39789/5411d638e3b14.jpg
 8. Sortie pour écouteurs
 9. Connecteur microUSB
 10. Fente pour SIM
+11. Flash
 
 </quick_guide>
