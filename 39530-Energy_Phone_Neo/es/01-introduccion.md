@@ -1,4 +1,4 @@
-## <quick_guide> Introducci�n
+## <quick_guide> Introducción
 
 * Energy Sistem#trade# te agradece la compra de tu nuevo Energy Phone Neo. Deseamos que lo disfrutes.
 * Este dispositivo pertenece a la familia Energy Smartphone: una nueva generación de dispositivos de comunicación

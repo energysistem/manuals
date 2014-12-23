@@ -23,7 +23,8 @@
 * [Usb](20-usb.md)
 * [Actualizacion](21-actualizacion.md)
 * [Resolucion de problemas](22-resolucion_de_problemas.md)
-* [Condiciones de la garantia](23-condiciones_de_la_garantia.md)
-* [Funcionamiento de la garantia](24-funcionamiento_de_la_garantia.md)
-* [Declaracion de conformidad](25-declaracion_de_conformidad.md)
+* [Precauciones de uso y SAR](23-Precauciones_de_uso_y_SAR.md)
+* [Condiciones de la garantía](24-condiciones_de_la_garantia.md)
+* [Funcionamiento de la garantía](25-funcionamiento_de_la_garantia.md)
+* [Declaración de Conformidad](26-declaracion_de_conformidad.md)
 

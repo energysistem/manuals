@@ -23,7 +23,8 @@
 * [USB](20-usb.md)
 * [Updating](21-updating.md)
 * [Troubleshooting](22-troubleshooting.md)
-* [Warranty](23-warranty.md)
-* [Warranty procedure](24-warranty_procedure.md)
-* [Declaration of Conformity](25-declaration_of_conformity.md)
+* [Safety precautions and SAR](23-Safety_precautions_and_SAR.md)
+* [Warranty](24-warranty.md)
+* [Warranty procedure](25-warranty_procedure.md)
+* [Declaration of Conformity](26-declaration_of_conformity.md)
 
