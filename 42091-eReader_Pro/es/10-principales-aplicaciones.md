@@ -16,6 +16,8 @@ La aplicación de Correo te permite recibir, enviar y consultar tus correos medi
 Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
 Otra opción de esa aplicación es la posibilidad de configurar varias cuentas electrónicas para estar activo en todas tus cuentas en una única interfaz.
 
+![] (http://static.energysistem.com/images/manuals/42091/54999ab245c55.jpg)
+
 **Biblioteca:**
 
 ![] (http://static.energysistem.com/images/manuals/42091/549963bb6267e.jpg)
@@ -42,12 +44,16 @@ Diferentes funciones son posibles durante la lectura de un libro:
 -	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
 -	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
 
+![] (http://static.energysistem.com/images/manuals/42091/549863ddb0e61.jpg)
+
 **Música:**
 
 ![] (http://static.energysistem.com/images/manuals/42091/549964cb4f678.jpg)
 
 Esta aplicación permite acceder a la biblioteca y disfrutar de todos tus archivos audio almacenados en la memoria interna de tu eReader o en la tarjeta micro SD/SDHC. En el menú de aplicaciones, selecciona el icono (icono música).
 Una vez la aplicación abierta, podrás disfrutar de todos tus archivos de audio. La búsqueda de tus archivos de audio favoritos está facilitada por su almacenamiento por artistas, por álbumes, por canciones o por listas.
+
+![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg) 
 
 *Modo reproducción:* puedes definir el orden de reproducción de las canciones (reproducción aleatoria, repetir la canción actual, repetir todas las canciones). 
 Ese modo de reproducción ofrece la posibilidad de:
@@ -60,7 +66,7 @@ Ese modo de reproducción ofrece la posibilidad de:
 
 *Nota:* Los botones laterales te permiten aumentar o disminuir directamente el volumen de la canción que estás escuchando.
 
-
+![] (http://static.energysistem.com/images/manuals/42091/54999ccf2d853.jpg)
 
 **Bloc de Notas:**
 
