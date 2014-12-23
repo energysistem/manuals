@@ -1,5 +1,7 @@
+## Resolución de problemas
+
 ¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No se preocupe porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
 
 No puedo cambiar la fuente de las letras en un archivo PDF:
 El formato pdf se visualiza tal y como es creado, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
@@ -14,7 +16,7 @@ El eReader muestra mal los caracteres de los libros, espacios entre líneas exce
 Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros electrónicos son digitalizados y formateados automáticamente sin revisión. Usa sólo contenido de proveedores de contenidos fiables y de calidad para tener la mejor experiencia de uso.
 
 ¿Puedo escuchar música mientras estoy leyendo un ebook?
- Si, la aplicación de música te permite escuchar tu música mientras estás leyendo todo tipo de eBooks.
+ Si, la aplicación de música te permite escuchar tu música mientras estás leyendo todo tipo de eBooks. 
 
 Mi batería dura poco, aproximadamente unos 2 días
-Si la batería de tu eReader dura poco, asegúrate que tu conexión Wi-Fi esté desactivada o que has seleccionado no usar la conexión Wi-Fi mientras el eReader está en suspensión.
+Si la batería de tu eReader dura poco, asegúrate que tu conexión Wi-Fi esté desactivada, además asegúrate que has seleccionado no usar la conexión Wi-Fi mientras el eReader está en suspensión en Ajustes.
