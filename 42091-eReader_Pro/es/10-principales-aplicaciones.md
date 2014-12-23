@@ -73,3 +73,9 @@ Ese modo de reproducción ofrece la posibilidad de:
 ![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
 
 Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+
+![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
+
+![] (http://static.energysistem.com/images/manuals/42091/5499a33534ae6.jpg)
+
+
