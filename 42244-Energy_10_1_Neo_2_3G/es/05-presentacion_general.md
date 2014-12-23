@@ -18,5 +18,6 @@ http://static.energysistem.com/images/manuals/39789/5411d64e70ec4.jpg)
 8. Salida de auriculares
 9. Conector microUSB
 10. Ranura para SIM
+11. Flash
 
 </quick_guide>

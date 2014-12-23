@@ -4,6 +4,8 @@
 
 Seu Energy Tablet tem a possibilidade de utilizar um chip SIM. Para administrar o uso do chip, entre em Definições
 
+Importante: Para inserir ou remover o cartão SIM o aparelho deve estar desligado.
+
 
 ### Bluetooth
 

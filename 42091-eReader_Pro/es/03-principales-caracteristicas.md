@@ -1,4 +1,4 @@
-## <quick_guide> Principales características
+## Principales características
 - Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris y alto contraste. Resolución 758 x 1024 pixels y 212 puntos por pulgadas. 
 - Pantalla táctil para mejorar la experiencia con tu eReader.
 - Luz integrada y regulable para leer bajo cualquier condición de luminosidad. 
@@ -13,7 +13,4 @@
 - Memoria interna: 8GB, ampliable hasta 64GB con tarjetas micro SD/SDHC.
 - Incluye 1500 libros de la literatura universal de regalo.
 
-- * Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación “Screenlight” y la conectividad WiFi desactivada.
-
-
-</quick_guide>
+*Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación “Screenlight” y la conectividad WiFi desactivada.

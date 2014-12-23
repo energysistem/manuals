@@ -15,5 +15,6 @@ CAMBIAR FOTOS
 8. Headphone output
 9. microUSB connector
 10. SIM slot
+11. Flash
 
 </quick_guide>

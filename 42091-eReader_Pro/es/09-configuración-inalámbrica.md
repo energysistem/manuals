@@ -1,3 +1,5 @@
+## Configuración Inalámbrica
+
 Tu Energy eReader Pro dispone de conexión Wi-Fi. Para conectar tu dispositivo a una red inalámbrica, solo tienes que ir a Ajustes >> Wi-Fi y mover el interruptor a la posición ON. A continuación comenzará una búsqueda de redes inalámbricas y solo tendrás que seleccionar una para comenzar el proceso de conexión.
 
 1.	Wi-Fi

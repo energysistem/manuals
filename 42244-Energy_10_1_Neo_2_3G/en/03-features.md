@@ -9,7 +9,7 @@
 * 3G (850,900,1900&2100) & WCDMA(850,1900,2100MHz)
 * GPS
 * Built-in front camera 2 Mpx.
-* Built-in rear camera 5 Mpx AF.
+* Built-in rear camera 5 Mpx AF with Flash.
 * USB-Host.
 * USB-OTG .
 * 2 x Built-in speaker 1w.

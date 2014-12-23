@@ -5,6 +5,8 @@
 Your Energy Tablet supports the use of SIM cards. In Settings >> SIM management, you can manage the SIM
 configuration.
 
+Important: To insert or remove the SIM card the device must be switched off.
+
 ### Bluetooth Setup
 Your Energy Tablet has Bluetooth. To connect your device to any bluetooth device like headphones, PC, speakers, etc.  go to Settings > Bluetooth and turn the switch to the ON position. Once the search has finished, select the device to start
 the connection.

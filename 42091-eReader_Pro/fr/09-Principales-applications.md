@@ -1,4 +1,4 @@
-##Principales applications 
+## Principales applications 
 
 **Navigateur Internet** 
 
@@ -15,6 +15,7 @@ Lors de la première utilisation de l'application, vous devez configurer l'appli
 Une autre option de cette application est la possibilité de configurer plusieurs comptes de messagerie afin d'être actif sur tous vos comptes dans une seule interface.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5498552c4df81.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/549865ca5a004.jpg)
 
 
 **Bibliothèque** 
@@ -23,7 +24,6 @@ Cette application affiche tous les livres stockés dans la mémoire interne ou l
 Vous pouvez sélectionner le mode d'affichage qui vous convient en appuyant sur l'icône de visualisation (3 modes d'affichage des icônes): mode Liste, miniatures (montre la couverture de vos ebooks). Pour ouvrir un livre, il vous suffit de le sélectionner grâce à une pulsation sur la couverture du livre que vous souhaitez ouvrir. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54985fa0e3515.jpg)
-![] (http://static.energysistem.com/images/manuals/42091/54985fab3fbce.jpg)
 ![] (http://static.energysistem.com/images/manuals/42091/54985fb433cd3.jpg)
 
  
@@ -45,6 +45,8 @@ Différentes fonctions sont possibles lors de la lecture d'un livre:
 - *Régulateur de lumière:* Permet de réglez le niveau le plus approprié de lumière de vote eReader.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54985fc2ef300.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/549863ddb0e61.jpg)
+
 
 **Musique**
 
@@ -71,3 +73,6 @@ Ce mode de lecture offre la possibilité de:
 **Bloc notes**
 
 Cette application vous permet de noter tous types de commentaires ou notes que vous pouvez éliminer par la suite d’un simple toucher. En plus de cela, vous pouvez ajouter des notes en sélectionnant directement le texte du livre que vous êtes en train de lire.
+
+![] (http://static.energysistem.com/images/manuals/42091/54986687ad263.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/549866bea8ab3.jpg)
