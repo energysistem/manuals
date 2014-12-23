@@ -2,6 +2,12 @@
 
 Tu Energy eReader tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy eReader se conectará automáticamente con nuestros servidores mientras se encuentre conectado a una red Wi-Fi conectada a Internet, hará la descarga e instalará el nuevo software de forma fácil y rápida en cuanto detecte una nueva actualización.
 
+![] (http://static.energysistem.com/images/manuals/42091/5499b4656e908.jpg)
+
+![] (http://static.energysistem.com/images/manuals/42091/5499b46baa793.jpg)
+
+![] (http://static.energysistem.com/images/manuals/42091/5499b471ca8db.jpg)
+
 También puedes actualizar tu Energy eReader a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. 
 
 Sigue los siguientes pasos para realizar la instalación:
