@@ -4,7 +4,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
 
-Tu Energy eReader Pro tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono “Navegador” situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación “Descargas”.
+Tu Energy eReader Pro tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 
@@ -35,7 +35,7 @@ Diferentes funciones son posibles durante la lectura de un libro:
 -	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
 -	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
 -	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando el “ON”. Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
+-	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando el "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
 -	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42091/5499689351ff1.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
 -	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42091/5499683c600c2.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
 -	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras. 
