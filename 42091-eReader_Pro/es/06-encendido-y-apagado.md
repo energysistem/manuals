@@ -1,12 +1,12 @@
 ## Encendido y apagado
 
-Para encender tu eReader, pulsa el botón encendido/apagado durante unos segundos.
+- Para encender tu eReader, pulsa el botón encendido/apagado durante unos segundos.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
 
-Para apagar el dispositivo, mantenga pulsado dicho botón hasta que aparezca el menú de apagado, a continuación escoge la opción “Aceptar”. Una pulsación breve de este botón, bloquea/desbloquea el dispositivo. 
+- Para apagar el dispositivo, mantenga pulsado dicho botón hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar". Una pulsación breve de este botón, bloquea/desbloquea el dispositivo. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
