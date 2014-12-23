@@ -4,6 +4,7 @@
 
 Tu Energy Tablet tiene la posibilidad de utilizar tarjetas SIM. En el apartado Ajustes >> Administración de la
 tarjeta SIM, podrás gestionar la tarjeta.
+
 Importante: La inserción o extracción de la tarjeta SIM debe realizarse con el dispositivo apagado.
 
 ### Bluetooth
