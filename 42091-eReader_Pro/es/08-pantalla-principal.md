@@ -10,7 +10,7 @@
 
 5)	Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
 
-6)	En ocasiones, encontrarás el icono de opciones adicionales http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg (icono de las dos rayas paralelas horizontales). Pulsa 
+6)	En ocasiones, encontrarás el icono de opciones adicionales ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg) . Pulsa 
 este icono para acceder a opciones avanzadas.
 
 7)	Luz: te permite ajustar el nivel de luz para iluminar la pantalla de tu eReader
