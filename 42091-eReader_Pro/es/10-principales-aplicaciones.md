@@ -27,16 +27,16 @@ Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando
 Diferentes funciones son posibles durante la lectura de un libro:
 -	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42091/549968861ae4e.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
 -	*Cambiar el tamaño de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
--	*Cambiar de fuente:* ![] (). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
+-	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
 -	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
 -	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* ![] (). Para iniciar la lectura automática, activa el modo autopágina pulsando el “ON”. Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
+-	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando el “ON”. Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
 -	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42091/5499689351ff1.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
--	*Información del libro*: ![] (). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
+-	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42091/5499683c600c2.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
 -	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras. 
--	*Menú opciones:* ![] (). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
--	*Abrir / eliminar marcadores:* ![] (). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* ![] (). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
+-	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
+-	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42091/549989ccd2aea.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
+-	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
 -	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
 
 **Música:**
