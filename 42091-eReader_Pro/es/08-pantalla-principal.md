@@ -1,10 +1,10 @@
 ## Pantalla principal
 
-*Carrusel de los últimos libros leídos*
+- *Carrusel de los últimos libros leídos*
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499ad09ad922.jpg)
 
-*Carrusel de los últimos libros añadidos*
+- *Carrusel de los últimos libros añadidos*
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499ad1396a0b.jpg)
 
