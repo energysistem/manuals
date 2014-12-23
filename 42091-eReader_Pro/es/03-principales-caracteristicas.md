@@ -13,4 +13,4 @@
 - Memoria interna: 8GB, ampliable hasta 64GB con tarjetas micro SD/SDHC.
 - Incluye 1500 libros de la literatura universal de regalo.
 
-* Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación “Screenlight” y la conectividad WiFi desactivada.
+*Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación “Screenlight” y la conectividad WiFi desactivada.
