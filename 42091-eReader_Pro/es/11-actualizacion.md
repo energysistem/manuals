@@ -8,6 +8,8 @@ Tu Energy eReader tiene un sistema operativo instalado basado en Android#trade#,
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499b471ca8db.jpg)
 
+![] (http://static.energysistem.com/images/manuals/42091/5499b6cfbb499.jpg)
+
 También puedes actualizar tu Energy eReader a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. 
 
 Sigue los siguientes pasos para realizar la instalación:
