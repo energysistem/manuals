@@ -1,4 +1,4 @@
-## <quick_guide> Pantalla principal
+## Pantalla principal
 
 1)	Carrusel de los últimos libros leídos
 
@@ -21,8 +21,4 @@ este icono para acceder a opciones avanzadas.
 
 10)	Hora
 
-* Puedes configurar los iconos que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / Definido por el usuario / Personalizar las apps del escritorio.
-
-
-
-</quick_guide>
+*Puedes configurar los iconos que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / General / Aplicaciones mostradas en el escritorio.
