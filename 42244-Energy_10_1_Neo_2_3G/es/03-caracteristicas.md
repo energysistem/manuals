@@ -10,7 +10,7 @@
 * 3G (850,900,1900,2100) WCDMA(850,1900,2100MHz)
 * GPS
 * Cámara frontal 2 Mpx.
-* Cámara trasera  5 Mpx AF.
+* Cámara trasera  5 Mpx AF con Flash.
 * Función USB-Host.
 * Función USB-OTG
 * 2 x Altavoz integrado 1w.
