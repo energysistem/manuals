@@ -1,6 +1,6 @@
 # Summary
 
-* [Cover](README.md)
+* [Cover](00-portada.md)
 * [Introduction](01-Introduction.md)
 * [Care and maintenance](02-care.md)
 * [Technical characteristics](03-technical.md)
