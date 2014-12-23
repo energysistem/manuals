@@ -44,7 +44,7 @@ Diferentes funciones son posibles durante la lectura de un libro:
 -	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
 -	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
 
-![] (http://static.energysistem.com/images/manuals/42091/549863ddb0e61.jpg)
+![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
 
 **Música:**
 
