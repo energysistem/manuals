@@ -8,9 +8,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549939894cb5d.jpg)
 
-*Iconos principales**
-
-![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
+*Iconos principales**: ![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
 
 *Home:* ![] (http://static.energysistem.com/images/manuals/42091/54993c119e87c.jpg). Te devuelve a la pantalla principal
 
