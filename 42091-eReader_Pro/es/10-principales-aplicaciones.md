@@ -1,18 +1,24 @@
 ## Aplicaciones
 
 **Navegador Internet:**
-![] ()
+
+![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
+
 Tu Energy eReader Pro tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono “Navegador” situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación “Descargas”.
 (Foto del navegador)
 
 **Correo:**
-![] ()
+
+![] (http://static.energysistem.com/images/manuals/42091/5499635f09527.jpg)
+
 La aplicación de Correo te permite recibir, enviar y consultar tus correos mediante su interfaz configurada con tu cuenta electrónica.
 Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
 Otra opción de esa aplicación es la posibilidad de configurar varias cuentas electrónicas para estar activo en todas tus cuentas en una única interfaz.
 
 **Biblioteca:**
-![] ()
+
+![] (http://static.energysistem.com/images/manuals/42091/549963bb6267e.jpg)
+
 Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
 Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización (los 3 iconos modos de visualización): modo lista, miniaturas (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
  
@@ -34,7 +40,9 @@ Diferentes funciones son posibles durante la lectura de un libro:
 -	*Indicador de luz:* Permite configurar el nivel de luz más adecuado.
 
 **Música:**
-![] ()
+
+![] (http://static.energysistem.com/images/manuals/42091/549964cb4f678.jpg)
+
 Esta aplicación permite acceder a la biblioteca y disfrutar de todos tus archivos audio almacenados en la memoria interna de tu eReader o en la tarjeta micro SD/SDHC. En el menú de aplicaciones, selecciona el icono (icono música).
 Una vez la aplicación abierta, podrás disfrutar de todos tus archivos de audio. La búsqueda de tus archivos de audio favoritos está facilitada por su almacenamiento por artistas, por álbumes, por canciones o por listas.
 
@@ -52,5 +60,7 @@ Ese modo de reproducción ofrece la posibilidad de:
 
 
 **Bloc de Notas:**
-![] ()
+
+![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
+
 Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
