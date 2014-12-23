@@ -13,4 +13,5 @@ Tu Energy eReader Pro dispone de conexión Wi-Fi. Para conectar tu dispositivo a
 ![] (http://static.energysistem.com/images/manuals/42091/549956f23fb5a.jpg)
 
 *Nota:* Una vez se haya completado el proceso de autentificación con éxito, tu Energy eReader guardará los datos de acceso a la red Wi-Fi y estará listo para que puedas utilizar Internet. El dispositivo recordará la red y se conectará automáticamente a ella cuando ésta se encuentre disponible. 
+
 Tu conexión Wi-Fi se puede programar para que se desactive automáticamente cuando dejas tu eReader en modo suspensión sin utilizarlo en el menú ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Ajustes / ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi / ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg) Opciones adicionales / ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Ajustes avanzados).
