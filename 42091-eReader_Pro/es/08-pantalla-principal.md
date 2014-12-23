@@ -8,7 +8,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549939894cb5d.jpg)
 
-*Iconos principales**: ![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
+*Iconos de aplicaciones principales**: ![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
 
 *Home:* ![] (http://static.energysistem.com/images/manuals/42091/54993c119e87c.jpg). Te devuelve a la pantalla principal
 
@@ -25,4 +25,4 @@ este icono para acceder a opciones avanzadas.
 
 *Hora:* ![] (http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
-*Puedes configurar los iconos que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / General / Aplicaciones mostradas en el escritorio.
+*Puedes configurar los accesos directos a aplicaciones que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / General / Aplicaciones mostradas en el escritorio.
