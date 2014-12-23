@@ -1,5 +1,5 @@
 <quick_guide>
-![Cover](http://static.energysistem.com/images/manuals/42229/53e32a5c636a5.jpg )
+![Cover](http://static.energysistem.com/images/manuals/42261/54995d9819f16.jpg)
 </quick_guide>
 
 

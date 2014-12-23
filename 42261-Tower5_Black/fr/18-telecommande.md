@@ -1,10 +1,10 @@
-## Télécommande 
+﻿## Télécommande 
 
 Avec la télécommande vous pouvez contrôler toutes les fonctions de *l’Energy Tower 5*. 
 
 * Arrêt et redémarrage de l'appareil. 
 
-* Sélection de mode (USB, SD, Line-in, Radio FM, Bluetooth®) avec le bouton X.
+* Sélection de mode (USB, SD, Line-in, Radio FM, Bluetooth®) avec le bouton mode.
 
 * Fonction "Mute" pour mettre tous les modes en silencieux.
 
