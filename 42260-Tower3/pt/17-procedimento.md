@@ -1,4 +1,4 @@
-﻿## <quick_guide>Procedimento de garantia
+## <quick_guide>Procedimento de garantia
 
 1. Visite a seção de Suporte em http://support.energysistem.com http://support.soyntec.com e selecione o seu produto para ver as FAQ (Perguntas freqüentes), manuais, drivers e atualizações disponíveis, assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia. Você pode verificar a disponibilidade do manual do usuário no seu idioma em http://www.energysistem.com/pt-pt/support/manuals.
 
