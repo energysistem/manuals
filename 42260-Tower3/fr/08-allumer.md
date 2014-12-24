@@ -1,4 +1,4 @@
-﻿## Allumer et éteindre l'appareil. Mode veille 
+## Allumer et éteindre l'appareil. Mode veille 
 
 Une fois branché, allumez votre *Energy Tower 3* mettez l'interrupteur à l'arrière de la tour sur «ON». À partir de ce moment, vous pouvez l’activer et la désactiver à partir de la touche PLAY sur le panneau supérieur, en appuyant pendant 2 secondes. 
 
