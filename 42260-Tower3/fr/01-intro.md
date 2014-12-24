@@ -1,4 +1,4 @@
-﻿## Introduction
+## Introduction
 
 *Enery Sistem® vous remercie d’avoir acquis le chargeur *Energy Tower 3*, nous espérons que vous apprécierez notre produit.
 
