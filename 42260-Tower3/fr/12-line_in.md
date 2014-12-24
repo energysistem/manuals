@@ -1,4 +1,4 @@
-﻿## Entrée ligne 
+## Entrée ligne 
 
 Pour utiliser la lecture «line-in» connectez une extrémité du câble audio fourni dans l'entrée ligne (10), et dans l'autre extrémité la sortie du dispositif audio, un lecteur MP3, un ordinateur portable, un smartphone, etc. Au moment où le câble est connecté à l’entrée ligne (10), le mode «Line-in», est automatiquement activé et vous visualiserez "auX" sur l'affichage. 
 
