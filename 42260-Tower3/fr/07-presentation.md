@@ -1,4 +1,4 @@
-﻿## Présentation générale  
+## Présentation générale  
 
 *L’Energy Tower 3* est un système de son en tour avec lecture via Bluetooth®, mémoire externe (USB ou SD), entrée ligne et radio FM. Il se synchronise facilement avec des tablettes, des smartphones, des ordinateurs portables, MAC, PC et tout autre appareil Bluetooth. 
 
