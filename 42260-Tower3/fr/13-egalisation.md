@@ -1,4 +1,4 @@
-﻿## Égalisation du Son 
+## Égalisation du Son 
 
 L'appareil dispose de deux régulateurs à l'arrière pour régler l'égalisation du son: 
 
