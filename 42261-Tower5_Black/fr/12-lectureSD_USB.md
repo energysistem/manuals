@@ -1,4 +1,4 @@
-﻿## Lecture à partir de cartes SD et USB 
+## Lecture à partir de cartes SD et USB 
 
 Pour lire des fichiers MP3, insérez une mémoire externe USB ou carte SD/MMC dans les fentes appropriées, (13) et (11) respectivement. 
 
