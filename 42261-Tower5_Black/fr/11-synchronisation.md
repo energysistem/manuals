@@ -1,4 +1,4 @@
-﻿## Synchronisation Bluetooth 
+## Synchronisation Bluetooth 
 
 Appuyez sur la touche mode (5) pour sélectionner le mode Bluetooth, l'écran montrera les lettres "bt". À ce moment, vous pouvez faire la synchronisation avec votre périphérique Bluetooth. 
 Lorsque vous avez affiché sur votre périphérique Bluetooth le nom “Energy Tower 5” sélectionnez uniquement l’option connecter et attendez quelques secondes pour que  la connexion soit terminée. 
