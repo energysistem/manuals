@@ -2,10 +2,10 @@
 
 Pour lire des fichiers MP3, insérez une mémoire externe USB ou carte SD/MMC dans les fentes appropriées, (13) et (11) respectivement. 
 
-À ce moment, *l’Energy Tower 5* effectuera la lecture de la mémoire externe insérée automatiquement. 
+À ce moment, *l'Energy Tower 5* effectuera la lecture de la mémoire externe insérée automatiquement. 
 Vous pourrez alors voir sur l'affichage les «USB» ou «SD» en fonction du type de mémoire que vous insérez. 
 
-Si vous désactivez *l’Energy Tower 5* ou retirez une des mémoires, le moment où vous avez arrêté la lecture sera stocké dans la mémoire interne de l'appareil. 
+Si vous désactivez *l'Energy Tower 5* ou retirez une des mémoires, le moment où vous avez arrêté la lecture sera stocké dans la mémoire interne de l'appareil. 
 
 Lorsque vous vous reconnectez la même mémoire, il continuera à jouer au moment où vous l'avez laissé. 
 
