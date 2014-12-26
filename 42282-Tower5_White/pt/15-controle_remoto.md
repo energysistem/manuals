@@ -1,4 +1,4 @@
-﻿## Controle remoto
+## Controle remoto
 
 Usando o controle remoto você pode controlar todos os recursos da *Energy Tower 5*.
 

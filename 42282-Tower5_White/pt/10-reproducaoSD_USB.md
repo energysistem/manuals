@@ -1,4 +1,4 @@
-﻿## Reprodução a partir de cartões SD e USB
+## Reprodução a partir de cartões SD e USB
 
 Para reproduzir arquivos MP3, insere uma memória externa USB ou um cartão SD/MMC nas ranhuras correspondentes apropriados, (13) e (11), respectivamente. 
 

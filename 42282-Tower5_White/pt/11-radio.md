@@ -1,4 +1,4 @@
-﻿## Rádio FM
+## Rádio FM
 
 Para utilizar esta função, é necessário primeiro realizar uma sintonização de estações que serão armazenadas para uma posterior selecção. Não há necessidade de repetir esta pesquisa, a menos que você mude a localização, ou mude a sintonia da estação desejada. 
 

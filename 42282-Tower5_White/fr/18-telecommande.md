@@ -1,6 +1,6 @@
-﻿## Télécommande 
+## Télécommande 
 
-Avec la télécommande vous pouvez contrôler toutes les fonctions de *l’Energy Tower 5*. 
+Avec la télécommande vous pouvez contrôler toutes les fonctions de *l'Energy Tower 5*. 
 
 * Arrêt et redémarrage de l'appareil. 
 
@@ -12,7 +12,7 @@ Avec la télécommande vous pouvez contrôler toutes les fonctions de *l’Energ
 
 * Égalisation (EQ prédéfinie) pour les modes USB et SD. 
 
-* Navigation par dossier (Bouton X) pour les modes USB et SD. 
+* Navigation par dossier pour les modes USB et SD. 
 
 * Modes Repeat et Random (Bouton RPT). 
 
