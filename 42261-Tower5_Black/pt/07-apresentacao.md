@@ -1,4 +1,4 @@
-﻿## Apresentação Geral 
+## Apresentação Geral 
 
 O *Energy Tower 5* é um sistema de som em torre com reprodução via Bluetooth®, memória externa (USB ou cartões SD), entrada Line-in e também tem rádio FM. Sincroniza-se facilmente com tablets, smartphones, laptops, Mac, PC e qualquer outro dispositivo com Bluetooth. 
 
