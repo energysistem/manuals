@@ -4,7 +4,7 @@ Usando o controle remoto você pode controlar todos os recursos da *Energy Tower
 
 * Desligar e reiniciar o computador.
 
-* Selecção de modo (USB, SD, Line-in, Radio FM, Bluetooth®) através do botão X.
+* Selecção de modo (USB, SD, Line-in, Radio FM, Bluetooth®) através do botão modo.
 
 * Função "Mute" para silenciar todos os modos. 
 
