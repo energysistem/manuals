@@ -21,4 +21,4 @@ Control all the functions the *Energy Tower 3* has to offer:
 
 * Repeat/random modes (RPT button).
 
-* Select a song or radio station using the number buttons (USB, SD and radioi FM modes).
+* Select a song or radio station using the number buttons (USB, SD and radio FM modes).
