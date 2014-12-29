@@ -38,4 +38,6 @@ INSTALACION DE LA PILA.
 
 Retira la tapa de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
 
+(MEter resto de texto de cambio de pilas).
+
 
