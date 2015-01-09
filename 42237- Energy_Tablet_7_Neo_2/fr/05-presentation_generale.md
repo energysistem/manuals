@@ -1,8 +1,6 @@
 ## <quick_guide> Présentation générale
 
-CAMBIAR IMAGEN
-
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53980ea80d774.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42027/54afb2a61b236.jpg)
 
 1. Caméra arrière
 2. Caméra frontale
