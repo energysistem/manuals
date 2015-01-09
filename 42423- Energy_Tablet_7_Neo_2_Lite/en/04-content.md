@@ -1,5 +1,5 @@
 ## <quick_guide> Product Content
-* Energy Tablet 7" Neo 2.
+* Energy Tablet 7" Neo 2 Lite.
 * Quick guide.
 * USB cable 2.0 High-speed to connect the PC.
 * USB-HOST cable to connect external USB.
