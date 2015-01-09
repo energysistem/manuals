@@ -1,7 +1,5 @@
 ## <quick_guide> Presentación general
 
-CAMBIAR IMAGEN PRODUCTO
-
 ![IMAGEN DEL PRODUCTO NUMERADA](http://static.energysistem.com/images/manuals/42027/54afb2a61b236.jpg)
 
 1. Cámara trasera
