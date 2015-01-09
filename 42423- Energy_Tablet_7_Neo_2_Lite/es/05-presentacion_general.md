@@ -2,7 +2,7 @@
 
 CAMBIAR IMAGEN PRODUCTO
 
-![IMAGEN DEL PRODUCTO NUMERADA](http://static.energysistem.com/images/manuals/42027/53980ea80d774.jpg)
+![IMAGEN DEL PRODUCTO NUMERADA](http://static.energysistem.com/images/manuals/42027/54afb2a61b236.jpg)
 
 1. Cámara trasera
 2. Cámara delantera
