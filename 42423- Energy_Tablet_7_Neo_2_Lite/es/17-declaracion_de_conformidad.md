@@ -1,6 +1,6 @@
 ## <quick_guide> Declaración de Conformidad
 
-Nombre del suministrador: Energy Sistem Soyntec S.A.				FECHA: 22/12/2014
+Nombre del suministrador: Energy Sistem Soyntec S.A.				Fecha: 09/11/2015
 
 Dirección: Pol. Ind. Finestrat - C/.Calpe, 1 – 03509, Finestrat, Alicante (España)
 
@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem™ Energy Tablet 7" Neo 2**
+**Energy Sistem™ Energy Tablet 7" Neo 2 Lite**
 
 País de fabricación: China
 
