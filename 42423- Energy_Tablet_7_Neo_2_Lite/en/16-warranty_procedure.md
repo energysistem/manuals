@@ -1,6 +1,6 @@
 ## <quick_guide> Declaration of Conformity
 
-_**Manufacturer Name:**_ Energy Sistem Soyntec S.A. _**Date:**_ 22-12-2014
+_**Manufacturer Name:**_ Energy Sistem Soyntec S.A. _**Date:**_ 09-01-2015
 
 _**Address:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).
 _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
@@ -8,7 +8,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem#trade# Energy Tablet 7"Neo 2**
+**Energy Sistem#trade# Energy Tablet 7"Neo 2 Lite**
 
 _**Manufacturing Country:**_ China
 Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
