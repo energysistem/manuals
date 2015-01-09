@@ -1,6 +1,7 @@
 ## <quick_guide> Apresentação geral
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42027/54afb2a61b236.jpg)
+
 1. Câmara traseira.
 
 2. Câmara frontal.
