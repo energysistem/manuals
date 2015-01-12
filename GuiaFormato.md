@@ -50,6 +50,14 @@ En caso de que haya algo que quieras que aparezca **únicamente** en la guia rá
 >
 \<unique> Este texto aparecerá sólo en la guía rápida \</unique>
 
+Las siguientes combinaciones de caracteres sirven para añadir caracteres especiales:
+
+* #trade# -> ™
+* #ge# -> ≥
+* #le# -> ≤
+* #plusmn# -> ±
+* #deg# -> º
+
 ### Formato
 
 Existen algunos elementos en los manuales que requieren que les des un formato especial, para facilitar su uso, los puedes encontrar a continuación:

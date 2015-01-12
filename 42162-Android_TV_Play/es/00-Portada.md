@@ -1,0 +1,1 @@
+![] (Foto de portada)

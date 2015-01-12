@@ -21,14 +21,10 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 7.	Muitas vezes a tela fica em cor preto e o dispositivo não responde. Aperta ao botão Reset para reiniciar o dispositivo. É melhor reiniciar o dispositivos através das opções disponíveis no sistema, reinicie o dispositivo e ligue-o de novo.
 
 8.	A capacidade de memória da Energy Tablet, mas a memória disponível é inferior. Por quê?
-O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 1,5 GB de memória interna para funcionar. Por isso, a memória disponível para guardar dados adicionais é inferior da especificada.
+O sistema operacional Windows#trade# e as aplicações pré-instaladas no dispositivo necessitam memória interna para funcionar. Por isso, a memória disponível para guardar dados adicionais é inferior da especificada.
 
 9.	Actualizei o sistema operacional, mas perdi os arquivos multimédia e fundos de tela salvos. Como posso recuperar os conteúdos pré-instalados? 
 Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados na sua Energy Tablet e muito mais arquivos multimédia e fundos de tela adicionais.
 
-10.	Que devo fazer para que me deixe instalar uma aplicação? 
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
-Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
-
-11.	Qual é a autonomia do dispositivo? 
+10.	Qual é a autonomia do dispositivo? 
 Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada, a potência que exijam as aplicações e jogos, etc. 

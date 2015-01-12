@@ -1,6 +1,6 @@
-﻿## Télécommande 
+## Télécommande 
 
-Avec la télécommande vous pouvez contrôler toutes les fonctions de *l’Energy Tower 3*. 
+Avec la télécommande vous pouvez contrôler toutes les fonctions de *l'Energy Tower 3*. 
 
 * Arrêt et redémarrage de l'appareil. 
 

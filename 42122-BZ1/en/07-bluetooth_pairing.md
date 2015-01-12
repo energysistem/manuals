@@ -3,4 +3,6 @@ Everytime you turn on your *Energy Music Box BZ1 Bluetooth*, pairing mode will s
 
 To pair the speaker with the last device again, you only need to turn on the *Energy Music Box BZ1 Bluetooth* and the synchronization will start automatically.
 
+To stop the current sync and sync other device, hold the button (6) for 2 seconds.
+
 </quick_guide>

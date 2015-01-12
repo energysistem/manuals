@@ -22,13 +22,10 @@ Many digital cameras and image editing software add hidden data to .jpg files. T
 It is always better to reboot the device through one of the options available within the system, but if that is not possible, remove the battery, put it back again and press the power button.
 
 8.	The built-in memory of the Energy Tablet is lower than the specified in the specifications. Why?
-The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than the specified.
+The Windows#trade# operating system and the preinstalled applications need memory to work. Therefore, the available memory for additional data is less than the specified.
 
 9.	I updated the firmware but I no longer have any multimedia files nor wallpapers. How can I retrieve the contents that came preinstalled?
 Before any system update, we recommend making a backup of everything you want to keep. In www.energysistem.com, you will find not only all the content that came preinstalled in your Energy Tablet, but many more multimedia files and additional wallpapers.
 
-10.	What must I do to install an application?
-First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
-
-11.	How long does the battery last?
+10.	How long does the battery last?
 It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the power consumtion required by the apps, games, etc.

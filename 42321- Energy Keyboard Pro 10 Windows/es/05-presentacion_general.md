@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![IMAGEN GENERAL DEL PRODUCTO](URL: http://static.energysistem.com/images/manuals/42180/543bb8a776570.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](URL: http://static.energysistem.com/images/manuals/77828/54a19540109a0.jpg)
 
 1. Conector Dock 9-Pin
 2. Teclas Multimedia

@@ -21,7 +21,7 @@ Many digital cameras and image editing software add hidden data to .jpg files. T
 It is always better to reboot the device through one of the options available within the system, but if that is not possible, remove the battery, put it back again and press the power button.
 
 8.	The built-in memory of the Energy Tablet is lower than the specified in the specifications. Why?
-The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than the specified.
+The Windows#trade# operating system and the preinstalled applications need memory to work. Therefore, the available memory for additional data is less than the specified.
 
 9.	I updated the firmware but I no longer have any multimedia files nor wallpapers. How can I retrieve the contents that came preinstalled?
 Before any system update, we recommend making a backup of everything you want to keep. In www.energysistem.com, you will find not only all the content that came preinstalled in your Energy Tablet, but many more multimedia files and additional wallpapers.

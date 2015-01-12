@@ -14,10 +14,8 @@
 
 7.	Quelques fois, l'écran est en toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
 
-8.	La capacité de mémoire do Energy Tablet x7 Quad 3G est 8Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
+8.	La capacité de mémoire do Energy Tablet est 32Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Windows#trade# et les applications préinstallées au dispositif ont besoin mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 32Go.
 
 9.	J'ai mis à jour le firmware et j'ai aucun livre ni fond d'écran. Comment pourrais-je récupérer les contenus qui étaient préinstallés? Avant de toute mise à jour du système, nous recommandons de faire une copie de sécurité de tout ce que vous voulez conserver. À energysistem.com vous trouverez non seulement tous les contenus qui viennent préinstallés dans votre Energy Tablet sinon beaucoup plus des livres et des fonds d'écran additionnels.
-
-10.	Qu'est-ce que je dois faire pour pouvoir installer une application? Premièrement, assurez-vous bien que le fichier a l'extension d'installation Android#trade#(APK), deuxièmement, Android#trade# vous demandera d'activer l'installation d'applications depuis « Origines méconnus », cette option est désactivé par sécurité. Pour autoriser l'installation d'applications, vous avez que à suivre les instructions qui vont apparaître sur l'écran, la première fois que vous essayez d'installer une application : Paramètres / Applications / Origines méconnus (activer).
 
 11.	Quelle est l'autonomie du dispositif? Cela dépend, surtout, des conditions d'usage, comme le niveau d'éclat de l'écran, l'usage d'écouteurs ou du haut parleur, ou si le Wi-Fi est activé ou désactivé et l'usage de réseaux GSM et 3G. L'autonomie de l'Energy Tablet Neo est de 120 heures en standby et 8 heures de conversation.

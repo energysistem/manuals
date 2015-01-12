@@ -1,4 +1,4 @@
-﻿## Introdução 
+## Introdução 
 
 * Energy Sistem® agradece-lhe por adquirir esta *Energy Tower 3*, desejamos que tire o maior proveito.
 

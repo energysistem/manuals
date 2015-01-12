@@ -1,11 +1,11 @@
-﻿## Lecture à partir de cartes SD et USB 
+## Lecture à partir de cartes SD et USB 
 
 Pour lire des fichiers MP3, insérez une mémoire externe USB ou carte SD/MMC dans les fentes appropriées, (11) et (13) respectivement. 
 
-À ce moment, *l’Energy Tower 3* effectuera la lecture de la mémoire externe insérée automatiquement. 
+À ce moment, *l'Energy Tower 3* effectuera la lecture de la mémoire externe insérée automatiquement. 
 Vous pourrez alors voir sur l'affichage les «USB» ou «SD» en fonction du type de mémoire que vous insérez. 
 
-Si vous désactivez *l’Energy Tower 3* ou retirez une des mémoires, le moment où vous avez arrêté la lecture sera stocké dans la mémoire interne de l'appareil. 
+Si vous désactivez *l'Energy Tower 3* ou retirez une des mémoires, le moment où vous avez arrêté la lecture sera stocké dans la mémoire interne de l'appareil. 
 
 Lorsque vous vous reconnectez la même mémoire, il continuera à jouer au moment où vous l'avez laissé. 
 
