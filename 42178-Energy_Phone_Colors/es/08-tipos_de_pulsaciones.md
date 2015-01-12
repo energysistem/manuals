@@ -29,7 +29,7 @@ Desliza el dedo rápidamente sobre la pantalla
 
 * Presionar
 
-Toque la superficie durante un período prolongado de tiempo
+Toca la superficie durante un período prolongado de tiempo
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aedbd1e1.jpg)
 
