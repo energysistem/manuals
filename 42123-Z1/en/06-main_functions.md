@@ -11,7 +11,7 @@ While the device is turned on, the LED indicator (5) will keep flashing in green
 
 ### Changing play mode
 
-When you turn on your *Energy Music Box Z1*, it will play music from the connected device (micro SD card or line-in) in case both sources are active, the device will priorize micro SD card mode. When a micro SD card is inserted or an external player is connected to the line-in connection, the device will automatically change into that play mode. If both sources are connected (micro SD card and line-in) you can change the play mode by pressing the menu button (5).
+When you turn on your *Energy Music Box Z1*, it will play music from the connected device (micro SD card or line-in) in case both sources are active, the device will priorize micro SD card mode. When a micro SD card is inserted or an external player is connected to the line-in connection, the device will automatically change into that play mode. If both sources are connected (micro SD card and line-in) you can change the play mode by pressing the menu button (6).
 
 </quick_guide>
 
