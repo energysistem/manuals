@@ -30,6 +30,6 @@
 
 * Voltaje nominal: 3.7V DC
 * Tiempo de carga: 2-3 horas
-* Capacidad nominal: 500mA
+* Capacidad nominal: 500mAh
 * Sistema de carga por USB
 * Autonomía: 8 horas en modo tarjeta.
