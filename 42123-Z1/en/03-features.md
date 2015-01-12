@@ -30,6 +30,6 @@
 
 * Rated voltage: 3.7V DC
 * Charging time: 2~3 hours
-* Battery capacity: 500mA
+* Battery capacity: 500mAh
 * USB charging system
 * Battery life up to 8h in micro SD card mode.
