@@ -11,7 +11,7 @@ While the device is turned on, the LED indicator (5) will keep flashig in blue o
 
 ### Changing play mode
 
-When you turn on the device, pairing mode will start automatically. To change into "line in" mode, you only need to connect the audio cable (included) to the line-in connection (7). Press the menu button (6) to switch between different playback modes. 
+When you turn on the device, pairing mode will start automatically. To change into "line in" mode, you only need to connect the audio cable (included) to the line-in connection (7). 
 When line-in mode is selected, the led indicator (5) changes its color to green.
 </quick_guide>
 
