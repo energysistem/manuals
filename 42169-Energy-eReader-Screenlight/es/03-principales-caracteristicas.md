@@ -1,4 +1,4 @@
-##Principales características
+## Principales características
 
 - Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris y alto contraste. Resolución 600 x 800 pixels / 167ppp. 
 - Diseño estilizado y ultraligero. Tan sólo 7,6mm de grosor y 149gr.
