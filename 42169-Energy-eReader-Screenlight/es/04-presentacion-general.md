@@ -1,4 +1,4 @@
-﻿##Presentación General
+## Presentación General
 1. Tamaño de fuente / refresco de página (con pulsación prolongada).
 2. Screenlight On/Off / Nivel de Screenlight (con pulsación prolongada).
 3. Botón direccional 
