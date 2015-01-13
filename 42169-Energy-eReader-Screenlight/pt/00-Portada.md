@@ -1,1 +1,1 @@
-## Energy eReader Slim
+## Energy eReader Screenlight
