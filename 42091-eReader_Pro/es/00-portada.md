@@ -1,3 +1,5 @@
 <quick_guide>
-![Imagen1](http://static.energysistem.com/images/manuals/42091/54292091c01c3.jpg)
+## Energy eReader Pro
+
+![Portada](http://static.energysistem.com/images/manuals/42091/54b5653d12cbe.jpg)
 </quick_guide>
