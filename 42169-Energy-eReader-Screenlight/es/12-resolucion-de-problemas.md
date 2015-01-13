@@ -1,4 +1,4 @@
-##Resolución de problemas
+## Resolución de problemas
 
 **¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
 
