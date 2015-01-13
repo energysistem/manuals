@@ -1,6 +1,6 @@
 ##Contenido del producto
 
-1 x Energy eReader Slim
+1 x Energy eReader Screenlight
 
 1 x cable micro USB
 
