@@ -1,16 +1,17 @@
-## Principales características
-- Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris y alto contraste. Resolución 758 x 1024 pixels y 212 puntos por pulgada. 
-- Pantalla táctil para mejorar la experiencia con tu eReader.
-- Luz integrada y regulable para leer bajo cualquier condición de luminosidad. 
-- Wi-Fi integrado (tipo n).
-- Procesador de doble núcleo ARM Cortex A9 1.0Ghz.
-- Disfruta de aplicaciones de navegación, correo, descarga de contenidos en la nube, etc.
-- Diseño ergonómico ideal para la sujeción durante horas de lectura.
-- Sistema antirreflectante sin brillos y lectura cómoda bajo luz natural desde cualquier ángulo de visualización.
-- Batería de iones de litio recargable de alta capacidad que permite hasta dos meses de uso con una sola carga.*
-- Funciones avanzadas de lectura: diferentes tamaños, tipos de letra y marcadores.
-- Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB, ampliable hasta 64GB con tarjetas micro SD/SDHC.
-- Incluye 1500 libros de la literatura universal de regalo.
+## Principais Características
 
-*Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
+- Leitor de ebook com tela e-ink de 6 ", 16 níveis de cinza e alto contraste. Resolução de 758 x 1024 píxeis e 212 pontos por polegada.
+- Tela de toque para aprimorar sua experiência com eReader. 
+- Luz integrada e ajustável para ler sob quaisquer condição de iluminação. 
+- Integrado Wi-Fi (tipo n). 
+- Processador ARM Cortex A9 1.0Ghz Dual-core. 
+- Aproveite as aplicações de navegação, e-mail, download de conteúdo na nuvem, etc.
+- Design ergonómico ideal para a sujeição durante horas. 
+- Sistema anti-reflexo, fácil leitura sob a luz solar e de vários ângulos de visão. 
+- Bateria de lítio recarregável de alta capacidade que permite até dois meses de uso com uma única carga.* 
+- Funções de leitura especial: diferentes tamanhos, fontes e marcadores. 
+- Interface do usuário em vários idiomas, fácil e intuitiva. 
+- Memória interna: 8 GB, expansível até 64 GB com cartões micro SD / SDHC. 
+- Inclui 1.500 clássicos da literatura universal. 
+
+*Calculo com base no tempo médio de leitura diária, com um mínimo nível de iluminação "ScreenLight" e conectividade Wi-Fi desactivado. 
