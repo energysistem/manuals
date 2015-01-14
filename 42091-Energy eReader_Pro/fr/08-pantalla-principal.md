@@ -1,28 +1,27 @@
-## Pantalla principal
+## Ecran principal
 
-- *Carrusel de los últimos libros leídos*
+- *Carrousel des livres récemment lus*
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499ad09ad922.jpg)
 
-- *Carrusel de los últimos libros añadidos*
+- *Carrousel des derniers livres ajoutés*
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499ad1396a0b.jpg)
 
-- *Iconos de aplicaciones principales**: ![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
+- *Icônes principaux**: ![] (http://static.energysistem.com/images/manuals/42091/54993b03b8f28.jpg)
 
-- *Home:* ![] (http://static.energysistem.com/images/manuals/42091/54993c119e87c.jpg). Te devuelve a la pantalla principal
+- *Accueil:* ![] (http://static.energysistem.com/images/manuals/42091/54993c119e87c.jpg). Permet de revenir à l'écran principal.
 
-- *Atrás:* ![] (http://static.energysistem.com/images/manuals/42091/54993c199be66.jpg). Permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
+- *Retour:* ![] (http://static.energysistem.com/images/manuals/42091/54993c199be66.jpg). Vous ramène à l'écran précédent de l'application en cours d'exécution. 
 
-- En ocasiones, encontrarás el icono de opciones adicionales ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Pulsa 
-este icono para acceder a opciones avanzadas.
+- Dans certains menus, vous pouvez trouver l’icône d’options supplémentaires ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Cliquez sur cet icône pour accéder aux options avancées.
 
-- *Luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Te permite ajustar el nivel de luz para iluminar la pantalla de tu eReader
+- *Lumière:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Vous permet de régler le niveau de lumière pour illuminer l'écran de votre eReader.
 
-- *Wi-Fi* ![] (http://static.energysistem.com/images/manuals/42091/549940826507a.jpg). Te indica la recepción de tu señal Wi-Fi
+- *Wi-Fi* ![] (http://static.energysistem.com/images/manuals/42091/549940826507a.jpg). Vous indique la réception de votre signal Wi-Fi.
 
-- *Batería* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Te indica el nivel de batería que dispone tu eReader
+- *Batterie* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Vous indique le niveau de la batterie de votre eReader.
 
-- *Hora:* ![] (http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
+- *Heure:* ![] (http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
-*Puedes configurar los accesos directos a aplicaciones que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / General / Aplicaciones mostradas en el escritorio.
+*Vous pouvez définir les icônes que vous voulez sur la page principale. Pour les modifier, vous devez suivre ces étapes: Paramètres / Paramètres définis par l'utilisateur / Personnaliser les applications du bureau.
