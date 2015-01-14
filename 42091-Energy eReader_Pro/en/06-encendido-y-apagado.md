@@ -1,4 +1,4 @@
-﻿## Switching On and Off
+## Switching On and Off
 
 - To switch on your eReader, press the power button (1) during a few seconds. 
 
