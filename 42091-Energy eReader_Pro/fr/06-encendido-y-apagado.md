@@ -1,23 +1,23 @@
-## Encendido y apagado
+## Allumer / Éteindre
 
-- Para encender tu eReader, pulsa el botón encendido/apagado durante unos segundos.
+- Pour allumer votre eReader, appuyez sur le bouton Power durant quelques secondes.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
 
-- Para apagar el dispositivo, mantenga pulsado dicho botón hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar". Una pulsación breve de este botón, bloquea/desbloquea el dispositivo. 
+- Pour l’éteindre, restez appuyer sur ce même bouton (1) jusqu’à ce qu’apparaisse le mode de veille, ensuite choisissez l’option « éteindre ». Une brève pulsation sur le bouton Power bloque/débloque l’appareil. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/549944d0977d4.jpg)
 
-En el modo bloqueo o apagado, el dispositivo muestra una imagen en su pantalla.
+En mode bloqué ou éteint, le dispositif aura toujours une image sur son écran.
 
-*En modo bloqueo:*
+*En mode bloqué:*
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995d5ca0ea6.jpg)
 
-*Apagado:*
+*Éteint:*
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995d6557f40.jpg)
