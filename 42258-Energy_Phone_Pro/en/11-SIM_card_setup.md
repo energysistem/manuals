@@ -1,6 +1,6 @@
 ### SIM card setup
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d01ec41aec.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42258/544fdcefbae0b.jpg)
 
 Your Energy Phone allows you to use two SIM cards. In Settings > SIM Management, you can manage your SIM cards.
 
