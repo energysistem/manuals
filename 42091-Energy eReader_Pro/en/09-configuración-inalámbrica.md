@@ -12,6 +12,6 @@ Your Energy eReader Pro have an embebed Wi-Fi connection. In order to connect yo
 
 ![] (http://static.energysistem.com/images/manuals/42091/549956f23fb5a.jpg)
 
-*Nota:* Once you have completed the authentication process successfully, your eReader Energy will save the Wi-Fi Network access settings, and it will be ready to use the Internet. The device will remember the network, and automatically connect everytime it becomes available. 
+*Note:* Once you have completed the authentication process successfully, your eReader Energy will save the Wi-Fi Network access settings, and it will be ready to use the Internet. The device will remember the network, and automatically connect everytime it becomes available. 
 
 Your Wi-Fi can be programmed to turn off automatically when you put your eReader in standby mode without using it. Go to ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Settings / ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi / ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg) Advanced options menu / ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Advanced settings).
