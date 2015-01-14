@@ -24,6 +24,6 @@ It is due to the format that has been digitized file. Many e-books are digitized
 
 Yes, the music application lets you listen to your music while you're reading all kinds of eBooks.
 
-**My battery lasts short**
+**My battery lasts short.**
 
 If the battery of your eReader is short, make sure your Wi-Fi connection is off, also make sure you have selected "do not use the Wi-Fi while Stand by" at Wi-Fi Advanced Settings.
