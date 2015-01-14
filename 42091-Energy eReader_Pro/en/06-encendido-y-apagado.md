@@ -1,12 +1,12 @@
 ## Switching On and Off
 
-- To switch on your eReader, press the power button (1) during a few seconds. 
+- To switch on your eReader, press the power button during a few seconds. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
 
-- To turn off your eReader, hold the power button (1) until the power off menu appears, and press the option “turn off”. One press of the power button (1) locks/unlocks the eReader. 
+- To turn off your eReader, hold the power button until the power off menu appears, and press the option “turn off”. One press of the power button locks/unlocks the eReader. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
