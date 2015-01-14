@@ -1,4 +1,4 @@
-﻿## Important Safety Instructions
+## Important Safety Instructions
 
 To ensure your safety and the safety of others, please ensure that you read all the safety information before operating this product.
 Keep this information in a safe place for future reference.
