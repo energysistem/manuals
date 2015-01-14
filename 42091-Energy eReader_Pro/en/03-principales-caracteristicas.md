@@ -1,4 +1,4 @@
-﻿## Main Features
+## Main Features
 
 - 6" eBook reader, 16 levels greyscale, high contrast and 758 × 1024 pixels / 212 dpi.
 - Touch screen with integrated and adjustable light to read under any lighting condition.
