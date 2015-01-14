@@ -1,4 +1,4 @@
-## Actualización
+## Updates
 
 Your Energy eReader has installed an operating system based on Android#trade#, you may reinstall or upgrade if necessary. By default updates are via OTA (Over-The-Air), making your Energy eReader will automatically connect to our servers while you are connected to a Wi-Fi network connected to the Internet, it will download and install the new software easily and quickly as soon as a new update is released.
 
