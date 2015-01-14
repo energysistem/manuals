@@ -1,6 +1,6 @@
-## Contenido del producto
+## Contenu du produit
 
 - 1 x Energy eReader Pro
-- 1 x Cable micro USB
-- 1 x Manual de usuario
+- 1 x Câble micro USB
+- 1 x Manuel d'utilisateur
 
