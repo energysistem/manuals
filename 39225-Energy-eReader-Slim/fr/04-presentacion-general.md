@@ -1,4 +1,4 @@
-##Presentación General
+## Presentación General
 1. Tamaño de fuente / refresco de página (con pulsación prolongada).
 2. Rotación de pantalla
 3. Botón direccional 

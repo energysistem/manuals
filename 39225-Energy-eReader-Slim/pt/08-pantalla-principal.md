@@ -1,4 +1,4 @@
-##Pantalla principal
+## Pantalla principal
 
 1. Carrusel de los últimos libros leídos, indicando la progresión de la lectura mediante la barra de puntos.
 2. Carrusel de los últimos libros añadidos

@@ -1,4 +1,4 @@
-##Declaración de conformidad
+## Declaración de conformidad
 
 **Nombre del suministrador:** Energy Sistem Soyntec S.A.				
 **Fecha:** 06/10/2014

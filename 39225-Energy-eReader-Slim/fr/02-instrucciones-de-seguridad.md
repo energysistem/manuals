@@ -1,4 +1,5 @@
-##Instrucciones de seguridad
+## Instrucciones de seguridad
+
 Para garantizar tu seguridad y la seguridad de los demás, por favor asegúrate de leer toda la información de seguridad antes de utilizar este producto. Guarda esta información en un lugar seguro para futura referencia.
 
 **Precauciones**

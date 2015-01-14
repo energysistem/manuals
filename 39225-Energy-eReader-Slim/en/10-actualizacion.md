@@ -1,4 +1,4 @@
-##Actualización
+## Actualización
 
 Puedes actualizar tu Energy eReader a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. 
 
