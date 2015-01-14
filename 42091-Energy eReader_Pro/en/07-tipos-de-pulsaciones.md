@@ -1,4 +1,4 @@
-﻿## Touch Gestures
+## Touch Gestures
 
 
 **Basic gestures**
