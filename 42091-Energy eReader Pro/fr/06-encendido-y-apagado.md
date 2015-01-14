@@ -6,7 +6,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
 
-- Pour l’éteindre, restez appuyer sur ce même bouton (1) jusqu’à ce qu’apparaisse le mode de veille, ensuite choisissez l’option « éteindre ». Une brève pulsation sur le bouton Power bloque/débloque l’appareil. 
+- Pour l'éteindre, restez appuyer sur ce même bouton (1) jusqu'à ce qu'apparaisse le mode de veille, ensuite choisissez l'option « éteindre ». Une brève pulsation sur le bouton Power bloque/débloque l'appareil. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
