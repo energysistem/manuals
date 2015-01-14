@@ -1,6 +1,6 @@
 ## Instrucciones de uso
 
-Tu Energy eReader Pro lleva una batería de litio recargable. Inicialmente, la batería viene cargada de fábrica, pero es recomendable que realices una carga completa antes del primer uso. Recarga la batería conectando el dispositivo a la toma de corriente a través de un cargador USB (5V / 1Ah max.) o a tu ordenador mediante el cable micro USB incluido en el producto. El tiempo de carga oscila entre 3-5 horas dependiendo de si el dispositivo está apagado o encendido. Para mantener la batería en excelentes condiciones te recomendamos que durante la carga lo mantengas apagado y no lo dejes cargando más de 8 horas.
+Votre Energy eReader Pro possède une batterie de lithium rechargeable. La batterie vient chargée depuis l’usine, mais il est recommandable que vous réalisiez une charge complète avant la première utilisation. Rechargez la batterie en connectant le dispositif à la prise électrique grâce à un chargeur USB (5V / 1Ah max.) ou à votre ordinateur en utilisant le câble micro USB inclus dans le produit. Le temps de charge varie entre 3-5 heures, dépendant si l’appareil est éteint ou allumé. Pour garder la batterie dans d’excellentes conditions, on vous recommande de le recharger en étant éteint et de ne pas le laisser se charger durant plus de 8 heures. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499612e4fb00.jpg)
 
