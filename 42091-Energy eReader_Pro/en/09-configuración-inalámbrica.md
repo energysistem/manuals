@@ -1,15 +1,5 @@
 ## Wi-Fi Setup
 
-  menu >>  
-Wi-Fi
-.
-.
-
-
-*Nota:* 
-
- (from the Settings / Wi-Fi / additional options Icon / Advanced settings).
-
 Your Energy eReader Pro have an embebed Wi-Fi connection. In order to connect your device to a Wi-Fi network, go to ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Settings >> ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi and move the interrupter on the ON position. ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). Thus, a research of Wi-Fi networks will begin to connect your device selecting the Wi-Fi you desire.
 
 - ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi 
