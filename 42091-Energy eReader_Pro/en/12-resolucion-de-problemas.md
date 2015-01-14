@@ -1,22 +1,29 @@
 ## Troubleshooting
 
 **How I can turn off the eReader entirely without image on your screen?**
+
 The eReader will always have an image even with the unit turned off. Do not worry because that image off consumes no energy eReader. Also, you can configure the displayed image when turned off.
 
 **I can not change the font of the letters in a PDF file.**
+
 The PDF is displayed as it is created, with its fonts and styles, why can not change the font. This is the limitation you'll find in this format, however, can zoom and move through the book as if it were another format.
 
 **You can read an eBook.**
+
 Verify that the e-book format is compatible with your eReader.
 
 **The eReader has been blocked and unresponsive.**
+
 Try pressing the Reset button on the base using a very thin object such as a clip.
 
 **The eReader shows bad characters from books, excessive spaces between lines or page breaks where it should not.**
+
 It is due to the format that has been digitized file. Many e-books are digitized and formatted automatically without review. Use only reliable content providers, quality content for the best user experience.
 
 **Can I listen to music while I'm reading an ebook?**
-  Yes, the music application lets you listen to your music while you're reading all kinds of eBooks.
+
+Yes, the music application lets you listen to your music while you're reading all kinds of eBooks.
 
 **My battery lasts little, approximately two days**
+
 If the battery of your eReader is short, make sure your Wi-Fi is off, also make sure you have selected does not use the Wi-Fi while the eReader is suspended Settings.
