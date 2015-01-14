@@ -4,7 +4,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
 
-Votre Energy eReader Pro dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l’écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l’afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements". 
+Votre Energy eReader Pro dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l'écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l'afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements". 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 
@@ -32,7 +32,7 @@ Vous pouvez sélectionner le mode d'affichage qui vous convient en appuyant sur 
 Différentes fonctions sont possibles lors de la lecture d'un livre: 
 -	*Aller à la page:* ![] (http://static.energysistem.com/images/manuals/42091/549968861ae4e.jpg). Vous permet de saisir le numéro de la page exacte que vous souhaitez afficher, en cliquant sur le numéro pour le changer. 
 -	*Changer la taille des caractères:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Deux icônes sur l'écran sont disponibles pour augmenter ou diminuer la taille de la police. 
--	*Changer le type d’écriture:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Vous pouvez sélectionner le type d’écriture appropriée à partir d'une variété de sources indiquées dans votre eReader. 
+-	*Changer le type d'écriture:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Vous pouvez sélectionner le type d'écriture appropriée à partir d'une variété de sources indiquées dans votre eReader. 
 -	*Interlignes:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Vous permet de choisir l'espacement que vous préférez pour une lecture agréable. 
 -	*Modification de la marge:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Vous permet de choisir la marge que vous préférez pour une lecture agréable. 
 -	*Avance automatique de page:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Pour commencer la lecture automatique de page, activez le mode "Autoflip" en le mettant sur la position ON. Vous pouvez définir différents temps selon la vitesse de lecture que vous préférez. 
@@ -50,7 +50,7 @@ Différentes fonctions sont possibles lors de la lecture d'un livre:
 
 ![] (http://static.energysistem.com/images/manuals/42091/549964cb4f678.jpg)
 
-Cette application donne accès à la bibliothèque audio pour profiter de tous vos fichiers stockés dans la mémoire interne de votre eReader ou sur votre carte micro SD / SDHC. Dans le menu de l'application, sélectionnez l’icône: (icône de la musique) 
+Cette application donne accès à la bibliothèque audio pour profiter de tous vos fichiers stockés dans la mémoire interne de votre eReader ou sur votre carte micro SD / SDHC. Dans le menu de l'application, sélectionnez l'icône: (icône de la musique) 
 Une fois l'application ouverte, vous pouvez profiter de tous vos fichiers audio. La recherche de votre audio préféré est facilicité par le stockage par artistes, par albums ou playlists.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg) 
@@ -73,7 +73,7 @@ Ce mode de lecture offre la possibilité de:
 
 ![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
 
-Cette application vous permet de noter tous types de commentaires ou notes que vous pouvez éliminer par la suite d’un simple toucher. En plus de cela, vous pouvez ajouter des notes en sélectionnant directement le texte du livre que vous êtes en train de lire.
+Cette application vous permet de noter tous types de commentaires ou notes que vous pouvez éliminer par la suite d'un simple toucher. En plus de cela, vous pouvez ajouter des notes en sélectionnant directement le texte du livre que vous êtes en train de lire.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
 
