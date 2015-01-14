@@ -71,60 +71,12 @@ This playback mode let you:
 ![] (http://static.energysistem.com/images/manuals/42091/54999ccf2d853.jpg)
 
 
-**Bloc de Notas:**
+**Notepad:**
 
 ![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
 
-Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+This application lets you record all sorts of comments or notes, that can later be removed by a simple touch. You can also add notes maintaining a long press on the text of the book you're reading and dragging to select the desired part.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a33534ae6.jpg)
-
-
-
-
-
-
-
-
-
-WARRANTY
-
-Energy Sistem Soyntec SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months. Batteries are excluded from the 36-month warranty, having a warranty period of 12 months.
-
-This warranty covers any defects in workmanship or materials. This warranty does not cover any failure of the product due to accidents, misuse or alteration made by an unauthorized person.
-
-The special 36-months warranty is valid for the European Union. For other countries, please refer to your specific legislation.
-
-WARRANTY PROCEDURE
-
-Visit the Support section at http://support.energysistem.com and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available, as the possibility to submit a query to the Technical Service or consult the warranty.
-
-Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
-
-Specifications are subject to change without notice.
-
-*Trademarks.* All company, brand and product names are trademarks or registered trademarks of their respective companies.
-
-2014 by Energy Sistem Soyntec S.A. All rights reserved.
-
-DECLARATION OF CONFORMITY
-
-_**Manufacturer Name:**_ Energy Sistem Soyntec S.A.
-_**Address:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
-
-
-We declare under our own exclusive responsibility that the product:
-
-**Energy Sistem#trade# - Energy eReader Pro**
-
-**Manufacturing Country:** China
-
-Is in compliance with the essential norms and standards of the Directive 2004/i08/CE of the European Parliament and of the Council of December 15th 2004.
-
-
-
-
-
