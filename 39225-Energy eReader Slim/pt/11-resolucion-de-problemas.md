@@ -1,6 +1,6 @@
 ## Solução de problemas 
 
-**Como posso desligar completamente o eReader sem ter uma imagem na tela? **
+**Como posso desligar completamente o eReader sem ter uma imagem na tela?**
 
 O eReader terá sempre uma imagem, mesmo com o aparelho desligado. Não se preocupe porque esta imagem não consome energia do eReader. Além disso, você pode configurar a imagem exibida quando está desligado.
 
