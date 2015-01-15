@@ -1,10 +1,11 @@
-## Condiciones de la garantía
+## Condições de garantia
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Soyntec S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del Bien, en los términos y bajo las condiciones establecidas en la citada norma. Quedan excluidas del periodo de 36 meses las baterí¬as del producto, cuyo periodo de garantía será de 12 meses.
+Durante um período de 36 meses a partir da data da primeira compra pelo consumidor, nos termos do RDL 1/2007 Energy Sistem Soyntec S.A. é responsável por qualquer falta de conformidade que exista no momento da entrega Bem, nos termos e nas condições especificadas na regra. Excluem-se do período de 36 meses as baterias do produto, o período de garantia é de 12 meses.
 
-En el caso de que el Bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución o, subsidiaria a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
+No caso em que o poço não estava sob contrato e mediante recibo de entrega ou da fatura, o comprador reconhece o direito de qualquer reparo, a substituição ou subsidiária para a redução do preço ou a rescisão do contrato em conformidade com essa norma.
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero debido a uso indebido, negligencia, uso o empleo del Bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación.
+Esta garantia não se aplica se o defeito foi causado pelo comprador e / ou qualquer terceiro devido ao abuso, negligência, uso ou emprego de boa diferente daquele para o qual foi concebido, o uso ou instalação de produtos não conformes com manual de instruções, ou qualquer outra causa não relacionada com defeitos de material ou mão de obra.
 
-Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
-La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+Esta garantia é independente e compatível com salvaguardas estabelecidas por lei da RD 1/2007.
+
+A garantia especial de 36 meses é válida para a União Europeia. Para outros países, consulte a legislação ou o seu distribuidor local.
