@@ -3,6 +3,7 @@
 Declaração de conformidade
 
 Nome do fabricante: Energy Sistem Soyntec S.A.
+
 DATA: 06/10/2014
 
 Endereço: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
