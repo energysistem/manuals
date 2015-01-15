@@ -12,7 +12,7 @@ O formato PDF é exibido como ele é criado, com suas fontes e estilos, portanto
 
 Verifique que o formato de ebook é compatível com o seu eReader. 
 
-**O eReader está bloqueado e não responde. **
+**O eReader está bloqueado e não responde.**
 
 Tente pressionar o botão de reset na base usando um objeto fino, como um clipe.
 
