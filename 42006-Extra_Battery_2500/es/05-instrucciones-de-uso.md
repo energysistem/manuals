@@ -13,7 +13,8 @@ Conecta cualquier cable* USB tipo A-Micro USB al conector micro USB de tu Energy
 Mientras la batería cotenga carga, el indicador LED permanecerá atenuado en color azul para indicar que está lista para su uso (esta luz residual no supone un consumo significativo de energía**).
 
 *Cable no incluido.
-** 72uA al día / 2.2 mA al mes / 26.4 mA al año.
+
+**72uA al día / 2.2 mA al mes / 26.4 mA al año.
 
 **NOTA IMPORTANTE:**
 
