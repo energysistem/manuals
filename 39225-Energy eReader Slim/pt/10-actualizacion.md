@@ -12,4 +12,7 @@ Siga estes passos para a instalação:
 
 * Escolha o seu modelo Energy eReader na lista suspensa que aparece e, em seguida, faça o download da ultima versão disponível do Firmware.
 
-
+**Importante:** 
+* Verifique se a versão do sistema operacional que você está baixando é específico para o seu modelo e número de série, caso contrário você pode danificar o dispositivo. 
+* Descompacte o arquivo no seu computador. 
+* Abra o arquivo de texto incluído no download e siga as instruções para instalar o novo sistema operacional no seu Energy eReader. 
