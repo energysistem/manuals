@@ -14,7 +14,7 @@ Mientras la batería cotenga carga, el indicador LED permanecerá atenuado en co
 
 *Cable no incluido.
 
-**72uA al día / 2.2 mA al mes / 26.4 mA al año.
+**72uA al día / 2.2mA al mes / 26.4mA al año.
 
 **NOTA IMPORTANTE:**
 
