@@ -1,4 +1,4 @@
-## Resolución de problemas
+## Solução De Problemas
 
 **Eu não posso desligar ou suspender a minha eReader Pro / botão "Power" não está funcionando.**
 
