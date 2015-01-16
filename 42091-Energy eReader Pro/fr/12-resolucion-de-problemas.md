@@ -6,6 +6,7 @@ Vous devez désactiver le mode "démo". Ce mode, qui vous pouvez ajuster pendant
 
 Pour quitter "mode démo" arriver à "Paramètres", "définis par l'utilisateur", et tourner "Off" mode "Démo".
 
+![Demo Mode] (http://static.energysistem.com/images/manuals/42091/54b943e742640.jpg)
 
 
 **Comment éteindre complètement mon Energy eReader sans qu'apparaisse l'image sur l'écran?**
