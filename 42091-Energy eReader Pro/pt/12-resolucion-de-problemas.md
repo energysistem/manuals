@@ -6,6 +6,10 @@ Você precisa desativar o "modo de demonstração". Este modo, que você pode aj
 
 Para sair do "modo de demonstração" chegar a "Configurações", "definidos pelo usuário", e vire "Off" o "modo de demonstração".
 
+![Demo Mode] (http://static.energysistem.com/images/manuals/42091/54b943e742640.jpg)
+
+
+
 **¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
 El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
 
