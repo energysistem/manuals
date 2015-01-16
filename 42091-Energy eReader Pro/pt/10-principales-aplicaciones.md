@@ -55,24 +55,27 @@ Uma vez que a aplicação é aberta, você pode desfrutar de todos os seus arqui
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg) 
 
-*Modo reproducción:* puedes definir el orden de reproducción de las canciones (reproducción aleatoria, repetir la canción actual, repetir todas las canciones). 
-Ese modo de reproducción ofrece la posibilidad de:
--	Acceder directamente a tu biblioteca para elegir tu canción
--	Hacer una reproducción aleatoria de tus canciones
--	Añadir esa canción a una de tus listas
--	Eliminar la canción directamente
--	Controlar el volumen
--	Modificar los efectos de sonido
+*Modo de reprodução:* você pode definir a ordem de reprodução das músicas (modo aleatório, repetir a música actual, repetir todas as músicas). 
+Este modo de reprodução oferece a possibilidade de: 
+- Acesso direito à biblioteca para escolher sua música 
+- Modo aleatório da suas músicas 
+- Adicionar esta canção para uma das suas listas 
+- Excluir a música directamente 
+- Controlar o volume 
+- Trocar os efeitos sonoros 
 
-*Nota:* Los botones laterales te permiten aumentar o disminuir directamente el volumen de la canción que estás escuchando.
+*Nota:* Os botões laterais permitem aumentar ou diminuir directamente o volume da música que você está ouvindo. 
+
+
+
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999ccf2d853.jpg)
 
-**Bloc de Notas:**
+**Bloco de Notas:**
 
 ![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
 
-Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+Esta aplicação permite-lhe gravar todos os tipos de comentários ou notas que mais tarde pode eliminar com um simples toque. Você também pode adicionar notas para manter um longo toque sobre o texto do livro que você está lendo, e arrastando para seleccionar a parte desejada.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
 
