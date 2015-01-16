@@ -1,5 +1,13 @@
 ## Résolution de problèmes :
 
+**Je ne peux pas arrêter ou suspendre mon eReader / Pro bouton "Power" ne fonctionne pas.**
+
+Vous devez désactiver le mode "démo". Ce mode, qui vous pouvez ajuster pendant l'assistant d'amorçage, est conçu pour l'ereader lorsqu'il est démontré dans un magasin de l'affichage sur écran explications sur la façon dont le travail eReader. Pour éviter d'éteindre tout en étant exposés dans ce mode, le bouton d'alimentation et le mode de veille automatique est désactivé.
+
+Pour quitter "mode démo" arriver à "Paramètres", "définis par l'utilisateur", et tourner "Off" mode "Démo".
+
+
+
 **Comment éteindre complètement mon Energy eReader sans qu'apparaisse l'image sur l'écran?**
 
 L'Energy eReader aura toujours une image sur son écran, même quand l'appareil sera éteint. Ne vous inquiétez pas parce que cette image ne consomme pas d'énergie. En plus, vous pouvez configurer l'image qu'affichera l'eReader lorsqu'il sera éteint. 
