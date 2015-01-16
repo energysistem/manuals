@@ -1,7 +1,7 @@
 ## Ligado e desligado 
 
 - Para ligar o eReader, pressione o botão ligar/desligar por alguns segundos.  
-- 
+
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
