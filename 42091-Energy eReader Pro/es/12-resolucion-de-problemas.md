@@ -2,9 +2,9 @@
 
 **No puedo apagar ni suspender mi eReader Pro / No funciona el botón "Power"**
 
-Necesitas desactivar el "modo demo". Este modo, que puedes ajustar durante el primer arranque, está pensado para que el ereader se exponga en una tienda mostrando en la pantalla explicaciones acerca del funcionamiento del eReader. Para evitar su apagado mientras está expuesto en este modo se desactiva el botón de power y la suspensión automática.
+Necesitas desactivar el "modo demo". Este modo, que puedes ajustar durante el primer arranque, está pensado para que el ereader se exponga en una tienda mostrando en la pantalla explicaciones acerca del funcionamiento del eReader. Para evitar su apagado mientras está expuesto en este modo, se desactiva el botón de power y la suspensión automática.
 
-Para quitar el modo demo entra en ajustes, usuario, y en la sección "Modo demo", selecciona "No".
+Para quitar el "modo demo" entra en "Ajustes", "Usuario", y en la sección "Modo demo", selecciona "No".
 
 ![Demo Mode] (http://static.energysistem.com/images/manuals/42091/54b943e742640.jpg)
 
