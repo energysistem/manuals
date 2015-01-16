@@ -1,5 +1,13 @@
 ## Troubleshooting
 
+**I can not shut down or suspend my eReader Pro / "Power" button is not working**
+
+You need to disable the "demo mode". This mode, which you can adjust during the Boot Wizard, is designed for the ereader when it is shown at a shop displaying on screen explanations about how the eReader work. To avoid turning off while exposed in this mode, the power button and the automatic standby mode is disabled.
+
+To quit "demo mode" get to "Settings", "User defined", and turn "Off" the "Demo mode".
+
+![Demo Mode] (http://static.energysistem.com/images/manuals/42091/54b943e742640.jpg)
+
 **How I can turn off the eReader entirely without image on your screen?**
 
 The eReader will always have an image even with the device turned off. Do not worry because that image consumes no energy of the eReader battery. Also, you can configure the displayed image when turned off.
