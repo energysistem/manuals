@@ -20,7 +20,7 @@
 
 - *Wi-Fi* ![] (http://static.energysistem.com/images/manuals/42091/549940826507a.jpg). Mostra a recepção do sinal Wi-Fi.
 
-- *Batería* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indica o nível de bateria do seu eReader.
+- *Bateria* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indica o nível de bateria do seu eReader.
 
 - *Hora:* ![] (http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
