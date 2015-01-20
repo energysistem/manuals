@@ -13,8 +13,11 @@ Entrez dans la section "Support" et choisissez  le type de produit "eReader".
 Choisissez votre modèle d'Energy eReader dans la liste déroulante qui s'affiche, puis téléchargez la dernière version du logiciel. 
 
 **Important:**
+
 Assurez-vous que la version du système d'exploitation que vous téléchargez est spécifique à votre modèle et numéro de série, sinon vous risquez d'endommager l'appareil. 
+
 Décompressez le fichier sur votre ordinateur. 
+
 Ouvrez le fichier texte inclus dans le téléchargement et suivez les instructions pour installer le nouveau système d'exploitation sur votre Energy eReader.
 
 
