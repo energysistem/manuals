@@ -4,7 +4,7 @@
 
 Ici vous affichez tous les livres stockés dans la mémoire interne ou dans la carte micro SD de mémoire externe.
 
-Vous pouvez sélectionner le mode d'affichage et l’ordre des livres de votre bibliothèque. Vous pouvez y accéder à travers  le menu d’options XXX:
+Vous pouvez sélectionner le mode d'affichage et l'ordre des livres de votre bibliothèque. Vous pouvez y accéder à travers  le menu d'options XXX:
 
 - Favoris : Affiche uniquement les livres marqués comme favoris.
 - Recherche : Avec cette option, vous pouvez faire une recherche pour un titre spécifique.
