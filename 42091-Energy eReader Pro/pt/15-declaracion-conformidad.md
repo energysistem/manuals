@@ -1,21 +1,18 @@
-## Declaración de conformidad
+## Declaração de conformidade
 
-Nombre del suministrador: Energy Sistem Soyntec S.A.				
+Nome do Fabricante:Energy Sistem Soyntec S.A.  
+DATA: 06/10/2014
 
-FECHA: 06/10/2014
-
-Dirección: Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
+Endereço: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).  
 
 Tel: 902 388 388
-
 Fax: 902 119 034
-
 NIF: A53107488
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Declaramos sob nossa exclusiva responsabilidade que o produto:
 
 **Energy Sistem#trade# - Energy eReader Pro**
 
-**País de fabricación**: China
+_**País de fabricação:**_ China  
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
+Está em conformidade com as normas e padrões essenciais da Directiva 2004/08/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004.
