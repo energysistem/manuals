@@ -1,6 +1,6 @@
 ## General overview.
 
-1. Neckstrap hole.
+1. Knot hole.
 2. Earphones connector.
 3. USB 2.0 connector for battery charging and data transfer with PC.
 4. MENU: Previous menu / Main Menu / Show options menu.
