@@ -1,14 +1,12 @@
-## Soporte
+## Procedimento de garantia
 
-Entrando en http://support.energysistem.com/es/support y tras seleccionar su producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. 
+Visite a secção de Suporte em http://support.energysistem.com http://support.soyntec.com e seleccione o seu produto para ver as FAQ (Perguntas frequentes), manuais, drivers e actualizações disponíveis, assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia. Você pode verificar a disponibilidade do manual do usuário no seu idioma em http://www.energysistem.com/guide/42091.
 
-También ponemos a su disposición el teléfono para la gestión de garantía 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica tenga a mano el Ticket o Factura de compra y el número de serie del producto.
+Alternativamente, você pode preferir entrar em contacto com o distribuidor aonde foi adquirido o produto, apresentando o recibo de compra ou factura.
 
-Opcionalmente puede dirigirse al lugar donde compro el producto, presentando su Factura o Ticket de compra.
+As especificações estão sujeitas a alterações sem aviso prévio.
 
+*Marcas Registradas.* Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+© 2014 por Energy Sistem Soyntec S.A. Todos os direitos reservados.
 
-Marcas comerciales. Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
-
-© 2014 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
