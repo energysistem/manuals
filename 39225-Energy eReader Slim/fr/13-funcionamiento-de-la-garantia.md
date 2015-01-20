@@ -1,12 +1,14 @@
-## Funcionamiento de la garantía
-Entrando en http://support.energysistem.com/es/support y tras seleccionar su producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. 
+## Fonctionnement de la garantie
 
-También ponemos a su disposición el teléfono para la gestión de garantía 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica tenga a mano el Ticket o Factura de compra y el número de serie del producto.
+Lorsque vous entrez sur http://www.energysistem.com/es/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, comme la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
 
-Opcionalmente puede dirigirse al lugar donde compro el producto, presentando su Factura o Ticket de compra.
+Nous mettons à votre disposition le  téléphone pour la gestion de la garantie: 902 294 294 (téléphone pour la gestion de la garantie valide en Espagne). Avant d'effectuer un appel téléphonique, prenez en main le ticket ou la facture d'achat et le numéro de série du produit.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
 
-Marcas comerciales. Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+Les spécifications sont sujettes à des changements sans préavis
 
-© 2014 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
+Marques commerciales: Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+
+2014 par Energy Sistem Soyntec S.A. Tous droits réservés.
+
