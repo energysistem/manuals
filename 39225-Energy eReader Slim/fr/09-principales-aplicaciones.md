@@ -10,7 +10,7 @@ Vous pouvez sélectionner le mode d'affichage et l’ordre des livres de votre b
 - Recherche : Avec cette option, vous pouvez faire une recherche pour un titre spécifique.
 - Tri par titre: Livres par ordre alphabétique et par Titre.
 - Tri par Auteur: Livres par ordre dans des dossiers par Auteur.
-- Récemment lus : Derniers livres auxquels l’utilisateur a accédé.
+- Récemment lus : Derniers livres auxquels l'utilisateur a accédé.
 - Récents : Livres les plus récents transférés à l'appareil.
 - Voir liste : les livres sont affichés sous forme de liste.
 - Voir couverture : les livres sont affichés avec  une miniature de la couverture et son titre.
@@ -26,7 +26,7 @@ Pendant la lecture d'un eBook, vous avez plusieurs fonctions pour ajuster la lec
 - Signets : Tous les signets créés dans le livre en cours son affichés.
 - Indice : Accédez à l'index du livre (si disponible).
 - Aller à la page : Accédez directement à une page spécifique du livre actuel.
-- Recherche : Faites la recherche d’un ou de plusieurs mots dans le livre en cours.
+- Recherche : Faites la recherche d'un ou de plusieurs mots dans le livre en cours.
 - Taille de la police : Sélectionnez la taille de la police préférée parmi les 6 disponibles.
 - Police : Sélectionnez la police préférée.
 - Espacement : Sélectionnez l'espacement préféré entre les lignes.
@@ -73,6 +73,6 @@ Dans ce menu, vous disposez de six sections, qui sont:
 
 **Recherche**
 
-Accédez rapidement à n’importe quel fichier. Entrez le nom du fichier que vous voulez trouver et cliquez sur OK. L'appareil affiche les résultats qui correspondent à tous les fichiers de la mémoire.
+Accédez rapidement à n'importe quel fichier. Entrez le nom du fichier que vous voulez trouver et cliquez sur OK. L'appareil affiche les résultats qui correspondent à tous les fichiers de la mémoire.
 
 
