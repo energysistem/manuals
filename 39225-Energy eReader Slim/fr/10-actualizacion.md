@@ -1,6 +1,6 @@
 ## Mise à jour
 
-Vous pouvez mettre à jour votre Energy eReader via votre ordinateur. Le processus est simple mais doit être fait soigneusement et seulement si c’est vraiment nécessaire. 
+Vous pouvez mettre à jour votre Energy eReader via votre ordinateur. Le processus est simple mais doit être fait soigneusement et seulement si c'est vraiment nécessaire. 
 
 Suivez ces étapes pour l'installation: 
 
@@ -10,6 +10,6 @@ Accéder au site www.energysistem.com à partir du navigateur web de votre ordin
 
 Entrez dans la section "Support" et choisissez  le type de produit "eReader".
 
-Choisissez votre modèle d’Energy eReader dans la liste déroulante qui s'affiche, puis téléchargez la dernière version du logiciel. 
+Choisissez votre modèle d'Energy eReader dans la liste déroulante qui s'affiche, puis téléchargez la dernière version du logiciel. 
 
 
