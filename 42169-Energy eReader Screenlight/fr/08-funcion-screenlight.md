@@ -1,4 +1,4 @@
-﻿## Fonction Screenlight.
+## Fonction Screenlight.
 
 Le fonctionnement de votre Screenlight énergétique eReader vous permet de profiter de lecture en basse ou pas de lumière, grâce à l'affichage de rétroéclairage LED douce. Vous pouvez régler cette fonction même pour une utilisation en plein jour. Utilisez-le comme vous le prouver plus confortable.
 
