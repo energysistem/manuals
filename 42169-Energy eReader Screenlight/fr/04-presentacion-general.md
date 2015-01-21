@@ -1,5 +1,5 @@
 ## Presentation Generale
-![](http://static.energysistem.com/images/manuals/42169/54bf9f8676e28.jpg)
+![](http://static.energysistem.com/images/manuals/42169/54bfc7f24d468.jpg)
 
 1. Taille de la police / Rafraîchissement de la page (avec une pulsation prolongée).
 2. Fonction Screenlight
