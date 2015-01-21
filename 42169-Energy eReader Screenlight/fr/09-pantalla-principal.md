@@ -6,4 +6,4 @@
 2. Carrousel des derniers livres ajoutés 
 3. Icônes principaux
 4. Batterie: vous indique le niveau de batterie disponible sur votre eReader
-5. Heure
+5. Date et Heure
