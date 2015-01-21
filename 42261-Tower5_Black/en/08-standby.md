@@ -17,6 +17,6 @@ In addition, you can see the display with the actual mode and more information i
 ## Touch control
 
 The *Energy Tower 5* has a touch in the top panel by which you can control all functions easily.
-For a correct response of touch control, you should press it with the fingertip and hold for 1 second.
+For a correct response of touch control, you should press it with the fingertip and hold for about 1 second.
 
 
