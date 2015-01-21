@@ -13,4 +13,3 @@ País de fabricação: Chine
 Está em conformidade com as normas e padrões essenciais da Directiva 2004/108/CE do Parlamento Europeu e do Conselho de 15 de dezembro de 2004.
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-
