@@ -1,4 +1,4 @@
-﻿## Principales caractéristiques
+## Principales caractéristiques
 
 - Liseuse de livres électroniques avec écran e-ink de 6", 16 niveaux de gris et grand contraste. Résolution 600 x 800 pixels et 167 points par pouce.
 - Fonction Screenlight.
