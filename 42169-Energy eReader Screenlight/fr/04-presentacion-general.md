@@ -1,6 +1,8 @@
 ## Presentation Generale
+![](http://static.energysistem.com/images/manuals/42169/54bf9f8676e28.jpg)
+
 1. Taille de la police / Rafraîchissement de la page (avec une pulsation prolongée).
-2. Rotation de l'écran
+2. Fonction Screenlight
 3. Bouton directionnel
 4. Bouton de sélection
 5. Menu Options
