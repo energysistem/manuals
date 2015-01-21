@@ -1,7 +1,8 @@
 ## Principais Características 
 
-- Leitor de ebook com tela e-ink de 6", 16 níveis de cinza e alto contraste. Resolução de 600 x 800 píxeis e 167 pontos por polegada. 
-- Design estilizado e ultraleve. Apenas 7,6 milímetros de espessura e 149gr.
+- Leitor de ebook com tela e-ink de 6", 16 níveis de cinza e alto contraste. Resolução de 600 x 800 píxeis e 167 pontos por polegada.
+- Função Screenlight. 
+- Design estilizado e ultraleve. Apenas 8,1 milímetros de espessura e 160 gr.
 - Actualização de tela ultra-rápida com abertura e mudança de páginas mais rápida
 - Sistema anti-reflexo sem brilhos, fácil leitura sob a luz solar e de vários ângulos de visão.
 - Bateria de lítio recarregável que permite até um mes de uso com uma única carga.*

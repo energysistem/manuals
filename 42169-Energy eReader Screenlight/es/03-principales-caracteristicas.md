@@ -1,6 +1,7 @@
 ## Principales características
 
 - Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris de alto contraste con función Screenlight de retroiluminación de pantalla. Resolución 600 x 800 pixels / 167ppp. 
+- Función Screenlight.
 - Diseño estilizado y ultraligero. Tan sólo 8,1mm de grosor y 160gr.
 - Refresco de página ultrarrápido con mayor velocidad al abrir libros y cambiar páginas.
 - Sistema antirreflectante sin brillos y lectura cómoda bajo luz solar y desde diversos ángulos de visualización.
