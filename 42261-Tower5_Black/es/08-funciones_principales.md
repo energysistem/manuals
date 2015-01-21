@@ -11,7 +11,7 @@ Cuando se enciende el dispositivo puedes ver cómo se ilumina el logo Energy Sis
 
 ## Panel táctil
 
-El *Energy Tower 5* cuenta con un panel táctil en la parte superior desde el cual podrás controlar todas las funciones fácilmente.
+El *Energy Tower 5* cuenta con un panel táctil en la parte superior desde el cual podrás controlar todas las funciones fácilmente. Para una correcta respuesta del panel táctil debes pulsar el panel con la yema del dedo desnuda y mantener durante 1 segundo.
 
 
 
