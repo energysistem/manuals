@@ -4,7 +4,7 @@
 
 Ici vous affichez tous les livres stockés dans la mémoire interne ou dans la carte micro SD de mémoire externe.
 
-Vous pouvez sélectionner le mode d'affichage et l'ordre des livres de votre bibliothèque. Vous pouvez y accéder à travers  le menu d'options XXX:
+Vous pouvez sélectionner le mode d'affichage et l'ordre des livres de votre bibliothèque. Vous pouvez y accéder à travers  le menu d'options ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg):
 
 - Favoris : Affiche uniquement les livres marqués comme favoris.
 - Recherche : Avec cette option, vous pouvez faire une recherche pour un titre spécifique.
@@ -15,7 +15,7 @@ Vous pouvez sélectionner le mode d'affichage et l'ordre des livres de votre bib
 - Voir liste : les livres sont affichés sous forme de liste.
 - Voir couverture : les livres sont affichés avec  une miniature de la couverture et son titre.
 
- Si vous le préférez, vous pouvez également faire une recherche pour un titre spécifique en saisissant le nom requis après avoir cliqué sur la touche XXX.  
+ Si vous le préférez, vous pouvez également faire une recherche pour un titre spécifique en saisissant le nom requis après avoir cliqué sur la touche ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg).  
 
 
 *Fonctions avancées de lecture*
@@ -44,9 +44,9 @@ Ne pas tous les formats de livres électroniques sont en mesure de développer t
 
 Ici vous pouvez afficher tous les fichiers d'image enregistrés dans la mémoire interne ou la carte micro SD de mémoire externe.
 
-Une fois que vous accédez au menu Images, en appuyant sur XXX  vous pouvez choisir si vous voulez voir les fichiers sous forme de liste ou si vous préférez voir une représentation des vignettes.
+Une fois que vous accédez au menu Images, en appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) vous pouvez choisir si vous voulez voir les fichiers sous forme de liste ou si vous préférez voir une représentation des vignettes.
 
-En sélectionnant une image et en cliquant XXX, une fenêtre apparaîtra avec les options suivantes:
+En sélectionnant une image et en cliquant ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), une fenêtre apparaîtra avec les options suivantes:
 
 
 * Rotation à gauche ou à droite (à des intervalles de 90°)
@@ -58,7 +58,7 @@ En sélectionnant une image et en cliquant XXX, une fenêtre apparaîtra avec le
 
 Ici vous pouvez voir tous les dossiers et fichiers enregistrées dans la mémoire interne ou dans la carte micro SD de mémoire externe, indépendamment du format.
 
-En appuyant sur XXX, vous pouvez faire la recherche d’un fichier spécifique en entrant leur nom, vous pouvez supprimer n’importe quel fichier ou dossier, ou sélectionner si vous voulez naviguer sur la mémoire interne ou externe (micro SD).
+En appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg), vous pouvez faire la recherche d’un fichier spécifique en entrant leur nom, vous pouvez supprimer n’importe quel fichier ou dossier, ou sélectionner si vous voulez naviguer sur la mémoire interne ou externe (micro SD).
 
 **Paramètres**
 
