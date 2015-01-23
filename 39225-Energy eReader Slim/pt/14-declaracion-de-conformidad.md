@@ -1,6 +1,4 @@
-## Declaración de conformidad
-
-Declaração de conformidade
+## Declaração de conformidade
 
 **Nome do fabricante:** Energy Sistem Soyntec S.A.
 
