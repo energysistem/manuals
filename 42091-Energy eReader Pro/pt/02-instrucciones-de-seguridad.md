@@ -1,7 +1,7 @@
 ## Instruções de segurança 
 Para garantir a sua segurança e a segurança de outras pessoas, por favor, não deixe de ler as informações de segurança antes de usar este produto. Salve essas informações em um local seguro para referência futura. 
 
-**Precauções **
+**Precauções**
 
 Recomendamos a leitura dos pontos seguintes: 
 - Faça backups regulares em outro dispositivo de armazenamento. Energy Sistem #trade# não será responsável de forma alguma por perdas ou danos aos dados armazenados. 
