@@ -4,7 +4,7 @@
 
 Aqui são exibidos todos os livros armazenados na memória interna ou no cartão de memória externa micro SD. 
 
-Você pode seleccionar o modo de visualização e o ordem.  Aceda a elas através do menu de opções . Lá você vai encontrar diferentes opções:
+Você pode seleccionar o modo de visualização e o ordem.  Aceda a elas através do menu de opções ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) . Lá você vai encontrar diferentes opções:
  
 - Favoritos: Apresenta apenas os livros que foram marcados como favoritos.
 - Pesquisar: Com esta opção, você pode fazer uma busca por um título específico.
@@ -16,7 +16,7 @@ Você pode seleccionar o modo de visualização e o ordem.  Aceda a elas atravé
 - Ver capa: Os livros são exibidos com a capa em miniatura, para acompanhar o título.
 
 
-Se preferir, você também pode fazer uma busca por um título específico, digitando o nome desejado após pressionar o botão
+Se preferir, você também pode fazer uma busca por um título específico, digitando o nome desejado após pressionar o botão ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg).
 
 
 *Funções avançadas de leitura*
@@ -44,9 +44,9 @@ Nota: Nem todos os formatos de livros electrónicos são capazes de desenvolver 
 
 Aqui todos os arquivos de imagem guardados são exibidos na memória interna ou no cartão de memória externa micro SD.
 
-Uma vez que você acede o menu de Imagens, pressionando XXX pode escolher se você quiser ver os arquivos como uma lista ou se você preferir ver uma representação das imagens em miniatura.
+Uma vez que você acede o menu de Imagens, pressionando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) pode escolher se você quiser ver os arquivos como uma lista ou se você preferir ver uma representação das imagens em miniatura.
 
-Dentro de uma imagem e clicando  , aparecem as seguintes opções:
+Dentro de uma imagem e clicando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), aparecem as seguintes opções:
 
 - Girar para a esquerda ou para a direita (em 90°)
 - Ampliar ou afastar
@@ -58,7 +58,7 @@ Dentro de uma imagem e clicando  , aparecem as seguintes opções:
 
 Aqui todas são exibidas as pastas e arquivos armazenados na memória interna ou no cartão de memória externa micro SD, independentemente do formato.
 
-Pressionando , você pode fazer uma pesquisa para um arquivo específico, digitando o seu nome, apagar qualquer arquivo ou pasta, ou seleccionar se você quiser navegar na memória interna ou externa (micro SD).
+Pressionando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), você pode fazer uma pesquisa para um arquivo específico, digitando o seu nome, apagar qualquer arquivo ou pasta, ou seleccionar se você quiser navegar na memória interna ou externa (micro SD).
 emoria interna o por la externa (micro SD).
 
 
@@ -76,5 +76,7 @@ Este menu dispõe de 6 secções, que são:
 **Procurar**
 
 Aceda rapidamente à qualquer arquivo. Digite o nome do arquivo que você deseja encontrar e clique OK. O dispositivo exibe os resultados que correspondam a todos os arquivos da memória.
+
+
 
 
