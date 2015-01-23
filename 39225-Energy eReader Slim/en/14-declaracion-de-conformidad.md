@@ -1,4 +1,4 @@
-## Declaración de conformidad
+## Declaration of conformity
 
 **Manufacturer name:** Energy Sistem Soyntec S.A.				
 
@@ -16,6 +16,6 @@ We declare under our own exclusive responsibility that the product:
 
 **Energy Sistem#trade# - Energy eReader Slim**
 
-**País de fabricación:** China
+**Manufacturing Country:** China
 
 Is in compliance with the essential norms and standards of the Directive 2004/08/CE of the European Parliament and of the Council of December 15th 2004.
