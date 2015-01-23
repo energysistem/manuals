@@ -13,7 +13,7 @@
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# - Energy eReader Slim**
+**Energy Sistem#trade#** **- Energy eReader Slim**
 
 **Pays de fabrication:** Chine
 
