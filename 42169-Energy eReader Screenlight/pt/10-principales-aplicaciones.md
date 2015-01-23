@@ -58,7 +58,7 @@ Dentro de uma imagem e clicando ![](http://static.energysistem.com/images/manual
 
 Aqui todas são exibidas as pastas e arquivos armazenados na memória interna ou no cartão de memória externa micro SD, independentemente do formato.
 
-Pressionando ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg), você pode fazer uma pesquisa para um arquivo específico, digitando o seu nome, apagar qualquer arquivo ou pasta, ou seleccionar se você quiser navegar na memória interna ou externa (micro SD).
+Pressionando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), você pode fazer uma pesquisa para um arquivo específico, digitando o seu nome, apagar qualquer arquivo ou pasta, ou seleccionar se você quiser navegar na memória interna ou externa (micro SD).
 emoria interna o por la externa (micro SD).
 
 
