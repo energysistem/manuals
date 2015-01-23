@@ -1,19 +1,23 @@
-## Actualización
+## Update
 
-Puedes actualizar tu Energy eReader a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. 
+You can update your Energy eReader using your computer. The procedure is simple but must be done carefully and only if necessary.
 
-Sigue los siguientes pasos para realizar la instalación:
+Follow these steps to proceed with the update:
 
-* Asegúrate de que la batería de tu Energy eReader se encuentra totalmente cargada. En caso contrario conecta tu Energy eReader a la alimentación externa utilizando un cargador USB (5V / 1Ah max.) o el puerto USB de tu ordenador y espera a que la batería se cargue del todo.
+-	Make sure your Energy eReader's battery is fully charged. Otherwise, connect your Energy eReader to an external power supply using a USB charger (5V / 1Ah max.) or to your computer via USB and wait until the battery is fully charged.
 
-* Accede a la página web www.energysistem.com desde el navegador web de tu ordenador.
-Entra en la sección "Soporte" y elige el tipo de producto "eReader".
-Elige tu modelo de Energy eReader de la lista desplegable que aparecerá y a continuación descarga la última versión del Firmware.
+-	Visit www.energysistem.com using your computer.
 
-*Importante:
-Asegúrate de que la versión de sistema operativo que estás descargando es específico para tu modelo y número de serie, ya que de lo contrario se podría dañar el dispositivo.
+- Go to the "support" section and select "eReader".
 
-* Descomprime el archivo en tu ordenador.
+- Choose your Energy eReader model from the drop-down list and download the latest firmware version.
 
-* Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy eReader.
+*Important: 
+
+- Make sure the version you are downloading is specific to your eReader model and serial number. Otherwise it could damage the device.
+
+-	Unzip the file on your computer.
+
+-	Open the included text file and follow the instructions to install the new operating system on your Energy eReader.
+
 
