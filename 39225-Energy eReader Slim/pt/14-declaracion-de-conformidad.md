@@ -16,6 +16,6 @@ Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
 **Energy Sistem#trade# - Energy eReader Slim**
 
-País de fabricação: China
+**País de fabricação:** China
 
 Ao que se refere esta declaração, com as normas ou outros documentos normativos, em conformidade com as disposições da Directiva 2004/08/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 2004.
