@@ -1,6 +1,5 @@
 ## Instruções de segurança 
 
-Instruções de segurança 
 Para garantir a sua segurança e a segurança de outras pessoas, por favor, não deixe de ler as informações de segurança antes de usar este produto. Salve essas informações em um local seguro para referência futura. 
 
 
