@@ -56,7 +56,7 @@ Situándote dentro de una imagen y pulsando ![](http://static.energysistem.com/i
 
 Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta micro SD de memoria externa, independientemente de su formato.
 
-Pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg), podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
+Pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
 
 **Ajustes**
 
