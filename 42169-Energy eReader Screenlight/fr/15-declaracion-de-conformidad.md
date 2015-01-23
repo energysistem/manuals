@@ -13,7 +13,7 @@
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem - Energy eReader Screenlight**
+**Energy Sistem#trade# - Energy eReader Screenlight**
 
 **Pays de fabrication:** Chine
 
