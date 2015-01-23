@@ -16,6 +16,6 @@ Vérifiez que le format e-book soit compatible avec votre eReader.
 
 Essayez d'appuyer sur le bouton Reset à l'aide d'un objet pointu, comme une agrafe.
 
-**L'eReader reproduit mal les caractères des livres, trop d'espace entre les lignes ou des sauts de page où il ne devrait pas. **
+**L'eReader reproduit mal les caractères des livres, trop d'espace entre les lignes ou des sauts de page où il ne devrait pas.**
 
 Ceci est du à la forme sous laquelle le fichier a été numérisé. De nombreux e-books sont numérisés et mis en forme automatiquement sans être révisés. Utilisez seulement les contenus de fournisseurs fiables et un contenu de qualité pour avoir la meilleure expérience d'utilisateur. 
