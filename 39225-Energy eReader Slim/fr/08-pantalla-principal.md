@@ -1,6 +1,6 @@
 ## Écran principal
 
-![](http://static.energysistem.com/images/manuals/42169/54bfc6fd060d9.jpg)
+![](http://static.energysistem.com/images/manuals/39225/54bfec892decc.jpg)
 
 1. Carrousel des livres récemment lus, indiquant la progression avec une barre de points
 2. Carrousel des derniers livres ajoutés 
