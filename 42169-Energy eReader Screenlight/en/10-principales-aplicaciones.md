@@ -48,10 +48,10 @@ Once you access the image menu, you can choose to view the files as a list or as
 Press ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) after opening an image and a pull-down menu with the following options will appear:
 
 
-*	Turn left / right 90º
-*	Zoom in / zoom out 
-*	Create a slide show using all stored images. 
-*	Image information: Displays image information (name, size, file type).
+-	Turn left / right 90º
+-	Zoom in / zoom out 
+-	Create a slide show using all stored images. 
+-	Image information: Displays image information (name, size, file type).
 
 
 **Files**
