@@ -58,7 +58,7 @@ En sélectionnant une image et en cliquant ![](http://static.energysistem.com/im
 
 Ici vous pouvez voir tous les dossiers et fichiers enregistrées dans la mémoire interne ou dans la carte micro SD de mémoire externe, indépendamment du format.
 
-En appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg), vous pouvez faire la recherche d’un fichier spécifique en entrant leur nom, vous pouvez supprimer n’importe quel fichier ou dossier, ou sélectionner si vous voulez naviguer sur la mémoire interne ou externe (micro SD).
+En appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), vous pouvez faire la recherche d’un fichier spécifique en entrant leur nom, vous pouvez supprimer n’importe quel fichier ou dossier, ou sélectionner si vous voulez naviguer sur la mémoire interne ou externe (micro SD).
 
 **Paramètres**
 
