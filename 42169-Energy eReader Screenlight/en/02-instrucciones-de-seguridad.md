@@ -4,7 +4,7 @@ In order to ensure your safety and the safety of others, please make sure to rea
 **Precautions**
 
 We recommend reading the following points:
--	Create a back up periodically on other storage devices. Energy Sistem™ shall not be liable for any damage or loss of data.
+-	Create a back up periodically on other storage devices. Energy Sistem#trade# shall not be liable for any damage or loss of data.
 -	Do not place the eReader near devices with strong magnetic fields. It may cause damage or loss of data.
 -	Do not disassemble nor remodel the device.
 -	Do not subject the device to shock nor let it fall to the ground.
