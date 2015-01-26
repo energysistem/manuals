@@ -2,7 +2,8 @@
 
 - Procesador de doble núcleo ARM Cortex A9 1.6GHz con GPU Mali-400 Quad Core integrada.
 - 1GB RAM DDR3 / 8GB de memoria flash interna.
-- ANDROID 4.2 Jelly Bean.
+- Sistema Android 4.2 Jelly Bean.
+- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, con modo Mouse y accesos directos a apps y opciones más usadas.
 - Aplicaciones de media streaming y clonado de pantalla. 
 - Wi-Fi 802.11b/g/n integrado para máxima velocidad en tu conexión a Internet.
 - Reproduce los formatos de archivos más populares de vídeos en alta definición.
@@ -12,7 +13,7 @@
 - Avanzado navegador, soporta HTML 5 y Flash 11.1.
 - Consumo reducido de energía máximo a 2.5W y en modo standby máximo a 0.5W, contribuyendo a la sostenibilidad del medio ambiente.
 - Silencioso y compacto, tamaño pendrive para llevar contigo alla donde estés.
-- Menú OSD en múltiples idiomas, intuitivo y sencillo. 
+- Menú OSD en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
 - Instalación fácil e intuitiva, Plug and Play.
 - Conexiones: 1 x High Speed HDMI, 1 x micro USB DC / receptor IR, 1 x micro USB OTG / HOST.
 - Formatos compartibles: VIDEO: DivX, Xvid, AVI, MKV, MP4, MPG, ISO, IFO, MOV, M2TS, TS, WMV, VOB, DAT, RM, RMVB. / AUDIO: MP3, WMA, WAV, AAC, DD+, MPEG. / IMAGE: JPG, JPEG, BMP, PNG, GIF.
