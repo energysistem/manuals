@@ -1,13 +1,14 @@
-## PRINCIPALES CARACTERÍSTICAS 
+## Principales Características
 
 - Procesador de doble núcleo ARM Cortex A9 1.6GHz con GPU Mali-400 Quad Core integrada.
-- 1GB RAM DDR3 / 8GB de memoria interna.
+- 1GB RAM DDR3 / 8GB de memoria flash interna.
 - ANDROID 4.2 Jelly Bean.
 - Aplicaciones de media streaming y clonado de pantalla. 
 - Wi-Fi 802.11b/g/n integrado para máxima velocidad en tu conexión a Internet.
 - Reproduce los formatos de archivos más populares de vídeos en alta definición.
-- Disfruta tu TV como un ordenador con acceso a tus archivos guardado en "la nube".
+- Disfruta tu TV como un ordenador con acceso a tus archivos guardados en "la nube".
 - Memoria ampliable con dispositivos USB externos.
+- Soporta teclado y ratón externos usb.
 - Avanzado navegador, soporta HTML 5 y Flash 11.1.
 - Consumo reducido de energía máximo a 2.5W y en modo standby máximo a 0.5W, contribuyendo a la sostenibilidad del medio ambiente.
 - Silencioso y compacto, tamaño pendrive para llevar contigo alla donde estés.
