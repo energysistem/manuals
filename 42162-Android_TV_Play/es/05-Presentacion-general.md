@@ -9,6 +9,7 @@ Poner foto del dongle y salidas entradas.
 
 
 Remoto:
+
 1. Encendido / Apagado.
 2. Silenciar Sonido.
 3. Grupo de teclas de transporte de la barra de tiempo en reproducción.
