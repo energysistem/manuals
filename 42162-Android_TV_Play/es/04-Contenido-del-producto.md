@@ -1,4 +1,4 @@
-## CONTENIDO DEL PRODUCTO 
+## Contenido del producto
 
 - 1 x Android TV Play.
 - 1 x Mando a distancia ergonómico con teclado QWERTY.
