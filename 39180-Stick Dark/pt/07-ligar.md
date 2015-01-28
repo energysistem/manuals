@@ -13,6 +13,6 @@ preferências de usuário.
 
 Nota: Se você apaga direitamente mediante o controle de reset, não serão guardadas as preferências de configuração que tem modificado
 como, por exemplo, o equalizador, nem recordará a última leitura.
-Adicionalmente, pode acedera o menu SETTINGS -> Apagado e configurar o tempo de auto-apagado do leitor. Com a opção “Em Standby”
-limitará o tempo que o leitor permanece ligado sem que leia nenhum ficheiro nem ninguém interaja com este. Com a opção “Em Leitura”
+Adicionalmente, pode acedera o menu SETTINGS -> Apagado e configurar o tempo de auto-apagado do leitor. Com a opção "Em Standby"
+limitará o tempo que o leitor permanece ligado sem que leia nenhum ficheiro nem ninguém interaja com este. Com a opção "Em Leitura"
 pode definir o tempo durante o que se apagará o seu MP3, independentemente de se está em uso ou não.
