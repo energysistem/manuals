@@ -1,6 +1,6 @@
 ## ALIMENTAÇÃO
 
-Seu MP3 Energy ™ tem uma bateria de iões de lítio recarregável integrada. Inicialmente, a bateria vem carregada da fábrica, é
+Seu MP3 Energy tem uma bateria de iões de lítio recarregável integrada. Inicialmente, a bateria vem carregada da fábrica, é
 recomendável realizar uma carga completa antes da primeira utilização.
 
 Recarregar a bateria ligando o leitor a um computador através do cabo USB 2.0 fornecido com o produto.
