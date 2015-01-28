@@ -12,6 +12,6 @@ As long as your device is turned on, the LED indicator will keep flashing blue.
 </quick_guide>
 ### Charging the battery
 
-When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Wireless BT Sport* and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charge is completed the LED will turn off.
+When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Wireless BT Sport* and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charge is completed the LED change to blue.
 
 IMPORTANT NOTE: To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
