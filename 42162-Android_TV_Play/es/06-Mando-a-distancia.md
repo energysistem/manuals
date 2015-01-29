@@ -33,6 +33,7 @@
 29. Shift. Permite conmutar entre mayúsculas y minúsculas.
 30. Modo "Mouse". Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
 31. Fn. Permite acceder a los caracteres especiales.
+32. Compartimento para baterías (Tipo AAA).
 
 INSTALACION DE LA PILA.
 
