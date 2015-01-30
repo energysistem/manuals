@@ -14,6 +14,6 @@ Mientras el dispositivo esté encendido el LED (6) indicador se mantendrá parpa
 
 ### Carga de la batería
 
-Cuando la autonomía del auricular esté en torno a los 20 minutos, el auricular te avisará mediante un mensaje de voz diciendo "Battery Low", posteriormente, repetirá el aviso en torno a 10 minutos antes de agotarse la batería y apagarse. Para recargarlo, conecta el extremo mini USB del cable USB (incluido) al *Energy Wireless BT Sport* (5), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (6) se iluminará en rojo y cuando la carga se complete el LED cambiará a color azul.
+Cuando la batería del auricular esté a punto de agotarse, el auricular te avisará mediante un mensaje de voz diciendo "Battery Low". Para recargarlo, conecta el extremo mini USB del cable USB (incluido) al *Energy Wireless BT Sport* (5), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (6) se iluminará en rojo y cuando la carga se complete el LED cambiará a color azul.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda no cargarla batería hasta que no se haya agotado completamente. Del mismo modo, no interrumpir el proceso de carga hasta que la batería este completamente cargada.
