@@ -1,4 +1,4 @@
-## Mando a distancia
+## <quick_guide> Mando a distancia
 
 ![] (http://static.energysistem.com/images/manuals/42162/54ca656071732.jpg)
 
@@ -34,6 +34,8 @@
 30. Modo "Mouse". Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
 31. Fn. Permite acceder a los caracteres especiales.
 32. Compartimento para pilas (Tipo AAA).
+ 
+</quick_guide>
 
 INSTALACION DE LA PILA.
 
