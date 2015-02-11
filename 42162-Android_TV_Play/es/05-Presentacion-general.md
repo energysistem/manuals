@@ -1,5 +1,5 @@
 <
-## <quick_guide> Presentación general
+##<quick_guide> Presentación general
 
 ![](((Poner foto del dongle y salidas entradas.)))
 
