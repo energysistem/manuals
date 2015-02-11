@@ -8,5 +8,4 @@ Si estás utilizando el dispositivo por primera vez o ha sido restaurado a los v
 * Configuración de la cuenta de Gmail.
 * Pantalla de finalización de la configuración. Tras esta pantalla, tu Android TV Play está listo para ser usado.
 
-Pulsa de nuevo la tecla STANDBY de tu mando en cualquier momento para suspender tu Android TV Play.
 </quick guide>
