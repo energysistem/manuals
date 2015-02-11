@@ -7,3 +7,4 @@
 * Adaptador AC/DC con Micro USB tipo A hembra.
 * Pilas AAA.
 * Guía Rápida.
+</quick_guide>
