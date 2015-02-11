@@ -1,4 +1,4 @@
-## CONEXIONES
+## Conexiones y alimentación
 
 (Poner el esquema de conexiones)
 
