@@ -1,3 +1,3 @@
-##quick guide##
+<quick_guide>
 ![] (Foto de portada)
-##/quick guide##
+</quick_guide>
