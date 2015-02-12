@@ -20,11 +20,7 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca10f166f9.jpg)
 
 
-14. Ranura de tarjeta micro SD HC/XC
-15. Ranura de tarjeta SIM1
-16. Ranura de tarjeta SIM2
-17. Número de serie y números de IMEI
-18. Batería
+<br> 14. Ranura de tarjeta micro SD HC/XC<br> 15. Ranura de tarjeta SIM1<br> 16. Ranura de tarjeta SIM2<br> 17. Número de serie y números de IMEI<br> 18. Batería
 
 
 </quick_guide>

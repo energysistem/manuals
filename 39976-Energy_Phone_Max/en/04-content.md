@@ -1,8 +1,9 @@
 ## <quick_guide> Product content
-* Energy Phone Colors
-* 2 extra back cases
-* Quick guide
-* USB cable
-* AC/DC (Europlug) 100-240V AC 50-60Hz power adapter
-* Screen protector
+* Energy Phone Max.
+* 3 color back casings.
+* Quick Guide.
+* Screen protector.
+* USB cable.
+* AC/DC power adapter (Europlug) 100-240VAC 50-60Hz.
+* 2 microSIM adapters.
 </quick_guide>

@@ -21,11 +21,11 @@ Many digital cameras and image editing software add hidden data to .jpg files. T
 7.	Sometimes the screen turns black and the device does not respond.
 It is always better to reboot the device through one of the options available within the system, but if that is not possible, remove the battery, put it back again and press the power button.
 
-8.	The built-in memory of the Energy Phone Colors has 4GB, but the available memory is lower. Why?
-The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than 4GB.
+8.	The built-in memory of the Energy Phone Colors has 8GB, but the available memory is lower. Why?
+The Android#trade# operating system and the preinstalled applications need approximately 2GB to work. Therefore, the available memory for additional data is less than 8GB.
 
 9.	What must I do to install an application?
 First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the app installation from "Unknown sources"(this option is disabled for safety). To authorize the installation of apps, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
 
 10.	How long does the battery last?
-It depends largely on the use, the screen brightness, the use of headphones or speakers, the Wi-Fi connection and the use of GSM and 3G networks. The Energy Phone Colors battery lasts up to 50 hours on standby and 10 hours talking.
+It depends largely on the use, the screen brightness, the use of headphones or speakers, the Wi-Fi connection and the use of GSM and 3G networks. The Energy Phone Max battery lasts up to 400 hours on standby and 19 hours talking.

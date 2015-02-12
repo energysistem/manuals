@@ -1,16 +1,18 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/543fb0c746c4f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2814a78b.jpg)
 
 1. Panoramic mode
-2. Normal mode
-3. HDR
-4. Flash mode
-5. Switch camera
-6. Access to the gallery
-7. Shooting button
-8. Video Mode
-9. Settings
+2. Beauty mode
+3. Live photo mode
+4. Normal mode
+5. HDR
+6. Flash
+7. Switch camera
+8. Access to the gallery
+9. Shooting button
+10. Video Mode
+11. Settings
 
 
 

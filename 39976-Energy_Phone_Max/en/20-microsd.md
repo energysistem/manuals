@@ -4,4 +4,4 @@ Your Energy Phone has a slot for MicroSD cards to expand your device's memory. T
 
 Your Energy Phone has also a USB port so you can transfer files from/to your PC. You only need to connect the cable included with the product to establish the connection and manage your files.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54242f056c428.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2e79386a.jpg)

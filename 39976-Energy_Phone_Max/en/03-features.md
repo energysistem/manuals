@@ -1,29 +1,28 @@
 ## Key features
 
-- Unlocked smartphone with ANDROID#trade# 4.4 Kit Kat O.S.
-- 3 interchangeable color back casings.
-- Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
-- Dual Core processor ARM Cortex A7, 1GHz and GPU Mali-400.
-- 3G connection to surf the web 24 hours a day.
-- Wi-Fi (802.11 b/g/n): ultrahigh-speed connection to the Internet via access point.
-- GPS satellite-based function for a precise and reliable navigation.
-- Bluetooth 4.0 wireless connection for headphones, speakers and other Bluetooth devices.
-- Dual SIM slot.
-- 512MB RAM.
-- 4GB built-in memory to store up to 16 hours of video or 2.000 songs.
-- Expandable memory via microSD-HC/XC cards (up to 64GB).
-- Integrated front camera (VGA 640x480).
-- Integrated rear camera with Auto-Focus, BSI and LED flash (5.0 Mpx).
-- USB function for an easy access to the smartphone memory from your computer (cable included).
-- Integrated speaker.
-- Integrated omni-directional microphone.
+- Unlocked Smartphone with optimized ANDROID#trade# 4.4. O.S.
+- 5" IPS OGS capacitive touch display (HD 1280x720p).
+- Quad-core ARM Cortex A7 processor up to 1.3GHz and Mali-400 GPU.
+- 3G connection to surf the Internet wherever and whenever you want to.
+- 3 interchangable color back casings.
+- WI-FI connection (802.11 b/g/n): the fastest Internet connection through a Wi-Fi access point.
+- GPS function: the most precise and reliable satellite navigation.
+- Bluetooth 4.0 wireless connections for headphones, speakers and other Bluetooth devices.
+- Dual SIM-card Slot.
+- 1GB RAM.
+- 8GB built-in memory expandable up to 64GB via microSD-HC/XC cards.
+- Integrated 5.0 Mpx BSI+ FOV 88º front camera with LED flash.
+- Integrated 8.0 Mpx Auto-Focus rear camera with LED flash.
+- USB function to easily access the smartphone's memory from the computer (cable included).
+- Integrated speakers.
+- Integrated omni directional microphone.
 - Audio connector compatible with CTIA standard.
 - Motion sensor (accelerometer).
-- Display with auto brightness ajustment.
+- Display with auto brightness.
 - Proximity sensor.
-- Installed apps: web browser, email manager, music- video- and photo player, FM radio, alarm and calculator.
-- Allows you to install thousands of app and games available for the Android#trade# operating system.
-- Operating frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
-- Battery life: up to 150 hours in stand-by and 10 hours of talk time.
-- Battery capacity: 1.450mAh.
-- SAR rating: 0.205 (W/Kg) in the head and 0.382 (W/Kg) in the body (distance:10mm).
+- Installed applications: web browser, email manager, applications to play music / videos / photos, FM radio, alarm and calculator.
+- Allows you to install thousands of applications and games available for the ANDROID#trade# operating system.
+- Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
+- Battery life: up to 400 hours on standby and 19 hours talk time.
+- Battery capacity: 2,000 mAh.
+- SAR rating: 0.578 (W/Kg) at the head and 0.434 (W/Kg) at the body (10mm distance).

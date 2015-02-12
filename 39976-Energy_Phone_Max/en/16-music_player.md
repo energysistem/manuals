@@ -1,6 +1,6 @@
 ### Music player
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/542992b7ef390.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2436ece9.jpg)
 
 1. Playlist.
 2. Display.

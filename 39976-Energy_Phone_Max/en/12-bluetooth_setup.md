@@ -3,7 +3,7 @@
 Your Energy Phone has Bluetooth 4.0. to connect your device to any bluetooth device like headphones, PC, speakers, etc.  You only have to go to Settings > Bluetooth and turn the switch to the ON position. Once the search is finished, select the device to start
 the connection.
 
-![Imagen1]( http://static.energysistem.com/images/manuals/42178/54242e21e22fd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca1a47ee98.jpg)
 
 1. Settings > Bluetooth.
 2. Enable the Bluetooth option.
