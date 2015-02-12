@@ -4,7 +4,7 @@
 
 1. Zoom
 2. Shooting mode
-3. Beaty mode
+3. Beauty mode
 4. HDR
 5. Effects
 6. Settings
