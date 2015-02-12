@@ -1,0 +1,23 @@
+# Summary
+
+* [Introduction](README.md)
+* [Portada](00-portada.md)
+* [Introducción](01-intro.md)
+* [Cuidado y Mantenimiento](02-mantenimiento.md)
+* [Características](03-caracteristicas.md)
+* [Contenido del Producto](04-contenido.md)
+* [Parte superior](05-psuperior.md)
+* [Parte posterior](06-pposterior.md)
+* [Presentación General](07-presentacion.md)
+* [Funciones Principales](08-funciones_principales.md)
+* [Sincronización Bluetooth](09-bluetooth.md)
+* [Reproducción desde tarjetas y USB](10-tarjetas_USB.md)
+* [Radio FM](11-radio.md)
+* [Line In](12-line.md)
+* [Ecualización del sonido](13-manualeq.md)
+* [Carga de Dispositivos](14-carga.md)
+* [Mando a distancia](15-mando.md)
+* [Condiciones de garantía](16-garantia.md)
+* [Funcionamiento de la garantía](17-fgarantia.md)
+* [Declaración de conformidad](18-declaracion.md)
+
