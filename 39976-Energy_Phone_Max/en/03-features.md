@@ -1,0 +1,29 @@
+## Key features
+
+- Unlocked smartphone with ANDROID#trade# 4.4 Kit Kat O.S.
+- 3 interchangeable color back casings.
+- Capacitive 4.0" TFT-LCD touch screen (WVGA - 800x480p).
+- Dual Core processor ARM Cortex A7, 1GHz and GPU Mali-400.
+- 3G connection to surf the web 24 hours a day.
+- Wi-Fi (802.11 b/g/n): ultrahigh-speed connection to the Internet via access point.
+- GPS satellite-based function for a precise and reliable navigation.
+- Bluetooth 4.0 wireless connection for headphones, speakers and other Bluetooth devices.
+- Dual SIM slot.
+- 512MB RAM.
+- 4GB built-in memory to store up to 16 hours of video or 2.000 songs.
+- Expandable memory via microSD-HC/XC cards (up to 64GB).
+- Integrated front camera (VGA 640x480).
+- Integrated rear camera with Auto-Focus, BSI and LED flash (5.0 Mpx).
+- USB function for an easy access to the smartphone memory from your computer (cable included).
+- Integrated speaker.
+- Integrated omni-directional microphone.
+- Audio connector compatible with CTIA standard.
+- Motion sensor (accelerometer).
+- Display with auto brightness ajustment.
+- Proximity sensor.
+- Installed apps: web browser, email manager, music- video- and photo player, FM radio, alarm and calculator.
+- Allows you to install thousands of app and games available for the Android#trade# operating system.
+- Operating frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz
+- Battery life: up to 150 hours in stand-by and 10 hours of talk time.
+- Battery capacity: 1.450mAh.
+- SAR rating: 0.205 (W/Kg) in the head and 0.382 (W/Kg) in the body (distance:10mm).
