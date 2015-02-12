@@ -11,3 +11,4 @@ Esta garantía es independiente y compatible con la Garantía Legal establecida 
 La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
 
 </quick_guide>
+

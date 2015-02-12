@@ -28,4 +28,4 @@ The Android#trade# operating system and the preinstalled applications need appro
 First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the app installation from "Unknown sources"(this option is disabled for safety). To authorize the installation of apps, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
 
 10.	How long does the battery last?
-It depends largely on the use, the screen brightness, the use of headphones or speakers, the Wi-Fi connection and the use of GSM and 3G networks. The Energy Phone Colors battery lasts up to 50 hours on standby and 10 hours talking.
+It depends largely on the use, the screen brightness, the use of headphones or speakers, the Wi-Fi connection and the use of GSM and 3G networks. The Energy Phone Colors battery lasts up to 150 hours on standby and 10 hours talking.

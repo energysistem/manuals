@@ -4,4 +4,4 @@ Tu Energy Phone dispone de una entrada para tarjetas de memoria MicroSD para amp
 
 Tu Energy Phone también dispone de una salida USB para que puedas transferir archivos entre tu ordenador. Basta con conectar el cable incluido con el producto para establecer la conexión y gestionar la transferencia de tus archivos.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54242f056c428.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2e79386a.jpg)

@@ -21,11 +21,11 @@ Muchas cámaras fotográficas digitales y programas de edición de imágenes añ
 7.	A veces la pantalla se queda en negro y el dispositivo no responde.
 Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo sacando y poniendo de vuelta la batería y pulsando en el botón de encendido.
 
-8.	La capacidad de memoria del Energy Phone Colors es de 4GB, pero la memoria disponible es inferior ¿Por qué?
-El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 1,5 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a 4GB.
+8.	La capacidad de memoria del Energy Phone Max es de 8GB, pero la memoria disponible es inferior ¿Por qué?
+El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 2 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a 8GB.
 
 9.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar).
 
 10.	¿Cuál es la autonomía del dispositivo?
-Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM y 3G. Aproximadamente la autonomía del Energy Phone Colors es de hasta hasta 500 horas en standby y 10 horas de conversación.
+Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM y 3G. Aproximadamente la autonomía del Energy Phone Max es de hasta 400 horas en standby y 19 horas de conversación.
