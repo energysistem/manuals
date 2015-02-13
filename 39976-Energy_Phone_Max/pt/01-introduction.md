@@ -6,4 +6,4 @@ O sistema dispõe de um processaor Quad Core ARM Cortex A7 1.3GHz + GPU Mali-400
 
 * Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
 
-## <unique> * Encontre o manual completo dos Energy Phone Max no seguinte link http://www.energysistem.com/pt/guide/39976. </unique> </quick_guide>
+## <unique> * Encontre o manual completo dos Energy Phone Max no seguinte link http://www.energysistem.com/pt/guide/39976 </unique> </quick_guide>
