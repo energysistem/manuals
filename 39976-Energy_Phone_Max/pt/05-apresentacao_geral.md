@@ -18,6 +18,6 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca10f166f9.jpg)
 
-<br>14. Slot para cartão microSD HC/XC.<br>15. Slot para cartão SIM 1.<br>16. Slot para cartão SIM 2.<br>17. Bateria.<br>16. Número de série e números IMEI.<br> 18. Bateria
+<br>14. Slot para cartão microSD HC/XC.<br>15. Slot para cartão SIM 1.<br>16. Slot para cartão SIM 2.<br>17. Número de série e números IMEI.<br> 18. Bateria
 
 </quick_guide>
