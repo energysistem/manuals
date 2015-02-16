@@ -6,7 +6,7 @@ Em caso de não conformidade do Bem com o contrato e mediante a entrega do recib
 
 Esta garantia cobre defeitos de fabricação ou materiais. Esta garantia não cobre qualquer defeito do produto devido a acidentes, mau uso ou alteração feita por uma pessoa não autorizada.
 
-Esta garantia é independente e compatível com  garantia legal estabelecida no Real Decreto 1/2007
+Esta garantia é independente e compatível com  garantia legal estabelecida no Real Decreto 1/2007.
 
 A garantia especial de 36 meses é válida para a União Européia. Para outros países, consulte a sua legislação específica ou o seu distribuidor local.
 
