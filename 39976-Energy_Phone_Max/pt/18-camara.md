@@ -1,11 +1,13 @@
-## Câmara
+## Câmera
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/543fb0c746c4f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2814a78b.jpg)
 
 1. Modo panorâmico
+2. Modo beleza de rosto
+3. Modo fotografia em direto
 2. Modo normal
 3. HDR
-4. Modo de flash
+4. Flash
 5. Mudar câmara
 6. Acesso à galeria
 7. Botão disparo

@@ -1,4 +1,4 @@
-## Galeria: Imagens e Vídeos
+## Galeria
 
 Você pode ver suas fotos e vídeos armazenados na memória interna do aparelho ou no cartão de memória microSD.
 

@@ -1,14 +1,16 @@
 ## Appareil photo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/543fb0c746c4f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca2814a78b.jpg)
 
 1. Mode panoramique
-2. Mode normal
-3. HDR
-4. Mode flash
-5. Changer appareil photo
-6. Accès à la galerie
-7. Bouton déclencheur
-8. Mode vidéo
-9. Paramètres
+2. Mode beauté pour visage
+3. Mode photo en direct
+4. Mode normal
+5. HDR
+6. Flash
+7. Changer appareil photo
+8. Accès à la galerie
+9. Bouton déclencheur
+10. Mode vidéo
+11. Paramètres
 

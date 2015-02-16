@@ -20,12 +20,12 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 
 7.	Muitas vezes a tela fica em cor preto e o dispositivo não responde. Aperta ao botão Reset para reiniciar o dispositivo. É melhor reiniciar o dispositivos através das opções disponíveis no sistema, reinicie o dispositivo e ligue-o de novo.
 
-8.	A capacidade de memória do Energy Phone Colors é 4GB, mas a memória disponível é inferior. Por quê?
-O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 1,5 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 4GB.
+8.	A capacidade de memória do Energy Phone Max é 8GB, mas a memória disponível é inferior. Por quê?
+O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 2 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 8GB.
 
 9.	Que devo fazer para que me deixe instalar uma aplicação?
 Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
 Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
 
 10.	Qual é a autonomia do dispositivo?
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone é de até 500 horas de navegação em standby e 10 horas e 50 minutos de conversação.
+Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada e o uso das redes GSM e 3G. Aproximadamente a autonomia do Energy Phone é de até 400 horas de navegação em standby e 19 horas de conversação.

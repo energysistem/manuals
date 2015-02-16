@@ -4,7 +4,7 @@
 
 *	Pulsation
 
-Appuyez brièvement l'écran
+Appuyez brièvement sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569b2b5b35.jpg)
 
@@ -34,6 +34,6 @@ Toucher la surface pendant une période prolongée de temps
 
 *	Zoom
 
-Zoom dans et hors de l'image de l'écran
+Zoom dans et hors l'image de l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
