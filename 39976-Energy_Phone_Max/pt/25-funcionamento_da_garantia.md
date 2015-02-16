@@ -14,7 +14,9 @@ Importante: Esta garantia não cobre qualquer dano ou perda de quaisquer dados a
 ## Marcas registradas
 
 Durante un periodo de 36 meses a partir de la fecha de la primera compra del Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
+
 ©2015 por Energy Sistem®. Todos os direitos reservados.
+
 NOTA: O presente dispositivo pode conter conexões a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Soyntec S.A. Estas conexões são facilitadas para a sua informação ou comodidade; Energy Sistem Soyntec S.A. não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude.
 Ditas páginas externas podem conter ou fazer referência a marcas, patentes, informação registrada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são de propriedade dos seus respectivos donos.
 
