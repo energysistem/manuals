@@ -1,6 +1,6 @@
 ## ÉCRAN PRINCIPAL
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/542bb0e22e4e0.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/54dca13c7612b.jpg)
 
 1. **Barre d'état:** Montre l'information sur l'état du réseau, la batterie et l'heure. Si vous glissez le doigt, une nouvelle version apparaîtra dans le menu de configuration basique qui gère les notifications et le menu de configuration.
 2. **Navigateur:** Accès directe au moteur de recherche WEB de Google#trade#.
