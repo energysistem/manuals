@@ -10,7 +10,7 @@ Si estás utilizando el dispositivo por primera vez o ha sido restaurado a los v
 
 * Configuración de la localización de Google.
 
-* Pantalla de finalización de la configuración. Tras esta pantalla, tu Android TV Dongle Dual está listo para ser usado.
+* Pantalla de finalización de la configuración. Tras esta pantalla, tu Android TV Play está listo para ser usado.
 
 
 
