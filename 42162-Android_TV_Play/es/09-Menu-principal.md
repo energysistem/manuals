@@ -14,15 +14,15 @@ Pulsando en el icono izquierdo de configuración, o deslizando el cursor hacia e
 2. **Barra de estado:**
 Muestra información sobre la fecha y la hora y el estado del sistema, como la cobertura de red Wifi, notificaciones y otros estados.
 
-3. **Desplagable Aplicaciones**
-
+3. **Desplagable Aplicaciones:**
 Pulsando en el icono derecho de aplicaciones, o deslizando el cursor hacia el borde derecho de la pantalla se accede a las pestañas de lista de aplicaciones instaladas y bookmarks.
  
   - *Lista de aplicaciones instaladas:* Es la lista completa de las aplicaciones que se encuentran instaladas en tu Energy Android TV Play. Cada aplicación que instales aparecerá en esta lista. Situando el cursor sobre la aplicación, pulsa ok para cargar, o tecla derecha para abrir el modo "acceso directo". En el modo "acceso directo", pulsa ok para hacer seleccionar las aplicaciones que aparecerán en la pantalla principal como accesos directos.
 
   - *Bookmarks:* Situando el cursor sobre la pestaña Bookmarks, podrás crear accesos directos en la pantalla principal a direcciones de internet, sin tener que abrir el navegador o introducir las direcciones manualmente. Introduce un nombre para el acceso directo y la dirección de internet. Cuando hayas terminado confirma los cambios pulsando en "guardar cambios" y encontrarás el nuevo acceso directo en la pantalla principal.
 
-4. **Rejilla de accesos directos:** Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas seleccionado en la pestaña de lista de aplicaciones instaladas, dentro del desplegable "Aplicaciones".
+4. **Rejilla de accesos directos:**
+Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas seleccionado en la pestaña de lista de aplicaciones instaladas, dentro del desplegable "Aplicaciones".
 
       **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable "Configuración".
 
