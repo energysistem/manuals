@@ -6,7 +6,7 @@
 
 2. **Barra de estado:** Muestra información sobre la fecha y la hora y el estado de la cobertura de red Wifi, notificaciones y otros estados. Deslizando el cursor hacia la zona izquierda despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración. Deslizando el cursor hacia el borde derecho se despliega la lista de aplicaciones instaladas.
 
-**Configuración de fondo de pantalla:** Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
+  **Configuración de fondo de pantalla:** Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
 
 ###**Organización de accesos directos:** 
 
