@@ -1,8 +1,3 @@
-CAMBIAR FOTO
-
 <quick_guide>
-![](http://static.energysistem.com/images/manuals/39789/5411d64661bbf.jpg
-)
+Energy Tablet 10.1" Neo 2 3G
 </quick_guide>
-
-
