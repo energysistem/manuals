@@ -3,6 +3,7 @@
 ![Launcher](http://static.energysistem.com/images/manuals/42162/54e369a38d4cd.jpg)
 
 1. **Desplegable Configuración** Pulsando en el icono izquierdo de configuración, o deslizando el cursor hacia el borde izquierdo de la pantalla, se accede directamente a la configuración de fondo de pantalla, organización de los accesos directos en la pantalla principal y configuración del sistema.
+
 2. **Barra de estado:** Muestra información sobre la fecha y la hora y el estado de la cobertura de red Wifi, notificaciones y otros estados. Deslizando el cursor hacia la zona izquierda despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración. Deslizando el cursor hacia el borde derecho se despliega la lista de aplicaciones instaladas.
 
 **Configuración de fondo de pantalla:** Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
