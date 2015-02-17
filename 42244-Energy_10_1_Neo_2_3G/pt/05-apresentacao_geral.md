@@ -1,10 +1,5 @@
 ## <quick_guide> Apresentação geral
 
-CAMBIAR FOTO
-
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/5411d638e3b14.jpg)
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/5411d64e70ec4.jpg)
-
 1. Câmara traseira
 2. Câmara frontal
 3. Alto-falante
