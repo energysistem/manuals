@@ -1,6 +1,3 @@
-CAMBIAR FOTO DE PORTADA
-
 <quick_guide>
-![FOTO PORTADA](http://static.energysistem.com/images/manuals/39789/5411d64661bbf.jpg)
+Energy Tablet 10.1" Neo 2 3G
 </quick_guide>
-
