@@ -1,12 +1,5 @@
 ## <quick_guide> Présentation générale
 
-CAMBIAR FOTO
-
-![IMAGEN GENERAL DEL PRODUCTO](
-http://static.energysistem.com/images/manuals/39789/5411d638e3b14.jpg
-)
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39789/5411d64e70ec4.jpg)
-
 1. Caméra arrière
 2. Caméra frontale
 3. Haut-parleur
