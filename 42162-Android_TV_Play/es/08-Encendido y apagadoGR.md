@@ -3,7 +3,7 @@ Después de que todas las conexiones se hayan realizado correctamente, estarás 
 
 Pulsa la tecla STANDBY de tu mando a distancia para encender tu Android TV Play.
 
-![] ((Poner aquí imagen del mando y boton on)).ç
+![] ((Poner aquí imagen del mando y boton on)).
 
 Pulsa de nuevo la tecla STANDBY de tu mando en cualquier momento para suspender tu Android TV Play.
 </quick guide>
