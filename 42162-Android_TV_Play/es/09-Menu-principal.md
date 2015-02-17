@@ -8,7 +8,7 @@
 
 **Configuración de fondo de pantalla:** Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
 
-**Organización de accesos directos:** 
+###**Organización de accesos directos:** 
 
 3. **Desplagable Aplicaciones** Pulsando en el icono derecho de aplicaciones, o deslizando el cursor hacia el borde derecho de la pantalla se accede a las pestañas de lista de aplicaciones instaladas y bookmarks. 
 
@@ -17,15 +17,4 @@
 * Bookmarks: Situando el cursor sobre la pestaña Bookmarks, podrás crear accesos directos en la pantalla principal a direcciones de internet, sin tener que abrir el navegador o introducir las direcciones manualmente. Introduce un nombre para el acceso directo y la dirección de internet. Cuando hayas terminado guarda los cambios y encontrarás el nuevo acceso directo en la pantalla principal.
 
 **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable izquierdo "Configuración".
-
-* 
-4. **Energy Music:** Reproducción de archivos de sonido.
-5. **Play Store#trade# :** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
-6. **Galería:** Visualización de imágenes.
-7. **Energy Cam:** Acceso a la cámara de fotos integrada.
-8. **Internet:** Navegador web.
-9. **Email:** Correo electrónico.
-10. Acceso al menú de aplicaciones y widgets.
-11. **Contactos:** Gestión de contactos.
-12. Llamada.
 
