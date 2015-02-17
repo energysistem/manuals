@@ -1,8 +1,5 @@
 ## <quick_guide> Apresentação geral
 
-CAMBIAR FOTO
-
-![Imagen1](http://static.energysistem.com/images/manuals/39986/539803b427bc0.jpg)
 
 1. Câmara traseira
 
