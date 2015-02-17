@@ -3,6 +3,7 @@
 ![Launcher](http://static.energysistem.com/images/manuals/42162/54e369a38d4cd.jpg)
 
 1. **Desplegable Configuración**
+
 Pulsando en el icono izquierdo de configuración, o deslizando el cursor hacia el borde izquierdo de la pantalla, se accede directamente a la configuración de fondo de pantalla, organización de los accesos directos en la pantalla principal y configuración del sistema.
 
   - *Configuración de fondo de pantalla:* Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
@@ -12,9 +13,11 @@ Pulsando en el icono izquierdo de configuración, o deslizando el cursor hacia e
   - *Configuración del sistema:* Accede al menú de configuración del sistema Android#trade#.
 
 2. **Barra de estado**
+
 Muestra información sobre la fecha y la hora y el estado del sistema, como la cobertura de red Wifi, notificaciones y otros estados.
 
 3. **Desplagable Aplicaciones**
+
 Pulsando en el icono derecho de aplicaciones, o deslizando el cursor hacia el borde derecho de la pantalla se accede a las pestañas de lista de aplicaciones instaladas y bookmarks.
  
   - *Lista de aplicaciones instaladas:* Es la lista completa de las aplicaciones que se encuentran instaladas en tu Energy Android TV Play. Cada aplicación que instales aparecerá en esta lista. Situando el cursor sobre la aplicación, pulsa ok para cargar, o tecla derecha para abrir el modo "acceso directo". En el modo "acceso directo", pulsa ok para hacer seleccionar las aplicaciones que aparecerán en la pantalla principal como accesos directos.
