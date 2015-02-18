@@ -1,3 +1,3 @@
 <quick_guide>
-FALTA FOTO PORTADA
+Energy Tablet Keyboard 10.1" Pro Windows
 </quick_guide>
