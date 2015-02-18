@@ -1,5 +1,7 @@
 ## <quick_guide> Presentación general
 
+![Imagen1](http://static.energysistem.com/images/manuals/42244/54e4601cd9733.jpg)
+
 1. Cámara trasera
 2. Cámara delantera
 3. Altavoces
