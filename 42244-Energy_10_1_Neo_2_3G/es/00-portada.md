@@ -1,6 +1,3 @@
-CAMBIAR FOTO DE PORTADA
-
 <quick_guide>
-![FOTO PORTADA](http://static.energysistem.com/images/manuals/39789/5411d64661bbf.jpg)
+![](http://static.energysistem.com/images/manuals/42244/54e5af8a1e29c.jpg)
 </quick_guide>
-

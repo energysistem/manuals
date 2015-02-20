@@ -1,5 +1,6 @@
 ## <quick_guide> Apresentação geral
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54886c0cd1ba5.jpg)
+
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54e4747e32635.jpg)
 
 1. Câmara traseira
 2. Câmara frontal
