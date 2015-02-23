@@ -10,13 +10,12 @@
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
 * Entrada "line-in" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
 * Función manos libres Bluetooth®.
-* Batería de litio recargable con una duración de hasta 5 horas.
+* Batería de litio recargable.
 * Carga de batería a través de puerto microUSB.
 
 ### Características técnicas
 
-* Bluetooth® bidireccional.
-* Versión 4.0, clase II.
+* Bluetooth® bidireccional, versión 4.0, hasta 10m de alcance.
 * Soporta archivos A2DP y AVRCP.
 * Altavoces 2.0 con sistema de realce acústico.
 * Potencia de salida total (RMS):6 W.
@@ -24,10 +23,8 @@
 * Relación señal/ruido: >80 dB.
 * Micrófono integrado (función manos libres).
 * Entrada "line-in" de 3.5 mm.
-* Batería de litio recargable.
+* Batería de litio recargable con una duración de hasta 5 horas.
 * Salida para auriculares.
-* Distancia de uso hasta 10m de alcance.
-
 
 ### Características de la batería de litio recargable
 
