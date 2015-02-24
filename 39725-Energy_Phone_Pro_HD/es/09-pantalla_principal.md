@@ -13,4 +13,4 @@
 9. **Contactos:** Gestión de contactos.
 10. Llamada.
 11. **Galería:** Visualización de imágenes.
-12. **Energy Cam:** Acceso a la cámara de fotos integrada.
+12. Acceso a la cámara de fotos integrada.
