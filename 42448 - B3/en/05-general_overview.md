@@ -1,4 +1,4 @@
-## <quick_guide> General Overview
+## General Overview
 
 |  |  |
 |:-------|:-------|
