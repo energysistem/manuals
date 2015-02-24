@@ -9,8 +9,8 @@
 5. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
 6. **Internet:** Navegador web.
 7. **Email:** Correo electrónico.
-8. **Menu:**Acceso al menú de aplicaciones y widgets.
+8. **Menu:** Acceso al menú de aplicaciones y widgets.
 9. **Contactos:** Gestión de contactos.
-10. **Phone:**Llamadas y registro.
+10. **Phone:** Llamadas y registro.
 11. **Galería:** Visualización de imágenes.
-12. **Energy Cam:**Acceso a la cámara de fotos integrada.
+12. **Energy Cam:** Acceso a la cámara de fotos integrada.
