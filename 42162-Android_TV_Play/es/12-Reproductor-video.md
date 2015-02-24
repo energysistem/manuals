@@ -23,7 +23,7 @@ Usando la tecla "Menu" durante la reproducción musical puedes abrir el menú co
     * Info. Selecciona este control para mostrar información del archivo tal como el nombre, el formato, tamaño, resolución, duración, etc.
     * 3D. En caso de disponer de archivos en 3D, y un televisor compatible, puedes seleccionar este control para elegir el formato de archivo 3D entre "UP & DOWN" y "SIDE BY SIDE" en función del tipo de fichero 3D que quieras reproducir.
 
-Puedes salir de la reproducción de video en cualquier momento pulsando "Home" o cualquier acceso directo a aplicación y volver a la reproducción instantánea justo en el punto donde se quedó anteriormente pulsando el acceso directo "Video" de tu mando a distancia. 
+Puedes salir momentáneamente de la reproducción de video en cualquier momento pulsando "Home" o cualquier acceso directo a aplicación y volver a la reproducción instantánea justo en el punto donde se quedó anteriormente pulsando el acceso directo "Video" de tu mando a distancia. 
 
-Pulsando la tecla "Back" detendrá la reproducción y saldrá al explorador de archivos de video.
+Pulsando la tecla "Back" detendrá la reproducción por completo y volverá al explorador de archivos de video.
 
