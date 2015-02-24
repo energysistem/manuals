@@ -54,11 +54,12 @@ Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2
 2. Insertar las pilas teniendo en cuenta la polaridad. 
 3. Cerrar la tapa.
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo facil y discretamente al frontal del televisor, creemos que esta es la mejor localización para el receptor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. Asegúrate que el campo visual entre el mando y el receptor estará normalmente libre de obstáculos para garantizar la mejor recepción.
+Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor, creemos que esta es la mejor localización para el receptor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
 
 (LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
 
-El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las baterías por unas nuevas y uses siempre pilas alcalinas.
+Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción.
+El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
 
 
 
