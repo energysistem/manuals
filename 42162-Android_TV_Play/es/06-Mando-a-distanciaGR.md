@@ -6,9 +6,9 @@
 
 ![] (http://static.energysistem.com/images/manuals/42162/54ca656071732.jpg)
 
-1. Standby. Permite conmutar entre el modo Encendido y modo Standby (en espera).
+1. Standby. Permite cambiar entre el modo de Encendido y modo Standby (de espera).
 2. Mute. Permite conmutar la salida de sonido entre Encendido y Apagado.
-3. Grupo de teclas de transporte de la barra de tiempo en reproducción.
+3. Teclas de reproducción multimedia.
 4. Video. Acceso directo a la aplicación de video por defecto.
 5. Music. Acceso directo al reproductor musical por defecto.
 6. Pictures. Acceso directo a la galería de imágenes por defecto.
@@ -23,7 +23,7 @@
 15. Apps. Acceso directo al menú de aplicaciones.
 16. Settings. Acceso directo al menú de configuración del sistema.
 17. Grupo de teclas de volumen de sonido.
-18. Grupo de teclas de scroll de pagina rapido.
+18. Scroll rápido de pagina arriba / abajo.
 19. Home. Acceso directo al menú principal.
 20. Grupo de teclas numéricas.
 21. Espacio.
@@ -33,10 +33,10 @@
 25. Google Play. Acceso directo a la tienda de apps.
 26. YouTube. Acceso directo a la aplicación.
 27. Teclado alfanumérico.
-28. Goto. Permite acceder a un punto de la línea de tiempo del reproductor de música o video.
+28. Goto. Permite acceder a un punto de la línea de tiempo del reproductor de música o video. En la introducción de textos cambia al siguiente campo de introducción de texto.
 29. Shift. Permite conmutar entre mayúsculas y minúsculas.
 30. Modo "Mouse". Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
-31. Fn. Permite acceder a los caracteres especiales.
+31. Fn. Permite acceder a los caracteres especiales. Para insertar caracteres especiales mantén pulsado este botón mientras pulsas la tecla que contiene el caracter especial. Los caracteres especiales están marcados en color verde en el teclado alfanumérico (27).
 32. Compartimento para pilas (Tipo AAA).
  
 </quick_guide>
