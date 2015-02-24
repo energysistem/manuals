@@ -1,8 +1,8 @@
 ### Configuración Wi-Fi
 
-Pulsa en Ajustes desde la PANTALLA PRINCIPAL.
+Pulsa en Ajustes desde el menú de aplicaciones.
 
-![Imagen1]( http://static.energysistem.com/images/manuals/42258/543d01c9f0962.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61885f02e.jpg)
 
 1. Wi-Fi.
 2. Habilita la casilla Wi-Fi.
