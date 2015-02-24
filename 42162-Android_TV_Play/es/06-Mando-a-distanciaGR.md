@@ -16,14 +16,14 @@
 8. Borrar.
 9. Grupo de teclas direccionales.
 10. Tecla OK de Selección / Aceptar.
-11.  Miracast. Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
+11. Miracast. Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
 12. Volver
 13. Web. Acceso directo al navegador por defecto.
 14. Files. Acceso directo al administrador de archivos y unidades.
 15. Apps. Acceso directo al menú de aplicaciones.
 16. Settings. Acceso directo al menú de configuración del sistema.
-17. Grupo de teclas de volumen de sonido.9
-18. Grupo de teclas de paso de pagina rapido.
+17. Grupo de teclas de volumen de sonido.
+18. Grupo de teclas de scroll de pagina rapido.
 19. Home. Acceso directo al menú principal.
 20. Grupo de teclas numéricas.
 21. Espacio.
@@ -41,10 +41,24 @@
  
 </quick_guide>
 
+Nota: Las teclas de funciones especiales como avance, retroceso, play, pause, goto, scroll de página, menú contextual, etc. podrían no ser compatibles con todas las aplicaciones. La aplicación deberá estar diseñada para su uso con mando a distancia. Algunas aplicaciones están diseñadas exclusivamente para su control a través de pantalla táctil (Tablet, Smartphone...). Para este tipo de aplicaciones recomendamos el uso del modo "mouse" del mando, o la adquisición de un dispositivo señalizador tipo ratón. Puedes usar ratones con conexión USB o inalámbricos por señal RF, siempre que este disponga de receptor RF con conexión USB.
+
+
 INSTALACION DE LA PILA.
 
-Retira la tapa de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
+Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
 
-(MEter resto de texto de cambio de pilas).
+(LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
+
+1. Abrir la tapa.
+2. Insertar las pilas teniendo en cuenta la polaridad. 
+3. Cerrar la tapa.
+
+Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo facil y discretamente al frontal del televisor, creemos que esta es la mejor localización para el receptor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. Asegúrate que el campo visual entre el mando y el receptor estará normalmente libre de obstáculos para garantizar la mejor recepción.
+
+(LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
+
+El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las baterías por unas nuevas y uses siempre pilas alcalinas.
+
 
 
