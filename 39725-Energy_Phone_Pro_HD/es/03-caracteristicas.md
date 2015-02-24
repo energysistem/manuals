@@ -1,7 +1,7 @@
 ## Principales características
 
 * Smartphone con sistema ANDROID#trade# 4.4. optimizado
-* Pantalla táctil capacitiva OGS de 5.0" IPS (Full HD - 1920x1080p).
+* Pantalla táctil capacitiva OGS de 5" IPS (HD - 1280x720p).
 * Procesador de ocho núcleos ARM Cortex A7 1.7GHz y GPU Mali-450.
 * Marco frontal y estructura de aluminio.
 * Conexión 3G para disfrutar de la Internet donde y cuando la necesites.
