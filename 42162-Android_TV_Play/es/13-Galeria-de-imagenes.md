@@ -1,2 +1,2 @@
-## GALERÍA DE IMÁGENES 
+## Imágenes
 
