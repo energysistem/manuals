@@ -5,10 +5,10 @@
 1. Lista de reproducción.
 2. Visualización.
 3. Duración.
-4. Barra de progreso.
-5. Reproducción aleatoria.
-6. Canción posterior.
-7. Play / Pause.
-8. Canción anterior.
-9. Repetir.
-10. Tiempo reproducido.
+4. Reproducción aleatoria.
+5. Canción posterior.
+6. Play / Pause.
+7. Canción anterior.
+8. Repetir.
+9. Tiempo reproducido.
+10. Barra de progreso.
