@@ -6,7 +6,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42162/54ca656071732.jpg)
 
-1. Standby. Permite cambiar entre el modo de Encendido y modo Standby (de espera).
+1. Standby. Permite cambiar entre el modo de Encendido y modo Standby (de suspensión).
 2. Mute. Permite conmutar la salida de sonido entre Encendido y Apagado.
 3. Teclas de reproducción multimedia.
 4. Video. Acceso directo a la aplicación de video por defecto.
