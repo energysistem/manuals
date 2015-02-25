@@ -3,8 +3,8 @@
 - Procesador de doble núcleo ARM Cortex A9 1.6GHz con GPU Mali-400 Quad Core integrada.
 - 1GB RAM DDR3 / 8GB de memoria flash interna.
 - Sistema Android 4.2 Jelly Bean.
-- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, con modo Mouse y accesos directos a apps y opciones más usadas.
-- Aplicaciones de media streaming y clonado de pantalla. 
+- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, con modo Mouse y accesos directos a apps y a pantalla inalámbrica Miracast.
+- Aplicaciones de media streaming y clonado de pantalla Miracast. 
 - Wi-Fi 802.11b/g/n integrado para máxima velocidad en tu conexión a Internet.
 - Reproduce los formatos de archivos más populares de vídeos en alta definición.
 - Disfruta tu TV como un ordenador con acceso a tus archivos guardados en "la nube".
