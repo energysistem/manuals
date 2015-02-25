@@ -7,7 +7,7 @@ Pulsa "OK" para entrar dentro de las diferentes unidades y carpetas, y para repr
 
 Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia "Play/Pause", "Detener", "Anterior" y "Siguiente", o las teclas direccionales "Izquierda" o "Derecha" para controlar la reproducción
 
-También puedes usar la tecla "OK" o "Menu" durante la reproducción musical para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
+También puedes usar la tecla "OK" o "Menu" de tu mando a distancia durante la el visionado de imágenes para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
 
 - Reproducir / Pausar. Usa este control para pausar y reanudar la presentación de diapositivas.
 - Detener. Se dentendrá la presentación y saldrás al explorador de archivos de imagen.
@@ -19,10 +19,12 @@ También puedes usar la tecla "OK" o "Menu" durante la reproducción musical par
 - Rotación. Pulsa para rotar las imágenes entre "Normal", "90", "180" y "270" grados.
 - Zoom. Pulsa para hacer ampliaciones de la imagen en pantalla o reducir hasta volver al tamaño original. Durante la ampliación puedes usas las teclas direccionales para desplazarte por la imagen.
 
-Para detener la reproducción.
+Para detener la reproducción:
 - Pulsa "Stop" directamente desde el mando a distancia.
 - Sal de la aplicación usando la tecla "Back" de tu mando a distancia.
 - Pulsa la tecla "OK" o "Menu" para mostrar el menú contextual, y a continuación pulsa "Detener". 
+
+Para salir de la aplicación:
 
 
 
