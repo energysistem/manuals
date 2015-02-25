@@ -35,7 +35,7 @@
 29. **Shift.** Permite conmutar entre mayúsculas y minúsculas y algunos símbolos.
 30. **Modo "Mouse"**. Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
 31. **Fn**. Tecla de función. Permite acceder a los caracteres especiales. Para insertar caracteres especiales mantén pulsado este botón mientras pulsas la tecla que contiene el caracter especial. Los caracteres especiales están marcados en color verde en el teclado alfanumérico (27).
-32. Compartimento para pilas (Tipo AAA).
+32. **Compartimento para pilas (Tipo AAA)**.
  
 </quick_guide>
 
@@ -48,9 +48,9 @@ Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2
 
 (LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
 
-1. Abrir la tapa.
-2. Insertar las pilas teniendo en cuenta la polaridad. 
-3. Cerrar la tapa.
+  1. Abrir la tapa.
+  2. Insertar las pilas teniendo en cuenta la polaridad. 
+  3. Cerrar la tapa.
 
 Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor, creemos que esta es la mejor localización para el receptor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
 
