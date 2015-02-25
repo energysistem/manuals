@@ -1,4 +1,4 @@
-## Imágenes
+## Imagen
 
 Esta aplicación te permite tanto mostrar imágenes sueltas como crear una presentación de diapositivas con tan sólo pulsar un botón.
 
