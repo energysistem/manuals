@@ -1,4 +1,4 @@
-##<quick guide> Primera instalación
+##<quick guide>Primera instalación
 
 Si estás utilizando el dispositivo por primera vez, o ha sido restaurado a los valores por defecto de fábrica, cuando el dispositivo esté encendido, el asistente de instalación te ayudará a completar las configuraciones de idioma, conexión Wi-Fi, etc., siguiendo unos rápidos y sencillos pasos. 
 
