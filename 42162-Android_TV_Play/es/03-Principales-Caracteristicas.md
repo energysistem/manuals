@@ -11,7 +11,7 @@
 - Memoria ampliable con dispositivos USB externos.
 - Soporta teclado y ratón externos usb.
 - Avanzado navegador, soporta HTML 5 y Flash 11.1.
-- Consumo reducido de energía en modo standby máximo de 0.5W, contribuyendo a la sostenibilidad del medio ambiente.
+- Consumo reducido de energía en modo standby de 0.5W máximo máximo, contribuyendo a la sostenibilidad del medio ambiente.
 - Silencioso y compacto, tamaño pendrive para llevar contigo alla donde vayas.
 - Menú OSD en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
 - Instalación fácil e intuitiva, Plug and Play.
