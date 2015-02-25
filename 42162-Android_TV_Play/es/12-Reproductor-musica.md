@@ -16,12 +16,12 @@ También puedes usar la tecla *"Menu"* durante la reproducción musical para abr
 - **Siguiente.** Vuelves al principio de la canción, y si vuelves a pulsar rápidamente volverás a la canción inmediatamente anterior dentro de la carpeta de donde se están reproduciendo las canciones.
 - **Repetir.** Te permite cambiar la forma en la que se repiten las canciones. Puedes repetir una canción, la carpeta entera por órden (modo por defecto), o repetir la carpeta de forma aleatoria, dejando al sistema elegir la siguiente canción.
 
-Para detener la reproducción.
+*Para detener la reproducción.*
 - Pulsa *"Stop"* directamente desde el mando a distancia.
 - Sal de la aplicación usando la tecla *"Back"* de tu mando a distancia, hasta llegar a la pantalla principal.
 - Pulsa la tecla *"Menu"* para sacar el menú contextual y pulsa sobre el control **Detener**. Saldrás al explorador de archivos de audio.
 
-Para salir de la aplicación sin detener la reproducción (Reproducción en segundo plano).
+*Para salir de la aplicación sin detener la reproducción (Reproducción en segundo plano).*
 - Pulsa la tecla *"Home"*. Volverás a la pantalla principal mientras continua la reproducción. Puedes pulsar las teclas de reproducción multimedia para pausar / continuar la reproducción, avanzar y retroceder rápidamente y pasar las canciones.
 - Pulsa las *teclas de acceso directo* a otras aplicaciones o *"Settings"*.
 - Para detener la reproducción desde otra aplicación o pantalla, pulsa la tecla *"Detener"* en el mando a distancia, o entra en la aplicación de nuevo pulsando sobre la tecla *"Music"*, para detener y volver al reproductor musical.
