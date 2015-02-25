@@ -1,8 +1,6 @@
 ## <quick_guide> Mando a distancia.
 
-// Para la guía rápida, una referencia simple del mando, mando, botón on off, teclas direccionales y ok. Con eso es suficiente para posteriormente explicar el primer uso y la función principal (primer inicio).
-// Para el manual se pone el resto.
-// Hablar con el TPM para aclaraciones sobre la guía rápida.
+<unique> Para la guía rápida, una referencia simple del mando, mando, botón on off, teclas direccionales y ok. Con eso es suficiente para posteriormente explicar el primer uso y la función principal (primer inicio). Para el manual se pone el resto. Hablar con el TPM para aclaraciones sobre la guía rápida.</unique>
 
 ![] (http://static.energysistem.com/images/manuals/42162/54ca656071732.jpg)
 
