@@ -1,4 +1,4 @@
-##<quick guide>Primera instalación
+##<quick_guide> Primera instalación
 
 Si estás utilizando el dispositivo por primera vez, o ha sido restaurado a los valores por defecto de fábrica, cuando el dispositivo esté encendido, el asistente de instalación te ayudará a completar las configuraciones de idioma, conexión Wi-Fi, etc., siguiendo unos rápidos y sencillos pasos. 
 
@@ -9,6 +9,6 @@ Si estás utilizando el dispositivo por primera vez, o ha sido restaurado a los 
 * Pantalla de finalización de la configuración. Una vez completado, tu Android TV Play está listo para ser usado.
 
 También puedes volver a este asistente en cualquier momento a través de la aplicación "Asistente de instalación".
-</quick guide>
+</quick_guide>
 
 
