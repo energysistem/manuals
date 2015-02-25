@@ -12,7 +12,7 @@
 - Soporta teclado y ratón externos usb.
 - Avanzado navegador, soporta HTML 5 y Flash 11.1.
 - Consumo reducido de energía máximo a 2.5W y en modo standby máximo a 0.5W, contribuyendo a la sostenibilidad del medio ambiente.
-- Silencioso y compacto, tamaño pendrive para llevar contigo alla donde estés.
+- Silencioso y compacto, tamaño pendrive para llevar contigo alla donde vayas.
 - Menú OSD en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
 - Instalación fácil e intuitiva, Plug and Play.
 - Conexiones: 1 x High Speed HDMI, 1 x micro USB DC / receptor IR, 1 x micro USB OTG / HOST.
