@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec60ea3e352.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/39725/54ec60ea3e352.jpg)
 
 1. LED de notificaciones.
 2. Sensores de luminosidad y de proximidad.
