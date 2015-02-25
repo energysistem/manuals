@@ -3,7 +3,7 @@
 - Procesador de doble núcleo ARM Cortex A9 1.6GHz con GPU Mali-400 Quad Core integrada.
 - 1GB RAM DDR3 / 8GB de memoria flash interna.
 - Sistema Android 4.2 Jelly Bean.
-- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, con modo Mouse y accesos directos a apps y a pantalla inalámbrica Miracast.
+- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, modo "Mouse" y accesos directos a apps y a pantalla inalámbrica Miracast.
 - Aplicaciones de media streaming y clonado de pantalla Miracast. 
 - Wi-Fi 802.11b/g/n integrado para máxima velocidad en tu conexión a Internet.
 - Reproduce los formatos de archivos más populares de vídeos en alta definición.
@@ -17,5 +17,5 @@
 - Instalación fácil e intuitiva, Plug and Play.
 - Conexiones: 1 x High Speed HDMI, 1 x micro USB DC / receptor IR, 1 x micro USB OTG / HOST.
 - Formatos compartibles: VIDEO: DivX, Xvid, AVI, MKV, MP4, MPG, ISO, IFO, MOV, M2TS, TS, WMV, VOB, DAT, RM, RMVB. / AUDIO: MP3, WMA, WAV, AAC, DD+, MPEG. / IMAGE: JPG, JPEG, BMP, PNG, GIF.
-- Compatible con dispositivos de almacenamiento con formatos FAT/FAT32/NTFS.
+- Compatible con dispositivos de almacenamiento externo con formato FAT/FAT32/NTFS/ExFAT, incluidos discos duros autoalimentados.
 - Adaptador AC/DC (Europlug); Input 100-240V; Output 5V/1.5A; 50/60 Hz.
