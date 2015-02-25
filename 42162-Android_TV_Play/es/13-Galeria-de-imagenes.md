@@ -27,7 +27,6 @@ Para detener la reproducción:
 Para salir de la aplicación:
 - Pulsa "Home" en tu mando a distancia para volver directamente a la pantalla principal.
 - Pulsa la tecla "Back" para volver atrás hasta salir de la aplicación.
-- 
 
 
 
