@@ -2,11 +2,11 @@
 
 Navega a través del explorador de archivos para seleccionar las canciones a reproducir.
 
-Pulsa "OK" para entrar dentro de las diferentes unidades y carpetas, y para reproducir los archivos de audio. Pulsa "Back" para volver hacia atrás un nivel, y volver al explorador de archivos desde reproducción.
+Pulsa *"OK"* para entrar dentro de las diferentes unidades y carpetas, y para reproducir los archivos de audio. Pulsa *"Back"* para volver hacia atrás un nivel, y volver al explorador de archivos desde la reproducción musical.
 
-Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia "Play/Pause", "Stop", "Avanzar", "Retroceder", "Anterior" y "Siguiente" para controlar la reproducción, y los controles "Vol+" y "Vol-" para regular el volumen de la música.
+Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia *"Play/Pause", "Stop", "Avanzar", "Retroceder", "Anterior" y "Siguiente"* para controlar la reproducción, y los controles *"Vol+" y "Vol-"* para regular el volumen de la música.
 
-También puedes usar la tecla "Menu" durante la reproducción musical para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
+También puedes usar la tecla *"Menu"* durante la reproducción musical para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
 
 - **Reproducir / Pausar.** Usa este control para pausar y reanudar la reproducción en cualquier momento.
 - **Detener.** Se dentendrá la reproducción musical y saldrás al explorador de archivos de audio.
