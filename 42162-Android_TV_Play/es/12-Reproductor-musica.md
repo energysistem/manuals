@@ -19,7 +19,7 @@ También puedes usar la tecla *"Menu"* durante la reproducción musical para abr
 Para detener la reproducción.
 - Pulsa *"Stop"* directamente desde el mando a distancia.
 - Sal de la aplicación usando la tecla *"Back"* de tu mando a distancia, hasta llegar a la pantalla principal.
-- Pulsa la tecla *"Menu"* para sacar el menú contextual y pulsa *"Detener"*. Saldrás al explorador de archivos de audio.
+- Pulsa la tecla *"Menu"* para sacar el menú contextual y pulsa **"Detener"**. Saldrás al explorador de archivos de audio.
 
 Para salir de la aplicación sin detener la reproducción (Reproducción en segundo plano).
 - Pulsa la tecla *"Home"*. Volverás a la pantalla principal mientras continua la reproducción. Puedes pulsar las teclas de reproducción multimedia para pausar / continuar la reproducción, avanzar y retroceder rápidamente y pasar las canciones.
