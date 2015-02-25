@@ -5,7 +5,7 @@ Esta aplicación te permite tanto mostrar imágenes sueltas como crear una prese
 Navega a través del explorador de archivos para seleccionar las imágenes a mostrar.
 Pulsa "OK" para entrar dentro de las diferentes unidades y carpetas, y para reproducir las imágenes. Pulsa "Back" para volver hacia atrás un nivel, y volver al explorador de archivos desde la reproducción.
 
-Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia "Play/Pause", "Detener", "Anterior" y "Siguiente", o las teclas direccionales "Izquierda" o "Derecha" para controlar la reproducción
+Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia "Play/Pause", "Detener", "Anterior" y "Siguiente", o las teclas direccionales "Izquierda" o "Derecha" para pasar las diapositivas.
 
 También puedes usar las teclas "OK" o "Menu" durante la el visionado de imágenes para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
 
