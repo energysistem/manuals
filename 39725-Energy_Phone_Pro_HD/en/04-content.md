@@ -1,5 +1,5 @@
 ## <quick_guide> Product content
-* Energy Smartphone Pro HD.
+* Energy Phone Pro HD.
 * Quick guide.
 * USB cable
 * AC/DC (Europlug) 100-240V AC 50-60Hz power adapter.
