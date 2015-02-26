@@ -10,4 +10,4 @@ device.
 A7 1.7GHz processor, Bluetooth 4.0, WiFi, GPS, 3G connectivity and rear and front cameras both with LED flash.
 * We recommend you to read this manual to enjoy your device in a safe way andwith maximum performance.
 
-## <unique> * Find the whole *Energy Smartphone Pro HD* user manual on the following link   http://www.energysistem.com/en/guide/397259. </unique> </quick_guide>
+## <unique> * Find the whole *Energy Phone Pro HD* user manual on the following link   http://www.energysistem.com/en/guide/397259. </unique> </quick_guide>
