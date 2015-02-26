@@ -4,7 +4,7 @@ Your new Energy Phone has a powerful Web browser among the list of default appli
 ![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec6171898e2.jpg)
 
 1. Refresh.
-2. WEB address.
+2. URL address.
 3. Bookmarks.
 4. Tab management.
 5. Forward.
