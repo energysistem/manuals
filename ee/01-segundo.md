@@ -1,5 +1,0 @@
-# segundo
-ddddd
-
-
-segundo capi
