@@ -6,7 +6,7 @@ Una vez el dispositivo esté conectado a una red Wi-Fi o 3G, pulsa sobre el icon
 ![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec6171898e2.jpg)
 
 1. Recargar.
-2. Dirección WEB.
+2. Dirección URL.
 3. Marcadores.
 4. Gestionar pestañas.
 5. Avanzar.
