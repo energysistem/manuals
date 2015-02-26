@@ -6,8 +6,8 @@
 2. Visualización.
 3. Duración.
 4. Reproducción aleatoria.
-5. Canción posterior.
-6. Play / Pause.
+5. Canción siguiente.
+6. Reproducir / Pausa.
 7. Canción anterior.
 8. Repetir.
 9. Tiempo reproducido.
