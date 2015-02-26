@@ -1,8 +1,8 @@
 ### Wi-Fi setup
 
-Tap on Settings in the MAIN SCREEN.
+Tap the Settings icon in the main apps menu.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d01c9f0962.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61885f02e.jpg)
 
 1. Wi-Fi.
 2. Enable the Wi-Fi option.
