@@ -1,25 +1,20 @@
 ## Remote control
 
-With the Remote Control you can select all possibilities that *Energy Tower 5* offers you:
+With the Remote Control you can select all possibilities that *Energy Tower 8* offers you:
 
 * Turn ON/OFF.
 
-* Select your mode (USB, SD, Line-in, Radio FM, Bluetooth®) through the SOURCE button.
+* Select the mode (SOURCE button).
 
 * “Mute” function for all modes.
 
 * Loudness control, Play and Pause, forward and backward songs or FM channels (in all modes).
 
-* Equalization presets for USB and SD modes.
-    * EQ 0: Normal.
-    * EQ 1: Pop.
-    * EQ 2: Rock.
-    * EQ 3: Jazz.
-    * EQ 4: Classic.
+* Equalization presets for USB and SD modes (EQ button).
 
-* Manage your folders in the USB and SD memories with browse button.
+* Manage your folders in the USB and SD memories (Browse button).
 
-* RepeaRandom modes for the USB and SD memories with RPT
-button.
+* Repeat and Random modes for the USB and SD memories (RPT
+button).
 
-* Numeric buttons to select your
+* Numeric buttons to select the tracks.
