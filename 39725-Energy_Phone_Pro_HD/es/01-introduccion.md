@@ -9,4 +9,4 @@ dispositivo.
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo sus prestaciones.
 
 
-## <unique> * Encuentra el manual completo del *Energy Smartphone Pro HD* en el siguiente enlace  http://www.energysistem.com/guide/397259 </unique> </quick_guide>
+## <unique> * Encuentra el manual completo del *Energy Phone Pro HD* en el siguiente enlace  http://www.energysistem.com/guide/397259 </unique> </quick_guide>
