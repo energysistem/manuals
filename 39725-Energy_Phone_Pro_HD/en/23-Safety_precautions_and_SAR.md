@@ -2,7 +2,7 @@
 
 ### Safety precautions
 It is prohibited to use the phone in certain places or situations, such as airplanes, hospitals, service stations and several other places.
-To reduce the amount of radiation, use a hands-free kit, the speaker mode, a bluetooth headset and do not make calls in places where the signal is weak, in the car, train or subway. Keep the phone away from sensitive areas, like the belly of pregnant women, especially when making a phone call. If you have an electronic implant (pacemakers, insulin pumps, neurostimulators,etc...) place the phone at least 15 cm away from the body and on the opposite side to the implant when making a phone call.
+To reduce the amount of radiation, use a hands-free kit, the speaker mode, a bluetooth headset and do not make calls in places where the signal is weak, in the car, train or subway. Keep the phone away from sensitive areas, like the belly of pregnant women, especially when making a phone call. If you have an electronic implant (pacemakers, insulin pumps, neurostimulators, etc...) place the phone at least 15 cm away from the body and on the opposite side to the implant when making a phone call.
 
 ### Exposure information (SAR)
 
