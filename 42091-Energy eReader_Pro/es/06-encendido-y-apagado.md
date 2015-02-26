@@ -1,6 +1,6 @@
 ## Encendido y apagado
 
-- Para encender tu eReader, pulsa el botón encendido/apagado durante unos segundos.
+- Para encender tu eReader, pulsa el botón encendido/apagado hasta que aparezca la animación de inicio.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
