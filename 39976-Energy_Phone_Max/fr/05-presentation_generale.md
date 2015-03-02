@@ -10,7 +10,7 @@
 6. Touche de volume.
 7. Microphone.
 8. Entrée USB.
-9. Touches tactiles Menu, Démarrage, Retour
+9. Touches tactiles Applications récentes, Démarrage, Retour.
 10. Haut-parleur arrière.
 11. Flash arrière
 12. Appareil photo arrière.
