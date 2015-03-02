@@ -16,8 +16,8 @@
 12. Bouton de démarrage/éteint.
 13. Sortie pour les écouteurs.
 14. Entrée microSD.
-15. Entrée cartes microSIM 2.
-16. Entrée cartes microSIM 1.
+15. Entrée cartes microSIM 1.
+16. Entrée cartes microSIM 2.
 17. Microphone inférieur.
 18. Entrée USB OTG/HOST.
 
