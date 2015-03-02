@@ -7,7 +7,7 @@
 3. Front camera.
 4. Front speaker.
 5. Volume button.
-6. Menu, Home, Back touch buttons.
+6. Recent Apps, Home, Back touch buttons.
 7. Front flash.
 8. Rear camera.
 9. Rear microphone.
