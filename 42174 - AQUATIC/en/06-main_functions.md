@@ -10,7 +10,7 @@ At the same time, the search and pairing process will start on your Bluetooth® 
 
 To pair the speaker with the last device again, you only need to turn on the *Energy Music Box Aquatic Bluetooth* and the synchronization will start automatically.
 
-If you want to pair another Bluetooth® device, keep the CONTROL TALK button (5). The current pair will stop and the device will start another Bluetooth® synchronization.
+If you want to pair another Bluetooth® device, keep the PLAY/PAUSE AND BT PARING button (3). The current pair will stop and the device will start another Bluetooth® synchronization.
 
 ### Line-in mode.
 
@@ -34,4 +34,4 @@ To forward or backward in the same song, hold NEXT (5) or PREVIOUS (1) buttons.
 
 When the speaker stop emit sound or not turn on, is the time to charge it. Connect the microUSB end of the included USB cable to your *Energy Music Box Aquatic Bluetooth* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED INDICATOR of charge (6) will turn on in red color and when the charge is completed the LED will turn off.
 
-IMPORTANT NOTE: To keep the battery in good condition, it is recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
+**IMPORTANT NOTE:** To keep the battery in good condition, it is recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.

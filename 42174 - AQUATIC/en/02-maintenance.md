@@ -15,4 +15,4 @@
 * Charge the lithium battery when ran out to extend its battery lifetime.
 
 
-Note: The device is waterproof to 2 meters deep only in wireless mode using Bluetooth.
+Note: The device is waterproof to 1 meters deep for a maximum time of 30 minutes, only in wireless mode using Bluetooth.
