@@ -9,7 +9,7 @@
 * Conexión inalámbrica Bluetooth 4.0 para auriculares, altavoces y otros dispositivos con protocolo Bluetooth.
 * Double entrée de cartes micro-SIM.
 * 1 Go RAM.
-* 8 Go de mémoire interne qui permettent de stocker jusqu'à 64 heures de vidéo ou 8.000 chansons.
+* 8 Go de mémoire interne qui permettent de stocker jusqu'à 32 heures de vidéo ou 4.000 chansons.
 * Appareil photo frontal intégrée de 5.0 Mpx BSI+ avec un angle de ouverture de 88º de largeur et flash LED.
 * Appareil photo arrière intégrée de 13.0 Mpx avec auto-focus et double flash LED.
 * Fonction USB-OTG pour un simple accès à la mémoire de la tablette depuis l'ordinateur (câble inclut).
