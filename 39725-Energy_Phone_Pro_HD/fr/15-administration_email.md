@@ -6,7 +6,7 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 1. Dossier choisi.
 2. Nouveau courrier électronique.
-3. Chercher
+3. Chercher.
 4. E-mails.
 5. Dossiers.
 
