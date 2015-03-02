@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	VOLUMEN - <br> 2. VOLUMEN + <br> 3. BOTÓN DE FUNCIÓN/MODO <br> 4. PLAY/PAUSE Y ON/OFF <br> 5. NAVEGACIÓN POR CARPETAS Y CONTROL DE LLAMADA <br> 6.	RETROCESO <br> 7.	AVANCE <br> 8. INDICADOR DE ENCENDIDO <br> 9. MICRÓFONO <br> 10.CONEXIÓN DE AURICULARES <br> 11. LED DE CARGA <br> 12. CONEXIÓN USB PARA CARGAR LA BATERÍA <br> 13. LED INDICADOR DE MODO <br> 14.	CONEXIÓN LINE-IN <br> |![Imagen1](http://static.energysistem.com/images/manuals/39692/539828f7e58f9.jpg)|
+|1.	RETROCESO <br> 2. VOLUMEN - <br> 3. PLAY/PAUSE Y BUSQUEDA BLUETOOTH <br> 4. VOLUMEN + <br> 5. AVANCE <br> 6.	LED DE CARGA <br> 7. LED DE MODO <br> 8. CONEXIÓN USB PARA CARGAR LA BATERÍA <br> 9. CONEXIÓN LINE-IN <br> 10. INTERRUPTOR ON/OFF <br> 10. TAPA DE LAS CONEXIONES <br> 12. ENGANCHE <br>  |![Imagen1](http://static.energysistem.com/images/manuals/39692/539828f7e58f9.jpg)|
 </quick_guide>

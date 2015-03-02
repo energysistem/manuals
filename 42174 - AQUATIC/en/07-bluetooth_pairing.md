@@ -1,8 +1,7 @@
-## Bluetooth Pairing
+## Waterproof.
 
-Everytime you turn on your *Energy Music Box B3 Bluetooth*, pairing mode will start automatically; at the same time, the search and pairing process will start on your Bluetooth® device (smartphone, tablet, laptop, etc). Once you have identified the *Energy Music Box B3 Bluetooth* on your device, select "Connect" and both devices will pair each other immediately with no need of pairing codes; the speaker will play a sound indicating that the connection has been established.
+The *Energy Music Box Aquatic Bluetooth* is waterproof to 1 meter deep for a maximum time of 30 minutes, only in wireless mode using Bluetooth.
 
-To pair the speaker with the last device again, you only need to turn on the *Energy Music Box B3 Bluetooth* and the synchronization will start automatically.
+It is very important to make sure that the connector cover is properly closed before using. Press your thumb over the cover to make sure of it. The connector cover should be flush with the housing grid. Otherwise, do not wet the device and contact our customer service.
 
-If you want to pair another Bluetooth® device, keep the CONTROL TALK button (5). The current pair will stop and the device will start another Bluetooth® synchronization.
-
+After use, wash the device with fresh water and dry thoroughly. Do not open the connector cover during this process. Do not use abrasive or corrosive cleaning products.

@@ -5,7 +5,7 @@
 * Transfiere y disfruta tu música a través de conexión inalámbrica gracias a la tecnología Bluetooth®.
 * Compatibilidad total con smartphones y tablets iOS, Android™, Windows Mobile, BlackBerry, tc.
 * Libertad de sonido: Escucha y comparte tu música en cualquier lugar, sin cables.
-* Diseño sumergible durante su uso en modo inalambrico Bluetooth.
+* Diseño sumergible hasta 1 metro durante un tiempo máximo de 30 minutos en modo inalambrico Bluetooth.
 * Altavoces con sistema de realce acústico: Sonido claro y con graves reforzados.
 * Potencia de salida total (RMS): 6 W.
 * Diseño compacto, sumergible y portátil, te permitirá llevar tu música contigo a todas partes.
@@ -16,7 +16,7 @@
 
 * Bluetooth® bidireccional, versión 4.0, hasta 10m de alcance.
 * Soporta archivos A2DP y AVRCP.
-* Resistencia al agua hasta 2 metros de profundidad.
+* Certificado IP57:Resistencia al agua hasta 1 metro de profundidad durante un tiempo máximo de 30 minutos.
 * Altavoces 2.0 con sistema de realce acústico.
 * Potencia de salida total (RMS):6 W.
 * Respuesta en frecuencia: 80 Hz ~ 20 KHz.

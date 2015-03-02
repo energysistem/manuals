@@ -18,7 +18,7 @@
 
 - Bidirectional Bluetooth®, 4.0 version. Up to 10 meter range.
 - Supports A2DP and AVRCP profiles.
-- Water resistance up to 2 meters deep.
+- Water resistance up to 1 meters deep during 30 minutes maximun.
 - 2.0 loudspeakers with acoustic enhancement system.
 - Total output power (RMS): 6 W.
 - Frequency response: 80 Hz ~ 20 KHz.
