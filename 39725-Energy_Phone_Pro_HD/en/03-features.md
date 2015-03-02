@@ -1,5 +1,5 @@
 ## Key Features
-* Unlocked smartphone with optimized ANDROID#trade@ 4.4 Kit Kat O.S.
+* Unlocked smartphone with optimized ANDROID#trade# 4.4 Kit Kat O.S.
 * 5" IPS OGS capacitive touch display (HD - 1280x720p).
 * Octa Core ARM Cortex A7 1.7GHz processor and Mali-450 GPU.
 * 3G connection to surf the Internet wherever and whenever you want to.
