@@ -7,7 +7,7 @@
 3. Cámara frontal.
 4. Altavoz frontal.
 5. Botón de volumen.
-6. Botones táctiles de aplicaciones recientes, inicio y volver.
+6. Botones táctiles de Aplicaciones recientes, inicio y volver.
 7. Flash frontal.
 8. Cámara trasera.
 9. Micrófono trasero.
