@@ -1,16 +1,16 @@
 ## Tela Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d020800cdb.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61781e767.jpg)
 
-1. **Barra de estado:** mostra informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo nesta zona, se desdobra uma versão do menu de configuração básica que administra as notificações e o menu de configuração.
-2. **Busca:** acesso direito ao motor de pesquisa WEB de Google#trade#.
+1. **Busca:** acesso direito ao motor de pesquisa WEB de Google#trade#.
+2. **Barra de estado:** mostra informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo nesta zona, se desdobra uma versão do menu de configuração básica que administra as notificações e o menu de configuração.
 3. **Busca por voz:** Acesso a busca por voz do Google#trade# e muito mais.
 4. **Energy Music:** leitura de arquivos de som.
 5. **Play Store#trade#:** Descarregue as melhores e mais populares aplicações para seu sistema Android#trade#.
-6. **Gallery:** visualização de imagens.
-7. **Energy Cam:** acesso à câmara de fotos integrada.
-8. **Internet:** navegador web.
-9. **Email:** correio eletrônico.
-10. Acesso ao menu de aplicações e widgets.
-11. **Contactos:** gerenciador de contatos.
-12. Chamada.
+6. **Internet:** navegador web.
+7. **Email:** correio eletrônico.
+8. **Menu:** Acesso ao menu de aplicações e widgets.
+9. **Contactos:** gerenciador de contatos.
+10. **Phone:** Chamadas e registro
+11. **Gallery:** visualização de imagens.
+12. **Energy Cam:** acesso à câmara de fotos integrada.
