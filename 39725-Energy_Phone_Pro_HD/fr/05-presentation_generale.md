@@ -7,7 +7,7 @@
 3. Appareil photo frontal.
 4. Haut-parleur frontal.
 5. Bouton de volume.
-6. Boutons tactiles Menu, Démarrage, Retour.
+6. Boutons tactiles Applications récentes, Démarrage, Retour.
 7. Flash frontal.
 8. Appareil photo arrière.
 9. Microphone arrière.
