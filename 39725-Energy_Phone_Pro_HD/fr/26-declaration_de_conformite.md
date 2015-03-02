@@ -11,7 +11,7 @@ NIF:A53107488
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# Energy Phone Pro**
+**Energy Sistem#trade# Energy Phone Pro HD**
 Pays de fabrication: Chine
 
 Auquel se réfère cette déclaration, est conforme aux normes ou documents
