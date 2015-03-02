@@ -10,7 +10,7 @@
 6. Botão de volume.
 7. Microfone.
 8. Entrada USB.
-9. Botões tácteis Menu, Início, Regressar.
+9. Botões tácteis de Aplicações recentes, Início, Regressar.
 10. Alto-falante traseiro.
 11. Flash traseiro.
 12. Câmera traseira.
