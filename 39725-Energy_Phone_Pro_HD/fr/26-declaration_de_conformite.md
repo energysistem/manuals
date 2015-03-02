@@ -20,7 +20,7 @@ mars 1999.
 Vous pouvez demander une copie de la déclaration de conformité à l’adresse :
 C/ Calpe, 1 – 03509 Finestrat – Alicante (Espagne) Tel. +34 966 831 058
 
-Finestrat, 01 Janvier 2015
+Finestrat, 23 février 2015
 
 </quick_guide>
 
