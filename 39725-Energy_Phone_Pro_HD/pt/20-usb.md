@@ -1,4 +1,4 @@
-## USB
+## MicroSD / USB
 
 Seu Energy Phone tem uma entrada para cartões de memória microSD para expandir a capacidade do dispositivo. Para usá-lo, desligue quando inserir/extrair o cartão, para evitar a perda acidental de dados. Suporta os formatos de alta capacidade (microSD-HC) e capacidade de memória estendida (microSD-XC).
 
