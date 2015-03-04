@@ -12,7 +12,7 @@
 
 6.	Pour quoi je n'arrive pas à visualiser mes fichiers des images .jpg ? Nombreux appareils photos numériques et programmes d'édition d'images ont additionnés des donnés cachés aux fichiers .jpg. Ces donnés peuvent faire que votre Energy Phone ne charge pas les images.  Essayez de les effacer en enregistrant l'image avec un autre nom.
 
-7.	Quelques fois, l’écran est toute en noir et l’appareil ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche Vol +.
+7.	Quelques fois, l'écran est toute en noir et l’appareil ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche Vol +.
 
 8.	La capacité de mémoire do Energy Phone est 16Go, mais la mémoire disponible est inférieure. Pour quoi ? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin de 2.6Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 16Go.
 
