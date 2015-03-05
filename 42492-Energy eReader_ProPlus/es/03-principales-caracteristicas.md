@@ -1,5 +1,6 @@
 ## Principales características
 - Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris y alto contraste. Resolución 758 x 1024 pixels y 212 puntos por pulgada. 
+- Panel Eink#trade# Carta mejorado con un 50% más de contraste y un 20% de reflectancia para una sensacion de lectura sobre puro papel blanco.
 - Pantalla táctil para mejorar la experiencia con tu eReader.
 - Luz integrada y regulable para leer bajo cualquier condición de luminosidad. 
 - Wi-Fi integrado (tipo n).
