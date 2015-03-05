@@ -1,6 +1,7 @@
 ## Principales caractérístiques
 
-- Lecteur de livres électroniques avec écran e-ink HD de 6", 16 niveaux de gris, un grand contraste. Résolution 758 x 1024 pixels et 212 points par pouce. 
+- Lecteur de livres électroniques avec écran e-ink HD de 6", 16 niveaux de gris, un grand contraste. Résolution 758 x 1024 pixels et 212 points par pouce.
+- Le panneau Carta Eink#trade# amélioré avec un 50% plus de contraste et 20%  plus de réflectance pour une expérience de lecture sur du papier blanc.
 - Écran tactile pour améliorer l'expérience avec votre eReader.
 - Lumière intégrée et ajustable pour lire dans n'importe quelle condition de luminosité. 
 - Wi-Fi intégré (type n).
