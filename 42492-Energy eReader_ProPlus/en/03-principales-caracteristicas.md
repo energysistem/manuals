@@ -1,7 +1,7 @@
 ## Main Features
 
 - 6" eBook reader, 16 levels greyscale, high contrast and 758 × 1024 pixels / 212 dpi.
-- Carta Eink#trade# improved panel with 50% more contrast and 20% better reflectancy for pure white paper reading experience.
+- Carta Eink#trade# improved panel with 50% more contrast and 20% better reflectance for pure white paper reading experience.
 - Touch screen with integrated and adjustable light to read under any lighting condition.
 - Maximum speed with built-in Wi-Fi.
 - ARM Cortex A9 1.0Ghz dual core processor.
