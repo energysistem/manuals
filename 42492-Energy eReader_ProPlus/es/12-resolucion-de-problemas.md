@@ -1,6 +1,6 @@
 ## Resolución de problemas
 
-**No puedo apagar ni suspender mi eReader Pro / No funciona el botón "Power"**
+**No puedo apagar ni suspender mi eReader Pro+ / No funciona el botón "Power"**
 
 Necesitas desactivar el "modo demo". Este modo, que puedes ajustar durante el primer arranque, está pensado para que el ereader se exponga en una tienda mostrando en la pantalla explicaciones acerca del funcionamiento del eReader. Para evitar su apagado mientras está expuesto en este modo, se desactiva el botón de power y la suspensión automática.
 
