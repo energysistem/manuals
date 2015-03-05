@@ -2,7 +2,7 @@
 
 Nombre del suministrador: Energy Sistem Soyntec S.A.				
 
-FECHA: 06/10/2014
+FECHA: 02/01/2015
 
 Dirección: Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
 
@@ -14,7 +14,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# - Energy eReader Pro**
+**Energy Sistem#trade# - Energy eReader Pro+**
 
 **País de fabricación**: China
 
