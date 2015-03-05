@@ -32,6 +32,6 @@ To forward or backward in the same song, hold NEXT (5) or PREVIOUS (1) buttons.
 
 ### Charging the battery
 
-When the speaker stop emit sound or not turn on, is the time to charge it. Connect the microUSB end of the included USB cable to your *Energy Music Box Aquatic Bluetooth* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED INDICATOR of charge (6) will turn on in red color and when the charge is completed the LED will turn off.
+When the battery level is low, the CHARGE INDICATOR (6) will start flashing. To charge the battery, connect the microUSB end of the included USB cable to your *Energy Music Box Aquatic Bluetooth* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED INDICATOR of charge (6) will turn on in red color and when the charge is completed the LED will turn off.
 
 **IMPORTANT NOTE:** To keep the battery in good condition, it is recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
