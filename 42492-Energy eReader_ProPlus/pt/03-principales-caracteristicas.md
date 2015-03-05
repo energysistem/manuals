@@ -1,6 +1,7 @@
 ## Principais Características
 
 - Leitor de ebook com tela e-ink de 6 ", 16 níveis de cinza e alto contraste. Resolução de 758 x 1024 píxeis e 212 pontos por polegada.
+- Painel Carta Eink #trade# melhorado com 50% mais contraste e 20% melhor brilho para uma experiência de leitura puro papel branco.
 - Tela de toque para aprimorar sua experiência com eReader. 
 - Luz integrada e ajustável para ler sob quaisquer condição de iluminação. 
 - Integrado Wi-Fi (tipo n). 
