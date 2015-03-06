@@ -1,6 +1,6 @@
 ## Product Content
 
 * Energy Tower 8.
-* Audio cable: jack 3.5 mm.
+* Audio cable: 3.5 mm jack cable.
 * Remote control.
 * Quick guide.
