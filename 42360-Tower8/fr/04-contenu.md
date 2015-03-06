@@ -1,6 +1,6 @@
 ## Contenu du produit 
 
-- Energy Tower 5. 
+- Energy Tower 8. 
 - Télécommande. 
 - Câble audio (3,5 mm). 
 - Guide rapide. 
