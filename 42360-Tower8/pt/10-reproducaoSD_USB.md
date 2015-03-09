@@ -1,11 +1,11 @@
 ## Reprodução a partir de cartões SD e USB
 
-Para reproduzir arquivos MP3, insere uma memória externa USB ou um cartão SD/MMC nas ranhuras correspondentes apropriados, (13) e (11), respectivamente. 
+Para reproduzir arquivos MP3, insere uma memória externa USB ou um cartão SD/MMC nas ranhuras correspondentes apropriados, (13) e (10), respectivamente. 
 
-Neste momento, a *Energy Tower 5* reproduzirá automaticamente a partir da memória externa inserida. 
+Neste momento, a *Energy Tower 8* reproduzirá automaticamente a partir da memória externa inserida. 
 Você vai visualizar no display  "USB" ou "SD", dependendo do tipo de memória que você insere. 
 
-Se você desliga a *Energy Tower 5* ou você extraiu alguma das memórias, o momento da reprodução será armazenado na memória interna do aparelho. 
+Se você desliga a *Energy Tower 8* ou você extraiu alguma das memórias, o momento da reprodução será armazenado na memória interna do aparelho. 
 
 Quando você volte a conectar a memória, ele continua a reprodução no momento em que parou. 
 
