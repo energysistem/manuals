@@ -14,6 +14,6 @@ Usando o controle remoto você pode controlar todos os recursos da *Energy Tower
 
 * Navegação por pastas * (Botão X) para os modos USB e SD. (Botão BROWSE)
 
-* modos Repeat e Random (Botão RPT). 
+* Modos Repeat e Random (Botão RPT). 
 
 * Seleccionando o número de música ou estação através dos botões numéricos (modos USB, SD e Rádio FM).
