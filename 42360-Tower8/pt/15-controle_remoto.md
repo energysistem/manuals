@@ -1,18 +1,18 @@
 ## Controle remoto
 
-Usando o controle remoto você pode controlar todos os recursos da *Energy Tower 5*.
+Usando o controle remoto você pode controlar todos os recursos da *Energy Tower 8*.
 
 * Desligar e reiniciar o computador.
 
-* Selecção de modo (USB, SD, Line-in, Radio FM, Bluetooth®) através do botão modo.
+* Selecção de modo (Botão MODE)
 
 * Função "Mute" para silenciar todos os modos. 
 
-* Controle de Volume, Play/Pause, Avanço e Retrocesso o controle de sintonia / FM. 
+* Controle de Volume, Play/Pause, Avanço e Retrocesso o controle de sintonia / FM. (Todos os modos)
 
-* Equalização (EQ predefinida) para os modos USB e SD. 
+* Equalização para os modos USB e SD. (Botão EQ)
 
-* Navegação por pastas * (Botão X) para os modos USB e SD. 
+* Navegação por pastas * (Botão X) para os modos USB e SD. (Botão BROWSE)
 
 * modos Repeat e Random (Botão RPT). 
 
