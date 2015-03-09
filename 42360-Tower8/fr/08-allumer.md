@@ -4,10 +4,10 @@ Une fois branché, allumez votre *Energy Tower 8* mettez l'interrupteur à l'arr
 
 Nous recommandons que lorsque vous n'utilisez pas la tour pour une longue période de temps,  en plus d’éteindre la tour du panneau supérieur, vous mettez l'interrupteur arrière en position «OFF». 
 
-Affichage
+## Affichage
 
 L'Energy Tower 8 est équipée d'un écran rétroéclairé caché (Hidden Display) sur la partie supérieure avant. Lorsque l'appareil est sous tension, vous pouvez voir comment s’illumine le logo Energy Sistem TM sur le panneau supérieur. Cet écran s'illumine aussi et indique le mode dans lequel se trouve l'Energy Tower 8.
 
-Touchpad
+## Touchpad
 
 L'Energy Tower 8 dispose d'un écran tactile dans la partie supérieure depuis laquelle vous pouvez facilement contrôler toutes les fonctions. Pour une réponse correcte de l'écran tactile vous devez appuyer sur le touchpad avec les doigts nus.
