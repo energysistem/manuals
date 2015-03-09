@@ -10,4 +10,4 @@ L'Energy Tower 8 est équipée d'un écran rétroéclairé caché (Hidden Displa
 
 Touchpad
 
-L'Energy Tower 8 dispose d'un écran tactile dans la partie supérieure depuis laquelle vous pouvez facilement contrôler toutes les fonctions.
+L'Energy Tower 8 dispose d'un écran tactile dans la partie supérieure depuis laquelle vous pouvez facilement contrôler toutes les fonctions. Pour une réponse correcte de l'écran tactile vous devez appuyer sur le touchpad avec les doigts nus.
