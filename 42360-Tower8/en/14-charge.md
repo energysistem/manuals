@@ -1,8 +1,8 @@
-## Device Charging
+## Device Recharging
 
-The *Energy Tower 8* has a "DC OUT" by which you can connect a USB cable to charge another device like a smartphone or tablet while you are using it as a player.
+The *Energy Tower 8* features two "DC OUT" outputs that allow you to recharge your smartphone, tablet or MP3 player while using it.
 
-Output Specifications "DC OUT": <br>
+Output specifications "DC OUT": <br>
 
 Voltage = 5V <br>
 Maximum Current = 2.5 A
