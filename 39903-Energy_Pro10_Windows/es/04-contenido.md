@@ -2,6 +2,6 @@
 
 * Energy Tablet Pro 10 Windows.
 * Guía rápida.
-* Cable USB-HOST para conexión de dispositivos USB externos.
+* Cable USB-MicroUSB
 * Adaptador de corriente AC/DC (Europlug) 100-240VAC 50-60Hz.
 </quick_guide>
