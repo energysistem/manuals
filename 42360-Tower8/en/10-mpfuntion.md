@@ -1,17 +1,17 @@
 ## MP3 function with external memories
 
-In order to play MP3 files, insert an external memory such as a USB stick or a SD/MMC memory card in the corresponding slots, (13) and (10) respectively. You can see "USB" or "SD" on the display, according to the type of memory that you insert.
+To play MP3 files, insert an external memory such as a USB stick or a SD/MMC memory card into the corresponding slot, (13) and (10) respectively. "USB" or "SD" will appear on the display, deppending on the type of memory you are using.
 
-If you switch off the *Energy Tower 8* or remove the external memory of your device, when you insert again the same external memory, the lecture will continue at the same instant that you ended previously.
+If you switch off the *Energy Tower 8* or remove the external memory, the music playback will continue where it stopped.
 
-To go forward another track, use next (12) and previous (2) buttons. To move forward and backward in the same song, press hold for 4 seconds the forward (12) and back buttons (2) respectively.
-This will go directly to next or previous track. You can change the folder by (4) button.
+To skip a track, use next (12) and previous (2) buttons. To move forward and backward in the same song, press and hold for 4 seconds the forward (12) and back buttons (2).
+You can change the folder by pressing the button (4).
 
 ## Playback order
 
-The folders included in the memories are read in writing chronological order and all songs contained in these folders are read in alphabetical order.
+The folders included in the memories are read in chronological order and all songs contained in these folders are read in alphabetical order.
 
-For example: if after copying two folders of music called ‘A’ and ‘B’, we can copy first folder ‘B’ and later folder ‘A’, so the first played song will be first song in alphabetical order of ‘B’ folder.
+For example: after creating two folders called ‘A’ and ‘B’, we copy first the ‘B’ folder and then the ‘A’ folder. This way the first played song will be the first one from the ‘B’ folder.
 
 Here you have a diagram of the reading order:
 
