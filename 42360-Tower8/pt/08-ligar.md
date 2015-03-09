@@ -11,4 +11,4 @@ Quando o dispositivo é ligado, você pode ver como o logotipo Energy Sistem TM 
 
 ### Touchpad
 
-* A Energy Tower 8* tem um painel táctil na parte superior desde a qual você pode controlar todas as funções facilmente.
+* A Energy Tower 8* tem um painel táctil na parte superior desde a qual você pode controlar todas as funções facilmente. Para uma resposta correta do touchpad deve pressioná-lo com a ponta do dedo nua.
