@@ -10,3 +10,12 @@ Si vous désactivez *l'Energy Tower 8* ou retirez une des mémoires, le moment o
 Lorsque vous vous reconnectez la même mémoire, il continuera à jouer au moment où vous l'avez laissé. 
 
 Pour naviguer entre les pistes, utilisez les touches avancer (12) et reculer (2). Pour avancer ou reculer dans une chanson, appuyez pendant 4 secondes les boutons avancer (12) et reculer (2), respectivement. Vous pouvez également changer dossier en appuyant sur le bouton (4). 
+
+## Ordre de lecture 
+
+Les dossiers de mémoires externes sont lus dans l'ordre chronologique d'écriture et les chansons dans le dossier sont lues dans l'ordre alphabétique. 
+
+
+Trouvez ci-après un schéma de l'ordre de lecture: 
+
+![](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
