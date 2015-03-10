@@ -6,4 +6,5 @@ encender el ordenador.
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
 
 ##  Nota: Comprueba el amperaje de entrada admitido por tu dispositivo USB. Si el amperaje no es el
-correcto en cada caso, el dispositivo podría no cargar correctamente o dañarse. </quick_guide>
+correcto en cada caso, el dispositivo podría no cargar correctamente o dañarse. 
+</quick_guide>
