@@ -1,3 +1,7 @@
 # <quick_guide> Presentación general
 
-![IMAGEN GENERAL DEL PRODUCTO] (URL: http://static.energysistem.com/images/manuals/42180/543bb89526b40.jpg)
+
+1.- Conector NEMA Tipo A para la conexión a la red eléctrica.
+2.- Conector USB.
+
+</quick_guide>
