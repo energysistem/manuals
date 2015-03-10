@@ -34,3 +34,4 @@ Para avanzar o retroceder en una misma canción mantén pulsado los botones de A
 Cuando el nivel de la batería es bajo, el INDICADOR DE CARGA (6) empezará a parpadear. Para cargar la batería, conecta el extremo micro USB del cable USB (incluido) al propio *Energy Music Box Aquatic Bluetooth* (8), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (6) se ilumina en rojo y cuando la carga sea completa se apagará.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda no cargarla hasta que no se haya agotado completamente ni interrumpir el proceso de carga hasta que la batería este completamente cargada.
+
