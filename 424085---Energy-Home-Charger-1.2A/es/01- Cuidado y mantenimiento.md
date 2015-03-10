@@ -2,5 +2,4 @@
 
 - No expongas tu cargador Energy Home Charger 1.2A a golpes, polvo, fuego, luz solar directa, humedad o altas temperaturas.
 - No uses productos de limpieza corrosivos o abrasivos.
-- Mantén tu Energy Keyboard Pro 9 Windows 3G limpio y sin polvo, con un paño suave y seco, y realiza la limpieza mientras se encuentra desconectado de la Tablet.
 - No trates de desmontar el Energy Home Charger 1.2A. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
