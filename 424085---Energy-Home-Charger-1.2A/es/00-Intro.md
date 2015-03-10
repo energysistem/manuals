@@ -1,6 +1,6 @@
 ## <quick_guide> Introducción
 
-Energy Sistem te agradece la compra de tu nuevo Energy Keyboard Pro 9 Windows 3G. Deseamos que lo disfrutes.Carga tus dispositivos portátiles alimentados por USB de una forma rápida, cómoda, segura y sin
+Energy Sistem te agradece la compra de tu nuevo Energy Home Charger 1.2A. Deseamos que lo disfrutes.Carga tus dispositivos portátiles alimentados por USB de una forma rápida, cómoda, segura y sin
 encender el ordenador.
 
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
