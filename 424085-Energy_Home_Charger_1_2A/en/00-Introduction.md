@@ -1,6 +1,6 @@
 ## <quick_guide> Introduction
 
-Energy Sistem® thanks you for buying your new USB charger *Energy™ Home Charger 1.2A*. We
+Energy Sistem® thanks you for buying your new USB charger *Energy Home Charger 1.2A*. We
 wish you enjoy using it.
 It charges your device’s battery in a fast, easy and safe way, without turning on your PC.
 
