@@ -5,5 +5,5 @@ Pulsa la tecla **"Standby"** de tu mando a distancia para encender tu Android TV
 
 ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg)
 
-Pulsa de nuevo la tecla **"Standby"** de tu mando a distancia en cualquier momento para que tu Android TV Play entre en el modo STANDBY (de suspensión).
+Pulsa de nuevo la tecla **"Standby"** de tu mando a distancia en cualquier momento para que tu Android TV Play entre en el modo de suspensión.
 </quick_guide>
