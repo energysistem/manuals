@@ -10,7 +10,7 @@ Puedes comprobar la compatibilidad de tus otros dispositivos Android entrando es
 
 Para autorizar la pantalla de un dispositivo en tu Android TV Play sigue estos sencillos pasos para configurarlo por primera vez:
 
-1. Pulsa en el mando el botón ![Miracast](http://static.energysistem.com/images/manuals/42162/55001fcc851ce.jpg) o entra en la aplicación **Pantalla inalámbrica**. El dispositivo entrará entonces en el modo de recepción de señal. 
+1. Pulsa el botón ![Miracast](http://static.energysistem.com/images/manuals/42162/55001fcc851ce.jpg) en el mando de tu Android TV Play o entra en la aplicación **Pantalla inalámbrica**. El dispositivo entrará entonces en el modo de recepción de señal. 
 2. Activa la pantalla inalámbrica en el dispositivo que quieras contectar a tu Android TV Play, entrando en Ajustes / Pantalla / Pantalla de Cast o Pantalla inalámbrica, y marcando la casilla correspondiente. Puedes además cambiar el nombre con el que este dispositivo será detectado. 
 3. Pulsa en tu Android TV Play sobre "detectar dispositivos" y autoriza la conexión en ambos dispositivos.
 
