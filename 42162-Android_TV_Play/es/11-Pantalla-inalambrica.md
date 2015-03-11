@@ -1,6 +1,6 @@
 ## Pantalla inalámbrica
 
-![Miracast](http://static.energysistem.com/images/manuals/42162/550072f25bcd7.jpg)
+![Miracast](http://static.energysistem.com/images/manuals/42162/5500738594960.jpg)
 
 Tu Energy#trade# Android TV Play tiene incorporada la función de pantalla de cast inalámbrica para compartir la pantalla de tus dispositivos compatibles con tecnología Miracast#trade# en tu TV. 
 
