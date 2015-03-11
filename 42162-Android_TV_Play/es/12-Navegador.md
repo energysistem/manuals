@@ -8,6 +8,6 @@ Utiliza el teclado alfanumérico QWERTY para escribir direcciones web o término
 
 Usa las teclas de scroll rápido de pantalla para moverte verticalmente por las páginas web.
 
-Usa el "modo mouse" para moverte por los diferentes controles de la pantalla como lo harías con un ratón o dispositivo señalador.
+Pulsa el "modo mouse" ![](http://static.energysistem.com/images/manuals/42162/550074ee2ef1e.jpg) en tu teclado alfanumérico para moverte por los diferentes controles de la pantalla como lo harías con un ratón o dispositivo señalador.
 
 
