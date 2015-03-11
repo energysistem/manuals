@@ -1,6 +1,6 @@
 ##<quick_guide> Presentación general
 
-![](((Poner foto del dongle y salidas entradas.)))
+![](http://static.energysistem.com/images/manuals/42162/550031863b397.jpg)
 
 1. Conector HDMI de alta velocidad.
 2. Conector USB para cable de alimentación / Host Usb / Antena Wifi.
