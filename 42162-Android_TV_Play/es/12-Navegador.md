@@ -8,7 +8,7 @@ Una vez el dispositivo esté conectado y configurado a una red Wi-Fi, selecciona
 
 Utiliza el teclado alfanumérico QWERTY para escribir direcciones web o términos de búsqueda directamente.
 
-Usa las teclas de scroll rápido de pantalla para moverte verticalmente por las páginas web.
+Usa las teclas de scroll rápido de pantalla ![](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) para moverte verticalmente por las páginas web.
 
 Pulsa el "modo mouse" ![](http://static.energysistem.com/images/manuals/42162/5500755a0f503.jpg) en tu teclado alfanumérico para moverte por los diferentes controles de la pantalla como lo harías con un ratón o dispositivo señalador.
 
