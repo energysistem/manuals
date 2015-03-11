@@ -20,6 +20,6 @@
 - Remote control with full function control.
 - EQ pressets with manual setting option.
 
-- Speakers: 4" x 4 (core) + 1.5" x 2 (twitters) + 4" x 1 (subwoofer).
+- Speakers: 4" x 4 (core) + 1.5" x 2 (twitters) + 6.5" x 1 (subwoofer).
 - Frequency response: 20Hz-20KHz
 - Power supply: 120-240 V / 50-60 Hz.
