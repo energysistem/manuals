@@ -1,6 +1,6 @@
 ## <quick_guide> Declaración de Conformidad
 
-![CE](Poner aquí la imagen del logo CE)
+![CE](http://static.energysistem.com/images/manuals/42162/55007b7fa091d.jpg)
 
 Nombre del fabricante: Energy Sistem Soyntec S.A. 
 
