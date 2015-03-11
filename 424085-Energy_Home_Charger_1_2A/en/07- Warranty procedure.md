@@ -4,7 +4,7 @@ Visit the Support section at http://http://www.energysistem.com/en/support and s
 
 1. You can check the availability of the user manual in your language at http://www.energysistem.com/en/guide/
 
-*FALTA MANUAL EN WEB*
+**FALTA MANUAL EN WEB**
 
 2. Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
