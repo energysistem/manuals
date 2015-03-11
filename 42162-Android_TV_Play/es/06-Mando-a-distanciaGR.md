@@ -2,7 +2,7 @@
 
 <unique> Para la guía rápida, una referencia simple del mando, mando, botón on off, teclas direccionales y ok. Con eso es suficiente para posteriormente explicar el primer uso y la función principal (primer inicio). Para el manual se pone el resto. Hablar con el TPM para aclaraciones sobre la guía rápida.</unique>
 
-![] (http://static.energysistem.com/images/manuals/42162/54ca656071732.jpg)
+![] (http://static.energysistem.com/images/manuals/42162/55002aca7ca89.jpg)
 
 1. **Standby.** Permite cambiar entre el modo de Encendido y modo Standby (de suspensión).
 2. **Mute.** Permite conmutar la salida de sonido entre Encendido y Apagado.
@@ -14,7 +14,7 @@
 8. **Borrar.**
 9. **Grupo de teclas direccionales.**
 10. **OK.** Tecla de Selección / Aceptar.
-11. **Miracast.** Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
+11. **Pantalla Inalámbrica.** Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
 12. **Volver.**
 13. **Web.** Acceso directo al navegador por defecto.
 14. **Files.** Acceso directo al administrador de archivos y unidades.
