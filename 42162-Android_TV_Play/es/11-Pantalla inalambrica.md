@@ -2,7 +2,7 @@
 
 Tu Energy#trade# Android TV Play tiene incorporada la función de pantalla de cast inalámbrica para compartir la pantalla de tus dispositivos compatibles con tecnología Miracast#trade# en tu TV. 
 
-La tecnología Miracast viene incorporada de forma nativa en prácticamente todos los dispositivos con sistema Android a partir de su versión 4.2, y consiste en un nuevo protocolo  de comunicación multimedia que nos permitirá transmitir audio y vídeo mediante WiFi entre distintos dispositivos como smartphones, tablets, televisores, reproductores, etc. de forma fácil y sencilla.
+La tecnología Miracast viene incorporada de forma nativa en prácticamente todos los dispositivos con sistema Android a partir de su versión 4.2, y consiste en un nuevo protocolo  de comunicación multimedia que nos permitirá transmitir audio y vídeo mediante WiFi entre distintos dispositivos como smartphones, tablets, televisores, reproductores, etc. de forma sencilla.
 
 Podrás disfrutar en tu TV de la imagen de cualquier dispositivo compatible que se encuentre en nuestra zona de cobertura de señal Wi-Fi. No es necesario que ambos dispositivos estén conectados a internet, aunque es conveniente que el dispositivo de origen lo esté por si quieres descargar contenido de la red y compartirlo de esta forma.
 
