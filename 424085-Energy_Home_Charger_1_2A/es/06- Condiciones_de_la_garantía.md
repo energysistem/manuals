@@ -9,6 +9,6 @@ Esta garantía no será aplicable si el defecto ha sido causado por el comprador
 Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
 La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
 
-© 2012 por Energy Sistem®. Todos los derechos reservados.
+**© 2012 por Energy Sistem®. Todos los derechos reservados.**
 
 </quick_guide>
