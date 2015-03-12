@@ -11,11 +11,11 @@
 - Memoria ampliable con dispositivos USB externos.
 - Soporta teclado y ratón externos usb.
 - Avanzado navegador, soporta HTML 5 y Flash 11.1.
-- Consumo reducido de energía en modo standby de 0.5W máximo máximo, contribuyendo a la sostenibilidad del medio ambiente.
+- Consumo reducido de energía en modo standby de 0.5W máximo, contribuyendo a la sostenibilidad del medio ambiente.
 - Silencioso y compacto, tamaño pendrive para llevar contigo alla donde vayas.
-- Menú OSD en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
-- Instalación fácil e intuitiva, Plug and Play.
-- Conexiones: 1 x High Speed HDMI, 1 x micro USB DC / receptor IR, 1 x micro USB OTG / HOST.
+- Interfaz de usuario en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
+- Instalación fácil e intuitiva, Plug and Play, con asistente en pantalla.
+- Conexiones: 1 x High Speed HDMI, 1 x micro USB para cable DC con antena Wi-Fi y USB OTG / HOST, 1 x Jack 2,5mm para cable receptor IR.
 - Formatos compartibles: VIDEO: DivX, Xvid, AVI, MKV, MP4, MPG, ISO, IFO, MOV, M2TS, TS, WMV, VOB, DAT, RM, RMVB. / AUDIO: MP3, WMA, WAV, AAC, DD+, MPEG. / IMAGE: JPG, JPEG, BMP, PNG, GIF.
 - Compatible con dispositivos de almacenamiento externo con formato FAT/FAT32/NTFS/ExFAT, incluidos discos duros autoalimentados.
 - Adaptador AC/DC (Europlug); Input 100-240V; Output 5V/1.5A; 50/60 Hz.
