@@ -25,5 +25,5 @@ Usando la tecla **"Menu"** durante la reproducción musical puedes abrir el men�
 
 Puedes salir momentáneamente de la reproducción de video en cualquier momento pulsando **"Home"** o cualquier acceso directo a aplicación y volver a la reproducción instantánea justo en el punto donde se quedó anteriormente pulsando el acceso directo **"Video"** de tu mando a distancia. 
 
-Pulsando la tecla "Back" detendrá la reproducción por completo y volverá al explorador de archivos de video.
+Pulsando la tecla **"Back"** detendrá la reproducción por completo y volverá al explorador de archivos de video.
 
