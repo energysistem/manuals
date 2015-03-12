@@ -22,7 +22,7 @@ También puedes usar las teclas **"OK"** o **"Menu"** durante la el visionado de
 Para detener la reproducción:
 - Pulsa **"Stop"** directamente desde el mando a distancia.
 - Sal de la aplicación usando la tecla **"Back"** de tu mando a distancia.
-- Pulsa la tecla **"OK"** o **"Menu"** para mostrar el menú contextual, y a continuación pulsa "Detener". 
+- Pulsa la tecla **"OK"** o **"Menu"** para mostrar el menú contextual, y a continuación pulsa **"Detener"**. 
 
 Para salir de la aplicación:
 - Pulsa **"Home"** en tu mando a distancia para volver directamente a la pantalla principal.
