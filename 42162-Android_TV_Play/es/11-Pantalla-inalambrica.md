@@ -8,7 +8,7 @@ La tecnología Miracast#trade# viene incorporada de forma nativa en prácticamen
 
 Podrás disfrutar en tu TV de la imagen de cualquier dispositivo compatible que se encuentre en nuestra zona de cobertura de señal Wi-Fi. No es necesario que ambos dispositivos estén conectados a internet, aunque es conveniente que el dispositivo de origen lo esté por si quieres descargar contenido de la red y compartirlo de esta forma.
 
-Puedes comprobar la compatibilidad de tus otros dispositivos Android entrando es su menú **Ajustes / Pantalla / Pantalla de Cast** o **Pantalla Inalámbrica**. 
+Puedes comprobar la compatibilidad de tus otros dispositivos Android entrando en su menú **Ajustes / Pantalla / Pantalla de Cast** o **Pantalla Inalámbrica**. 
 
 Para autorizar la pantalla de un dispositivo en tu Android TV Play sigue estos sencillos pasos para configurarlo por primera vez:
 
