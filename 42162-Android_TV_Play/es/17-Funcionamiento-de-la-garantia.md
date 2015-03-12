@@ -4,10 +4,10 @@ Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto p
 
 1. Puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42162
 
-2. También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (teléfono de soporte técnico válido solo para España).
+2. También ponemos a tu disposición el teléfono para la gestión de garantía **902 294 294** (teléfono de soporte técnico válido solo para España).
 Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.
 
-3. Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra.
+3. Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
 
 *Importante:* Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica. Las especificaciones están sujetas a cambios sin previo aviso.
 
