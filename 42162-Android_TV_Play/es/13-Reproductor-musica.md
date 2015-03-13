@@ -23,6 +23,6 @@ También puedes usar la tecla *"Menu"* ![Menu](http://static.energysistem.com/im
 
 *Para salir de la aplicación sin detener la reproducción (Reproducción en segundo plano).*
 - Pulsa la tecla *"Home"* ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg). Volverás a la pantalla principal mientras continua la reproducción. Puedes pulsar las teclas de reproducción multimedia para pausar / continuar la reproducción, avanzar y retroceder rápidamente y pasar las canciones.
-- Pulsa las *teclas de acceso directo* a otras aplicaciones o *"Settings"*.
+- Pulsa las *teclas de acceso directo* a otras aplicaciones o *"Settings"* ![Settings](http://static.energysistem.com/images/manuals/42162/5502ba509ab6c.jpg).
 - Para detener la reproducción desde otra aplicación o pantalla, pulsa la tecla *"Detener"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) en el mando a distancia, o entra en la aplicación de nuevo pulsando sobre la tecla *"Music"* ![Music](http://static.energysistem.com/images/manuals/42162/5502b706b536b.jpg), para detener y volver al reproductor musical.
 
