@@ -1,4 +1,4 @@
-## <quick_guide> Mando a distancia.
+## <quick_guide> Mando a distancia
 
 ![] (http://static.energysistem.com/images/manuals/42162/55002aca7ca89.jpg)
 
@@ -40,8 +40,7 @@
 **Nota:** Las teclas de funciones especiales como avance, retroceso, play, pause, goto, scroll de página, menú contextual, etc. podrían no ser compatibles con todas las aplicaciones. La aplicación deberá estar diseñada para su uso con mando a distancia. Algunas aplicaciones están diseñadas exclusivamente para su control a través de pantalla táctil (Tablet, Smartphone...). Para este tipo de aplicaciones recomendamos el uso del modo "mouse" del mando, o la adquisición de un dispositivo señalizador tipo ratón. Puedes usar ratones con conexión USB o inalámbricos por señal RF, siempre que este disponga de receptor RF con conexión USB.
 
 
-*Instalación de las pilas.*
-
+###Instalación de las pilas
 Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
 
 (LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
