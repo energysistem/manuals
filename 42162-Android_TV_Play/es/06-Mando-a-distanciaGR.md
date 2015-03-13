@@ -39,9 +39,9 @@
 
 **Nota:** Las teclas de funciones especiales como avance, retroceso, play, pause, goto, scroll de página, menú contextual, etc. podrían no ser compatibles con todas las aplicaciones. La aplicación deberá estar diseñada para su uso con mando a distancia. Algunas aplicaciones están diseñadas exclusivamente para su control a través de pantalla táctil (Tablet, Smartphone...). Para este tipo de aplicaciones recomendamos el uso del modo "mouse" del mando, o la adquisición de un dispositivo señalizador tipo ratón. Puedes usar ratones con conexión USB o inalámbricos por señal RF, siempre que este disponga de receptor RF con conexión USB.
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor, creemos que esta es la mejor localización para el receptor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
+Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
 
-(LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
+#### (LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
 
 Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción.
 El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
@@ -50,7 +50,7 @@ El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de 
 
 Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
 
-(LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
+#### (LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
 
   1. Abrir la tapa.
   2. Insertar las pilas teniendo en cuenta la polaridad. 
