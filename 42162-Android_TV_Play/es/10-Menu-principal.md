@@ -26,5 +26,5 @@ Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas
 
       **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable izquierdo "Configuración".
 
-
+Pulsa la tecla "Home" desde cualquier aplicación para volver a esta pantalla en cualquier momento.
 
