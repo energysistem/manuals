@@ -24,7 +24,7 @@ Pulsando en el icono derecho de aplicaciones ![AppsIcon](http://static.energysis
 4. **Rejilla de accesos directos:**
 Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas seleccionado en la pestaña de lista de aplicaciones instaladas, dentro del desplegable "Aplicaciones". Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para cargar las aplicaciones. 
 
-      **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable "Configuración".
+      **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable izquierdo "Configuración".
 
 
 
