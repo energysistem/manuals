@@ -1,6 +1,6 @@
 ## Navegador Web
 
-Tu nuevo Energy#trade# Android TV Play dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás acceder a Internet de una forma rápida y sencilla.
+Tu nuevo Energy#trade# Android TV Play dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás acceder a Internet con compatibilidad HTML5 y Flash 11.1.
 
 ![WebBrowser](http://static.energysistem.com/images/manuals/42162/5502a943858ca.jpg)
 
