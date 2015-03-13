@@ -20,9 +20,9 @@ También puedes usar las teclas **"OK"** ![OK](http://static.energysistem.com/im
 - *Zoom*. Pulsa para hacer ampliaciones de la imagen en pantalla o reducir hasta volver al tamaño original. Durante la ampliación puedes usas las teclas direccionales para desplazarte por la imagen.
 
 Para detener la reproducción:
-- Pulsa **"Stop"** directamente desde el mando a distancia.
-- Sal de la aplicación usando la tecla **"Back"** de tu mando a distancia.
-- Pulsa la tecla **"OK"** o **"Menu"** para mostrar el menú contextual, y a continuación pulsa **"Detener"**. 
+- Pulsa **"Stop"** ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directamente desde el mando a distancia.
+- Sal de la aplicación usando la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) desde tu mando a distancia.
+- Pulsa la tecla **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) o **"Menu"** ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) para mostrar el menú contextual, y a continuación pulsa *"Detener"*. 
 
 Para salir de la aplicación:
 - Pulsa **"Home"** ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) en tu mando a distancia para volver directamente a la pantalla principal.
