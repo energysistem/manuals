@@ -5,3 +5,7 @@ También es posible disfrutar de tu *Energy Music Box B3 Bluetooth* sin necesida
 Es necesario tener el *Energy Music Box B3 Bluetooth* encendido para utilizar esta función.
 
 **NOTA:** Mientras se utiliza el altavoz en modo line-in, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+
+## Salida de línea.
+
+También puedes usar tu *Energy Music Box B3 Bluetooth* como receptor Bluetooth conectandolo a la entrada de línea de tu equipo de música o a tu TV mediante el conector Line-out (10) y el cable de audio con jack de 3,5mm.
