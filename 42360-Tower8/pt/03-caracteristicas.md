@@ -19,6 +19,6 @@
 - Equalizações predefinidas, com opção de ajuste manual.
 - Leitura de arquivos MP3 e WAV a partir de cartões e SD/SDHC/MMC e USB com capacidade de até 64GB. 
 - Formatos de reprodução de áudio (USB / SD): WAV e MP3. 
-- Alto-falantes: 4"x 4 (alto-falantes) + 1,5"x2 (twitters) + 4" x 1 (subwoofer).
+- Alto-falantes: 4"x 4 (alto-falantes) + 1,5"x2 (twitters) + 6.5" x 1 (subwoofer).
 - Frequência: 20Hz-20KHz 
 - Fonte de alimentação: 120-240 V / 50-60 Hz.
