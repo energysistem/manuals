@@ -6,9 +6,9 @@ Recomendamos que, quando a torre não estiver em uso por um longo período de te
 
 ### Display
 
-A *Energy Tower 5* é equipada com um display retroiluminado oculto (Hidden Display) na parte superior frontal.
+A *Energy Tower 8* é equipada com um display retroiluminado oculto (Hidden Display) na parte superior frontal.
 Quando o dispositivo é ligado, você pode ver como o logotipo Energy Sistem TM fica iluminado no painel superior. Além disso, este display fica também iluminado e indica o modo em que é a *Energy Tower 8*.
 
 ### Touchpad
 
-A Energy Tower 8* tem um painel táctil na parte superior desde a qual você pode controlar todas as funções facilmente. Para uma resposta correta do touchpad deve pressioná-lo com a ponta do dedo nua.
+A *Energy Tower 8* tem um painel táctil na parte superior desde a qual você pode controlar todas as funções facilmente. Para uma resposta correta do touchpad deve pressioná-lo com a ponta do dedo nua.
