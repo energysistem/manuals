@@ -1,6 +1,6 @@
 ## Télécommande 
 
-Avec la télécommande vous pouvez contrôler toutes les fonctions de *l'Energy Tower 5*. 
+Avec la télécommande vous pouvez contrôler toutes les fonctions de *l'Energy Tower 8*. 
 
 * Allumer et éteindre l'appareil. 
 
