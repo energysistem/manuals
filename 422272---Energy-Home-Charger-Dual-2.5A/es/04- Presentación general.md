@@ -2,6 +2,6 @@
 
 
 1. Conector Europlug (tipo C)  para la conexión a la red eléctrica.
-2. Doble conector USB.
+2. Doble puerto USB.
 
 </quick_guide>
