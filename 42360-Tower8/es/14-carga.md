@@ -1,6 +1,6 @@
 ## Carga de Dispositivos
 
-El *Energy Tower 8* dispone de una salida "DC OUT" (8) en la cual puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+El *Energy Tower 8* dispone de una salida "DC OUT" (9) en la cual puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
 Especificaciones salida "DC OUT": <br>
 
