@@ -1,10 +1,10 @@
 ## MP3 function with external memories
 
-To play MP3 files, insert an external memory such as a USB stick or a SD/MMC memory card into the corresponding slot, (13) and (10) respectively. "USB" or "SD" will appear on the display, deppending on the type of memory you are using.
+To play MP3 files, insert an external memory such as a USB stick or a SD/MMC memory card into the corresponding slot, (12) and (10) respectively. "USB" or "SD" will appear on the display, deppending on the type of memory you are using.
 
 If you switch off the *Energy Tower 8* or remove the external memory, the music playback will continue where it stopped.
 
-To skip a track, use next (12) and previous (2) buttons. To move forward and backward in the same song, press and hold for 4 seconds the forward (12) and back buttons (2).
+To skip a track, use next (13) and previous (2) buttons. To move forward and backward in the same song, press and hold for 4 seconds the forward (13) and back buttons (2).
 You can change the folder by pressing the button (4).
 
 ## Playback order
