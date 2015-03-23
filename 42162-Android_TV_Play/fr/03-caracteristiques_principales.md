@@ -12,7 +12,7 @@
 - Mémoire extensible avec des appareils USB externes.
 - Supporte pour clavier et souris USB.
 - Navigateur avancé, supporte HTML 5 et Flash 11.1.
-- Consommation réduite d'énergie en mode veille avec 0.5W maximale, n contribuant à l'amélioration et à la durabilité de l'environnement.
+- Consommation réduite d'énergie en mode veille avec 0.5W maximale, en contribuant à l'amélioration et à la durabilité de l'environnement.
 - Silencieux et compact, grandeur de la clé USB parfaite pour l'emmener où vous voulez. 
 - Interface utilisateur dans de multiples langues, intuitif et facile à utiliser avec votre TV.
 - Installation rapide et facile, Plug and Play, avec l'assistant.
