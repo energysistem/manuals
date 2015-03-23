@@ -28,7 +28,7 @@
 24. **Twitter#trade#.** Acceso directo a la aplicación.
 25. **Google Play#trade#.** Acceso directo a la tienda de apps.
 26. **YouTube#trade#.** Acceso directo a la aplicación.
-27. **Teclado alfanumérico.**
+27. **Clavier alfanumérico.**
 28. **Goto.** Permet d'accéder à un point sur la timeline du lecteur de musique ou de vidéo. Dans le texte d'introduction des changements dans le champ de saisie de texte suivant.
 29. **Shift.** Permet de commuter entre les lettres majuscules et minuscules et certains symboles.
 30. **Modo "Mouse"**. Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
