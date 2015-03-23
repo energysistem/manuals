@@ -1,4 +1,4 @@
-## Contenu du produit
+## <quick_guide> Contenu du produit
 
 - Energy Android TV Play.
 - Télécommande ergonimique et réversible avec clavier QWERTY.
@@ -7,3 +7,4 @@
 - Adaptateur AC/DC5V 1.5A (Europlug) 100-240VAC 50-60Hz.
 - Piles AAA.
 - Guide rapide.
+</quick_guide>
