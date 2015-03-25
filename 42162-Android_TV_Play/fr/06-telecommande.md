@@ -29,7 +29,7 @@
 25. **Google Play#trade#.** Accès direct au app store.
 26. **YouTube#trade#.** Accès direct à la application.
 27. **Clavier alphanumérique.**
-28. **Goto.** Permet d'accéder à un point sur la timeline du lecteur de musique ou de vidéo. Dans l'introduction de texte, change le champ  suivant de saisie de texte.
+28. **Goto.** Permet d'accéder à un point sur la timeline du lecteur de musique ou de vidéo. Dans la saisie de texte, change le champ  suivant de saisie de texte.
 29. **Shift.** Permet de commuter entre les lettres majuscules et minuscules et certains symboles.
 30. **Mode "Mouse"**. Permet de commuter entre les touches de direction pour les utiliser comme une souris.
 31. **Fn**. Touche de fonction. Permet d'accéder aux caractères spéciaux. Pour insérer des caractères spéciaux, appuyez et maintenez cette touche tout en appuyant sur la touche qui contient le caractère spécial. Les caractères spéciaux sont marqués en vert sur le clavier alphanumérique (27)
