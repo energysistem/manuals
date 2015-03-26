@@ -6,7 +6,7 @@ La garantie offerte par Energy Sistem™ couvre les défauts de matière ou de f
 
 La garantie de 36 mois est valable pour l'Union europeenne. Pour les autres pays, veuillez consulter la legislation en vigueur ou votre distributeur local.
 
-Tous les autres noms de produits ou d’entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
 © 2015 par Energy Sistem Soyntec S.A. Tous droits réservés.
 
