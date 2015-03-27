@@ -10,4 +10,4 @@ Your *Energy Music Box B3 Bluetooth* must be turned on in order to use this func
 
 ### Audio Output Connection.
 
-You can also use your Energy Music Box B3 Bluetooth like Bluetooth receiver connecting it to the line input on your stereo or your TV through the AUDIO OUT CONNECTION (10) with the audio cable with 3.5mm jack included.
+You can also use your *Energy Music Box B3 Bluetooth* like Bluetooth receiver connecting it to the line input on your stereo or your TV through the AUDIO OUT CONNECTION (10) with the audio cable with 3.5mm jack included.
