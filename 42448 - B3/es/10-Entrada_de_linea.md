@@ -1,4 +1,4 @@
-## Conexiones de entrada y salida de Audio. Modos Audio-In y Audio-Out.
+## Modos Audio-In y Audio-Out.
 ### Conexión de entrada de Audio. 
 
 También es posible disfrutar de tu *Energy Music Box B3 Bluetooth* sin necesidad de sincronizarlo con un dispositivo bluetooth, ya que cuenta con una CONEXIÓN DE ENTRADA DE AUDIO (14) en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5mm.
