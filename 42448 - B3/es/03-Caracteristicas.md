@@ -8,7 +8,7 @@
 * Altavoces con sistema de realce acústico: Sonido claro y con graves reforzados.
 * Potencia de salida total (RMS): 6 W.
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
-* Entrada "line-in" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
+* Entrada "Audio-In" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
 * Función manos libres Bluetooth®.
 * Batería de litio recargable.
 * Carga de batería a través de puerto microUSB.
@@ -22,7 +22,7 @@
 * Respuesta en frecuencia: 90 Hz ~ 20 KHz.
 * Relación señal/ruido: >80 dB.
 * Micrófono integrado (función manos libres).
-* Entrada "line-in" de 3.5 mm.
+* Entrada "Audio-In" de 3.5 mm.
 * Batería de litio recargable con una duración de hasta 5 horas.
 * Salida para auriculares.
 
