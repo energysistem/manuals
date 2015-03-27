@@ -8,7 +8,7 @@
 * Haut-parleurs avec système de relief acoustique: Son clair avec graves plus nets.
 * Puissance de sortie totale (RMS): 6 W.
 * Design compact et portable, vous permettra de l'emporter toujours avec vous et d'amplifier votre musique.
-* Entrée "line-in" de 3.5 mm: pour écouter votre musique n'importe où avec tout lecteur portable ou ordinateur.
+* Entrée "Audio-in" de 3.5 mm: pour écouter votre musique n'importe où avec tout lecteur portable ou ordinateur.
 * Fonction mains libres Bluetooth®.
 * Batterie de lithium rechargeable avec une durée jusqu'à 5 heures.
 * Chargement de la batterie à travers du port microUSB.
@@ -22,7 +22,7 @@
 * Réponse en fréquence: 90 Hz ~ 20 KHz.
 * Rapport signal/bruit: >80 dB.
 * Microphone inclut (fonction mains libres).
-* Entrée "line-in" de 3.5 mm.
+* Entrée "Audio-in" de 3.5 mm.
 * Batterie de lithium rechargeable.
 * Sortie pour les écouteurs.
 
