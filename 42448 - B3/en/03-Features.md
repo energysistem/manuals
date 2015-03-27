@@ -8,7 +8,7 @@
 - Loudspeakers with acoustic enhancement system: Clear sound and rich bass.
 - Total output power (RMS): 6W.
 - Portable and compact design, allows you to take it anywhere and amplify your music.
-- 3.5 mm "line-in" port: listen music with any portable player or even computer.
+- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
 - Bluetooth® handsfree function.
 - Rechargeable lithium battery.
 - microUSB port battery charger.
@@ -23,10 +23,10 @@
 - Frequency response: 90 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
 - Built-in microphone (handsfree function).
-- 3.5 mm "line-in" port.
+- 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
 - Rechargeable lithium battery up to 15 hours duration.*
-- Headphones output.
+- Audio output connection.
 
 ### Battery specifications
 
