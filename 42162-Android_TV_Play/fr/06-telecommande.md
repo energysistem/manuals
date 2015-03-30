@@ -36,3 +36,17 @@
 32. **Compartiment des piless (Type AAA)**.
  
 </quick_guide>
+
+**Note:** Les touches des fonctions spéciales comme avancer, reculer, lecture, pause, goto, scroll de page, menu contextuel, etc. pourraient ne pas être compatibles avec toutes les applications. L'application doit être conçue pour être utilisée avec la télécommande. Certaines applications sont conçues exclusivement pour le contrôle avec l'écran tactile (Tablette, Smartphone ...). Pour ces applications, nous recommandons l'utilisation du mode souris de la télécommande ! [Mouse] (http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg), ou l'acquisition d'un dispositif de pointage type souris. Vous pouvez utiliser la souris avec connexion USB ou un signal RF sans fil, à condition que le récepteur RF dispose de connexion USB.
+
+Pour l'utiliser, dirigez la télécommande vers la partie frontale du câble récepteur. Le câble récepteur pour la télécommande a une un capteur dans l'une des extrémités avec une surface adhésive pour le placer facilement et discrètement dans la partie frontale de la TV. Avant de le fixer, et en vue de garantir le positionnement stable, assurez-vous que la surface est totalement lisse, nettoyée avec un peu d'alcool et sèche. Retirez la protection du matériau adhésifet et collez le récepteur à proximité du centre de la TV.
+
+Assurez-vous que le champ visuel entre la télécommande et le récepteur ne soit pas obstruée pour assurer une meilleure réception. La télécommande dispose de 3 émetteurs de signal IR , un sur la partie verticale, et deux sur la face du clavier QWERTY, avec une portée de jusqu'à 7 mètres du récepteur avec un angle de jusqu'à 40 degrés dans les deux directions du récepteur. Si ces fonctionnalités sont réduites et le champ de vue entre la télécommande et le récepteur est dégagée, il est probable que la durée de vie des piles est épuisée. Ensuite, nous vous suggérons de remplacer les piles et toujours utiliser des piles alcalines.
+
+Installation des piles.
+
+Retirez le couvercle du compartiment de la batterie de la télécommande et placez 2 piles AAA. Le schéma suivant montre la façon correcte d'insérer les piles.
+
+1. Ouvrir le couvercle
+2. Insérer les piles en tenant compte de la polarité
+3. Fermer le couvercle
