@@ -10,7 +10,7 @@ Mientras el dispositivo esté encendido, el INDICADOR DE ENCENDIDO (9) se manten
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN DE ENTRADA DE AUDIO (14). A partir de entonces puedes pulsar el botón MODO (3) para cambiar entre los modos Audio-In y Bluetooth sin tener que desconectar el cable.
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN DE ENTRADA DE AUDIO (14). A partir de entonces puedes pulsar el botón CAMBIO DE MODO (3) para cambiar entre los modos Audio-In y Bluetooth sin tener que desconectar el cable.
 
 ### Carga de la batería
 
