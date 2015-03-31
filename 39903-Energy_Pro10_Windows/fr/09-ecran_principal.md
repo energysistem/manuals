@@ -1,6 +1,7 @@
 ## Écran Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39903/54e47639ea21c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
+
 1.	**Chercheur:** accès direct au moteur de rechercheWEB de Google#trade#
 2.	**Arrière:** permet de reculer vers l'écran antérieure dans l'application qui soit en fonctionnement dans ce moment
 3.	**Home:** retourner à l'écran principal
