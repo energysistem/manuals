@@ -1,9 +1,8 @@
 ## Soin et maintenance
-
-* Ne pas exposer votre *Energy Music Box Aquatic Bluetooth* à des chocs, à la poussière, à l'humidité ou à hautes températures.
-* Ne pas utiliser des produits corrosifs ou abrasifs.
+* Il est très important que vous vous assurez que le couvercle des connecteurs soit bien fermé avant de le mouiller. Appuyez votre pouce sur le dessus pour vous en assurer. Le couvercle doit être au ras de la grille. Autrement, ne mouillez pas l'appareil et contactez notre service client.*
+* Après avoir mouillé votre *Energy Music Box Aquatic Bluetooth*. Lavez-le avec de l'eau douce sans ouvrir le couvercle des connecteurs et séchez-le complètement. Ne pas utiliser des produits corrosifs ou abrasifs.
+* Ne pas exposer votre *Energy Music Box Aquatic Bluetooth* à des chocs ou à hautes températures.
 * Ne placez pas vos *Energy Music Box Aquatic Bluetooth* près des appareils qui émettent des champs électromagnétiques intenses.
-* Conserver les écouteurs propres et sans de la poussière, pour cela, utilisez un chiffon sec et doux.
 * Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Soyntec, S.A.
 * Assurez-vous d'avoir votre *Energy Music Box Aquatic Bluetooth* éteint s'il ne est pas utilisé.
 * Chargez la batterie quand elle soit épuisée pour prolonger sa durée.
