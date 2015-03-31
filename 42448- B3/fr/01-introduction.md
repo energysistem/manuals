@@ -5,4 +5,3 @@
 * Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profitant toutes ses performances.
 <unique>
 
-* Consultez le manuel entier de l'*Energy Music Box B3 Bluetooth* sur ce lien: http://www.energysistem.com/guide/42448
