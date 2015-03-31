@@ -16,5 +16,5 @@
 * Built-in omnidirectional microphone.
 * Motion sensor (accelerometer).
 * Battery capacity: 3.7v/7.000mAh.
-* Autonomy: Until 9 hours surfing in internet under Wi-Fi connection.
+* Autonomy: Until 5 hours surfing in internet under Wi-Fi connection.
 * AC/DC adapter 100-240v 50-60Hz DC 9V/2A.
