@@ -12,13 +12,13 @@ Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta 
 
 Si deseas sincronizar otro dispositivo Bluetooth®, basta con mantener pulsado el botón PLAY/PAUSA Y BUSQUEDA BLUETOOTH (3). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
 
-### Modo Line-in.
+### Modo Audio-In.
 
-Para cambiar a modo Line-in basta con conectar el cable de audio (incluido) a la CONEXIÓN LINE-IN (9) e iniciar la reproducción desde el dispositivo conectado.
+Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN AUDIO-IN (9) e iniciar la reproducción desde el dispositivo conectado.
 
-Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La reproducción en modo Bluetooth tiene prioridad sobre la reproducción en modo Line-in, es decir, para reproducir en modo Line-in la reproducción Bluetooth debe estar pausada o desconectada.
+Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La reproducción en modo Bluetooth tiene prioridad sobre la reproducción en modo Audio-In, es decir, para reproducir en modo Audio-In la reproducción Bluetooth debe estar pausada o desconectada.
 
-**NOTA:** Mientras se utiliza el modo Line-in, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+**NOTA:** Mientras se utiliza el modo Audio-In, no es posible controlar la reproducción desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
 
 ### Control de reproducción
 
