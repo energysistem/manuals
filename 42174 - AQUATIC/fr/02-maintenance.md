@@ -7,3 +7,5 @@
 * Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Soyntec, S.A.
 * Assurez-vous d'avoir votre *Energy Music Box Aquatic Bluetooth* éteint s'il ne est pas utilisé.
 * Chargez la batterie quand elle soit épuisée pour prolonger sa durée.
+
+Avis: L'appareil est submersible jusqu'à 1 mètre de profondeur seulement en mode sans fil en utilisant Bluetooth.
