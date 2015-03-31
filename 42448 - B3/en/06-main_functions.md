@@ -10,7 +10,7 @@ To turn off your device, press and keep 2 seconds the ON/OFF button (4).
 
 ### Changing play mode
 
-When you turn the device, pairing mode will start automatically. To change into "Audio-In" mode, you only need to connect audio cable (included) to the AUDIO INPUT CONEXION (14).
+When you turn the device, pairing mode will start automatically. To change into "Audio-In" mode, you only need to connect audio cable (included) to the AUDIO INPUT CONEXION (14). Thereafter, you can press the MODE button (3) to switch between the Audio-In and Bluetooth modes.
 
 ### Charging the battery
 
