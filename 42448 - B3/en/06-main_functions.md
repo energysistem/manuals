@@ -16,4 +16,4 @@ When you turn the device, pairing mode will start automatically. To change into 
 
 When the speaker stop emit sound or not turn on, is the time to charge it. Connect the microUSB end of the included USB cable in USB CONNECTION FOR BATTERY CHARGE (12) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED INDICATOR (11) will turn on in red color and when the charge is completed the LED will turn off.
 
-IMPORTANT NOTE: To keep the battery in good condition, it is recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
+*IMPORTANT NOTE*: To keep the battery in good condition, it is recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged.
