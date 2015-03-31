@@ -1,6 +1,7 @@
 ## Tela Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39903/54e47639ea21c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
+
 1. **Navegador:** acesso direito ao motor de busca WEB de Google #trade#
 2. **Atrás**: permite retroceder à tela anterior na aplicação que neste momento seja utilizada
 3. **Home:** volta à tela principal
