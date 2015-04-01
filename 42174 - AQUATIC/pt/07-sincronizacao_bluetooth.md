@@ -1,7 +1,9 @@
-## Sincronização Bluetooth
-Sempre que ligar seu *Energy Music Box B3 Bluetooth* automaticamente começará a pesquisa de dispositivos para estabelecer a sincronização bluetooth; ao mesmo tempo desde o seu dispositivo Bluetooth®, (telemóvel, tablet, portátil, etc.) inicia a pesquisa e sincronização de dispositivos. Quando identifique o  *Energy Music Box B3 Bluetooth* no seu dispositivo, seleciona a opção ligar.  A conexão será de imediato e sem necessidade de códigos. O altifalante reproduzirá um som que indica que a ligação estabelecida entre os dois dispositivos foi satisfatória.
+## Resistência à água.
 
-Para sincronizar de novo com o último dispositivo que conectou, ligue o *Energy Music Box B3 Bluetooth* e a sincronização será automática.
+O *Energy Music Box Aquatic Bluetooth* é submersível até 1 metro por um tempo máximo de 30 minutos, apenas no modo sem fio usando Bluetooth.
 
-Se você quer sincronizar outro dispositivo  Bluetooth®, aperte o botão de CONTROLE DE CHAMADA (5). Desta forma, a sincronização atual parará e realizarça uma nova pesquisa de dispositivos Bluetooth®.
+É muito importante que você tenha a certeza de que a TAMPA  DOS CONECTORES (11) está bem fechada antes de ser molhado. Pressione com o polegar por cima para ter certeza disso. A tampa deve estar nivelada com a grelha. Caso contrário, não molhe o aparelho e contacte nosso serviço ao cliente.
+
+Após molhar o seu *Energy Music Box Aquatic Bluetooth*, lave-o com água doce sem abrir a tampa dos conectores e seque completamente. Não use produtos de limpeza corrosivos ou abrasivos.
+
 
