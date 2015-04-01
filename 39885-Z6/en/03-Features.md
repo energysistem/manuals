@@ -11,7 +11,7 @@
 - USB memory decoder: plays MP3 files from USB memory drives with capacity up to 32 GB.
 - Portable and compact design, allows you to take it anywhere and amplify your music.
 - FM radio function: listen your favourite radio programs and share them with your people.
-- 3.5 mm "line-in" port: listen music with any portable player or even computer.
+- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
 - Rechargeable lithium battery up to 20 hours duration.*
 - USB port battery charger.
 - Headphones output.
@@ -29,7 +29,7 @@
 - Frequency response: 90 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
 - FM radio function.
-- 3.5 mm "line-in" port.
+- 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
 - USB battery charger.
 - Headphones output.
