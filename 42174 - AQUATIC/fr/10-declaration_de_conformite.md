@@ -7,7 +7,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 Déclarons sous notre seule responsabilité que le produit:
 
->**Energy Music Box B3 Bluetooth**
+>**Energy Music Box Aquatic Bluetooth**
 
 _**Pays de fabrication:**_ Chine
 Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 1999/5/EC du Parlement Européen et du Conseil du 09 mars 1999.
