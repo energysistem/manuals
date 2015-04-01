@@ -14,7 +14,7 @@
 - USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
 - Portable and compact design, allows you to take it anywhere and amplify your music.
 - FM radio function: listen your favourite radio programs and share them with your people.
-- 3.5 mm "line-in" port: listen music with any portable player or even computer.
+- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
 - Bluetooth® handsfree function.
 - Rechargeable lithium battery up to 20 hours duration.*
 - USB port battery charger.
