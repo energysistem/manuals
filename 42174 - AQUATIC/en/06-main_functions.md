@@ -1,6 +1,6 @@
 ## Main Functions
 
-### On / off and Bluetooth pairing
+### ON / OFF and Bluetooth pairing
 
 Use the On / off button (10) to turn on / off your device.
 
@@ -12,9 +12,9 @@ To pair the speaker with the last used device, to turn on the *Energy Music Box 
 
 If you want to pair another Bluetooth® device, keep the PLAY/PAUSE AND BT PARING button (3) pressed. The current pairing process will stop and the device will start again with the Bluetooth® synchronization.
 
-### Line-In mode.
+### Audio-In mode.
 
-In order to use the Line-n mode simply connect the audio cable with 3.5 mm jack connector (included) to the LINE-IN CONNECTION (9) and start the music playback from the connected device.
+In order to use the Line-n mode simply connect the audio cable with 3.5 mm jack connector (included) to the AUDIO-IN CONNECTION (9) and start the music playback from the connected device.
 
 You can have another device connected via Bluetooth, but in order to playback your music via Line-In the Bluetooth mode must be paused or disabled.
 
