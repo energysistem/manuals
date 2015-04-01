@@ -1,21 +1,27 @@
 ## Fonctions principales
 
-### Allumage et éteint de l'appareil
+### Allumage, éteint et synchronisation Bluetooth
 
-Utilizez le bouton ON/OFF (4) pour allumer ou éteindre l'appareil.
+Utilizez le bouton ON/OFF (10) pour allumer ou éteindre l'appareil.
 
-Pour allumer l'appareil, appuyez sur le bouton ON/OFF (4) pendant 2 seconds. Le DISPLAY (8) s'allumera, premièrement avec l'icone du coeur.
+Lorsque vous allumez l'appareil, vous entendrez le message vocal "POWER ON" et le LED bleue commence à clignoter. En quelques secondes, vous entendrez le message "Paring". L'appareil est prêt pour la synchronisation Bluetooth.
 
-Pour éteindre l'appareil, appuyez sur le bouton ON/OFF (4) pendant 2 seconds.
+En même temps, de votre (mobile, tablette, ordinateur portable, etc.) démarrez la recherche de périphériques Bluetooth® et la synchronisation de l'appareil. Une fois l’Energy Music Box Aquatic Bluetooth identifié sur votre appareil, sélectionnez connecter. La connexion est créée immédiatement, sans codes. Le haut-parleur reproduira un son indiquant que la connexion entre les deux appareils est correcte.
 
-Quand l'appareil soit allumé, le DISPLAY (8) sera allumé en bleu avec l'icone du coeur.
+Pour synchroniser à nouveau avec le dernier appareil qui a été couplé, tournez simplement l’Energy Music Box Aquatic Bluetooth et la synchronisation se effectuera automatiquement.
 
-### Changement de mode de lecture
+Si vous souhaitez synchroniser un autre appareil Bluetooth®, il suffit de maintenir la touche PLAY / PAUSE ET RECHERCHE BLUETOOTH (3) enfoncée. Ainsi, la synchronisation en cours s’arrête et une nouvelle recherche des appareils Bluetooth sera effectuée. 
 
-Quand vous allumez l'appareil, la recherche d'appareils bluetooth commencera automatiquement. Pour passer en mode line-in, connectez le câble audio (inclut) à la connexion LINE-IN (14).
+### Contrôle de la lecture
+
+Une fois l’Energy Music Box Aquatic Bluetooth couplé vous pouvez contrôler le volume de lecture de l'enceinte. Pour ce faire, cliquez sur "VOLUME -" boutons (2) ou "VOLUME +" (4).
+
+Pour mettre la lecture en pause ou reprendre la reproduction, appuyez une fois sur le bouton PLAY / PAUSE (3).
+
+Pour avancer ou reculer une chanson appuyez sur les boutons AVANCER (5) ou RECULER (1). Pour avancer ou reculer dans une chanson maintenez enfoncés les boutons AVANCER (5) ou RECULER (1).
 
 ### Chargement de la batterie.
 
-Quand l'haut-parleur n'émet pas de son, c'est le moment de le charger, pour cela, connectez-le sur le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box B3 Bluetooth* (11), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (10) s'allume en rouge et quand la charge soit complète s'éteint.
+Quand le niveau de la batterie n'émet pas de son, c'est le moment de le charger, pour cela, connectez-le sur le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box Aquatic Bluetooth* (11), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (10) s'allume en rouge et quand la charge soit complète s'éteint.
 
 **AVIS IMPORTANT:** Pour mantenir la batterie en bon état, il est fortement conseillé de ne pas la charger jusqu'au son épuisement. De la même façon, ne pas interrompre le processus de chargement jusqu'à qu'elle soit complètement chargée.
