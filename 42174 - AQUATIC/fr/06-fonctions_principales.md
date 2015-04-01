@@ -12,6 +12,15 @@ Pour synchroniser à nouveau avec le dernier appareil qui a été couplé, tourn
 
 Si vous souhaitez synchroniser un autre appareil Bluetooth®, il suffit de maintenir la touche PLAY / PAUSE ET RECHERCHE BLUETOOTH (3) enfoncée. Ainsi, la synchronisation en cours s’arrête et une nouvelle recherche des appareils Bluetooth sera effectuée. 
 
+
+### Mode Audio-In.
+
+Pour changer au mode Audio-In, il suffit de brancher le câble audio (inclut) à la CONNEXION AUDIO-IN (9) et démarrer la lecture à partir du périphérique connecté.
+
+Simultanément, vous pouvez connecter un autre appareil via Bluetooth. La lecture en mode Bluetooth remplace le mode de lecture Audio-In, c’est à dire, pour lire en mode Audio-In la lecture Bluetooth doit être en pause ou déconnecté.
+
+AVIS : Lorsque le mode Audio-In est utilisé, il n’est pas possible de contrôler la lecture de l'enceinte, il est donc nécessaire d’effectuer ces actions du lecteur connecté.
+
 ### Contrôle de la lecture
 
 Une fois l’Energy Music Box Aquatic Bluetooth couplé vous pouvez contrôler le volume de lecture de l'enceinte. Pour ce faire, cliquez sur "VOLUME -" boutons (2) ou "VOLUME +" (4).
