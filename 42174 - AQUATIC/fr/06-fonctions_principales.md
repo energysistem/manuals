@@ -6,7 +6,7 @@ Utilizez le bouton ON/OFF (10) pour allumer ou éteindre l'appareil.
 
 Lorsque vous allumez l'appareil, vous entendrez le message vocal "POWER ON" et le LED bleue commence à clignoter. En quelques secondes, vous entendrez le message "Paring". L'appareil est prêt pour la synchronisation Bluetooth.
 
-En même temps, de votre (mobile, tablette, ordinateur portable, etc.) démarrez la recherche de périphériques Bluetooth® et la synchronisation de l'appareil. Une fois l'Energy Music Box Aquatic Bluetooth identifié sur votre appareil, sélectionnez connecter. La connexion est créée immédiatement, sans codes. Le haut-parleur reproduira un son indiquant que la connexion entre les deux appareils est correcte.
+En même temps, de votre (mobile, tablette, ordinateur portable, etc.) démarrez la recherche de périphériques Bluetooth® et la synchronisation de l'appareil. Une fois l'Energy Music Box Aquatic Bluetooth identifié sur votre appareil, sélectionnez "Connecter". La connexion est créée immédiatement, sans codes. Le haut-parleur reproduira un son indiquant que la connexion entre les deux appareils est correcte.
 
 Pour synchroniser à nouveau avec le dernier appareil qui a été couplé, tournez simplement l'Energy Music Box Aquatic Bluetooth et la synchronisation se effectuera automatiquement.
 
