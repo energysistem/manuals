@@ -6,7 +6,7 @@ Utiliza o botão ON/OFF (4) para ligar o desligar o dispositivo.
 
 Quando você ligue o dispositivo ouvirá a mensagem de voz "Power ON" e o LED azul de modo (7) começará a piscar. Dentro de poucos segundos você vai ouvir a mensagem "Pairing". Nesse momento o dispositivo está pronto para a sincronização Bluetooth. 
 
-Ao mesmo tempo, a partir do seu dispositivo Bluetooth® (móvel, tablet, laptop, etc.) inicie a procura e sincronização de dispositivos. Uma vez que já identificou o Energy Music Box Aquatic  Bluetooth  no seu dispositivo, seleccione Conectar. A ligação é criada imediatamente sem códigos. O alto-falante irá tocar um som indicando que a conexão entre os dois aparelhos estão configuradas correctamente.
+Ao mesmo tempo, a partir do seu dispositivo Bluetooth® (móvel, tablet, laptop, etc.) inicie a procura e sincronização de dispositivos. Uma vez que já identificou o Energy Music Box Aquatic  Bluetooth  no seu dispositivo, seleccione "Conectar". A ligação é criada imediatamente sem códigos. O alto-falante irá tocar um som indicando que a conexão entre os dois aparelhos estão configuradas correctamente.
 
 Para sincronizar de novo com o último dispositivo que conectou, ligue o Energy Music Box Aquatic Bluetooth e a sincronização será automática.
 
