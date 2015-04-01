@@ -5,13 +5,13 @@
 * Transfere e desfruta da tua música através da conexão sem fio com a tecnologia Bluetooth®.
 * Compatibilidade total com smartphones e tablets iOS, Android™, Windows Mobile, BlackBerry, etc.
 * Liberdade de som: Escuta e compartilha tua música em qualquer lugar, sem cabos.
+* Desenho submersível até 1 metro por até 30 minutos no modo sem fio Bluetooth.
 * Altifalantes com sistema de melhora acústica: Som claro e graves reforçados.
-* Potência de saída total (RMS): 6 W.
-* Desenho compacto e portátil, lhe permitirá levar-lho contigo facilmente em todo lugar e amplificar sua música.
+* Potência de saída total (RMS): 6W.
+* Desenho compacto, submersível e portátil, lhe permitirá levar-lho con você facilmente em todo lugar.
 * Entrada "line-in" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
-* Função mãos livres Bluetooth®.
-* Bateria de lítio recarregável com uma duração de até 5 horas.
-* Carregamento de bateria através da porta USB.
+* Bateria de lítio recarregável com porta USB.
+
 
 ### Características técnicas
 
@@ -19,22 +19,22 @@
 * Suporta arquivos A2DP e AVRCP.
 * Fácil sincronização com tablets, Smartphones, Portáteis, MAC, PC, PS3  qualquer outro dispositivo Bluetooth®.
 * Alto-falantes 2.0 com sistema de melhora acústica.
-* Potência de saída total (RMS):6 W.
-Resposta em frequência: 90 Hz ~ 20 KHz.
+* Potência de saída total (RMS): 6W.
+Resposta em frequência: 80 Hz ~ 20 KHz.
 Rácio sinal/ruído: >80 dB.
-* Microfone integrado (função mãos livres).
 * Entrada "line-in" de 3.5 mm.
-* Bateria de lítio recarregável.
-* Saída para fones.
+* Bateria de lítio recarregável com uma duração de até 10 horas.
+
 
 
 
 ### Características da bateria de lítio recarregável
 
-* Capacidade nominal: 1050 mA.
+* Capacidade nominal: 1200 mA.
 * Voltagem nominal: 3.7V.
-* Autonomia em modo radio: 15 horas.*
-* Autonomia em modo música: 12 horas.*
-* Autonomia em modo Bluetooh: 10 horas.*
+* Autonomia em modo Bluetooh: 8 horas.*
+* Autonomia em modo Line-in: 10 horas.*
+
+
 <br/><br/>
  *A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria.
