@@ -15,7 +15,7 @@
 - Décodeur de mémoires USB: lit des fichiers MP3/WAV depuis la mémoire flash USB avec une capacité jusqu'à 32 GB.
 - Design compact et portable ce qui vous permet de l'emmener partout et d'amplifier votre son.
 - Fonction radio FM: Écoutez votre programme de radio favorit et partagez-le avec vos proches.
-- Entrée "line-in" de 3.5 mm: pour écouter de la musique avec tout sorte de lecteur portable ou d'ordinateur.
+- Entrée "Audio-In" de 3.5 mm: pour écouter de la musique avec tout sorte de lecteur portable ou d'ordinateur.
 - Bluetooth® fonction mains livres.
 - Batterie en lithium rechargeable avec une durée de 20 heures.*
 - Chargement de la batterie à travers du port USB.
@@ -37,7 +37,7 @@
 - Fonction Radio FM.
 - Microphone inclut (fonction mains livres).
 - Display rétro-éclairé.
-- Entrée "line-in" de 3.5 mm.
+- Entrée "Audio-In" de 3.5 mm.
 - Batterie en lithium rechargeable.
 - Chargeur batterie USB.
 - Sortie pour écouteurs.
