@@ -2,7 +2,7 @@
 
 ### Encendido, apagado y sincronización Bluetooth.
 
-Utiliza el interruptor ON/OFF(10) para encender o apagar el dispositivo.
+Utiliza el INTERRUPTOR ON/OFF(10) para encender o apagar el dispositivo.
 
 Al encenderlo escucharás el mensaje de voz "Power ON" y el LED azul de modo (7) empezará a parpadear. A los pocos segundos escucharás el mensaje "Paring". En ese momento el dispositivo está listo para realizar la sincronización Bluetooth.
 
