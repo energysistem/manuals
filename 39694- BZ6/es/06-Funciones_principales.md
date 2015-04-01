@@ -12,7 +12,7 @@ Mientras el dispositivo esté encendido, el DISPLAY (8) se mantendrá iluminado 
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo line-in basta con conectar el cable de audio (incluido) a la CONEXIÓN LINE-IN (14). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3).
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN AUDIO-IN (14). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3).
 
 </quick_guide>
 
