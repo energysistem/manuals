@@ -11,7 +11,7 @@ To turn off your device, press and keep 2 seconds the ON/OFF button (4).
 
 ### Changing play mode
 
-When you turn the device, pairing mode will start automatically. To change into "line-in" mode, you only need to connect audio cable (included) to the line-in connection (14). Press the MODE button (3) to switch between different playback modes.
+When you turn the device, pairing mode will start automatically. To change into "Audio-In" mode, you only need to connect audio cable (included) to the Audio-In connection (14). Press the MODE button (3) to switch between different playback modes.
 
 
 </quick_guide>
