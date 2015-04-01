@@ -14,7 +14,7 @@
 - Descodificador de memórias USB: reproduz arquivos MP3/WAV desde memoria flash USB com capacidade de até 32 GB.
 - Desenho compacto e portátil, permitirá-lhe levá-lo com si e melhorar sua música.
 - Função radio FM: Escute seu programa de radio favorito e compartilhe-lo com todos.
-- Entrada "line-in" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
+- Entrada "Audio-In" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
 - Bateria de lítio recarregável com uma duração de 20 horas.*
 - Carregamento de bateria através do porto USB.
 <br/><br/>
@@ -35,7 +35,7 @@
 - Função radio FM.
 - Microfone integrado (função mãos livres).
 - Display retroiluminado.
-- Entrada "line-in" de 3.5 mm.
+- Entrada "Audio-In" de 3.5 mm.
 - Bateria de lítio recarregável.
 - Carregador de bateria USB.
 - Saída para fones.
