@@ -2,7 +2,7 @@
 
 ### Caractéristiques générales
 
-* 
+ 
 - Transfèrez et profitez votre musique à travers de la connexion sans fils grâce à la tecnologie Bluetooth®.
 - Compatibilité totale avec des smartphones et tablettes iOS, Android™, Windows Mobile, BlackBerry, etc.
 - Lecteur portable Radio MP3.
