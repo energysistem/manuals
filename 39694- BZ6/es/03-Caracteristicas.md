@@ -36,7 +36,7 @@
 - FM radio function.
 - Built-in microphone (handsfree function).
 - Backlit display.
-- 3.5 mm "line-in" port.
+- 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
 - USB battery charger.
 - Headphones output.
