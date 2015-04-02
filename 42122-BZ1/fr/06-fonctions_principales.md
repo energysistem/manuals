@@ -1,5 +1,5 @@
-## Fonctions principales
-<quick_guide>
+## <quick_guide>Fonctions principales
+
 ### Marche et arrêt de l'appareil
 
 Utilisez le bouton ON/OFF(9) pour allumer ou éteindre l'appareil.
