@@ -1,4 +1,4 @@
-## Entrada em linha
+## Conexão de entrada Áudio.
 
 Também é possível desfrutar do seu *Energy Music Box B3 Bluetooth* sem necessidade de uma sincronização com o dispositivo bluetooth, já que conta com uma entrada em linha (14) na que pode ligar seu leitor através de um cabo audio com jack de 3,5mm.
 É preciso ter o *Energy Music Box B3 Bluetooth* ligado para utilizar esta função.
