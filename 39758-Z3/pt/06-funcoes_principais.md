@@ -12,7 +12,7 @@ Quando o dispositivo estiver ligado, o DISPLAY (8) permanece iluminado em cor az
 
 ### Mudar o modo de leitura
 
-Ao ligar automaticamente o dispositivo, é iniciado o modo de entrada de linha. Ligue o cabo de áudio (incluido) na saída de qualquer leitor e à entrada LINE-IN (13) do *Energy Music Box Z3* para utilizar o modo de altifalante. Para mudar entre os diferentes modos de leitura, aperte o botão MODO (3).
+Ao ligar automaticamente o dispositivo, é iniciado o modo de entrada de linha. Ligue o cabo de áudio (incluido) na saída de qualquer leitor e à entrada AUDIO-IN (13) do *Energy Music Box Z3* para utilizar o modo de altifalante. Para mudar entre os diferentes modos de leitura, aperte o botão MODO (3).
 
 </quick_guide>
 
