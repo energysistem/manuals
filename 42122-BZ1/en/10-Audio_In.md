@@ -1,4 +1,4 @@
-## Line-in
+## Audio-In
 
 It is also possible to enjoy your *Energy Music Box BZ1 Bluetooth* without pairing it with any bluetooth device thanks to its Audio-In connection (7) in which you can connect an audio cable with a 3.5mm jack connector and the other end to your player. 
 
