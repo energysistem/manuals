@@ -1,7 +1,7 @@
-##<quick_guide> Encendido y apagado
-Después de que todas las conexiones se hayan realizado correctamente, estarás listo para tu Android TV Play. Enciende el televisor y asegúrate de que el dispositivo está conectado a la red eléctrica. 
+##<quick_guide> Allumer et éteindre
+Après toutes les connexions faites correctement, vous êtes prêt pour votre Android TV Play. Allumez le téléviseur et assurez-vous que l'appareil est branché au réseau électrique.
 
-Pulsa la tecla **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg) de tu mando a distancia para encender tu Android TV Play.
+Appuyez sur **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg) sur votre télécommande pour allumer votre téléviseur Android Play.
 
-Pulsa de nuevo la tecla **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg)de tu mando a distancia en cualquier momento para que tu Android TV Play entre en el modo de suspensión.
+Appuyez à nouveau **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg)de votre télécommande à tout moment pour que votre Android TV Play passe en mode veille.
 </quick_guide>
