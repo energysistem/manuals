@@ -12,7 +12,7 @@ Mientras el dispositivo esté encendido, el DISPLAY (8) se mantendrá iluminado 
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia en modo entrada de línea. Conecta el cable de audio (incluido) a la salida de cualquier reproductor y a la entrada LINE-IN (13) del *Energy Music Box Z3* para usar el modo de altavoz. Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3).
+Al encender el dispositivo, automáticamente se inicia en modo entrada de línea. Conecta el cable de audio (incluido) a la salida de cualquier reproductor y a la entrada AUDIO-IN (13) del *Energy Music Box Z3* para usar el modo de altavoz. Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (3).
 
 </quick_guide>
 
