@@ -14,7 +14,7 @@
 * [Bluetooth Pairing](07-bluetooth_pairing.md)
 * [Play Control](08-play_control.md)
 * [Talk Control](09-talk_control.md)
-* [Line-in](10-line_in.md)
+* [Audio-In](10-Audio_In.md)
 * [Radio FM](11-radio_fm.md)
 <<<<<<< HEAD
 * [External memories](12-external_memories.md)
