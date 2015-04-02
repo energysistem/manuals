@@ -2,7 +2,6 @@
 
 * Do not expose your *Energy Music Box BZ6 Bluetooth* to shock, dust, humidity or high temperatures.
 * Do not use abrasive or corrosive cleaning products.
-* Do not place your *Energy Music Box BZ6 Bluetooth* close to devices that emit strong magnetic fields.
 * Keep your speaker clean and dust them with a soft dry cloth.
 * Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
 * Be sure to keep your *Energy Music Box BZ6 Bluetooth* turned off while not in use.
