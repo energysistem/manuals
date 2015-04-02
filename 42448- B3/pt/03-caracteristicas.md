@@ -8,7 +8,7 @@
 * Altifalantes com sistema de melhora acústica: Som claro e graves reforçados.
 * Potência de saída total (RMS): 6 W.
 * Desenho compacto e portátil, lhe permitirá levar-lho contigo facilmente em todo lugar e amplificar sua música.
-* Entrada "line-in" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
+* Entrada "Audio-In" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
 * Função mãos livres Bluetooth®.
 * Bateria de lítio recarregável com uma duração de até 5 horas.
 * Carregamento de bateria através da porta USB.
@@ -23,7 +23,7 @@
 Resposta em frequência: 90 Hz ~ 20 KHz.
 Rácio sinal/ruído: >80 dB.
 * Microfone integrado (função mãos livres).
-* Entrada "line-in" de 3.5 mm.
+* Entrada "Audio-In" de 3.5 mm.
 * Bateria de lítio recarregável.
 * Saída para fones.
 
