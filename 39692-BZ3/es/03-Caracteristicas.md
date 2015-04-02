@@ -14,7 +14,7 @@
 * Decodificador de memorias USB: reproduce archivos MP3 desde memoria flash USB con capacidad de hasta 32 GB.
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
 * Función radio FM: Escucha tu programa de radio favorito y compártelo con los tuyos.
-* Entrada "line-in" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
+* Entrada "Audio-In" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
 * Función manos libres Bluetooth®.
 * Batería de litio recargable con una duración de hasta 5 horas.
 * Carga de batería a través de puerto USB.
@@ -34,7 +34,7 @@
 * Función radio FM.
 * Micrófono integrado (función manos libres).
 * Display retroiluminado.
-* Entrada "line-in" de 3.5 mm.
+* Entrada "Audio-In" de 3.5 mm.
 * Batería de litio recargable.
 * Cargador de batería USB.
 * Salida para auriculares.
