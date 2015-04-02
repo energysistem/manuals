@@ -1,6 +1,6 @@
-## Line-in
+## Audio-In
 
-To use the Line-in function, connect one end of the audio cable (included) in the LINE-IN connector (13), and the other end in the output of any audio device, such like an MP3 player, a laptop or Smartphone.
+To use the Audio-In function, connect one end of the audio cable (included) in the AUDIO-IN connector (13), and the other end in the output of any audio device, such like an MP3 player, a laptop or Smartphone.
 
 Your *Energy Music Box Z3* must be turned on in order to use this function.
 
