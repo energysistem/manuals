@@ -12,7 +12,7 @@ Quand l'appareil soit allumé, le DISPLAY (8) sera allumé en bleu avec l'icone 
 
 ### Changement de mode de lecture
 
-Quand vous allumez l'appareil, s'initiera automatiquement en mode entrée de ligne. Branchez le câble audio (inclut) à la sortie de tout lecteur et à l'entrée LINE-IN (13) de l'*Energy Music Box Z6* pour utiliser le mode de l'haut-parleur. Pour changer entre les différents modes de lecture, appuyez sur MODE (3).
+Quand vous allumez l'appareil, s'initiera automatiquement en mode entrée de ligne. Branchez le câble audio (inclut) à la sortie de tout lecteur et à l'entrée AUDIO-IN (13) de l'*Energy Music Box Z6* pour utiliser le mode de l'haut-parleur. Pour changer entre les différents modes de lecture, appuyez sur MODE (3).
 
 </quick_guide>
 
