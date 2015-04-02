@@ -1,5 +1,5 @@
-## Funciones Principales
-<quick_guide>
+##<quick_guide> Funciones Principales
+
 ### Encendido y apagado del dispositivo
 
 Utiliza el botón ON/OFF(9) para encender o apagar el dispositivo.
