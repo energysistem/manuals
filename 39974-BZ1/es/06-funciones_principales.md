@@ -12,7 +12,7 @@ Mientras el dispositivo esté encendido, el LED indicador (5) se mantendrá ilum
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo line-in basta con conectar el cable de audio (incluido) a la conexión line-in (7). En modo line-in el indicador LED (5) cambia a color verde fijo. 
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la conexión Audio-In (7). En modo Audio-In el indicador LED (5) cambia a color verde fijo. 
 
 </quick_guide>
 
