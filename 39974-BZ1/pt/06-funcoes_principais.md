@@ -12,7 +12,7 @@ Enquanto o dispositivo seja ligado, a LED indicador (5) estará em cor verde ou 
 
 ### Mudar o modo de leitura
 
-Quando ligue o dispositivo, automaticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar ao modo line-in tem que ligar o cabo de áudio (incluído) à conexão line-ine (7). Para mudar entre os diferentes modos de leitura, aperte o botão menu (6). Em modo line-in o indicador LED (5) muda a cor verde fixa.
+Quando ligue o dispositivo, automaticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar ao modo Audio-In tem que ligar o cabo de áudio (incluído) à conexão Audio-In (7). Para mudar entre os diferentes modos de leitura, aperte o botão menu (6). Em modo Audio-In o indicador LED (5) muda a cor verde fixa.
 
 </quick_guide>
 
