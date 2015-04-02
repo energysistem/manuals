@@ -6,8 +6,6 @@
 
 * No expongas tu *Energy Music Box Aquatic Bluetooth* a golpes o altas temperaturas.
 
-* No sitúes tu *Energy Music Box Aquatic Bluetooth* cerca de dispositivos que emitan campos electromagnéticos intensos.
-
 * No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec, S.A.
 
 * Asegúrate de mantener tu *Energy Music Box Aquatic Bluetooth* apagado cuando no este en uso.
