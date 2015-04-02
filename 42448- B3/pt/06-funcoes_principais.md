@@ -12,7 +12,7 @@ Quando o dispositivo estiver ligado, o DISPLAY (8) permanece iluminado em cor az
 
 ### Mudar o modo de leitura
 
-Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar a modo line-in basta conectar o cabo audio (incluido) à CONEXÃO LINE-IN (14). Para mudar entre os diferentes modos de leitura, aperte o botão MODO (3).
+Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar a modo Audio-In basta conectar o cabo audio (incluido) à CONEXÃO AUDIO-IN (14). Para mudar entre os diferentes modos de leitura, aperte o botão MODO (3).
 
 
 ### Carga da bateria
