@@ -6,8 +6,6 @@
 
 * Do not expose your *Energy Music Box Aquatic Bluetooth*  to shock or high temperatures.
 
-* Do not place your *Energy Music Box Aquatic Bluetooth*  close to devices that emit strong magnetic fields.
-
 * Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
 
 * Be sure to keep your *Energy Music Box Aquatic Bluetooth*  turned off while not in use.
