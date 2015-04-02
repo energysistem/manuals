@@ -11,7 +11,7 @@
 - Decodificador de memórias USB: reproduz arquivos MP3 a partir de memória pendrive USB com capacidade de até 32 GB.
 - Compacto e portátil, permite-lhe levar-lo com você para todos os lugares e amplificar a sua música.
 - Função rádio  FM: Ouça o seu programa de rádio favorito e partilhe-lo com sua família.
-- Entrada "line-in" de 3,5 mm: para ouvir música com qualquer reprodutor portátil ou computador.
+- Entrada "Audio-In" de 3,5 mm: para ouvir música com qualquer reprodutor portátil ou computador.
 - Bateria de lítio recarregável com duração de até 8 horas.
 - Carregador de bateria via porta USB.
 - Saída de linha para auscultadores.
@@ -29,7 +29,7 @@
 - Resposta em frequência: 90 Hz ~ 20 KHz.
 - Relação sinal/ruído: >80 dB.
 - Função de rádio FM.
-- Entrada "line-in" de 3,5 mm.
+- Entrada "Audio-In" de 3,5 mm.
 - Bateria de lítio recarregável.
 - Carregador de bateria USB.
 - Saída de linha para auscultadores.
