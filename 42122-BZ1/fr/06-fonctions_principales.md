@@ -14,7 +14,7 @@ Si l'appareil est allumé, la lumière LED indicateur (5) sera allumée en vert 
 
 ### Changement du mode de lecture
 
-Après avoir allumé l'appareil, la recherche d'appareils bluetooth démarrera automatiquement.  Pour changer vers le mode line-in, il faut brancher le câble audio (inclut) à la connexion line-in (7). Pour changer entre les différents modes de lecture, appuyez le touche menu (6). En mode line-in, l'indicateur LED (5) changera à couleur vert. 
+Après avoir allumé l'appareil, la recherche d'appareils bluetooth démarrera automatiquement.  Pour changer vers le mode Audio-In, il faut brancher le câble audio (inclut) à la connexion Audio-In (7). Pour changer entre les différents modes de lecture, appuyez le touche menu (6). En mode Audio-In, l'indicateur LED (5) changera à couleur vert. 
 
 </quick_guide>
 
