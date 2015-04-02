@@ -1,6 +1,6 @@
-##<quick_guide> Conexiones y alimentación
+##<quick_guide> Connexions et alimentation
 
 ![Connect](http://static.energysistem.com/images/manuals/42162/550022351b987.jpg)
 
-**Nota:** Al conectar el Android TV Play a tu TV, consulta antes la información correspondiente. Además asegúrate de desenchufar todos los equipos de la red eléctrica antes de realizar la conexión.
+**Avis:** Si vous raccordez votre Android TV Play à votre TV, consultez l'information correspondante. Veillez également à débrancher tous les appareils du réseau électrique avant la connexion.
 </quick_guide>
