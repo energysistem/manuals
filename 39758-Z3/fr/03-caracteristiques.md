@@ -11,7 +11,7 @@
 * Décodeur de mémoires USB: lit fichiers MP3/WAV depuis de mémoires flash USB avec une capacité jusqu'à 32 Go.
 * Design compact et portable, vous permettra de l'emporter toujours avec vous et d'amplifier votre musique.
 * Fonction radio FM: Écoutez votre emission radio préférée et partagez-la avec vos amis.
-* Entrée "line-in" de 3.5 mm: pour écouter votre musique n'importe où avec tout lecteur portable ou ordinateur.
+* Entrée "Audio-In" de 3.5 mm: pour écouter votre musique n'importe où avec tout lecteur portable ou ordinateur.
 * Batterie de lithium rechargeable avec une durée de 15 heures.*
 * Chargeur de battérie par le port USB.
 * Sortie pour les écouteurs.
@@ -27,7 +27,7 @@
 * Réponse en fréquence: 90 Hz ~ 20 KHz.
 * Rapport signal/bruit: >80 dB.
 * Fonction radio FM:
-* Entrée "line-in" de 3.5 mm.
+* Entrée "Audio-In" de 3.5 mm.
 * Batterie de lithium rechargeable.
 * Chargeur de batterie USB.
 * Sortie pour les écouteurs.
