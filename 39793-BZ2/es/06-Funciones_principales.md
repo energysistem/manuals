@@ -13,7 +13,7 @@ Para apagar el dispositivo, desliza el interruptor (9) a la derecha.
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo line-in basta con conectar el cable de audio (incluido) a la CONEXIÓN LINE-IN (11). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (1).
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN AUDIO-IN (11). Para cambiar entre los distintos modos de reproducción pulsa el botón MODO (1).
 
 </quick_guide>
 
