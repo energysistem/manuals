@@ -12,7 +12,7 @@
 * Diseño elegante con acabado en goma de gran calidad.
 * Función rellamada. Responde a tu última llamada desde el propio altavoz con sólo pulsar un botón.
 * Batería de litio de larga duración recargable a través de USB.
-* Entrada line-in de 3.5 mm para escuchar música de cualquier reproductor portátil u ordenador.
+* Entrada Audio-In de 3.5 mm para escuchar música de cualquier reproductor portátil u ordenador.
 
 ### Características técnicas
 
