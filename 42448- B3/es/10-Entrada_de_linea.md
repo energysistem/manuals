@@ -9,4 +9,4 @@ Es necesario tener el *Energy Music Box B3 Bluetooth* encendido para utilizar es
 
 ### Conexión de salida de Audio.
 
-También puedes usar tu *Energy Music Box B3 Bluetooth* como receptor Bluetooth conectandolo a la entrada de línea de tu equipo de música o a tu TV mediante la CONEXIÓN DE SALIDA DE AUDIO (10) y el cable de audio con jack de 3,5mm.
+También puedes usar tu *Energy Music Box B3 Bluetooth* como receptor Bluetooth conectándolo a la entrada de línea de tu equipo de música o a tu TV mediante la CONEXIÓN DE SALIDA DE AUDIO (10) y el cable de audio con jack de 3,5mm.
