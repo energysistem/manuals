@@ -7,7 +7,7 @@
 * [content](04-content.md)
 * [general overview](05-general_overview.md)
 * [main functions](06-main_functions.md)
-* [Audio-In](07-line_in.md)
+* [Audio-In](07-Audio_In.md)
 * [radio FM](08-radio_fm.md)
 * [external memories](09-external_memories.md)
 * [warranty](10-warranty.md)
