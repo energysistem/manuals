@@ -1,14 +1,14 @@
-##<quick_guide> Primera instalación
+##<quick_guide> Première installation
 
-Si estás utilizando el dispositivo por primera vez, o ha sido restaurado a los valores por defecto de fábrica, cuando el dispositivo esté encendido, el asistente de instalación te ayudará a completar las configuraciones de idioma, conexión Wi-Fi, etc., siguiendo unos rápidos y sencillos pasos. 
+Si vous utilisez l'appareil pour la première fois, ou qu’il a été restauré aux valeurs par défaut, lorsque l'appareil est allumé, l'assistant d'installation vous aidera à remplir les paramètres de langue, connexion Wi-Fi, etc., à la suite d'unes étapes simples et rapides.
 
-1. *Pantalla de bienvenida del asistente de configuración.* Pulsa el botón direccional **"derecha"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para comenzar.
-2. *Configuración del idioma.* Selecciona el idioma que prefieras pulsando sobre el icono inferior. Pulsa el botón direccional **"derecha"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para continuar.
-3. *Configuración de pantalla.* Configura los bordes de la pantalla usando las **teclas direccionales** del mando a distancia ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg). Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para para cambiar entre aumentar o disminuir tamaño. Pulsa **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para salir y guardar ajustes. Pulsa el botón direccional **"derecha"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para continuar.
-4. *Configuración de red inalámbrica Wi-Fi.* Elije la red Wi-Fi a la que desees conectar pulsando sobre el icono inferior. Pulsa el botón direccional **"derecha"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para continuar.
-5. *Pantalla de finalización de la configuración.* Una vez completado, tu Android TV Play está listo para ser usado.
+1. *Écran de l’assistant de configuration.*  Appuyez sur la touche de direction **"droite"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) pour commencer.
+2. *Paramètres de langue.* Sélectionnez la langue que vous préférez en cliquant sur l’icône inférieure. Appuyez sur la touche de direction **"droite"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) pour continuer.
+3. *Paramètres d'affichage.* Définissez les bords de l'écran à l'aide des **touches de direction** de la télécommande ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg). Appuyez sur **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) pour changer entre augmenter ou diminuer la taille. appuyez sur **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) pour quitter et enregistrer les paramètres. Appuyez sur la touche de direction **"droite"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) pour continuer.
+4. *Paramètres de réseau sans fil Wi-Fi.* Choisissez le réseau Wi-Fi auquel vous souhaitez vous connecter en cliquant sur l’icône inférieure. Appuyez sur la touche de direction **"droite"** ![](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) pour continuer.
+5. *Écran de fin d’installation.* Une fois terminé, votre téléviseur Android TV Play est prêt à l'emploi.
 
-También puedes volver a este asistente en cualquier momento a través de la aplicación **"Asistente de instalación"**.
+Vous pouvez également revenir à cet assistant à tout moment à travers l'application **"Assistant d’installation" **.
 </quick_guide>
 
 
