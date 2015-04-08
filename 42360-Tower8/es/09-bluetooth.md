@@ -1,6 +1,6 @@
 ## Sincronización Bluetooth
 
-Pulsando el botón modo (5) selecciona el modo Bluetooth, aparecerá en el display las letras "bLUE"(Cuando enciendas la torre siempre iniciará en este modo por defecto).
+Pulsando el botón modo (5) selecciona el modo Bluetooth, aparecerá en el display las letras "- bt -" (Cuando enciendas la torre siempre iniciará en este modo por defecto).
 En ese momento puedes realizar la sincronización con tu dispositivo Bluetooth.
 
 Cuando tengas visualizado en tu dispositivo Bluetooth el nombre de "Energy Tower 8" solamente selecciona conectar y tras esperar unos segundos la conexión está finalizada.
