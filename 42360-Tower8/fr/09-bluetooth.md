@@ -1,6 +1,6 @@
 ## Synchronisation Bluetooth 
 
-Appuyez sur la touche mode (5) pour sélectionner le mode Bluetooth, l'écran montrera les lettres "bLUE". À ce moment, vous pouvez faire la synchronisation avec votre périphérique Bluetooth. 
+Appuyez sur la touche mode (5) pour sélectionner le mode Bluetooth, l'écran montrera les lettres "-bt-". À ce moment, vous pouvez faire la synchronisation avec votre périphérique Bluetooth. 
 Lorsque vous avez affiché sur votre périphérique Bluetooth le nom "Energy Tower 8" sélectionnez uniquement l'option connecter et attendez quelques secondes pour que  la connexion soit terminée. 
 
 Au moment où la connexion est établie, vous pouvez maintenant commencer la lecture sans fil de votre liste entière de musique. 
