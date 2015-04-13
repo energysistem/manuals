@@ -10,7 +10,7 @@ Vous pouvez également utiliser *"Menu"* ![Menu](http://static.energysistem.com/
 
 - **Lecture / Pause.** Utilisez ce contrôle pour mettre en pause et reprendre la lecture à tout moment.
 - **Arrêter.** La lecture s’arrête et vous verrez l'explorateur de fichiers audio.
-- **Recul Rapide.** Appuyezez plusieurs fois sur ce bouton pour modifier la vitesse de recul x2, x4 ou x8.
+- **Recul Rapide.** Appuyez plusieurs fois sur ce bouton pour modifier la vitesse de recul x2, x4 ou x8.
 - **Avance Rapide.** Appuyez plusieurs fois sur ce bouton pour modifier la vitesse d'avancement x2, x4 ou x8.
 - **Précédent.** Vous passez la chanson suivante dans le dossier actuel des chansons.
 - **Suivant.** Vous revenez au début de la chanson, et si jamais vous appuyez rapidement vous retournerez à la chanson précédente dans le dossier où actuel des chansons.
