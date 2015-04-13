@@ -6,7 +6,7 @@ With the Remote Control you can select all possibilities that *Energy Tower 5* o
 
 * Select your mode (USB, SD, Line-in, Radio FM, Bluetooth®) through the SOURCE button.
 
-* “Mute” function for all modes.
+* “Mute” function (not available in Bluetooth mode).
 
 * Loudness control, Play and Pause, forward and backward songs or FM channels (in all modes).
 
