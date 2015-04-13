@@ -6,7 +6,7 @@ Control all the functions the *Energy Tower 3* has to offer:
 
 * Select different playback modes (USB, SD, Line-in, Radio FM, Bluetooth®) using the X button.
 
-* “Mute” function.
+* “Mute” function (not available in Bluetooth mode).
 
 * Volume control, play and pause, forward and backward songs/FM channels.
 
