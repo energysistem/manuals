@@ -12,8 +12,8 @@ Vous pouvez également utiliser *"Menu"* ![Menu](http://static.energysistem.com/
 - **Arrêter.** La lecture s’arrête et vous verrez l'explorateur de fichiers audio.
 - **Recul Rapide.** Appuyez plusieurs fois sur ce bouton pour modifier la vitesse de recul x2, x4 ou x8.
 - **Avance Rapide.** Appuyez plusieurs fois sur ce bouton pour modifier la vitesse d'avancement x2, x4 ou x8.
-- **Précédent.** Vous passez la chanson suivante dans le dossier actuel des chansons.
-- **Suivant.** Vous revenez au début de la chanson, et si jamais vous appuyez rapidement vous retournerez à la chanson précédente dans le dossier où actuel des chansons.
+- **Suivant.** Vous passez la chanson suivante dans le dossier actuel des chansons.
+- **Précédent.** Vous revenez au début de la chanson, et si jamais vous appuyez rapidement vous retournerez à la chanson précédente dans le dossier où actuel des chansons.
 - **Répéter.** Il vous permet de changer la façon dont les chansons sont répétées. Vous pouvez répéter une chanson, l'intégralité du dossier par ordre (mode par défaut), ou répéter le dossier au hasard, qui permet au système de choisir la chanson suivante.
 
 *Pour arrêter la lecture.*
