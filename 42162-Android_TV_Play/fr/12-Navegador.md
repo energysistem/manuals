@@ -1,17 +1,18 @@
-## Navegador Web
+## Navigateur Web
 
-Tu nuevo Energy#trade# Android TV Play dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás acceder a Internet con compatibilidad HTML5 y Flash 11.1.
+Votre nouveau Energy#trade# Android TV Play dispose d'un navigateur Web puissant dans la liste des applications installées par défaut, avec lequel vous pouvez accéder à Internet avec compatibilité HTML5 et Flash 11.1.
 
 ![WebBrowser](http://static.energysistem.com/images/manuals/42162/5502a943858ca.jpg)
 
-Una vez el dispositivo esté conectado y configurado a una red Wi-Fi, selecciona el icono *Navegador* situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio preestablecida por defecto y la mostrará en pantalla de tu televisor. Puedes configurar las páginas de inicio desde el menú de configuración del navegador.
+Une fois l'appareil connecté et configuré à un réseau Wi-Fi, sélectionnez l’icône *Navigateur* dans le menu principal ou dans le menu des applications pour démarrer le programme. Le système va charger la page présélectionner défaut maison et affiché sur l'écran de votre téléviseur. Vous pouvez configurer la page d'accueil dans le menu des paramètres du navigateur.
 
-Utiliza el *teclado alfanumérico* QWERTY para escribir direcciones web o términos de búsqueda directamente.
+Utilisez le *clavier alphanumérique* QWERTY pour écrire des adresses web ou des termes de recherche directement.
 
 ![Keyboard](http://static.energysistem.com/images/manuals/42162/5502a99eea5de.jpg)
 
-Usa las *teclas de scroll rápido* de pantalla ![ScrollKeys](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) en tu mando a distancia para moverte verticalmente por las páginas web.
+Utilisez les *touches de scroll rapide* d'écran ![ScrollKeys](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) sur votre télécommande pour déplacer verticalement sur les sites web.
 
-Pulsa el *"modo mouse"* ![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) en tu teclado alfanumérico para moverte por los diferentes controles de la pantalla como lo harías con un ratón o dispositivo señalador.
+Appuyez sur le *"mode mouse"* *![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) sur votre clavier alphanumérique pour vous déplacer dans les différentes commandes de l'écran comme vous le feriez avec un souris et un pointer.
+
 
 
