@@ -4,7 +4,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Apagado y encendido del equipo.
 
-* Selección de modo (botón MODE).
+* Cambio de función (botón MODE).
 
 * Función "Mute" para silenciar todos los modos.
 
