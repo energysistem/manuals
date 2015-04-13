@@ -12,7 +12,7 @@ Utilisez le *clavier alphanumérique* QWERTY pour écrire des adresses web ou de
 
 Utilisez les *touches de scroll rapide* d'écran ![ScrollKeys](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) sur votre télécommande pour déplacer verticalement sur les sites web.
 
-Appuyez sur le *"mode mouse"* *![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) sur votre clavier alphanumérique pour vous déplacer dans les différentes commandes de l'écran comme vous le feriez avec un souris et un pointer.
+Appuyez sur le *"mode mouse"*![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) sur votre clavier alphanumérique pour vous déplacer dans les différentes commandes de l'écran comme vous le feriez avec un souris et un pointer.
 
 
 
