@@ -17,7 +17,7 @@ Vous pouvez également utiliser les touches **"OK"** ![OK](http://static.energys
 - *Répéter*. Il vous permet de modifier la manière dont le diaporama est répété. Vous pouvez répéter plusieurs images, toutes les images ou changer l'ordre de lecture.
 - *Changer temps* Permet de sélectionner le temps du diaporama sur l'écran avant de passer à l’image suivante.
 - *Mode de lecture*. Permet de changer entre le mode de présentation continue ou une sélection aléatoire d'images.
-- *Rotation*. Cliquez pour faire pivoter les images entre *"Normal"*, *"90"*, *"180"* y *"270"* degrés.
+- *Rotation*. Cliquez pour faire pivoter les images entre *"Normale"*, *"90"*, *"180"* y *"270"* degrés.
 - *Zoom*. Cliquer pour élargir l'image sur l'écran ou réduire pour revenir à la taille originale. Au cours de l'élargissement vous pouvez utiliser les touches de direction pour faire défiler l'image.
 
 
