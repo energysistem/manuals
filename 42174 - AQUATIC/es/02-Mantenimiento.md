@@ -12,4 +12,4 @@
 
 * Recarga la baterí­a cuando ésta se haya agotado para alargar su vida útil.
 
-Nota: El dispositivo es sumergible hasta 1 metro de profundidad durante un periódo de 30 minutos en modo inalámbrico mediante el uso de Bluetooth.
+**Nota:** El dispositivo es sumergible hasta 1 metro de profundidad durante un periódo de 30 minutos en modo inalámbrico mediante el uso de Bluetooth.
