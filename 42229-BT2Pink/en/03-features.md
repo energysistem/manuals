@@ -17,7 +17,6 @@
 - Working range: 10m.
 - Diaphragm diameter: 40mm.
 - Frequency response: 20Hz-20KHz.
-- Impedance: 32Ohm.
 - Speaker Sensitivity: 100dB ± 3dB.
 - Total Harmonic Distortion: <1%.
 - Built-in microphone: 4522.
