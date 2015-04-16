@@ -8,7 +8,7 @@
 - Technologie multidriver avec 8 haut-parleurs pour une qualité sonore surround.
 - Lecture des fichiers MP3 à partir de cartes microSD/SDHC avec une capacité jusqu'à 64 Go.
 - Lecteur de cartes avec fonction USB OTG.
-- Synchronisation facile avec tablettes, smartphones, ordinateurs portables, MAC, PC, PS3 et tout autre appareil Bluetooth®.
+- Synchronisation facile avec tablettes, smartphones, ordinateurs portables, MAC, PC et tout autre appareil Bluetooth®.
 - Contrôle totale des fonctions à partir du casque. - - Synchronisation sans codes.
 - Connexion à des appareils audio avec un câble jack 3,5 mm (inclus).
 - Réception automatique d’appels.
