@@ -4,7 +4,7 @@
 
 * After using the device, wash the device with fresh water and dry thoroughly. Do not open the connector cover during this process. Do not use abrasive or corrosive cleaning products.
 
-* Do not expose your *Energy Music Box Aquatic Bluetooth*  to shock or high temperatures (maximum +40 degrees).
+* Do not expose your *Energy Music Box Aquatic Bluetooth*  to shock, at temperatures above 45 ° or below -15 ° C.
 
 * Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
 
