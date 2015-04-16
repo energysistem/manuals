@@ -5,7 +5,7 @@
 
 - Auriculares Bluetooth 4.0.
 - Fácil sincronización sin códigos.
-- Compatible con dispositivos iOS, ANDROID, PC y sistemas PlayStation.
+- Compatible con dispositivos iOS, ANDROID y PC.
 - Micrófono integrado con cancelación de eco y ruidos.
 - Función manos libres y control de llamadas.
 - Control de reproducción y volumen desde el propio auricular.
