@@ -8,7 +8,7 @@
 - Tecnologia multidriver 8 alto-falantes para uma qualidade de som surround.
 - Reproduz arquivos MP3 a partir de cartões microSD/SDHC com capacidade de até 64 GB.
 - Leitor de cartão com função USB-OTG.
-- Fácil sincronização com tablets, smartphones, laptops, MAC, PC, PS3 e qualquer outro dispositivo Bluetooth®.
+- Fácil sincronização com tablets, smartphones, laptops, MAC, PC e qualquer outro dispositivo Bluetooth®.
 - Controle total das funções desde os próprio fones.
 - Sincronização sem códigos.
 - Conexão com dispositivos de áudio com cabo jack 3,5 milímetros (incluído).
