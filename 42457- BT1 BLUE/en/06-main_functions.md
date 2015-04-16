@@ -11,6 +11,6 @@ As long as your device is turned on, the LED indicator will keep flashing blue.
 
 ### Charging the battery
 
-When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the included in the USB CONNECTION (5) and the other end in any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charging process is completed the LED will turn off.
+When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the included in the USB CONNECTION (5) and the other end in any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (4) turns red and when the charging process is completed the LED will turn off.
 
 **IMPORTANT NOTE:** To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Also, do not interrupt the charging process until the battery is fully charged.
