@@ -19,7 +19,6 @@
 - Frequency response: 20Hz-20KHz.
 - Speaker Sensitivity: 100dB ± 3dB.
 - Total Harmonic Distortion: <1%.
-- Built-in microphone: 4522.
 - Microphone Frequency Response: 200Hz-8KHz.
 - Microphone Sensitivity:-38db ± 3db.
 - Carrier Frequency: 2.402GHz-2.480GHz.
