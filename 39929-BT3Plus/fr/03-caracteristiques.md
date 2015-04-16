@@ -5,7 +5,7 @@
 
 - Écouteurs Bluetooth® 4.0.
 - Simple synchronisation sans codes.
-- Compatible avec appareils iOS, ANDROID, PC et systèmes PlayStation.
+- Compatible avec appareils iOS, ANDROID et PC.
 - Microphone inclut avec annulation d'écho et bruit.
 - Fonction mains libres et contrôle d'appels.
 - Contrôle de lecture et volume depuis l'haut parleur.
