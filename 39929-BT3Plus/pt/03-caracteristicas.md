@@ -5,7 +5,7 @@
 
 - Fones Bluetooth® 4.0.
 - Sincronização simples sem códigos.
-- Compatível com dispositivos iOS, ANDROID, PC e sistemas PlayStation.
+- Compatível com dispositivos iOS, ANDROID e PC.
 - Microfone integrado com cancelamento de eco e ruídos.
 - Função mãos livres e controle de chamadas.
 - Controle de leitura e volume desde o mesmo fone.
