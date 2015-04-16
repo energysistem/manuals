@@ -25,7 +25,6 @@
 - Respuesta en frecuencia: 60HZ – 20 KHZ
 - Transductor dinámico.
 - Diámetro del diafragma: 40 mm.
-- Impedancia: 32 Ohm.
 - Micrófono integrado.
 - Sensibilidad del micrófono: -42 dB.
 - Dimensiones: 170 x 165 x 53 mm.
