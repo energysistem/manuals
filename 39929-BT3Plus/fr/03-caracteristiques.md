@@ -25,7 +25,6 @@
 - Réponse en fréquence: 60HZ – 20 KHZ
 - Transducteur dynamique.
 - Diamètre du diaphragme: 40 mm.
-- Impédance: 32 Ohm.
 - Microphone inclut.
 - Sensibilité du microphone: -42 dB.
 - Dimensions: 170 x 165 x 53 mm.
