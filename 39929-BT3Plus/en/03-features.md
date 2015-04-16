@@ -22,7 +22,6 @@
 - Speaker Frequency Response: 60HZ – 20KHZ
 - Driver Type: Dynamic
 - Speaker diameter: 40 mm
-- Speaker impedance: 32 ohm
 - Built in microphone.
 - Microphone Sensitivity: -42 dB
 - Dimensions: 170 x 165 x 53 mm.
