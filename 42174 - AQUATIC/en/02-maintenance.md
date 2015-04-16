@@ -13,4 +13,4 @@
 * Recharge the lithium battery when ran out of power in otder to extend its battery life.
 
 
-Note: This device is waterproof up to 1 meter only when using the Bluetooth function.
+*Note:* This device is waterproof up to 1 meter only when using the Bluetooth function.
