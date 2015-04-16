@@ -4,7 +4,7 @@
 
 * Após molhar o seu Energy Music Box Aquatic Bluetooth, lave-o com água doce sem abrir a tampa dos conectores e seque completamente. Não use produtos de limpeza corrosivos ou abrasivos.
 
-* Não exponha seu *Energy Music Box Aquatic Bluetooth* a choques ou as altas temperaturas.
+* Não exponha seu *Energy Music Box Aquatic Bluetooth* a choques ou a temperaturas superiores a 45° ou abaixo de -15°C.
 
 * Não desmonte o seu aparelho. Qualquer reparação deve fazê-la exclusivamente o pessoal qualificado de Energy Sistem Soyntec, S.A.
 
