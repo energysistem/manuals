@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	BOTÓN MULTIFUNCIÓN <br> 2.	VOLUMEN + <br> 3.	AVANCE <br> 4.	VOLUMEN -<br> 5.	RETROCESO<br> 6.	LED INDICADOR<br> 7.	CONEXIÓN USB <br> 8.	MICRÓFONO|![Imagen1](http://static.energysistem.com/images/manuals/39929/5410254065a58.jpg)|
+|1.	VOLUMEN + <br> 2.	ENCENDIDO/APAGADO Y PAUSAR/REANUDAR <br> 3.	VOLUMEN - <br> 4.	LED DE CARGA <br> 5.	CONEXIÓN USB DE CARGA<br> 6.	MICRÓFONO <br>|![Imagen1](http://static.energysistem.com/images/manuals/39929/5410254065a58.jpg)|
 </quick_guide>
