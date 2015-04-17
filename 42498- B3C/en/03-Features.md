@@ -8,9 +8,9 @@
 - Loudspeakers with acoustic enhancement system: Clear sound and rich bass.
 - Total output power (RMS): 6W.
 - Portable and compact design, allows you to take it anywhere and amplify your music.
+- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
 - 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
-- Bluetooth® handsfree function.
-- Rechargeable lithium battery.
+- Rechargeable battery.
 - microUSB port battery charger.
 <br/><br/>
 
@@ -18,21 +18,19 @@
 
 - Bidirectional Bluetooth®, 4.0 version. Up to 10 meter range.
 - Supports A2DP and AVRCP profiles.
+- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
 - 2.0 loudspeakers with acoustic enhancement system.
 - Total output power (RMS): 6 W.
 - Frequency response: 90 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
-- Built-in microphone (handsfree function).
 - 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
-- Rechargeable lithium battery up to 15 hours duration.*
 - Audio output connection.
 
 ### Battery specifications
 
-- Nominal capacity: 1800 mAh.
+- Nominal capacity: 1500 mAh.
 - Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
 - Autonomy in music player mode: 12 hours.*
 - Autonomy in Bluetooth mode: 10 hours.*
 <br/><br/>
