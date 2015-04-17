@@ -16,7 +16,7 @@
 * Función radio FM: Escucha tu programa de radio favorito y compártelo con los tuyos.
 * Entrada "Audio-In" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
 * Función manos libres Bluetooth®.
-* Batería de litio recargable con una duración de hasta 5 horas.
+* Batería recargable.
 * Carga de batería a través de puerto USB.
 
 ### Características técnicas
