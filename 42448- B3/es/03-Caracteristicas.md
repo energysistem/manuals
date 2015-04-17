@@ -23,7 +23,7 @@
 * Relación señal/ruido: >80 dB.
 * Micrófono integrado (función manos libres).
 * Entrada "Audio-In" de 3.5 mm.
-* Batería de litio recargable con una duración de hasta 5 horas.
+* Batería de litio recargable.
 * Salida para auriculares.
 
 ### Características de la batería de litio recargable
