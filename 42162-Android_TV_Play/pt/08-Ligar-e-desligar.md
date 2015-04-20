@@ -3,5 +3,5 @@ Depois de ter todas as ligações feitas correctamente, você está pronto para 
 
 Pressione a tecla  **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg) no seu controle remoto para ligar o Android TV Play.
 
-Pressione novamente a tecla  **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg) do seu controle remoto a qualquer momento para o seu Android Play TV entre o modo suspensão.
+Pressione novamente a tecla  **"Standby"** ![] (http://static.energysistem.com/images/manuals/42162/55008a6a06c24.jpg) no seu controle remoto a qualquer momento para o seu Android Play TV entre o modo suspensão.
 </quick_guide>
