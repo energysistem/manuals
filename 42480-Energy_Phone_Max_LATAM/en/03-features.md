@@ -1,0 +1,28 @@
+## Key features
+
+- Unlocked Smartphone with optimized ANDROID#trade# 4.4. O.S.
+- 5" IPS OGS capacitive touch display (HD 1280x720p).
+- Quad-core ARM Cortex A7 processor up to 1.3GHz and Mali-400 GPU.
+- 3G connection to surf the Internet wherever and whenever you want to.
+- 3 interchangable color back casings.
+- WI-FI connection (802.11 b/g/n): the fastest Internet connection through a Wi-Fi access point.
+- GPS function: the most precise and reliable satellite navigation.
+- Bluetooth 4.0 wireless connections for headphones, speakers and other Bluetooth devices.
+- Dual SIM-card Slot.
+- 1GB RAM.
+- 8GB built-in memory expandable up to 64GB via microSD-HC/XC cards.
+- Integrated 5.0 Mpx BSI+ FOV 88º front camera with LED flash.
+- Integrated 8.0 Mpx Auto-Focus rear camera with LED flash.
+- USB function to easily access the smartphone's memory from the computer (cable included).
+- Integrated speakers.
+- Integrated omni directional microphone.
+- Audio connector compatible with CTIA standard.
+- Motion sensor (accelerometer).
+- Display with auto brightness.
+- Proximity sensor.
+- Installed applications: web browser, email manager, applications to play music / videos / photos, FM radio, alarm and calculator.
+- Allows you to install thousands of applications and games available for the ANDROID#trade# operating system.
+- Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
+- Battery life: up to 400 hours on standby and 19 hours talk time.
+- Battery capacity: 2,000 mAh.
+- SAR rating: 0.578 (W/Kg) at the head and 0.434 (W/Kg) at the body (10mm distance).

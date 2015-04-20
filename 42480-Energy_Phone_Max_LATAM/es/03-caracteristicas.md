@@ -1,0 +1,29 @@
+## Principales características
+
+- Smartphone con sistema ANDROID#trade# 4.4. optimizado.
+- Pantalla táctil capacitiva OGS de 5" IPS (HD 1280x720p).
+- Procesador de cuatro núcleos ARM Cortex A7 (velocidad maxima 1.3 GHz) y GPU Mali-400.
+- Conexión 3G para disfrutar de Internet donde y cuando la necesites.
+- 3 carcasas intercambiables de color incluidas.
+- Conexión WI-FI (802.11 b/g/n): permite la más rapida conexión a Internet a través de un punto de acceso Wi-Fi.
+- Función GPS: La navegación via satélite más precisa y fiable.
+- Bluetooth 4.0 para auriculares, altavoces y otros dispositivos Bluetooth.
+- Doble entrada de tarjeta SIM.
+- 1GB RAM.
+- 8GB de memoria interna que permiten almacenar hasta 32 horas de video u 4.000 canciones.
+- Memoria ampliable mediante tarjetas microSD-HC/XC (hasta 64GB).
+- Cámara frontal integrada con sensor de 5.0 Mpx (BSI+) con ángulo de apertura ancho 88º y flash LED.
+- Cámara trasera integrada de 8.0 Mpx con auto-focus y flash LED.
+- Función USB para un fácil acceso a la memoria del smartphone desde el ordenador (cable incluido).
+- Altavoz integrado.
+- Micrófono omnidireccional integrado.
+- Conector de audio con estándar CTIA.
+- Sensor de movimiento (acelerómetro).
+- Pantalla con ajuste automático de brillo.
+- Sensor de proximidad.
+- Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / videos / fotos, radio FM, alarma y calculadora.
+- Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID#trade#.
+- Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
+- Autonomía: hasta 400 horas en standby y 19 horas de conversación.
+- Capacidad de batería: 2.000mAh.
+- Medición SAR: 0.578 (W/Kg) en cabeza y 0.434 (W/Kg) en cuerpo (a 10mm de distancia).
