@@ -1,39 +1,40 @@
-## <quick_guide> Mando a distancia
+## <quick_guide> Controle remoto
 
 ![] (http://static.energysistem.com/images/manuals/42162/55002aca7ca89.jpg)
 
-1. **Standby.** Permite cambiar entre el modo de Encendido y modo Standby (de suspensión).
-2. **Mute.** Permite conmutar la salida de sonido entre Encendido y Apagado.
-3. **Teclas de reproducción multimedia.**
-4. **Video.** Acceso directo a la aplicación de video por defecto.
-5. **Music.** Acceso directo al reproductor musical por defecto.
-6. **Pictures.** Acceso directo a la galería de imágenes por defecto.
-7. **Menu.** Menu contextual de aplicaciones y ajustes.
-8. **Borrar.**
-9. **Grupo de teclas direccionales.**
-10. **OK.** Tecla de Selección / Aceptar.
-11. **Pantalla Inalámbrica.** Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
-12. **Volver.**
-13. **Web.** Acceso directo al navegador por defecto.
-14. **Files.** Acceso directo al administrador de archivos y unidades.
-15. **Apps.** Acceso directo al menú de aplicaciones.
-16. **Settings.** Acceso directo al menú de configuración del sistema.
-17. **Vol.** Grupo de teclas de volumen de sonido
-18. **Scroll.** Paso rápido de pagina arriba / abajo.
-19. **Home.** Acceso directo a la pantalla principal.
+1. **Standby.** Permite mudar entre o modo Ligado e modo de espera (sleep).
+2. **Mute.** Permite mudar a saída de som entre Ligado e Desligado.
+3. **Teclas de reprodução multimédia.**
+4. **Vídeo.** Acesso direito à aplicação de vídeo por padrão.
+5. **Música.** Acesso directo ao leitor de música por padrão.
+6. **Pictures.** Acesso directo para o acesso à galeria padrão.
+7. **Menu.** Menu contextual de aplicações e configurações.
+8. **Apagar.**
+9. **Grupo teclas de direcção.**
+10. **OK.** Teclas de selecção / Aceitar .
+11. **Tela sem fio.** Acesso directo à aplicação compartilhar tela a partir de dispositivos móveis compatíveis Miracast#trade#.
+12. **Voltar.**
+13. **Web.** Acesso directo para o navegador por padrão.
+14. **Arquivos.** Acesso directo ao gerenciador de arquivos e unidades de arquivo.
+15. **Apps.** Acesso directo ao menu de aplicações.
+16. **Settings. ** Acesso directo ao menu de configuração do sistema.
+17. **Vol.** Grupo de teclas de volume.
+18. **Scroll.** Passagem rápida de página acima / para baixo.
+19. **Home.** Acesso directo para a tela principal.
 20. **Grupo de teclas numéricas.**
-21. **Espacio.**
-22. **Enter.** Retorno de carro, confirmar entrada. 
-23. **Facebook#trade#.** Acceso directo a la aplicación.
-24. **Twitter#trade#.** Acceso directo a la aplicación.
-25. **Google Play#trade#.** Acceso directo a la tienda de apps.
-26. **YouTube#trade#.** Acceso directo a la aplicación.
+21. **Espaço**.
+22. **Enter.** Retorno de carro, confirmar entrada.
+23. **Facebook #trade#.** Acesso directo à aplicação.
+24. **Twitter #trade#.** Acesso directo à aplicação.
+25. **Google Play#trade#.** Acesso directo para a app store.
+26. **YouTube#trade#.** Acesso directo à aplicação.
 27. **Teclado alfanumérico.**
-28. **Goto.** Permite acceder a un punto de la línea de tiempo del reproductor de música o video. En la introducción de textos cambia al siguiente campo de introducción de texto.
-29. **Shift.** Permite conmutar entre mayúsculas y minúsculas y algunos símbolos.
-30. **Modo "Mouse"**. Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
-31. **Fn**. Tecla de función. Permite acceder a los caracteres especiales. Para insertar caracteres especiales mantén pulsado este botón mientras pulsas la tecla que contiene el caracter especial. Los caracteres especiales están marcados en color verde en el teclado alfanumérico (27).
-32. **Compartimento para pilas (Tipo AAA)**.
+28. **Goto.** Permite o acesso a um ponto na linha do tempo do leitor de música ou vídeo. Na introdução de texto muda para o próximo campo de entrada de texto.
+29. **Shift.**. Permite alternar entre letras maiúsculas e minúsculas e alguns símbolos.
+30. **Modo "Mouse"**. Permite alternar as teclas de direcção para utilizá-las de maneira semelhante a um rato.
+31. **Fn.** Tecla de função. Permite o acesso aos caracteres especiais. Para inserir caracteres especiais, pressione e segure este botão enquanto pressione a tecla que contém o carácter especial. Os caracteres especiais são marcados em verde no teclado alfanumérico (27).
+32. **Compartimento da bateria (Tipo AAA)**.
+
  
 </quick_guide>
 
