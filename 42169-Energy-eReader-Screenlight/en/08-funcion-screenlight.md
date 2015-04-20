@@ -1,6 +1,6 @@
 ## Función Screenlight.
 
-La función Screenlight de tu Energy eReader, te permite disfrutar de la lectura en entornos con poca o ninguna iluminación, gracias a la retroiluminación LED suave de la pantalla. Puedes configurar esta función incluso para su uso a plena luz del día. Úsala de la manera que más cómoda te resulte.
+The Screenlight function of your Energy eReader lets you enjoy reading in low or no light, thanks to the soft LED backlight display. You can set this function even for use in daylight. Use it the way you feel more comfortable.
 
-Para controlar la iluminación, con el dispositivo encendido pulsa el botón de Screenlight durante unos segundos para elegir el nivel de luz, usando las teclas direccionales. Pulsa el botón central "selección" para aceptar y salir. Para encender o apagar rápidamente la función Screenlight, pulsa brevemente el botón de Screenlight. Cada vez que enciendas o apagues esta función, tu eReader Screenlight recordará el nivel de iluminación que configuraste por última vez, incluso si lo apagas o suspendes.
+To set backlight level, press the button for a few seconds and select using the navigation keys, then press the center button "Select" to accept and exit. To quickly switch on or off the screenlight function, briefly press the button Screenlight ![](http://static.energysistem.com/images/manuals/42169/54bfe09a1b6ef.jpg). Every time you turn on or turn off this feature, your eReader screenlight remember the backlight level set, even if you turn the device off.
 

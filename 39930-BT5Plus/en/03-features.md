@@ -5,7 +5,7 @@
 * Closed circumaural dynamic headphones with Bluetooth ® V4.0 technology. 
 * High sensitivity microphone with echo and noise cancellation. 
 * Clean and clear sound full of detail. 
-* Full compatibility with tablets, smartphones, laptops, PlayStation, MAC and PC. 
+* Full compatibility with tablets, smartphones, laptops, MAC and PC. 
 * Easy pairing without codes. 
 * NFC pairing function. 
 * Control for PLAY, STOP, <<, >> and VOLUME functions from the headset. 

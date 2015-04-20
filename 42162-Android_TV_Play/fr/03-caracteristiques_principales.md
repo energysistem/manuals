@@ -1,0 +1,22 @@
+## Caractéristiques principales
+
+- Processeur double coeur ARM Cortex A9 1.6GHz avec GPU Mali-400 Quad Core inteégrée.
+- 1GB RAM DDR3 / 8GB de mémoire flash interne.
+- Système Android 4.2 Jelly Bean.
+- Télécommande ergonomique et réversible qui incorpore un clavier QWERTY, mode "Souris" et des raccourcis pour les apps etpour l'écran sans fil Miracast. 
+- ANDROID 4.2.2, permet d'installer des milliers d'applications et jeux pour le système d'exploitation Android™.
+- Applications media streaming clonage de l'écran avec technologie Miracast#trade#.
+- Wi-Fi 802.11b/g/n intégré pour une vitesse maximale dans votre connexion à Internet.
+- Lit les formats les plus connus de vidéo en HD.
+- Profitez de votre TV comme un ordinateur avec de l'accès à vos fichiers stockés sur "the cloud".
+- Mémoire extensible avec des appareils USB externes.
+- Supporte pour clavier et souris USB.
+- Navigateur avancé, supporte HTML 5 et Flash 11.1.
+- Consommation réduite d'énergie en mode veille avec 0.5W maximale, en contribuant à l'amélioration et à la durabilité de l'environnement.
+- Silencieux et compact, grandeur de la clé USB parfaite pour l'emmener où vous voulez. 
+- Interface utilisateur dans de multiples langues, intuitif et facile à utiliser avec votre TV.
+- Installation rapide et facile, Plug and Play, avec l'assistant.
+- Connexions: 1 x High Speed HDMI, 1 x micro USB pour câble DC avec antenne Wi-Fi et USB OTG / HOST, 1 x Jack 2,5mm pour câble récepteur IR.
+- Formats compartibles: VIDÉO: DivX, Xvid, AVI, MKV, MP4, MPG, ISO, IFO, MOV, M2TS, TS, WMV, VOB, DAT, RM, RMVB. / AUDIO: MP3, WMA, WAV, AAC, DD+, MPEG. / IMAGE: JPG, JPEG, BMP, PNG, GIF.
+- Compatible avec des appareils de stockage avec des formats FAT/FAT32/NTFS.
+- Adaptateur AC/DC (Europlug); Input 100-240V; Output 5V/1.5A; 50/60 Hz.

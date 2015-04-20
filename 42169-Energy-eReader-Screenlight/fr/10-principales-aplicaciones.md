@@ -1,76 +1,78 @@
-## Principales aplicaciones
+## Menu principal
 
-**Libros**
+**Livres**
 
-Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
+Ici vous affichez tous les livres stockés dans la mémoire interne ou dans la carte micro SD de mémoire externe.
 
-Dispones de diferentes opciones de visualización y orden de los libros de tu biblioteca. Accede a ellas mediante el menú de opciones  . Allí encontraras diferentes opciones:
+Vous pouvez sélectionner le mode d'affichage et l'ordre des livres de votre bibliothèque. Vous pouvez y accéder à travers  le menu d'options ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg):
 
-- Favoritos: Mostrará únicamente los libros que hayas marcado como Favoritos.
-- Buscar: Mediante esta opción podrás hacer una búsqueda de un título concreto.
-- Ordenar por Título: Se mostrarán los libros ordenados alfabéticamente por su Título.
-- Ordenar por Autor: Se mostrarán los libros ordenados en carpetas correspondientes al Autor.
-- Recién leído: Se mostrarán los últimos libros a los que accedió el usuario.
-- Recientes: Se mostrarán los libros más recientemente transferidos al dispositivo.
-- Ver lista: Se mostrarán los libros en formato de lista.
-- Ver portada: Se mostrarán los libros con la portada en miniatura acompañando al título del mismo.
+- Favoris : Affiche uniquement les livres marqués comme favoris.
+- Recherche : Avec cette option, vous pouvez faire une recherche pour un titre spécifique.
+- Tri par titre: Livres par ordre alphabétique et par Titre.
+- Tri par Auteur: Livres par ordre dans des dossiers par Auteur.
+- Récemment lus : Derniers livres auxquels l'utilisateur a accédé.
+- Récents : Livres les plus récents transférés à l'appareil.
+- Voir liste : les livres sont affichés sous forme de liste.
+- Voir couverture : les livres sont affichés avec  une miniature de la couverture et son titre.
 
-
-Si lo prefieres, también es posible hacer una búsqueda de un título concreto introduciendo el nombre requerido tras pulsar el botón  .  
-
-*Funciones avanzadas de lectura*
-
-Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la lectura según tus preferencias y hacerla así más cómoda y eficaz. A continuación se detallan dichas funciones. 
-
-- Añadir marcador: Mediante esta función, podrás añadir un marcador en la página del libro en la que te encuentres. De este modo, podrás acceder más rápido a esa página posteriormente.
-- Marcadores: Muestra todos los marcadores creados en el libro actual.
-- Índice: Accede al índice del libro (si dispone de él).
-- Ir a página: Accede directamente a una página concreta del libro actual.
-- Buscar: Realiza una búsqueda de una o más palabras en el libro actual.
-- Tamaño de letra: Selecciona el tamaño de letra preferido entre los 6 disponibles.
-- Tipo de letra: Selecciona el tipo de letra preferido.
-- Espaciado: Selecciona el espaciado entre líneas preferido.
-- Margen: Selecciona el margen preferido.
-- Rotar pantalla: Rota la pantalla 90º hacia la derecha o hacia la izquierda.
-- Paso automático: Mediante esta función, tu eReader es capaz de pasar la página automáticamente tras el transcurso del tiempo indicado.
-- Refresco de página: Esta función permite seleccionar al usuario si quiere que el dispositivo realice un refresco automático cada página, cada 3 páginas o cada 5 páginas. 
-- Añadir a favoritos: agrega el libro actual a la colección de libros favoritos.
-- Sobre el libro: Muestra información sobre el libro actual (Título, Autor, Editor, Formato).
-
-Nota: No todos formatos de eBook son capaces de desarrollar todas estas funcionalidades.
-
-**Imágenes**
-
-Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
-
-Una vez accedes al menú Imágenes, pulsando   puedes seleccionar si quieres ver los archivos como una lista o si prefieres ver una representación de las imágenes en miniatura.
-
-Situándote dentro de una imagen y pulsando  , aparecerá un desplegable con las siguientes opciones:
-
-* Rotar hacia la izquierda o derecha (en intervalos de 90º)
-* Acercar o alejar la imagen 
-* Realizar una presentación con todas las imágenes en la memoria, y en su caso seleccionar el intervalo temporal de paso de imágenes. 
-* Acerca de la imagen: En este punto se muestra información de la imagen (nombre, dimensiones, tipo de archivo).
-
-**Archivos**
-
-Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta micro SD de memoria externa, independientemente de su formato.
-
-Pulsando  , podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
-
-**Ajustes**
-
-En este menú dispones de 6 apartados, los cuales son:
-* Marcadores: entrando en este apartado, accederás a visualizar todos los marcadores (ordenados por libro) que hayas guardado durante tus lecturas. De este modo podrás acceder sencilla y rápidamente al punto que indicaste previamente.
-* Ajustes de energía: Ajusta aquí los tiempos de entrada en suspensión y de autoapagado del dispositivo.
-* Información eReader: Muestra la versión y la cantidad de memoria usada y disponible.
-* Idioma: selecciona entre 13 idiomas diferentes.
-* Fecha y hora: Ajusta aquí la fecha y la hora.
-* Restaurar ajustes por defecto: En este punto podrás hacer que el dispositivo elimine toda la configuración personalizada y vuelva a los valores que tenía por defecto (perderás ajustes personalizados, marcadores, favoritos)
+ Si vous le préférez, vous pouvez également faire une recherche pour un titre spécifique en saisissant le nom requis après avoir cliqué sur la touche ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg).  
 
 
-**Buscar**
+*Fonctions avancées de lecture*
 
-Accede rápidamente a cualquier archivo. Introduce el nombre del archivo que quieres encontrar y pulsa OK. El dispositivo mostrará los resultados que concuerden de entre todos los archivos de la memoria.
+Pendant la lecture d'un eBook, vous avez plusieurs fonctions pour ajuster la lecture à votre goût et le rendre aussi confortable et efficace: 
+
+- Ajouter signet : Grâce à cette fonction, vous pouvez ajouter un signet dans la page du livre où vous êtes. Ainsi, vous pouvez accéder rapidement à cette page plus tard.
+- Signets : Tous les signets créés dans le livre en cours son affichés.
+- Indice : Accédez à l'index du livre (si disponible).
+- Aller à la page : Accédez directement à une page spécifique du livre actuel.
+- Recherche : Faites la recherche d'un ou de plusieurs mots dans le livre en cours.
+- Taille de la police : Sélectionnez la taille de la police préférée parmi les 6 disponibles.
+- Police : Sélectionnez la police préférée.
+- Espacement : Sélectionnez l'espacement préféré entre les lignes.
+- Marge : Sélectionnez la marge préférée.
+- Rotation de l'écran : Faites roter l'écran de 90 degrés dans le sens horaire ou antihoraire.
+- Tournage automatique : Avec cette fonction, votre eReader est capable de tourner automatiquement la page après un laps de temps indiqué.
+- Rafraîchissement de la page : Cette fonction vous permet de choisir si vous souhaitez effectuer une rafraîchissement de la page automatique à chaque page, toutes les 3 pages ou toutes les 5 pages.
+- Ajouter aux favoris : Ajoutez le livre en cours à la collection de livres préférés.
+- À propos du livre: Affichez des informations sur le livre en cours (Titre, Auteur, Éditeur, Format).
+
+**Remarque:**
+Ne pas tous les formats de livres électroniques sont en mesure de développer toutes ces fonctionnalités.
+
+**Images**
+
+Ici vous pouvez afficher tous les fichiers d'image enregistrés dans la mémoire interne ou la carte micro SD de mémoire externe.
+
+Une fois que vous accédez au menu Images, en appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) vous pouvez choisir si vous voulez voir les fichiers sous forme de liste ou si vous préférez voir une représentation des vignettes.
+
+En sélectionnant une image et en cliquant ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), une fenêtre apparaîtra avec les options suivantes:
+
+
+* Rotation à gauche ou à droite (à des intervalles de 90°)
+* Agrandir ou diminuer l'image
+* Faire une présentation de toutes les images dans la mémoire, et le cas échéant, sélectionner l'intervalle de temps du déroulement des images.
+* À propos de l'image: Vous aurez accès à l'information de l'image (nom, taille, type de fichier).
+
+**Archives**
+
+Ici vous pouvez voir tous les dossiers et fichiers enregistrées dans la mémoire interne ou dans la carte micro SD de mémoire externe, indépendamment du format.
+
+En appuyant sur ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), vous pouvez faire la recherche d’un fichier spécifique en entrant leur nom, vous pouvez supprimer n’importe quel fichier ou dossier, ou sélectionner si vous voulez naviguer sur la mémoire interne ou externe (micro SD).
+
+**Paramètres**
+
+Dans ce menu, vous disposez de six sections, qui sont:
+* Signets: dans cette section vous aurez accès à la visualisation de tous les signets (triés par livre) que vous avez enregistré pour vos lectures. Ainsi, vous pouvez accéder facilement et rapidement au point que vous avez indiqué précédemment.
+* Paramètres d'alimentation: Réglez l'heure d'entrée en suspension et l'arrêt automatique du dispositif ici.
+* Informations eReader: Affichez la version et la quantité de mémoire utilisée et disponible.
+* Langue: choisissez entre 13 langues différentes.
+* Date et heure: Réglez ici la date et l'heure.
+* Restaurer les paramètres par défaut: Vous pouvez supprimer les paramètres personnalisés du dispositif et revenir aux réglages par défaut d'origine (vous perdrez les paramètres personnalisés, signets, favoris)
+
+
+**Recherche**
+
+Accédez rapidement à n'importe quel fichier. Entrez le nom du fichier que vous voulez trouver et cliquez sur OK. L'appareil affiche les résultats qui correspondent à tous les fichiers de la mémoire.
 
 

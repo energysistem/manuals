@@ -13,7 +13,7 @@
 * Recall function. Answer your last call just by pressing a button on the speaker.
 * Long-life lithium rechargeable battery.
 * USB port charging system.
-* 3.5mm "line-in" connection: listen to music from any portable player or PC.
+* 3.5mm "Audio-In" connection: listen to music from any portable player or PC.
 
 ### Technical features
 

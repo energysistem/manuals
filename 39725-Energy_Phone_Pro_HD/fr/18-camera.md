@@ -1,16 +1,17 @@
-## Caméra
+## Appareil photo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d018d71630.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
 
-1. Zoom
-2. Mode prise de veu
-3. Mode Beauté
-4. HDR
-5. Effets
-6. Paramètres
-7. Flash
-8. Caméra exchange
-9. Accès a la galerie
-10. Mode capture
-11. Déclencheur
-12. Mode vidéo
+1. Mode vue multi-angle.
+2. Mode panoramique.
+3. Mode beauté.
+4. Mode suivi de mouvement.
+5. Mode photographie direct.
+6. Mode normal.
+7. HDR.
+8. Flash.
+9. Changement appareil photo.
+10. Accès a la galerie.
+11. Déclencheur.
+12. Mode vidéo.
+12. Paramètres.

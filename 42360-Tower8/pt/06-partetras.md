@@ -1,2 +1,2 @@
 ## Parte traseira
-Na parte de trás da torre encontra-se o interruptor principal da sua *Energy Tower 3*; e dois reguladores de potência para frequências altas e baixas (indicado como Treble e Bass).
+Na parte de trÃ¡s da torre encontra-se o interruptor principal da sua *Energy Tower 8*; e dois reguladores de potÃªncia para frequÃªncias altas e baixas (indicado como Treble e Bass).

@@ -1,22 +1,39 @@
-## Resolución de problemas
+## Solução De Problemas
 
-**¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+**Eu não posso desligar ou suspender a minha eReader Pro / botão "Power" não está funcionando.**
 
-**No puedo cambiar la fuente de las letras en un archivo PDF.**
-El formato pdf se visualiza tal y como es creado, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
+Você precisa desativar o "modo de demonstração". Este modo, que você pode ajustar durante o Assistente de Inicialização, é projetado para o ereader quando é mostrado em uma loja exibindo na tela explicações sobre como o trabalho eReader. Para evitar desligar enquanto exposta neste modo, o botão de alimentação e modo de espera automático é desativado.
 
-**No se puede leer un libro electrónico.**
-Comprueba que el formato del libro electrónico es compatible con tu eReader.
+Para sair do "modo de demonstração" chegar a "Configurações", "definidos pelo usuário", e vire "Off" o "modo de demonstração".
 
-**El eReader se ha bloqueado y no responde.**
-Prueba pulsar el botón de Reset en la base usando un objeto muy fino, como un clip.
+![Demo Mode] (http://static.energysistem.com/images/manuals/42091/54b943e742640.jpg)
 
-**El eReader muestra mal los caracteres de los libros, espacios entre líneas excesivos o saltos de página donde no debería.**
-Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros electrónicos son digitalizados y formateados automáticamente sin revisión. Usa sólo contenido de proveedores de contenidos fiables y de calidad para tener la mejor experiencia de uso.
 
-**¿Puedo escuchar música mientras estoy leyendo un ebook?**
- Si, la aplicación de música te permite escuchar tu música mientras estás leyendo todo tipo de eBooks. 
 
-**Mi batería dura poco, aproximadamente unos 2 días**
-Si la batería de tu eReader dura poco, asegúrate que tu conexión Wi-Fi esté desactivada, además asegúrate que has seleccionado no usar la conexión Wi-Fi mientras el eReader está en suspensión en Ajustes.
+**Como posso desligar completamente o eReader sem ter uma imagem na tela? **
+
+O eReader terá sempre uma imagem, mesmo com o aparelho desligado. Não se preocupe porque esta imagem não consome energia do eReader. Além disso, você pode configurar a imagem exibida quando está desligado.
+
+**Eu não posso mudar a fonte das letras em um arquivo PDF.**
+
+O formato PDF é exibido como ele é criado, com suas fontes e estilos, portanto, não pode alterar a fonte. Esta é a limitação que você vai encontrar neste formato, no entanto, pode aumentar o zoom e mover-se através do livro como se fosse um outro formato. 
+
+**Não é possível ler um e-book.**
+
+Verifique que o formato de e-book é compatível com o seu eReader.
+
+**O eReader está bloqueado e não responde.**
+
+Tente pressionar o botão de reset na base usando um objeto fino, como um clipe. 
+
+**As letras dos livros não são bem exibidas, o espaço entre linhas è excessivo ou as quebras de página são onde não devem.**
+
+É devido ao formato em que o arquivo foi digitalizado. Muitos e-books são digitalizados e formatados automaticamente, sem revisão. Use só provedores de conteúdo de confiança e qualidade para uma melhor experiência do usuário.
+
+**Posso ouvir música enquanto eu estou lendo um ebook?**
+
+Sim, a aplicação de música permite que você ouça suas músicas enquanto você está fazendo todos os tipos de eBooks. 
+
+**Minha pequena bateria dura aproximadamente cerca de 2 dias.**
+
+Se a bateria do seu eReader dura pouco, verifique se o Wi-Fi está desactivado ou se você tiver seleccionado não usar a conexão Wi-Fi, enquanto o eReader está suspenso. 

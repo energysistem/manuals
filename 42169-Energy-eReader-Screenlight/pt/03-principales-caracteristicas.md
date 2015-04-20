@@ -1,14 +1,16 @@
-## Principales características
+## Principais Características 
 
-- Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris de alto contraste con función Screenlight de retroiluminación de pantalla. Resolución 600 x 800 pixels / 167ppp. 
-- Diseño estilizado y ultraligero. Tan sólo 8,1mm de grosor y 160gr.
-- Refresco de página ultrarrápido con mayor velocidad al abrir libros y cambiar páginas.
-- Sistema antirreflectante sin brillos y lectura cómoda bajo luz solar y desde diversos ángulos de visualización.
-- Batería de litio recargable que permite hasta un mes de uso con una sola carga.*
-- Funciones avanzadas de lectura: Screenlight, diferentes tamaños y tipos de letra, marcadores, giro de pantalla, libros favoritos, paso automático de página, autoapagado, ir a la página, selección de márgenes y espaciados.
-- Soporta Adobe® DRM (Digital Rights Management) para los formatos PDF y EPUB.
-- Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB; ampliable hasta 64GB con tarjetas micro SD/SDHC. 
-- Incluye 1500 libros de la literatura universal de regalo.
+- Leitor de ebook com tela e-ink de 6", 16 níveis de cinza e alto contraste. Resolução de 600 x 800 píxeis e 167 pontos por polegada.
+- Função Screenlight. 
+- Design estilizado e ultraleve. Apenas 8,1 milímetros de espessura e 160 gr.
+- Actualização de tela ultra-rápida com abertura e mudança de páginas mais rápida
+- Sistema anti-reflexo sem brilhos, fácil leitura sob a luz solar e de vários ângulos de visão.
+- Bateria de lítio recarregável que permite até um mes de uso com uma única carga.*
+- Funções avançadas de leitura: diferentes tamanhos e fontes, marcadores, rotação da tela, livros favoritos, mudança de página automática, desligamento automático, ir para a página, margens e espaçamento..
+- Suporta Adobe® DRM (Digital Rights Management) para formatos PDF e EPUB.
+- Interface do usuário em vários idiomas, fácil e intuitiva. 
+- Memória interna: 8 GB, expansível até 64 GB com cartões micro SD / SDHC. 
+- Inclui 1.500 clássicos da literatura universal. 
 
-*Cálculo basado en media hora de lectura diaria.
+*Calculo com meia hora de leitura diária.
+

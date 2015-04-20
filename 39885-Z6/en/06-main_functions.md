@@ -11,7 +11,7 @@ To turn off your device, press and keep 2 seconds the ON/OFF button (4).
 
 ### Changing play mode
 
-When you turn the device, line-in mode will start automatically. Connect the audio cable (included) to the LINE-IN connection (13) of the *Energy Music Box Z6* to use the speaker function. Press the MODE button (3) to switch between different playback modes.
+When you turn the device, Audio-In mode will start automatically. Connect the audio cable (included) to the AUDIO-IN connection (13) of the *Energy Music Box Z6* to use the speaker function. Press the MODE button (3) to switch between different playback modes.
 
 
 </quick_guide>

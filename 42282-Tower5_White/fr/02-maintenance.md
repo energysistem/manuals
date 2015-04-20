@@ -4,8 +4,6 @@
 
 * Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
 
-* Ne pas placer votre *Energy Tower 5* près d'appareils qui émettent de champs électromagnétiques intenses.
-
 * Gardez votre Energy Keyboard Case Pro 8 Windows propre et sans poussière; utilisez à cette fin un chiffon doux et sec lorsqu'il est déconnecté.
 
 * Ne démontez pas votre appareil. Toutes les réparations doivent être effectuées uniquement par du personnel qualifié de Energy Sistem Soyntec S.A.

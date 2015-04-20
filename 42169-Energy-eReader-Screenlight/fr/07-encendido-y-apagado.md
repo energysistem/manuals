@@ -1,7 +1,5 @@
-## Encendido y apagado
+## Allumer / Éteindre:
 
-Para encender tu eReader Screenlight, pulsa el botón encendido/apagado durante unos segundos. Para apagar el dispositivo, mantén pulsado del mismo modo el botón encendido/apagado y el dispositivo se apagará. Una pulsación breve del botón encendido/apagado mientras esté encendido bloquea/desbloquea el dispositivo. En el modo bloqueo o apagado, el dispositivo mostrará una imagen en su pantalla, sin que esto implique un consumo de batería.
+Pour allumer votre eReader, appuyez sur le bouton allumer/éteindre durant quelques secondes. Pour l'éteindre, restez appuyer sur ce même bouton et l'appareil s'éteindra. Une brève pulsation sur ce bouton bloque/débloque l'appareil. En mode bloqué ou éteint, le dispositif aura toujours une image sur son écran, sans que cela implique la consommation de la batterie.
 
-
-
-
+![](http://static.energysistem.com/images/manuals/42169/54bfcad7db4c9.jpg)

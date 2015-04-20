@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39903/54e47639ea21c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
 
 
 1. **Usuario**: muestra la sesión de usuario activa y permite cerrarla e iniciar una nueva sesión

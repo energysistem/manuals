@@ -1,4 +1,4 @@
-﻿## Introduction
+## Introdução 
 
-Energy Sistem#trade# thanks you for buying the new Energy eReader Pro. We hope you enjoy it! This new eReader owns a 6" HD E-Ink touch screen and a screenlight function which allows you to read under all lighting conditions. The navigation and free access to your emails is possible thanks to its integrated WiFi. Ideal reading partner with its reading functions and its 8GB of internal memory. We recommend you to read this manual to enjoy your device in a safe way and with maximum performance. 
+Energy Sistem #trade# lhe agradece a compra do seu Energy eReader Pro. Esperamos que desfrute deste aparelho! Este novo leitor de e-book tem uma tela táctil E-Ink de 6 "de alta resolução e a função ScreenLight permite ler com pouca luz. A navegação e o acesso gratuito ao seu e-mail são possíveis graças à sua conexão Wi-Fi integrada. Ele é um companheiro ideal para a leitura com as funções avançadas de leitura e 8GB de memória interna. Aconselhamos ler este manual para aproveitar o produto com segurança e maximizando o desempenho. 
 

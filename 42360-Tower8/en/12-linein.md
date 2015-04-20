@@ -1,3 +1,7 @@
-## Line in
+## Audio-In
 
-To use the line-in function, connect the audio cable in the line-in port (10) by one side (you can see “Aux” in the display), and connect the other side to another audio device like MP3 player, smartphone, tablet, etc.
+To use the Line-in function, connect the audio cable to the Audio-In port (10) - “AUX” will appear on the display - and connect the other side to your audio device.
+
+When connection the cable to the input audio (11), the "Audio-In" function will activate automatically.
+
+In "Audio-In" mode, the music as well as any modification made will be heard on the *Energy Tower 8*.

@@ -1,10 +1,9 @@
-## Condiciones de la garantía
+## Conditions de la garantie
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Soyntec S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del Bien, en los términos y bajo las condiciones establecidas en la citada norma. Quedan excluidas del periodo de 36 meses las baterí¬as del producto, cuyo periodo de garantía será de 12 meses.
+Pendant la période de 36 mois à  partir de la date du premier achat du produit par le consommateur, conforme à RDL 1/2007, Energy Sistem Soyntec S.A. répondra pour tout défaut de conformité existant au moment de la réception du bien, dans les termes et sous les conditions établies dans cette norme. Les batteries du produit sont exclues de la durée de 36 mois, ayant comme durée de la garantie 12 mois.
 
-En el caso de que el Bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución o, subsidiaria a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
+Quand le bien ne sera pas conforme au contrat et à  la livraison du ticket d'achat ou de caisse, l'acheteur aura droit à la réparation du bien, à son remplacement ou subsidiaire à  une réduction de prix ou à la résolution du contrat, conformément à cette norme.
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero debido a uso indebido, negligencia, uso o empleo del Bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación.
+La garantie offerte par Energy Sistem couvre les défauts en matière ou de fabrication. Cette garantie ne couvre pas les défauts ou détériorations résultant d'un accident, d'une utilisation inadéquate ou d'une manipulation du produit effectuée ou tentée par des personnes autres que celles de l’équipe d'Energy Sistem.
 
-Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
-La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+La garantie de 36 mois est valable pour l'Union Européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.

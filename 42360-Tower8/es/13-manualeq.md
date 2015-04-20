@@ -5,7 +5,7 @@ El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualiz
 * Ajuste de Medios/Agudos (Indicado como Treble).
 * Ajuste de Graves (Indicado como Bass).
 
-También puedes seleccionar 1 de las 5 ecualizaciones predefinidas, pulsando el botón (EQ) del mando:
+Durante la reproducción en modo "Sd" y "USb", también puedes seleccionar 1 de las 5 ecualizaciones predefinidas  pulsando durante 4 segundos el botón "Cambio de carpeta /EQ" (4) o pulsando el botón (EQ) del mando:
 
 * EQ 0: Normal.
 * EQ 1: Pop.

@@ -1,8 +1,8 @@
 ### Widgets
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d01f75fee7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61829e23a.jpg)
 
-In order to add a Widget to one of your desktops, tap the center of the desktop (1), then select "WIDGETS" at the top of the screen (2). You can slide your finger to the left or right (3) to see all your installed Widgets. Select the one you want to add to your desktop by pressing and then releasing it on the desktop.
+In order to add a Widget to one of your desktops, tap the center of the desktop (1), then select "WIDGETS" at the bottom of the screen (2). You can slide your finger to the left or right (3) to see all your installed Widgets. Select the one you want to add to your desktop by holding press on it and then releasing it on the desktop.
 
 A Widget can be relocated or removed easily. To relocate a widget, tap and hold it for a few seconds. Once the widget is highlighted, you can move it to another position within the desktop.
 

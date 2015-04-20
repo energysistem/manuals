@@ -6,7 +6,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Selección de modo (USB, SD, Line-in, Radio FM, Bluetooth®) mediante el botón modo.
 
-* Función "Mute" para silenciar todos los modos.
+* Función "Mute" para silenciar todos los modos, excepto el modo Bluetooh.
 
 * Control de Volumen, Play/Pause, Avance y Retroceso de pistas/sintonías FM (todos los modos).
 

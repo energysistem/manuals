@@ -1,7 +1,7 @@
-## Contenido del producto
+## Contenu du produit
 
 1 x Energy eReader Screenlight
 
-1 x cable micro USB
+1 x Câble micro USB 
 
-1 x manual de usuario
+1 x Manuel d'utilisateur

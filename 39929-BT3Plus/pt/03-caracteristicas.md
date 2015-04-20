@@ -5,7 +5,7 @@
 
 - Fones Bluetooth® 4.0.
 - Sincronização simples sem códigos.
-- Compatível com dispositivos iOS, ANDROID, PC e sistemas PlayStation.
+- Compatível com dispositivos iOS, ANDROID e PC.
 - Microfone integrado com cancelamento de eco e ruídos.
 - Função mãos livres e controle de chamadas.
 - Controle de leitura e volume desde o mesmo fone.
@@ -25,7 +25,6 @@
 Resposta em frequência: 60HZ – 20 KHZ
 - Transdutor dinâmico.
 - Diâmetro do diafragma: 40 mm.
-- Impedância: 32 Ohm.
 - Microfone integrado.
 - Sensibilidade do microfone: -42 dB.
 - Dimensões: 170 x 165 x 53 mm.

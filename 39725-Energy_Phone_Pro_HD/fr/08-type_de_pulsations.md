@@ -10,7 +10,7 @@ Appuyez brièvement l'écran
 
 *	Double clic
 
-Appuyez rapidement, deux fois sur l’écran
+Appuyez rapidement, deux fois sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg)
 
@@ -22,7 +22,7 @@ Glissez le doigt sur la superficie sans perdre le contact
 
 *	Glisser
 
-Glissez rapidement le doigt sur l’écran
+Glissez rapidement le doigt sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aaed15c2.jpg)
 

@@ -2,6 +2,6 @@
 
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42260/5491bbd167090.jpg)| 1. Play / Pause <br>2. < / << <br>3. Volume -<br>4. Dobrador<br>5. Modo<br>6. Aleat�rio<br>7. Slot  para dispositivos<br>8. USB de carregamento<br>9. Volume +<br>10. Line-in<br>11. Slot SD<br>12. \> / >><br>13. USB in<br>14. Display principal |
+|![Schema](http://static.energysistem.com/images/manuals/42360/552b910ba592f.jpg)| 1. Play / Pause <br>2. Retrocesso <br>3. Volume -<br>4. Mudar pasta / EQ<br>5. Modo<br>6. Repetir / Aleatório<br>7. Slot para dispositivos<br>8. Volume +<br>9. Porta USB de carregamento <br>10. Slot SD<br>11. Audio-In <br>12. Porta USB<br>13. Avanço<br>14. Display principal |
 
 

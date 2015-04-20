@@ -12,7 +12,7 @@
 * Diseño elegante con acabado en goma de gran calidad.
 * Fonction rappel.  Répondez à votre dernier appel depuis le même haut-parleur en appuyant sur un bouton.
 * Batterie de lithium rechargeable de longue durée.
-* Entrée "line-in" de 3.5 mm: pour écouter votre musique de n'importe quel lecteur portable ou ordinateur.
+* Entrée "Audio-In" de 3.5 mm: pour écouter votre musique de n'importe quel lecteur portable ou ordinateur.
 
 ### Spécifications techniques
 

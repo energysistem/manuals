@@ -10,7 +10,7 @@
 6. Volume button.
 7. Microphone.
 8. USB port.
-9. Menu, Home, Back touch buttons.
+9. Recent Apps, Home, Back touch buttons.
 10. Rear speaker.
 11. Rear flash.
 12. Rear camera.

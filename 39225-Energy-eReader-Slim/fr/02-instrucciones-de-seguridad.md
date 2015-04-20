@@ -1,15 +1,16 @@
-## Instrucciones de seguridad
+## Instructions de sécurité
 
-Para garantizar tu seguridad y la seguridad de los demás, por favor asegúrate de leer toda la información de seguridad antes de utilizar este producto. Guarda esta información en un lugar seguro para futura referencia.
+Pour assurer votre sécurité et celle des autres, s'il vous plaît n'oubliez pas de lire les consignes de sécurité avant d'utiliser ce produit. Enregistrer ces informations dans un endroit sûr pour référence ultérieure. 
 
-**Precauciones**
+**Précautions**
 
-Recomendamos la lectura de los siguientes puntos:
-- Realiza copias de seguridad periódicamente en otro dispositivo de almacenamiento. Energy Sistem#trade# no se hará responsable en ningún caso de la pérdida o daño de los datos almacenados.
-- No sitúes el dispositivo cerca de dispositivos que emitan campos electromagnéticos intensos. Puede provocar daños o pérdidas de los datos.
-- No desarmes o remodeles el dispositivo.
-- No dejes que el dispositivo caiga al suelo o reciba golpes: podría sufrir una pérdida de datos irrecuperable o incluso dejar de funcionar definitivamente.
-- No uses el eReader en condiciones de gran humedad o estando mojado.
-- No ejerzas presión en la pantalla del dispositivo.
-- No extraigas la tarjeta micro SD o apagues el dispositivo mientras se está leyendo o escribiendo datos para evitar pérdida de datos.
-- Asegúrate de que la tarjeta micro SD esté desbloqueada antes de escribir o borrar datos en ella.
+Nous vous recommandons de lire ce qui suit : 
+- Effectuez des sauvegardes régulières sur un autre périphérique de stockage. Energy Sistem #trade# ne sera pas tenu comme responsable pour la perte ou l'endommagement des données stockées. 
+- Ne placez pas l'unité à proximité d'appareils qui émettent des champs électromagnétiques puissants. Ils peuvent causer des dommages ou de perte de données. 
+- Ne démontez pas l'appareil. 
+- Ne laissez pas tomber l'appareil au sol ou recevoir un choc car cela peut entraîner une perte de données irrémédiable ou même arrêter complètement de fonctionner. 
+- Ne pas utiliser l'eReader dans des conditions de forte humidité ou lorsqu'il est mouillé. 
+- Ne pas exercer une pression sur l'écran de l'appareil. 
+- Ne pas retirez la carte micro SD ou éteindre l'appareil pendant la lecture ou l'écriture des données pour empêcher la perte de données. 
+- Assurez-vous que la carte micro SD est déverrouillée avant d'écrire ou supprimer des données.
+

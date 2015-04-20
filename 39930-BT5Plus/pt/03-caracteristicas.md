@@ -5,7 +5,7 @@
 * Fones de ouvido dinâmicos fechados com tecnologia Bluetooth® V4.0.
 * Microfone de alta sensibilidade e com cancelamento de eco e ruído. 
 * Som limpo, claro e cheio de detalhes. 
-* Compatibilidade total com Tablets, Smartphones, Portátiles, PlayStation, MAC e PC.
+* Compatibilidade total com Tablets, Smartphones, Portátiles, MAC e PC.
 * Simples sincronização sem códigos.
 * Função de emparelhamento por NFC.
 * Controle para las funções PLAY, STOP, <<, >>, e VOLUME integrado no próprio fone.

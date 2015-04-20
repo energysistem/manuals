@@ -1,17 +1,18 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d018d71630.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
 
 
-1. Zoom
-2. Shooting mode
-3. Beauty mode
-4. HDR
-5. Effects
-6. Settings
-7. Flash
-8. Exchange camera
-9. Access to the gallery
-10. Capture mode
-11. Shooting button
-12. Video mode
+1. Multiangle view mode.
+2. Panorama mode.
+3. Face beauty mode.
+4. Motion track mode.
+5. Live photo mode.
+6. Normal mode.
+7. HDR.
+8. Flash.
+9. Swap cameras.
+10. Access to the gallery.
+11. Shooting button.
+12. Video mode.
+13. Settings.

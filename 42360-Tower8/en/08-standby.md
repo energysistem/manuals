@@ -1,22 +1,21 @@
 ## Power switch. Stand by mode.
 
-First, connect your *Energy Tower 5* to power supply and put the rear switch in "ON" position. Thereafter, you can turn on and off from the "PLAY" button on the top panel, keeping it pressed for 2 seconds (stand-by mode).
+Connect your *Energy Tower 8* to the power supply and put the switch located on the back to the "ON" position. Now you can turn on and off the device by keeping the "PLAY" button pressed for two seconds (stand-by mode).
 
-We recommend that when the tower is not in use for a long period of time, put "OFF" the rear switch.
+We recommend you to turn off the device when not using it over longer periods of time.
 
 
 ## Display
 
-The *Energy  Tower 5* is equipped with a backlit display hidden on the top of device.
+The *Energy  Tower 8* is equipped with a backlit display which is located on top of the device.
 
-When device is turned on, you can see Energy Sistem TM logo at he top of the panel.
-
-In addition, you can see the display with the actual mode and more information in the front of the top panel.
+When turned on, the upper screen will display the current play mode; other information will be displayed on the front of the device.
 
 
 ## Touch control
 
-The *Energy Tower 5* has a touch in the top panel by which you can control all functions easily.
-For a correct response of touch control, you should press it with the fingertip and hold for about 1 second.
+The *Energy Tower 8* features a touch panel on the upper part to control all functions.
+
+Press the touch panel with your fingertips for a better response.
 
 

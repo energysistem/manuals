@@ -5,7 +5,7 @@
 
 - Auriculares Bluetooth 4.0.
 - Fácil sincronización sin códigos.
-- Compatible con dispositivos iOS, ANDROID, PC y sistemas PlayStation.
+- Compatible con dispositivos iOS, ANDROID y PC.
 - Micrófono integrado con cancelación de eco y ruidos.
 - Función manos libres y control de llamadas.
 - Control de reproducción y volumen desde el propio auricular.
@@ -25,7 +25,6 @@
 - Respuesta en frecuencia: 60HZ – 20 KHZ
 - Transductor dinámico.
 - Diámetro del diafragma: 40 mm.
-- Impedancia: 32 Ohm.
 - Micrófono integrado.
 - Sensibilidad del micrófono: -42 dB.
 - Dimensiones: 170 x 165 x 53 mm.

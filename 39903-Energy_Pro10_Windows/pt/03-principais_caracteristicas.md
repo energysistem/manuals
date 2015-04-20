@@ -17,5 +17,5 @@
 * Microfone omnidirecional integrado.
 * Sensor de movimento (acelerómetro).
 * Capacidade da bateria: 3.7v/ 7000mAh.
-* Autonomia: até 4 horas de navigação Wi-Fi.
+* Autonomia: até 5 horas de navigação Wi-Fi.
 * Connexão com adaptador AC 100-240v 50-60Hz DC 5v/2A.

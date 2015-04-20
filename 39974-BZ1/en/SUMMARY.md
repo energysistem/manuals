@@ -10,7 +10,7 @@
 * [Emparejamiento Bluetooth](07-bluetooth_pairing.md)
 * [Control de reproduccion](08-play_control.md)
 * [Control de llamadas](09-talk_control.md)
-* [Entrada de linea](10-line_in.md)
+* [Entrada de linea](10-Audio_In.md)
 * [Garantia](11-warranty.md)
 * [Funcionamineto de la garantia](12-warranty_procedure.md)
 * [Declaracion de conformidad](13-declaration_of_conformity.md)

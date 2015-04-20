@@ -1,0 +1,21 @@
+## Principales Características
+
+- Procesador de doble núcleo ARM Cortex A9 1.6GHz con GPU Mali-400 Quad Core integrada.
+- 1GB RAM DDR3 / 8GB de memoria flash interna.
+- Sistema Android 4.2 Jelly Bean.
+- Mando a distancia ergonómico doble cara con teclado QWERTY incluido, modo "Mouse" y accesos directos a apps y a pantalla inalámbrica Miracast.
+- Aplicaciones de media streaming y clonado de pantalla con tecnología Miracast#trade#. 
+- Wi-Fi 802.11b/g/n integrado para máxima velocidad en tu conexión a Internet.
+- Reproduce los formatos de archivos más populares de vídeos en alta definición.
+- Disfruta tu TV como un ordenador con acceso a tus archivos guardados en "la nube".
+- Memoria ampliable con dispositivos USB externos.
+- Soporta teclado y ratón externos usb.
+- Avanzado navegador, soporta HTML 5 y Flash 11.1.
+- Consumo reducido de energía en modo standby de 0.5W máximo, contribuyendo a la sostenibilidad del medio ambiente.
+- Silencioso y compacto, tamaño pendrive para llevar contigo alla donde vayas.
+- Interfaz de usuario en múltiples idiomas, intuitivo y sencillo para su uso con TV. 
+- Instalación fácil e intuitiva, Plug and Play, con asistente en pantalla.
+- Conexiones: 1 x High Speed HDMI, 1 x micro USB para cable DC con antena Wi-Fi y USB OTG / HOST, 1 x Jack 2,5mm para cable receptor IR.
+- Formatos compartibles: VIDEO: DivX, Xvid, AVI, MKV, MP4, MPG, ISO, IFO, MOV, M2TS, TS, WMV, VOB, DAT, RM, RMVB. / AUDIO: MP3, WMA, WAV, AAC, DD+, MPEG. / IMAGE: JPG, JPEG, BMP, PNG, GIF.
+- Compatible con dispositivos de almacenamiento externo con formato FAT/FAT32/NTFS/ExFAT, incluidos discos duros autoalimentados.
+- Adaptador AC/DC (Europlug); Input 100-240V; Output 5V/1.5A; 50/60 Hz.

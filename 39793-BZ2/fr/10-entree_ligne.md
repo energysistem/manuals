@@ -4,4 +4,4 @@ C'est possible profiter de votre *Energy Music Box BZ2 Bluetooth* sans besoin de
 
 C'est nécessaire d'avoir l'*Energy Music Box BZ2 Bluetooth* allumé pour utiliser cette fonction.
 
-**AVIS:** Lorsque vous utilisez l'haut-parleur en mode line-in, il n'est pas possible de contrôler la lecture ou le volume depuis l'haut-parleur, il faudra réaliser ces actions depuis le lecteur branché.
+**AVIS:** Lorsque vous utilisez l'haut-parleur en mode Audio-In, il n'est pas possible de contrôler la lecture ou le volume depuis l'haut-parleur, il faudra réaliser ces actions depuis le lecteur branché.

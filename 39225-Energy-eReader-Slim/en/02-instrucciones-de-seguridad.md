@@ -1,15 +1,16 @@
-## Instrucciones de seguridad
+## Safety intructions
 
-Para garantizar tu seguridad y la seguridad de los demás, por favor asegúrate de leer toda la información de seguridad antes de utilizar este producto. Guarda esta información en un lugar seguro para futura referencia.
+In order to ensure your safety and the safety of others, please make sure to read all the safety information before using this product. Keep this information in a safe place for future references.
 
-**Precauciones**
+**Precautions**
 
-Recomendamos la lectura de los siguientes puntos:
-- Realiza copias de seguridad periódicamente en otro dispositivo de almacenamiento. Energy Sistem#trade# no se hará responsable en ningún caso de la pérdida o daño de los datos almacenados.
-- No sitúes el dispositivo cerca de dispositivos que emitan campos electromagnéticos intensos. Puede provocar daños o pérdidas de los datos.
-- No desarmes o remodeles el dispositivo.
-- No dejes que el dispositivo caiga al suelo o reciba golpes: podría sufrir una pérdida de datos irrecuperable o incluso dejar de funcionar definitivamente.
-- No uses el eReader en condiciones de gran humedad o estando mojado.
-- No ejerzas presión en la pantalla del dispositivo.
-- No extraigas la tarjeta micro SD o apagues el dispositivo mientras se está leyendo o escribiendo datos para evitar pérdida de datos.
-- Asegúrate de que la tarjeta micro SD esté desbloqueada antes de escribir o borrar datos en ella.
+We recommend reading the following points:
+-	Create a back up periodically on other storage devices. Energy Sistem™ shall not be liable for any damage or loss of data.
+-	Do not place the eReader near devices with strong magnetic fields. It may cause damage or loss of data.
+-	Do not disassemble nor remodel the device.
+-	Do not subject the device to shock nor let it fall to the ground.
+-	Do not use the eReader in a humid environment nor if it is wet.
+-	Do not put pressure on the eReaders display.
+-	Do not remove the microSD card nor turn it off while reading or during data writing in order to prevent loss of data.
+-	Make sure to unlock the microSD card before writing or deleting data.
+

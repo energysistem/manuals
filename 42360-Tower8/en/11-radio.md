@@ -1,9 +1,7 @@
 ## FM Radio
 
-Before using radio function, firstly you have to search the available radio channels and will save them for visualising them later.It is not necessary to repeat this search unless change of location of modification of the radio stations’ signal.
+In order to use the radio function, you will have to scan for available radio stations, which then will be stored in the device's memory. It is not necessary to repeat this procedure unless you change location or modify the radio stations.
 
-To search radio channel, press and keep pressing the play/pause button (5) during 3 seconds. This will save all stations founded in the internal memory of the device. This process may take a few minutes.
+Press and hold the play/pause button (5) during 4 seconds when being in radio mode. This will save all stored radio stations in the device's internal memory. This process may take a few minutes.
 
-In order to select between different stations, you just have to press the forward button (12) or backward button (2). Stations will appear at the same order as they were saved.
-
-If you want to do a manual adjust or searching, just keep pressed the forward button (12) or backward button (2) and find the radio station that you want.
+Pressing the forward (13) or backward (2) buttons will allow you to change between different stations. You can also change between different radio stations by pressing and holding the forward (13) and backward (2) buttons.

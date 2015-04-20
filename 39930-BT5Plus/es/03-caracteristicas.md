@@ -6,7 +6,7 @@
 * Auriculares dinámicos circumaurales cerrados con tecnología Bluetooth® V4.0.
 * Micrófono de alta sensibilidad y con cancelación de eco y ruido.
 * Sonido limpio, claro y lleno de detalles.
-* Compatibilidad total con Tablets, Smartphones, Portátiles, PlayStation, MAC y PC.
+* Compatibilidad total con Tablets, Smartphones, Portátiles, MAC y PC.
 * Fácil sincronización sin códigos.
 * Función de emparejamiento por NFC.
 * Control para las funciones PLAY, STOP, <<, >>, y VOLUMEN integrado en el propio auricular.

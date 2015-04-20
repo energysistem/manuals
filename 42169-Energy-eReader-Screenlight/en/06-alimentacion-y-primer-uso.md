@@ -1,3 +1,5 @@
-## Alimentación / primer uso:
+## Power supply / first use
 
-Tu Energy eReader Screenlight lleva una batería recargable de litio. Inicialmente, la batería viene cargada de fábrica, pero es recomendable que realices una carga completa antes del primer uso. Recarga la batería conectando el dispositivo a la toma de corriente a través de un cargador USB (5V / 1A max) o a tu ordenador mediante el cable micro USB incluido en el producto. El tiempo de carga oscila entre 1-3 horas dependiendo de si el dispositivo está apagado o encendido. Para mantener la batería en excelentes condiciones te recomendamos que durante la carga lo mantengas apagado y no lo dejes cargando más de 8 horas.   
+Your Energy eReader Screenlight has a rechargeable lithium battery. The battery is charged, but it is highly recommended to fully charge it before using the device for the first time.  Recharge the battery by connecting the device to a wall outlet via USB charger (5V / 1A max.) or to your computer using the included microUSB cable. The charging time may vary (one to three hours) depending upon if the device is turned on or off. In order to keep the battery in good condition, do not let it recharging for more than 8 hours. 
+
+![](http://static.energysistem.com/images/manuals/42169/54bfda0aa2c2c.jpg)

@@ -12,7 +12,7 @@
 - Play MP3 files from micro SDHC up to 32GB.
 - Portable and compact design that allows you to take it everywhere with you and amplify your music.
 - FM radio function: Listen to your favourite radio station and share it with your friends.
-- 3.5 mm "line-in" port: listen to music from any portable player or PC.
+- 3.5 mm "Audio-In" port: listen to music from any portable player or PC.
 - Rechargeable lithium battery up to 14 hours duration.*
 - USB port charging system.
 
@@ -30,7 +30,7 @@
 - FM radio function.
 - Built-in microphone (hands-free function).
 - Backlit display
-- 3.5 mm "line-in" port.
+- 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
 - USB charging system.
 - Distance range up to 10m.
@@ -40,7 +40,7 @@
 
 - Nominal capacity: 800mA.
 - DC Voltage: 5V.
-- Autonomy in line-in mode: 14 hours.*
+- Autonomy in Audio-In mode: 14 hours.*
 - Autonomy in radio mode: 11 hours.*
 - Autonomy in micro SD player mode: 9 hours.*
 - Autonomy in Bluetooth mode: 8 hours.*

@@ -1,14 +1,14 @@
-## Principales características
+## Principales caractéristiques
 
-- Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris de alto contraste con función Screenlight de retroiluminación de pantalla. Resolución 600 x 800 pixels / 167ppp. 
-- Diseño estilizado y ultraligero. Tan sólo 8,1mm de grosor y 160gr.
-- Refresco de página ultrarrápido con mayor velocidad al abrir libros y cambiar páginas.
-- Sistema antirreflectante sin brillos y lectura cómoda bajo luz solar y desde diversos ángulos de visualización.
-- Batería de litio recargable que permite hasta un mes de uso con una sola carga.*
-- Funciones avanzadas de lectura: Screenlight, diferentes tamaños y tipos de letra, marcadores, giro de pantalla, libros favoritos, paso automático de página, autoapagado, ir a la página, selección de márgenes y espaciados.
-- Soporta Adobe® DRM (Digital Rights Management) para los formatos PDF y EPUB.
-- Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB; ampliable hasta 64GB con tarjetas micro SD/SDHC. 
-- Incluye 1500 libros de la literatura universal de regalo.
+- Liseuse de livres électroniques avec écran e-ink de 6", 16 niveaux de gris et grand contraste. Résolution 600 x 800 pixels et 167 points par pouce.
+- Fonction Screenlight.
+- Design stylisé et ultraléger. Seulement 8,1 mm d'épaisseur et 160 gr.
+- Rafraîchissement d'écran ultrarapide avec une vitesse maximale pour ouvrir des livres et tourner les pages.
+- Système anti-reflets pour une lecture facile sous le soleil et sous différents angles de vision.
+- Batterie de lithium rechargeable qui permet jusqu'à un mois d'utilisation avec une seule charge.*
+- Fonctions avancées de lecture: différentes tailles et types de lettre, marqueurs, rotation de l'écran, livres préférés, tournage de page automatique, éteint automatique, aller à la page, marges et sélection d'espacement.
+- Interface d'utilisateur dans plusieurs langues, simple et intuitive. 
+- Mémoire interne : 8 Go, extensible jusqu'à 64 Go avec des cartes micro SD/SDHC.
+- Inclut 1500 livres de littérature universelle en cadeau.  
 
-*Cálculo basado en media hora de lectura diaria.
+*Calcul basé sur une demi-heure de lecture quotidienne.

@@ -1,7 +1,8 @@
-## Pantalla principal
+## Tela principal 
+![](http://static.energysistem.com/images/manuals/39225/54bfec892decc.jpg)
 
-1. Carrusel de los últimos libros leídos, indicando la progresión de la lectura mediante la barra de puntos.
-2. Carrusel de los últimos libros añadidos
-3. Iconos principales
-4. Batería: te indica el nivel de batería que dispone tu eReader
-5. Fecha y hora
+1. Carrossel dos últimos livros lidos, progressão de leitura com barra de pontos.
+2. Carrossel dos últimos livros adicionados 
+3. Principais ícones * 
+4. Bateria: indica o nível de bateria do seu eReader 
+5. Data e hora

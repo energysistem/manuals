@@ -4,4 +4,4 @@ Também pode desfrutar do seu *Energy Music Box BZ2 Bluetooth* sem necessidade d
 
 É necessário ter o *Energy Music Box BZ2 Bluetooth* ligado para utilizar esta função.
 
-**AVISO:** Durante a utilização do altifalante em modo line-in, não é possível controlar a leitura ou volume desde o próprio altofalante, é necessário realizar estas acções desde o leitor conectado.
+**AVISO:** Durante a utilização do altifalante em modo Audio-In, não é possível controlar a leitura ou volume desde o próprio altofalante, é necessário realizar estas acções desde o leitor conectado.

@@ -1,14 +1,14 @@
-## Principales características
+## Main features
 
-- Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris y alto contraste. Resolución 600 x 800 pixels / 167ppp. 
-- Diseño estilizado y ultraligero. Tan sólo 7,6mm de grosor y 149gr.
-- Refresco de página ultrarrápido con mayor velocidad al abrir libros y cambiar páginas.
-- Sistema anti-reflectante sin brillos y lectura cómoda bajo luz solar y desde diversos ángulos de visualización.
-- Batería de litio recargable que permite hasta un mes de uso con una sola carga.*
-- Funciones avanzadas de lectura: diferentes tamaños y tipos de letra, marcadores, giro de pantalla, libros favoritos, paso automático de página, autoapagado, ir a la página, selección de márgenes y espaciados.
-- Soporta Adobe® DRM (Digital Rights Management) para los formatos PDF y EPUB.
-- Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB; ampliable hasta 64GB con tarjetas micro SD/SDHC. 
-- Incluye 1500 libros de la literatura universal de regalo.
+-	eReader with 6" E-Ink display, 16 greyscale levels and high contrast. 600 x 800p resolution / 167ppi. 
+-	Stylish and lightweight design. Only 7.6mm and 149gr.
+-	Opens books in no time, ultra-fast page turning and screen refresh.
+-	Anti-glare system to read comfortably under all lighting conditions and from different viewing angles.
+-	Rechargeable lithium battery. Lasts up to two months with a single charge.*
+-	Advanced reading functions: Different font types and sizes, bookmarks, landscape mode, favourite books, automatic page turning, automatic shutdown, go to page function.
+-	Supports Adobe® DRM (Digital Rights Management) for PDF and EPUB formats.
+-	User-friendly and multilingual user interface.
+-	Internal memory: 8GB, expandable up to 64GB via microSD/SDHC cards. 
+-	Includes 1,500 works of universal literature.
 
-*Cálculo basado en media hora de lectura diaria.
+*Based on half an hour of daily reading.

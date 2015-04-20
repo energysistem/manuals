@@ -12,7 +12,7 @@
 * Design elegante com acabamento de borracha de grande qualidade.
 * Função remarcação. Responda a sua última chamada desde o próprio alto-falante só premindo um botão.
 * Bateria de lítio de longa duração recarregável através de USB.
-* Entrada line-in de 3.5 mm para escutar música desde qualquer leitor portátil ou computador.
+* Entrada Audio-In de 3.5 mm para escutar música desde qualquer leitor portátil ou computador.
 
 ### Características técnicas
 

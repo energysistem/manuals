@@ -1,27 +1,27 @@
-## Gestos táctiles
+## Tipos de toques
 
-**Gestos elementales**
-- Pulsación:
-Pulsa brevemente la pantalla
+**Gestos principais**
+- Toque:
+Toca brevemente a tela 
 
 ![](https://camo.githubusercontent.com/8a1a605385ab4126116678757bd133fca34ea6c9/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353639623262356233352e6a7067)
 
-- Presionar:
-Toque la superficie durante un período prolongado de tiempo
+- Pressionar:
+Toque a tela por longo período de tempo
  
 ![](https://camo.githubusercontent.com/a773834656455845bf8b52066e8397a3957324ba/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661656462643165312e6a7067)
 
 
 - Zoom:
-Ampliar y reducir la imagen de pantalla
+Ampliar e reduzir a imagem na tela
  
 ![](https://camo.githubusercontent.com/123d08d94943648cf48946d49af9f88b12d17de1/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661666334383930302e6a7067)
 
 
-**2 maneras para cambiar de página**
-- Desliza el dedo rápidamente sobre la pantalla
+**2 maneiras para mudar as páginas**
+- Deslize o dedo rapidamente sobre a tela 
  
 ![](https://camo.githubusercontent.com/19a82089a6bd24bb4557d05e1b706dc668d6865b/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661616564313563322e6a7067)
 
 
-- Utilizar los botones laterales para avanzar / retroceder de página.
+- Use os botões laterais para página anterior / seguinte.

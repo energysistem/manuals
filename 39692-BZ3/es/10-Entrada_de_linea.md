@@ -4,4 +4,4 @@ También es posible disfrutar de tu *Energy Music Box BZ3 Bluetooth* sin necesid
 
 Es necesario tener el *Energy Music Box BZ3 Bluetooth* encendido para utilizar esta función.
 
-**NOTA:** Mientras se utiliza el altavoz en modo line-in, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+**NOTA:** Mientras se utiliza el altavoz en modo Audio-In, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.

@@ -5,7 +5,7 @@
 
 - Écouteurs Bluetooth® 4.0.
 - Simple synchronisation sans codes.
-- Compatible avec appareils iOS, ANDROID, PC et systèmes PlayStation.
+- Compatible avec appareils iOS, ANDROID et PC.
 - Microphone inclut avec annulation d'écho et bruit.
 - Fonction mains libres et contrôle d'appels.
 - Contrôle de lecture et volume depuis l'haut parleur.
@@ -25,7 +25,6 @@
 - Réponse en fréquence: 60HZ – 20 KHZ
 - Transducteur dynamique.
 - Diamètre du diaphragme: 40 mm.
-- Impédance: 32 Ohm.
 - Microphone inclut.
 - Sensibilité du microphone: -42 dB.
 - Dimensions: 170 x 165 x 53 mm.

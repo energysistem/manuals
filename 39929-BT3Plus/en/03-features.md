@@ -4,7 +4,7 @@
 
 - Bluetooth® headphones V4.0.
 - Easy synchronization without any code.
-- Compatible with iOS and Android devices, PC and PlayStation systems.
+- Compatible with iOS and Android devices and PC.
 - Built-in microphone with echo and noise cancellation.
 - Handsfree function and phonecall control.
 - Playback and volume control from the headphones.
@@ -22,7 +22,6 @@
 - Speaker Frequency Response: 60HZ – 20KHZ
 - Driver Type: Dynamic
 - Speaker diameter: 40 mm
-- Speaker impedance: 32 ohm
 - Built in microphone.
 - Microphone Sensitivity: -42 dB
 - Dimensions: 170 x 165 x 53 mm.

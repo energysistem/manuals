@@ -1,21 +1,21 @@
-## Resolución de problemas
+## Solução de problemas 
 
-**¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
+**Como posso desligar completamente o eReader sem ter uma imagem na tela?**
 
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes, porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+O eReader terá sempre uma imagem, mesmo com o aparelho desligado. Não se preocupe porque esta imagem não consome energia do eReader. Além disso, você pode configurar a imagem exibida quando está desligado.
 
-**No puedo cambiar la fuente de las letras en un archivo PDF:**
+**Eu não posso mudar a fonte das letras em um arquivo PDF.**
 
-El formato pdf se visualiza tal y como es creado, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
+O formato PDF é exibido como ele é criado, com suas fontes e estilos, portanto, não pode alterar a fonte. Esta é a limitação que você vai encontrar neste formato, no entanto, pode aumentar o zoom e mover-se através do livro como se fosse um outro formato. 
 
-**No se puede leer un libro electrónico:**
+**Não é possível ler um ebook.**
 
-Comprueba que el formato del libro electrónico es compatible con tu eReader.
+Verifique que o formato de ebook é compatível com o seu eReader. 
 
-**El eReader se ha bloqueado y no responde.**
+**O eReader está bloqueado e não responde.**
 
-Prueba pulsar el botón de Reset en la parte posterior del dispositivo usando un objeto muy fino, como un clip. A continuación, pulsa el botón ON. 
+Tente pressionar o botão de reset na base usando um objeto fino, como um clipe.
 
-**El eReader muestra mal los caracteres de los libros, espacios entre líneas excesivos o saltos de página donde no debería.**
+**As letras dos livros não são bem exibidas, o espaço entre linhas è excessivo ou as quebras de página são onde não devem.**
 
-Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros electrónicos son digitalizados y formateados automáticamente sin revisión. Usa sólo contenido de proveedores de contenidos fiables y de calidad para tener la mejor experiencia de lectura.
+É devido ao formato em que o arquivo foi digitalizado. Muitos e-books são digitalizados e formatados automaticamente, sem revisão. Use só provedores de conteúdo de confiança e qualidade para uma melhor experiência do usuário.

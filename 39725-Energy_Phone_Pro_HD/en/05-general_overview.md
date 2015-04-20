@@ -1,22 +1,24 @@
 ## <quick_guide> General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d0296868ff.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec60ea3e352.jpg)
 
-1. Proximity and luminosity sensors.
-2. Headphones output.
-3. Front speaker.
-4. USB OTG/HOST port.
-5. Front camera.
-6. Rear camera.
+1. Notifications LED.
+2. Proximity and luminosity sensors.
+3. Front camera.
+4. Front speaker.
+5. Volume button.
+6. Recent Apps, Home, Back touch buttons.
 7. Front flash.
-8. Rear flash.
-9. Volume button.
+8. Rear camera.
+9. Rear microphone.
 10. Rear speaker.
-11. Menu, Home, Back touch buttons.
-12. Power button.
-13. Lower microphone.
-14. Rear microphone.
-15. microSIM card slot 2.
-16. microSIM card slot 1.
-17. Notifications LED.
+11. Rear flash.
+12. Power button. 
+13. Earphones output.
+14. microSD slot.
+15. micro-SIM card slot 1.
+16. microSIM card slot 2.
+17. Lower microphone.
+18. USB OTG/HOST port.
+
 </quick_guide>

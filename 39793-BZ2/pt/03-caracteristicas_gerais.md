@@ -12,7 +12,7 @@
 - Reproduz arquivos MP3 desde cartões microSDHC com capacidade de até 32GB.
 - Desenho compacto e portátil, lhe permitirá levar-lho contigo facilmente em todo lugar e amplificar sua música.
 - Função radio FM: Escuta teu programa de radio favorito e compartilha com teus amigos.
-- Entrada "line-in" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
+- Entrada "Audio-In" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
 - Bateria de lítio reacarregável com uma duração de 14 horas.*
 * Carregamento de bateria através da porta USB.
 
@@ -30,7 +30,7 @@
 - Função radio FM.
 * Microfone integrado (função mãos livres).
 - Display retroiluminado.
-- Entrada "line-in" de 3.5 mm.
+- Entrada "Audio-In" de 3.5 mm.
 - Bateria de lítio recarregável.
 - Carregador de bateria USB.
 - Distância de uso até 10mm de alcance.
@@ -40,7 +40,7 @@
 
 * Capacidade nominal: 800 mA.
 - Tensão DC: 5 V.
-- Autonomia en modo line-in: 14 horas.*
+- Autonomia en modo Audio-In: 14 horas.*
 - Autonomia em modo radio: 11 horas.*
 - Autonomia em modo micro SD: 9 horas.*
 - Autonomia em modo Bluetooth: 8 horas.*

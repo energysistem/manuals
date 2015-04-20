@@ -1,9 +1,9 @@
 ## Introduction
 
-Energy Sistem® thanks you for buying your new *Energy Tower 5*, we wish you to enjoy it.
+Energy Sistem® thanks you for buying your new *Energy Tower 8*, we wish you to enjoy it.
 
-Awaken your senses with this 2.1 sound tower. Connect your Bluetooth devices easily and enjoy the sound system's 60W RMS. It also features an FM Radio, USB port and a SD/SDHC card reader.
+Awaken your senses with this 2.1 sound tower. Connect your Bluetooth devices easily and enjoy its 100 W RMS. It also features FM Radio, a USB port and a SD/SDHC card reader.
 
-We suggest you read this user manual in order to take the most advange from your product, on a safely way and with the best performance.
+We suggest you to read this user manual in order to get the most out of your product safely and with the best performance.
 
 

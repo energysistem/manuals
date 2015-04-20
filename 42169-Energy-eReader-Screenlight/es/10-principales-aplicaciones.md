@@ -4,7 +4,7 @@
 
 Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
 
-Dispones de diferentes opciones de visualización y orden de los libros de tu biblioteca. Accede a ellas mediante el menú de opciones  . Allí encontraras diferentes opciones:
+Dispones de diferentes opciones de visualización y orden de los libros de tu biblioteca. Accede a ellas mediante el menú de opciones ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). Allí encontraras diferentes opciones:
 
 - Favoritos: Mostrará únicamente los libros que hayas marcado como Favoritos.
 - Buscar: Mediante esta opción podrás hacer una búsqueda de un título concreto.
@@ -16,7 +16,7 @@ Dispones de diferentes opciones de visualización y orden de los libros de tu bi
 - Ver portada: Se mostrarán los libros con la portada en miniatura acompañando al título del mismo.
 
 
-Si lo prefieres, también es posible hacer una búsqueda de un título concreto introduciendo el nombre requerido tras pulsar el botón  .  
+Si lo prefieres, también es posible hacer una búsqueda de un título concreto introduciendo el nombre requerido tras pulsar el botón ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg).  
 
 *Funciones avanzadas de lectura*
 
@@ -43,9 +43,9 @@ Nota: No todos formatos de eBook son capaces de desarrollar todas estas funciona
 
 Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
 
-Una vez accedes al menú Imágenes, pulsando   puedes seleccionar si quieres ver los archivos como una lista o si prefieres ver una representación de las imágenes en miniatura.
+Una vez accedes al menú Imágenes, pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) puedes seleccionar si quieres ver los archivos como una lista o si prefieres ver una representación de las imágenes en miniatura.
 
-Situándote dentro de una imagen y pulsando  , aparecerá un desplegable con las siguientes opciones:
+Situándote dentro de una imagen y pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), aparecerá un desplegable con las siguientes opciones:
 
 * Rotar hacia la izquierda o derecha (en intervalos de 90º)
 * Acercar o alejar la imagen 
@@ -56,7 +56,7 @@ Situándote dentro de una imagen y pulsando  , aparecerá un desplegable con las
 
 Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta micro SD de memoria externa, independientemente de su formato.
 
-Pulsando  , podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
+Pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
 
 **Ajustes**
 

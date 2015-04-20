@@ -1,21 +1,21 @@
-## Resolución de problemas
+## Résolution de problèmes : 
 
-**¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
+**Comment éteindre complètement mon Energy eReader sans qu'apparaisse l'image sur l'écran?**
 
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes, porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+L'Energy eReader aura toujours une image sur son écran, même quand l'appareil sera éteint. Ne vous inquiétez pas parce que cette image ne consomme pas d'énergie. En plus, vous pouvez configurer l'image qu'affichera l'eReader lorsqu'il sera éteint. 
 
-**No puedo cambiar la fuente de las letras en un archivo PDF:**
+**Je ne peux pas changer la police des lettres d'un fichier PDF.**
 
-El formato pdf se visualiza tal y como es creado, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
+Le format PDF est affiché comme il est créé, avec ses polices et styles, de ce fait il n'est pas possible de modifier la police. C'est la limitation que vous trouverez dans ce format, cependant, on peut zoomer et se déplacer à travers le livre comme s'il s'agissait d'un autre format. 
 
-**No se puede leer un libro electrónico:**
+**Impossible de lire un livre électronique.**
 
-Comprueba que el formato del libro electrónico es compatible con tu eReader.
+Vérifiez que le format e-book soit compatible avec votre eReader. 
 
-**El eReader se ha bloqueado y no responde.**
+**L'eReader est verrouillé et ne répond pas.**
 
-Prueba pulsar el botón de Reset en la parte posterior del dispositivo usando un objeto muy fino, como un clip. A continuación, pulsa el botón ON. 
+Essayez d'appuyer sur le bouton Reset à l'aide d'un objet pointu, comme une agrafe.
 
-**El eReader muestra mal los caracteres de los libros, espacios entre líneas excesivos o saltos de página donde no debería.**
+**L'eReader reproduit mal les caractères des livres, trop d'espace entre les lignes ou des sauts de page où il ne devrait pas.**
 
-Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros electrónicos son digitalizados y formateados automáticamente sin revisión. Usa sólo contenido de proveedores de contenidos fiables y de calidad para tener la mejor experiencia de lectura.
+Ceci est du à la forme sous laquelle le fichier a été numérisé. De nombreux e-books sont numérisés et mis en forme automatiquement sans être révisés. Utilisez seulement les contenus de fournisseurs fiables et un contenu de qualité pour avoir la meilleure expérience d'utilisateur. 

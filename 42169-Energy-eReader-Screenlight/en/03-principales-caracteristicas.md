@@ -1,14 +1,15 @@
-## Principales características
+## Main features
 
-- Lector de libros electrónicos con pantalla de tinta electrónica de 6", 16 niveles de gris de alto contraste con función Screenlight de retroiluminación de pantalla. Resolución 600 x 800 pixels / 167ppp. 
-- Diseño estilizado y ultraligero. Tan sólo 8,1mm de grosor y 160gr.
-- Refresco de página ultrarrápido con mayor velocidad al abrir libros y cambiar páginas.
-- Sistema antirreflectante sin brillos y lectura cómoda bajo luz solar y desde diversos ángulos de visualización.
-- Batería de litio recargable que permite hasta un mes de uso con una sola carga.*
-- Funciones avanzadas de lectura: Screenlight, diferentes tamaños y tipos de letra, marcadores, giro de pantalla, libros favoritos, paso automático de página, autoapagado, ir a la página, selección de márgenes y espaciados.
-- Soporta Adobe® DRM (Digital Rights Management) para los formatos PDF y EPUB.
-- Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB; ampliable hasta 64GB con tarjetas micro SD/SDHC. 
-- Incluye 1500 libros de la literatura universal de regalo.
+-	eReader with 6" E-Ink display, 16 greyscale levels and high contrast with selectable backlight. 600 x 800p resolution / 167ppi. 
+-	Stylish and lightweight design. Only 8.1mm and 160gr.
+-	Opens books in no time, ultra-fast page turning and screen refresh.
+-	Anti-glare system to read comfortably under all lighting conditions and from different viewing angles.
+-	Rechargeable lithium battery. Lasts up to two months with a single charge.*
+-	Advanced reading functions: Screenlight function, different font types and sizes, bookmarks, landscape mode, favourite books, automatic page turning, automatic shutdown, go to page function.
+-	Supports Adobe® DRM (Digital Rights Management) for PDF and EPUB formats.
+-	User-friendly and multilingual user interface.
+-	Internal memory: 8GB, expandable up to 64GB via microSD/SDHC cards. 
+-	Includes 1,500 works of universal literature.
 
-*Cálculo basado en media hora de lectura diaria.
+*Based on half an hour of daily reading.
+

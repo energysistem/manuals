@@ -1,19 +1,18 @@
 ## Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/543d018d71630.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
 
-1. Zoom
-2. Modo disparo.
-3. Modo belleza.
-4. HDR.
-5. Efectos.
-6. Ajustes.
-7. Flash.
-8. Intercambio de cámara.
-9. Acceso a galería.
-10. Modo de captura.
+1. Modo vista multiángulo.
+2. Modo Panorámica.
+3. Modo Belleza de rostro.
+4. Modo Seguimiento de movimiento.
+5. Modo Fotografía en directo.
+6. Modo Normal.
+7. HDR.
+8. Flash.
+9. Intercambio de cámara.
+10. Acceso a galería.
 11. Botón de disparo.
 12. Modo vídeo.
-
-
+13. Ajustes.
 

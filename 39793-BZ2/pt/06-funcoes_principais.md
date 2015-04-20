@@ -11,7 +11,7 @@ Para desligar o dispositivo, deslize o interruptor (9) à direita.
 
 ### Mudar o modo de leitura
 
-Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar o modo line-in bsta conectar o cabo audio (incluido) à CONEXÃO LINE-IN (11). Para mudar entre os diferentes modos de leitura, aperte o botão MODO (1).
+Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar o modo Audio-In bsta conectar o cabo audio (incluido) à CONEXÃO AUDIO-IN (11). Para mudar entre os diferentes modos de leitura, aperte o botão MODO (1).
 
 </quick_guide>
 

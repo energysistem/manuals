@@ -6,7 +6,7 @@
 * Écouteurs dynamiques cirum-auriculaires fermés avec de la technologie Bluetooth® V4.0.
 * Microphone de haute fidélité et avec annulation d'écho et bruit.
 * Son propre, clair et plein de détails.
-* Compatibilité totale avec des Tablettes, des Smartphones, des téléphones portables, PlayStation, MAC et PC.
+* Compatibilité totale avec des Tablettes, des Smartphones, des téléphones portables, MAC et PC.
 * Simple synchronisation sans codes.
 * Fonction de communication NFC.
 * Contrôle pour les fonctions PLAY, STOP, <<, >>, et VOLUME inclut dans le même écouteur.
