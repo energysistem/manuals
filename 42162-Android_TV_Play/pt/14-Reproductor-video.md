@@ -1,29 +1,29 @@
 ## Reproductor de vídeo
 
-Navega a través del explorador de archivos para seleccionar los videos a reproducir.
-Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar dentro de las diferentes unidades y carpetas, y para reproducir los archivos de video. Pulsa **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para volver hacia atrás un nivel, y volver al explorador de archivos desde reproducción.
+Navegue através do navegador de arquivos para seleccionar os vídeos para reproduzir.
+Pressione em **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar em diferentes unidades e pastas para reproduzir arquivos video . Pressione **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para voltar um nível e voltar para os arquivos do navegador da reprodução.
 
-Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia *"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Detener" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Retroceder" ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), "Avanzar" ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), "Anterior" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg) y "Siguiente" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)* para controlar la reproducción, y los controles *"Vol+" y "Vol-"* ![Volume](http://static.energysistem.com/images/manuals/42162/5502bf32af18c.jpg) para regular el volumen del sonido. También puedes usar las teclas direccionales.
+A partir do controle remoto, você pode usar as teclas de controle do leitor multimédia *"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Detener" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Retroceder" ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), "Avançar" ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), "Anterior" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg) y "Seguinte" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)* para controlar a leirura e os controles *"Vol+" y "Vol-"* ![Volume](http://static.energysistem.com/images/manuals/42162/5502bf32af18c.jpg) para ajustar o volume do som. También puedes usar las teclas direccionales.
 
-Usando la tecla **"Menu"** ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) durante la reproducción de video puedes abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles. Usa las teclas direccionales para moverte por ellos:
+Usando a tecla **"Menu"** ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) durante a reprodução de vídeo que você pode abrir o menu de contexto da aplicação. Este menu irá mostrar os seguintes controles. Use as teclas do teclado para se mover em torno deles:
 
-- *Volver* al explorador de archivos de video.
-- *Anterior.* Vuelves al vídeo inmediatamente anterior dentro de la carpeta de donde se están reproduciendo los archivos de vídeo.
-- *Retroceso Rápido.* Pulsa sobre este control para reproducir el vídeo hacia atrás rápidamente.
-- *Reproducir / Pausar.* Usa este control para pausar y reanudar la reproducción en cualquier momento.
-- *Avance Rápido.* Pulsa sobre este control para reproducir el vídeo hacia adelante rápidamente.
-- *Siguiente.* Pasa al siguiente vídeo en la carpeta de donde se están reproduciendo los archivos de vídeo.
-- *Menú de opciones adicionales [...]*: Este menú te permite una serie de opciones avanzadas:
-    * *Volver.* Para volver al menú anterior.
-    * *Modo Continuar.* Una vez activado, te permite continuar los vídeos desde el punto en que se detuvieron en la última reproducción, reanudando la reproducción sin necesidad de buscar este punto manualmente.
-    * *Modo Repetir Reproducción.* Este modo te permite seleccionar el modo en el que se repetirán los videos. Puedes repetir todos los videos de la carpeta (por defecto), o repetir uno de ellos contínuamente hasta que elijas detener la reproducción.
-    * *Pista de audio.* Si el video contiene varias pistas de audio, por ejemplo una película que contenga varios idiomas, te permitirá seleccionar la pista de audio de tu elección.
-    * *Subtítulos.* Si el video contiene subtítulos, por ejemplo una película, este control te permite seleccionar el te tu elección o desactivar los subtítulos.
-    * *Relación de aspecto.* Elige la relación de aspecto del video para convertir a pantalla completa o seleccionar el aspecto correcto en caso que sea necesario. Puedes elegir entre *"Normal"* (por defecto), *"Pantalla Completa"*, *"4:3"* o *"16:9"*. Puedes elegir el que mejor se adapte al aspecto original de tu archivo de vídeo.
-    * *Info.* Selecciona este control para mostrar información del archivo tal como el nombre, el formato, tamaño, resolución, duración, etc.
-    * *3D.* En caso de disponer de archivos en 3D, y un televisor compatible, puedes seleccionar este control para elegir el formato de archivo 3D entre *"UP & DOWN"* y *"SIDE BY SIDE"* en función del tipo de fichero 3D que quieras reproducir.
+- *Voltar* para o navegador de arquivos de vídeo.
+- *Anterior.* Você retorna para o vídeo anterior na pasta onde estão os arquivos de vídeo.
+- *Retrocesso rápido.* Pressione neste controle para reproduzir o vídeo rapidamente para trás.
+- *Reproduzir / Pausar.* Use este controle para pausar e retomar a reprodução a qualquer momento.
+- *Avanço rápido.* Pressione neste controle para avançar o vídeo rapidamente para trás.
+- *Seguinte.* Passa ao seguinte video na pasta onde estão os arquivos de vídeo.
+- *Menu de opções adicionais [...]*: Este menu lhe permite opções avançadas:
+    * *Voltar.* Para voltar ao menu anterior.
+    * *Modo Continuar.* Uma vez activado, permite que você continue os vídeos a partir do ponto onde parou na última reprodução, retomar a reprodução sem procurar este ponto manualmente.
+    * *Modo Repetir leitura.* Este modo permite que você seleccione o modo em que os vídeos são repetidos. Você pode repetir todos os vídeos da pasta (padrão), ou repetir uma continuamente até que você escolha para parar a leitura.
+    * *Faixa de áudio.* Se o vídeo contém várias faixas de áudio, por exemplo, um filme que contém vários idiomas, permite que você seleccione a faixa de áudio de sua escolha.
+    * *Legendas.* Se o vídeo tem legendas, por exemplo, um filme, este controle permite seleccionar ou desligar as legendas.
+    * *Relação de aspecto.* Escolha a relação de aspecto do vídeo para converter em tela cheia ou seleccionar o aspecto correcto, se necessário. Você pode escolher entre *"Normal"* (padrão), *"Tela Cheia"*, *"4:3"* o *"16:9"*. Você pode escolher o que melhor se adapte a aparência original do seu arquivo de vídeo.
+    * *Info.* Escolha este controle para exibir informações de arquivo, como nome, formato, tamanho, resolução, duração, etc.
+    * *3D.* Em caso de ter arquivos 3D, e uma TV compatível, você pode seleccionar esse controle para seleccionar o formato de arquivo  3D entre *"UP & DOWN"* y *"SIDE BY SIDE"* dependendo do tipo arquivo 3D que você quer reproduzir.
 
-Puedes salir momentáneamente de la reproducción de video en cualquier momento pulsando **"Home"** ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) o cualquier acceso directo a aplicación y volver a la reproducción instantánea justo en el punto donde se quedó anteriormente pulsando el acceso directo **"Video"** de tu mando a distancia. 
+Você pode deixar momentaneamente a reprodução de vídeo a qualquer momento pressionando  **"Home"** ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) o qualquer aceso directo á aplicação e retomar a reprodução instantânea bem no ponto onde parou anteriormente pressionando o aceso directo **"Video"** do seeu controle remoto.
 
-Pulsando la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) detendrá la reproducción por completo y volverá al explorador de archivos de video.
+Pressione a tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) vai parar completamente reprodução e vai voltar ao navegador de arquivos de vídeo.
 
