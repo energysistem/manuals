@@ -14,7 +14,7 @@ Você também pode usar a tecla  *"Menu"* ![Menu](http://static.energysistem.com
 - **Avanço rápido.** Pressione várias vezes sobre este controle para alterar a velocidade de avanço x2, x4 o x8.
 - **Seguinte.** Você passa para a música seguinte na pasta onde você está tocando as músicas.
 - **Anterior.** Você retorna para o início da música, e se você pressione novamente retorna à música imediatamente anterior dentro da pasta onde as músicas stao sendo tocadas.
-- **Repetir.** Ele permite que você mude a forma como as músicas são repetidas. Você pode repetir uma música, toda a pasta por ordem (modo padrão), ou repetir a pasta de forma aleatória, permitindo que o sistema para escolher música seguinte.
+- **Repetir.** Ele permite que você mude a forma como as músicas são repetidas. Você pode repetir uma música, toda a pasta por ordem (modo padrão), ou repetir a pasta de forma aleatória, permitindo que o sistema escolha a música seguinte.
 
 *Para parar a reprodução.*
 - Pressione *"Parar"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directamente a partir do controle remoto.
