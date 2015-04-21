@@ -25,5 +25,5 @@ Usando a tecla **"Menu"** ![Menu](http://static.energysistem.com/images/manuals/
 
 Você pode deixar momentaneamente a reprodução de vídeo a qualquer momento pressionando  **"Home"** ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) o qualquer aceso directo á aplicação e retomar a reprodução instantânea bem no ponto onde parou anteriormente pressionando o aceso directo **"Video"** do seeu controle remoto.
 
-Pressione a tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) vai parar completamente reprodução e vai voltar ao navegador de arquivos de vídeo.
+Pressione a tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) vai parar completamente a reprodução e vai voltar ao navegador de arquivos de vídeo.
 
