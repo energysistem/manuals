@@ -38,24 +38,25 @@
  
 </quick_guide>
 
-**Nota:** Las teclas de funciones especiales como avance, retroceso, play, pause, goto, scroll de página, menú contextual, etc. podrían no ser compatibles con todas las aplicaciones. La aplicación deberá estar diseñada para su uso con mando a distancia. Algunas aplicaciones están diseñadas exclusivamente para su control a través de pantalla táctil (Tablet, Smartphone...). Para este tipo de aplicaciones recomendamos el uso del *modo mouse* del mando ![Mouse](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg), o la adquisición de un dispositivo señalizador tipo ratón. Puedes usar ratones con conexión USB o inalámbricos por señal RF, siempre que este disponga de receptor RF con conexión USB.
+** Nota: ** As teclas de funções especiais como avançar, retroceder, play, pause, goto, scroll de página, menu contextual, etc. podem não ser compatíveis com todas as aplicações. A aplicação deve ser projectada para uso com controle remoto. Algumas aplicações são projectadas exclusivamente para o controle via tela sensível ao toque (Tablet, Smartphone...). Para essas aplicações, recomendamos o uso do *modo rato* do controle remoto ![Mouse](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg), ou a aquisição de um tipo de dispositivo apontador. Você pode usar ratos com conexão USB ou sinal de RF sem fio, sempre que este disponha de receptor RF com conexão USB.
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
+Para utilizá-lo oriente o controle remoto, para a frente do cabo do receptor. O cabo do receptor para o remoto leva numa extremidade um sensor com uma superfície adesiva para colocar facilmente e discretamente em frente da TV. Antes de fixá-lo, e para garantir a colocação segura, certifique-se de que a superfície é completamente lisa, limpe-a com álcool e seque-a completamente. Retire a protecção do material adesivo e cole perto do centro da TV em vez disso.
 
 #### (LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
 
-Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción.
-El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
 
-**Instalación de las pilas.**
+Certifique-se que a linha de visão entre o controle remoto e o receptor esteja desobstruída para garantir uma melhor recepção.
+O controle remoto tem 3 emissores IR de sinal, um em cima da face de utilização vertical e duas na parte superior do teclado QWERTY com um alcance máximo de 7 metros a partir do receptor com um ângulo até 40 graus em ambos sentidos do receptor. Se esses recursos são reduzidos, e o campo de visão entre o controle remoto e o receptor não está obstruído, é provável que a vida útil da bateria chegou ao fim. Então sugerimos que você substitua as pilhas por novas e sempre utilize pilhas alcalinas.
 
-Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
+**Instalação das pilhas.**
 
-#### (LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
+Retire a tampa do compartimento das pilhas do controle remoto e coloque 2 pilhas AAA. O diagrama a seguir mostra a maneira correcta de colocar as pilhas.
 
-  1. Abrir la tapa.
-  2. Insertar las pilas teniendo en cuenta la polaridad. 
-  3. Cerrar la tapa.
+#### (LITOS: Esboço abrir e fechar o compartimento da bateria, com polaridades)
+
+  1. Abra a tampa.
+  2. Insira as pilhas, observando a polaridade.
+  3. Feche a tampa.
 
 
 
