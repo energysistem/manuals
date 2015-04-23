@@ -1,9 +1,8 @@
 ## <quick_guide> Funcionamiento de la garantía
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía:
+Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico para solventar tu incidencia. También puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42480
 
-1.- Puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/XXXXX 
-2.- Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra.
+Para gestionar la garantía recomendamos dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra. Opcionalmente puedes gestionar la garantía directamente con el fabricante desde el mismo enlace http://www.energysistem.com/es/support
 
 Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica.
 
