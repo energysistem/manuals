@@ -1,28 +1,28 @@
-## Reproductor de música.
+## Leitor de música.
 
-Navega a través del explorador de archivos para seleccionar las canciones a reproducir.
+Navegue através do navegador de arquivos para seleccionar músicas para reproduzir.
 
-Pulsa *"OK"* ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar dentro de las diferentes unidades y carpetas, y para reproducir los archivos de audio. Pulsa *"Back"* ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para volver hacia atrás un nivel, y volver al explorador de archivos desde la reproducción musical.
+Pressione *"OK"* ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar em diferentes unidades e pastas, e reproduzir arquivos de áudio. Clique. Pressione *"Back"* ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para voltar um nível e voltar para o explorador de arquivos a partir da leitura de música.
 
-Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia *"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Detener" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Retroceder" ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), "Avanzar" ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), "Anterior" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg) y "Siguiente" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)* para controlar la reproducción, y los controles *"Vol+" y "Vol-"* ![Volume](http://static.energysistem.com/images/manuals/42162/5502bf32af18c.jpg) para regular el volumen del sonido.
+A partir do controle remoto, você pode usar as teclas de controle do leitor multimédia *"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Detener" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Retroceder" ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), "Avançar" ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), "Anterior" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg) y "Seguinte" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)* para controlar a reprodução e controles  *"Vol+" y "Vol-"* ![Volume](http://static.energysistem.com/images/manuals/42162/5502bf32af18c.jpg) para ajustar o volume do som.
 
-También puedes usar la tecla *"Menu"* ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) durante la reproducción musical para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
+Você também pode usar a tecla  *"Menu"* ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) durante a reprodução de música para abrir o menu de contexto da aplicação. Este menu irá mostrar os seguintes controlos:
 
-- **Reproducir / Pausar.** Usa este control para pausar y reanudar la reproducción en cualquier momento.
-- **Detener.** Se dentendrá la reproducción musical y saldrás al explorador de archivos de audio.
-- **Retroceso Rápido.** Pulsa repetidamente sobre este control para cambiar la velocidad de retroceso x2, x4 o x8.
-- **Avance Rápido.** Pulsa repetidamente sobre este control para cambiar la velocidad de avance x2, x4 o x8.
-- **Anterior.** Pasas a la siguiente canción en la carpeta de donde se están reproduciendo las canciones.
-- **Siguiente.** Vuelves al principio de la canción, y si vuelves a pulsar rápidamente volverás a la canción inmediatamente anterior dentro de la carpeta de donde se están reproduciendo las canciones.
-- **Repetir.** Te permite cambiar la forma en la que se repiten las canciones. Puedes repetir una canción, la carpeta entera por órden (modo por defecto), o repetir la carpeta de forma aleatoria, dejando al sistema elegir la siguiente canción.
+- **Reproduzir / Pausar.** Use este controle para pausar e retomar a reprodução a qualquer momento.
+- **Parar.** A reprodução de música irá parar e sair para o navegador de arquivos de áudio.
+- **Retrocesso rápido.** Pressione várias vezes sobre este controle para alterar a velocidade de retrocesso x2, x4 ou x8.
+- **Avanço rápido.** Pressione várias vezes sobre este controle para alterar a velocidade de avanço x2, x4 o x8.
+- **Seguinte.** Você passa para a música seguinte na pasta onde você está tocando as músicas.
+- **Anterior.** Você retorna para o início da música, e se você pressione novamente retorna à música imediatamente anterior dentro da pasta onde as músicas stao sendo tocadas.
+- **Repetir.** Ele permite que você mude a forma como as músicas são repetidas. Você pode repetir uma música, toda a pasta por ordem (modo padrão), ou repetir a pasta de forma aleatória, permitindo que o sistema escolha a música seguinte.
 
-*Para detener la reproducción.*
-- Pulsa *"Detener"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directamente desde el mando a distancia.
-- Sal de la aplicación usando la tecla *"Back"* ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) de tu mando a distancia, hasta llegar a la pantalla principal.
-- Pulsa la tecla *"Menu"* ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) para mostrar el menú contextual y pulsa sobre el control **Detener**. Volverás al explorador de archivos de audio.
+*Para parar a reprodução.*
+- Pressione *"Parar"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directamente a partir do controle remoto.
+- Sair da aplicação utilizando o botão *"Back"* ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) do seu controle remoto até chegar à tela principal.
+- Pressione a tecla *"Menu"* ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) para visualizar o menu de contexto e clique no controle **Parar**. Você vai voltar para o navegador de arquivos de áudio.
 
-*Para salir de la aplicación sin detener la reproducción (Reproducción en segundo plano).*
-- Pulsa la tecla *"Home"* ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg). Volverás a la pantalla principal mientras continua la reproducción. Puedes pulsar las teclas de reproducción multimedia para pausar / continuar la reproducción ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), avanzar y retroceder rápidamente ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), y pasar las canciones ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg), ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg).
-- Pulsa las *teclas de acceso directo* a otras aplicaciones o *"Settings"* ![Settings](http://static.energysistem.com/images/manuals/42162/5502ba509ab6c.jpg).
-- Para detener la reproducción desde otra aplicación o pantalla, pulsa la tecla *"Detener"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) en el mando a distancia, o entra en la aplicación de nuevo pulsando sobre la tecla *"Music"* ![Music](http://static.energysistem.com/images/manuals/42162/5502b706b536b.jpg), para detener y volver al reproductor musical.
+*Para sair da aplicação sem parar a reprodução (reprodução em segundo plano).*
+- Pressione a tecla *"Home"* ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg). Você vai voltar para a tela principal enquanto continua a reprodução. Você pode pressionar as teclas de reprodução multimédia para pausar / retomar a reprodução ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), avançar e retroceder rápido ![Rewind](http://static.energysistem.com/images/manuals/42162/5501c8622030c.jpg), ![Forward](http://static.energysistem.com/images/manuals/42162/5501c82085995.jpg), e passar as músicas ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg), ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg).
+- Pressione as *teclas de acesso directo* para outras aplicações ou *"Configurações"* ![Settings](http://static.energysistem.com/images/manuals/42162/5502ba509ab6c.jpg).
+- Para parar a reprodução de outra aplicação ou tela, pressione o botão *"Parar"* ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) no controle remoto, ou entre na aplicação novamente clicando no botão *"Music"* ![Music](http://static.energysistem.com/images/manuals/42162/5502b706b536b.jpg), para parar e voltar para o leitor de música.
 

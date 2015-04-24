@@ -1,30 +1,30 @@
-## Pantalla principal
+## Tela principal
 
 ![Launcher](http://static.energysistem.com/images/manuals/42162/54e369a38d4cd.jpg)
 
-1. **Desplegable Configuración:**
-Pulsando en el icono izquierdo de configuración ![Settings](http://static.energysistem.com/images/manuals/42162/5501ccdc3c59e.jpg), o deslizando el cursor hacia el borde izquierdo de la pantalla, se accede directamente a la configuración de fondo de pantalla, organización de los accesos directos en la pantalla principal y configuración del sistema.
+1. **Menu Desdobrável:**
+Ao clicar no ícone esquerdo de configuração ![Settings](http://static.energysistem.com/images/manuals/42162/5501ccdc3c59e.jpg), ou ao deslizar o cursor para o canto esquerdo da tela, você tem acesso directo para a configuração de padrão de fundo, organizar os atalhos na tela inicial e configuração do sistema.
 
-  - *Configuración de fondo de pantalla:* Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
+  - *Configuração de padrão de fundo:* Permite fazer uma selecção de imagens de fundo para a tela principal. Você pode escolher entre os fundos de pré-carregados na memória, ou seleccionar uma imagem de outro meio de armazenamento conectado à porta USB Host.
  
-  - *Organización de accesos directos:* Te permite organizar la rejilla de los accesos directos a aplicaciones o direcciones web de la página principal. Selecciona el icono que deseas mover, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) y desplázalo al lugar de tu elección usando las **teclas direccionales** del mando a distancia ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg). Puedes continuar moviendo los accesos directos de posición. Cuando termines pulsa en *"Guardar Cambios"* para confirmar y salir. 
+  - *Organização dos acessos direitos:* Permite organizar a grade de atalhos para aplicações ou o endereço da web da página inicial. Seleccione o ícone que você deseja mover, pressione **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) e movê-lo para o lugar de sua escolha utilizando as **teclas de direcção ** do controle remoto ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg). Você pode continuar movendo a posição dos atalhos. Quando você terminar, clique em  *"Salvar Alterações"* para confirmar y sair. 
 
-  - *Configuración del sistema:* Accede al menú de configuración del sistema Android#trade#.
+  - *Configuração do sistema:* Aceda ao menu de configuração do sistema Android#trade#.
 
-2. **Barra de estado:**
-Muestra información sobre la fecha y la hora y el estado del sistema, como la cobertura de red Wifi, notificaciones y otros estados.
+2. **Barra de status:**
+Exibe informações sobre a data e hora e o status do sistema, como cobertura de rede Wifi, avisos e outros estados.
 
-3. **Desplagable Aplicaciones:**
-Pulsando en el icono derecho de aplicaciones ![AppsIcon](http://static.energysistem.com/images/manuals/42162/5501cce1175df.jpg), o deslizando el cursor hacia el borde derecho de la pantalla se accede a las pestañas de lista de aplicaciones instaladas y bookmarks.
+3. **Desdobrável Aplicações:**
+Ao clicar no ícone direito das aplicações  ![AppsIcon](http://static.energysistem.com/images/manuals/42162/5501cce1175df.jpg), ou deslizando o cursor para a borda direita da tela se acede aos separadores de aplicações instaladas e marcadores.
  
-  - *Lista de aplicaciones instaladas:* Es la lista completa de las aplicaciones que se encuentran instaladas en tu Energy Android TV Play. Cada aplicación que instales aparecerá en esta lista. Situando el cursor sobre la aplicación, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para cargar la aplicación seleccionada, o la tecla direccional **"derecha"** ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para abrir el modo *"acceso directo"* de selección de aplicaciones. En el modo *"acceso directo"*, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para hacer seleccionar las aplicaciones que aparecerán en la pantalla principal como accesos directos. Pulsa la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para salir.
+  - *Lista de aplicações instaladas:* É a lista completa de aplicações que são instalados no seu Energy Android TV Play. Cada aplicação instalada aparece nesta lista. Coloque o cursor sobre a aplicação, pressione **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para carregar a aplicação seleccionada ou a tecla direccional  **"direita"** ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para abrir o modo *"aceso directo"* de selecção de aplicações. No *"aceso direito"*, pressione  **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para seleccionar as aplicações que aparecem na tela principal, como o acessos directos. Pressione o botão **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para sair.
 
-  - *Bookmarks:* Situando el cursor sobre la pestaña Bookmarks, podrás crear accesos directos en la pantalla principal a direcciones de internet, sin tener que abrir el navegador o introducir las direcciones manualmente. Introduce un nombre para el acceso directo y la dirección de internet. Cuando hayas terminado confirma los cambios pulsando sobre *"guardar cambios"* y encontrarás el nuevo acceso directo en la pantalla principal.
+  - *Marcadores:* Colocar o cursor na guia Marcadores, você pode criar acesos directos na tela principal para endereços da Internet, sem abrir o navegador ou digitar manualmente endereços. Digite um nome para o aceso directo e um endereço de Internet. Quando terminar, confirme as alterações clicando em *"salvar alterações"* e encontrar o novo aceso directo na tela inicial.
 
-4. **Rejilla de accesos directos:**
-Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas seleccionado en la pestaña de lista de aplicaciones instaladas, dentro del desplegable "Aplicaciones". Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para cargar las aplicaciones. 
+4. **Grade de acesos directos:**
+Aqui são acesos directos para aplicações que você seleccionou na lista guia de aplicações instaladas, dentro do desdobrável "Aplicações". Pressione **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para carregar as aplicações. 
 
-      **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable izquierdo "Configuración".
+      **Nota:** Você pode organizar os acesos directos para a tela inicial a partir do desdobrável esquerdo "Configurações".
 
-Pulsa la tecla "Home" desde cualquier aplicación para volver a esta pantalla en cualquier momento.
+Pressione a tecla "Home" a partir de qualquer aplicação para retornar a esta tela a qualquer momento.
 

@@ -7,7 +7,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 We declare under our own exclusive responsibility that the product:
 
->*Energy Headphones BT3+ Bluetooth*
+>*Energy Headphones BT1 Bluetooth*
 
 _**Manufacturing Country:**_ China
 Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.

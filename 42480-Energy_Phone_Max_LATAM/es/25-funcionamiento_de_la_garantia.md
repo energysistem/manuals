@@ -1,15 +1,12 @@
 ## <quick_guide> Funcionamiento de la garantía
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico para solventar tu incidencia. También puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42480
 
-1. Puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/39976
+Para gestionar la garantía recomendamos dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra. Opcionalmente puedes gestionar la garantía directamente con el fabricante desde el mismo enlace http://www.energysistem.com/es/support
 
-2. También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (teléfono de soporte técnico válido solo para España).
-Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.
+Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica.
 
-3. Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra.
-
-Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica. Las especificaciones están sujetas a cambios sin previo aviso.
+Las especificaciones están sujetas a cambios sin previo aviso. 
 
 ## Marcas comerciales
 
