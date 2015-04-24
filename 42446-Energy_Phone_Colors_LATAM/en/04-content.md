@@ -3,6 +3,6 @@
 * 2 extra back cases
 * Quick guide
 * USB cable
-* AC/DC (Europlug) 100-240V AC 50-60Hz power adapter
+* AC/DC (US plug) 100-240V AC 50-60Hz power adapter
 * Screen protector
 </quick_guide>
