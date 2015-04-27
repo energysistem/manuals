@@ -8,8 +8,7 @@
 5. Botão de controle de volume
 6. Tela táctil
 7. Slot para microSD
-8. Saída HDMI
-9. Conector microUSB
-10. Saída de fones
+8. Conector microUSB
+9. Saída de fones
 
 </quick_guide>
