@@ -4,6 +4,7 @@ CAMBIAR IMAGEN
 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/53980401b9a92.jpg)
+
 1. Cámara trasera
 
 2. Cámara delantera
