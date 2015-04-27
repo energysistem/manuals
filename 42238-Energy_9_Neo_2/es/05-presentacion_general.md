@@ -19,10 +19,8 @@ CAMBIAR IMAGEN
 
 7. Ranura para microSD
 
-8. Salida HDMI
+8. Ranura para microUSB
 
-9. Ranura para microUSB
-
-10. Salida de auriculares
+9. Salida de auriculares
 
 </quick_guide>
