@@ -13,7 +13,7 @@
 * 8GB de memória interna que permitem armazenar até 32 horas de vídeo ou 4000 canções.
 * Memoria expansível através de cartões microSD-HC/XC (até 64GB).
 * Câmera frontal Integrada com sensor de 5.0 MPx (BSI+)  FOV 88º com flash LED.
-* Câmera traseira Integrada 8.0 Mpx Auto-Focus com flash LED.
+* Câmera traseira Integrada 8.0 Mpx autofocus com flash LED.
 * Função USB para acessar facilmente a memória do smartphone a partir do computador (cabo incluído).
 * Alto-falante integrado.
 * Microfone omnidireccional integrado.
@@ -23,7 +23,7 @@
 * Sensor de proximidade.
 * Aplicações instaladas: navegador web, gerenciador de e-mail, aplicações para leitura de música / vídeos / fotos, rádio FM, alarme e calculadora.
 * Permite a instalação de milhares de aplicativos e jogos disponíveis para o sistema operacional Android ™.
-* Frequências: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
+* Frequências: GSM 850/900/1800/1900 MHz + WCDMA 850/1900/2100 MHz.
 * Autonomia: até 400 horas em standby e 19 horas de conversação.
 * Capacidade da bateria: 2.000mAh.
 * Medição SAR: 0.578 (W/Kg) na cabeça e 0.434 (W/kg) no corpo (10mm de distância).
