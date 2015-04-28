@@ -1,9 +1,9 @@
 ## <quick_guide> Fonctionnement de la garantie
 
-Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d’utilisation, les drivers et les mises à jour, comme la possibilité d’envoyer vos questions au service technique ou de gérer la garantie.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support, sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d’utilisation, les drivers et les mises à jour, comme la possibilité d’envoyer vos questions au service technique ou de gérer la garantie.
 
 1. Vous pouvez vérifier la disponibilité du manuel dans votre langue sur
-http://www.energysistem.com/fr/guide/42178
+http://www.energysistem.com/fr/guide/42480
 
 2. Nous mettons également à votre disposition le téléphone pour la gestion de la garantie 902 294 294 (assistance téléphonique uniquement en Espagne). Avant de faire l'appel veuillez avoir votre billet ou une preuve d'achat et le numéro de série du produit.
 
