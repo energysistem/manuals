@@ -3,7 +3,7 @@
 Visite a seção de Suporte em http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Perguntas freqüentes), manuais, drivers e atualizações disponíveis, assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia.
 
 1. Você pode verificar a disponibilidade do manual do usuário no seu idioma em
-http://www.energysistem.com/pt/guide/39976
+http://www.energysistem.com/pt/guide/42480
 
 2. Também lhe fornecemos com o telefone para o gerenciamento da garantia 902 294 294 (suporte por telefone para a Espanha). Antes de fazer a chamada tenha em mãos o seu bilhete ou o comprovante de compra e número de série do produto.
 
