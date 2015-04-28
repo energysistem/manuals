@@ -11,9 +11,11 @@ http://www.energysistem.com/pt/guide/42480
 
 Importante: Esta garantia não cobre qualquer dano ou perda de quaisquer dados armazenados na memória do produto, o Serviço Técnico de Energy Sistem não assumirá qualquer perda das informações citadas. Pelo que é recomendável remover quaisquer dados ou informações pessoais da memória interna antes de enviar o produto, ou enviar apenas com o conteúdo original de fábrica. As especificações estão sujeitas a alterações sem aviso prévio.
 
+As especificações estão sujeitas a alterações sem aviso prévio.
+
 ## Marcas registradas
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
+Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
 
 ©2015 por Energy Sistem®. Todos os direitos reservados.
 
