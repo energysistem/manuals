@@ -2,7 +2,7 @@
 
 * Smartphone com sistema Android ™ 4.4 otimizado.
 * Tela táctil capacitiva IPS OGS de 5" (HD 1280x720p).
-* Processador Quad-core ARM Cortex A7 1.3GHz e GPU Mali-400.
+* Processador Quad Core ARM Cortex A7 (velocidad máxima 1.3GHz e GPU Mali-400.
 * Conexão 3G para navegar na Internet, onde e quando você quiser.
 * 3 capas coloridas intercambiáveis incluídas.
 * Conexão WI-FI (802.11 b/g/n): a conexão mais rápida à Internet através de um ponto de acesso Wi-Fi gratuito.
