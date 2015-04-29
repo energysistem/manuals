@@ -4,7 +4,7 @@
 
 Use the ON/OFF button (9) to turn on / off your device.
 
-When you turn on your *Energy Music Box Aquatic Bluetooth* you will hear the voice message "Power ON" and the blue LED indicator (5) will start flashing. You will hear the message "Paring" within a few seconds, which will indicate that the device is ready for Bluetooth synchronization.
+When you turn on your *Energy Music Box Aquatic Bluetooth* you will hear the voice message "Power ON" and the blue LED indicator (5) will start flashing. You will hear the message "Pairing" within a few seconds, which will indicate that the device is ready for Bluetooth synchronization.
 
 At the same time, the search and pairing process will start on your Bluetooth® device (smartphone, tablet, laptop, etc). Once you have identified the *Energy Music Box Aquatic Bluetooth* on your device, select "Connect" and both devices will pair immediately with no need of pairing codes; the speaker will play a sound indicating that the connection has been established.
 
