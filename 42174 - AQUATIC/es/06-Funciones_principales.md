@@ -4,7 +4,7 @@
 
 Utiliza el INTERRUPTOR ON/OFF (10) para encender o apagar el dispositivo.
 
-Al encenderlo escucharás el mensaje de voz "Power ON" y el LED DE MODO (7) empezará a parpadear en color azul. A los pocos segundos escucharás el mensaje "Paring". En ese momento el dispositivo está listo para realizar la sincronización Bluetooth.
+Al encenderlo escucharás el mensaje de voz "Power ON" y el LED DE MODO (7) empezará a parpadear en color azul. A los pocos segundos escucharás el mensaje "Pairing". En ese momento el dispositivo está listo para realizar la sincronización Bluetooth.
 
 Al mismo tiempo desde tu dispositivo Bluetooth® (móvil, tablet, portátil, etc.) inicia la búsqueda y sincronización de dispositivos. Una vez ya identificado el *Energy Music Box Aquatic Bluetooth* en tu dispositivo, selecciona conectar. La conexión se realizará de forma inmediata y sin necesidad de códigos. El altavoz reproducirá un sonido que indica que la conexión entre ambos dispositivos se ha establecido correctamente.
 
