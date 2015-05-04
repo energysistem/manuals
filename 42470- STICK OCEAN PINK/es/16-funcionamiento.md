@@ -14,4 +14,4 @@ Las especificaciones están sujetas a cambios sin previo aviso.
 
 Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-© 2014 by Energy Sistem Soyntec S.A. Todos los derechos reservados.
+© 2015 by Energy Sistem Soyntec S.A. Todos los derechos reservados.
