@@ -10,7 +10,7 @@ The sound files that you recorded are stored at the root directory. The files ar
 
 Doing so will bring you to the recordings playback screen, where only the WAV files inside the memory are available. Select the file you want to hear using PREVIOUS/NEXT and press PLAY to begin the playback. To exit the RECORD mode, hold the MENU button.
 
-While the playback is paused on the record playback screen, you can access the “Browser” submenu by pressing MENU. Browse through the different options with the PREVIOUS/NEXT buttons and select one by pressing the PLAY button.
+While the playback is paused on the record playback screen, you can access the "Browser" submenu by pressing MENU. Browse through the different options with the PREVIOUS/NEXT buttons and select one by pressing the PLAY button.
 
 1. "Browser": It shows the recordings inside the built-in memory. Use the PREVIOUS/NEXT buttons to find the song you want to play and press PLAY to select it. Press PLAY to enter folders and MENU to go back.
 
