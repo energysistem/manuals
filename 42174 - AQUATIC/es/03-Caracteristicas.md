@@ -22,13 +22,13 @@
 * Respuesta en frecuencia: 80 Hz ~ 20 KHz.
 * Relación señal/ruido: >80 dB.
 * Entrada "Audio-In" de 3.5 mm.
-* Batería de litio recargable con una duración de hasta 10 horas.
+* Batería de litio recargable con una duración de hasta 10 horas *.
 
 ### Características de la batería de litio recargable
 
 * Capacidad nominal: 1200 mA.
 * Voltaje nominal: 3.7V.
-* Autonomía en modo Bluetooth: 8 horas.
-* Autonomía en modo Line-in: 10 horas.
+* Autonomía en modo Bluetooth: 8 horas *.
+* Autonomía en modo Line-in: 10 horas *.
 <br/><br/>
- * La duración de la batería es aproximada. Mayor volumen en los altavoces se traduce en un mayor consumo de la batería.
+ * (*) La duración de la batería es aproximada. Mayor volumen en los altavoces se traduce en un mayor consumo de la batería.
