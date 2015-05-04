@@ -9,6 +9,6 @@ Press PLAY for a few seconds to power off the device while it is on. At that mom
 
 **Note:** If you power off the device directly with the reset button, your last changes in the settings will be lost, and it will not remember thelast song played or the last equalization change, for example.
 
-Additionally you can access the menu SETTINGS -> Power off and set the power off time for the player. With the option “Standby time” you can set the time that the player will remain on with no song being played and no interaction with any button. With the option “Sleep time” you can define when the player will power off, regardless if it is being used or not.
+Additionally you can access the menu SETTINGS -> Power off and set the power off time for the player. With the option "Standby time" you can set the time that the player will remain on with no song being played and no interaction with any button. With the option "Sleep time" you can define when the player will power off, regardless if it is being used or not.
 
 
