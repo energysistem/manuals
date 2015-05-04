@@ -1,3 +1,3 @@
 ## Menu principal.
 
-![](http://static.energysistem.com/images/manuals/39559/54be99b6d34e8.jpg)
+![](http://static.energysistem.com/images/manuals/42470/55474804e4d18.jpg)
