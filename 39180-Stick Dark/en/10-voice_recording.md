@@ -12,11 +12,11 @@ Doing so will bring you to the recordings playback screen, where only the WAV fi
 
 While the playback is paused on the record playback screen, you can access the “Browser” submenu by pressing MENU. Browse through the different options with the PREVIOUS/NEXT buttons and select one by pressing the PLAY button.
 
-1. “Browser”: It shows the recordings inside the built-in memory. Use the PREVIOUS/NEXT buttons to find the song you want to play and press PLAY to select it. Press PLAY to enter folders and MENU to go back.
+1. "Browser": It shows the recordings inside the built-in memory. Use the PREVIOUS/NEXT buttons to find the song you want to play and press PLAY to select it. Press PLAY to enter folders and MENU to go back.
 
-2. “Delete file”: Allows you to delete the recording currently selected.
+2. "Delete file": Allows you to delete the recording currently selected.
 
-3. “Delete all”: Eliminates all WAV inside the player’s built-in memory.
+3. "Delete all": Eliminates all WAV inside the player’s built-in memory.
 
-4. “Exit”: Brings you back to the recordings player screen. Alternatively you can go back at any time pressing MENU.
+4. "Exit": Brings you back to the recordings player screen. Alternatively you can go back at any time pressing MENU.
 You can leave the VOICE mode back to the main menu by holding the MENU button at any time.
