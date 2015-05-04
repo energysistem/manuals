@@ -11,7 +11,7 @@ También puedes retroceder/avanzar dentro de la canción sosteniendo el botón P
 
 Usa los botones VOLUME+/- para subir y bajar el volumen respectivamente.
 
-Con la música en modo pausado en la ventana de reproducción de música puedes acceder al submenú “Navegación” pulsando el botón
+Con la música en modo pausado en la ventana de reproducción de música puedes acceder al submenú "Navegación" pulsando el botón
 MENU, para que se muestren las diferentes opciones disponibles.
 
 Desplázate entre las opciones con los botones PREVIOUS/NEXT y
