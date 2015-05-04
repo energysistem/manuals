@@ -14,7 +14,7 @@ Si deseas sincronizar otro dispositivo Bluetooth®, basta con mantener pulsado e
 
 ### Modo Audio-In.
 
-Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN AUDIO-IN (10) e iniciar la reproducción desde el dispositivo conectado.
+Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXION AUDIO-IN (10) e iniciar la reproducción desde el dispositivo conectado.
 
 Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La reproducción en modo Bluetooth tiene prioridad sobre la reproducción en modo Audio-In, es decir, para reproducir en modo Audio-In la reproducción Bluetooth debe estar pausada o desconectada.
 
@@ -31,7 +31,7 @@ Para avanzar o retroceder en una misma canción mantén pulsado los botones de A
 
 ### Carga de la batería
 
-Cuando el nivel de la batería es bajo, el INDICADOR DE CARGA (7) empezará a parpadear. Para cargar la batería, conecta el extremo micro USB del cable USB (incluido) al CONEXIÓN USB PARA CARGAR LA BATERÍA (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (7) se iluminará en rojo y cuando la carga sea completa se apagará.
+Cuando el nivel de la batería es bajo, el INDICADOR DE CARGA (7) empezará a parpadear. Para cargar la batería, conecta el extremo micro USB del cable USB (incluido) al CONEXION USB PARA CARGAR LA BATERÍA (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (7) se iluminará en rojo y cuando la carga sea completa se apagará.
 
 **NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda no cargarla hasta que no se haya agotado completamente ni interrumpir el proceso de carga hasta que la batería este completamente cargada.
 
