@@ -1,6 +1,6 @@
 ## Reproducción desde tarjetas SD y USB
 
-Para reproducir archivos en formato MP3, inserta una memoria externa USB o una tarjeta de memoria SDMMC en las ranuras correspondientes, (12) y (10) respectivamente.
+Para reproducir archivos en formato MP3, inserta una memoria externa USB o una tarjeta de memoria SD en las ranuras correspondientes, (12) y (10) respectivamente.
 
 En ese momento el *Energy Tower 8* reproducirá desde la memoria externa insertada automáticamente.
 Visualizarás "USb" ó "Sd" en la pantalla según el tipo de memoria que insertes.
@@ -9,8 +9,8 @@ Si apagas el *Energy Tower 8* o extraes alguna de las memorias, se almacenará e
 
 Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de avance (13) y retroceso (2). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de avance (13) y retroceso(2) respectivamente.
-También puedes cambiar de carpeta pulsando el botón (4).
+Para navegar entre canciones, utiliza los botones de AVANCE (13) y RETROCESO (2). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de AVANCE (13) y RETROCESO(2) respectivamente.
+También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (4).
 
 ## Orden de reproducción
 
