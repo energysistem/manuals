@@ -2,7 +2,7 @@
 
 Una vez ya sincronizados los *Energy Headphones BT9 Bluetooth* o si has insertado una tarjeta micro SD/MMC, podrás controlar las funciones básicas de reproducción desde el propio auricular: subir y bajar el volumen, avance o retroceso de pista y reproducción o pausa de la pista e incluso podrás cambiar el modo de ecualización.
 
-Para avanzar de canción pulsa el botón de avance (5) una única vez, y si lo que quieres es avanzar dentro de una misma canción mantén pulsado ese mismo botón hasta llegar al punto de la canción que deseas. Igualmente puedes retroceder una pista o ir a un punto anterior dentro de una misma canción pulsando una vez o manteniendo pulsado el botón retroceso (7).
+Para avanzar de canción pulsa el botón de avance (5) una única vez. Igualmente puedes retroceder una pista pulsando una vez el botón retroceso (7).
 
 Podrás subir y bajar el volumen de reproducción utilizando para ello los botones (3) y (6) respectivamente. Oirás un "bip"  cuando alcances el volumen máximo.
 
