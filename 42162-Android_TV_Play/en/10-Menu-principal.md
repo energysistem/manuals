@@ -1,30 +1,29 @@
-## Pantalla principal
+## Main screen
 
 ![Launcher](http://static.energysistem.com/images/manuals/42162/54e369a38d4cd.jpg)
 
-1. **Desplegable Configuración:**
-Pulsando en el icono izquierdo de configuración ![Settings](http://static.energysistem.com/images/manuals/42162/5501ccdc3c59e.jpg), o deslizando el cursor hacia el borde izquierdo de la pantalla, se accede directamente a la configuración de fondo de pantalla, organización de los accesos directos en la pantalla principal y configuración del sistema.
+1. **Pull-down menu setup:**
+By clicking on the left setup icon ![Settings](http://static.energysistem.com/images/manuals/42162/5501ccdc3c59e.jpg) or sliding the cursor to the left of the screen, you will access directly the background image, the shortcut manager and system settings.
 
-  - *Configuración de fondo de pantalla:* Te permite seleccionar una selección de imágenes de fondo para la pantalla principal. Puedes seleccionar entre los fondos preinstalados en la memoria, o seleccionar una imagen desde otro soporte de memoria conectado al puerto USB Host.
+  - *Background image setup:* Allows you to use an image as a wallpaper on the main screen. You can choose one of the installed images or select an image from any device connected to the USB Host port.
  
-  - *Organización de accesos directos:* Te permite organizar la rejilla de los accesos directos a aplicaciones o direcciones web de la página principal. Selecciona el icono que deseas mover, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) y desplázalo al lugar de tu elección usando las **teclas direccionales** del mando a distancia ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg). Puedes continuar moviendo los accesos directos de posición. Cuando termines pulsa en *"Guardar Cambios"* para confirmar y salir. 
+  - *Shortcut manager:* Allows you to organise the app and web shortcuts on the main screen. Select the icon you want to move, then press **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) and move it to the desired position using the **arrow keys** on the remote control ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg),![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg), ![Arr](http://static.energysistem.com/images/manuals/42162/5501c813dcd00.jpg), ![Abj](http://static.energysistem.com/images/manuals/42162/5501c80f504be.jpg).  Once you are done select *"Save Changes"* to confirm and exit. 
 
-  - *Configuración del sistema:* Accede al menú de configuración del sistema Android#trade#.
+  - *System setup:* Access the Android#trade# system settings menu.
 
-2. **Barra de estado:**
-Muestra información sobre la fecha y la hora y el estado del sistema, como la cobertura de red Wifi, notificaciones y otros estados.
+2. **Status bar:**
+Displays information such as date and time, Wi-Fi coverage, etc.
 
-3. **Desplagable Aplicaciones:**
-Pulsando en el icono derecho de aplicaciones ![AppsIcon](http://static.energysistem.com/images/manuals/42162/5501cce1175df.jpg), o deslizando el cursor hacia el borde derecho de la pantalla se accede a las pestañas de lista de aplicaciones instaladas y bookmarks.
+3. **App pull-down menu:**
+By clicking on the app icon on the right ![AppsIcon](http://static.energysistem.com/images/manuals/42162/5501cce1175df.jpg) or sliding the cursor to the right of the screen, you will access the installed apps and bookmarks tab.
  
-  - *Lista de aplicaciones instaladas:* Es la lista completa de las aplicaciones que se encuentran instaladas en tu Energy Android TV Play. Cada aplicación que instales aparecerá en esta lista. Situando el cursor sobre la aplicación, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para cargar la aplicación seleccionada, o la tecla direccional **"derecha"** ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para abrir el modo *"acceso directo"* de selección de aplicaciones. En el modo *"acceso directo"*, pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para hacer seleccionar las aplicaciones que aparecerán en la pantalla principal como accesos directos. Pulsa la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para salir.
+  - *Installed apps list:* Every installed app on your Energy Android TV Play will appear on this list.  Place the cursor on the app icon, then press **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) to run the app or the **"right"** arrow key ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) to open the *"shortcut"*  mode. When in *"shortcut mode"*, press **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) to select the apps you want to appear on the main screen. Press the **"Back"** button ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) to exit.
 
-  - *Bookmarks:* Situando el cursor sobre la pestaña Bookmarks, podrás crear accesos directos en la pantalla principal a direcciones de internet, sin tener que abrir el navegador o introducir las direcciones manualmente. Introduce un nombre para el acceso directo y la dirección de internet. Cuando hayas terminado confirma los cambios pulsando sobre *"guardar cambios"* y encontrarás el nuevo acceso directo en la pantalla principal.
+  - *Bookmarks:* By placing the cursor on the Bookmarks tab you will be able to create web shortcuts on the main screen without the need of opening your browser and typing in the web address. Name the shortcut and the web address. Once you are done, confirm all committed changes by clicking on *"save changes"*. You will find the new shortcut on the main screen.
 
-4. **Rejilla de accesos directos:**
-Aquí encontrarás los accesos directos a las aplicaciones que previamente hayas seleccionado en la pestaña de lista de aplicaciones instaladas, dentro del desplegable "Aplicaciones". Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para cargar las aplicaciones. 
+4. **Shortcut grid:**
+Here you will find the previously selected app shortcuts on the "installed apps" list, inside the "Applications" pull-down menu. Press **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) to run the apps. 
 
-      **Nota:** Puedes organizar los accesos directos de la pantalla principal desde el desplegable izquierdo "Configuración".
+      **Note:** You can organise the shortcuts on the main screen from with the "settings" pull-down menu on the left.
 
-Pulsa la tecla "Home" desde cualquier aplicación para volver a esta pantalla en cualquier momento.
-
+Press the "Home" key to return to this screen any time.
