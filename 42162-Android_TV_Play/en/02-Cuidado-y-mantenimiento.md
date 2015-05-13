@@ -1,7 +1,7 @@
-## Cuidado y Mantenimiento
+## Care and Maintenance
 
-- No expongas tu Energy#trade# Android TV Play a golpes, polvo, luz solar directa, humedad o altas temperaturas.
-- No uses productos de limpieza corrosivos o abrasivos.
-- Mantén el dispositivo limpio y sin polvo, con un paño suave y seco.
-- Realiza la limpieza de la unidad mientras está apagado y desconectado de la corriente eléctrica.
-- Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
+- Do not expose your Energy#trade# Android TV Play to shock, dust, direct sunlight, humid environments or high temperatures.
+- Do not use abrasive or corrosive cleaning agents.
+- Keep the device clean and dust-free them with a soft, dry cloth.
+- Clean the device when turned off and unplugged.
+- Any repair must be done exclusively by qualified personnel of Energy Sistem Soyntec S.A.
