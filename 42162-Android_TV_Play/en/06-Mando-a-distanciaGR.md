@@ -1,60 +1,58 @@
-## <quick_guide> Mando a distancia
+## <quick_guide>Remote control.
 
 ![] (http://static.energysistem.com/images/manuals/42162/55002aca7ca89.jpg)
 
-1. **Standby.** Permite cambiar entre el modo de Encendido y modo Standby (de suspensión).
-2. **Mute.** Permite conmutar la salida de sonido entre Encendido y Apagado.
-3. **Teclas de reproducción multimedia.**
-4. **Video.** Acceso directo a la aplicación de video por defecto.
-5. **Music.** Acceso directo al reproductor musical por defecto.
-6. **Pictures.** Acceso directo a la galería de imágenes por defecto.
-7. **Menu.** Menu contextual de aplicaciones y ajustes.
-8. **Borrar.**
-9. **Grupo de teclas direccionales.**
-10. **OK.** Tecla de Selección / Aceptar.
-11. **Pantalla Inalámbrica.** Acceso directo a la aplicación de compartir pantalla desde dispositivos móviles compatibles Miracast#trade#.
-12. **Volver.**
-13. **Web.** Acceso directo al navegador por defecto.
-14. **Files.** Acceso directo al administrador de archivos y unidades.
-15. **Apps.** Acceso directo al menú de aplicaciones.
-16. **Settings.** Acceso directo al menú de configuración del sistema.
-17. **Vol.** Grupo de teclas de volumen de sonido
-18. **Scroll.** Paso rápido de pagina arriba / abajo.
-19. **Home.** Acceso directo a la pantalla principal.
-20. **Grupo de teclas numéricas.**
-21. **Espacio.**
-22. **Enter.** Retorno de carro, confirmar entrada. 
-23. **Facebook#trade#.** Acceso directo a la aplicación.
-24. **Twitter#trade#.** Acceso directo a la aplicación.
-25. **Google Play#trade#.** Acceso directo a la tienda de apps.
-26. **YouTube#trade#.** Acceso directo a la aplicación.
-27. **Teclado alfanumérico.**
-28. **Goto.** Permite acceder a un punto de la línea de tiempo del reproductor de música o video. En la introducción de textos cambia al siguiente campo de introducción de texto.
-29. **Shift.** Permite conmutar entre mayúsculas y minúsculas y algunos símbolos.
-30. **Modo "Mouse"**. Permite conmutar las teclas direccionales para usarlas de manera similar a un ratón.
-31. **Fn**. Tecla de función. Permite acceder a los caracteres especiales. Para insertar caracteres especiales mantén pulsado este botón mientras pulsas la tecla que contiene el caracter especial. Los caracteres especiales están marcados en color verde en el teclado alfanumérico (27).
-32. **Compartimento para pilas (Tipo AAA)**.
+1. **Standby.** Allows you to switch between the "On" and "Stand by" mode.
+2. **Mute.** Allows you to turn the sound "On" and "Off".
+3. **Multimedia keys.**
+4. **Video.** Direct access to the default video app.
+5. **Music.** Direct access to the default music player.
+6. **Pictures.** Direct access to the default image gallery.
+7. **Menu.** Apps and settings Pop-up menu.
+8. **Delete.**
+9. **Arrow keys.**
+10. **OK.** Select / OK button.
+11. **Wireless screen.** Direct access to the "share screen through mobile devices compatible with Miracast#trade#" app.
+12. **Go back.**
+13. **Web.** Direct access to the default web browser.
+14. **Files.** Direct access to the file and unit manager.
+15. **Apps.** Direct access to the app menu.
+16. **Settings.** Direct access to the system settings menu.
+17. **Vol.** Volume keys
+18. **Scroll.** Quick up / down page scrolling.
+19. **Home.** Direct access to the main screen.
+20. **Numeric keys.**
+21. **Space.**
+22. **Enter.** Carriage return, confirm entrance. 
+23. **Facebook#trade#.** Direct access to the app.
+24. **Twitter#trade#.** Direct access to the app.
+25. **Google Play#trade#.** Direct access to the app store.
+26. **YouTube#trade#.** Direct access to the app.
+27. **Alphanumeric keyboard.**
+28. **Go to.** Allows to jump to a specific moment in the music and video player's time line. En la introducción de textos cambia al siguiente campo de introducción de texto.
+29. **Shift.** Allows you to switch between upper case and lower case letters, and some symbols.
+30. **"Mouse" mode**. Allows you to toggle the arrow keys and use them as a mouse.
+31. **Fn**. Function key. Allows you to use special symbols. Hold the Fn key and press the key with the symbol you want to add. Special symbols are shown in green on the alphanumeric keyboard (27).
+32. **Battery holder (AAA batteries)**.
  
 </quick_guide>
 
-**Nota:** Las teclas de funciones especiales como avance, retroceso, play, pause, goto, scroll de página, menú contextual, etc. podrían no ser compatibles con todas las aplicaciones. La aplicación deberá estar diseñada para su uso con mando a distancia. Algunas aplicaciones están diseñadas exclusivamente para su control a través de pantalla táctil (Tablet, Smartphone...). Para este tipo de aplicaciones recomendamos el uso del *modo mouse* del mando ![Mouse](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg), o la adquisición de un dispositivo señalizador tipo ratón. Puedes usar ratones con conexión USB o inalámbricos por señal RF, siempre que este disponga de receptor RF con conexión USB.
+**Nota:** Special function keys such as forward, back, play, pause, go to, page scrolling, context menu, etc. may not be compatible with all apps. The app must be compatible with the remote control. Some apps are exclusively designed to be used with a touch screen (tablet, smartphone...). For this type of apps we recommend using the remote control's *mouse mode* ![Mouse](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg), or acquiring a mouse. You can use a USB or IR mouse, provided that it has a IR receptor or USB port.
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV. 
+In order to use the remote control, point it towards the front part of the cable receptor. The remote control's cable receptor has a sensor with an adhesive surface for placing it in a simple and easy way on the TV front Clean the surface with alcohol and make sure to place it on a smooth surface before sticking it to the TV front. Remove the adhesive protector and stick it near the TV. 
 
-#### (LITOS: Esquema mando con posición de los sensores, y medidas hasta el televisor, con ángulos de uso).
+![Angle](http://static.energysistem.com/images/manuals/42162/552ce094a7ef1.jpg)
 
-Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción.
-El mando a distancia tiene 3 emisores de señal IR, uno en la parte superior de la cara de uso vertical, y otros dos en la parte superior de la cara del teclado QWERTY, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 40 grados en ambos sentidos del receptor. Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
+Avoid blocking the signal between the remote control and the receptor to ensure a better signal.
+The remote control features three IR transmitters: one on the upper side and two on the QWERTY keyboard's upper side. Up to 7 meters of range of use in a 40º angle in both directions.  At this point we recommend you to replace the old batteries for new, alkaline one's.
 
-**Instalación de las pilas.**
+**Battery replacement.**
 
-Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
+Remove the cover from the remote control and place in 2 AAA batteries. The diagram below shows how to correctly place in the batteries.
 
-#### (LITOS: Esquema apertura y cierre del compartimento de las pilas, con polaridades)
+![Batteries](http://static.energysistem.com/images/manuals/42162/552ce08bafd01.jpg)
 
-  1. Abrir la tapa.
-  2. Insertar las pilas teniendo en cuenta la polaridad. 
-  3. Cerrar la tapa.
-
-
+  1. Open de cover.
+  2. Insert the batteries paying attention to the polarity symbols. 
+  3. Close the cover.
 
