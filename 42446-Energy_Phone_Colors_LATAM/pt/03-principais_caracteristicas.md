@@ -13,7 +13,7 @@
 * 4GB de memória interna que permitem armazenar até 16 horas de vídeo ou 2.000 canções.
 * Memória ampliável com cartões microSD-HC/XC (até 64GB).
 * Câmara frontal integrada (VGA 640x480).
-* Câmara traseira integrada com auto-focus, flash LED e BSI (5.0 Mpx).
+* Câmara traseira integrada com autofocus, flash LED e BSI (5.0 Mpx).
 * Função USBpara um simples acesso à memória do smartphone desde o seu computador (cabo incluído).
 * Alto-falante integrado.
 * Microfone omnidirecional integrado.
