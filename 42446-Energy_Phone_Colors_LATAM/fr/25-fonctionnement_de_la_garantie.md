@@ -15,6 +15,6 @@ Tous les autres noms de produits ou d’entreprises sont des marques de commerce
 
 © 2015 par Energy Sistem Soyntec S.A. Tous droits réservés.
 
-AVIS: Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d’autrui à Energy Sistem Soytenc, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem Soyntec S.A. ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude. Les sites externes peuvent contenir ou faire référence à des marques, des brevets, des informations enregistrées, des technologies, des produits, des procédés ou d'autres droits de propriété appartenant à autrui. Tous les droits d'auteur sont la propriété de leurs propriétaires respectifs.
+AVIS : Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d’autrui à Energy Sistem Soytenc, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem Soyntec S.A. ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude. Les sites externes peuvent contenir ou faire référence à des marques, des brevets, des informations enregistrées, des technologies, des produits, des procédés ou d'autres droits de propriété appartenant à autrui. Tous les droits d'auteur sont la propriété de leurs propriétaires respectifs.
 
 </quick_guide>
