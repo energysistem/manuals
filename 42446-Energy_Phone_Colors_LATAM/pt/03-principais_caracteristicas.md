@@ -1,6 +1,6 @@
 ## Principais características
 
-* Smartphone otimizado para ANDROID#trade# 4.4.
+* Smartphone desbloqueado otimizado para ANDROID#trade# 4.4 Kit Kat.
 * 3 capas traseiras coloridas intercambiáveis.
 * Tela capacitiva IPS de 4.0" (WVGA - 800x480 pixels).
 * Processador dual core ARM Cortex A7 1GHz e GPU Mali-400.
@@ -24,7 +24,7 @@
 * Sensor magnético integrado.
 * Aplicações instaladas: navegador de Internet, gerente de correio eletrônico, aplicações para a lectura de música, vídeos, fotos, radio FM, alarme e calculadora.
 * Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operacional ANDROID#trade#.
-* Frequências da operação: GSM 850/900/1800/1900 MHz + WCDMA 850/2100 MHz
-* Autonomia: até XXX horas em espera e XXX horas em conversação.
+* Frequências da operação: GSM 850/900/1800/1900 MHz + WCDMA 850/1900 MHz
+* Autonomia: até 500 horas em espera e 10 horas em conversação.
 * Capacidade da bateria: 1.450mAh.
 * Medição SAR: 0.205 (W/Kg) na orelha e 0.382 (W/Kg) no corpo (à 10mm de distância).
