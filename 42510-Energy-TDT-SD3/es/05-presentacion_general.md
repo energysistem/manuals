@@ -10,7 +10,7 @@
 
 ![Lado 1]()
 
-6. Conector del cable USB Host. Conecta tus dispositivos USB externo para reproducir contenido multimedia o realizar grabaciones de TDT.
+<br>6. Conector del cable USB Host. Conecta tus dispositivos USB externo para reproducir contenido multimedia o realizar grabaciones de TDT.
 
 ![Lado 2]()
 
