@@ -1,9 +1,10 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Phone Colors
-* 2 carcasas traseras extra
+* Energy TDT SD3
+* Mando a distancia
+* Cable receptor IR
+* Cable USB Host
+* Adaptador de corriente AC/DC (EU plug) 100-240V AC 50-60Hz DC 5V 1.5A
 * Guía Rápida
-* Cable USB
-* Adaptador de corriente AC/DC (US plug) 100-240V AC 50-60Hz
-* Protector de pantalla
+
 </quick_guide>
