@@ -1,29 +1,24 @@
 ## Principales características
 
-- Smartphone libre con sistema ANDROID#trade# 4.4 Kit Kat optimizado.
-- 3 carcasas intercambiables de color incluidas.
-- Pantalla capacitiva TFT-LCD de 4.0" (WVGA - 800x480 pixeles).
-- Procesador de doble núcleo ARM Cortex A7 1GHz y GPU Mali-400.
-- Conexión 3G para disfrutar de Internet cuando quieras.
-- Conexión Wi-Fi (802.11 b/g/n): permite la más rapida conexión a Internet a través de un punto de acceso Wi-Fi.
-- Función GPS: La navegación via satélite más precisa y fiable.
-- Conexión inalámbrica Bluetooth 4.0 para auriculares, altavoces y otros dispositivos Bluetooth.
-- Doble entrada de tarjeta SIM.
-- 512MB de memoria RAM.
-- 4GB de memoria interna que permiten almacenar hasta 16 horas de video o 2.000 canciones.
-- Memoria ampliable mediante tarjetas microSD-HC/XC (hasta 64GB).
-- Cámara frontal integrada (VGA 640x480).
-- Cámara trasera integrada con auto-focus y flash LED (5.0 Mpx).
-- Función USB para un fácil acceso a la memoria del smartphone desde el ordenador (cable incluído).
-- Altavoz integrado.
-- Micrófono omnidireccional integrado.
-- Conector de audio con estandar CTIA.
-- Sensor de movimiento (acelerómetro).
-- Pantalla con ajuste automático de brillo.
-- Sensor de proximidad.
-- Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / vídeos / fotos, radio FM, alarma y calculadora.
-- Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo ANDROID#trade# .
-- Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 850/1900 MHz
-- Autonomía: hasta 500 horas en standby y 10 horas de conversación.
-- Capacidad de batería: 1.450mAh.
-- Medición SAR: 0.205 (W/Kg) a la oreja y 0.382 (W/Kg) al cuerpo (a 10mm de distancia).
+- Total compatibilidad con los estándares DVB-T y MPEG-2. Sintoniza Radio en calidad digital.
+- Cabezal pivotante 360º en tamaño mini para no ocupar espacio conectándolo al televisor directamente sin cables a través del conector SCART (Euroconector).
+- Reproduce a través del puerto USB: vídeo (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
+- Graba TDT en formato MPEG-2 con calidad digital a través de dispositivos USB. Gestión de grabaciones.
+- Función de Timeshift para pausar y reanudar la emisión de TDT.
+- Guía de programación semanal electrónica (EPG) con programación de eventos (grabación / aviso).
+- Función mosaico dinámico de múltiples canales en pantalla (MSM).
+- Menú en pantalla OSD multilingüe.
+- Teletexto (VBI).
+- Subtítulos por canal digital o teletexto.
+- Edición de canales: seleccionar favoritos, mover, bloquear, renombrar y clasificar por temática.
+- Control parental. 
+- Temporizador (función SLEEP).
+- 3 juegos interactivos incluidos.
+- Calculadora.
+- Actualización de software por el puerto USB.
+- Hasta 1000 canales programables de TV y Radio.
+- Búsqueda automática y manual de los canales de TV y Radio.
+- OFDM Modo 2K/8K.
+- Ancho de banda: 7/8 MHz.
+- Sistema de archivos: FAT / FAT32.
+- Consumo energético eficiente en modo stand by contribuyendo a la sostenibilidad del medio ambiente.
