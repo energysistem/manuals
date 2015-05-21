@@ -2,7 +2,7 @@
 
 - Total compatibilidad con los estándares DVB-T y MPEG-2. Sintoniza Radio en calidad digital.
 - Cabezal pivotante 360º en tamaño mini para no ocupar espacio conectándolo al televisor directamente sin cables a través del conector SCART (Euroconector).
-- Reproduce a través del puerto USB: vídeo (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
+- Reproduce a través del puerto USB: vídeo en formato SD (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
 - Graba TDT en formato MPEG-2 con calidad digital a través de dispositivos USB. Gestión de grabaciones.
 - Función de Timeshift para pausar y reanudar la emisión de TDT.
 - Guía de programación semanal electrónica (EPG) con programación de eventos (grabación / aviso).
