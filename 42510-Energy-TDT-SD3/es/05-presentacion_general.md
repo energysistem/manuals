@@ -17,6 +17,12 @@
 
 # Mando a distancia
 ![Lado 2](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
+<br> 8. STANDBY: Conmuta entre encendido / modo de espera.
+<br> 9. MUTE: Activa / desactiva el sonido.
+<br>10. MENU: Muestra el menú principal.
+<br>11. CH+/-: Cambio de canal. Flecha arriba y abajo.
+<br>12. VOL+/-: Regulación de volumen. Flecha izquierda y derecha.
+<br>13. RECLIST:
 
 
 
