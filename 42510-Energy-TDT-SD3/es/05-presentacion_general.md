@@ -45,14 +45,18 @@ Asegúrate que el campo visual entre el mando y el receptor queda libre de obst�
 
 ![Sensor Angles](http://static.energysistem.com/images/manuals/42162/552cdf02ddf3d.jpg)
 
-Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
+Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las baterías haya llegado a su fin. Te recomendamos entonces que las sustituyas por unas nuevas.
 
-Instalación de las pilas.
+### Instalación de las baterías.
 
-Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
+Retira la tapa del compartimento de las baterías en el mando a distancia y coloca 2 baterías de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las baterías.
 
 ![Batteries]()
 
-Guarda las pilas fuera 
-
-Desecha las pilas gastadas de forma responsable. Consulta con las autoridades locales 
+### Recomendaciones acerca de las baterías.
+* Guarda las baterías siempre fuera del alcance de los niños. 
+* No intentes cargar las baterías agotadas. No las arrojes al fuego, desmontes o cortocircuites.
+* Cambia las baterías una vez al año por seguridad.
+* Cambia las dos baterías a la misma vez, reemplazándolas por unoas del mismo tipo.
+* Retira las baterías del mando a distancia cuando no lo vayas a usar el mando por un tiempo prolongado. 
+* Desecha las pilas agotadas de forma responsable. Consulta con las autoridades locales la normativa local en este sentido.
