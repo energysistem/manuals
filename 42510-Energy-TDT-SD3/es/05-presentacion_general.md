@@ -20,12 +20,12 @@
 8. STANDBY: Conmuta entre encendido / modo de espera.
 9. MUTE: Activa / desactiva el sonido.
 10. MENU: Muestra el menú principal.
-11. CH+/-: Cambio de canal. Flecha arriba y abajo.
-12. VOL+/-: Regulación de volumen. Flecha izquierda y derecha.
+11. CH+/-: Permite cambiar de canal. Flecha arriba y abajo.
+12. VOL+/-: Permite regular el nivel de volumen de sonido. Flecha izquierda y derecha.
 13. RECLIST: Muestra la lista de grabaciones almacenadas.
 14. TECLAS NUMÉRICAS: Se usan para introducir canales manualmente o números en los menús.
 15. TV/RADIO: Cambia entre selección de canales de TV o emisoras de radio. AUDIO: Selecciona entre las pistas de audio 
-16. ROJO: Sleep. Función de apagado programado. VERDE: List. Listado de canales.
+16. ROJO: Sleep. Función de apagado programado / Tecla de selección roja. VERDE: List. Listado de canales. Tecla de selección verde.
 17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
 18. INFO: Muestra en pantalla información acerca del canal visionado. Pulsa varias veces para ampliar / desactivar.
 19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV o el contenido multimedia (es necesario un dispositivo de almacenamiento USB externo).
@@ -33,7 +33,11 @@
 21. EXIT: Volver / Salir de los menús.
 22. OK: Tecla de selección / confirmar.
 23. FAVORITE: Acceso a los canales favoritos.
-24. GAME: Acceso a juegos y funciones especiales (Gomoku, Calendario y Calculadora).
+24. GAME: Acceso a juegos y aplicaciones (Gomoku, Calendario y Calculadora).
+25. RECALL: Conmuta entre el canal actual y el anteriormente visionado.
+26. SUBTITLE: Activa o desactiva los subtítulos. TEXT: Muestra el teletexto en los canales en los que se encuentre disponible. 
+27. AMARILLO: MSM. Mosaico interactivo de canales / Tecla de selección amarilla. AZUL: Tecla de selección azul.
+28. REV: Marcha atrás rápida en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad. FWD: Avance rápido hacia delante en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad.
 
 
 
