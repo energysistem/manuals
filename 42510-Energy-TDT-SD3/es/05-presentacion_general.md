@@ -1,8 +1,8 @@
 ## <quick_guide> Presentación general
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
-1. Conector SCART (Euroconector).
-2. Rótula giratoria 360º.
+<br>1. Conector SCART (Euroconector).
+<br>2. Rótula giratoria 360º.
 ![Lado 1](http://static.energysistem.com/images/manuals/42510/555f149545541.jpg)
 <br>3. Conector de entrada de Antena. Conéctala a la toma de antena externa de TV.
 <br>4. Conector de salida de Antena. Úsala si necesitas transferir la señal de antena desde tu SD3 a otro dispositivo.
