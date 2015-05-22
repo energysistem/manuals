@@ -13,10 +13,9 @@
 - Edición de canales: seleccionar favoritos, mover, bloquear, renombrar y clasificar por temática.
 - Control parental. 
 - Temporizador de apagado (función SLEEP).
-- 3 juegos interactivos incluidos.
-- Calculadora.
-- Actualización de software por el puerto USB.
-- Hasta 1000 canales programables de TV y Radio.
+- Juegos y aplicaciones incluidas (Calculadora, Calendario, 5 en línea).
+- Actualización de software a través del puerto USB.
+- Memoriza hasta 1000 canales de TV y Radio.
 - Búsqueda automática y manual de los canales de TV y Radio.
 - OFDM Modo 2K/8K.
 - Ancho de banda: 7/8 MHz.
