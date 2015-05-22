@@ -59,4 +59,4 @@ Retira la tapa del compartimento de las baterías en el mando a distancia y colo
 * Cambia las baterías una vez al año por seguridad.
 * Cambia las dos baterías a la misma vez, reemplazándolas por unoas del mismo tipo.
 * Retira las baterías del mando a distancia cuando no lo vayas a usar el mando por un tiempo prolongado. 
-* Desecha las pilas agotadas de forma responsable. Consulta con las autoridades locales la normativa local en este sentido.
+* Desecha las baterías agotadas de forma responsable. Consulta con las autoridades locales la normativa local en esta materia.
