@@ -15,7 +15,7 @@
 
 </quick_guide>
 
-# Mando a distancia
+### Mando a distancia
 ![Lado 2](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
 8. STANDBY: Conmuta entre encendido / modo de espera.
 9. MUTE: Activa / desactiva el sonido.
