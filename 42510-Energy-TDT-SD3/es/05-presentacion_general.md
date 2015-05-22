@@ -39,5 +39,20 @@
 27. AMARILLO: MSM. Mosaico interactivo de canales / Tecla de selección amarilla. AZUL: Tecla de selección azul.
 28. REV: Marcha atrás rápida en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad. FWD: Avance rápido hacia delante en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad.
 
+Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV.
 
+Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción. El mando a distancia tiene 1 emisor de señal IR en la parte superior, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 30 grados en ambos sentidos del receptor.
 
+![Sensor Angles](http://static.energysistem.com/images/manuals/42162/552cdf02ddf3d.jpg)
+
+Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las pilas haya llegado a su fin. Te recomendamos entonces que sustituyas las pilas por unas nuevas y uses siempre pilas alcalinas.
+
+Instalación de las pilas.
+
+Retira la tapa del compartimento de las pilas en el mando a distancia y coloca 2 pilas de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las pilas.
+
+![Batteries]()
+
+Guarda las pilas fuera 
+
+Desecha las pilas gastadas de forma responsable. Consulta con las autoridades locales 
