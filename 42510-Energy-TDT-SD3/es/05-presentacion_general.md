@@ -23,7 +23,7 @@
 11. CH+/-: Permite cambiar de canal. Flecha arriba y abajo.
 12. VOL+/-: Permite regular el nivel de volumen de sonido. Flecha izquierda y derecha.
 13. RECLIST: Muestra la lista de grabaciones almacenadas.
-14. TECLAS NUMÉRICAS: Se usan para introducir canales manualmente o números en los menús.
+14. TECLAS NUMERICAS: Se usan para introducir canales manualmente o números en los menús.
 15. TV/RADIO: Cambia entre selección de canales de TV o emisoras de radio. AUDIO: Selecciona entre las pistas de audio 
 16. ROJO: Sleep. Función de apagado programado / Tecla de selección roja. VERDE: List. Listado de canales. Tecla de selección verde.
 17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
