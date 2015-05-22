@@ -26,9 +26,14 @@
 14. TECLAS NUMÉRICAS: Se usan para introducir canales manualmente o números en los menús.
 15. TV/RADIO: Cambia entre selección de canales de TV o emisoras de radio. AUDIO: Selecciona entre las pistas de audio 
 16. ROJO: Sleep. Función de apagado programado. VERDE: List. Listado de canales.
-17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción.
+17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
 18. INFO: Muestra en pantalla información acerca del canal visionado. Pulsa varias veces para ampliar / desactivar.
-19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV mediante TIMESHIFT usando dispositivos de almacenamiento USB externos.
+19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV o el contenido multimedia (es necesario un dispositivo de almacenamiento USB externo).
+20. EPG: Guía de programación de en pantalla.
+21. EXIT: Volver / Salir de los menús.
+22. OK: Tecla de selección / confirmar.
+23. FAVORITE: Acceso a los canales favoritos.
+24. GAME: Acceso a juegos y funciones especiales (Gomoku, Calendario y Calculadora).
 
 
 
