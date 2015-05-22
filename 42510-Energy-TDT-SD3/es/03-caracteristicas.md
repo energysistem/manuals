@@ -12,7 +12,7 @@
 - Subtítulos por canal digital o teletexto.
 - Edición de canales: seleccionar favoritos, mover, bloquear, renombrar y clasificar por temática.
 - Control parental. 
-- Temporizador (función SLEEP).
+- Temporizador de apagado (función SLEEP).
 - 3 juegos interactivos incluidos.
 - Calculadora.
 - Actualización de software por el puerto USB.
