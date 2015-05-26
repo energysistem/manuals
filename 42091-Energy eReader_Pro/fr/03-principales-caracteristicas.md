@@ -11,7 +11,7 @@
 - Batterie de lithium rechargeable de haute capacité qui permet jusqu'à deux mois d'utilisation avec une seule charge.* 
 - Caractéristiques avancées de lecture: différentes tailles et types de lettre, marqueurs. 
 - Interface d'utilisateur dans plusieurs langues, simple et intuitive. 
-- Mémoire interne : 8 Go, extensible jusqu'à 64 Go avec des cartes micro SD / SDHC.
+- Mémoire interne : 8 Go, extensible jusqu'à 64 Go avec des cartes micro SD (SDHC/XC).
 - Inclut 1500 livres de littérature universelle en cadeau.  
 
 *Calcul basé sur une demi-heure de lecture quotidienne avec un niveau minimum de lumière et le WiFi désactivé.
