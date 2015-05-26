@@ -10,7 +10,7 @@
 - Rechargeable Lithium battery for up to two months with a single charge.*
 - Advanced reading features: choose the font types and font sizes, bookmarks.
 - Easy, friendly and multilingual user interface. 
-- Internal memory: 8GB, expandable up to 64GB with an SD/SDHC card.
+- Internal memory: 8GB, expandable up to 64GB with a Micro SD (SDHC/XC) card.
 - Includes 1500 free classics of universal literature.
 
 *Calculation based on half an hour of daily reading, with a low brightness level and without WiFi.
