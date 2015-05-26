@@ -6,5 +6,8 @@ Mientras disfrutas de tus canales favoritos de TV o Radio, pulsa "MENU" (10) par
 
 En esta pantalla encontrarás los siguientes submenús:
 
-- Instalación.
-- 
+* Instalación
+* Configuración de TV
+* Control Parental
+* Configuración de inicio
+* Actualización
