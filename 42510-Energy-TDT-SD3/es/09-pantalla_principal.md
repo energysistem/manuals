@@ -10,4 +10,9 @@ En esta pantalla encontrarás los siguientes submenús:
 * Configuración de TV
 * Control Parental
 * Configuración de inicio
-* Actualización
+* Actualización de software
+
+
+
+
+
