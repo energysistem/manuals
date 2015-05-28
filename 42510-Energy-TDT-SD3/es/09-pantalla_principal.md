@@ -20,7 +20,7 @@ En este submenú configurarás los ajustes de antena, lenguaje, localización y 
 
 * **Configuración de país:** Establece el país para configurar las frecuencias de búsqueda de canales y la zona horaria. Cambiar la configuración regional modificará automaticamente el valor de la zona horaria y fijará los valores de recepción adecuados para cada localización.
 
-* **Idioma OSD:** Fija el idioma para los textos de los menus en pantalla OSD (On Screen Display).
+* **Idioma OSD:** Selecciona el idioma para los textos de los menus en pantalla OSD (On Screen Display).
 
 * **Idioma de audio:** Fija el idioma predeterminado para la pista de audio. Puedes cambiar estos ajustes más adelante pulsando sobre el botón *"AUDIO"* (15) de tu mando a distancia durante la reproducción del contenido en caso de estar disponible más de una pista de audio.
 
