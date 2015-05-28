@@ -1,4 +1,4 @@
-##Encendido y apagado
+## Encendido y apagado
 
 Para encender el Energy SD3 pulsa el botón de encendido / apagado *"STANDBY"* (8) situado en la parte superior izquierda de tu mando a distancia. Podrás ver una luz de color verde en el receptor IR  indicando que se encuentra encendido.
 
