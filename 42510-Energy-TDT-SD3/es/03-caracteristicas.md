@@ -11,7 +11,7 @@
 - Teletexto (VBI).
 - Subtítulos por canal digital o teletexto.
 - Edición de canales: seleccionar favoritos, mover, bloquear, renombrar y clasificar por temática.
-- Control parental. 
+- Control parental.
 - Temporizador de apagado (función SLEEP).
 - Juegos y aplicaciones incluidas (Calculadora, Calendario, 5 en línea).
 - Actualización de software a través del puerto USB.

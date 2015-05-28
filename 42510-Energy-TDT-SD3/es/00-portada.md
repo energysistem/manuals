@@ -1,4 +1,4 @@
 <quick_guide>
-![Front Picture]()
+![Front Picture UM SD3]()
 </quick_guide>
 
