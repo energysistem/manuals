@@ -13,7 +13,7 @@ En esta pantalla encontrarás los siguientes submenús:
 * Configuración de inicio
 * Actualización de software
 
-### Instalación.
+### Instalación
 En este submenú configurarás los ajustes de antena, lenguaje, localización y canales.
 
 * **Configuración de antena:** Establece si el TDT SD3 alimenta la antena con 5V. El valor por defecto es "Desactivado" para la mayoría de las situaciones. Selecciona "Activado" si dispones de una antena activa con amplificación de señal.
@@ -89,7 +89,17 @@ Tu Energy TDT SD3 te permite encender el dispositivo y visualizar o grabar un ca
 
 Puedes programar los eventos de grabación o visualización (temporizadores) manualmente, o automáticamente a través de la Guía de TV/Radio.
 
-Durante los eventos programados puedes pulsar las teclas de Volumen *"VOL+/VOL-"* (12) y Silencio *"MUTE"* (9). Si pulsas cualquier otra tecla, un mensaje en pantalla te preguntará si quieres abandonar el evento programado. Puedes visualizar o editar los eventos programados pulsando en tu mando a distancia
+Durante los eventos programados puedes pulsar las teclas de Volumen *"VOL+/VOL-"* (12) y Silencio *"MUTE"* (9). Si pulsas cualquier otra tecla, un mensaje en pantalla te preguntará si quieres abandonar el evento programado. Puedes visualizar o editar los eventos programados pulsando en tu mando a distancia el botón *"REC LIST"* (13).
+
+### Configuración predeterminada
+
+Te permite restaurar los ajustes de inicio en caso de ser necesario.
+
+**Nota:** Esta operacion los restituye todos los valores ajustados por el usuario a su valor inicial, incluyendo el borrado de la lista de canales.
+
+### Actualización de software
+
+Te permite actualizar el software de sistema de tu Energy TDT SD3 a través de un dispositivo USB externo. Puedes comprobar las actualizaciones de sistema en http://www.energysistem.com/42510. Asegúrate que tu dispositivo USB tiene el formato FAT/FAT32 para poder usarlo con tu Energy TDT SD3.
 
 
 
