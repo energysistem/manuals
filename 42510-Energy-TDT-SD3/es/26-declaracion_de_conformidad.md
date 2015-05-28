@@ -1,6 +1,6 @@
-## <quick_guide> Declaración de Conformidad
+## Declaración de Conformidad
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54984c7857106.jpg)
+![CE Logo](xxx.jpg)
 
 Nombre del fabricante:
 Energy Sistem Soyntec S.A.
@@ -11,11 +11,13 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Phone Colors**
+Marca: **Energy Sistem#trade#**
+Modelo: **Energy TDT SD3**
+
 País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre. Puedes solicitar una copia de la declaración de conformidad en la dirección del fabricante anteriormente citada.
 
-Finestrat, 01 de enero de 2015
+Finestrat, 27 de mayo de 2015
 
-</quick_guide>
+

@@ -55,6 +55,6 @@ Retira la tapa del compartimento de las baterías en el mando a distancia y colo
 * Guarda las baterías siempre fuera del alcance de los niños.
 * No intentes cargar las baterías agotadas. No las arrojes al fuego, desmontes o cortocircuites.
 * Cambia las baterías una vez al año por seguridad.
-* Cambia las dos baterías a la misma vez, reemplazándolas por unoas del mismo tipo.
+* Cambia las dos baterías a la misma vez, reemplazándolas por unas del mismo tipo.
 * Retira las baterías del mando a distancia cuando no lo vayas a usar el mando por un tiempo prolongado.
 * Desecha las baterías agotadas de forma responsable. Consulta con las autoridades locales la normativa local en esta materia.
