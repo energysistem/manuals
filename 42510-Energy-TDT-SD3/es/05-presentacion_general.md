@@ -13,7 +13,7 @@
 ![Side 2](http://static.energysistem.com/images/manuals/42510/555f14657d929.jpg)
 7. Conector del cable USB Host. Conecta tus dispositivos USB externos para reproducir contenido multimedia o realizar grabaciones de TDT.
 
-### Mando a distancia
+### *Mando a distancia*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
 8. STANDBY: Conmuta entre encendido / modo de espera.
 9. MUTE: Activa / desactiva el sonido.

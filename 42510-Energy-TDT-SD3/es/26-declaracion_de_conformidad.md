@@ -16,7 +16,7 @@ Modelo: **Energy TDT SD3**
 
 País de fabricación: China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre. Puedes solicitar una copia de la declaración de conformidad en la dirección del fabricante anteriormente citada.
+Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/108/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004. Puedes solicitar una copia de la declaración de conformidad en la dirección del fabricante anteriormente citada.
 
 Finestrat, 27 de mayo de 2015
 
