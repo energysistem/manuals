@@ -37,7 +37,9 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
  5. Pulsa *"VERDE"* (16) o *"AMARILLO"* (27) para desplazarte por la lista de resultados de búsqueda.
 
 ### *Guía de programación electrónica (EPG)*
-La guía de programación electrónica te permite obtener
+La guía de programación electrónica te permite obtener la programación semanal de los canales de TV.
+
+
 
 
 
