@@ -8,5 +8,5 @@ Specifications are subject to change without notice.
 
 *Trademarks.* All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-©2014 by Energy Sistem Soyntec S.A. All rights reserved.
+©2015 by Energy Sistem Soyntec S.A. All rights reserved.
 </quick_guide>
