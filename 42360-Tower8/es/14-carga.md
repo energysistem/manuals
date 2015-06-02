@@ -8,3 +8,5 @@ Tensión= 5V
 Intensidad máxima= 2.5A
 
 Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar conectándolo a este puerto.
+
+*Nota:* Para evitar interferencias en la radio durante la carga de dispositivos; mantén separada la antena FM del cable de carga.
