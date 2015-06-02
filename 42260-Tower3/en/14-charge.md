@@ -9,3 +9,5 @@ Current = 2A
 
 Any device that requires a voltage above 5V cannot be charged.
 
+* Note: * To prevent interference to the radio while charging devices; keep the FM antenna separate charging cable.
+
