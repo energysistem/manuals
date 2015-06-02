@@ -3,7 +3,7 @@
 ### Características generales
 
 * Transfiere y disfruta tu música a través de conexión inalámbrica gracias a la tecnología Bluetooth®.
-* Compatibilidad total con smartphones y tablets iOS, Android™, Windows Mobile, BlackBerry, tc.
+* Compatibilidad total con smartphones y tablets iOS, Android, Windows Mobile, BlackBerry, tc.
 * Libertad de sonido: Escucha y comparte tu música en cualquier lugar, sin cables.
 * Altavoces con sistema de realce acústico: Sonido claro y con graves reforzados.
 * Potencia de salida total (RMS): 6 W.
