@@ -83,11 +83,11 @@ Fija el nivel de clasificación parental del programa emitido a partir del cual 
 Pulsa en tu mando a distancia "Izquierda / Derecha" para activar el cambio de contraseña. Usa el teclado numérico *<0-9>* (14) para introducir la contraseña antigua. Necesitas introducir la nueva contraseña dos veces por seguridad. Si has introducido los datos correctamente aparecerá un mensaje en pantalla informando que el cambio de contraseña se ha realizado con éxito.
 
 
-### *Temporizador de eventos*
+### *Temporizador (de eventos)*
 
 Tu Energy TDT SD3 te permite encender el dispositivo y visualizar o grabar un canal de TV automáticamente programando un evento.
 
-Puedes programar los eventos de grabación o visualización (temporizadores) manualmente, o automáticamente a través de la Guía de TV/Radio.
+Puedes programar eventos de grabación o visualización manualmente, o automáticamente a través de la Guía de TV/Radio.
 
 Durante los eventos programados puedes pulsar las teclas de Volumen *"VOL+/VOL-"* (12) y Silencio *"MUTE"* (9). Si pulsas cualquier otra tecla, un mensaje en pantalla te preguntará si quieres abandonar el evento programado. Puedes visualizar o editar los eventos programados pulsando en tu mando a distancia el botón *"REC LIST"* (13).
 

@@ -27,8 +27,8 @@
 17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
 18. INFO: Muestra en pantalla información acerca del canal visionado. Pulsa varias veces para ampliar / desactivar.
 19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV o el contenido multimedia (es necesario un dispositivo de almacenamiento USB externo).
-20. EPG: Guía de programación de en pantalla.
-21. EXIT: Volver / Salir de los menús.
+20. EXIT: Volver / Salir de los menús.
+21. EPG: Guía de programación de en pantalla.
 22. OK: Tecla de selección / confirmar.
 23. FAVORITE: Acceso a los canales favoritos.
 24. GAME: Acceso a juegos y aplicaciones (Gomoku, Calendario y Calculadora).

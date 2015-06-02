@@ -1,4 +1,4 @@
-## Primer uso / Ajustes de inicio.
+## Primer uso / Ajustes de inicio
 
 ![Initial Settings](Imagen de settings de inicio.jpg)
 

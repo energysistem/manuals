@@ -1,6 +1,6 @@
-## TV y Radio.
+## TV y Radio
 
-En la emisión de TDT podrás encontrar dos tipos de canales, TV y radio. El funcionamiento de la Lista de canales y Guía es idéntico tanto para radio como para TV. En esta sección te explicaremos el funcionamiento de la versión de TV, y que podrás aplicar a la versión de radio igualmente.
+En la emisión de TDT podrás encontrar dos tipos de canales, TV y radio. El funcionamiento de la Lista de canales y Guía electrónica es idéntico tanto para radio como para TV. En esta sección te explicaremos el funcionamiento de la versión de TV, que podrás aplicar de igual forma a la versión de radio.
 
 ### *Lista de canales de TV*
 
@@ -37,7 +37,18 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
  5. Pulsa *"VERDE"* (16) o *"AMARILLO"* (27) para desplazarte por la lista de resultados de búsqueda.
 
 ### *Guía de programación electrónica (EPG)*
-La guía de programación electrónica te permite obtener la programación semanal de los canales de TV.
+La guía de programación electrónica te permite obtener la programación semanal de los canales de TV. Pulsa el botón *EPG* (21) en tu mando a distancia para acceder a la ventana de la guía.
+
+1. Pulsa *"ARRIBA / ABAJO"* (11) para cambiar el canal.
+2. Pulsa *"IZQUIERDA / DERECHA"* (12) para cambiar de programa o seleccionar otra fecha.
+3. Pulsa *"OK"* (22) para mostrar los detalles del programa seleccionado.
+4. Pulsa *"EXIT"* (20) para volver al menú anterior o salir.
+5. Pulsa *"ROJO"* (16) para entrar en la lista de eventos programados y *"OK"* (22) para incluir el programa seleccionado. En caso de solaparse con otro evento se mostrará un mensaje de advertencia, en caso contrario el evento se añadirá al "Temporizador".
+
+
+
+
+
 
 
 
