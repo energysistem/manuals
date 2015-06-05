@@ -6,6 +6,6 @@ Es muy importante que te asegures de que la TAPA DE LAS CONEXIONES (8)  esté bi
 
 Después de mojar tu *Energy Music Box Aquatic Bluetooth*, lávalo con agua dulce sin abrir la tapa de los conectores y sécalo concienzudamente. No uses productos de limpieza corrosivos o abrasivos.
 
-*Nota:* El altavoz no emite sonido cuando está completamente sumergido en el agua.
+*Nota:* El altavoz no emitirá sonido cuando se encuentre completamente sumergido en el agua.
 
 
