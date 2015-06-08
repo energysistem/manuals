@@ -1,6 +1,6 @@
 ## Pantalla principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61781e767.jpg)
+![Imagen1]()
 
 1. **Buscador:** Acceso directo al motor de búsqueda WEB de Google#trade#.
 2. **Barra de estado:** Muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo en esta zona se despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
@@ -13,4 +13,4 @@
 9. **Contactos:** Gestión de contactos.
 10. **Phone:** Llamadas y registro.
 11. **Galería:** Visualización de imágenes.
-12. **Energy Cam:** Acceso a la cámara de fotos integrada.
+12. **Cámara:** Acceso a la cámara de fotos integrada.
