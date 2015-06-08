@@ -10,11 +10,11 @@ Para quitar el "modo demo" entra en "Ajustes", "Usuario", y en la sección "Modo
 
 **¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
 
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está en suspensión.
 
 **No puedo cambiar la fuente de las letras en un archivo PDF.**
 
-El formato pdf se visualiza tal y como es creado, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
+El formato pdf en algunas ocasiones es creado como si de una fotografía se tratase, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
 
 **No se puede leer un libro electrónico.**
 
@@ -34,4 +34,4 @@ Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros
 
 **Mi batería dura poco, aproximadamente unos 2 días**
 
-Si la batería de tu eReader dura poco, asegúrate que tu conexión Wi-Fi esté desactivada, además asegúrate que has seleccionado no usar la conexión Wi-Fi mientras el eReader está en suspensión en Ajustes.
+El consumo de batería de tu eReader dependerá del uso que hagas de él, y de las aplicaciones descargadas que estén trabajando en segundo plano. Si notas que la batería de tu eReader dura poco, prueba reducir la cantidad de iluminación Screenlight y desconectar la conexión Wi-Fi si no la vas a utilizar; también puedes probar desactivar la conexión Wi-Fi mientras el eReader está en suspensión (muchas aplicaciones se actualizan en segundo plano, por ejemplo, las apliciones Google monitorizarán la forma en la que usas el dispositivo para ofrecerte servicios personalizados, o comprobarán que las aplicaciones instaladas se encuentran actualizadas). Puedes revisar el estado de la conexión Wi-Fi en suspensión dentro de Ajustes, Wi-Fi, Opciones Avanzadas.

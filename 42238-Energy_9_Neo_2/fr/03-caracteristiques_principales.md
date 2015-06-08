@@ -7,8 +7,8 @@
 * 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n
 * Bluetooth 4.0
-* Caméra frontale 0.3Mpx.
 * Caméra arrière 2Mpx.
+* Caméra frontale VGA
 * Fonction USB-Host.
 * Fonction USB-OTG.
 * Haut-parleur inclut 1w.

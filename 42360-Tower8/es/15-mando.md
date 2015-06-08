@@ -8,7 +8,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Función "Mute" para silenciar todos los modos.
 
-* Control de Volumen, Play/Pause, Avance y Retroceso de pistas/sintonías FM (todos los modos).
+* Control de Volumen, Play/Pause, Avance y Retroceso de pistas/sintonías FM (para todos los modos).
 
 * Ecualización para los modos USB y SD (Botón EQ).
 

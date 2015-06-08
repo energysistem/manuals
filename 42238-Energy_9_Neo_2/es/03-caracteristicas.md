@@ -4,7 +4,7 @@
 * Pantalla capacitiva multi-táctil de 5 puntos.
 * Procesador de cuatro núcleos ARM Cortex A7 1.3GHz con GPU SGX544MP2 integrada.
 * 1GB DDR3 RAM.
-* 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 32 GB).
+* 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
 * Bluetooth 4.0
 * Cámara trasera 2Mpx.

@@ -1,26 +1,19 @@
-## Pantalla inalámbrica
+## Wireless screen
 
-Tu Energy#trade# Android TV Play tiene incorporada la función de pantalla de cast inalámbrica para compartir la pantalla de tus dispositivos compatibles con tecnología Miracast#trade# en tu TV. 
+Your Energy#trade# Android TV Play features the cast wireless screen function, which you can use to share the screen of your Miracast#trade# compatible devices on your TV. 
 
 ![Miracast](http://static.energysistem.com/images/manuals/42162/5500738594960.jpg)
 
-La tecnología Miracast#trade# viene incorporada de forma nativa en prácticamente todos los dispositivos con sistema Android a partir de su versión 4.2, y consiste en un nuevo protocolo  de comunicación multimedia que nos permitirá transmitir audio y vídeo mediante WiFi entre distintos dispositivos como smartphones, tablets, televisores, reproductores, etc. de forma sencilla.
+Almost all devices with android 4.2 and newer feature Miracast#trade# technology, which consists in a new multimedia protocol that helps to transmit audio and video between smartphones, tablets, TV, players, etc. via Wi-Fi.
 
-Podrás disfrutar en tu TV de la imagen de cualquier dispositivo compatible que se encuentre en nuestra zona de cobertura de señal Wi-Fi. No es necesario que ambos dispositivos estén conectados a internet, aunque es conveniente que el dispositivo de origen lo esté por si quieres descargar contenido de la red y compartirlo de esta forma.
+You will be able to enjoy audio and video content stored on mobile devices on your TV. It is not necessary for both devices to be connected to the internet, although it is advisable to have the source device connected in case you want to download and share content.
 
-Puedes comprobar la compatibilidad de tus otros dispositivos Android entrando en su menú **Ajustes / Pantalla / Pantalla de Cast** o **Pantalla Inalámbrica**. 
+You can check the compatibility with your Android devices in **Settings / Screen / Cast Screen** or **Wireless Screen**. 
 
-Para autorizar la pantalla de un dispositivo en tu Android TV Play sigue estos sencillos pasos para configurarlo por primera vez:
+Follow these easy steps in order to authorise the screen of a device on your Android TV Play:
 
-1. Pulsa el botón ![Miracast](http://static.energysistem.com/images/manuals/42162/55001fcc851ce.jpg) en el mando de tu Android TV Play o entra en la aplicación *Pantalla Inalámbrica*. El dispositivo entrará entonces en el modo de recepción de señal. 
-2. Activa la pantalla inalámbrica en el dispositivo que quieras contectar a tu Android TV Play, entrando en **Ajustes / Pantalla / Pantalla de Cast** o **Pantalla inalámbrica**, y marcando la casilla correspondiente. Puedes además cambiar el nombre con el que este dispositivo será detectado. 
-3. Pulsa en tu Android TV Play sobre **"detectar dispositivos"** y autoriza la conexión en ambos dispositivos.
+1. Press the button ![Miracast](http://static.energysistem.com/images/manuals/42162/55001fcc851ce.jpg) on the remote control of your Android TV Play or run the *Wireless screen* app. The device will enter signal reception mode. 
+2. Enable the wireless screen on the device you want to connect to your Android TV Play. To do so, go to **Seettings / Screen / Cast Screen** or **Wireless Screen** and check the appropriate box. You can also rename the device. 
+3. Press **"detect a device"** on your Android TV Play and authorise the connection between both devices.
 
-A partir de este momento sólo necesitarás buscar tu Android TV Play desde tus otros dispositivos autorizados entrando en *Pantalla de Cast* o *Pantalla Inalámbrica* de los mismos para convertir tu TV en un "espejo" de todo lo que ocurra en la pantalla del dispositivo conectado. 
-
-
-
-
-
-
-
+The only thing left to do is to search for your Android TV Play on your authorised devices. To do so, go to *Cast Screen* or *Wireless screen* in order to transform your TV in a "mirror" that reflects all that happens on your devices.

@@ -8,3 +8,5 @@ Tensión= 5V <br>
 Intensidad= 2A
 
 Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
+
+*Nota:* Para evitar interferencias en modo radio durante la carga de dispositivos mantén separada la antena FM del cable de carga.

@@ -1,10 +1,10 @@
-## <quick_guide> Contenido del producto
+## <quick_guide> Product content
 
 * Energy Android TV Play.
-* Mando a distancia ergonómico doble cara con teclado QWERTY.
-* Cable USB con módulo WIFI y USB HOST para dispositivos externos. 
-* Cable receptor de mando a distancia.
-* Adaptador de corriente AC/DC 5V 1,5A (Europlug) 100-240VAC 50-60Hz.
-* Pilas AAA.
-* Guía Rápida.
+* Ergonomic remote control with QWERTY keyboard.
+* USB cable with Wi-Fi module and USB HOST for external devices. 
+* Remote control cable receiver.
+* AC/DC adapter (Europlug) 5 V 1.5 A 100-240V AC 50-60 Hz.
+* AAA batteries.
+* Quick guide.
 </quick_guide>

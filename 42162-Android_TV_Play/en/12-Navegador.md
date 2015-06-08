@@ -1,17 +1,15 @@
-## Navegador Web
+## Web Browser
 
-Tu nuevo Energy#trade# Android TV Play dispone de un potente navegador Web entre la lista de aplicaciones instaladas por defecto, con el que podrás acceder a Internet con compatibilidad HTML5 y Flash 11.1.
+Your new Energy#trade# Android TV Play comes with a powerful web browser by default to access the internet. Compatible with HTML5 and Flash 11.1.
 
 ![WebBrowser](http://static.energysistem.com/images/manuals/42162/5502a943858ca.jpg)
 
-Una vez el dispositivo esté conectado y configurado a una red Wi-Fi, selecciona el icono *Navegador* situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio preestablecida por defecto y la mostrará en pantalla de tu televisor. Puedes configurar las páginas de inicio desde el menú de configuración del navegador.
+Once the device is connected, select the "Browser" icon - located in the main menu or in the app menu - to run the program. The system will load the default home page and show it on your TV. Puedes configurar las páginas de inicio desde el menú de configuración del navegador.
 
-Utiliza el *teclado alfanumérico* QWERTY para escribir direcciones web o términos de búsqueda directamente.
+Use the QWERTY *alphanumeric keyboard* to type in web addresses or keywords.
 
 ![Keyboard](http://static.energysistem.com/images/manuals/42162/5502a99eea5de.jpg)
 
-Usa las *teclas de scroll rápido* de pantalla ![ScrollKeys](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) en tu mando a distancia para moverte verticalmente por las páginas web.
+Use the *scrolling keys* ![ScrollKeys](http://static.energysistem.com/images/manuals/42162/550086f482e43.jpg) on the remote control to scroll up and down web pages.
 
-Pulsa el *"modo mouse"* ![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) en tu teclado alfanumérico para moverte por los diferentes controles de la pantalla como lo harías con un ratón o dispositivo señalador.
-
-
+Select the *"Mouse Mode"* ![MouseIcon](http://static.energysistem.com/images/manuals/42162/55008780a55de.jpg) on the alphanumeric keyboard to browse through the different screen options as if you were using a mouse.

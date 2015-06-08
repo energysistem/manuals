@@ -11,8 +11,7 @@ CAMBIAR FOTO
 5. Volumen control +/-
 6. Touch panel
 7. microSD slot
-8. HDMI output
-9. microUSB port
-10. Headphone output
+8. microUSB port
+9. Headphone output
 
 </quick_guide>

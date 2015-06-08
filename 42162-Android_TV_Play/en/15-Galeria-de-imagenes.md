@@ -1,33 +1,29 @@
-## Imagen
+## Image
 
-Esta aplicación te permite tanto mostrar imágenes sueltas como crear una presentación de diapositivas con tan sólo pulsar un botón.
+This app allows you to display images or create a slide show with the press of a button.
 
-Navega a través del explorador de archivos para seleccionar las imágenes a mostrar.
-Pulsa **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar dentro de las diferentes unidades y carpetas, y para reproducir las imágenes. Pulsa **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para volver hacia atrás un nivel, y volver al explorador de archivos desde la reproducción.
+Browse through the file explorer to select the image you want to display.
+Press **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) to enter different units/folders, select and display images. Press *"Back"* ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) to return to the file explorer.
 
-Desde el mando a distancia puedes usar las teclas de control del reproductor multimedia **"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Detener" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Anterior" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg) y "Siguiente" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)** , o las teclas direccionales **"Izquierda"** ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg) o **"Derecha"** ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) para pasar las diapositivas.
+You can use the following multimedia control keys on the remote control: **"Play/Pause" ![PlayPlause](http://static.energysistem.com/images/manuals/42162/5501c84d1a18d.jpg), "Stop" ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg), "Previous" ![Prev](http://static.energysistem.com/images/manuals/42162/5501c859394dc.jpg), "Next" ![Next](http://static.energysistem.com/images/manuals/42162/5501c83524ac9.jpg)** and **"Left"** ![Izda](http://static.energysistem.com/images/manuals/42162/5501c827e464c.jpg) and **"Right"** arrow keys ![Dcha](http://static.energysistem.com/images/manuals/42162/5501c819dd674.jpg) for viewing images.
 
-También puedes usar las teclas **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) o **"Menu"** durante la el visionado de imágenes para abrir el menú contextual de la aplicación. Este menú te mostrará los siguientes controles:
+You can also use the **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) or **"Menu"** button to open a pop-up menu while viewing images. This menu will display the following controls:
 
-- *Reproducir / Pausar*. Usa este control para pausar y reanudar la presentación de diapositivas.
-- *Detener*. Se dentendrá la presentación y saldrás al explorador de archivos de imagen.
-- *Anterior*. Pasas a la siguiente imagen en la carpeta de donde se están reproduciendo las imágenes.
-- *Siguiente*. Pulsa para volver a la imagen anterior dentro de la carpeta de donde se están reproduciendo las canciones.
-- *Repetir*. Te permite cambiar la forma en la que se repite la presentación de imagen. Puedes repetir varias imágenes, todas las imágenes o cambiar el órden de reproducción.
-- *Cambiar Tiempo*. Permite seleccionar el tiempo de presentación de las imágenes en pantalla, antes de cambiar a la siguiente.
-- *Modo de reproducción*. Permite cambiar entre el modo de presentación contínuo, o selección de imágenes aleatoria de forma automática.
-- *Rotación*. Pulsa para rotar las imágenes entre *"Normal"*, *"90"*, *"180"* y *"270"* grados.
-- *Zoom*. Pulsa para hacer ampliaciones de la imagen en pantalla o reducir hasta volver al tamaño original. Durante la ampliación puedes usas las teclas direccionales para desplazarte por la imagen.
+- *Play / Pause*. Pause and resume slide shows.
+- *Stop*. The slideshow willl stop and the image file explorer will open.
+- *Next*. View the next image in the image folder.
+- *Previous*. View the previous image in the image folder.
+- *Repeat*. Allows you to change the repeat mode for slide shows. You can repeat various images, all images or change the image order.
+- *Change Time*. Allows you to select the time each image is displayed on screen before displaying the next one.
+- *Playback Mode*. Allows you to switch between the default and random slide show mode.
+- *Rotation*. You can select the following options to rotate the image: *"Normal"*, *"90"*, *"180"* and *"270"* degrees.
+- *Zoom*. Zoom in and out images on the screen. While zooming in, you can use the arrow keys to move around the image.
 
-Para detener la reproducción:
-- Pulsa **"Stop"** ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directamente desde el mando a distancia.
-- Sal de la aplicación usando la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) desde tu mando a distancia.
-- Pulsa la tecla **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) o **"Menu"** ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) para mostrar el menú contextual, y a continuación pulsa *"Detener"*. 
+In order to stop the playback:
+- Press **"Stop"** ![Stop](http://static.energysistem.com/images/manuals/42162/5501c871719ec.jpg) directly on the remote control.
+- Press **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) on the remote control to exit the app.
+- Press the **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) or **"Menu"** button ![Menu](http://static.energysistem.com/images/manuals/42162/5501c7fd28337.jpg) to open the pop-up menu and the press *"Stop"*. 
 
-Para salir de la aplicación:
-- Pulsa **"Home"** ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) en tu mando a distancia para volver directamente a la pantalla principal.
-- Pulsa la tecla **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para volver atrás hasta salir de la aplicación.
-
-
-
-
+To exit the app:
+- Press the **"Home"** button ![Home](http://static.energysistem.com/images/manuals/42162/5501c8a118989.jpg) on the remote control to go back to the main screen.
+- Press the **"Back"** button ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) to go back until you exit the app.

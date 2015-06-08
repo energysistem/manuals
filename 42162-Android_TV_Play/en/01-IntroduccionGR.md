@@ -1,7 +1,7 @@
-##<quick_guide> Introducción
+##<quick_guide> Introduction
 
-* Energy Sistem#trade# te agradece la compra de tu nuevo Centro Multimedia Energy#trade# Android TV Play. Deseamos que lo disfrutes. 
-* Este dispositivo Transforma tu televisor en una Android TV y un PC, con un potente procesador dual core ARM Cortex A9 1.6GHz + GPU Mali-400 Quad, permitiendo la descarga de miles de aplicaciones y juegos para Android#trade# y disfrutar de vídeos FullHD, todo con el tamaño de un pendrive.
-* Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo sus prestaciones.
+* Energy Sistem#trade#  thanks you for buying your new Energy Android TV Play. We hope you enjoy it! 
+* This device will transform your TV into an Android TV/PC with a powerful Dual Core ARM Cortex A9 1.6GHz + GPU Mali-400 Quad, allowing you to  download thousands of apps and games for Android™ as well as enjoying videos in FullHD. All in a pen drive-sized device.
+We recommend you to read this manual in order to enjoy this product safely and getting the most out of its features.
 
-<unique> * Encuentra el manual completo del *Energy Android TV Play* en el siguiente enlace  http://www.energysistem.com/guide/42162 </unique> </quick_guide>
+<unique> * The full *Energy Android TV Play* manual can be found by clicking on the followinf link http://www.energysistem.com/guide/42162 </unique> </quick_guide>

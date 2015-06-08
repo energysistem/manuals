@@ -13,7 +13,7 @@
 - 8GB de memoria interna que permiten almacenar hasta 32 horas de video u 4.000 canciones.
 - Memoria ampliable mediante tarjetas microSD-HC/XC (hasta 64GB).
 - Cámara frontal integrada con sensor de 5.0 Mpx (BSI+) con ángulo de apertura ancho 88º y flash LED.
-- Cámara trasera integrada de 8.0 Mpx con auto-focus y flash LED.
+- Cámara trasera integrada de 8.0 Mpx con autofocus y flash LED.
 - Función USB para un fácil acceso a la memoria del smartphone desde el ordenador (cable incluido).
 - Altavoz integrado.
 - Micrófono omnidireccional integrado.

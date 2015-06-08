@@ -1,22 +1,20 @@
-## <quick_guide> Funcionamiento de la garantía
+## <quick_guide> Support and warranty procedure
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Visit the support section at <t0/>http://support.energysistem.com/es/support<t1/> and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available, as the possibility to submit a query to the Technical Service or consult the warranty.
 
-1. Puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42162
+1. Check out the user's manual availability in your language here: http://www.energysistem.com/guide/42162
 
-2. También ponemos a tu disposición el teléfono para la gestión de garantía **902 294 294** (teléfono de soporte técnico válido solo para España).
-Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.
+2. Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
-3. Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+Specifications are subject to change without notice.
 
-*Importante:* Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica. Las especificaciones están sujetas a cambios sin previo aviso.
+## Trademarks
 
-## Marcas comerciales
+All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+© 2015 Energy Sistem Soyntec S.A. All rights reserved.
 
-© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
-
-*NOTA:* El presente dispositivo puede contener enlaces a sitios o páginas web operados por terceros ajenos a Energy Sistem Soyntec S.A. Estos enlaces son facilitados para tu información o comodidad; Energy Sistem Soyntec S.A. no se hace responsable de su disponibilidad, contenido, adecuación o exactitud. Dichas páginas externas pueden contener o hacer referencia a marcas, patentes, información registrada, tecnologías, productos, procesos, u otros derechos de la propiedad pertenecientes a otras personas. Todos los derechos reservados son propiedad de sus respectivos dueños.
+All rights reserved are the property of their respective owners.
 
 </quick_guide>
+

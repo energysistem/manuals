@@ -12,7 +12,7 @@ Quand l'appareil soit allumé, le VOYANT (8) sera allumé en bleu avec l'icone d
 
 ### Changement de mode de lecture
 
-Quand vous allumez l'appareil, la recherche d'appareils bluetooth commencera automatiquement. Pour passer en mode Audio-in, connectez le câble audio (inclut) à la CONNEXION D’ENTRÉE AUDIO (14)
+Quand vous allumez l'appareil, la recherche d'appareils bluetooth commencera automatiquement. Pour passer en mode Audio-in, connectez le câble audio (inclut) à la CONNEXION D'ENTRÉE AUDIO (14)
 
 ### Chargement de la batterie.
 

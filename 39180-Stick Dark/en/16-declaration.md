@@ -2,13 +2,13 @@
 
 Manufacturer name: Energy Sistem Soyntec S.A.
 
-Address: Pol. Ind. Finestrat, C/.Calpe, 1 - 03509, Finestrat, Alicante (Spain)
+Address: Pol. Ind. Finestrat, C/.Calpe, 1, 03509, Finestrat, Alicante (Spain)
 
 Tel: 902 388 388 F ax: 902 119 034 N IF: A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem™ Energy MP3 Player Stick / Active Series**
+**Energy Sistem Energy MP3 Player Stick / Active Series**
 
 Manufacturing country: China
 

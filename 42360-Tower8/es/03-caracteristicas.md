@@ -18,6 +18,6 @@
 - Mando a distancia con control total de funciones.
 - Ecualizaciones predefinidas con opción de ajuste manual.
 - Reproduce archivos MP3 y WAV desde tarjetas SD/SDHC/MMC y memorias USB con capacidad de hasta 64 GB.
-- Altavoces: 4"× 4 (speakers) + 1,5''x 2 (twitters) + 6.5" x 1 (subwoofer).
+- Altavoces: 4"x 4 (speakers) + 1.5''x 2 (twitters) + 6.5" x 1 (subwoofer).
 - Respuesta en frecuencia: 20Hz-20KHz
 - Alimentación: 120-240 V / 50-60 Hz.

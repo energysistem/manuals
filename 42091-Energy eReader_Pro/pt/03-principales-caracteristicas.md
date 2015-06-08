@@ -11,7 +11,7 @@
 - Bateria de lítio recarregável de alta capacidade que permite até dois meses de uso com uma única carga.* 
 - Funções de leitura especial: diferentes tamanhos, fontes e marcadores. 
 - Interface do usuário em vários idiomas, fácil e intuitiva. 
-- Memória interna: 8 GB, expansível até 64 GB com cartões micro SD / SDHC. 
+- Memória interna: 8 GB, expansível até 64 GB com cartões micro SD (SDHC/XC). 
 - Inclui 1.500 clássicos da literatura universal. 
 
 *Calculo com base no tempo médio de leitura diária, com um mínimo nível de iluminação "ScreenLight" e conectividade Wi-Fi desactivado. 

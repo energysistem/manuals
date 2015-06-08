@@ -10,7 +10,7 @@
 - Batería de iones de litio recargable de alta capacidad que permite hasta dos meses de uso con una sola carga.*
 - Funciones avanzadas de lectura: diferentes tamaños, tipos de letra y marcadores.
 - Interfaz de usuario en múltiples idiomas, fácil e intuitiva.
-- Memoria interna: 8GB, ampliable hasta 64GB con tarjetas micro SD/SDHC.
+- Memoria interna: 8GB, ampliable hasta 64GB con tarjetas micro SD (SDHC/XC).
 - Incluye 1500 libros de la literatura universal de regalo.
 
 *Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.

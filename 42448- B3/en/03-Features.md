@@ -3,7 +3,7 @@
 ### General features
 
 - Transfer and enjoy your music through the wireless Bluetooth® technology.
-- Total compatibility with smartphones and tablets iOS, Android™, Windows Mobile, BlackBerry, etc.
+- Total compatibility with smartphones and tablets iOS, Android, Windows Mobile, BlackBerry, etc.
 - Freedom of sound: Listen and share your music anywhere.
 - Loudspeakers with acoustic enhancement system: Clear sound and rich bass.
 - Total output power (RMS): 6W.

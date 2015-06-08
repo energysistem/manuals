@@ -1,10 +1,10 @@
-## <quick_guide> Declaración de Conformidad
+## <quick_guide> Declaration of conformity
 
 ![CE](http://static.energysistem.com/images/manuals/42162/55007b7fa091d.jpg)
 
-Nombre del fabricante: Energy Sistem Soyntec S.A. 
+Manufacturer name: Energy Sistem Soyntec S.A. 
 
-Dirección: Pol. Ind. Finestrat - C/.Calpe, 1.
+Adress: Pol. Ind. Finestrat - C/.Calpe, 1.
 
 03509 Finestrat Alicante (España).
 
@@ -12,13 +12,14 @@ Tel: 902 388 388 // Fax: 902 119 034
 
 NIF: A53107488
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+We declare under our own exclusive responsibility that the product:
 
 **Energy Sistem#trade# Energy Android TV Play**
 
-País de fabricación: China
+Manufacturing Country: China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre. Puedes solicitar una copia de la declaración de conformidad en la dirección del fabricante anteriormente citada.
+China is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999. You can request a copy of this declaration of conformity on the manufacturers address.
 
-Finestrat, 02 de enero de 2015
+Finestrat, 02 January 2015
 </quick_guide>
+
