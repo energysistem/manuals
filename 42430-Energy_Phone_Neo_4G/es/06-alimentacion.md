@@ -4,5 +4,5 @@
 * Dispones de varias formas de mejorar el rendimiento y optimizar el uso de la batería de tu Energy Phone:
 Configura el apagado de la pantalla automáticamente tras unos segundos de inactividad desde Ajustes > Pantalla > Suspender después de.
 Selecciona un nivel de brillo de pantalla óptimo en el menú Ajustes > Pantalla > Brillo.
-Activa la conexión Wi-Fi siempre que puedas ya que utiliza menos energía que la conexión 3G y además ahorrarás en tu tarifa de datos.
+Activa la conexión Wi-Fi siempre que puedas ya que utiliza menos energía que la conexión 3G/4G y además ahorrarás en tu tarifa de datos.
 </quick_guide>
