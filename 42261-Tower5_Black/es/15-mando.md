@@ -4,7 +4,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Apagado y encendido del equipo.
 
-* Selección de modo (USB, SD, Line-in, Radio FM, Bluetooth®) mediante el botón modo.
+* Selección de modo (USB, SD, Audio-in, Radio FM, Bluetooth®) mediante el botón modo.
 
 * Función "Mute" para silenciar todos los modos, excepto el modo Bluetooh.
 
