@@ -21,6 +21,3 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 A continuación se muestra un diagrama del orden de lectura:
 
 ![Orden](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
-
-
-
