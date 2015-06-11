@@ -1,6 +1,5 @@
 ﻿## Partie supérieure 
-| | |
-|:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42261/54995db9d7ced.jpg)| 1. Play / Pause <br>2. < / << <br>3. Volume  -<br>4. Dossier<br>5. Mode<br>6. Aléatoire<br>7. Fente pour dispositifs <br>8. Ports USB de charge<br>9. Volume +<br>10. Line-in<br>11. Fente SD<br>12. \> / >><br>13. USB in<br>14. Écran principal |
 
+![Schema](http://static.energysistem.com/images/manuals/42261/557942e243e26.jpg)
 
+![Schema](http://static.energysistem.com/images/manuals/42261/557945ef3d2f9.jpg)
