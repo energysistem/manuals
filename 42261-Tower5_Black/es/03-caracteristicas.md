@@ -20,6 +20,6 @@
 - Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
 - Decodificador de memorias USB de hasta 32 GB.
 - Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters) + 4" x 1 (subwoofer).
+- Altavoces: 4" x 2 (centrales) + 1,5''x 2 (twitters) + 4" x 1 (subwoofer).
 - Respuesta en frecuencia: 20Hz-20KHz
 - Alimentación: 120-240 V / 50-60 Hz.
