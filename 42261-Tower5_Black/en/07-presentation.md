@@ -1,6 +1,6 @@
 ## General functions
 
-*Energy Tower 5* is an integrated music player with Bluetooth® technology. You can play your song through USB/SD external memories as well, you can enjoy the FM radio and the Line-in inputs to connect you MP3 player, mobile phone and other audio devices.
+*Energy Tower 5* is an integrated music player with Bluetooth® technology. You can play your song through USB/SD external memories as well, you can enjoy the FM radio and the Audio-in inputs to connect you MP3 player, mobile phone and other audio devices.
 
 In order to select different functions, press (5). This will help you to select between the available functions of the connecting devices.
 
