@@ -10,7 +10,7 @@ Al mismo tiempo desde tu dispositivo Bluetooth® (móvil, tablet, portátil, etc
 
 Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta con encender el *Energy Music Box Aquatic Bluetooth* y la sincronización se llevará a cabo de manera automática.
 
-Si deseas sincronizar otro dispositivo Bluetooth®, basta con mantener pulsado el botón PLAY/PAUSA Y BUSQUEDA BLUETOOTH (6). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
+Si deseas sincronizar otro dispositivo Bluetooth®, mantén pulsado el botón PLAY/PAUSA Y BUSQUEDA BLUETOOTH (6). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
 
 ### Modo Audio-In.
 
