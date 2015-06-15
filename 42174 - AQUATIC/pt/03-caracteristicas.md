@@ -23,7 +23,7 @@
 * Resposta em frequência: 80 Hz ~ 20 KHz.
 * Rácio sinal/ruído: >80 dB.
 * Entrada "line-in" de 3.5 mm.
-* Bateria de lítio recarregável com uma duração de até 10 horas.
+* Bateria de lítio recarregável com uma duração de até 14 horas.
 
 
 
@@ -32,8 +32,8 @@
 
 * Capacidade nominal: 1200 mA.
 * Voltagem nominal: 3.7V.
-* Autonomia em modo Bluetooh: 8 horas.*
-* Autonomia em modo Line-in: 10 horas.*
+* Autonomia em modo Bluetooh: 12 horas.*
+* Autonomia em modo Line-in: 14 horas.*
 
 
 <br/><br/>
