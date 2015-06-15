@@ -22,15 +22,15 @@
 * Réponse en fréquence: 80 Hz ~ 20 KHz.
 * Rapport signal/bruit: >80 dB.
 * Entrée "line-in" de 3.5 mm.
-* Batterie de lithium rechargeable avec une durée de la batterie de jusqu'à 10 heures.
+* Batterie de lithium rechargeable avec une durée de la batterie de jusqu'à 14 heures.
 
 
 ### Caractéristiques de la batterie de lithium rechargeable.
 
 * Capacité nominale: 1200 mA.
 * Tension nominale: 3.7V.
-* Autonomie en mode Bluetooth: 8 heures.*
-* Autonomie en mode Line-in: 10 heures.*
+* Autonomie en mode Bluetooth: 12 heures.*
+* Autonomie en mode Line-in: 14 heures.*
 
 <br/><br/>
  *La durée  de la batterie est approximative. Une plus grande puissance dan les haut-parleurs se traduit en une plus grande consommation de batterie.
