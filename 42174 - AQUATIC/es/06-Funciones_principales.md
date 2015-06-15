@@ -16,7 +16,7 @@ Si deseas sincronizar otro dispositivo Bluetooth®, mantén pulsado el botón PL
 
 Para cambiar a modo Audio-In sólo tienes que conectar el cable de audio (incluido) a la CONEXION AUDIO-IN (10) e iniciar la reproducción desde el dispositivo conectado.
 
-Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La reproducción en modo Bluetooth tiene prioridad sobre la reproducción en modo Audio-In, es decir, para reproducir en modo Audio-In la reproducción Bluetooth debe estar pausada o desconectada.
+Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La reproducción en modo Bluetooth tiene prioridad sobre la reproducción en modo Audio-In, es decir, para reproducir en modo Audio-In la reproducción en modo Bluetooth debe estar pausada o desconectada.
 
 **NOTA:** Mientras se utiliza el modo Audio-In, no es posible controlar la reproducción desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
 
