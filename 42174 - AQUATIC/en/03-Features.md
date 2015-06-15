@@ -23,13 +23,13 @@
 - Frequency response: 80 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
 - 3.5 mm "Audio-In" port.
-- Rechargeable lithium battery with up to 10 hours of battery life.*
+- Rechargeable lithium battery with up to 14 hours of battery life.*
 
 ### Battery specifications
 
 - Nominal capacity: 1200 mAh.
 - Nominal voltage: 3.7 V.
-- Battery life in Bluetooth mode: 8 hours.*
-- Battery life in Line-In mode: 10 hours.*
+- Battery life in Bluetooth mode: 12 hours.*
+- Battery life in Line-In mode: 14 hours.*
 <br/><br/>
  * (*) The battery life is approximated. A higher volume means a higher energy consumption.
