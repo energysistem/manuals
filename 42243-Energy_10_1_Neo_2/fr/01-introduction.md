@@ -5,7 +5,7 @@
 basés dans le système d'exploitation Android#trade#, avec lequel vous pourrez accéder à Internet et vous communiquer en
 tout moment, vérifier votre email et lire tous les contenus multimédia (vidéos, de la musique, photos, eBooks, etc).
 En plus, il y a plein d'apps et des jeux disponibles pour tirer le meilleur parti
-à votre appareil. Le système inclut un écran multi-touch capacitif de 10.1" (1280x800 pixels), processeur ARM Cortex A9 Quad Core 1.6GHz, Bluetooth 4.0, WiFi, caméras frontale et arrière et mémoire extensible avec cartes microSD.
+à votre appareil. Le système inclut un écran multi-touch capacitif de 10.1" (1280x800 pixels), processeur ARM Cortex A9 Quad Core 1.4GHz, Bluetooth 4.0, WiFi, caméras frontale et arrière et mémoire extensible avec cartes microSD.
 * Nous conseillons de lire le présent manuel de l'utilisateur pour profiter du produit en toute sécurité
 et au maximum de tous ses avantages.
 
