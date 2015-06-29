@@ -9,8 +9,9 @@ the connection.
 3. Select the device you want to connect to.
 4. Accept the synchronization request.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39789/5421365adae5b.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/39789/542134eeaeb63.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/55912f94323e5.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42238/55912fa819760.jpg)
 
 ### Wi-Fi Setup
 
@@ -23,8 +24,9 @@ Settings screen.
 3. Select your Wi-Fi network.
 4. Connect.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39789/5421358b7fd13.jpg)
-![Imagen1](http://static.energysistem.com/images/manuals/39789/542135a5090e3.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/559130085b445.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42238/5591301d0ff15.jpg)
 
 
 **Note:** Your Energy Tablet is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Tablet will save the Wi-Fi access
