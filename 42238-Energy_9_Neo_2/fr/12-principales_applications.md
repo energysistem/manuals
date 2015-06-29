@@ -5,7 +5,7 @@
 Votre nouveau Energy Tablet a un puissant navigateur Web entre la liste d'applications utilisées par défaut, avec lequel vous pourrez utiliser l'Internet d'une façon simple et rapide.
 Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateur situé dans le bureau ou le menu d'applications pour démarrer le programme. Le système chargera la page de démarrage par défaut et sera affichée sur l'écran.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55913026762db.jpg)
 
 1. Reculer
 2. Avancer
@@ -21,7 +21,7 @@ Quand l'appareil soit connecté au réseau Wi-Fi, appuyez sur l'îcone Navigateu
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cea5ddb25.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591302e231f8.jpg)
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ceb02415c.jpg)
 1.	Dossier choisi
@@ -32,7 +32,7 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ### Lecture de musique
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/559130364501f.jpg)
 1.	Liste de lecture
 2.	Lecture aléatoire
 3.	Répétition
@@ -42,30 +42,22 @@ Avis: Pour connaître les paramètres de configuration de votre compte, veuillez
 
 ### Visualisation Vidéo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591304b115d5.jpg)
 1.	Temps de lecture
-2.	Rapport d'aspect
-3.	Vidéo antérieur
-4.	Play / Pausa
-5.	Vidéo postérieure
-6.	Paramètres
+2.	Play / Pausa
 
 ## Caméra
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
-1.	Changer de caméra
-2.  Mode de capture normal/ continu
-3.	Mode panoramique
-4.	Effet post-capture
-5.	Paramètres
-6.  Mode photographie/vidéo
-7.	Déclencheur
-8.	Pré-visualiser photos
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591306c8424e.jpg)
+
+1.	Paramètres
+2.	Déclencheur
 
 ## Galerie: Images et Vidéos
 
 Pour visualiser l'antérieure/suivante image ou album, glissez le doigt sur l'écran horizontalement.
 Pour retourner au bureau d'accueil, appuyez sur le bouton de retour ou Démarrage
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
+
+![Imagen1](http://static.energysistem.com/images/manuals/42238/559130764da2b.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/55913087e6593.jpg)
