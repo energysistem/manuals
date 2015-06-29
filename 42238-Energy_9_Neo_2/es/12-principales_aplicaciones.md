@@ -47,7 +47,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ### Reproducción de Vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591304b115d5.jpg)
 
 1. Tiempo reproducido
 2. Play / Pausa
