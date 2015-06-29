@@ -57,6 +57,7 @@ Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/5591306c8424e.jpg)
 1. Ajustes
+
 2. Disparador
 
 ### Galería: Imágenes y Vídeos
