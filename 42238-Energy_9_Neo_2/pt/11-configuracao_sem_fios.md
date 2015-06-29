@@ -10,8 +10,9 @@ A sua Energy Tablet dispõe de conexão Bluetooth. Para conectar o dispositivo a
 3. Seleccione o aparelho ao qual quer.
 4. Aceite o pedido de emparelhamento.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39789/5421365adae5b.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/39789/542134eeaeb63.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/55912f94323e5.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42238/55912fa819760.jpg)
 
 ### Configuração Wi-Fi
 
@@ -24,7 +25,8 @@ Tela de definições
 3. Seleccione sua rede Wi-Fi.
 4. Conecta.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39789/5421358b7fd13.jpg)
-![Imagen1](http://static.energysistem.com/images/manuals/39789/542135a5090e3.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/559130085b445.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42238/5591301d0ff15.jpg)
 
 **Obs.:** Seu Energy Tablet é compatível com os padrões de segurança e encriptação WEP, WPA, WPA2, TKIP e AES. Uma vez completado com êxito o processo de verificação, sua Energy Tablet guardará os dados de acesso à rede Wi-Fi e estará preparado para que possa utilizar a Internet. O dispositivo salvará a rede e ligará automaticamente quando a mesma estiver disponível.
