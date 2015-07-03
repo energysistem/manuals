@@ -19,4 +19,6 @@ Cuando se introduce una tarjeta o se conecta un reproductor mediante line-in, el
 
 Cuando el altavoz ya no emite sonido o comienzas a percibir que emite interferencias, es el momento de recargarlo, conectando el extremo micro USB del cable USB (incluido) al propio *Energy Music Box Z1* (8), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (1) se ilumina en rojo y cuando la carga sea completa se apagará.
 
-**NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargarla batería hasta que no se haya agotado completamente. Del mismo modo, no interrumpas el proceso de carga hasta que la batería este completamente cargada. En caso de que la carga no se realice con el dispositivo apagado o se haga conectando el dispositivo a una fuente que proporcione menos de 1A, el LED no se apagará completamente, pero si que disminuirá su intensidad.
+
+**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un periódo largo de tiempo con la batería completamente descargada.
+
