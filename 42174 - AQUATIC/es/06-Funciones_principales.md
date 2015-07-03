@@ -33,5 +33,4 @@ Para avanzar o retroceder en una misma canción mantén pulsado los botones de A
 
 Cuando el nivel de la batería es bajo, el INDICADOR DE CARGA (7) empezará a parpadear. Para cargar la batería, conecta el extremo micro USB del cable USB (incluido) al CONEXION USB PARA CARGAR LA BATERÍA (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (7) se iluminará en rojo y cuando la carga sea completa se apagará.
 
-**NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda no cargarla hasta que no se haya agotado completamente ni interrumpir el proceso de carga hasta que la batería este completamente cargada.
-
+* Nota *: Se recomienda realizar la carga el dispositivo apagado y mantenerlo con carga si se decide almacenarlo durante un periódo largo de tiempo.
