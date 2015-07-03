@@ -19,4 +19,4 @@ When you turn on your *Energy Music Box Z1*, it will play music from the connect
 
 When your device does not emit any sound or you start hearing some interference, it is time to charge it. Connect the micro USB end of the included USB cable to your *Energy Music Box Z1* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (1) will turn red and when the charge is completed the LED will turn off.
 
-IMPORTANT NOTE: To keep the battery in good condition, it is strongly recommended not to charge battery until it runs out completely. Similarly, do not interrupt the charging process until the battery is fully charged. In case the charging process is not carried out with the device off or if it is carried out using a source providing less than 1A, the LED indicator will not turn off but it will reduce its intensity.
+**NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
