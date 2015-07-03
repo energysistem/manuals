@@ -20,7 +20,7 @@ Simultaneamente puedes tener conectado otro dispositivo mediante Bluetooth. La r
 
 **NOTA:** Mientras se utiliza el modo Audio-In, no es posible controlar la reproducción desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
 
-### Control de reproducción
+### Control de reproducción.
 
 Una vez sincronizado el *Energy Music Box Aquatic Bluetooth* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones VOLUMEN -  (2) ó VOLUMEN +  (3).
 
@@ -29,7 +29,7 @@ Para pausar o reanudar la reprodución, pulsa el botón PLAY/PAUSE (6) una únic
 Para avanzar o retroceder una canción pulsa los botones de AVANCE (4) ó RETROCESO (1).
 Para avanzar o retroceder en una misma canción mantén pulsado los botones de AVANCE (4) ó RETROCESO (1).
 
-### Carga de la batería
+### Carga de la batería.
 
 Cuando el nivel de la batería es bajo, el INDICADOR DE CARGA (7) empezará a parpadear. Para cargar la batería, conecta el extremo micro USB del cable USB (incluido) al CONEXION USB PARA CARGAR LA BATERÍA (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (7) se iluminará en rojo y cuando la carga sea completa se apagará.
 
