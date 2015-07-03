@@ -14,4 +14,4 @@ Mientras esté encendido el dispositivo el LED (1) indicador se mantendrá parpa
 
 Cuando la batería del auricular está a punto de agotarse, el auricular emitirá un pitido avisando de esta situación. Repetirá el pitido cada varios minutos hasta que la batería se agote completamente. Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a los *Energy Headphones BT3+ Bluetooth* (7), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (1) se ilumina en rojo y cuando la carga sea completa se apagará.
 
-**NOTA IMPORTANTE:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargarla batería hasta que no se haya agotado completamente. Del mismo modo, no interrumpir el proceso de carga hasta que la batería este completamente cargada.
+**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un periódo largo de tiempo con la batería completamente descargada.
