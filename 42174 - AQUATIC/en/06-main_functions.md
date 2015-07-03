@@ -34,4 +34,4 @@ To forward or backward in the same song, hold NEXT (5) or PREVIOUS (1) buttons.
 
 When the battery level is low, the CHARGE INDICATOR (7) will start to flash. To recharge the battery, connect the microUSB end of the included USB cable to USB CONNECTION TO RECHARGE THE BATTERY (11), and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED (7) will turn red and will turn automatically off when the recharging process is completed.
 
-**IMPORTANT NOTE:** To keep the battery in good condition, it is recommended not to recharge the battery until it completely runs out of power nor interrupt the recharging process until the battery is fully charged.
+**IMPORTANT NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
