@@ -33,4 +33,4 @@ Para avaçar ou retroceder uma canção pressione os botões AVANÇO (4) o RETRO
 
 Quando a bateria está baixa, o INDICADOR DE CARGA (7) om ou começa a piscar. Para recarregar-o, ligue a extremidade micro USB do cabo USB (incluido) no *Energy Music Box Aquatic Bluetooth* (11), e a outra extremidade na porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A luz LED (6) acende a vermelho e quando a carga esté completa será desligado.
 
-AVISO IMPORTANTE:Para manter a bateria em boas condições é fortemente recomendado não carregar a bateria até que não esteja esgotado completamente. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada.
+
