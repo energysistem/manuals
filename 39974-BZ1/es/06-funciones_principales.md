@@ -20,5 +20,5 @@ Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositi
 
 Cuando el altavoz ya no emite sonido o comienzas a percibir que a corta distancia emite interferencias en modo bluetooth, es el momento de recargarlo, conectando para ello el extremo mini USB del cable USB (incluido) al propio *Energy Music Box BZ1 Bluetooth* (8), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (2) se ilumina en rojo y cuando la carga sea completa se apagará. 
 
-**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un periódo largo de tiempo con la batería completamente descargada.
+**Nota:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
 
