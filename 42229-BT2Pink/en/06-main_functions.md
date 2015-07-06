@@ -14,4 +14,4 @@ To turn off your device, press the multifunction button (1) again for about 5 se
 
 When there are about 15 minutes left, the headphones will emit a beep sound to warn you. This sound will repeat every minute until the battery runs out.
 
-**NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
+**Note:** It is recommended to turn off the device when charging. Do not store or leave unused for a long period of time with the battery completely discharged.
