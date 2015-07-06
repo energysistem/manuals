@@ -10,4 +10,4 @@ Para desligar os fones, pressione o botão multi-função (1) por aproximadament
 ### Carregamento da bateria 
 Quando restar cerca de 15 minutos de carga da bateria, os fones emitirá um sinal sonoro para alertar sobre esta situação. O sinal sonoro será repetido a cada minuto até que a bateria se esgote. 
 
-NOTA: Para manter a bateria em boas condições, é altamente recomendável não carregar a bateria até que se tenha completamente esgotada. Também é recomendado não interromper a carrega nem usar os fones até que a bateria está totalmente carregada. 
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
