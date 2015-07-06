@@ -1,6 +1,6 @@
 ## Main Functions
 
-### Turn on / off your device
+### Turn ON/OFF your device
 
 Use the ON/OFF button (4) to turn on and turn off your device.
 
