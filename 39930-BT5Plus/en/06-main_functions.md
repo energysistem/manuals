@@ -14,4 +14,4 @@ As long as your device is turned on, the LED indicator will keep flashing blue.
 
 When your device does not emit any sound or you start hearing some interference in short distance, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Wireless BT5+* (5) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (6) turns red and when the charge is completed the LED will turn off.
 
-**NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
+**Note:** It is recommended to turn off the device when charging. Do not store or leave unused for a long period of time with the battery completely discharged.
