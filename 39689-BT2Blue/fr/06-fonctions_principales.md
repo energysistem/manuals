@@ -15,5 +15,5 @@ Pour éteindre le casque, appuyez sur le bouton multifonction (1) pendant enviro
 Lorsqu’il ne reste plus que 15 minutes de batterie restante, le casque émet un signal sonore pour avertir de cette situation. Le bip sera répété chaque minute jusqu'à ce que la batterie s'épuise.
 
 
-**REMARQUE:** Pour maintenir la batterie en bon état, nous vous recommandons fortement de ne pas charger la batterie jusqu'à ce qu'elle soit complètement épuisée. Il est également recommandé de ne pas interrompre le chargement ni utiliser le casque  jusqu'à ce que la batterie soit complètement chargée.
+**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
 
