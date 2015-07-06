@@ -12,4 +12,4 @@ Pour allumer ou éteindre le casque en mode lecture de cartes Micro SD/SDHC main
 
 Lorsque le casque n'émet plus de son ou que vous commencez à percevoir que sur de petites distances le casque émet d'interférences, il est temps de le recharger, en connectant l'extrémité mini USB du câble USB (inclus) au *Energy Headphones BT9 Bluetooth* (13) et l'autre extrémité USB de n'importe quel appareil avec un port USB capable de fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.). La LED (4) s'allume en rouge lors de la charge et la LED (4) s'allume en bleu une fois la charge complète.
 
-**NOTE IMPORTANTE:** Pour maintenir la batterie en bon état, nous vous recommandons fortement de ne pas charger la batterie jusqu'à ce qu'elle soit complètement épuisée. Il est également recommandé de ne pas interrompre le chargement ni utiliser le casque  jusqu'à ce que la batterie soit complètement chargée.
+**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
