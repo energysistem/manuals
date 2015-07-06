@@ -16,4 +16,4 @@ When the headphones have a low battery and as long as you are in Bluetooth mode,
 The LED (4) will light red when charging and it will light blue when the charging process has been completed.
 
 
-**NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
+**Note:** It is recommended to turn off the device when charging. Do not store or leave unused for a long period of time with the battery completely discharged.
