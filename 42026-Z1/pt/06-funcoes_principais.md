@@ -18,4 +18,4 @@ Quando ligue o dispositivo, automaticamente se inicia a pesquisa de dispositivos
 
 Quando o alto-falante já não emite som ou você começa a perceber que de curta distância emite interferências em modo bluetooth, é o momento de recarregá-lo, ligue a extremidade mini USB do cabo USB (incluído) no próprio Energy Bluetooth Music Box BZ1 (8), e outra extremidade à qualquer aparelho com porta USB que possa fornecer energia (PC, carregador USB de parede, de automóvel, etc.). A LED (1) se ilumina na cor vermelho e quando fica carregado completamente, será desligado.
 
-**AVISO IMPORTANTE:** Para manter a bateria em boas condições é fortemente recomendado não carregar a bateria até que não esteja esgotado completamente. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada.
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
