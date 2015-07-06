@@ -1,6 +1,6 @@
 ## Main Functions
 <quick_guide>
-### Turn on / off your device
+### Turn ON/OFF your device
 
 Use the button (9) to turn on / off your device.
 
