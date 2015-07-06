@@ -19,4 +19,4 @@ When Audio-In mode is selected, the led indicator (5) changes its color to green
 
 When your device does not emit any sound or you start hearing some interference in short distance while bluetooth mode is selected, it is time to charge it. Connect the mini USB end of the included USB cable to your *Energy Music Box BZ1 Bluetooth* (8) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED indicator (2) will turn red and when the charge is completed the LED will turn off.
 
-**NOTE:** We recommend charging the device with the switch at OFF position. Do not store the device for a long period of time with a fully discharged battery.
+**Note:** It is recommended to turn off the device when charging. Do not store or leave unused for a long period of time with the battery completely discharged.
