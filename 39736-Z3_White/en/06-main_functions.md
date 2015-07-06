@@ -1,8 +1,8 @@
 ## Main Functions
 
-### <quick_guide> Turn on / off your device
+### <quick_guide> Turn ON/OFF your device
 
-Use the button (4) to turn on / off your device.
+Use the button (4) to turn ON / OFF your device.
 
 To turn on your device, press and keep 2 seconds the ON/OFF button (4). The DISPLAY (8) will turn on; first the heart icon and then the screen, meaning that the device is now turned on.
 
