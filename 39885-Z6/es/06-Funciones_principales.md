@@ -20,4 +20,4 @@ Al encender el dispositivo, automáticamente se inicia en modo entrada de línea
 
 Cuando el altavoz ya no emite sonido o el icono de la batería comienza a parpadear, es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box Z6* (11), y el otro extremo a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (9) se ilumina en rojo y cuando la carga esté completa se apagará.
 
-**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un periódo largo de tiempo con la batería completamente descargada.
+**Nota:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
