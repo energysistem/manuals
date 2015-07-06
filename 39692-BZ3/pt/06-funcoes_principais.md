@@ -20,4 +20,4 @@ Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivo
 
 Quando o altifalante já não emite som ou começa a perceber que a curta distância emite interferências em modo bluetooth é o momento de recarregar-o, ligue a extremidade micro USB do cabo USB (incluido) no *Energy Music Box BZ3 Bluetooth* (11), e a outra extremidade na porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A luz LED (10) acende a vermelho e quando a carga esté completa será desligado.
 
-AVISO IMPORTANTE:Para manter a bateria em boas condições é fortemente recomendado não carregar a bateria até que não esteja esgotado completamente. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada.
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
