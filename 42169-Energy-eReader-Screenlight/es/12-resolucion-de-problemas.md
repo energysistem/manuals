@@ -2,7 +2,7 @@
 
 **¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
 
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes, porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está apagado.
+El eReader siempre tendrá una imagen en pantalla aún con el eReader apagado. No te preocupes, porque esa imagen de apagado no consume la energía del eReader. 
 
 **No puedo cambiar la fuente de las letras en un archivo PDF:**
 
