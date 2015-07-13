@@ -14,5 +14,4 @@ Para apagar los auriculares, pulsa el botón multifunción (1) durante aproximad
 
 Cuando queden aproximadamente 15 minutos de batería restante, los auriculares emitirán un pitido para avisar de esta situación. El pitido se repetirá cada minuto hasta agotarse la batería.
 
-**NOTA:** Para mantener la batería en buenas condiciones, se recomienda encarecidamente no cargar la batería hasta que no se haya agotado completamente. Asimismo, se recomienda no interrumpir el proceso de carga ni utilizar los auriculares hasta que la batería este completamente cargada.
-
+**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un periódo largo de tiempo con la batería completamente descargada.

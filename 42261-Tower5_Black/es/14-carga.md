@@ -1,6 +1,6 @@
 ## Carga de Dispositivos
 
-El *Energy Tower 5* dispone de dos salidas "DC OUT" en las cuales puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+El *Energy Tower 5* dispone de dos salidas "DC OUT" (8) en las cuales puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
 Especificaciones salidas "DC OUT": <br>
 

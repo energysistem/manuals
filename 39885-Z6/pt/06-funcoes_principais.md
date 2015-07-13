@@ -20,4 +20,4 @@ Ao ligar automaticamente o dispositivo, é iniciado o modo de entrada de linha. 
 
 Quando o altifalante já não emite som  ou o ícone da bateria começa a piscar, é o momento de recarregâ-o, para isso, ligue a extremidade do micro USB (incluido) no próprio *Energy Music Box Z6* (11), e a outra extremidade à qualquer outro aparelho com porta USB que possa fornecer energia (PC, carregador USB de parede, de automóvel, etc.). A LED (9) se acemde a vermelho e quando a carga seja completa sera desligada.
 
-AVISO IMPORTANTE: Para manter a bateria em boas condições é fortemente recomendado não carregar a bateria até que não esteja esgotado completamente. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada.
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.

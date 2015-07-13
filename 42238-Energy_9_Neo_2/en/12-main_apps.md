@@ -4,7 +4,7 @@
 Your new Energy Tablet has a powerful Web browser among the list of applications installed by default, with which you will be able to surf the Internet quickly and easily. Once the device is connected to a Wi-Fi or 3G network, press the browser icon located on the desktop or in the application menu to start the program. The system will load and display the home page set by default.
 
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c397ebf7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55913026762db.jpg)
 
 1. Back
 2. Forward
@@ -19,7 +19,7 @@ Your new Energy Tablet has a powerful Web browser among the list of applications
 ### E-Mail Client
 Note: In order to know your account settings, ask your e-mail provider.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375ce87dce9f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591302e231f8.jpg)
 
 1. Selected folder
 2. E-mails
@@ -31,7 +31,7 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ### Music Player
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/5375cec77923b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/559130364501f.jpg)
 
 1. Playlist
 2. Random playback
@@ -44,30 +44,22 @@ Note: In order to know your account settings, ask your e-mail provider.
 
 ### Video Player
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c40a7b6f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591304b115d5.jpg)
 1. Elapsed time
-2. Aspect ratio
-3. MPrevious video
-4. Play / Pause
-5. Next video
-6. Setup
+2. Play / Pause
+3. Share
 
 ### Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53986c2ddd4f2.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/5591306c8424e.jpg)
 
-1. Switch camera
-2. Capture normal/continues mode
-3. Panoramic mode
-4. Postprocess effect
-5. Setup
-6. Photo/video mode
-7. Shutter
+1. Setup
+2. Shutter
 
 ### Gallery: Images and Videos
 
 To view the previous / next image or album, slide your finger to the left / right.
 To return to the main desktop, press the Back or Home button.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42027/53972afac899d.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42027/53972ac1d4754.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/559130764da2b.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42238/55913087e6593.jpg)

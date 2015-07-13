@@ -31,6 +31,5 @@ Pour avancer ou reculer une chanson appuyez sur les boutons AVANCER (4) ou RECUL
 
 ### Chargement de la batterie.
 
-Quand le niveau de la batterie est faible, le VOYANT DE RECHARGE (7) commence à clignoter. Pour recharger la batterie, connectez le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box Aquatic Bluetooth* (11), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (6) s'allume en rouge et quand la charge soit complète s'éteint.
+**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
 
-**AVIS IMPORTANT:** Pour mantenir la batterie en bon état, il est fortement conseillé de ne pas la charger jusqu'au son épuisement. De la même façon, ne pas interrompre le processus de chargement jusqu'à qu'elle soit complètement chargée.

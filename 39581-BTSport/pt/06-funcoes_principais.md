@@ -14,4 +14,4 @@ Quando o dispositivo seja ligado a luz LED (6) o indicador piscará.
 
 Quando o fone não emite som ou começa a perceber que a curta distância o fone emite interferências, este é o momento de recarrega-lo, ligando o extremo mini USB do cabo USB (incluído) no Energy Wireless BT Sport (2), e o outro extremo USB à qualquer outro aparelho com porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A LED (6) se ilumina en cor vermelho e quando fica carregado completamente, será desligado.
 
-AVISO IMPORTANTE: Para manter a bateria em boas condições é fortemente recomendado não carregar a bateria até que não esteja esgotado completamente. De igual forma, não interromper o processo de carga até que a bateria esteja totalmente carregada. 
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada. 

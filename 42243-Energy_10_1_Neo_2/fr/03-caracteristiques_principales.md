@@ -2,7 +2,7 @@
 
 * Écran TFT 10.1" 16:9 (1280x800 pixels).
 * Écran capacitif multi-touch de 5 points.
-* Processeur quad coeur ARM Cortex  A9 1.6GHz con GPU Mali-400 inclut.
+* Processeur quad coeur ARM Cortex  A9 1.4GHz con GPU Mali-400 inclut.
 * 1 Go DDR3 RAM.
 * 8 Go de mémoire interne extensible avec des cartes microSD (jusqu'à 64 Go).
 * WI-FI N: module 802.11 b/g/n

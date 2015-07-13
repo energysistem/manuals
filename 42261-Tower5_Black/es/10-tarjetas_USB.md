@@ -9,7 +9,7 @@ Si apagas el *Energy Tower 5* o extraes alguna de las memorias, se almacenará e
 
 Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de avance(12) y retroceso(2). También puedes cambiar de carpeta pulsando el botón (4).
+Para navegar entre canciones, utiliza los botones de AVANCE (12) y RETROCESO (2). También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (4).
 
 
 ## Orden de reproducción

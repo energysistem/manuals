@@ -14,4 +14,4 @@ Para ligar ou desligar os fones em modo reprodução de cartão Micro SD/SDHC se
 
 Quando os fones já não emitem som ou você começa a perceber que na curta distância os fones emitem interferências, é hora de recarregar, ligando a extremidade mini USB do cabo USB (incluído) *Energy Headphones BT9 Bluetooth * (13) e a outra extremidade USB para qualquer dispositivo com uma porta USB que pode fornecer energia (PC, carregador USB de parede, carro, etc). O LED (4) acende a vermelho quando a carga eo LED (4) será iluminado em azul estão completos.
 
-**NOTA IMPORTANTE:** Para manter a bateria em boas condições, é altamente recomendável não carregar a bateria até que se tenha completamente esgotada. Também é recomendado não interromper a carrega nem usar os fones até que a bateria está totalmente carregada.
+**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.

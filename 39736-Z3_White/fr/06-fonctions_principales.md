@@ -20,4 +20,4 @@ Quand vous allumez l'appareil, s'initiera automatiquement en mode entrée de lig
 
 Quand l'haut-parleur n'émet pas de son ou l'icône de la batterie commence à clignoter, c'est le moment de le recharger, pour cela, branchez le bout du micro USB du câble USB (inclut) à l'*Energy Music Box Z3* (11), et l'autre bout à d'autres appareils avec entrée USB pour fournir de l'énergie (PC, chargeur USB mural, de voiture, etc). La LED (9) s'illuminera en rouge et quand la charge soit complète s'éteindra. 
 
-**AVIS IMPORTANT:** Pour maintenir la batterie en bon état, il est fortement conseillé de ne pas la charger jusqu'au son épuisement. De la même façon, ne pas interrompre le processus de chargement jusqu'à qu'elle soit complètement chargée.
+**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.

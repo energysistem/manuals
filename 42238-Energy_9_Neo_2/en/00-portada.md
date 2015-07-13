@@ -1,4 +1,3 @@
-CAMBIAR PORTADA
 <quick_guide>
-![](http://static.energysistem.com/images/manuals/42244/54e5af8a1e29c.jpg)
+![](http://static.energysistem.com/images/manuals/42238/5583c828cbc6e.jpg)
 </quick_guide>
