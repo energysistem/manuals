@@ -1,4 +1,4 @@
-01 ## <quick_guide> Introdução
+## <quick_guide> Introdução
 
 * Energy Sistem#trade#  lhe agradece a compra do seu Energy Phone Neo 4G. Esperamos que desfrute do seu dispositivo.
 * Este dispositivo pertence à família dos Energy Smartphone: uma nova geração de dispositivos baseada no sistema operativo Android#trade# com o qual poderá aceder à Internet e comunicar-se em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir qualquer conteúdo multimédia (vídeos em alta definição até 1080p, música, fotografias, eBooks, etc).
