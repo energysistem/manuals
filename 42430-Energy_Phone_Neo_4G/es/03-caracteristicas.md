@@ -2,7 +2,7 @@
 
 * Smartphone con sistema ANDROID#trade# 5 optimizado
 * Pantalla táctil capacitiva de 4.5" IPS (qHD - 960x540p).
-* Procesador de cuatro núcleos ARM Cortex A7 1.2GHz y GPU Adreno 304.
+* Procesador Qualcomm Snapdragon de cuatro núcleos ARM Cortex A7 1.1GHz y GPU Adreno 304.
 * Conexión 4G para disfrutar de Internet de alta velocidad donde y cuando la necesites.
 * Conexión WI-FI (802.11 b/g/n): permite la más rapida conexión a Internet a través de un punto de acceso Wi-Fi.
 * Función GPS: La navegación via satélite más precisa y fiable.
