@@ -1,6 +1,6 @@
 ## Câmera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
+![Imagen1]()
 
 1. Modo de visualização multi-ângulo.
 2. Modo panorâmico.
