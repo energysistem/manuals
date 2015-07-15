@@ -13,10 +13,11 @@ Para navegar entre canciones, utiliza los botones de avance (12) y retroceso (2)
 
 ## Modo de reproducción
 
-Pulsando el botón MODO DE REPRODUCCIÓN () puedes seleccionar uno de los siguientes modos de reproducción:
+Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar uno de los siguientes modos de reproducción:
+
 ALL: se repite todo el contenido de la memoria.
 ONE: se repite la canción que estás escuchando.
-RAND: reproducción aleatoria.
+RAND: reproducción aleatoria de todo el contenido de la memoria.
 
 ## Orden de reproducción
 
