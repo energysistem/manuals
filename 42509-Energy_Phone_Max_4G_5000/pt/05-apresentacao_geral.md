@@ -1,6 +1,6 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/39725/54ec60ea3e352.jpg)
+![Imagen2]()
 
 1. FLASH TRASEIRO
 2. CÂMERA TRASEIRA

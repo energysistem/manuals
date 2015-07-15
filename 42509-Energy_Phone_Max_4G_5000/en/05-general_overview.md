@@ -1,6 +1,6 @@
 ## <quick_guide> General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec60ea3e352.jpg)
+![Imagen1]()
 
 1. Rear flash
 2. Rear camera
@@ -16,10 +16,10 @@
 12. Recent Apps, Home, Back touch buttons
 13. Front speaker
 14. Microphone
-15. Imei and serial numbers
-16. Micro-SIM card slot 1
-17. Micro-SIM card slot 2
-18. Micro-SD card slot
+15. IMEI and serial numbers
+16. MicroSIM card slot 1
+17. MicroSIM card slot 2
+18. MicroSD card slot
 19. Battery
 
 </quick_guide>

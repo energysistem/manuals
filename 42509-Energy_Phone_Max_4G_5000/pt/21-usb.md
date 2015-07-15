@@ -8,4 +8,4 @@ O seu Energy Phone dispõe de uma saída USB para transferir os ficheiros entre 
 
 **Modo HOST:** Permite que você conecte o Energy Phone ao PC.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec615bcb058.jpg)
+![Imagen1]()

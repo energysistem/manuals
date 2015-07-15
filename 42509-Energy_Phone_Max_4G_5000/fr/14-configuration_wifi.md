@@ -2,7 +2,7 @@
 
 Accédez à Paramètres depuis l'ÉCRAN PRINCIPAL.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec61885f02e.jpg)
+![Imagen1]()
 
 1.	Wi-Fi.
 2.	Habilitez la case Wi-Fi.
