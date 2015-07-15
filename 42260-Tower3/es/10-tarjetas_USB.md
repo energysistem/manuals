@@ -25,7 +25,7 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** Se repite la canción que estás escuchando.
+2) **ONE:** Se repite la canción que estás escuchando de manera indefinida.
 
 3) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
 
