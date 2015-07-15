@@ -1,6 +1,6 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
+![Imagen1]()
 
 
 1. Multiangle view mode.
