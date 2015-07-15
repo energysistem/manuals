@@ -15,7 +15,7 @@ Para navegar entre canciones, utiliza los botones de AVANCE (12) y RETROCESO (2)
 
 Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar uno de estos 3 modos de reproducción:
 
-**ALL:**  Se repite todo el contenido de la memoria. 
+1) **ALL:**  Se repite todo el contenido de la memoria. 
 
 Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
@@ -25,9 +25,9 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-**ONE:** Se repite la canción que estás escuchando.
+2) **ONE:** Se repite la canción que estás escuchando.
 
-**RAND:** Reproducción aleatoria de todo el contenido de la memoria.
+3) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
 
 
 
