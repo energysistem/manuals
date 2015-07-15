@@ -1,6 +1,6 @@
 ### Leitura de Música
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec616134033.jpg)
+![Imagen1]()
 
 1. Lista de leitura.
 2. Visualização.
