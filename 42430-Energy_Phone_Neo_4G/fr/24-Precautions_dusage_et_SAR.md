@@ -1,4 +1,4 @@
-## <quick guide> Précautions d'usage et SAR
+## <quick_guide> Précautions d'usage et SAR
 
 ### Précautions d'usage
 Dans certains lieux ou situations, tels que les avions, les hôpitaux, les stationsservice
@@ -9,4 +9,4 @@ Pour diminuer la quantité de rayonnements reçus, utiliser un kit mains libres,
 ### Information sur l'exposition SAR
 Cet appareil répond aux directives développées par l'ICNIRP sur l'exposition aux ondes radio. L'appareil ne dépasse pas les limites d'exposition aux ondes radio DAS. Cette unité mesure la quantité d'énergie par radiofréquence absorbée par le corps pendant l'utilisation d'un appareil. La limite SAR ou DAS adoptée en Europe est de 2,0 W/Kg en moyenne pour 10 grammes de tissu. Dans les tests réalises la valeur SAR plus haute obtenue pour cet appareil au niveau de l'oreille/tète est de 0,XXX W/Kg.
 
-</quick guide>
+</quick_guide>
