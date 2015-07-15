@@ -1,9 +1,9 @@
 ## <quick_guide> Contenu du produit
 
-* Energy Smartphone Pro HD.
+* Energy Phone Neo 4G.
 * Guide Rapide.
-* Câble USB.
-* Adaptateur d'alimentation courant AC/DC (Europlug) 100-240V AC 50-60Hz.
-* Outil d'extraction micro-SIM.
 * Protecteur d'écran.
+* Cable USB 2.0 pour connexion au PC.
+* Adaptateur d'alimentation courant AC/DC (Europlug) 100-240V AC 50-60Hz.
 </quick_guide>
+
