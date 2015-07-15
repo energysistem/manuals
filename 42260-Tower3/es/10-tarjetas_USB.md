@@ -13,7 +13,7 @@ Para navegar entre canciones, utiliza los botones de AVANCE (12) y RETROCESO (2)
 
 ## Modo de reproducción
 
-Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar una de estos 3 opciones:
+Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar una de estas 3 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
