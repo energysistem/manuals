@@ -11,6 +11,13 @@ Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el m
 
 Para navegar entre canciones, utiliza los botones de avance (12) y retroceso (2). También puedes cambiar de carpeta pulsando el botón (4).
 
+## Modo de reproducción
+
+Pulsando el botón MODO DE REPRODUCCIÓN () puedes seleccionar uno de los siguientes modos de reproducción:
+ALL: se repite todo el contenido de la memoria.
+ONE: se repite la canción que estás escuchando.
+RAND: reproducción aleatoria.
+
 ## Orden de reproducción
 
 Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
