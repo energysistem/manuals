@@ -14,7 +14,7 @@ También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (4).
 
 ## Modo de reproducción
 
-Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar uno de estos 4 modos de reproducción:
+Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar una de estas 4 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
