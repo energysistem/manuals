@@ -1,6 +1,6 @@
 ## Appareil photo
 
-![Imagen1](http://static.energysistem.com/images/manuals/39725/54ec5ee48ab69.jpg)
+![Imagen1]()
 
 1. Mode vue multi-angle.
 2. Mode panoramique.
