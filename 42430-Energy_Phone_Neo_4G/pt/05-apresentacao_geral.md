@@ -2,25 +2,25 @@
 
 ![Imagen2]()
 
-1. FLASH TRASEIRO
-2. MICROFONE COM A FUNÇÃO DE CANCELAMENTO DE RUÍDO
-3. CÂMERA TRASEIRA
-4. CÂMERA FRONTAL
-5. SAÍDA DE AUSCULTADORES
-6. LED DE NOTIFICAÇÕES
-7. RECEPTOR FRONTAL 
-8. ENTRADA USB
-9. SENSORES DE LUMINOSIDADE E DE PROXIMIDADE
-10. BOTÃO DE LIGAR / DESLIGAR
-11. BOTÃO DE VOLUME
-12. SLOT PARA EXTRAIR A CAPA TRASEIRA
-13. BOTÕES TÁCTEIS DE APLICAÇÕES RECENTES, INÍCIO, VOLTAR
-14. ALTO-FALANTE FRONTAL
-15. MICROFONE
-16. NÚMERO DE SÉRIE E IMEI
-17. SLOT DO CARTÃO MICRO SIM 1
-18. SLOT DO CARTÃO MICRO SIM 2
-19. SLOT MICRO SD
-20. BATERIA
+1. Flash traseiro
+2. Microfone com a função de cancelamento de ruído
+3. Câmera traseira
+4. Câmera frontal
+5. Saída de auscultadores
+6. Led de notificações
+7. Receptor frontal 
+8. Entrada usb
+9. Sensores de luminosidade e de proximidade
+10. Botão de ligar / desligar
+11. Botão de volume
+12. Slot para extrair a capa traseira
+13. Botões tácteis de aplicações recentes, início, voltar
+14. Alto-falante frontal
+15. Microfone
+16. Número de série e imei
+17. Slot do cartão micro SIM 1
+18. Slot do cartão micro SIM 2
+19. Slot micro SD
+20. Bateria
 
 </quick_guide>
