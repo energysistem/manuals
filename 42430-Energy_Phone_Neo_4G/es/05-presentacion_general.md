@@ -18,9 +18,9 @@
 14. Altavoz frontal
 15. Micrófono
 16. Número de serie y números de imei
-17. Ranura de tarjeta microsim 1
-18. Ranura de tarjeta microsim 2
-19. Ranura de tarjeta microsd
+17. Ranura de tarjeta microSIM 1
+18. Ranura de tarjeta microSIM 2
+19. Ranura de tarjeta microSD
 20. Batería
 
 
