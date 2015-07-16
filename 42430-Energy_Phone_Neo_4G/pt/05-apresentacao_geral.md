@@ -18,9 +18,9 @@
 14. Alto-falante frontal
 15. Microfone
 16. Número de série e imei
-17. Slot do cartão micro SIM 1
-18. Slot do cartão micro SIM 2
-19. Slot micro SD
+17. Slot do cartão microSIM 1
+18. Slot do cartão microSIM 2
+19. Slot microSD
 20. Bateria
 
 </quick_guide>
