@@ -1,6 +1,6 @@
 ## Troubleshooting
 
-* Works this Keyboard with all the devices?
+* Does this Keyboard work with all the devices?
 
 No. This Keyboard was designed exclusively to work with Energy Tablet Pro 9  Windows 3G.
 
