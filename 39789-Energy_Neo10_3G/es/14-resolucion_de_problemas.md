@@ -19,7 +19,7 @@ Tu Energy Tablet puede reproducir múltiples formatos de video sin recodificar.
 Muchas cámaras fotográficas digitales y programas de edición de imágenes añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu Energy Tablet no cargue las imágenes. Prueba a eliminarlos grabando la imagen con otro nombre.
 
 7.	A veces la pantalla se queda en negro y el dispositivo no responde.
-Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo sacando y poniendo de vuelta la batería y pulsando en el botón de encendido.
+Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo pulsando a la vez el boton de encendido y el botón de Subir Volumen
 
 8.	La capacidad de memoria disponible en mi Energy Tablet es  inferior a la indicada en las especificaciones¿Por qué?
 El sistema operativo Android™ y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 1,5 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a la especificada.
