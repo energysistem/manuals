@@ -18,7 +18,7 @@ Your Energy Tablet can play multiple video formats wihtout recoding.
 Many digital cameras and image editing software add hidden data to .jpg files. This can prevent your Energy Tablet from loading the images. Try to delete them and save the image with another name.
 
 7.	Sometimes the screen turns black and the device does not respond.
-It is always better to reboot the device through one of the options available within the system, but if that is not possible, remove the battery, put it back again and press the power button.
+It is always better to reboot the device through one of the options available within the system, but if that is not possible, press the power and Volume + button.
 
 8.	The built-in memory of the Energy Tablet is lower than the specified in the specifications. Why?
 The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than the specified.
