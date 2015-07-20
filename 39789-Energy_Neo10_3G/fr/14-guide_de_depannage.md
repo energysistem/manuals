@@ -12,7 +12,7 @@
 
 6.	Pour quoi je n'arrive pas à visualiser mes fichiers des images .jpg? Nombreux appareils photos numériques et programmes d'édition d'images ont additionnés des donnés cachés aux fichiers .jpg. Ces donnés peuvent faire que votre Energy Tablet ne charge pas les images.  Essayez de les effacer en enregistrant l'image avec un autre nom.
 
-7.	Quelques fois, l'écran est en toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
+7.	Quelques fois, l'écran est en toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système.
 
 8.	La capacité de mémoire do Energy Tablet x7 Quad 3G est 8Go, mais la mémoire disponible est inférieure. Pour quoi? Le système d'exploitation Android#trade# et les applications préinstallées au dispositif ont besoin d'1.5Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
 
