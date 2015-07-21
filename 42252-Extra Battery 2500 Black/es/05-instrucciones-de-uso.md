@@ -30,6 +30,7 @@ Cargando un dispositivo:
 </quick_guide>
 
 **NOTA IMPORTANTE:**
+La carga un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
 
 
 
