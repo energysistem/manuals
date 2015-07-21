@@ -22,7 +22,7 @@
 ### Características técnicas
 
 * Bluetooth® bidireccional.
-* Versión 3.0, clase II.
+* Versión 4.0, clase II.
 * Soporta archivos A2DP y AVRCP.
 * Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
 * Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
