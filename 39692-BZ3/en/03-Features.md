@@ -24,7 +24,7 @@
 ### Technical features
 
 - Bidirectional Bluetooth®.
-- 3.0 version, class II.
+- 4.0 version, class II.
 - Supports A2DP and AVRCP profiles.
 - Easy sync with tablets, smartphones, Laptops, Mac, PC any other devices with Bluetooth®.
 - Plays MP3/WAV files from SD/SDHC/MMC cards with capacity up to 32 GB.
