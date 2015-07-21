@@ -1,15 +1,16 @@
 ## <quick_guide> Funcionamiento de la Garantí­a
 
-Entrando en http://support.energysistem.com/es/support y tras seleccionar su producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guí­as de usuario, drivers y actualizaciones, así­ como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. Puedes consultar la disponibilidad del manual en http://www.energysistem.com/es-es/support/manuals.
+Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Puedes consultar la disponibilidad del manual en:
+http://www.energysistem.com/support/manuals
 
-También ponemos a su disposición el teléfono para la gestión de garantí­a 902 294 29 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica tenga a mano el Ticket o Factura de compra y el número de serie del producto.
+También puedes ponerte en contacto con nosotros para gestionar la garantía a través del número de teléfono 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica debes tener a mano el ticket o factura de compra y el número de serie del producto.
+Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
 
-Opcionalmente puede dirigirse al lugar donde compro el producto, presentando su Factura o Ticket de compra.
-
+Marcas comerciales. Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
 Las especificaciones están sujetas a cambios sin previo aviso.
 
-Marcas comerciales. Toda compañí­a, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañí­as.
+© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
 
-© 2014 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
 </quick_guide>

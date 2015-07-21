@@ -1,3 +1,3 @@
 <quick_guide>
-![Imagen1](http:)
+![Imagen1](http:portada.jpg)
 </quick_guide>
