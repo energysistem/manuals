@@ -4,7 +4,9 @@
 **Carga de un dispositivo móvil:**
 
 
-Conecta el cable Micro USB (1) a la entrada de alimentación del dispositivo móvil que quieres recargar. También puedes usar tu cable de carga conectándolo al puerto USB tipo A adicional (4). El proceso de carga comenzará de forma automática y podrás ver . Cuando finalice la carga, desconecta el dispositivo y la Extra Battery se apagará automáticamente a los pocos segundos.
+Conecta el cable micro USB (1) a la conexión micro USB del dispositivo que quieres recargar. Opcionalmente puedes usar tu cable de carga conectándolo al puerto USB tipo A adicional (4). El proceso de carga comenzará de forma automática y el indicador LED (2) se encenderá. Cuando finalice la carga, desconecta el dispositivo y la Extra Battery se apagará automáticamente a los pocos segundos.
+
+
 
 
 **Carga de Energy Extra Battery:**
@@ -15,13 +17,13 @@ Conecta un cable USB tipo A a micro USB* al conector micro USB de tu Energy Extr
 
 El indicador LED mostrará la carga y el funcionamiento de tu Energy Extra Battery 2500 en función del uso que estés haciendo de ella.
 
-Cargando un dispositivo:
+Carga de un dispositivo:
 - LED Rojo parpadeo rápido: Nivel de batería agotado.
 - LED Rojo permanente: Nivel bajo de batería (0 ~ 10%)
 - LED Ámbar permanente: Nivel medio de batería (10 ~ 30%)
 - LED Verde permanente: Nivel óptimo de batería (30 ~ 100%)
 
-Cargando tu Extra Battery 2500:
+Carga de tu Energy Extra Battery:
 - LED Rojo permanente: Cargando hasta nivel medio batería.
 - LED Ámbar permanente: Cargando hasta nivel máximo de batería.
 - LED Verde permanente: Batería cargada.
