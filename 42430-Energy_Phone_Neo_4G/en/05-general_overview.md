@@ -1,4 +1,4 @@
-## <quick_guide> General overview
+## <quick_guide>General overview
 
 ![Imagen1]()
 
