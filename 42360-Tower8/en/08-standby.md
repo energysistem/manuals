@@ -7,9 +7,9 @@ We recommend you to turn off the device when not using it over longer periods of
 
 ## Display
 
-The *Energy  Tower 8* is equipped with a backlit display which is located on top of the device.
+The *Energy  Tower 8* is equipped with a backlit display which is located on top-front of the device.
 
-When turned on, the upper screen will display the current play mode; other information will be displayed on the front of the device.
+When turned on, the screen will displays the current play mode. Other information will be displayed in the screen of the device.
 
 
 ## Touch control
