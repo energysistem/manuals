@@ -14,10 +14,10 @@
 10. Botón de encendido/apagado
 11. Botón de volumen
 12. Ranura para extracción de carcasa trasera
-13. Botones táctiles aplicaciones recientes, inicio, volver
+13. Botones táctiles: aplicaciones recientes, inicio, volver
 14. Altavoz frontal
 15. Micrófono
-16. Número de serie y números de imei
+16. Número de serie y números de IMEI
 17. Ranura de tarjeta microSIM 1
 18. Ranura de tarjeta microSIM 2
 19. Ranura de tarjeta microSD
