@@ -1,4 +1,4 @@
-## Sincronización Bluetooth y transmisióm FM.
+## Sincronización Bluetooth y transmisión FM.
 
 ### Sincronización Bluetooth
 
