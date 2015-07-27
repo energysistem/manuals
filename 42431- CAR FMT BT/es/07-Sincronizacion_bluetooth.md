@@ -1,4 +1,4 @@
-## Sincronización Bluetooth
+## Sincronización Bluetooth y transmisióm FM.
 
 Cuando enciendas tu *Energy Music Box B3 Bluetooth* automáticamente comenzará la búsqueda de dispositivos para establecer la sincronización Bluetooth; al mismo tiempo desde tu dispositivo Bluetooth® (móvil, tablet, portátil, etc.) inicia la búsqueda y sincronización de dispositivos. Una vez ya identificado el *Energy Music Box B3 Bluetooth* en tu dispositivo, selecciona conectar. La conexión se realizará de forma inmediata y sin necesidad de códigos. El altavoz reproducirá un sonido que indica que la conexión entre ambos dispositivos se ha establecido correctamente.
 
