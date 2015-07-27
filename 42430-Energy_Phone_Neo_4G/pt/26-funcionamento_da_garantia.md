@@ -6,7 +6,7 @@ Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver
 
 2. Complementarmente, pode entrar em contacto com o distribuidor onde foi adquirido o produto, apresentando o recibo da compra ou factura.
 
-**Importante: ** Os dados ou a informação armazenada pelo comprador nos produtos não farão parte da garantia, portanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar essa informação. É, portanto, recomendável entregar  o produto sem informação na memória do mesmo ou unicamente com o conteúdo original da fábrica. As especificações estão sujeitas a alterações sem aviso prévio.
+**Importante:** Os dados ou a informação armazenada pelo comprador nos produtos não farão parte da garantia, portanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar essa informação. É, portanto, recomendável entregar  o produto sem informação na memória do mesmo ou unicamente com o conteúdo original da fábrica. As especificações estão sujeitas a alterações sem aviso prévio.
 
 ## Marcas registadas
 
