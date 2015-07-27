@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Portada](00-Portada.md)
 * [Introduction](01-Introduction.md)
 * [Maintenance](02-maintenance.md)
@@ -10,7 +11,6 @@
 * [Bluetooth Pairing](07-bluetooth_pairing.md)
 * [Play Control](08-play_control.md)
 * [Talk Control](09-talk_control.md)
-* [Line-in](10-line_in.md)
 * [Warranty](11-warranty.md)
 * [Warranty Procedure](12-warranty_procedure.md)
 * [Declaration of Conformity](13-Declaration_of_conformity.md)

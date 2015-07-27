@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [couvercle](00-couvercle.md)
 * [introduction](01-introduction.md)
 * [maintenance](02-maintenance.md)
@@ -10,7 +11,6 @@
 * [synchronisation bluetooth](07-synchronisation_bluetooth.md)
 * [controle lecture](08-controle_lecture.md)
 * [control appels](09-control_appels.md)
-* [entree ligne](10-entree_ligne.md)
 * [garantie](11-garantie.md)
 * [fonctionnement de la garantie](12-fonctionnement_de_la_garantie.md)
 * [declaration de conformite](13-declaration_de_conformite.md)
