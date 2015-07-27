@@ -1,7 +1,7 @@
 ## Control de reproducción
 
-Una vez sincronizado el *Energy Music Box B3 Bluetooth* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones "VOLUMEN - " (1) ó "VOLUMEN + " (2).
+Una vez sincronizado el *Energy Car FM-T Bluetooth* puedes controlar el volumen de reproducción desde el propio transmisor. Para ello, gira el selector para aumentar y disminuir el volumen.
 
-Para pausar o reanudar la reprodución, pulsa el botón PLAY/PAUSE (4) una única vez.
+Para pausar o reanudar la reprodución, pulsa el botón CONTROL DE LLAMADA una sola vez.
 
-Para avanzar o retroceder una canción pulsa los botones de AVANCE (7) o RETROCESO (6).
+Para avanzar o retroceder una canción mantén pulsado el selector. Posición + para avanzarde canción y posición - para retroceder de canción.
