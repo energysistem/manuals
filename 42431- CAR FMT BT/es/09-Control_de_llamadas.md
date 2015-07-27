@@ -1,8 +1,8 @@
 ## Control de llamadas
 
-Teniendo el *Energy Music Box B3 Bluetooth* sincronizado con tu móvil o smartphone podrás recibir llamadas y utilizar el MICRÓFONO (8) para hablar desde el propio altavoz gracias a la función manos libres.
+Teniendo el *Energy Car FM-T Bluetooth* sincronizado con tu móvil o smartphone y sintonizado con la radio de tu coche, podrás recibir llamadas y utilizar el MICRÓFONO para hablar mientras conduces gracias a la función manos libres.
 
-Para contestar una llamada únicamente tienes que pulsar el botón de CONTROL DE LLAMADA (5) y en caso de estar escuchando alguna canción por el altavoz en el instante de recibir la llamada, ésta se detendrá en ese momento escuchándose el tono de llamada. Para finalizar la llamada pulsa nuevamente el botón de CONTROL DE LLAMADA (5), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
+Para contestar una llamada únicamente tienes que pulsar el botón de CONTROL DE LLAMADA () y en caso de estar escuchando alguna canción por el altavoz en el instante de recibir la llamada, ésta se detendrá en ese momento escuchándose un mensaje de voz que indicará el número de la llamada entrante. Para finalizar la llamada pulsa nuevamente el botón de CONTROL DE LLAMADA (), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
 
 ### Rellamada
 
