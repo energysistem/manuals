@@ -7,6 +7,3 @@
 
 ## <unique> * Trouvez le manuel complet de l'*Energy Phone Neo 4G* dans le lien suivant  http://www.energysistem.com/guide/42430 </unique> </quick_guide>
 
-* Cet appareil appartient à la famille des Energy Phone: une nouvelle génération d'appareils de communication 4G basée sur le système d'exploitation Android™, avec lequel vous pourrez accéder à Internet et communiquer à n'importe quel moment et dans n'importe où, consulter votre courrier électronique et lire tout genre de contenu multimédia (des vidéos, de la musique, des images, d'eBooks, etc..).
-En outre, il existe des milliers d'applications et des jeux pour tirer le meilleur parti à votre appareil.
-Le système
