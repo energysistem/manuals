@@ -9,7 +9,7 @@
 5. Salida de auriculares
 6. Led de notificaciones
 7. Receptor frontal
-8. Entrada usb
+8. Entrada USB
 9. Sensores de luminosidad y de proximidad
 10. Botón de encendido/apagado
 11. Botón de volumen
