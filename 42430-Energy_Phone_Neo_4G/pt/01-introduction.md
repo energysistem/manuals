@@ -1,9 +1,9 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem#trade#  agradece-lhe a compra do seu Energy Phone Neo 4G. Esperamos que desfrute do seu dispositivo.
-* Este dispositivo pertence à família dos Energy Smartphone: uma nova geração de dispositivos baseada no sistema operativo Android#trade# com o qual poderá aceder à Internet e comunicar-se em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir qualquer conteúdo multimédia (vídeos, música, fotografias, eBooks, etc).
- Além disso, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo partido do dispositivo.
-* O sistema dispõe dum ecrã multi-táctil capacitiva de 4.5" (960x540 píxeis), processador Qualcomm® Snapdragon#trade# ARM Cortex A7 Quad Core 1.1 GHz, Bluetooth 4.0, Wi-Fi, GPS, conexão 3G/4G e câmaras frontal e traseira.
-* Aconselhamos ler o presente manual do usuário para tirar o máximo partido possível do produto de forma segura aproveitando todas as suas prestações. 
+* Agradecemos a sua confiança na nossa empresa assim como a adquisição do seu novo Energy Phone Neo 4G. Esperamos que desfrute do seu dispositivo.
+* O seu novo telefone dispõe dum ecrã multi-táctil capacitivo de 4.5" (960x540 píxeis), processador Qualcomm® Snapdragon#trade# Quad Core ARM Cortex A7 1.1 GHz, Bluetooth 4.0, Wi-Fi, GPS, conexão 3G/4G e câmaras frontal e traseira com flash.
+* Antes de começar a utilizar o dispositivo, aconselhamos ler o presente manual para familiarizar-se com o mesmo. Só serão alguns minutos e o ajudará a aproveitar todas as prestações do produto.
  
-## <unique> * Encontrará o manual completo do *Energy Phone Neo 4G* no seguinte link:  http://www.energysistem.com/guide/42430 </unique> </quick_guide>
+
+## <unique> * Encontrará o manual completo do *Energy Phone Neo 4G* no seguinte link:  
+http://www.energysistem.com/guide/42430 </unique> </quick_guide>
