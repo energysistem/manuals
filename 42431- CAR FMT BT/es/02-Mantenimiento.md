@@ -1,6 +1,6 @@
 ## Cuidado y mantenimiento
 
-* No expongas tu *Energy Car FM-T Bluetooth* a golpes, polvo, humedad o altas temperaturas. 
+* No expongas tu *Energy Car FM-T Bluetooth* a golpes, polvo, humedad o altas temperaturas.
 
 * Evita que le incida el sol directamente durante un preriodo largo de tiempo.
 
