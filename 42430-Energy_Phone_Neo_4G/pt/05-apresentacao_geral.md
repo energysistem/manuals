@@ -3,7 +3,7 @@
 ![Imagen2]()
 
 1. Flash traseiro
-2. Microfone com a função de cancelamento de ruído
+2. Microfone com função de cancelamento de ruído
 3. Câmera traseira
 4. Câmera frontal
 5. Saída de auscultadores
