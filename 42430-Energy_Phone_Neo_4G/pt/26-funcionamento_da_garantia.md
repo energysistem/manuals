@@ -1,27 +1,21 @@
 ## <quick_guide>Funcionamento da garantia
 
-Visite a secção de apoio técnico em http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Questões mais  frequentes), manuais, drivers e atualizações disponíveis assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia.
+Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Questões mais  frequentes), manuais do usuário, drivers e actualizações disponíveis assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia. Também tem a sua disposição os números de telefone para solicitar a garantia. Antes de fazer a  chamada, deve ter consigo o recibo ou factura e o número de série do produto.
 
-1. Pode verificar a disponibilidade do manual do usuário no seu idioma em
-http://www.energysistem.com/pt/guide/42430
+1. Pode verificar a disponibilidade do manual do usuário no seu idioma em: http://www.energysistem.com/pt/guide/42430
 
-2. Também temos a sua disposição o teléfone 902 294 294 para solicitar a garantia (telefone do serviço  técnico válido unicamente para Espanha).
-Antes de fazer a  chamada, deve ter consigo o recibo o factura e o número de série do produto.
+2. Complementarmente, pode entrar em contacto com o distribuidor onde foi adquirido o produto, apresentando o recibo da compra ou factura.
 
-3. Alternativamente, pode entrar em contato com o distribuidor onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
-
-**Importante: **Os dados ou a informação armazenada nos produtos pelo comprador não farão parte da garantia, por tanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar essa informação. É, por tanto,  recomendável entregar  o produto sem informação na memória do mesmo ou unicamente com o conteúdo original da fábrica.
-As especificações estão sujeitas a alterações sem aviso prévio.
+**Importante: ** Os dados ou a informação armazenada pelo comprador nos produtos não farão parte da garantia, portanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar essa informação. É, portanto, recomendável entregar  o produto sem informação na memória do mesmo ou unicamente com o conteúdo original da fábrica. As especificações estão sujeitas a alterações sem aviso prévio.
 
 ## Marcas registadas
+
 Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registadas de suas respectivas empresas.
 
 ©2015 por Energy Sistem®. Todos os direitos reservados.
 
 **Nota:** O presente dispositivo pode conter links a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Soyntec S.A. Estes links são facilitados para a sua informação ou comodidade; Energy Sistem Soyntec S.A. não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude.
 As páginas externas referidas podem conter ou fazer referência a marcas, patentes, informação registada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são propriedade dos respectivos proprietários.
-
-
 </quick_guide>
 
 
