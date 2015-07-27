@@ -1,6 +1,6 @@
 ## <quick_guide> Warranty procedure  
 
-Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, drivers and updates available, as the possibility to submit a query to the Technical Service or manage the warranty.
+Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, drivers and updates available, submit a query to the Technical Service or manage the warranty.
 
 1. You can check the availability of the user manual in your language at http://www.energysistem.com/guide/42430
 
