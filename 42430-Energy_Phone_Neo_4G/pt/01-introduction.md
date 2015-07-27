@@ -5,5 +5,4 @@
 * Antes de começar a utilizar o dispositivo, aconselhamos ler o presente manual para familiarizar-se com o mesmo. Só serão alguns minutos e o ajudará a aproveitar todas as prestações do produto.
  
 
-## <unique> * Encontrará o manual completo do *Energy Phone Neo 4G* no seguinte link:  
-http://www.energysistem.com/guide/42430 </unique> </quick_guide>
+## <unique> * Encontrará o manual completo do *Energy Phone Neo 4G* no seguinte link:  http://www.energysistem.com/guide/42430 </unique> </quick_guide>
