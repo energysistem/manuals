@@ -12,7 +12,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Ecualización (EQ) para los modos USB y SD.
 
-* Navegación por carpetas (Botón X) para los modos USB y SD.
+* Navegación por carpetas (Botón Browse) para los modos USB y SD.
 
 * Modos Repeat y Random (Botón RPT).
 
