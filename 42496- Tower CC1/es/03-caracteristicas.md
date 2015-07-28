@@ -5,7 +5,7 @@
 - Sistema de sonido 2.1 en torre.
 - Conectividad sin cables: Bluetooth® v2.1.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
-- Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
+- Distancia de uso con dispositivos Bluetooth® hasta 10 metros.
 - Potencia RMS: 60 W (30W + 15W x 2).
 - Altavoces: 4" x 2 (centrales) + 4" x 1 (subwoofer).
 - Respuesta en frecuencia: 20Hz-20KHz.
