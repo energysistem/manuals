@@ -7,7 +7,7 @@ Cuando tengas visualizado en tu dispositivo Bluetooth el nombre de "Energy Tower
 
 En el momento en el que se establece la conexión ya puedes comenzar con la reproducción inalámbrica de toda tu lista de música.
 
-Si deseas quitar la sincronización actual y sincronizar cualquier otro dispositivo, tienes que presionar el botón () durante 2 segundos y comenzará una nueva búsqueda, ó también puedes salir del modo Bluetooth y volver a entrar con el botón CAMBIO DE FUNCIÓN ().
+La torre siempre sincronizará de manera automática con ese dispositivo. Si deseas quitar la sincronización actual y sincronizar cualquier otro dispositivo, tienes que presionar el botón PLAY/PAUSA () durante 2 segundos y comenzará una nueva búsqueda.
 
-Además, el *Energy Tower CC1 Bluetooth* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) mediante el cual podrás escuchar tu música en estéreo, y AVRCP (Audio Video Remote Control Profile) mediante el cual podrás controlar la reproducción de tu música desde el propio *Energy Tower CC1 Bluetooth* o desde su control remoto.
+Además, el *Energy Tower CC1 Bluetooth* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) mediante el cual podrás escuchar tu música en estéreo, y AVRCP (Audio Video Remote Control Profile) con lo que podrás controlar la reproducción de tu música desde el propio *Energy Tower CC1 Bluetooth* o desde su control remoto.
 
