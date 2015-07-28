@@ -12,6 +12,8 @@ También puedes seleccionar 1 de las 5 ecualizaciones predefinidas, pulsando el 
 * EQ 2: Rock.
 * EQ 3: Jazz.
 * EQ 4: Classic.
+* EQ 5:
+* EQ 6:
 
 
 
