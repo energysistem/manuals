@@ -12,7 +12,7 @@ Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver
 
 Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
-©2015 por Energy Sistem Soyntec S.A. Todos os direitos reservados.
+© 2015 por Energy Sistem Soyntec S.A. Todos os direitos reservados.
 
 **Nota:** O presente dispositivo pode conter links a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Soyntec S.A. Estes links são facilitados para a sua informação ou comodidade; Energy Sistem Soyntec S.A. não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude. As páginas externas referidas podem conter ou fazer referência a marcas, patentes, informação registada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são propriedade dos respectivos proprietários.
 </quick_guide>
