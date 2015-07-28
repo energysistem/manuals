@@ -7,13 +7,13 @@ El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualiz
 
 También puedes seleccionar 1 de las 5 ecualizaciones predefinidas, pulsando el botón (EQ) del mando:
 
-* EQ 0: Normal.
-* EQ 1: Pop.
-* EQ 2: Rock.
-* EQ 3: Jazz.
-* EQ 4: Classic.
-* EQ 5:
-* EQ 6:
+* EQ 0: Normal
+* EQ 1: Pop
+* EQ 2: Rock
+* EQ 3: Jazz
+* EQ 4: Classic
+* EQ 5: Rap
+* EQ 6: Soul
 
 
 
