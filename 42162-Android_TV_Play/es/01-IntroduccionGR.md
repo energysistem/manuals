@@ -1,4 +1,4 @@
-##Introducción
+## Introducción
 
 * Energy Sistem#trade# te agradece la compra de tu Energy#trade# Android TV Play. Deseamos que lo disfrutes. 
 * Este dispositivo Transforma tu televisor en una Android TV y un PC, con su potente procesador dual core ARM Cortex A9, permitiendo la descarga de miles de aplicaciones y juegos para Android#trade# y disfrutar de vídeos FullHD, todo con el tamaño de un pendrive.
