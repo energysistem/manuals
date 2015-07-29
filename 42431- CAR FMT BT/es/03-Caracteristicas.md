@@ -1,7 +1,7 @@
 ## Especificaciones técnicas
 
 - Bluetooth® bidireccional. Versión 2.1, clase II.
-- Distancia de uso de hasta 7 m de alcance.
+- Distancia de uso de hasta 8 m de alcance.
 - Transmisor FM integrado.
 - Rango de frecuencia seleccionable de 87.5 a 108.0 MHz.
 - Pantalla de 7 segmentos LED.
