@@ -6,3 +6,5 @@ El tiempo de carga oscila entre 2 y 3 horas, dependiendo de si el reproductor es
 
 Para optimizar el uso de la batería de tu MP3 Energy selecciona la opción: "Config"/"Ajustes de pantalla"/"Modo iluminación"/"Ahorro de energía".
 Para ello también puedes ajustar el tiempo de auto-apagado en la opción: "Config"/"Apagado".
+
+**Nota:**Te recomendamos que no almacenes el aparato ni lo dejes en desuso durante un periodo largo de tiempo con la batería completamente descargada.
