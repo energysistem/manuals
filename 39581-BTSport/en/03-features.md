@@ -4,7 +4,7 @@
 
 * Sports Bluetooth® earphones.
 * Conections: Bluetooth® and microUSB.
-* Easy pairing with tablets, smartphones, laptops, MAC, PC, PlayStation and any other Bluetooth® device.
+* Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
 * Volume control from the earphones.
 * Pairing without codes.
 * Lightweight and comfortable.
@@ -28,6 +28,6 @@
 
 * Capacity: 100mAh
 - USB charging system
-- Charging time: 1.5 hours
-- Battery life in-use: 5.5 hours
-- Battery life in standby: 300 hours
+- Charging time: 1.5 hours.
+- Battery life in-use: 7 hours.
+- Battery life in standby: 300 hours.
