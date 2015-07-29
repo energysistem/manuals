@@ -6,7 +6,7 @@ La garantie offerte par Energy Sistem couvre les défauts de matière ou de fabr
 
 Cette garantie ne couvre pas les défauts ou détériorations résultant d'un accident, d'une utilisation inadéquate ou d'une manipulation du produit effectuée ou tentée par des personnes autres que celles de l'équipe d'Energy Sistem.
 
-La garantie de 36 mois est valable pour l'Union Européenne. Pour les autrespays, veuillez consulter la législation en vigueur ou votre distributeur local.
+La garantie de 36 mois est valable pour l'Union Européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
 
 </quick_guide>
 
