@@ -14,7 +14,7 @@ All company, brand and product names are trademarks or registered trademarks of 
 
 © 2015 by Energy Sistem Soyntec S.A. All rights reserved.
 
-** Notice:** The present device could contain connections to other sites or websites operated by third parties not related to Energy Sistem Soyntec S.A. These connections are provided for your information or convenience; Energy Sistem Soyntec S.A is not responsible for their availability, content, update, adequacy or accuracy. These external connections might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All the rights reserved are property of their respective owners, and your are not granted with any license or right related to those brand names, patents, industrial secrets, technologies, products, processes or other rights property of other companies or individuals.
+**Notice:** The present device could contain connections to other sites or websites operated by third parties not related to Energy Sistem Soyntec S.A. These connections are provided for your information or convenience; Energy Sistem Soyntec S.A is not responsible for their availability, content, update, adequacy or accuracy. These external connections might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All the rights reserved are property of their respective owners, and your are not granted with any license or right related to those brand names, patents, industrial secrets, technologies, products, processes or other rights property of other companies or individuals.
 </quick_guide>
 
 
