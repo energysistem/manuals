@@ -6,7 +6,7 @@ Visit the Support section at http://www.energysistem.com/en/support and select y
 
 2. Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
-** Important:** This warranty doe not cover any damage or loss to any data stored in warranty products, therefore Energy Sistem's Technical Service will not assume any loss of the above mentioned information. So it is recommended to make a backup of your data and remove any data or personal data from its internal memory before you send the product, or to send it only with the original data. Specifications are subject to change without notice.
+**Important:** This warranty doe not cover any damage or loss to any data stored in warranty products, therefore Energy Sistem's Technical Service will not assume any loss of the above mentioned information. So it is recommended to make a backup of your data and remove any data or personal data from its internal memory before you send the product, or to send it only with the original data. Specifications are subject to change without notice.
 
 ## Trademarks
 
