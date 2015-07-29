@@ -1,6 +1,6 @@
 ## Principales características
 
-* Batería recargable de polímero de litio con más fiabilidad, eficiencia y ligereza, de 2500 mAh de capacidad.
+* Batería recargable de polímero de litio con más fiabilidad, eficiencia y ligereza, de 5000 mAh de capacidad.
 * Especialmente diseñada para cargar smartphones.
 * Cable integrado micro-USB para que no te líes.
 * Salida adicional USB tipo A para conectar cualquier cable de carga.
