@@ -19,7 +19,7 @@
 * Soporta protocolos HSP / HFP / A2DP /AVRCP.
 * Indicador de carga en dispositivos iOS.
 * Diámetro del driver: 12mm
-* Respuesta en frecuencia: 20 - 20.000KHz
+* Respuesta en frecuencia: 20 - 20.000 Hz
 * Distancia de uso hasta 10m de alcance
 * Impedancia: 16 Ohm
 * Sensibilidad del micrófono principal: 42dB 
