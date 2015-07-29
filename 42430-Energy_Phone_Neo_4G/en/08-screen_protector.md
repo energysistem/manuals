@@ -1,4 +1,4 @@
-## <quick_guide> Applying the screen protector
+## Applying the screen protector
 
 1. Clean the surface of your Energy Phone using a cloth.
 
@@ -12,4 +12,4 @@ screen.
 5. Remove the front screen protector
 6. Use the rigid support to remove the bubbles that may remain between the screen and protector.
 
-</quick_guide>
+
