@@ -6,7 +6,7 @@ Tu Energy Extra Battery tiene ya integrado un cable con conexión para dispositi
 
 En el caso de dispositivos con entradas especiales, como por ejemplo los dispositivos Apple, puedes usar el cable original que incluyen sus dispositivos, puesto que uno de sus extremos se conecta al puerto USB Tipo A de tu Energy Extra Battery.
 
-**¿Cuánta carga proporcionará mi Energy Extra Battery 2500 a mi dispositivo (Smartphone,MP3…)?**
+**¿Cuánta carga proporcionará mi Energy Extra Battery 5000 a mi dispositivo (Smartphone,MP3…)?**
 
 Dependerá de la capacidad de la batería que tenga el dispositivo que vayas a cargar.
 Por ejemplo, Un smartphone tiene habitualmente una capacidad de carga aproximada de 1400 a 2200 mAh según el modelo.

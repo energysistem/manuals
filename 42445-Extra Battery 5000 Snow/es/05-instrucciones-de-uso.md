@@ -13,7 +13,7 @@ Conecta un cable USB tipo A a micro-USB* al conector micro-USB de tu Energy Extr
 
 *Cable no incluido.
 
-El indicador LED mostrará la carga y el funcionamiento de tu Energy Extra Battery 2500 en función del uso que estés haciendo de ella.
+El indicador LED mostrará la carga y el funcionamiento de tu Energy Extra Battery 5000 en función del uso que estés haciendo de ella.
 
 ![Green](http://static.energysistem.com/images/manuals/42006/55af5a6133a8d.jpg)
 ![Amber](http://static.energysistem.com/images/manuals/42006/55af59a5a99d1.jpg)
