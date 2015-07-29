@@ -11,6 +11,6 @@ Nous vous recommandons de lire ce qui suit :
 - Ne laissez pas tomber l'appareil au sol ou recevoir un choc car cela peut entraîner une perte de données irrémédiable ou même arrêter complètement de fonctionner. 
 - Ne pas utiliser l'eReader dans des conditions de forte humidité ou lorsqu'il est mouillé. 
 - Ne pas exercer une pression sur l'écran de l'appareil. 
-- Ne pas retirez la carte micro SD ou éteindre l'appareil pendant la lecture ou l'écriture des données pour empêcher la perte de données. 
+- Ne pas retirer la carte micro SD ou éteindre l'appareil pendant la lecture ou l'écriture des données pour empêcher la perte de données. 
 - Assurez-vous que la carte micro SD est déverrouillée avant d'écrire ou supprimer des données.
 
