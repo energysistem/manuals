@@ -14,4 +14,4 @@ Para encender o apagar el auricular en modo reproductor de tarjetas Micro SD/SDH
 
 Cuando los auriculares tengan poca batería y siempre que estés en modo bluetooth, empezarán a emitir un aviso sonoro que se repetirá cada varios segundos hasta que la batería se agote por completo. Igualmente el LED (4) parpadeará en color rojo. Para recargarlos, conecta el extremo micro USB del cable USB (incluido) a tus *Energy Headphones BT9 Bluetooth* (13), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (4) se iluminará en color rojo y cuando la carga se complete el LED (4) se iluminará en color azul.
 
-**NOTA:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
+**NOTA:** Te recomendamos que no almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
