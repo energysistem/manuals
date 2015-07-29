@@ -1,4 +1,4 @@
-﻿## Côntrole d'appels
+﻿## Contrôle d'appels
 
 Si vous avez l'*Energy Music Box BZ2 Bluetooth* synchronisé avec votre téléphone portable ou smartphone, vous pourrez recevoir des appels et utiliser le microphone (5) pour parler depuis l'haut parleur avec la fonction mains libres.
 
