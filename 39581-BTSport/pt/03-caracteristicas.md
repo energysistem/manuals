@@ -4,7 +4,7 @@
 
 * Fones Bluetooth® desportivos.
 * Conexões: Bluetooth® e microUSB.
-* Fácil sincronização com tablets, smartphones, portátiles, MAC, PC, PlayStation e qualquer outro dispositivo Bluetooth®.
+* Fácil sincronização com tablets, smartphones, portátiles, MAC, PC e qualquer outro dispositivo Bluetooth®.
 * Controle de volume desde o fone.
 * Sincronização sem códigos.
 * Leves e confortáveis.
@@ -30,5 +30,5 @@
 * Capacidade: 100mAh
 - Sistema de carregamento por USB
 - Tempo de carregamento: 1,5 horas
-- Autonomia em uso: 5,5 horas
+- Autonomia em uso: 7 horas
 - Autonomia em stand by: 300 horas
