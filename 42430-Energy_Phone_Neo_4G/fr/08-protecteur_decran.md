@@ -1,4 +1,4 @@
-## <quick_guide> Installation du protecteur d’écran
+## Installation du protecteur d’écran
 
 1. Nettoyez la surface de votre Energy Phone à l’aide d'un chiffon.
 
@@ -10,5 +10,5 @@
 5. Retirez le film protecteur avant.
 6. Utilisez le support rigide pour enlever les bulles qui peuvent rester entre l'écran et le protecteur.
 
-</quick_guide>
+
 
