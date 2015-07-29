@@ -15,4 +15,4 @@ reproducida en tu dispositivo móvil Bluetooth previamente sincronizado al recep
 Primero, busca una frecuencia libre con la radio de tu coche. Podrás detectar una frecuencia libre fácilmente ya
 que son las que al seleccionarlas no se recibe ninguna señal o la señal recibida es de muy baja calidad. Cuando
 tengas una señal de radio libre detectada, selecciona en tu *Energy Car FM-T Bluetooth* la misma frecuencia. Para ello pulsa el botón CONTROL DE FRECUENCIA y con el SELECTOR cambia la frecuencia. Una vez configurada la frecuencia deseada, vuelve a pulsar el botón CONTROL DE FRECUENCIA para confirmar el ajuste.
-En ese momento deberías recibir en la radio del coche la señal transmitida. Si la calidad no es suficientemente buena selecciona otra frecuencia libre distinta.
+En ese momento deberías recibir en la radio del coche la señal transmitida. Si la calidad no es suficientemente buena selecciona otra frecuencia libre distinta. Se recomienda seleccionar frecuencias comprendidas entre 100.0 Hz y 108.0 Hz.
