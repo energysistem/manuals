@@ -10,4 +10,4 @@
 
 * Asegúrate de mantener tus *Energy Headphones BT1 Bluetooth* apagado cuando no este en uso.
 
-* Recarga la batería cuando esta se haya agotado para alargar la vida de la misma.
+* No dejes la batería completamente descargada durante un periodo largo de tiempo.
