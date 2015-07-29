@@ -2,7 +2,7 @@
 
 ### <quick_guide>Encendido y apagado del dispositivo
 
-Utiliza el botón ON/OFF(4) para encender o apagar el dispositivo.
+Utiliza el botón ON/OFF (4) para encender o apagar el dispositivo.
 
 Para encender el dispositivo, mantén pulsado el botón ON/OFF (4) durante 2 segundos. El DISPLAY (8) se encenderá, primero con el icono del corazón. Y después se iniciará la pantalla, indicando que el dispositivo está encendido.
 
