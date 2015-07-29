@@ -6,8 +6,6 @@ This warranty covers any defects in workmanship or materials.
 
 This warranty does not cover any failure of the product due to accidents, misuse or alteration made by an unauthorized person.
 
-Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
-
 The special 36-months warranty is valid for the European Union. For other countries, please refer to your specific legislation or your local distributor.
 
 </quick_guide>
