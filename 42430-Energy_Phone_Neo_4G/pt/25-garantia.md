@@ -6,8 +6,6 @@ No caso que o produto não seja entregado em conformidade com o contrato, reconh
 
 Esta garantia não se aplica se o defeito foi causado pelo comprador e/ou por terceiros devido a abuso, negligência, uso ou utilização do produto diferente daquele para o qual foi concebido, o uso ou instalação de produtos não conformes com o manual do usuário ou qualquer outra causa não relacionada com defeitos de material ou fabricação.
 
-Esta garantia é independente e compatível com a Garantia Legal estabelecida pelo RD 1/2007.
-
 A garantia especial de 36 meses é válida para a União Europeia. Para outros países deverá verificar a legislação em vigor ou o seu distribuidor local.
 
 
