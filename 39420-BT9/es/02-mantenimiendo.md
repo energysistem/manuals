@@ -2,7 +2,6 @@
 
 * No expongas tus *Energy Headphones BT9 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
 * No uses productos de limpieza corrosivos o abrasivos.
-* No sitúes tus *Energy Headphones BT9 Bluetooth* cerca de dispositivos que emitan campos electromagnéticos intensos.
 * Mantén los auriculares limpios y sin polvo; utiliza para ello un paño suave y seco.
 * No desmontes los auriculares. Cualquier reparación debe ser llevada a cabo exclusivamente por personal cualificado de Energy Sistem Soyntec, S.A.
 * Asegúrate de mantener tus *Energy Headphones BT9 Bluetooth* apagados cuando no estén en uso.
