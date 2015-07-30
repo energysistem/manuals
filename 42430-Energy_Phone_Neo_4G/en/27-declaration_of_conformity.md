@@ -16,7 +16,7 @@ Manufacturing Country: China
 
 Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.Other rights property of other companies or individuals. You may request a copy of the declaration of conformity at C/ Calpe, 1 - 03509 Finestrat - Alicante (España) Tel. +34 966 831 05
 
-Finestrat, 01 July 2015
+Finestrat, 01 September 2015
 
 </quick_guide>
 
