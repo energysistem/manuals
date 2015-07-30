@@ -16,10 +16,10 @@
 
 ### Características técnicas
 
-- Versión Bluetooth: Bluetooth 3.0
+- Versión Bluetooth: Bluetooth 3.0, clase II.
 - Soporta perfiles A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6
-- Rango de alcance: 10m
-- Respuesta en frecuencia: 60HZ – 20 KHZ
+- Rango de alcance: 10m.
+- Respuesta en frecuencia: 40HZ – 20 KHZ
 - THD < 1%.
 - SPL: 93 ±3dB.
 - Transductor dinámico.
@@ -27,7 +27,7 @@
 - Micrófono integrado.
 - Sensibilidad del micrófono: -38dB ±3dB.
 - Dimensiones: 167.5 x 59 x 144 mm.
-- Peso: 105 g.
+- Peso: 110 g.
 
 <br/>
 Características de la batería <br/>
