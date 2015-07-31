@@ -16,7 +16,7 @@ Pays de fabrication: Chine
 
 Auquel se réfère cette déclaration, est conforme aux normes ou documentsnormatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09mars 1999. Vous pouvez demander une copie de la déclaration de conformité à l'adresse : C/ Calpe, 1 - 03509 Finestrat - Alicante (Espagne) Tel. +34 966 831 058
 
-Finestrat, 01 de julio de 2015
+Finestrat, 01 Septembre 2015
 
 </quick_guide>
 
