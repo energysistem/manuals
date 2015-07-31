@@ -12,4 +12,4 @@ Mientras esté encendido el dispositivo el LED (4) indicador se mantendrá parpa
 
 Cuando la batería del auricular está a punto de agotarse, el auricular emitirá un pitido avisando de esta situación. Repetirá el pitido cada varios minutos hasta que la batería se agote completamente. Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la CONEXIÓN USB DE CARGA (5), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED (4) se ilumina en rojo y cuando la carga sea completa se apagará.
 
-**Nota:** Se recomienda cargar el dispositivo con el interruptor en OFF. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
+**Nota:** Se recomienda cargar el dispositivo apagado. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
