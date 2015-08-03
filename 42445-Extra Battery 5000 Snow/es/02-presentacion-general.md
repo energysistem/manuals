@@ -1,6 +1,6 @@
 ## Presentación general
 
-![General View](http://static.energysistem.com/images/manuals/42006/55ae4c0319658.jpg)
+![General View](http://static.energysistem.com/images/manuals/42251/55bf2e59abe87.jpg)
 
 1. Cable micro-USB (salida)
 2. Indicador LED
