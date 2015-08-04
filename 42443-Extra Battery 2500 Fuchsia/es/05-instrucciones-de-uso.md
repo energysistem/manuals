@@ -15,9 +15,7 @@ Conecta un cable USB tipo A a micro-USB* al conector micro-USB de tu Energy Extr
 
 El indicador LED mostrará la carga y el funcionamiento de tu Energy Extra Battery 2500 en función del uso que estés haciendo de ella.
 
-![Green](http://static.energysistem.com/images/manuals/42006/55af5a6133a8d.jpg)
-![Amber](http://static.energysistem.com/images/manuals/42006/55af59a5a99d1.jpg)
-![Red](http://static.energysistem.com/images/manuals/42006/55af5a29488aa.jpg)
+![LED States](http://static.energysistem.com/images/manuals/42252/55c071b2d0c5d.jpg)
 
 Cargando tu Energy Extra Battery:
 - LED Rojo parpadeo lento: Carga baja de batería (0 ~ 33%).
