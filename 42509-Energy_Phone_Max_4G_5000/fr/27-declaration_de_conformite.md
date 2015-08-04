@@ -11,7 +11,7 @@ NIF: A53107488
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# Energy Phone MAX 4G 5000*
+**Energy Sistem#trade# Energy Phone MAX 4G 5000**
 Pays de fabrication: Chine
 
 Auquel se réfère cette déclaration, est conforme aux normes ou documentsnormatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09mars 1999. Vous pouvez demander une copie de la déclaration de conformité à l'adresse : C/ Calpe, 1 - 03509 Finestrat - Alicante (Espagne) Tel. +34 966 831 058
