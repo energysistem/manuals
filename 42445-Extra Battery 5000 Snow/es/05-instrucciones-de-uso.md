@@ -31,6 +31,6 @@ Cargando un dispositivo:
 - LED Rojo permanente: Nivel bajo de batería (33 ~ 3%)
 - LED Rojo parpadeo rápido: Nivel de batería agotado (<3%).
 
-**NOTA:**
-Puedes usar ambas salidas a la vez para cargar dos dispositivos, aunque la capacidad de carga se verá reducida.
-La carga un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+#### **NOTA:**
+
+#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, aunque la capacidad de carga se verá reducida. La carga un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
