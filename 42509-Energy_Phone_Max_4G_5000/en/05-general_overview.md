@@ -4,7 +4,7 @@
 
 1.	Rear camera
 2.	Rear flash
-3.	USB Input
+3.	USB input
 4.	Proximity and luminosity sensors
 5.	Receiver
 6.	Notifications LED
