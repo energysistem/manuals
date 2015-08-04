@@ -1,4 +1,4 @@
-## <quick_guide> Colocación de lámina protectora
+## Colocación de lámina protectora
 
 1. Limpia la superficie de tu Energy Phone con ayuda de un paño.
 
@@ -11,4 +11,4 @@ pantalla.
 5. Quita la lámina de protección delantera.
 6. Utiliza el soporte rígido para eliminar las burbujas que pudieran quedar entre la pantalla y el protector.
 
-</quick_guide>
+
