@@ -12,7 +12,7 @@
 * [Primer uso / Ajustes de inicio](08-tipos_de_pulsaciones.md)
 * [Menú principal](09-pantalla_principal.md)
 * [TV y Radio](10-widgets.md)
-* [Multimedia](multimedia.md)
+* [Multimedia](11-multimedia.md)
 * [Resolución de problemas](22-resolucion_de_problemas.md)
 * [Condiciones de la garantia](24-condiciones_de_la_garantia.md)
 * [Funcionamiento de la garantía](25-funcionamiento_de_la_garantia.md)
