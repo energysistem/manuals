@@ -1,6 +1,6 @@
 ## Cuidado e manutenção
 
-* Evite que o seu *Energy Music Box B3 Bluetooth* sofra impactos fortes e que entre em contacto com altas temperaturas, pó e humidade.
+* Evite que o seu *Energy Car FM-T* sofra impactos fortes e que entre em contacto com altas temperaturas, pó e humidade.
 
 * Mantenha o produto protegido da luz solar directa durante períodos prolongados de tempo.
 
