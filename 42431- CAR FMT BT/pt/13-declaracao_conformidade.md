@@ -1,6 +1,6 @@
 ## Declaração de conformidade
 
-_**Nome do Fabricante:**_ Energy Sistem Technology S.A.
+_**Nome do fabricante:**_ Energy Sistem Technology S.A.
 _**Endereço:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
 _**Tel:**_ +34 902 388 388 // _**Fax:**_ +34 902 119 034 // _**NIF:**_  A53107488
 
