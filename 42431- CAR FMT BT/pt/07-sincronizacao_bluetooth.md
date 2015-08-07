@@ -8,7 +8,7 @@ Para estabelecer novamente a ligação com o último dispositivo emparelhado só
 
 Se deseja sincronizar outro dispositivo Bluetooth®, tem que terminar a ligação dos dispositivos através das opções do dispositivo que inicialmente enviou os dados. Deste modo, a sincronização estabelecida termina e começa uma nova pesquisa de dispositivos Bluetooth®.
 
-Transmissor FM
+### Transmissor FM
 
 O seu *Energy Car FM-T Bluetooth* dispõe dum emissor FM integrado, o qual permite transferir a música que o seu dispositivo móvil Bluetooth está a reproduzir. Para poder fazer isto, tem de sincronizar o receptor de rádio FM do carro com o seu dispositivo móvil previamente. Para captar o sinal correctamente, o seu *Energy Car FM-T Bluetooth*  e a rádio do carro tem de estar configurados para utilizar a mesma frequência.
 Em primeiro lugar, procure uma frequência livre na rádio de seu carro. Pode captar uma frequência livre facilmente porque quando escolhe este tipo de frequência, não há sinal ou este é de pouca qualidade. Uma vez captado o sinal de rádio livre, escolha a mesma frequência no seu *Energy Car FM-T Bluetooth*. Clique no botão CONTROLO DE FREQUÊNCIA e mude a frequência através do SELECTOR. Quando tenha configurada a frequência desejada, clique novamente no botão CONTROLO DE FREQUÊNCIA para confirmar a seleção. 
