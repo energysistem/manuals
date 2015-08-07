@@ -1,6 +1,6 @@
 ## Contenu du produit
 
-**Energy Car FM-T Bluetooth**.
+* Energy Car FM-T Bluetooth.
 * Guide Rapide.
 
 
