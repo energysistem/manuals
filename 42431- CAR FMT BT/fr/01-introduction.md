@@ -1,8 +1,6 @@
 ## Introduction
 
-* Energy Sistem® vous remercie l'achat de votre *Energy Music Box B3 Bluetooth*, profitez de l'appareil.
-* Lecteur MP3 portable avec de la technologie Bluetooth®. Profitez de votre musique sans fils depuis n'importe quel appareil Bluetooth®, Line-in et batterie rechargeable.
-* Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profitant toutes ses performances.
-<unique>
+* Merci de votre confiance et de l'achat de votre nouveau 	Energy Car FM-T Bluetooth*. Profitez de l'appareil.
+* Émetteur FM avec Bluetooth pour écouter de la musique à partir de votre smartphone ou tablette dans la voiture. Parlez avec votre famille pendant la conduite, avec la fonction mains libres. Il dispose également d'un port USB pour charger vos appareils.
+* Avant de commencer à profiter de votre appareil, nous vous conseillons de lire ce manuel pour vous familiariser avec lui. Il ne vous prendra que quelques minutes et vous aiera à tirer le meilleur parti de toutes ses caractéristiques.
 
-* Consultez le manuel entier de l'*Energy Music Box B3 Bluetooth* sur ce lien: http://www.energysistem.com/guide/42448
