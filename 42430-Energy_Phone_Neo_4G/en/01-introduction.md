@@ -5,3 +5,4 @@
 * Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
 ## <unique> * Find the complete manual of the *Energy Phone Neo 4G* in the following link  http://www.energysistem.com/guide/42430 </unique> </quick_guide>
+
