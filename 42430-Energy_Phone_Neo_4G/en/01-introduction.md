@@ -1,4 +1,5 @@
-## <quick_guide>Introduction
+<quick_guide>
+## Introduction
 
 * Thank you for your trust in us and buying the new Energy Phone Neo 4G. We hope you enjoy it.
 * Your new phone device features a 4.5" (960x540 pixels) capacitive multi-touch display, a Qualcomm® Snapdragon#trade# Quad Core ARM Cortex A7 1.1 GHz processor, Bluetooth 4.0, Wi-Fi, GPS, 3G/4G connectivity, front camera and rear camera with flash.
