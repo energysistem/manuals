@@ -3,7 +3,7 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
 
 Manufacturer Name:
-Energy Sistem Technology S.A.
+Energy Sistem Technology, S.A.
 Address: C/ Calpe, 1.
 03509 Finestrat Alicante (España).
 Tel: 902 388 388
