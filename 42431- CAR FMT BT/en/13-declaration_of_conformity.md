@@ -1,7 +1,7 @@
 ## <quick_guide> Declaration of Conformity
 
-_**Manufacturer Name:**_ Energy Sistem Technology S.A.
-_**Address:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).
+_**Manufacturer Name:**_ Energy Sistem Technology, S.A.
+_**Address:**_C/ Calpe, 1 - 03509 Finestrat Alicante (Spain).
 _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 
