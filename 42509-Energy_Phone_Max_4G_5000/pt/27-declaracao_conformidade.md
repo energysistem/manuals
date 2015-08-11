@@ -3,10 +3,10 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42258/54994043de633.jpg)
 
 Nome do fabricante:
-Energy Sistem Technology S.A.
+Energy Sistem Technology, S.A.
 Endereço: C/ Calpe, 1
 03509 Finestrat Alicante (Espanha).
-Tel: 902 388 388
+Tel. +34 966 831 058
 NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade a conformidade do produto:
