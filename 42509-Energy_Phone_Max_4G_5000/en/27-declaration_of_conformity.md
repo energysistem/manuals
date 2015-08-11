@@ -4,7 +4,7 @@
 
 Manufacturer Name:
 Energy Sistem Technology S.A.
-Address: C/.Calpe, 1.
+Address: C/ Calpe, 1.
 03509 Finestrat Alicante (España).
 Tel: 902 388 388
 NIF: A53107488
