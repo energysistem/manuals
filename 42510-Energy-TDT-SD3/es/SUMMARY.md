@@ -1,0 +1,22 @@
+# Summary
+
+* [Introduction](README.md)
+* [Portada](00-portada.md)
+* [Introducción](01-introduccion.md)
+* [Cuidado y mantenimiento](02-mantenimiento.md)
+* [Principales características](03-caracteristicas.md)
+* [Contenido del producto](04-contenido.md)
+* [Presentación general](05-presentacion_general.md)
+* [Esquema de conexiones](06-conexiones.md)
+* [Encendido y apagado](07-encendido.md)
+* [Primer uso / Ajustes de inicio](08-primer_uso.md)
+* [Menú principal](09-menu_principal.md)
+* [TV y Radio](10-tv_y_radio.md)
+* [Multimedia](11-multimedia.md)
+* [Accesorios](12-accesorios.md)
+* [Funcionamiento TDT](13-television_digital_terrestre.md)
+* [Resolución de problemas](22-resolucion_de_problemas.md)
+* [Condiciones de la garantia](24-condiciones_de_la_garantia.md)
+* [Funcionamiento de la garantía](25-funcionamiento_de_la_garantia.md)
+* [Declaración de Conformidad](26-declaracion_de_conformidad.md)
+
