@@ -6,7 +6,7 @@ Nome do fabricante:
 Energy Sistem Technology, S.A.
 Endereço: C/ Calpe, 1
 03509 Finestrat Alicante (Espanha).
-Tel. +34 966 831 058
+Tel: 902 388 388 // Fax: 902 119 034 
 NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade a conformidade do produto:
