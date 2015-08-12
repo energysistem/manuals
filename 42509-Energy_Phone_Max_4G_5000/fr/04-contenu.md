@@ -1,4 +1,5 @@
-## <quick_guide> Contenu du produit
+<quick_guide>
+## Contenu du produit
 
 * Energy Phone Max 4G 5000.
 * Guide Rapide.
