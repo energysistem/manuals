@@ -1,4 +1,5 @@
-## <quick_guide> Apresentação geral
+<quick_guide>
+## Apresentação geral
 
 ![Imagen2]()
 
