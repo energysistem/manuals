@@ -1,4 +1,5 @@
-## <quick_guide> Product content
+<quick_guide>
+## Product content
 
 * Energy Phone Max 4G 5000.
 * Quick guide.
