@@ -1,4 +1,5 @@
-## <quick_guide> Introduction
+<quick_guide>
+## Introduction
 
 * Merci de votre confiance et de l'achat de votre nouveau Energy Phone Max 4G 5000. Profitez de l'appareil.
 *	Votre nouveau téléphone inclut un écran multi-tactile capacitif de 5" (1280x720 píxeles), processeur Qualcomm® Snapdragon™ Quad Core ARM Cortex A53 1.2GHz, Bluetooth 4.0, Wi-Fi, GPS, connexion 3G/4G et appareil photo frontal et appareil photo arrière avec flash.
