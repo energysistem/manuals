@@ -1,0 +1,23 @@
+## Principales características
+
+- Sintonizador de Televisión Digital Terrestre DVB-T MPEG-2.
+- Cabezal pivotante 360º en tamaño mini para no ocupar espacio conectándolo al televisor directamente sin cables a través del conector SCART (Euroconector).
+- Reproduce a través del puerto USB: vídeo en formato SD (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
+- Graba TDT en formato MPEG-2 con calidad digital a través de dispositivos USB. Gestión de grabaciones.
+- Función de Timeshift para pausar y reanudar la emisión de TDT.
+- Sintoniza radio con calidad digital.
+- Guía de programación semanal electrónica (EPG) con programación de eventos (grabación / aviso).
+- Función mosaico dinámico de múltiples canales en pantalla (MSM).
+- Menú en pantalla OSD multilingüe.
+- Teletexto (VBI).
+- Subtítulos seleccionables entre canal digital y teletexto.
+- Edición de canales: varios tipos de canales favoritos, mover, bloquear, borrar, renombrar y clasificar por temática.
+- Control parental.
+- Función de apagado automático (ECO) y temporizador (SLEEP).
+- Juegos y aplicaciones incluidas (Calculadora, Calendario, 5 en línea).
+- Actualizaciones de software a través del puerto USB.
+- Búsqueda automática y manual de los canales de TV y Radio, con capacidad de memorizar hasta 1000 canales.
+- OFDM Modo 2K/8K.
+- Ancho de banda: 7/8 MHz.
+- Sistema de archivos: FAT / FAT32.
+- Consumo energético eficiente en modo stand by contribuyendo a la sostenibilidad del medio ambiente.
