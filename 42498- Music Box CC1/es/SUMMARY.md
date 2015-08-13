@@ -10,7 +10,6 @@
 * [Funciones principales](06-Funciones_principales.md)
 * [Sincronizacion Bluetooth](07-Sincronizacion_bluetooth.md)
 * [Control de reproduccion](08-Control_de_reproduccion.md)
-* [Control de llamadas](09-Control_de_llamadas.md)
 * [Entrada y salida de linea](10-Entrada_de_linea.md)
 * [Garantia](11-Garantia.md)
 * [Funcionamiento de la garantia](12-Funcionamiento_garantia.md)

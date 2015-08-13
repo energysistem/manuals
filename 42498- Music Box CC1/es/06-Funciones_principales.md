@@ -14,6 +14,6 @@ Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositi
 
 ### Carga de la batería
 
-Cuando el altavoz ya no emite sonido o no enciende es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box B3 Bluetooth* (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (11) se ilumina en rojo y cuando la carga sea completa se apagará.
+Cuando el altavoz ya no emite sonido o no enciende es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) al propio *Energy Music Box CC1 Bluetooth* (11), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (11) se ilumina en rojo y cuando la carga sea completa se apagará.
 
 **Nota:** Se recomienda cargar el dispositivo apagado. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
