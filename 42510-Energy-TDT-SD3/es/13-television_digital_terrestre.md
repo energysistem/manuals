@@ -3,9 +3,13 @@
 ### Información
 Durante las emisiones de televisión digital y radio pulsa *"INFO"* (18) para visualizar la barra de información.
 
+![Info First Screen](http://static.energysistem.com/images/manuals/42510/55cdbc9c0cd8e.jpg)
+
 La barra de información muestra número y nombre del canal, hora actual, programación actual y siguiente, información de teletexto y subtítulos, y atributos y estados del canal como "bloqueado", "codificado", "favorito"...
 
 Una segunda pulsación de la tecla *"INFO"* (18), visualiza información detallada de la programación actual.
+
+![Info Second Screen](http://static.energysistem.com/images/manuals/42510/55cdbd84698b1.jpg)
 
 Una tercera pulsación de la tecla *"INFO"* (18), muestra información técnica acerca del canal, como la intensidad y la calidad de la señal.
 
@@ -23,8 +27,12 @@ Pulsa las teclas *"VOL+"* / *"VOL-"* (12) para ajustar el volumen del sonido. Pu
 Si ajustas el volumen mientras el sonido se encuentra desactivado con la función *"MUTE"*, se activará automáticamente.
 
 
+
+
 ### Lista de canales
 Pulsa *"OK"* (22) para mostrar la lista de canales.
+
+![CH List](http://static.energysistem.com/images/manuals/42510/55cdd7672fc18.jpg)
 
 Pulsa las teclas *"ARRIBA / ABAJO"* (11) para cambiar de canal e *"IZQUIERDA / DERECHA"* (12) para pasar páginas completas de canales.
 
@@ -61,6 +69,8 @@ Pulsa *"CH+"* / *"CH-"* (11) para ir cambiando de canal dentro del mismo grupo d
 
 Pulsa "TEXT" (26) para acceder al menú teletexto del canal que estés visionando en ese momento. Ten en cuenta que el modo teletexto podría no estar disponible y depende del proveedor de contenidos del canal. El estilo en el que se muestra el teletexto podría variar dependiendo del canal emisor.
 
+![TXT](http://static.energysistem.com/images/manuals/42510/55cddd1a8d3a1.jpg)
+
 Pulsa *"ARRIBA / ABAJO"* (11) para seleccionar el idioma del teletexto.
 
 Pulsa *"OK"* (22) para entrar en el idioma seleccionado.
@@ -76,6 +86,8 @@ Opcionalmente puedes navegar por las secciones marcadas con los colores "Rojo", 
 Pulsa *"SUBTITLE"* (26) durante la emisión de TV, reproducción multimedia o reproducción de *"Mis Grabaciones"* para acceder al menú de subtítulos.
 La emisión de subtítulos podría no estar disponible en todos los canales sintonizados y depende del proveedor de contenidos.
 
+![Subtitle](http://static.energysistem.com/images/manuals/42510/55cddb486974a.jpg)
+
 Pulsa *"IZQUIERDA / DERECHA"* (12) para seleccionar el origen de los subtítulos entre teletexto o digital. Esta opción puede ser útil cuando una de las dos opciones no esté disponible.
 
 Pulsa *"ARRIBA / ABAJO"* (11) para seleccionar el idioma de subtítulos.
@@ -87,8 +99,12 @@ Pulsa *"OK"* (22) para activar la opción de subtítulos.
 ### Guía de programación electrónica
 Pulsa *"EPG"* (Electronic Programm Guide) (21) en tu mando a distancia para acceder a la guía de programación semanal. Consulta la sección **"TV y Radio"**, dentro del apartado **"Guía de programación electrónica"** para obtener más información.
 
+![EPG](http://static.energysistem.com/images/manuals/42510/55cdd62f23fa1.jpg)
+
 ### Lista de canales
 Pulsa *"VERDE"* (16) para acceder a la lista de canales. Consulta la sección **"TV y Radio"**, dentro del apartado **"Lista de canales"** para obtener más información.
+
+![TV List](http://static.energysistem.com/images/manuals/42510/55cdc5a1a0484.jpg)
 
 ### Función mosaico dinámico de canales
 El mosaico de canales (MSM - Multi screen mosaic) te muestra hasta 9 canales a la vez en pantalla. El canal seleccionado se mostrará en movimiento mientras que el resto mostrarán una instantánea de la emisión actual.
@@ -96,6 +112,8 @@ El mosaico de canales (MSM - Multi screen mosaic) te muestra hasta 9 canales a l
 Esta función es útil para hacer "zapping" rápidamente viendo diferentes emisiones en pantalla.
 
 Pulsa *"MSM"* (27) para mostrar el mosaico dinámico de canales.
+
+![Mosaic](http://static.energysistem.com/images/manuals/42510/55cdd810d8647.jpg)
 
 Despázate por los canales pulsando *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12).
 

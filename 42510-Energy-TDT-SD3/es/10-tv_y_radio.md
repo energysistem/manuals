@@ -4,9 +4,13 @@ En la emisión de TDT podrás encontrar dos tipos de canales, TV y radio. El fun
 
 ### *Lista de canales de TV*
 
-Dentro de esta lista encontrarás las opciones de organización, bloqueo y edición de la lista de canales.
+Dentro de esta lista encontrarás las herramientas de organización, bloqueo y edición de la lista de canales.
 
-* **Favoritos:** Puedes desplazarte por la lista de canales usando las teclas *"ARRIBA / ABAJO"* (11) y elegir tus programas favoritos, organizándolos hasta en 8 categorías diferentes pulsando sobre cada una de las teclas numéricas *<1 a 8>* (14), para incluir o eliminar un canal de una categoría de favoritos ("Noticias", "Deportes", "Cine", "Música", "Compras", "Viajes", "Estilo de vida", "Documentales").
+![TV List](http://static.energysistem.com/images/manuals/42510/55cdc5a1a0484.jpg)
+
+Puedes desplazarte por la lista de canales usando las teclas *"ARRIBA / ABAJO"* (11) y desplazarte por la lista de herramientas pulsando las teclas *"IZQUIERDA / DERECHA"* (12).
+
+* **Favoritos:** Puedes elegir tus programas favoritos, organizándolos hasta en 8 categorías diferentes pulsando sobre cada una de las teclas numéricas *<1 a 8>* (14), para incluir o eliminar un canal de una categoría de favoritos ("Noticias", "Deportes", "Cine", "Música", "Compras", "Viajes", "Estilo de vida", "Documentales").
 
 * **Bloqueo:** Pulsa la tecla *"OK"* (22) para activar o desactivar el bloqueo del canal seleccionado. En caso que hayas activado el bloqueo con contraseña dentro de "Configuración, Contraseña, Bloqueo de canales" te pedirá el código cada vez que selecciones este canal para poder visionarlo.
 
@@ -38,6 +42,8 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
 
 ### *Guía de programación electrónica (EPG)*
 La guía de programación electrónica te permite obtener la programación semanal de los canales de TV. Pulsa el botón *EPG* (21) en tu mando a distancia para acceder a la ventana de la guía.
+
+![EPG](http://static.energysistem.com/images/manuals/42510/55cdd62f23fa1.jpg)
 
 1. Pulsa *"ARRIBA / ABAJO"* (11) para cambiar el canal.
 2. Pulsa *"IZQUIERDA / DERECHA"* (12) para cambiar de programa o seleccionar otra fecha.

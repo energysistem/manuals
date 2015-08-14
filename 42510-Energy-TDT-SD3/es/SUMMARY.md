@@ -11,6 +11,7 @@
 * [Encendido y apagado](07-encendido.md)
 * [Primer uso / Ajustes de inicio](08-primer_uso.md)
 * [Menú principal](09-menu_principal.md)
+* [Ajustes](ajustes/README.md)
 * [TV y Radio](10-tv_y_radio.md)
 * [Multimedia](11-multimedia.md)
 * [Accesorios](12-accesorios.md)
