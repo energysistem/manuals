@@ -10,7 +10,7 @@ En tu mando a distancia, pulsa las flechas *"ARRIBA / ABAJO"* (11) para desplaza
 
 Pulsa el botón *ROJO* (16) en la zona inferior de tu mando a distancia para iniciar la instalación automática de canales. Al finalizar, el dispositivo guardará los ajustes y canales encontrados y podrás disfrutar de los canales de TDT o escuchar la radio.
 
-
+![Tuned](http://static.energysistem.com/images/manuals/42510/55cdb383ab142.jpg)
 
 
 
