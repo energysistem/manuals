@@ -1,6 +1,6 @@
 ## Primer uso / Ajustes de inicio
 
-![Initial Settings](http://static.energysistem.com/images/manuals/42510/55cdb20b1d10d.jpg)
+![Initial Settings](http://static.energysistem.com/images/manuals/42510/55cdb60922504.jpg)
 
 Al instalar por primera vez, o restaurar los ajustes de inicio, tu SD3 mostrará automáticamente la pantalla de configuración inicial para la realizar la configuación básica acerca de la localización, idioma de menú, audio, subtítulos, etc., e iniciar la búsqueda de canales.
 
