@@ -1,6 +1,6 @@
 ## Cuidado y Mantenimiento
 
-* No expongas tu *Energy Tower CC1 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
+* No expongas tu *Energy Tower CT1 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
 
 * No uses productos de limpieza corrosivos o abrasivos.
 

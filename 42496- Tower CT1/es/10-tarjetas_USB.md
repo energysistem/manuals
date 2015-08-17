@@ -2,10 +2,10 @@
 
 Para reproducir archivos en formato MP3, inserta una memoria externa USB o una tarjeta de memoria SDMMC en las ranuras correspondientes, () y () respectivamente.
 
-En ese momento el *Energy Tower CC1 Bluetooth* reproducirá desde la memoria externa insertada automáticamente.
+En ese momento el *Energy Tower CT1 Bluetooth* reproducirá desde la memoria externa insertada automáticamente.
 Visualizarás en el display "USB" ó "SD" según el tipo de memoria que insertes.
 
-Si apagas el *Energy Tower CC1 Bluetooth* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
+Si apagas el *Energy Tower CT1 Bluetooth* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
 
 Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 

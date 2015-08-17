@@ -1,6 +1,6 @@
 ## Mando a distancia
 
-Mediante el mando a distancia puedes controlar todas las posibilidades que ofrece el *Energy Tower CC1 Bluetooth*.
+Mediante el mando a distancia puedes controlar todas las posibilidades que ofrece el *Energy Tower CT1 Bluetooth*.
 
 * Apagado y encendido del equipo.
 
