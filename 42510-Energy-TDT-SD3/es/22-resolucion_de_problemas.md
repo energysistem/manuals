@@ -1,9 +1,9 @@
 ## Resolución de problemas
 
-Si tras la lectura de este manual y la instalación de tu TDT tienes alguna dificultad que no puedas resolver, por favor consulta esta tabla de resolución de problemas más comunes.
+Si tras la lectura de este manual y la instalación de tu TDT tienes alguna dificultad que no puedas resolver, por favor consulta esta tabla de resolución de problemas más comunes.
 
 | Problema | Causa posible | Qué hacer |
-| -- | -- | -- |
+|:-------|:-------|:-------|
 | La luz de frontal del dispositivo está apagada | El equipo está desenchufado | Comprueba que el cable de alimentación esté enchufado correctamente |
 | Señal no encontrada | La antena está desconectada | Comprueba que el cable de antena esté enchufado correctamente |
 || La instalación de antena no es correcta | Consulta a tu antenista |
