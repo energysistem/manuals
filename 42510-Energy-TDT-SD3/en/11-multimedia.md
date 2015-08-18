@@ -1,107 +1,106 @@
 ## Multimedia
-Dentro del menú Multimedia podrás visualizar las imágenes, música y videos que tengas almacenados en un dispositivo USB. Para poder acceder a este menú necesitaras tener conectado tu dispositivo USB al puerto USB de tu Energy TDT SD3, usando el cable USB host incluido.
+Once the multimedia menu is opened, you will be able to display the images, music and videos saved on your USB device. In order to access this menu, you will first need to connect your USB device to the USB port of your Energy TDT SD3 using the USB host cable that is included.
 
-Tu dispositivo USB debe tener formato FAT o FAT32 para que tu Energy TDT SD3 lo reconozca correctamente.
+Your USB device must have a FAT or FAT37 format in order for your Energy TDT SD3 to recognize it correctly.
 
-### Mi Álbum
-El menú Mi Álbum te permite visualizar imágenes en los formatos JPEG, BMP y GIF.
+### My Album
+ “My Album” menu enables you to display images in JPEG, BMP and GIF formats.
 
-Se mostrarán las miniaturas de las imágenes que contenga la carpeta raíz del dispositivo, en caso de que no hayan imágenes en esta carpeta, se mostrará la vista de estructura de carpetas, y podrás seleccionar la carpeta de tu elección. Puedes acceder al modo de vista "carpetas" pulsando la tecla *"AZUL"* (27) en tu mando a distancia. Pulsa *"EXIT"* (20) para volver a la vista de miniaturas.
+Images in the device root folder will be shown as thumbnail view. In case there are no images in this folder, the folder structure view will be shown and thus, you will be able to choose the folder you prefer. You can access the “folder” view mode by pressing the *"BLUE"* button (27) of your remote control. Press *"EXIT"* (20) to return to the thumbnail view.
 
 
-Puedes pulsar las flechas *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para desplazarte por las miniaturas de imágenes y carpetas. Pulsa *"OK"* (22) para visualizar la imagen seleccionada. Pulsa de nuevo *"OK"* (22) para iniciar el modo presentación. El modo presentación muestra todas las imágenes contenidas en la carpeta automáticamente. Pulsa *"INFO"* (18) para ver los controles disponibles.
+You can press the *"UP / DOWN"* (11) and *"LEFT / RIGHT"* arrow buttons (12) to change from one thumbnail (images and folders) to the other. Press *"OK"* (22) to display the selected image. Press  *"OK"* (22) once again to start the slideshow mode. The display mode shows all images saved on a folder automatically. Press *"INFO"* (18) to see all available control settings.
 
 #### Zoom
-Pulsa *"ROJO"* (16) para aumentar o reducir el zoom de la imagen. Puedes elegir entre 25, 50, 100, 150 y 200%.
-Cuando la imagen se encuentra aumentada por encima del 100%, puedes desplazarte usando las *teclas direccionales* (11) y (12).
+Press the *"RED"* button (16) to zoom in or out the image. You can choose between 25%, 50%, 100%, 150% and 200%.
+When the image has been zoomed to more than 100%, you can move around the screen using the *arrow buttons* (11) and (12).
 
-#### Rotación
-Pulsa *"IZQUIERDA / DERECHA"* (12) para rotar la imagen en el sentido de las agujas del reloj o a la inversa.
+#### Rotation
+Press the *"LEFT / RIGHT"* arrow buttons (12) to rotate the image clockwise other anticlockwise.
 
-Pulsa *"AMARILLO / AZUL"* (27) para reflejar la imagen, volteando en dirección horizontal o vertical.
+Press the *"YELLOW / BLUE"* button (27) to mirror the image, flipping it horizontally or vertically.
 
-#### Presentación
-Pulsa *"OK"* (22) para ver la imagen seleccionada. Pulsa de nuevo para iniciar el modo presentación.
+#### Presentation
+Press *"OK"* (22) to display the selected image. Press it once again to start the presentation mode.
 
-Pulsa *"ROJO"* (16) para pausar o reanudar la presentación.
+Press the *"RED"* button (16) to pause or resume the presentation.
 
-Puedes escuchar música de fondo mientras dura la presentación. Pulsa *"VERDE"* (16) para seleccionar el archivo de audio.
+You can listen to background music during the presentation. Press the *"GREEN"* button (16) to select the audio file.
 
-Pulsa *"AMARILLO"* (27) para seleccionar el modo de repetición.
+Press the *"YELLOW"* button (27) to select the AutoRepeat mode.
 
-Pulsa *"AZUL"* (27) para ajustar el tiempo de intervalo entre imágenes.
+Press the *"BLUE"* button (27) to adjust the range of time between images.
 
-Durante la presentación puedes pasar las imágenes de forma manual hacia adelante o hacia atrás pulsando las teclas *"ARRIBA / ABAJO"* (11) respectivamente.
-
-
-### Mi Música
-Dentro de este menú podrás escuchar la música de tu dispositivo USB en los formatos MP3 y WMA.
-
-Durante la reproducción de música podrás ver en pantalla la barra de progreso y un analizador de frecuencias.
-
-Pulsa *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para desplazarte por las carpetas y archivos, y pulsa *"OK"* (22) para seleccionar.
-
-Pulsa *"ROJO"* (16) para pausar o reanudar la reproducción musical.
-
-Pulsa *"VERDE"* (16) para detener.
-
-Pulsa *"AMARILLO"* (27) para seleccionar el modo de repetición.
-
-Pulsa *"AZUL"* (27) para ajustar el avance rápido a velocidad x2, x3, x4 y normal.
-
-Durante la reproducción pulsa *"IZQUIERDA / DERECHA"* (12) para ajustar el volumen.
+You can change from one image to another manually during the presentation by pressing the corresponding *"UP / DOWN"* buttons (11).
 
 
-### Mis Películas
-Dentro del menú Mis Películas podrás reproducir los archivos de vídeo contenidos en tu dispositivo USB que sean de resolución estándar (SD) en los formatos MPEG2, Divx y Xvid. No todos los formatos ni contenedores de video o audio son compatibles.
+### My Music
+Through this menu, you will be able to listen to your USB stick’s music files in MP3 and WMA formats.
 
-Pulsa *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para desplazarte por las carpetas y archivos, y pulsa *"OK"* (22) para seleccionar carpetas o reproducir el fichero seleccionado.
+You will be able to see the progress bar and a frequency analyzer on screen while the music is playing.
 
-Pulsa Pulsa *"INFO"* (18) para ver los controles disponibles.
+Press the *"UP / DOWN"* (11) and the *"LEFT / RIGHT"* arrow buttons (12) to move through folders and files and press *"OK"* (22) to select.
 
-Pulsa *"ROJO"* (16) para pausar o reanudar la reproducción musical.
+Press the *"RED"* button (16) to pause or resume the music.
 
-Pulsa *"VERDE"* (16) para avanzar fotograma a fotograma.
+Press the *"GREEN"* button (16) to stop.
 
-Pulsa *"AMARILLO / AZUL"* (27) para retroceder y avanzar rápidamente a velocidad x2, x4, x8, x16, x32 y normal.
+Press the *"YELLOW"* button (27) to select the AutoRepeat mode.
 
+Press the *"BLUE* button (27) to adjust the speed (x2, x3, x4 or standard) of the fast forward function..
 
-### Mis Grabaciones
-Dentro de este menú puedes ver los programas de televisión digital terrestre grabados usando tu dispositivo de almacenamiento USB, y configurar las opciones de grabación y gestión de las unidades de almacenamiento.
-
-Ten en cuenta que el dispositivo de almacenamiento USB debe tener  formato FAT o FAT32 para que tu Energy TDT SD3 lo reconozca correctamente. Es posible que hayas de formatear tu dispositivo usando este menú para que el dispositivo funcione adecuadamente. Usa esta función con cuidado, ya que formatear tu dispositivo supone el borrado de todos sus datos.
-
-#### Lista de grabaciones.
-Esta pantalla muestra la lista de grabaciones contenidas en el dispositivo de almacenamiento USB. También puedes acceder en cualquier momento a esta pantalla pulsando la tecla *"REC LIST"* (13) de tu mando a distancia.
-
-Pulsa *"ARRIBA / ABAJO"* (11) para desplazarte por la lista, o *"IZQUIERDA / DERECHA"* (12) para pasar páginas completas.
-
-Pulsa *"OK"* (22) para reproducir la grabación.
-
-Pulsa *"ROJO"* (16) para borrar el programa grabado.
-
-Pulsa *"INFO"* (18) para cambiar de dispositivo USB (en el caso en que tengas conectados varios dispositivos de almacenamiento a través de un concentrador USB).
+Press the *"LEFT / RIGHT"* arrow buttons (12) while listening to music to adjust the volume.
 
 
-#### Dispositivo de grabación
-En este menú puedes seleccionar el dispositivo y la partición donde tu Energy TDT SD3 guardará las grabaciones de televisión digital terrestre.
+### My films
+Through “My films” menu, you will be able to play the video files in MPEG2, Divx and Xvid formats with standard resolution (SD) saved on your USB stick. Not all formats nor all video or audio file containers are compatible.
 
-También podrás formatear particiones o dispositivos USB completos. Te recomendamos que uses esta opción cuando vayas a usar una unidad de almacenamiento para realizar grabaciones, pero ten en cuenta que el formateo borrará todos los datos del disco o de la partición.
+Press the *"UP / DOWN"* (11) and the *"LEFT / RIGHT"* arrow buttons (12) to move through folders and files and press *"OK"* (22) to select folders or play the selected file.
 
-Pulsa *"VERDE"* (16) para formatear el dispositivo USB completo.
-Pulsa *"ROJO"* (16) para formatear una partición del dispositivo USB de almacenamiento.
+Press *"INFO"* (18) to see all available control settings.
 
-#### Preferencias de grabación
+Press the *"RED"* button (16) to pause or resume the music.
 
-* **Capacidad Time Shift:** Muestra la capacidad destinada a almacenamiento para la función *"Time Shift"*. Esta función te permite pausar o reproducir hacia atrás una emisión de televisión y volver hacia delante hastea el punto de emisión. Esta capacidad es reservada automáticamente por el sistema dependiendo de la capacidad del dispositivo USB conectado y no puede ser modificada por el usuario.
-* **Time Shift:** Establece el modo en el que se activa la función *"Time Shift:"*
-    * **Pause.** Se activa al pulsar la tecla *"PLAY / PAUSE"* (19) de tu mando a distancia.
-    * **Auto.** Activo contínuamente durante la reproducción de televisión.
-    * **Off.** *"Time Shift"* desactivado.
-*  **Grabación una tecla:**
-    * **Activado.** La grabación comienza directamente al pulsar la tecla *"RECORD"* (17) en tu mando a distancia.
-    * **Desactivado.** Al pulsar la tecla *"RECORD"* (17) en tu mando a distancia podrás seleccionar la duración de la grabación, en intervalos de 15 minutos. Por defecto vendrá seleccionada la duración indicada por el usuario a continuación.
-* **Periodo de grabación por defecto:** Establece la duración de grabación por defecto desde los 15 minutos hasta las 8 horas, en intervalos de 15 minutos.
+Press the  *"GREEN"* button (16) to move forward a frame.
+
+Press the *"YELLOW / BLUE"* button (27) ) to move forward and backward at x2, x4, x8, x16, x32 or standard speed.
+
+
+### My Recordings
+Through this menu, you will be able to watch the recorded DVB-T programs using your USB stick and set the recording and managing tools for storage units.
+
+Please take into account that the USB unit must have a FAT or FAT32 format in order for your Energy TDT SD3 to recognize it correctly. It is probable that you will need to format your device through this menu to make it work properly. Use this function carefully because formatting a device means deleting all saved data.
+
+#### Recording list
+This screen shows the list of all recordings saved on the USB storage device. You can access this screen by pressing the  *"REC LIST"* (13) of your remote control.
+
+Press *"UP / DOWN"* (11) ) to move through the list or the *"LEFT / RIGHT"* (12) arrow buttons to change from one page to the next one.
+
+Press *"OK"* (22) to play the recording.
+
+Press the *"RED"* button (16) to delete the recorded program.
+
+Press *"INFO"* (18) to change the USB device (in case that you have several storage units connected through a USB hub). 
+
+#### Recording unit
+In this menu, you can select the device and the partition in which your Energy TDT SD3 will save the DVB-T recordings.
+
+You will be also able to format partitions or whole USB units. We recommend to choose this option if you are going to use a storage unit to make recordings. Nevertheless, keep in mind that the formatting will delete all data saved on the disc or partition.
+
+Press the *"GREEN"* button (16) to format the whole USB unit.
+Press the *"RED"* button (16) to format a partition of the USB storage unit.
+
+#### Recording preferences
+
+* **Time Shift capacity:** shows the storage capacity for the *"Time Shift"* function. This function enables to pause or play in reverse a tv program and move it forward until you reach the current broadcasting time. This storage capacity is automatically reserved by the system depending on the storage capacity of the connected USB and cannot be modified by the user.
+* **Time Shift:** sets the mode that activates the *"Time Shift:"* function:
+    * **Pause.** You can activate it by pressing the *"PLAY / PAUSE"* button (19) of your remote control.
+    * **Auto.** Always on while the file is being played on television.
+    * **Off.** *"Time Shift"* off.
+*  **One button recording:**
+    * **On.** The recording starts directly when pressing the *"RECORD"* button (17) on your remote control.
+    * **Off.** By pressing the *"RECORD"* button (17) ) on your remote control, you will be able to select the recording time in 15 minutes intervals. The recording time chosen by the user will be selected by default.
+* **Recording time by default:** sets the recording time by default from 15 minutes to 8 hours in intervals of 15 minutes.
 
 
 
