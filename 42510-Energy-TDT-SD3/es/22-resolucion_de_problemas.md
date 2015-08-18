@@ -1,6 +1,6 @@
 ## Resolución de problemas
 
-Si tras la lectura de este manual y la instalación de tu TDT tienes alguna dificultad que no puedas resolver, por favor consulta esta tabla de resolución de problemas más comunes.
+Si tras la lectura de este manual y la instalación de tu TDT tienes alguna dificultad que no puedas resolver, por favor consulta esta tabla de resolución de problemas más comunes.
 
 | Problema | Causa posible | Qué hacer |
 |:-------|:-------|:-------|
