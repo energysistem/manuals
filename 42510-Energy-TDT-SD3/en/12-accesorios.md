@@ -1,7 +1,7 @@
-## Accesorios
+## Accesories
 
-* **Gomoku.** Divertido juego de 5 en línea para poner a prueba tu destreza contra la máquina. En tu mando a distancia, pulsa las teclas *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para establecer el modo de juego y la dificultad. Pulsa *"OK"* (22) para iniciar el juego. Durante la partida usa las teclas *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para cambiar la posición y *"OK"* (22) para colocar las fichas.
-* **Calendario.** Te muestra año, mes y día.
-* **Calculadora.** Sencilla calculadora para el día a día.
+* **Gomoku:** entertaining five in a row game to put your skill to the test against the device. Press the *"UP / DOWN"* (11) and *"LEFT / RIGHT"* arrow buttons (12) on your remote control to set the game mode and the degree of difficulty. Press “OK” *"OK"* (22) to start the game. Press the  *"UP / DOWN"* (11) e *"LEFT / RIGHT"* arrow buttons (12) to change the position and  press *"OK"* (22) to place the Go pieces.
+* **Calendar:** shows the year, month and day.
+* **Calculator:** simple calculator for your everyday life.
 
 
