@@ -79,7 +79,7 @@ Una vez seleccionado el idioma pulsa las *teclas numéricas* para seleccionar un
 
 
 
-Opcionalmente puedes navegar por las secciones marcadas con los colores "Rojo", "Verde", "Amarillo" o "Azul", pulsando en tu mando a distancia sobre estos botones de color (17) y (28).
+Opcionalmente puedes navegar por las secciones marcadas con los colores "Rojo", "Verde", "Amarillo" o "Azul", pulsando en tu mando a distancia sobre estos botones de color (16) y (27).
 
 ### Subtítulos
 
