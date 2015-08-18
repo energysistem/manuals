@@ -1,27 +1,32 @@
-## Resolución de problemas
+## Troubleshooting
 
-Si tras la lectura de este manual y la instalación de tu TDT tienes alguna dificultad que no puedas resolver, por favor consulta esta tabla de resolución de problemas más comunes.
+If you have any difficulties that you are not able to solve after reading this user’s manual and installing your DVB-T receiver, please consult the following troubleshooting chart with the most common problems:
 
-| Problema | Causa posible | Qué hacer |
-| -- | -- | -- |
-| La luz de frontal del dispositivo está apagada | El equipo está desenchufado | Comprueba que el cable de alimentación esté enchufado correctamente |
-| Señal no encontrada | La antena está desconectada | Comprueba que el cable de antena esté enchufado correctamente |
-|  | La instalación de antena no es correcta | Consulta a tu antenista |
-|  | Fuera de la zona de cobertura de señal de televisión TDT | Consulta con tu antenista |
-| No hay imagen ni sonido | Cable SCART (Euroconector) mal conectado | Revisa la conexión del cable SCART entre tu dispositivo y el televisor |
-|  | El dispositivo está desenchufado | Comprueba que el cable de alimentación esté enchufado correctamente |
-|  | Estás viendo una página en negro dentro del teletexto | Sal del modo teletexto |
-| No hay imagen pero hay sonido | Estás sintonizando un canal de Radio | Si quieres recibir imagen necesitas sintonizar un canal de TV |
-| Imágenes pixeladas | Antena mal orientada o instalación insuficiente o en mal estado | Consulta a tu antenista |
-| He cambiado el dispositivo a otra estáncia, y ahora la señal no se recibe correctamente | La señal se ha ido debilitando al pasar por un sistema de distribución | Consulta a tu antenista |
-| Mensaje de canal codificado | Estás viendo un canal que requiere de un decodificador | Selecciona otro canal |
-| No puedo ver algunos canales | Estás sintonizando un canal de alta definición HD  | Tu Energy TDT SD3 es un sintonizador que permite visualizar los canales de definición estándar SD, cambia a la versión SD del mismo canal |
-|  | Estás visualizando un canal codificado  | Cambia a un canal de TV que no se encuentre codificado |
-| Mensaje de contraseña errónea | Has introducido una contraseña errónea | Introduce la contraseña correcta. Si has olvidado la contraseña puedes usar la contraseña "maestra", que es "1397", y restablecer posteriormente por una de tu elección. |
-| El mando a distancia no funciona | El dispositivo está desenchufado | Comprueba las conexiones |
-|  | La línea de visión entre el mando y el dispositivo está obstaculizada | Despeja los obstaculos entre el mando y el dispositivo |
-|  | Las pilas del mando a distancia se encuentran colocadas incorrectamente | Comprueba que la colocación de la polaridad de las pilas es correcta |
-|  | Las pilas del mando a distancia se han agotado | Sustituye las pilas por unas nuevas |
+| Problem | Cause  | Solution |
+|:-------|:-------|:-------|
+| The front light of the device is off | The system is not plugged in | Check up if the power cable is plugged into the socket correctly |
+| Signal not found | The antenna is off | Check up if the cable of the antenna is plugged into the socket correctly |
+|| The installation of the antenna has not been carried out correctly | Consult your technician |
+|| No DVB-T signal range area  | Consult your technician |
+| No image and no sound | Power cable (Europlug) not plugged in correctly | Check up that  the SCART cable is correctly plugged into your tv |
+|| The device is not plugged in | Check up if the power cable is plugged in correctly |
+|| A black page is displayed on the teletext screen | Leave the teletext mode |
+| No image, only sound | You have tuned in to a radio channel | If you want to see images, you need to tune in to a TV channel |
+| Pixelated images | Antenna not positioned correctly or incomplete/damaged system  | Consult your technician|
+| I have placed the device in another room and now, the signal cannot be received correctly | The signal has lost power while going through a signal splitter | Consult your technician |
+| “Encrypted channel” | You are viewing a channel that needs a decoder| Select another channel |
+| I cannot watch some channels | You have tuned in to a channel in HD| Your Energy TDT SD3 is a tuner that enables you to watch  SD channels, change to the SD version of the same channel ||| You are trying to watch a locked channel | Change to an unlocked TV channel |
+| “Wrong password” | You have entered a wrong password | Enter the correct password. If you have forgotten your password, you can enter the master password which is "1397" and change it later on for one of your choice. |
+| The remote control doesn’t work | The device is not plugged in | Check up the connections |
+|| The line of sight between the remote control and the device is not  clear | Put away the objects that stand between the remote control and the device |
+|| The batteries of the remote control are not placed correctly | Check up that the batteries are placed correctly taking into account their polarity |
+|| The batteries of the remote control  have run down | Replace them for new ones |
+
+
+
+
+
+
 
 
 
