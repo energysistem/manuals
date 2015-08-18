@@ -1,105 +1,105 @@
-## Funcionamiento TDT
+## DVB-T operation
 
-### Información
-Durante las emisiones de televisión digital y radio pulsa *"INFO"* (18) para visualizar la barra de información.
+### Information
 
-La barra de información muestra número y nombre del canal, hora actual, programación actual y siguiente, información de teletexto y subtítulos, y atributos y estados del canal como "bloqueado", "codificado", "favorito"...
+In order to display the information bar, press the *"INFO"* button (18) when watching/hearing digital tv and radio programs.
 
-Una segunda pulsación de la tecla *"INFO"* (18), visualiza información detallada de la programación actual.
+The information bar shows the channel’s number and name, current time, current and coming program, teletext information and subtitles as well as channel’s characteristics and states such as “locked”, “encrypted”, “favourite”…
 
-Una tercera pulsación de la tecla *"INFO"* (18), muestra información técnica acerca del canal, como la intensidad y la calidad de la señal.
+The detailed information of the current programs will be displayed by pressing a second time the *"INFO"* button (18).
 
-
-### Cambiar de canal
-Puedes cambiar de canal haciendo cualquiera de estas operaciones:
-- Pulsando las teclas *"CH+"* / *"CH-"* (11).
-- Marcando el número de canal usando el teclado numérico de tu mando a distancia (14). Si el canal introducido no existe no se realizará ninguna operación.
-- Pulsando la tecla *"RECALL"* (25), para volver al canal seleccionado justo antes del actual. Esta operación es útil, por ejemplo, cuando estás siguiendo las emisiones de dos canales distintos, y quieres cambiar entre ellos.
+The technical data of the channel as well as the intensity and quality of the signal will be shown by pressing a third time the *"INFO"* button (18).
 
 
-### Ajustar el volumen
-Pulsa las teclas *"VOL+"* / *"VOL-"* (12) para ajustar el volumen del sonido. Pulsa *"MUTE"* (9) para desactivar o activar el sonido.
-
-Si ajustas el volumen mientras el sonido se encuentra desactivado con la función *"MUTE"*, se activará automáticamente.
-
-
-### Lista de canales
-Pulsa *"OK"* (22) para mostrar la lista de canales.
-
-Pulsa las teclas *"ARRIBA / ABAJO"* (11) para cambiar de canal e *"IZQUIERDA / DERECHA"* (12) para pasar páginas completas de canales.
-
-Pulsa *"OK"* (22) de nuevo para visualizar el canal seleccionado.
-
-### Audio en los canales
-Puedes cambiar el canal y la pista de idioma de audio reproducidos durante las emisiones de televisión (*).
-
-Pulsa *"AUDIO"* (15) para mostrar la configuración
-
-#### (*) La configuración de la pista y canal de audio podrá no estar disponible y dependerá de la emisión.
-
-Pulsa *"ARRIBA / ABAJO"* (11) para seleccionar el canal, la pista de audio o el modo de sonido.
-
-Pulsa *"IZQUIERDA / DERECHA"* (12) para ajustar los valores.
-
-### Pausa
-
-En cualquier momento puedes pausar la reproducción de televisión pulsando la tecla *"PLAY/PAUSE"* (19) de tu mando a distancia. Necesitarás tener activada la opción de "Timeshift" comentada en la sección **"Multimedia"** dentro del apartado **"Preferencias de grabación"**.
-
-Pulsa de nuevo para reanudar la reproducción.
-
-Si has activado la pausa en algún momento, adicionalmente puedes pulsar las teclas *"REV"* / *"FWD"* (28) para desplazarte por la grabación hasta el punto actual de retransimisión de televisión.
-
-### Favoritos
-
-Si en la sección **"TV y Radio"**, dentro del apartado **"Favoritos"**, hiciste una selección de tus canales favoritos, puedes pulsar la tecla *"FAVORITE"* (23) en tu mando a distancia para acceder a ellos.
-
-Pulsa *"AMARILLO"* (27) para seleccionar el grupo de favoritos.
-
-Pulsa *"CH+"* / *"CH-"* (11) para ir cambiando de canal dentro del mismo grupo de favoritos.
-
-### Teletexto
-
-Pulsa "TEXT" (26) para acceder al menú teletexto del canal que estés visionando en ese momento. Ten en cuenta que el modo teletexto podría no estar disponible y depende del proveedor de contenidos del canal. El estilo en el que se muestra el teletexto podría variar dependiendo del canal emisor.
-
-Pulsa *"ARRIBA / ABAJO"* (11) para seleccionar el idioma del teletexto.
-
-Pulsa *"OK"* (22) para entrar en el idioma seleccionado.
-
-Una vez seleccionado el idioma pulsa las *teclas numéricas* para seleccionar una página o *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12) para pasar las páginas.
+### Changing channels
+You can change channels by choosing any of the following options:
+- By pressing the *"CH+"* / *"CH-"* buttons (11).
+- By entering the channel’s number through the number buttons on your remote control (14). If the entered channel number does not exist, no action will take place.
+- By pressing the *"RECALL"* button (25) to return to the previous selected channel. This feature is useful if you are, for instance, watching programs on two different channels and you want to switch between them.
 
 
+### Adjust the volume
+Press the *"VOL+"* / *"VOL-"* buttons (12) to adjust the sound volume. Press *"MUTE"* (9) to turn the sound on or off.
 
-Opcionalmente puedes navegar por las secciones marcadas con los colores "Rojo", "Verde", "Amarillo" o "Azul", pulsando en tu mando a distancia sobre estos botones de color (17) y (28).
-
-### Subtítulos
-
-Pulsa *"SUBTITLE"* (26) durante la emisión de TV, reproducción multimedia o reproducción de *"Mis Grabaciones"* para acceder al menú de subtítulos.
-La emisión de subtítulos podría no estar disponible en todos los canales sintonizados y depende del proveedor de contenidos.
-
-Pulsa *"IZQUIERDA / DERECHA"* (12) para seleccionar el origen de los subtítulos entre teletexto o digital. Esta opción puede ser útil cuando una de las dos opciones no esté disponible.
-
-Pulsa *"ARRIBA / ABAJO"* (11) para seleccionar el idioma de subtítulos.
-
-Pulsa *"OK"* (22) para activar la opción de subtítulos.
+If you adjust the volume while the sound is off (after having used the *"MUTE"* function), it will turn on automatically.
 
 
+### List of channels
+Press *"OK"* (22) to display the list of channels.
 
-### Guía de programación electrónica
-Pulsa *"EPG"* (Electronic Programm Guide) (21) en tu mando a distancia para acceder a la guía de programación semanal. Consulta la sección **"TV y Radio"**, dentro del apartado **"Guía de programación electrónica"** para obtener más información.
+Press the *"UP / DOWN"* arrow buttons (11) to change channels or the *"LEFT / RIGHT"* arrow buttons (12) to change from one page of channels to the next one.
 
-### Lista de canales
-Pulsa *"VERDE"* (16) para acceder a la lista de canales. Consulta la sección **"TV y Radio"**, dentro del apartado **"Lista de canales"** para obtener más información.
+Press *"OK"* (22) once again to show the selected channel.
 
-### Función mosaico dinámico de canales
-El mosaico de canales (MSM - Multi screen mosaic) te muestra hasta 9 canales a la vez en pantalla. El canal seleccionado se mostrará en movimiento mientras que el resto mostrarán una instantánea de la emisión actual.
+### Audio options of the channels
+You can change the channel and the audio track to a different language while watching tv (*).
 
-Esta función es útil para hacer "zapping" rápidamente viendo diferentes emisiones en pantalla.
+Press *"AUDIO"* (15) to show the settings.
 
-Pulsa *"MSM"* (27) para mostrar el mosaico dinámico de canales.
+#### (*) The track and audio channel settings are not always available and will depend on the program you are watching.
 
-Despázate por los canales pulsando *"ARRIBA / ABAJO"* (11) e *"IZQUIERDA / DERECHA"* (12).
+Press the *"UP / DOWN"* arrow buttons (11) to select the channel, the audio track or the sound mode. 
 
-Pulsa *"OK"* (22) para visualizar el canal seleccionado o pulsa *"EXIT"* (20) para volver a la emisión anterior.
+Press the *"LEFT / RIGHT"* arrow buttons (12) to adjust values.
+
+### Pause
+
+You can pause the tv broadcast any time by pressing the *"PLAY/PAUSE"* (19) button on your remote control. You will need to have switched on the "Timeshift" option, which has been explained in the point  **"Multimedia"** under **"Recording preferences"**.
+
+Press once again to resume the broadcast.
+
+ If you have turned on the pause option at a certain point in time, you can additionally press *"REV"* / *"FWD"* (28) to move through the recording until you reach the current broadcasting time.
+
+### Favourites
+
+If you made a selection of your favourite channels in the **"TV y Radio"** under **"Favourite"**, you can access it by pressing the *"FAVOURITE"* button (23) on your remote control.
+
+Press the *"YELLOW"* button (27) to select a group of favourite channels.
+
+Press *"CH+"* / *"CH-"* (11) to change channels within the same group of favourite channels.
+
+### Teletext
+
+Press "TEXT" (26) to access the teletext menu of the channel that you are currently watching. Please take into account that the teletext mode is not always available and will depend on the channel content provider. The style in which the teletext is displayed may vary depending on the channel.
+
+Press the *"UP / DOWN"* arrow buttons (11) to select the language in which the teletext should be displayed.
+
+Press *"OK"* (22) to enter the menu of the selected language.
+
+Once the language has been selected, press the *number buttons* to select a page or the *"UP / DOWN"* (11) or *"LEFT / RIGHT"* arrow buttons (12) to change from one page to the next one. 
+
+
+Additionally, you can move through the sections marked in “Red”, “Green”, “Yellow” or “Blue” by pressing the buttons (16) and (27) of the same colour on your remote control. 
+
+### Subtitles
+
+Press *"SUBTITLE"* (26) while you watch TV, multimedia content or “My recordings” to access the subtitle menu. 
+The display subtitles option is not always available in all tuned channels and will depend on the content provider.
+
+Press the *"LEFT / RIGHT"* arrow buttons (12) to select the subtitles source: teletext or digital. This option can be useful when one of these options is not available.
+
+Press the *"UP / DOWN"* arrow buttons (11) to select the subtitles’ language.
+
+Press *"OK"* (22) to turn on the subtitles.
+
+
+
+### Electronic Program Guide
+Press *"EPG"* (21) on your remote control to access the weekly program guide. Open the **"Electronic program guide"** through the **"TV and radio"** section to obtain more information.
+
+### List of channels
+Press the *"GREEN"* button (16) to access the list of channels. Open the **"List of channels"** through the **"TV y Radio"** section to obtain more information.
+
+### Dynamic channel mosaic display
+Its channel mosaic display (MSM – Multi screen mosaic) shows up to 9 channels on screen at the same time. The selected channel will be displayed with moving images while the rest will show a snapshot of the current program.
+
+This function is useful to channel-hop in a fast way by displaying different programs on screen.
+
+Press *"MSM"* (27) to show the dynamic channel mosaic display.
+
+Press the *"UP / DOWN"* (11) and *"LEFT / RIGHT"* arrow buttons (12) to move through the channels.
+
+Press *"OK"* (22) to display the selected channel or press *"EXIT"* (20) to return to the previous program.
 
 
 
