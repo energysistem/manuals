@@ -12,8 +12,8 @@ Si tras la lectura de este manual y la instalación de tu TDT tienes alguna difi
 || El dispositivo está desenchufado | Comprueba que el cable de alimentación esté enchufado correctamente |
 || Estás viendo una página en negro dentro del teletexto | Sal del modo teletexto |
 | No hay imagen pero hay sonido | Estás sintonizando un canal de Radio | Si quieres recibir imagen necesitas sintonizar un canal de TV |
-| Imágenes pixeladas | Antena mal orientada o instalación insuficiente o en mal estado | Consulta a tu antenista |
-| He cambiado el dispositivo a otra estáncia, y ahora la señal no se recibe correctamente | La señal se ha ido debilitando al pasar por un sistema de distribución | Consulta a tu antenista |
+| Imágenes pixeladas | Antena mal orientada, instalación deficiente, o en mal estado | Consulta a tu antenista |
+| He cambiado el dispositivo a otra estáncia, y ahora la señal no se recibe correctamente | La señal se ha ido debilitando al dividir la instalación | Consulta a tu antenista |
 | Mensaje de canal codificado | Estás viendo un canal que requiere de un decodificador | Selecciona otro canal |
 | No puedo ver algunos canales | Estás sintonizando un canal de alta definición HD  | Tu Energy TDT SD3 es un sintonizador que permite visualizar los canales de definición estándar SD, cambia a la versión SD del mismo canal |
 || Estás visualizando un canal codificado  | Cambia a un canal de TV que no se encuentre codificado |
