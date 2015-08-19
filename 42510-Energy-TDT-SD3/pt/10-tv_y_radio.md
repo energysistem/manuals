@@ -24,6 +24,27 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
 * **Ordernar:** Te permite ordenar los canales por orden alfabético o de pago y gratuitos.
 #### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
 
+* **Saltar canal:** Activa o desactiva pulsando *"OK"* (22) el salto de canal cuando se realiza el cambio mediante las teclas *"CH+/CH-"* (11). Podrás visualizar estos canales introduciendo manualmente el número del canal mediante las teclas numéricas <0-9> (14).
+
+* **Eliminar:** Elimina permanentemente el canal seleccionado de la lista de canales. Si deseas recuperar este canal posteriormente será necesario realizar una nueva búsqueda de canales.<br> Pulsa *"OK"* (22) o *"VERDE"* (16) para seleccionar entre eliminar uno o todos los canales.
+#### **Nota:** Esta función no aparecerá disponible si la contraseña se encuentra activa y se ha introducido incorrectamente.
+
+* **Búsqueda:** Te permite introducir una palabra clave para realizar búsquedas de canales.
+* 1. Pulsa *"IZQUIERDA/DERECHA"* (12) para seleccionar la opción de búsqueda.
+ 2. Pulsa *"OK"* (22) para acceder a la página de búsqueda.
+ 3. Pulsa *"ARRIBA / ABAJO"* (11), *"IZQUIERDA / DERECHA"* (12), las teclas numéricas *<0-9>* (14), y *"ROJO / VERDE"* (16), para introducir los caracteres.
+ 4. Pulsa *"OK"* (22) para comenzar la búsqueda. Una vez haya concluido se mostrará una lista con los canales coinciden con los criterios de búsqueda.
+ 5. Pulsa *"VERDE"* (16) o *"AMARILLO"* (27) para desplazarte por la lista de resultados de búsqueda.
+
+### *Guía de programación electrónica (EPG)*
+La guía de programación electrónica te permite obtener la programación semanal de los canales de TV. Pulsa el botón *EPG* (21) en tu mando a distancia para acceder a la ventana de la guía.
+
+1. Pulsa *"ARRIBA / ABAJO"* (11) para cambiar el canal.
+2. Pulsa *"IZQUIERDA / DERECHA"* (12) para cambiar de programa o seleccionar otra fecha.
+3. Pulsa *"OK"* (22) para mostrar los detalles del programa seleccionado.
+4. Pulsa *"EXIT"* (20) para volver al menú anterior o salir.
+5. Pulsa *"ROJO"* (16) para entrar en la lista de eventos programados y *"OK"* (22) para incluir el programa seleccionado. En caso de solaparse con otro evento se mostrará un mensaje de advertencia, en caso contrario el evento se añadirá al "Temporizador".
+
 
 
 
