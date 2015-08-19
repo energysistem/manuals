@@ -1,11 +1,12 @@
-## Encendido y apagado
+## Switch on and off
 
-Para encender el Energy SD3 pulsa el botón de encendido / apagado *"STANDBY"* (8) situado en la parte superior izquierda de tu mando a distancia. Podrás ver una luz de color verde en el receptor IR  indicando que se encuentra encendido.
+To turn on the Energy SD3 press the power button *"STANDBY"* (8) on the upper left part of your remote control. You will see a green light in the IR receiver that indicates that it is turned on.
 
 ![Standby](http://static.energysistem.com/images/manuals/42510/5566d71610935.jpg)
 
-Para apagar el dispositivo (Modo de espera o "Standby") mantén pulsado el botón de encendido / apagado *"STANDBY"* (8). El dispositivo entrará entonces en modo de espera y la luz del receptor IR se volverá de color rojo indicando el apagado. En este modo tu TDT SD3 usa la tecnología "Eco Energy" que mantiene el dispositivo en reposo sin apenas consumir energia.
+In order to turn off the device, (Standby mode) hold the power button "STANDBY" (8). The device will enter the standby mode and the IR receiver light will turn red. In this mode, your TDT SD3 uses the "Eco Energy" technology that keeps the device in standby mode without battery consumption.
 
-Si no vas a utilizar el dispositivo por un largo periodo de tiempo te recomendamos que apagues el dispositivo por completo, desconectándolo de la red eléctrica retirando el adaptador de corriente del enchufe.
+If you are not using the device for an extended period, we recommend to completely turn off the device, disconnecting it from the energy network. 
+
 
 
