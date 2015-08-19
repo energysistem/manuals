@@ -1,23 +1,23 @@
-## Principales características
+## Main features
+*	DVB-T tuner MPEG-2.
+*	360° swivel connector to adjust the position and save space when you connect it to your TV without cables thanks to the SCART connector.
+*	Use it through its USB port to play different video formats: SD (DivX, Xvid, AVI, MPG), audio (MP3, WMA) and photos (JPEG, BMP, GIF).
+*	Record DVB-T in MPEG-2 format with digital quality through USB devices. Recording manager.
+*	Timeshift function to pause and resume the DVB-T broadcast.
+*	Tune in the radio with digital quality.
+*	Electronic programme guide (EPG) with event information (recording/notification) 
+*	Dynamic channels mosaic display function (MSM) 
+*	Multilingual OSD menu
+*	Teletext (VBI)
+*	Selectable subtitles between digital channel and teletext.
+*	Channel management: favourites, move, lock, sort and parental control.
+*	Parental control.
+*	Automatic switch off (ECO) and timer (SLEEP).
+*	Games and applications included (Calculator, calendar, connect 5)
+*	Software updated via USB port.
+*	Automatic and manual TV and radio channel search, with storage capacity up to 1000 channels.
+* OFDM 2K/8K mode.
+*	Bandwidth: 7/8 MHz.
+*	File system: FAT/FAT32.
+*	Efficient energy consumption in standby mode contributing to the sustainability of the environment.
 
-- Sintonizador de Televisión Digital Terrestre DVB-T MPEG-2.
-- Cabezal pivotante 360º en tamaño mini para no ocupar espacio conectándolo al televisor directamente sin cables a través del conector SCART (Euroconector).
-- Reproduce a través del puerto USB: vídeo en formato SD (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
-- Graba TDT en formato MPEG-2 con calidad digital a través de dispositivos USB. Gestión de grabaciones.
-- Función de Timeshift para pausar y reanudar la emisión de TDT.
-- Sintoniza radio con calidad digital.
-- Guía de programación semanal electrónica (EPG) con programación de eventos (grabación / aviso).
-- Función mosaico dinámico de múltiples canales en pantalla (MSM).
-- Menú en pantalla OSD multilingüe.
-- Teletexto (VBI).
-- Subtítulos seleccionables entre canal digital y teletexto.
-- Edición de canales: varios tipos de canales favoritos, mover, bloquear, borrar, renombrar y clasificar por temática.
-- Control parental.
-- Función de apagado automático (ECO) y temporizador (SLEEP).
-- Juegos y aplicaciones incluidas (Calculadora, Calendario, 5 en línea).
-- Actualizaciones de software a través del puerto USB.
-- Búsqueda automática y manual de los canales de TV y Radio, con capacidad de memorizar hasta 1000 canales.
-- OFDM Modo 2K/8K.
-- Ancho de banda: 7/8 MHz.
-- Sistema de archivos: FAT / FAT32.
-- Consumo energético eficiente en modo stand by contribuyendo a la sostenibilidad del medio ambiente.
