@@ -79,7 +79,7 @@ Set the parental control rating for a programme, then it will ask for the passwo
 ### *Change password*
 Press "left/right" in your remote control to activate the password change. Use the number button pad *<0-9>* (14) to enter the old password. For security reasons, you must enter the new password twice. If you entered the data correctly an on-screen message appears advising that the password has been successfully changed.
 
-### *Timer (events) *
+### *Timer (events)*
 Your Energy TDT SD3 allows you to turn the device on and display or record a TV channel with an automatic scheduled event.
 You can schedule the recording or display of events manually or automatically through the TV/Radio Guide. 
 During the scheduled events you can press the Volume *"VOL+/VOL-"* (12) and Silence *"MUTE"* (9) buttons. If you press any other button, an on-screen message will ask you if you want to leave the scheduled event. You can display or edit the scheduled events by pressing the *"REC LIST"* (13) button.
