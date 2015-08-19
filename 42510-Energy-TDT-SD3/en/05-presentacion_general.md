@@ -19,18 +19,18 @@
 ### *Remote control*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
 
-8. STANDBY: Change between power on and standby mode.
+8. STANDBY: Switch between power on and standby mode.
 9. MUTE: Turn sound on or off.
 10. MENU: Show main menu
 11. CH+/-: It allows you to change the channel. Up and down arrow.
 12. VOL+/-: It allows you to adjust the volume. Left and right arrow.
-13. RECLIST: It shows the stored recordings list.
-14. NUMBER BUTTONS: Use them to manually enter the channels or numbers in the menu.
-15. TV/RADIO: Change between TV channel selection or radio stations. AUDIO: Select from the audio tracks
-16. RED: Sleep. Programmed shut-down/Red selection button GREEN: List. Channel list. Green selection button.
-17. RECORD: Manual recording of TV channels. STOP: Stop recording or now playing.
-18. INFO: Screen information about the channel you are watching. Press several times to zoom in/disable.
-19. PLAY/PAUSE: Pause/Resume the playback of your TV or the multimedia content (an external storage USB device is needed)
+13. RECLIST: It shows you the stored recordings list.
+14. NUMBER BUTTONS: Use them to manually enter channels numbers, or numbers in the menu.
+15. TV/RADIO: Switch between TV channel selection or radio stations. AUDIO: Select from the audio tracks
+16. RED: Sleep. Programmed shut-down/Red selection button. GREEN: List. Channel list. Green selection button.
+17. RECORD: Manual recording of TV channels. STOP: Stop recording or playing.
+18. INFO: Screen information about the channel you are watching. Press several times to show more info/disable.
+19. PLAY/PAUSE: Pause/Resume the playback of your TV or the multimedia content (an external storage USB device is required)
 20. EXIT: Return/Exit the menu.
 12. EPG: Electronic programme guide.
 22. OK: Selection/confirm button.
@@ -50,7 +50,7 @@ Make sure the field of vision between the remote control and the receiver is fre
 
 ![Sensor Angles](http://static.energysistem.com/images/manuals/42510/5566d47c0d54d.jpg)
 
-If these specifications are reduced and the field of vision between the remote control and the receiver is free of obstacles, maybe the batteries are empty. We recommend replacing the batteries.
+If the remote control range becomes lower, and the field of vision between the remote control and the receiver is free of obstacles, maybe the batteries are empty. We recommend replacing the batteries.
 
 *Battery installation.*
 
@@ -60,7 +60,7 @@ Remove the battery compartment cover in the remote control and slide two AA batt
 
 *Recomendaciones acerca de las baterías.*
 *	Keep the batteries out of the reach of children. 
-*	Do not try to recharge empty batteries. Do not expose them to fire, disassemble or short circuit them. 
+*	Do not try to recharge empty batteries. Do not expose to fire, disassemble or short circuit them. 
 *	Change the batteries once a year for security reasons.
 *	Change both batteries at the same time. Do not mix battery types.
 *	Remove the batteries if you won't be using the remote control for an extended period.
