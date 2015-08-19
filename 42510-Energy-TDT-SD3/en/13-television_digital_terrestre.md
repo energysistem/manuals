@@ -1,13 +1,13 @@
 ## DVB-T operation
 
 ### Information
-In order to display the information bar, press the *"INFO"* button (18) when watching/hearing digital tv and radio programs.
+In order to display the information bar, press the *"INFO"* button (18) when watching/hearing digital tv and radio programmes.
 
 ![Info First Screen](http://static.energysistem.com/images/manuals/42510/55cdbc9c0cd8e.jpg)
 
-The information bar shows the channel’s number and name, current time, current and coming program, teletext information and subtitles as well as channel’s characteristics and states such as “locked”, “encrypted”, “favourite”. . .
+The information bar shows the channel’s number and name, current time, current and coming programme, teletext information and subtitles as well as channel’s characteristics and states such as “locked”, “encrypted”, “favourite”. . .
 
-The detailed information of the current programs will be displayed by pressing a second time the *"INFO"* button (18).
+The detailed information of the current programmes will be displayed by pressing a second time the *"INFO"* button (18).
 
 ![Info Second Screen](http://static.energysistem.com/images/manuals/42510/55cdbd84698b1.jpg)
 
@@ -18,7 +18,7 @@ The technical data of the channel as well as the intensity and quality of the si
 You can change channels by choosing any of the following options:
 - By pressing the *"CH+"* / *"CH-"* buttons (11).
 - By entering the channel’s number through the number buttons on your remote control (14). If the entered channel number does not exist, no action will take place.
-- By pressing the *"RECALL"* button (25) to return to the previous selected channel. This feature is useful if you are, for instance, watching programs on two different channels and you want to switch between them.
+- By pressing the *"RECALL"* button (25) to return to the previous selected channel. This feature is useful if you are, for instance, watching programmes on two different channels and you want to switch between them.
 
 
 ### Adjust the volume
@@ -43,7 +43,7 @@ You can change the channel and the audio track to a different language while wat
 
 Press *"AUDIO"* (15) to show the settings.
 
-#### (*) The track and audio channel settings are not always available and will depend on the program you are watching.
+#### (*) The track and audio channel settings are not always available and will depend on the programme you are watching.
 
 Press the *"UP / DOWN"* arrow buttons (11) to select the channel, the audio track or the sound mode. 
 
@@ -96,8 +96,8 @@ Press *"OK"* (22) to turn on the subtitles.
 
 
 
-### Electronic Program Guide
-Press *"EPG"* (21) on your remote control to access the weekly program guide. Open the **"Electronic program guide"** through the **"TV and radio"** section to obtain more information.
+### Electronic Programme Guide
+Press *"EPG"* (21) on your remote control to access the weekly programme guide. Open the **"Electronic programme guide"** through the **"TV and radio"** section to obtain more information.
 
 ![EPG](http://static.energysistem.com/images/manuals/42510/55cdd62f23fa1.jpg)
 
@@ -107,9 +107,9 @@ Press the *"GREEN"* button (16) to access the list of channels. Open the **"List
 ![TV List](http://static.energysistem.com/images/manuals/42510/55cdc5a1a0484.jpg)
 
 ### Dynamic channel mosaic display
-Its channel mosaic display (MSM – Multi screen mosaic) shows up to 9 channels on screen at the same time. The selected channel will be displayed with moving images while the rest will show a snapshot of the current program.
+Its channel mosaic display (MSM – Multi screen mosaic) shows up to 9 channels on screen at the same time. The selected channel will be displayed with moving images while the rest will show a snapshot of the current programme.
 
-This function is useful to channel-hop in a fast way by displaying different programs on screen.
+This function is useful to channel-hop in a fast way by displaying different programmes on screen.
 
 Press *"MSM"* (27) to show the dynamic channel mosaic display.
 
@@ -117,7 +117,7 @@ Press *"MSM"* (27) to show the dynamic channel mosaic display.
 
 Press the *"UP / DOWN"* (11) and *"LEFT / RIGHT"* arrow buttons (12) to move through the channels.
 
-Press *"OK"* (22) to display the selected channel or press *"EXIT"* (20) to return to the previous program.
+Press *"OK"* (22) to display the selected channel or press *"EXIT"* (20) to return to the previous programme.
 
 
 
