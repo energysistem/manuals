@@ -28,7 +28,7 @@ Puedes desplazarte por la lista de canales usando las teclas *"ARRIBA / ABAJO"* 
 * **Ordernar:** Te permite ordenar los canales por orden alfabético o de pago y gratuitos.
 #### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
 
-* **Saltar canal:** Activa o desactiva pulsando *"OK"* (22) el salto de canal cuando se realiza el cambio mediante las teclas *"CH+/CH-"* (11). Podrás visualizar estos canales introduciendo manualmente el número del canal mediante las teclas numéricas <0-9> (14).
+* **Omitir canal:** Puedes omitir pasar por determinados canales usando las teclas *"CH+/CH-"* (11). Pulsa *"OK"* (22) para activar o desactivar la ocultación de canal. Podrás visualizar estos canales introduciendo manualmente el número del canal mediante las teclas numéricas <0-9> (14).
 
 * **Eliminar:** Elimina permanentemente el canal seleccionado de la lista de canales. Si deseas recuperar este canal posteriormente será necesario realizar una nueva búsqueda de canales.<br> Pulsa *"OK"* (22) o *"VERDE"* (16) para seleccionar entre eliminar uno o todos los canales.
 #### **Nota:** Esta función no aparecerá disponible si la contraseña se encuentra activa y se ha introducido incorrectamente.
