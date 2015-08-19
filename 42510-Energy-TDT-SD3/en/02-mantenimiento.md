@@ -1,4 +1,4 @@
-## ## Care and maintenance
+## Care and maintenance
 
 *	Do not expose your Energy Phone to impacts, dust, direct sunlight, humidity or high temperatures.
 *	Do not use corrosive nor abrasive cleaning products.
