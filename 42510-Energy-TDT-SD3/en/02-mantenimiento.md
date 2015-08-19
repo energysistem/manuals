@@ -1,6 +1,6 @@
 ## Care and maintenance
 
-*	Do not expose your Energy Phone to impacts, dust, direct sunlight, humidity or high temperatures.
+*	Do not expose your Energy SD3 to impacts, dust, direct sunlight, humidity or high temperatures.
 *	Do not use corrosive nor abrasive cleaning products.
 *	Keep the device clean and dust free using a soft, dry cloth. Always disconnect the device from the power supply before cleaning.
 *	The slots and openings of your TDT SD3 are made for ventilation. Do not cover or block them.
