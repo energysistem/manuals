@@ -24,26 +24,26 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
 * **Ordernar:** Te permite ordenar los canales por orden alfabético o de pago y gratuitos.
 #### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
 
-* **Saltar canal:** Activa o desactiva pulsando *"OK"* (22) el salto de canal cuando se realiza el cambio mediante las teclas *"CH+/CH-"* (11). Podrás visualizar estos canales introduciendo manualmente el número del canal mediante las teclas numéricas <0-9> (14).
+* **Change channels:** turn this option on/off by pressing *"OK"* (22) or the *"CH+/CH-"* buttons (11). Enter the number of channel manually using the number buttons from 0 to 9 (14) to see all channels.
 
-* **Eliminar:** Elimina permanentemente el canal seleccionado de la lista de canales. Si deseas recuperar este canal posteriormente será necesario realizar una nueva búsqueda de canales.<br> Pulsa *"OK"* (22) o *"VERDE"* (16) para seleccionar entre eliminar uno o todos los canales.
-#### **Nota:** Esta función no aparecerá disponible si la contraseña se encuentra activa y se ha introducido incorrectamente.
+* **Delete:** removes the selected channel from your channel list permanently. In order to recover it later on, you will have to make a new channel search.<br> Press *"OK"* (22) or the *"GREEN"* button (16) to choose between removing one or all channels.
+#### **Important:** This function will not be available if the password is on and you have not entered it correctly.
 
-* **Búsqueda:** Te permite introducir una palabra clave para realizar búsquedas de canales.
-* 1. Pulsa *"IZQUIERDA/DERECHA"* (12) para seleccionar la opción de búsqueda.
- 2. Pulsa *"OK"* (22) para acceder a la página de búsqueda.
- 3. Pulsa *"ARRIBA / ABAJO"* (11), *"IZQUIERDA / DERECHA"* (12), las teclas numéricas *<0-9>* (14), y *"ROJO / VERDE"* (16), para introducir los caracteres.
- 4. Pulsa *"OK"* (22) para comenzar la búsqueda. Una vez haya concluido se mostrará una lista con los canales coinciden con los criterios de búsqueda.
- 5. Pulsa *"VERDE"* (16) o *"AMARILLO"* (27) para desplazarte por la lista de resultados de búsqueda.
+* **Search:** enables to enter a key word to make a channel search.
+* 1. Press *"LEFT/RIGHT"* (12) to select the search option.
+ 2. Press *"OK"* (22) to access the search page.
+ 3. Press *"UP / DOWN"* (11), *"LEFT / RIGHT"* (12), the number buttons from *<0 to 9>* (14) and the *"RED / GREEN"* button (16) to enter the letters.
+ 4. Press *"OK"* (22) to start searching.  Once the search is finished, a list of channels that match your search criteria will appear.
+ 5.  Press the *"GREEN"* (16) or *"YELLOW"* button (27) to move through the list of search results.
 
-### *Guía de programación electrónica (EPG)*
-La guía de programación electrónica te permite obtener la programación semanal de los canales de TV. Pulsa el botón *EPG* (21) en tu mando a distancia para acceder a la ventana de la guía.
+### *Electronic Programme Guide (EPG)*
+The electronic programme guide enables users to obtain information about the weekly programmes of tv channels. Press the *EPG* button (21) on your remote control to access the guide window.
 
-1. Pulsa *"ARRIBA / ABAJO"* (11) para cambiar el canal.
-2. Pulsa *"IZQUIERDA / DERECHA"* (12) para cambiar de programa o seleccionar otra fecha.
-3. Pulsa *"OK"* (22) para mostrar los detalles del programa seleccionado.
-4. Pulsa *"EXIT"* (20) para volver al menú anterior o salir.
-5. Pulsa *"ROJO"* (16) para entrar en la lista de eventos programados y *"OK"* (22) para incluir el programa seleccionado. En caso de solaparse con otro evento se mostrará un mensaje de advertencia, en caso contrario el evento se añadirá al "Temporizador".
+1. Press *"UP / DOWN"* (11) to change channels.
+2. Press *"LEFT / RIGHT"* (12) to change the programme or to choose another date. 
+3. Press *"OK"* (22) to display the information of the selected programme.
+4. Press *"EXIT"* (20) to return to the previous menu or to exit.
+5. Press the *"RED"* button (16) to enter the list of scheduled events and  *"OK"* (22) para incluir el programa seleccionado. ” to add the selected programme to the list. In case that two events are scheduled at the same time, a warning message will appear on screen. Otherwise, the event will be added to the “Timer”.
 
 
 
