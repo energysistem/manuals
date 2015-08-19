@@ -1,7 +1,5 @@
 ## Principales características
 
-## Principales características
-
 * Batería precargada para uso inmediato.
 * Especialmente diseñada para cargar smartphones.
 * Batería de polímero de litio que, además de resultar más fiable, eficiente y ligera, permite almacenar la máxima carga durante el mayor tiempo posible.
