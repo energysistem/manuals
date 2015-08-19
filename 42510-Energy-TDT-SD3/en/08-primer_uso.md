@@ -1,14 +1,15 @@
-## Primer uso / Ajustes de inicio
+## First use / Start settings
 
 ![Initial Settings](Imagen de settings de inicio.jpg)
 
-Al instalar por primera vez, o restaurar los ajustes de inicio, tu SD3 mostrará automáticamente la pantalla de configuración inicial para la realizar la configuación básica acerca de la localización, idioma de menú, audio, subtítulos, etc., e iniciar la búsqueda de canales.
+When first installing or restoring to start settings, your SD3 will automatically show the start settings screen for the initial setup of the localization, menu language, audio, subtitles, etc. and start the channel search.
 
 ![Keys](http://static.energysistem.com/images/manuals/42510/5566d8ff57510.jpg)
 
-En tu mando a distancia, pulsa las flechas *"ARRIBA / ABAJO"* (11) para desplazarte e *"IZQUIERDA / DERECHA"* (12) para configurar los ajustes.
+Press *"UP/DOWN"* (11) in your remote control to move around and *"LEFT/RIGHT"* (12) for the settings.
 
-Pulsa el botón *ROJO* (16) en la zona inferior de tu mando a distancia para iniciar la instalación automática de canales. Al finalizar, el dispositivo guardará los ajustes y canales encontrados y podrás disfrutar de los canales de TDT o escuchar la radio.
+Press the RED button (16) in the lower part of your remote control to start the automatic channel installation.  At the end, the device will save the settings and channels found and you will enjoy the DVB-T channels or radio stations.
+
 
 
 
