@@ -43,9 +43,9 @@ In this submenu you will set the options related to the settings of the TV, such
 ![TV Settings](xxx.jpg)
 
 * **TV format:**
-* * **4:3 LB (LetterBox):** Select this option if your television has a 4:3 aspect ratio and you want to convert it to 16:9. This conversion causes black bars to appear above and below the image when the broadcasting is 16:9.
-* * **4:3 PS (PanScan):** Select this option if your television has a 4:3 aspect ratio and you want to adjust the image to full screen. This mode zooms in on the image to remove the black bars from the original 16:9 broadcasting, this will also remove the right and the left part of the image.
-* * **16:9 PB (PillarBox) or 16:9 AUTO:** Select this option if your wide screen television has a 16:9 aspect ratio.
+* **4:3 LB (LetterBox):** Select this option if your television has a 4:3 aspect ratio and you want to convert it to 16:9. This conversion causes black bars to appear above and below the image when the broadcasting is 16:9.
+* **4:3 PS (PanScan):** Select this option if your television has a 4:3 aspect ratio and you want to adjust the image to full screen. This mode zooms in on the image to remove the black bars from the original 16:9 broadcasting, this will also remove the right and the left part of the image.
+* **16:9 PB (PillarBox) or 16:9 AUTO:** Select this option if your wide screen television has a 16:9 aspect ratio.
 
 * **TV mode:** Select PAL, NTSC or AUTO depending on the TV system of your localization. The "AUTO" option is the more convenient in most of the situations.
 
