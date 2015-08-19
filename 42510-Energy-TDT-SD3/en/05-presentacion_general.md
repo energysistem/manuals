@@ -1,62 +1,64 @@
-## Presentación general
+## General overview
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
-1. Conector SCART (Euroconector).
-2. Rótula giratoria 360º.
+1. SCART connector.
+2. 360º swivel joint.
 
 ![Side 1](http://static.energysistem.com/images/manuals/42510/555f149545541.jpg)
-3. Conector de entrada de Antena. Conéctala a la toma de antena externa de TV.
-4. Conector de salida de Antena. Usala si necesitas transferir la señal de antena desde tu SD3 a otro dispositivo.
-5. Conector del cable del sensor IR del mando a distancia. Este cable recibe la señal del mando a distancia de tu SD3.
-6. Conector del cable del adaptador de corriente AC/DC.
+3. Antenna input connector. Connect it to the external TV antenna.
+4. Antenna output connector. Use it if you need to transfer the antenna signal from your SD3 to another device.
+5. IR receiver cable connector for the remote control. This cable receives the signal from your SD3.
+6. AC/DC power adapter cable connector. 
 
 ![Side 2](http://static.energysistem.com/images/manuals/42510/555f14657d929.jpg)
-7. Conector del cable USB Host. Conecta tus dispositivos USB externos para reproducir contenido multimedia o realizar grabaciones de TDT.
+7. USB Host cable connector. Connect your external USB devices to play multimedia content or record from the DVB-T.
 
-### *Mando a distancia*
+### *Remote control*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
-8. STANDBY: Conmuta entre encendido / modo de espera.
-9. MUTE: Activa / desactiva el sonido.
-10. MENU: Muestra el menú principal.
-11. CH+/-: Permite cambiar de canal. Flecha arriba y abajo.
-12. VOL+/-: Permite regular el nivel de volumen de sonido. Flecha izquierda y derecha.
-13. RECLIST: Muestra la lista de grabaciones almacenadas.
-14. TECLAS NUMERICAS: Se usan para introducir canales manualmente o números en los menús.
-15. TV/RADIO: Cambia entre selección de canales de TV o emisoras de radio. AUDIO: Selecciona entre las pistas de audio
-16. ROJO: Sleep. Función de apagado programado / Tecla de selección roja. VERDE: List. Listado de canales. Tecla de selección verde.
-17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
-18. INFO: Muestra en pantalla información acerca del canal visionado. Pulsa varias veces para ampliar / desactivar.
-19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV o el contenido multimedia (es necesario un dispositivo de almacenamiento USB externo).
-20. EXIT: Volver / Salir de los menús.
-21. EPG: Guía de programación de en pantalla.
-22. OK: Tecla de selección / confirmar.
-23. FAVORITE: Acceso a los canales favoritos.
-24. GAME: Acceso a juegos y aplicaciones (Gomoku, Calendario y Calculadora).
-25. RECALL: Conmuta entre el canal actual y el anteriormente visionado.
-26. SUBTITLE: Activa o desactiva los subtítulos. TEXT: Muestra el teletexto en los canales en los que se encuentre disponible.
-27. AMARILLO: MSM. Mosaico interactivo de canales / Tecla de selección amarilla. AZUL: Tecla de selección azul.
-28. REV: Marcha atrás rápida en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad. FWD: Avance rápido hacia delante en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad.
+8. STANDBY: Change between power on and standby mode.
+9. MUTE: Turn sound on or off.
+10. MENU: Show main menu
+11. CH+/-: It allows you to change the channel. Up and down arrow.
+12. VOL+/-: It allows you to adjust the volume. Left and right arrow.
+13. RECLIST: It shows the stored recordings list.
+14. NUMBER BUTTONS: Use them to manually enter the channels or numbers in the menu.
+15. TV/RADIO: Change between TV channel selection or radio stations. AUDIO: Select from the audio tracks
+16. RED: Sleep. Programmed shut-down/Red selection button GREEN: List. Channel list. Green selection button.
+17. RECORD: Manual recording of TV channels. STOP: Stop recording or now playing.
+18. INFO: Screen information about the channel you are watching. Press several times to zoom in/disable.
+19. PLAY/PAUSE: Pause/Resume the playback of your TV or the multimedia content (an external storage USB device is needed)
+20. EXIT: Return/Exit the menu.
+12. EPG: Electronic programme guide.
+22. OK: Selection/confirm button.
+23. FAVOURITE: Access to favourite channels.
+24. GAME: Access to games and applications (Gomoku, Calendar and Calculator)
+25. RECALL: Change between current and previous channel.
+26. SUBTITLE: Enable or disable the subtitles. TEXT: Access to the teletext in the channels providing this service.
+27. YELLOW: MSM. Dynamic channels mosaic/Yellow selection button. BLUE: Blue selection button.
+28. REV: Fast rewind when recording or multimedia. Press several times to select the speed. FWD: Fast forward when recording or multimedia. Press several times to select the speed.
 
-Si la función Time Shift se encuentra conectada, usa *"REV" y "FWD"* (28) y  para desplazarte por la emisión de televisión digital terrestre. Puedes consultar más información sobre *"Time Shift"* en la sección "Multimedia" > "Mis Grabaciones".
+If the Time Shift function is connected, use "REV" and "FWD" to move around the DVB-T broadcast. For more information about "Time Shift" go to "Multimedia" > "My Recordings".
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV.
+To use the remote control, point it to the front part of the receiver cable. The receiving cable has a sensor with an adhesive surface on the one end to place it on the front of the television.  Before adhering it, and to ensure a secure installation, make sure the surface is completely smooth, clean it with alcohol and dry it completely. Remove the protection from the adhesive material and paste it on a point near the centre of your TV.
 
-Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción. El mando a distancia tiene 1 emisor de señal IR en la parte superior, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 30 grados en ambos sentidos del receptor.
+Make sure the field of vision between the remote control and the receiver is free of obstacles to ensure the best reception. The remote control has one IR transmitter in the upper part with a range of up to 7 metres from the receiver at an angle of up to 30º in both directions.
+
 
 ![Sensor Angles](http://static.energysistem.com/images/manuals/42510/5566d47c0d54d.jpg)
 
-Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las baterías haya llegado a su fin. Te recomendamos entonces que las sustituyas por unas nuevas.
+If these specifications are reduced and the field of vision between the remote control and the receiver is free of obstacles, maybe the batteries are empty. We recommend replacing the batteries.
 
-*Instalación de las baterías.*
+*Battery installation.*
 
-Retira la tapa del compartimento de las baterías en el mando a distancia y coloca 2 baterías de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las baterías.
+Remove the battery compartment cover in the remote control and slide two AA batteries into it. As shown in the following picture.
 
 ![Batteries](http://static.energysistem.com/images/manuals/42510/5566d5fb06f23.jpg)
 
 *Recomendaciones acerca de las baterías.*
-* Guarda las baterías siempre fuera del alcance de los niños.
-* No intentes cargar las baterías agotadas. No las arrojes al fuego, desmontes o cortocircuites.
-* Cambia las baterías una vez al año por seguridad.
-* Cambia las dos baterías a la misma vez, reemplazándolas por unas del mismo tipo.
-* Retira las baterías del mando a distancia cuando no lo vayas a usar el mando por un tiempo prolongado.
-* Desecha las baterías agotadas de forma responsable. Consulta con las autoridades locales la normativa local en esta materia.
+*	Keep the batteries out of the reach of children. 
+*	Do not try to recharge empty batteries. Do not expose them to fire, disassemble or short circuit them. 
+*	Change the batteries once a year for security reasons.
+*	Change both batteries at the same time. Do not mix battery types.
+*	Remove the batteries if you won't be using the remote control for an extended period.
+*	Dispose of used batteries according to your local environmental laws and guidelines.
+
