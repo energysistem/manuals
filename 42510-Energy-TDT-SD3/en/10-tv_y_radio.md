@@ -1,28 +1,23 @@
-## TV y Radio
+## TV/RADIO:
+In the DVB-T broadcast you will find two types of channels, TV and radio. The operation of the Channel list and the Electronic guide remains identical for both radio and TV. In this section we will explain the operation of the TV version, that you will be able to apply to the radio version.
+### *TV channel list.*
+In this list you will find the options of organisation, lock and editing the channel list.
+* **Favourites:** you can move through the channel list using the *"UP/DOWN"* (11) buttons and choose your favourite channels, sorting them in up to 8 different categories pressing in the number buttons *<1 to 8>* (14) to include or remove a channel from a favourites category ("News", "Sports", "Cinema", "Music", "Shopping", "Travel", "Lifestyle", "Documentaries").
+* **Lock: ** Press the *"OK"* (22) to enable or disable the selected channel lock. In case you have enabled the password lock in "Settings, Password, Channel lock" it will ask you for a code each time you select to watch this channel.
+* **Editing: ** This option allows you to edit the channel name. The maximum length for the character entry is 20.
 
-En la emisión de TDT podrás encontrar dos tipos de canales, TV y radio. El funcionamiento de la Lista de canales y Guía electrónica es idéntico tanto para radio como para TV. En esta sección te explicaremos el funcionamiento de la versión de TV, que podrás aplicar de igual forma a la versión de radio.
+1.	Press *"LEFT/RIGHT"* (12) in your remote control to select the edit option. Then press *"UP/DOWN"* (11) to select the channel you want to edit.
+2.	Press *"OK"* (22) to show the channel's information, press *"OK"* (22) again to enter the edit mode.
+3.	Press *"UP/DOWN"* (11), *"LEFT/RIGHT"* (12), the number buttons *<0-9>* (14) and *"RED/GREEN"* (16) to enter the characters.
+4.	Press *"OK"* (22) to complete editing and return to the channel information screen.
+5.	Press *"RED"* (16) to save the changes and return to the channel list, or *"EXIT"* (29) to exit to discard the changes.
 
-### *Lista de canales de TV*
+* **Move:** It allows you to change the position of the channels in the list.
+Note: This function will not be available when the "LCN" (Logical Channel Number) option is enabled in "Settings, Installation, LCN".
 
-Dentro de esta lista encontrarás las opciones de organización, bloqueo y edición de la lista de canales.
+* **Order:** It allows you to sort the channels alphabetically or pay/free.
+Note: This function will not be available when the "LCN" (Logical Channel Number) option is enabled in "Settings, Installation, LCN".
 
-* **Favoritos:** Puedes desplazarte por la lista de canales usando las teclas *"ARRIBA / ABAJO"* (11) y elegir tus programas favoritos, organizándolos hasta en 8 categorías diferentes pulsando sobre cada una de las teclas numéricas *<1 a 8>* (14), para incluir o eliminar un canal de una categoría de favoritos ("Noticias", "Deportes", "Cine", "Música", "Compras", "Viajes", "Estilo de vida", "Documentales").
-
-* **Bloqueo:** Pulsa la tecla *"OK"* (22) para activar o desactivar el bloqueo del canal seleccionado. En caso que hayas activado el bloqueo con contraseña dentro de "Configuración, Contraseña, Bloqueo de canales" te pedirá el código cada vez que selecciones este canal para poder visionarlo.
-
-* **Editar:** Esta opción te permite editar el nombre del canal. La longitud máxima para la introducción del nombre es de 20 caracteres.
-
-* 1. Pulsa *"IZQUIERDA / DERECHA"* (12) en tu mando a distancia para seleccionar la opción de editar. Pulsa entonces *"ARRIBA / ABAJO"* (11) para seleccionar el canal a editar.
-  2. Pulsa *"OK"* (22) para mostrar la información de canal, pulsa de nuevo *"OK"* (22) para entrar el el modo de edición.
-  3. Pulsa *"ARRIBA / ABAJO"* (11), *"IZQUIERDA / DERECHA"* (12), las teclas numéricas *<0-9>* (14), y *"ROJO / VERDE"* (16), para introducir los caracteres.
-  4. Pulsa *"OK"* (22) para terminar la edición y volver a la vista de información de canal.
-  5. Pulsa *"ROJO"* (16)para guardar los cambios y volver a la lista de canales, o *"EXIT"* (20) para salir desechando los cambios.
-
-* **Mover:** Te permite cambiar la posición de los canales en la lista.
-#### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
-
-* **Ordernar:** Te permite ordenar los canales por orden alfabético o de pago y gratuitos.
-#### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
 
 * **Skip channels:**you can skip channels when using the  the *"CH+/CH-"* buttons (11). Press *"OK"* (22) to turn this option on/off. Enter the number of channel manually using the number buttons from 0 to 9 (14) to see all channels.
 
