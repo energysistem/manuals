@@ -1,5 +1,5 @@
 ## Main features
-*	DVB-T tuner MPEG-2.
+*	DVB-T tuner for MPEG-2 system.
 *	360° swivel connector to adjust the position and save space when you connect it to your TV without cables thanks to the SCART connector.
 *	Use it through its USB port to play different video formats: SD (DivX, Xvid, AVI, MPG), audio (MP3, WMA) and photos (JPEG, BMP, GIF).
 *	Record DVB-T in MPEG-2 format with digital quality through USB devices. Recording manager.
