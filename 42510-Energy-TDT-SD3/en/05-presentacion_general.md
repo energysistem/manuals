@@ -1,20 +1,24 @@
 ## General overview
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
+
 1. SCART connector.
 2. 360º swivel joint.
 
 ![Side 1](http://static.energysistem.com/images/manuals/42510/555f149545541.jpg)
+
 3. Antenna input connector. Connect it to the external TV antenna.
 4. Antenna output connector. Use it if you need to transfer the antenna signal from your SD3 to another device.
 5. IR receiver cable connector for the remote control. This cable receives the signal from your SD3.
 6. AC/DC power adapter cable connector. 
 
 ![Side 2](http://static.energysistem.com/images/manuals/42510/555f14657d929.jpg)
+
 7. USB Host cable connector. Connect your external USB devices to play multimedia content or record from the DVB-T.
 
 ### *Remote control*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
+
 8. STANDBY: Change between power on and standby mode.
 9. MUTE: Turn sound on or off.
 10. MENU: Show main menu
