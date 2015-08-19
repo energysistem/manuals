@@ -3,8 +3,8 @@ In the DVB-T broadcast you will find two types of channels, TV and radio. The op
 ### *TV channel list.*
 In this list you will find the options of organisation, lock and editing the channel list.
 * **Favourites:** you can move through the channel list using the *"UP/DOWN"* (11) buttons and choose your favourite channels, sorting them in up to 8 different categories pressing in the number buttons *<1 to 8>* (14) to include or remove a channel from a favourites category ("News", "Sports", "Cinema", "Music", "Shopping", "Travel", "Lifestyle", "Documentaries").
-* **Lock: ** Press the *"OK"* (22) to enable or disable the selected channel lock. In case you have enabled the password lock in "Settings, Password, Channel lock" it will ask you for a code each time you select to watch this channel.
-* **Editing: ** This option allows you to edit the channel name. The maximum length for the character entry is 20.
+* **Lock:** Press the *"OK"* (22) to enable or disable the selected channel lock. In case you have enabled the password lock in "Settings, Password, Channel lock" it will ask you for a code each time you select to watch this channel.
+* **Editing:** This option allows you to edit the channel name. The maximum length for the character entry is 20.
 
 1.	Press *"LEFT/RIGHT"* (12) in your remote control to select the edit option. Then press *"UP/DOWN"* (11) to select the channel you want to edit.
 2.	Press *"OK"* (22) to show the channel's information, press *"OK"* (22) again to enter the edit mode.
