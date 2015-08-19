@@ -67,7 +67,7 @@ Press the *"YELLOW / BLUE"* button (27) ) to move forward and backward at x2, x4
 
 
 ### My Recordings
-Through this menu, you will be able to watch the recorded DVB-T programs using your USB stick and set the recording and managing tools for storage units.
+Through this menu, you will be able to watch the recorded DVB-T programmes using your USB stick and set the recording and managing tools for storage units.
 
 Please take into account that the USB unit must have a FAT or FAT32 format in order for your Energy TDT SD3 to recognize it correctly. It is probable that you will need to format your device through this menu to make it work properly. Use this function carefully because formatting a device means deleting all saved data.
 
@@ -78,7 +78,7 @@ Press *"UP / DOWN"* (11) ) to move through the list or the *"LEFT / RIGHT"* (12)
 
 Press *"OK"* (22) to play the recording.
 
-Press the *"RED"* button (16) to delete the recorded program.
+Press the *"RED"* button (16) to delete the recorded programme.
 
 Press *"INFO"* (18) to change the USB device (in case that you have several storage units connected through a USB hub). 
 
@@ -92,7 +92,7 @@ Press the *"RED"* button (16) to format a partition of the USB storage unit.
 
 #### Recording preferences
 
-* **Time Shift capacity:** shows the storage capacity for the *"Time Shift"* function. This function enables to pause or play in reverse a tv program and move it forward until you reach the current broadcasting time. This storage capacity is automatically reserved by the system depending on the storage capacity of the connected USB and cannot be modified by the user.
+* **Time Shift capacity:** shows the storage capacity for the *"Time Shift"* function. This function enables to pause or play in reverse a tv programme and move it forward until you reach the current broadcasting time. This storage capacity is automatically reserved by the system depending on the storage capacity of the connected USB and cannot be modified by the user.
 * **Time Shift:** sets the mode that activates the *"Time Shift:"* function:
     * **Pause.** You can activate it by pressing the *"PLAY / PAUSE"* button (19) of your remote control.
     * **Auto.** Always on while the file is being played on television.
