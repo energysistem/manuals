@@ -24,7 +24,7 @@ Dentro de esta lista encontrarás las opciones de organización, bloqueo y edici
 * **Ordernar:** Te permite ordenar los canales por orden alfabético o de pago y gratuitos.
 #### **Nota:** Esta función no aparecerá disponible cuando la opción "LCN" (Logical Channel Number) esté activada dentro de "Configuración, Instalación, LCN".
 
-* **Change channels:** turn this option on/off by pressing *"OK"* (22) or the *"CH+/CH-"* buttons (11). Enter the number of channel manually using the number buttons from 0 to 9 (14) to see all channels.
+* **Skip channels:**you can skip channels when using the  the *"CH+/CH-"* buttons (11). Press *"OK"* (22) to turn this option on/off. Enter the number of channel manually using the number buttons from 0 to 9 (14) to see all channels.
 
 * **Delete:** removes the selected channel from your channel list permanently. In order to recover it later on, you will have to make a new channel search.<br> Press *"OK"* (22) or the *"GREEN"* button (16) to choose between removing one or all channels.
 #### **Important:** This function will not be available if the password is on and you have not entered it correctly.
