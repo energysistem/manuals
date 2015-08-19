@@ -1,5 +1,6 @@
-## Introducción
+## Introduction
 
-Energy Sistem#trade# te agradece la compra de tu nuevo Energy TDT SD3. Deseamos que lo disfrutes.
-Las siguientes secciones le ofrecerán una visión general de tu nuevo dispositivo y de sus características principales.
-Te aconsejamos que leas este manual de usuario para disfrutar del producto, aprovechando al máximo sus prestaciones.
+Energy Sistem™ thanks you for buying your new Energy TDT SD3. We hope you will enjoy it.
+The next sections will offer you a general overview of your new device and its main features.
+* We recommend you to read this manual to enjoy your device in a safe way bandwidth maximum performance.
+
