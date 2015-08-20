@@ -1,17 +1,16 @@
-## Funcionamiento de la garantía
+## Warranty Procedure
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico para solventar tu incidencia. También puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42510
+Visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, drivers and updates available, as the possibility to submit a query to the Technical Service or manage the warranty.
 
-Para gestionar la garantía recomendamos dirigirte al lugar donde compraste el producto, presentando la Factura o Ticket de compra. Opcionalmente puedes gestionar la garantía directamente con el fabricante desde el mismo enlace http://www.energysistem.com/es/support
+1.	You can check the availability of the user manual in your language at http://www.energysistem.com/guide/42510
+2.	Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
-Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica.
+** Important:** This warranty doesn't cover any damage or loss to any data stored in warranty products, therefore Energy Sistem's Technical Service will not assume any loss of the above mentioned information. So it is recommended to make a backup of your data and remove any data or personal data from its internal memory before you send the product, or to send it only with the original data. Specifications are subject to change without notice.
+## Trademarks
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-## Marcas comerciales
+© 2015 by Energy Sistem Technology S.A. All rights reserved.
 
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+** Notice:** The present device could contain connections to other sites or websites operated by third parties not related to Energy Sistem Technology S.A. These connections are provided for your information or convenience; Energy Sistem Technology S.A is not responsible for their availability, content, update, adequacy or accuracy. These external connections might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All the rights reserved are property of their respective owners, and your are not granted with any license or right related to those brand names, patents, industrial secrets, technologies, products, processes or other rights property of other companies or individuals.
 
-© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
-
-NOTA: El presente dispositivo puede contener enlaces a sitios o páginas web operados por terceros ajenos a Energy Sistem Soyntec S.A. Estos enlaces son facilitados para tu información o comodidad; Energy Sistem Soyntec S.A. no se hace responsable de su disponibilidad, contenido, adecuación o exactitud. Dichas páginas externas pueden contener o hacer referencia a marcas, patentes, información registrada, tecnologías, productos, procesos, u otros derechos de la propiedad pertenecientes a otras personas. Todos los derechos reservados son propiedad de sus respectivos dueños.
