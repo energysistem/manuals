@@ -6,12 +6,11 @@ Mientras disfrutas de tus canales favoritos de TV o Radio, pulsa *"MENU"* (10) p
 
 En esta pantalla encontrarás los siguientes submenús:
 
-* Ajustes
 * TV
 * Radio
 * Multimedia
 * Accesorios
-
+* Ajustes
 
 
 
