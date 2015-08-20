@@ -1,6 +1,6 @@
 ## First use / Start settings
 
-![Initial Settings](Imagen de settings de inicio.jpg)
+![Initial Settings](http://static.energysistem.com/images/manuals/42510/55cdb60922504.jpg)
 
 When first installing or restoring to start settings, your SD3 will automatically show the start settings screen for the initial setup of the localization, menu language, audio, subtitles, etc. and start the channel search.
 
