@@ -78,9 +78,10 @@ It enables you to lock the *"MENU"* button (10) using a password in the remote c
 
 ### *Channel lock*
 It allows you to lock the channels using a password. Each time you select a locked channel it will ask for the password to let you watch it. For more information about channel locking, go to the "TV list" section.
-### *Censorship lock*
 
+### *Censorship lock*
 Set the parental control rating for a programme, then it will ask for the password to watch it. The age rating information is shown by the channel (This information might not always be available and will depend on the localization or the channel) The options are:
+
 * **No lock:** Password is not needed, no matter the rating of the programme.
 * **Total lock:** Password always required, no matter the rating of the programme.
 * **02-18:** Password required when the parental rating of the programme exceeds the selected level.
@@ -89,12 +90,14 @@ Set the parental control rating for a programme, then it will ask for the passwo
 Press "left/right" in your remote control to activate the password change. Use the number button pad *<0-9>* (14) to enter the old password. For security reasons, you must enter the new password twice. If you entered the data correctly an on-screen message appears advising that the password has been successfully changed.
 
 ### *Timer (events)*
+
 Your Energy TDT SD3 allows you to turn the device on and display or record a TV channel with an automatic scheduled event.
 
 You can schedule the recording or display of events manually or automatically through the TV/Radio Guide. 
 During the scheduled events you can press the Volume *"VOL+/VOL-"* (12) and Silence *"MUTE"* (9) buttons. If you press any other button, an on-screen message will ask you if you want to leave the scheduled event. You can display or edit the scheduled events by pressing the *"REC LIST"* (13) button.
 
 ### *Default settings*
+
 It allows you to restore to default settings if necessary.
 
 ![Reset to Factory Settings](http://static.energysistem.com/images/manuals/42510/55cddf4b60d0d.jpg)
@@ -102,4 +105,5 @@ It allows you to restore to default settings if necessary.
 **Note:** This operation restores all the settings made by the user to default settings, deleting the channel list.
 
 ### *Software update*
+
 It allows you to update the software of your Energy TDT SD3 through an external USB device. You can check the available updates at http://www.energysistem.com/42510. Be sure that your USB device uses the FAT/FAT32 format in order to use it with your Energy TDT SD3.
