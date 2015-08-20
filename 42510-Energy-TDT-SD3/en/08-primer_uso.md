@@ -10,6 +10,7 @@ Press *"UP/DOWN"* (11) in your remote control to move around and *"LEFT/RIGHT"* 
 
 Press the RED button (16) in the lower part of your remote control to start the automatic channel installation. When finished, the device will save the settings and channels found, and you will enjoy the DVB-T channels or radio stations.
 
+![](http://static.energysistem.com/images/manuals/42510/55cdb8352eade.jpg)
 
 
 
