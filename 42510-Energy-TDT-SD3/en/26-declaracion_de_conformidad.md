@@ -1,4 +1,4 @@
-## Declaration of Conformity
+## Declaration of conformity
 
 ![CE](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
