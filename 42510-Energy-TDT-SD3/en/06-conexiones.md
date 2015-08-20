@@ -6,4 +6,4 @@ Optionally, you can extend the antenna signal to another device, as a videorecor
 
 ### *Connecting your Energy TDT SD3.*
 
-![Pluging the SD3](http://static.energysistem.com/images/manuals/42510/55d5dedf32ed6.jpg)
+![Pluging the SD3](http://static.energysistem.com/images/manuals/42510/55d5e10c851fb.jpg)
