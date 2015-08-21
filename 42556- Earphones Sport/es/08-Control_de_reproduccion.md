@@ -1,7 +1,8 @@
 ## Control de reproducción
 
-Una vez sincronizados los **Energy Wireless BT Sport** puedes controlar el volumen de reproducción desde los auriculares. Para ello, pulsa una única vez los botones (2) "+" o (3) "-". Escucharás un pitido cuando alcances el volumen máximo y mínimo.
+Una vez has sincronizado tus *Energy Earphones Sport Bluetooth* puedes controlar el volumen de reproducción desde los propios auriculares. Para ello, pulsa los botones (3) "+" o (2) "-". Escucharás un pitido cuando alcances el volumen máximo y mínimo.
 
-Para pausar o reanudar la reprodución, pulsa simultaneamente los botones (4) "+" y (5) "-" una única vez.
+Para pausar o reanudar la reproducción, pulsa el botón de multifunción (1).
 
-Para avanzar o retroceder una canción mantén pulsados durante dos segundos los botones (4) "+" o (5) "-" respectivamente. 
+Para pasar a la canción anterior o a la posterior, pulsa aproximadamente durante 2 segundos los botones (2) "-" o (3) "+", respectivamente.
+
