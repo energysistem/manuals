@@ -31,12 +31,3 @@
 *	Tiempo de carga: 1,5 horas.
 *	Autonomía en uso: 7 horas.
 *	Autonomía en stand by: 300 horas.
-
-
-
-### Características de la batería de litio recargable
-* Capacidad: 100mAh
-* Sistema de carga por USB
-* Tiempo de carga: 1,5 horas.
-* Autonomía en uso: hasta 7 horas.
-* Autonomía en stand by: 300 horas.
