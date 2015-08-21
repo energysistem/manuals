@@ -9,6 +9,6 @@ Importante: Los datos o información contenidos en los productos no están cubie
 Las especificaciones están sujetas a cambios sin previo aviso.  
 *Marcas comerciales* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-©2014 por Energy Sistem®. Todos los derechos reservados.
+©2015 por Energy Sistem®. Todos los derechos reservados.
 
 </quick_guide>
