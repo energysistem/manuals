@@ -1,8 +1,8 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Wireless BT Sport 
+* Energy Earphones Sport Bluetooth
 * Cable USB
 * Estuche de transporte
 * Almohadillas de repuesto
-* Guía rápida
+
 </quick_guide>
