@@ -1,4 +1,4 @@
-## <quick_guide> Colocação da película de proteção da tela
+## Colocação da película de proteção da tela
 
 
 1. Limpe a superfície do seu Energy Phone com um pano.
@@ -10,7 +10,5 @@
 ![Imagen 1] (http://static.energysistem.com/images/manuals/42430/55a3a6e8e41e0.jpg)
 5. Retire a proteção frontal.
 6. Utilize o suporte rígido para eliminar as bolhas de ar que podem ter aparecido como resultado do contacto entre a tela e a película de proteção.
-
-</quick_guide>
 
 

@@ -2,27 +2,23 @@
 
 ![Imagen2]()
 
-1. Flash trasero
-2. Micrófono cancelador de ruido
-3. Cámara trasera
-4. Cámara frontal
-5. Salida de auriculares
+1. Cámara trasera
+2. Flash trasero
+3. Entrada USB
+4. Sensores de luminosidad y de proximidad
+5. Receptor
 6. Led de notificaciones
-7. Receptor frontal
-8. Entrada USB
-9. Sensores de luminosidad y de proximidad
-10. Botón de encendido/apagado
-11. Botón de volumen
-12. Ranura para extracción de carcasa trasera
-13. Botones táctiles: aplicaciones recientes, inicio, volver
-14. Altavoz frontal
-15. Micrófono
-16. Número de serie y números de IMEI
+7. Cámara frontal
+8. Botón de volumen
+9. Botón de encendido/apagado
+10. Botones táctiles: aplicaciones recientes, inicio, volver
+11. Salida de auriculares
+12. Micrófono
+13. Altavoz
+14. Carcasa protectora microSD y microSIMs
+15. Ranura de tarjeta microSD
+16. Ranura de tarjeta microSIM 2
 17. Ranura de tarjeta microSIM 1
-18. Ranura de tarjeta microSIM 2
-19. Ranura de tarjeta microSD
-20. Batería
-
 
 
 </quick_guide>

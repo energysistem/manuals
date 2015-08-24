@@ -1,26 +1,24 @@
-## <quick_guide> Apresentação geral
+<quick_guide>
+## Apresentação geral
 
 ![Imagen2]()
 
-1. Flash traseiro
-2. Microfone com função de cancelamento de ruído
-3. Câmera traseira
-4. Câmera frontal
-5. Saída de auscultadores
-6. Led de notificações
-7. Receptor frontal 
-8. Entrada USB
-9. Sensores de luminosidade e de proximidade
-10. Botão de ligar / desligar
-11. Botão de volume
-12. Slot para extrair a capa traseira
-13. Botões tácteis de aplicações recentes, início, voltar
-14. Altifalante frontal
-15. Microfone
-16. Número de série e números de IMEI
-17. Slot do cartão microSIM 1
-18. Slot do cartão microSIM 2
-19. Slot microSD
-20. Bateria
+1.  Câmera traseira
+2.  Flash traseiro
+3.  Entrada USB
+4.  Sensores de luminosidade e proximidade
+5.  Receptor
+6.  LED de notificações
+7.  Câmera frontal
+8.  Botão de volume
+9.  Botão de ligar/desligar
+10. Botões tácteis: aplicações recentes, início, voltar
+11.	Saída para auscultadores
+12.	Microfone
+13.	Altifalante
+14.	Capa protectora microSD e microSIM
+15.	Slot microSD 
+16.	Slot do cartão microSIM 2 
+17.	Slot do cartão microSIM 1
 
 </quick_guide>

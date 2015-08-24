@@ -1,39 +1,13 @@
-## Features
+## Technical specifications
 
-### General features
+*	Bidirectional Bluetooth®. 2.1 Version, class II.
+*	Distance range up to 8 m.
+*	Integrated FM transmitter.
+*	Selectable frequency range from 87.5 to 108.0 MHz.
+*	7-segment LED display.
+*	Integrated microphone (hands-free function)
+*	Voice identifier for incoming calls.
+*	2A USB port to charge your devices.
+*	12V and 24V DC vehicle power adapter.
+*	Electronic overcharge protection.
 
-- Transfer and enjoy your music through the wireless Bluetooth® technology.
-- Total compatibility with smartphones and tablets iOS, Android™, Windows Mobile, BlackBerry, etc.
-- Freedom of sound: Listen and share your music anywhere.
-- Loudspeakers with acoustic enhancement system: Clear sound and rich bass.
-- Total output power (RMS): 6W.
-- Portable and compact design, allows you to take it anywhere and amplify your music.
-- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
-- Bluetooth® handsfree function.
-- Rechargeable lithium battery.
-- microUSB port battery charger.
-<br/><br/>
-
-### Technical features
-
-- Bidirectional Bluetooth®, 4.0 version. Up to 10 meter range.
-- Supports A2DP and AVRCP profiles.
-- 2.0 loudspeakers with acoustic enhancement system.
-- Total output power (RMS): 6 W.
-- Frequency response: 90 Hz ~ 20 KHz.
-- S/N ratio: >80 dB.
-- Built-in microphone (handsfree function).
-- 3.5 mm "Audio-In" port.
-- Rechargeable lithium battery.
-- Rechargeable lithium battery up to 15 hours duration.*
-- Audio output connection.
-
-### Battery specifications
-
-- Nominal capacity: 1800 mAh.
-- Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
-- Autonomy in music player mode: 12 hours.*
-- Autonomy in Bluetooth mode: 10 hours.*
-<br/><br/>
- * The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.

@@ -8,6 +8,6 @@
 - Micrófono integrado (función manos libres).
 - Identificador por voz de llamadas entrantes.
 - Puerto USB de 2A para la recarga de dispositivos.
-- Alimentación para adaptador de mechero DC de 12V y 24V.
+- Alimentación para adaptador de mechero DC de 12V ó 24V.
 - Protección electrónica de sobrecarga.
 

@@ -1,7 +1,7 @@
-## Controle de leitura
+## Controlo de leitura
 
-Depois da sincronização do seu *Energy Music Box B3 Bluetooth* pode controlar o volume de leitura desde o altifalante. Para isso, pressione os botões "VOLUMEN - " (1) ou "VOLUMEN + " (2).
+Uma vez sincronizado o *Energy Car FM-T Bluetooth* , pode controlar o volume de leitura com o transmissor.  Rode o selector para aumentar ou reduzir o volume.
 
-Para parar ou recomeçar a leitura, pressione o botão PLAY/PAUSE (4) uma única vez.
+Para parar ou recomeçar a leitura, pressione o botão CONTROLO DE CHAMADA uma única vez.
 
-Para passar ou retroceder uma canção pressione os botões AVANÇO (7) o RECUO (6).
+Para avançar para a canção seguinte ou ouvir a canção anterior outra vez deve manter premido o selector. Posição + para avançar para a canção seguinte e posição - para ouvir a canção anterior outra vez.

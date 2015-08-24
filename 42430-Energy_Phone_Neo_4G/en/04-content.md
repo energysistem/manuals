@@ -1,4 +1,5 @@
-## <quick_guide> Product content
+<quick_guide>
+## Product content
 
 * Energy Phone Neo 4G.
 * Quick guide.

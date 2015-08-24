@@ -2,7 +2,7 @@ CAMBIAR FOTO
 
 ## <quick_guide> General Overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/39935/53980401b9a92.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
 
 1. Rear camera
 2. Front camera

@@ -1,7 +1,5 @@
-## Play Control
+## Playback control
 
-Once you have paired your *Energy Music Box B3 Bluetooth*, you can control the volume from the speaker. In order to do that; press buttons "VOLUME - " (1) or "VOLUME + " (2).
-
-To pause or resume the playback, press PLAY/PAUSE button (4) once.
-
-To forward or backward one song, hold NEXT (7) or PREVIOUS (6) buttons.
+Once the *Energy Car FM-T Bluetooth* paired you can control the playback volume from the transmitter. To do this, turn the dial to increase or decrease the volume.
+To pause or resume the playback, press the CALL CONTROL button once.
+To forward or backward a song keep the dial pressed. + position to go to the next song and - position to go to the previous song.

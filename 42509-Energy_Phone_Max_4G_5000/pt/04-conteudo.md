@@ -1,8 +1,9 @@
-## <quick_guide> Conteúdo do produto
+<quick_guide>
+## Conteúdo do produto
 
-* Energy Phone Neo 4G.
-* Guia Rápido.
+* Energy Phone Max 4G 5000.
+* Guia rápida.
 * Película de protecção de ecrã.
-* Cabo USB 2.0 para conectar ao PC.
-* Adaptador de corrente AC/DC (Europlug) 100-240V AC 50-60Hz.
+* Cabo USB para carregar rápido a beateria.
+* Adaptador de corrente AC/DC (Europlug) 100-240V AC 50-60Hz para carregar rápido a bateria.
 </quick_guide>

@@ -1,4 +1,5 @@
-## <quick_guide> Safety precautions and SAR
+<quick_guide>
+## Safety precautions and SAR
 
 ### Safety precautions
 It is prohibited to use the phone in certain places or situations, such as airplanes, hospitals, service stations and several other places.

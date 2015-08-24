@@ -8,10 +8,10 @@ Podrás subir y bajar el volumen de reproducción utilizando para ello los boton
 
 Para pausar o reanudar la reproducción pulsa una única vez el botón Bluetooth (1). En caso de estar en modo tarjeta, pulsa el botón micro SD (9) para realizar estas acciones.
 
-Los *Energy Headphones BT9 Bluetooth* disponen de 5 modos de ecualización predefinidos que funcionan tanto en modo bluetooth como en modo tarjeta. La forma de cambiar entre las cinco ecualizaciones disponibles es diferente según el modo de reproducción.
+Los *Energy Headphones BT9 Bluetooth* disponen de 5 tipos de ecualización predefinidos que funcionan tanto en modo bluetooth como en modo tarjeta. La forma de cambiar entre las cinco ecualizaciones disponibles es diferente según el modo de reproducción.
 
-Para cambiar el modo mientras estás utilizando la función bluetooth, pulsa de manera simultánea los botones de cambio de volumen (3) y (6).
+Para cambiar el tipo de ecualización mientras estás utilizando la función bluetooth, pulsa de manera simultánea los botones de cambio de volumen (3) y (6).
 
-En modo tarjeta basta con pulsar el botón ecualización (8) para cambiar entre las distintas ecualizaciones.
+Reproduciendo la música desde la tarjeta basta con pulsar el botón ecualización (8) para cambiar entre las distintas ecualizaciones predefinidas.
 
 

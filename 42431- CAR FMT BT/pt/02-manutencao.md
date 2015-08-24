@@ -1,9 +1,11 @@
 ## Cuidado e manutenção
 
-* Não exponha seu *Energy Music Box B3 Bluetooth* a choques, a poeira, humidade, ou as altas temperaturas.
-* Não use produtos de limpeza corrosivos ou abrasivos.
-* Não posicione seu *Energy Music Box B3 Bluetooth* perto de dispositivos que emitem campos electromagnéticos intensos.
-* Mantenha os fones limpos e sem pó, utilize um pano macio e seco.
-* Não desmonte o seu aparelho. Qualquer reparação deve fazê-la exclusivamente o pessoal qualificado de Energy Sistem Soyntec, S.A.
-* Assegure-se de manter seu *Energy Music Box B3 Bluetooth* desligado quando não esteja em uso.
-* Carregue a bateria quando a pilha seja descarregada para alongar a vida desta.
+* Evite que o seu *Energy Car FM-T Bluetooth* sofra impactos fortes e que entre em contacto com altas temperaturas, pó e humidade.
+
+* Mantenha o produto protegido da luz solar directa durante períodos prolongados de tempo.
+
+* Utilize um pano suave e seco para limpar o produto. Não utilize produtos de limpeza corrosivos ou abrasivos.
+
+* Não desmonte o dispositivo. A reparação do mesmo deve ser efectuada apenas por pessoal qualificado de Energy Sistem Technology, S.A.
+
+

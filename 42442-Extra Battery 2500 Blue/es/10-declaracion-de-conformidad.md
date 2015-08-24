@@ -2,7 +2,7 @@
 
 ![CE](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-**Nombre del suministrador:** Energy Sistem Soyntec S.A.
+**Nombre del suministrador:** Energy Sistem Technology S.A.
 
 **Fecha:** 06/07/2015
 

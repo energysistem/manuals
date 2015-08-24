@@ -1,3 +1,4 @@
 <quick_guide>
-![Imagen1](http://static.energysistem.com/images/manuals/42178/54e23307dc964.jpg)
+![Front Picture UM SD3](http://static.energysistem.com/images/manuals/42510/55cc4f297d9c5.jpg)
 </quick_guide>
+

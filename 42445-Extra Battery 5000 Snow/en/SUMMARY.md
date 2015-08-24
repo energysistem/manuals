@@ -1,14 +1,14 @@
 # Summary
 
 * [Portada](00-portada.md)
-* [Introduction](01-introduction.md)
-* [General presentation](02-general-presentation.md)
-* [Main features](03-Main-features.md)
-* [Product content](04-product-content.md)
-* [Usage instructions](05-usage-instructions.md)
+* [Introducción](01-introduccion.md)
+* [Presentacion general](02-presentacion-general.md)
+* [Principales características](03-principales-características.md)
+* [Contenido del producto](04-contenido-del-producto.md)
+* [Instrucciones de uso](05-instrucciones-de-uso.md)
 * [FAQs](06-FAQs.md)
-* [Care and maintenance](07-care-and-maintenance.md)
-* [Warranty](08-warranty.md)
-* [Warranty procedure](09-warranty-procedure.md)
-* [Declaration of conformity](10-declaration-of-conformity.md)
+* [Cuidado y mantenimiento](07-cuidado-y-mantenimiento.md)
+* [Condiciones de la garantía](08-condiciones-de-la-garantía.md)
+* [Funcionamiento de la garantía](09-funcionamiento-de-la-garantía.md)
+* [Declaración de conformidad](10-declaracion-de-conformidad.md)
 
