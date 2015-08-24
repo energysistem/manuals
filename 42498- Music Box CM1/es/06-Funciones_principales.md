@@ -1,4 +1,4 @@
-## Funciones Principales
+## <quick_guide> Funciones Principales
 
 ### Encendido y apagado del dispositivo
 
@@ -6,7 +6,9 @@ Para encender el dispositivo, mantén pulsado el botón APAGADO/ENCENDIDO () dur
 
 Para apagar el dispositivo, mantén pulsado el botón APAGADO/ENCENDIDO () durante 2 segundos.
 
-Mientras el dispositivo esté encendido, el INDICADOR DE ENCENDIDO () se mantendrá iluminado en color azul con el icono del corazón.
+Mientras el dispositivo esté encendido, el INDICADOR DE ENCENDIDO () se mantendrá iluminado.
+
+<quick_guide>
 
 ### Cambio de modo de reproducción
 
