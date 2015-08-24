@@ -85,7 +85,7 @@ Press *"INFO"* (18) to change the USB device (in case that you have several stor
 #### Recording unit
 In this menu, you can select the device and the partition in which your Energy TDT SD3 will save the DVB-T recordings.
 
-![](http://static.energysistem.com/images/manuals/42510/55cde12726d92.jpg
+![IMAGES](http://static.energysistem.com/images/manuals/42510/55cde12726d92.jpg)
 
 You will be also able to format partitions or whole USB units. We recommend to choose this option if you are going to use a storage unit to make recordings. Nevertheless, keep in mind that the formatting will delete all data saved on the disc or partition.
 
