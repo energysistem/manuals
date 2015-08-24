@@ -8,7 +8,7 @@ Para apagar el dispositivo, mantén pulsado el botón APAGADO/ENCENDIDO () duran
 
 Mientras el dispositivo esté encendido, el INDICADOR DE ENCENDIDO () se mantendrá iluminado.
 
-<quick_guide>
+</unique> </quick_guide>
 
 ### Cambio de modo de reproducción
 
