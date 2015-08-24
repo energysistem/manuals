@@ -107,6 +107,8 @@ Press the *"RED"* button (16) to format a partition of the USB storage unit.
 
 #### Recording preferences
 
+![](http://static.energysistem.com/images/manuals/42510/55cde1b2b7a41.jpg)
+
 * **Time Shift capacity:** shows the storage capacity for the *"Time Shift"* function. This function enables to pause or play in reverse a tv programme and move it forward until you reach the current broadcasting time. This storage capacity is automatically reserved by the system depending on the storage capacity of the connected USB and cannot be modified by the user.
 * **Time Shift:** sets the mode that activates the *"Time Shift:"* function:
     * **Pause.** You can activate it by pressing the *"PLAY / PAUSE"* button (19) of your remote control.
