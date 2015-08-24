@@ -39,9 +39,7 @@
 25. RECALL: Change between current and previous channel.
 26. SUBTITLE: Enable or disable the subtitles. TEXT: Access to the teletext in the channels providing this service.
 27. YELLOW: MSM. Dynamic channels mosaic/Yellow selection button. BLUE: Blue selection button.
-28. REV: Fast rewind when recording or multimedia. Press several times to select the speed. FWD: Fast forward when recording or multimedia. Press several times to select the speed.
-
-If the Time Shift function is connected, use "REV" and "FWD" to move around the DVB-T broadcast. For more information about "Time Shift" go to "Multimedia" > "My Recordings".
+28. REV: Fast rewind when recording or multimedia. Press several times to select the speed. FWD: Fast forward when recording or multimedia. Press several times to select the speed. If the Time Shift function is connected, use "REV" and "FWD" to move around the DVB-T broadcast. For more information about "Time Shift" go to "Multimedia" > "My Recordings".
 
 To use the remote control, point it to the front part of the receiver cable. The receiving cable has a sensor with an adhesive surface on the one end to place it on the front of the television.  Before adhering it, and to ensure a secure installation, make sure the surface is completely smooth, clean it with alcohol and dry it completely. Remove the protection from the adhesive material and paste it on a point near the centre of your TV.
 
