@@ -1,6 +1,6 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Phone Neo 4G.
+* Energy Phone Max 4G.
 * Guía Rápida.
 * Protector de pantalla.
 * Cable USB 2.0 para conexión al PC.
