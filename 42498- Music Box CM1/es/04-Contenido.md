@@ -4,4 +4,4 @@
 * Cable de audio: 3.5mm.
 * Cable USB para cargar la batería.
 
-<quick_guide>
+</unique> </quick_guide>
