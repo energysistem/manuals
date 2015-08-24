@@ -36,7 +36,6 @@
 26. SUBTITLE: Activa o desactiva los subtítulos. TEXT: Muestra el teletexto en los canales en los que se encuentre disponible.
 27. AMARILLO: MSM. Mosaico interactivo de canales / Tecla de selección amarilla. AZUL: Tecla de selección azul.
 28. REV: Marcha atrás rápida en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad. FWD: Avance rápido hacia delante en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad.
-
 Si la función Time Shift se encuentra conectada, usa *"REV" y "FWD"* (28) y  para desplazarte por la emisión de televisión digital terrestre. Puedes consultar más información sobre *"Time Shift"* en la sección "Multimedia" > "Mis Grabaciones".
 
 Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV.
