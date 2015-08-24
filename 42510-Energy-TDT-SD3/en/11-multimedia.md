@@ -5,6 +5,8 @@ Your USB device must have a FAT or FAT37 format in order for your Energy TDT SD3
 
 ### My Album
  “My Album” menu enables you to display images in JPEG, BMP and GIF formats.
+ 
+ ![Pictures](http://static.energysistem.com/images/manuals/42510/55cdd563f1271.jpg)
 
 Images in the device root folder will be shown as thumbnail view. In case there are no images in this folder, the folder structure view will be shown and thus, you will be able to choose the folder you prefer. You can access the “folder” view mode by pressing the *"BLUE"* button (27) of your remote control. Press *"EXIT"* (20) to return to the thumbnail view.
 
@@ -39,6 +41,8 @@ Through this menu, you will be able to listen to your USB stick’s music files 
 
 You will be able to see the progress bar and a frequency analyzer on screen while the music is playing.
 
+![](http://static.energysistem.com/images/manuals/42510/55cdf16544c88.jpg)
+
 Press the *"UP / DOWN"* (11) and the *"LEFT / RIGHT"* arrow buttons (12) to move through folders and files and press *"OK"* (22) to select.
 
 Press the *"RED"* button (16) to pause or resume the music.
@@ -53,7 +57,12 @@ Press the *"LEFT / RIGHT"* arrow buttons (12) while listening to music to adjust
 
 
 ### My films
+
+![](http://static.energysistem.com/images/manuals/42510/55cdee0eac89d.jpg)
+
 Through “My films” menu, you will be able to play the video files in MPEG2, Divx and Xvid formats with standard resolution (SD) saved on your USB stick. Not all formats nor all video or audio file containers are compatible.
+
+![](http://static.energysistem.com/images/manuals/42510/55cdf0e7a26a5.jpg)
 
 Press the *"UP / DOWN"* (11) and the *"LEFT / RIGHT"* arrow buttons (12) to move through folders and files and press *"OK"* (22) to select folders or play the selected file.
 
@@ -71,8 +80,12 @@ Through this menu, you will be able to watch the recorded DVB-T programmes using
 
 Please take into account that the USB unit must have a FAT or FAT32 format in order for your Energy TDT SD3 to recognize it correctly. It is probable that you will need to format your device through this menu to make it work properly. Use this function carefully because formatting a device means deleting all saved data.
 
+![](http://static.energysistem.com/images/manuals/42510/55cde42d4760d.jpg)
+
 #### Recording list
 This screen shows the list of all recordings saved on the USB storage device. You can access this screen by pressing the  *"REC LIST"* (13) of your remote control.
+
+![](http://static.energysistem.com/images/manuals/42510/55cddffb95111.jpg)
 
 Press *"UP / DOWN"* (11) ) to move through the list or the *"LEFT / RIGHT"* (12) arrow buttons to change from one page to the next one.
 
