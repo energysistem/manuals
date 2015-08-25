@@ -1,7 +1,10 @@
-## Play Control
+<quick_guide>
+## Playback control
 
-Once you have paired your *Energy Music Box B3 Bluetooth*, you can control the volume from the speaker. In order to do that; press buttons "VOLUME - " (1) or "VOLUME + " (2).
+Once the *Energy Music Box CM1 Bluetooth* paired you can control the playback volume from the speaker. To do this, press the "VOLUME - " (1) or "VOLUME + " (2) buttons.
+To pause or resume the playback, press the CALL CONTROL button once.
+To go forward or backward a song keep the NEXT (7) or PREVIOUS (6) pressed.
+To change the folder in the USB mode, press the FOLDER CHANGE (5) button.
 
-To pause or resume the playback, press PLAY/PAUSE button (4) once.
 
-To forward or backward one song, hold NEXT (7) or PREVIOUS (6) buttons.
+</quick_guide>
