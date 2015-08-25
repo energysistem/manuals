@@ -1,8 +1,16 @@
+<quick_guide>
 ## Care and maintenance
 
-* Do not expose your *Energy Music Box B3C Bluetooth* to shock, dust, humidity or high temperatures.
-* Do not use abrasive or corrosive cleaning products.
-* Keep your speaker clean and dust them with a soft dry cloth.
-* Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
-* Be sure to keep your *Energy Music Box B3C Bluetooth* turned off while not in use.
-* Charge the lithium battery when ran out to extend its life.
+Do not expose your *Energy Box CM1 Bluetooth* to impacts, dust, direct sunlight, humidity or high temperatures.
+
+Do not use corrosive nor abrasive cleaning products.
+
+Keep the speaker clean and dust free, use for this a soft dry cloth.
+
+Do not disassemble the device. All reparation should be done exclusively Energy Sistem Technology, S.A. qualified staff.
+
+Be sure to keep your Energy Music Box CM1 Bluetooth turned off while not in use.
+
+Do not store or leave the device disused for a long period of time with the battery completely discharged.
+
+</quick_guide>
