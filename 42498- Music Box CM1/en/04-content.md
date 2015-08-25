@@ -1,7 +1,8 @@
+<quick_guide>
 ## Product Content
 
-- Energy Music Box B3C Bluetooth.
-- Audio cable: 3.5mm.
-- USB 2.0 cable for battery charge.
-- Quick guide.
+* Energy Tower CC1 Bluetooth (RMS:
+* Audio cable: 3,5mm.
+* Quick charge USB cable
 
+</quick_guide>
