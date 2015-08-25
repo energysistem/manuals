@@ -1,4 +1,5 @@
-<quick_guide>## Introduction
+<quick_guide>
+## Introduction
 
 Thank you for your trust in us and for buying the new *Energy Music Box CM1 Bluetooth*. We hope you enjoy it.
 
