@@ -5,7 +5,7 @@ _**Endereço:**_ C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
 _**Tel:**_ +34 902 388 388 // _**Fax:**_ +34 902 119 034 // _**NIF:**_  A53107488
 
 
-Declaramos sob nossa exclusiva responsabilidade que o produto:
+Declaramos sob nossa exclusiva responsabilidade que o produto
 
 >**Energy Music Box CM1 Bluetooth**
 
