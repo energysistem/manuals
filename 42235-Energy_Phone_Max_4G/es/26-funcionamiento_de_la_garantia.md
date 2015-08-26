@@ -1,4 +1,5 @@
-## <quick_guide> Funcionamiento de la garantía
+<quick_guide>
+## Funcionamiento de la garantía
 
 Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. También ponemos a tu disposición los teléfonos para la gestión de garantía. Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto. 
 
