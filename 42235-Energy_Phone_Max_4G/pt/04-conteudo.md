@@ -1,6 +1,6 @@
-## <quick_guide>
+<quick_guide>
 
-Conteúdo do produto
+## Conteúdo do produto
 
 *	Energy Phone Max 4G.
 *	Guia rápida.
