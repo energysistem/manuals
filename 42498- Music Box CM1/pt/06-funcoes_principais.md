@@ -1,6 +1,6 @@
 ## Funções principais
 
-### Ligar desligar o dispositivo
+### Ligar e desligar o dispositivo
 
 Para ligar o dispositivo, mantenha premido o botão LIGAR/DESLIGAR () durante 2 segundos. O ícone do coração, INDICADOR DE DISPOSITIVO LIGADO, acender-se-á ().
 
