@@ -1,6 +1,6 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem® agradece-lhe a aquisição do *Energy Music Box CM1 Bluetooth*, desejamos-lhe muita diversão.
+* Energy Sistem® agradece-lhe a aquisição do *Energy Music Box CM1 Bluetooth*. Desejamos-lhe muita diversão.
 
 * Leitor MP3 portátil com tecnologia Bluetooth®. Desfrute da sua música sem fios desde qualquer dispositivo Bluetooth® e leve-o consigo onde quiser graças a sua bateria recarregável de lítio.
 
