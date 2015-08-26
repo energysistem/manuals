@@ -1,4 +1,5 @@
-## <quick_guide> Declaración de Conformidad
+<quick_guide>
+## Declaración de Conformidad
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
 
