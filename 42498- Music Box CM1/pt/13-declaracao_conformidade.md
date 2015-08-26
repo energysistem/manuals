@@ -10,6 +10,7 @@ Declaramos sob nossa exclusiva responsabilidade que o produto:
 >**Energy Music Box CM1 Bluetooth**
 
 _**País de fabricação:**_ China
+
 está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
 |  |  |
