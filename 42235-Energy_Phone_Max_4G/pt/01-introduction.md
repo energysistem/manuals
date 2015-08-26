@@ -1,4 +1,5 @@
-## <quick_guide> Introdução
+<quick_guide>
+## Introdução
 
 *	Agradecemos-lhe a sua confiança assim como a aquisição do seu novo Energy Phone Max 4G. Esperamos que desfrute do produto.
 *	O seu novo telefone dispõe dum ecrã multi-táctil capacitivo de 5" IPS HD (1280x720 píxeis), processador Quad Core ARM Cortex A53 1.0 GHz, Bluetooth 4.0, Wi-Fi, GPS, conexão 4G/3G e câmaras frontal e traseira com flash.
