@@ -10,7 +10,7 @@ Important: This warranty does not cover any damage or loss to any data stored in
 
 Specifications are subject to change without notice.
 
-Trademarks
+### Trademarks
 All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
 © 2015 by Energy Sistem Technology, S.A. All rights reserved
