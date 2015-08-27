@@ -14,6 +14,8 @@ As long as your device is turned on, the LED indicator (4) will keep flashing.
 ### Charging the battery
 
 When the battery is about to drain, the headphones will emit a sound warning about this situation. It will repeat this sound every several minutes until the battery gets completely drained.
+
 To charge it, connect the mini USB end of the included USB cable to your CHARGING USB PORT (5) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). 
+
 The LED (4) will turn on in red colour and when the charge is completed the LED will turn off.
 
