@@ -1,5 +1,6 @@
-### Chargement de la batterie.
+<quick_guide>
+### Charge de la batterie.
 
-Quand l'écouteur n'émet pas du son ou vous commencez à percevoir qu'à courte distance l'écouteur émet des interférences, c'est le moment de le recharger, de brancher le but mini USB du câble USB (inclut) sur l'*Energy Headphones BT3+ Bluetooth* (7), et l'autre but USB sur d'autres appareils avec port USB pour fournir de l'énergie (PC, chargeur USB mural, de voiture, etc). La LED (1) sera allumée en rouge et quand le chargement soit complet s'éteindra.
+Lorsque la batterie du casque est faible, le haut-parleur émet un signal sonore d'avertissement de cette situation. Un bip sera répété toutes les quelques minutes jusqu'à ce que la batterie est complètement déchargée.  Pour le recharger, connectez l'extrémité miniUSB du câble USB (fourni) au CONNECTEUR USB DE CHARGER (5), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). Le LED (4) devient rouge et lorsque la charge est complète s'éteint.
 
-**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
+</quick_guide>
