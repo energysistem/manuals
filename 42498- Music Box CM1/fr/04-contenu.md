@@ -1,7 +1,8 @@
+<quick_guide>
 ## Contenu du produit
 
-* Energy Music Box B3 Bluetooth
-* Câble audio: 3.5mm
-* Câble USB 2.0 pour charger la batterie
-* Guide rapide
+* Energy Music Box CM1 Bluetooth.
+* Câble audio: 3.5mm.
+* Câble USB pour charger la batterie.
 
+</quick_guide>
