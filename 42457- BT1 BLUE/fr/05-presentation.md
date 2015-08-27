@@ -1,4 +1,5 @@
-## <quick_guide> Présentation générale
+<quick_guide>
+##  Présentation générale
 
 |  |  |
 |:-------|:-------|
