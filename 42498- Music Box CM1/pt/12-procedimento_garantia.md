@@ -10,7 +10,8 @@ Alternativamente, pode entrar em contacto com o distribuidor onde foi adquirido 
 
 As especificações estão sujeitas a alterações sem aviso prévio.
 
-*Marcas Registadas.* Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
+### Marcas Registadas
+Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
 © 2015 Energy Sistem Technology, S.A. Todos os direitos reservados.
 </quick_guide>
