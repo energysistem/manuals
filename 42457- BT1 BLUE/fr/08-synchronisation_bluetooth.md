@@ -1,6 +1,6 @@
-## <quick_guide> Synchronisation Bluetooth
+<quick_guide>
+## Synchronisation Bluetooth
 
-Avec ses *Energy Headphones BT3+ Bluetooth* éteints appuyez sur le bouton multifonction (allumé / synchronisation) (3) pendant 1 seconds et vous verrez la LED (1) clignoter en rouge et bleu. Dans ce moment les *Energy Headphones BT3+ Bluetooth* chercheront la synchronisation avec un outre appareil Bluetooth; au même temps depuis votre appareil Bluetooth: portable, tablette, ordinateur portable, etc. Commencez la recherche et la synchronisation des appareils. Quand les *Energy Headphones BT3+ Bluetooth* soient synchronisés, choisissez l'option connecter de façon immédiate sans besoin de codes et la LED clignotera en bleu car elle indique que l'appareil est allumé.
+Avec les *Energy Headphones BT1 Bluetooth* éteints appuyez sur le bouton multifonction ON / OFF (3) pendant 4 seconds et vous verrez la LED (4) clignoter en rouge et bleu. Dans ce moment les *Energy Headphones BT1 Bluetooth* chercheront la synchronisation avec un outre appareil Bluetooth; au même temps depuis votre appareil Bluetooth: portable, tablette, ordinateur portable, etc. commencez la recherche et la synchronisation d'appareils. Quand vous aurez identifié les *Energy Headphones BT1 Bluetooth* dans votre appareil, sélectionnez l'option connecter. La connexion sera réalisée immédiatement et sans besoin de codes et le LED ne clignotera uniquement en bleu indiquant que le dispositif est activé et synchronisé.
 
-Vos *Energy Headphones BT3+ Bluetooth* vous permettent de synchroniser un deuxième appareil sans besoin de répéter toutes les démarches à chaque fois. Pour cela, activez l'option "multipoint", appuyez sur le bouton multifonction (3) au même temps que vous faites le processus de couplage (au même temps que la LED (1) clignote en bleu et rouge). De cette façon vous pouvez utiliser les deux appareils quand vous voulez sans besoin de découpler un.
 </quick_guide>
