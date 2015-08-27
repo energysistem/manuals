@@ -14,6 +14,6 @@ Lorsque vous allumez l'appareil, la recherche de périphériques commence automa
 
 ### Chargement de la batterie.
 
-Lorsque le haut-parleur n'émet plus des sons ou que ne s'allume pas, il est temps de recharger en branchant l'extrémité micro USB du câble USB (fourni) au port microUSB pour CHARGER DE LA BATTERIE (), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). Le LED DE CHARGE () devient rouge et lorsque la charge est complète s'éteint.
+Lorsque le haut-parleur n'émet plus des sons ou que ne s'allume pas, il est temps de la recharger en branchant l'extrémité micro USB du câble USB (fourni) au port microUSB pour CHARGER DE LA BATTERIE (), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). Le LED DE CHARGE () devient rouge et lorsque la charge est complète s'éteint.
 
 </quick_guide>
