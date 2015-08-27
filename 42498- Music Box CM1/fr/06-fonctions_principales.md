@@ -4,7 +4,7 @@
 
 ### Allumer et éteindre
 
-Pour éteindre l'appareil, appuyez sur la touche allumer / éteindre () pendant 2 secondes. L'icône du cœur s'allume, INDICATEUR D'ALLUMAGE ().
+Pour allumer l'appareil, appuyez sur la touche allumer / éteindre () pendant 2 secondes. L'icône du cœur s'allume, INDICATEUR D'ALLUMAGE ().
 Pour éteindre l'appareil, appuyez sur la touche allumer / éteindre () pendant 2 secondes.
 Alors que l'appareil est allumé, l'INDICATEUR D'ALLUMAGE () restera allumé.
 
