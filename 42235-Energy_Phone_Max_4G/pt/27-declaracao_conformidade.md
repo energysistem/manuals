@@ -11,7 +11,7 @@ Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade a conformidade do produto 
-*Energy Sistem#trade# Energy Phone Max 4G* 
+ *Energy Sistem#trade# Energy Phone Max 4G* 
 
 País de fabricação: China 
 
