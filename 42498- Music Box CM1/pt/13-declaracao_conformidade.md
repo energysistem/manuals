@@ -2,7 +2,7 @@
 ##  Declaração de conformidade
 
 Nome do fabricante: Energy Sistem Technology, S.A.
-Endereço:  C/. Calpe, 1 - 03509 Finestrat Alicante (España).
+Endereço:  C/ Calpe, 1 - 03509 Finestrat Alicante (España).
 Tel: +34 902 388 388 // Fax: +34 902 119 034 // NIF: A53107488
 
 Declaramos sob nossa exclusiva responsabilidade que o produto
@@ -17,6 +17,6 @@ Finestrat, 01 de outubro de 2015
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo no produto ou nas instruções significa que deve reciclar os seus dispositivos eléctricos e electrónicos  no final das suas vidas utéis e separadamente dos outros resíduos domésticos. Existem sistemas de recolha e reciclagem para esse fim. Para obter mais informações, contacte o responsável local ou o distribuidor que vendeu o produto.
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Este símbolo no produto ou nas instruções significa que deve reciclar os seus dispositivos elétricos e eletrónicos no final das suas vidas utéis e separadamente dos outros resíduos domésticos. Existem sistemas de recolha seletiva e reciclagem para esse fim. Para mais informações, contacte as autoridades locais ou o distribuidor que vendeu o produto. |
 
 </quick_guide>
