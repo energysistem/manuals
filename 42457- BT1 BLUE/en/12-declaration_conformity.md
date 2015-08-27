@@ -1,4 +1,5 @@
-## <quick_guide> Declaration of Conformity
+<quick_guide>
+## Declaration of Conformity
 
 Manufacturer Name:
 Energy Sistem Technology, S.A.
