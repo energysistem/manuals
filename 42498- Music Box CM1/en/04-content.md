@@ -1,8 +1,8 @@
 <quick_guide>
 ## Product Content
 
-* Energy Tower CC1 Bluetooth (RMS:
+* Energy Tower CM1 Bluetooth
 * Audio cable: 3,5mm.
-* Quick charge USB cable
+* Charging USB cable
 
 </quick_guide>
