@@ -10,6 +10,6 @@ Your *Energy Car FM-T Bluetooth* features an integrated FM transmitter that allo
 played in your Bluetooth portable device previously pairing the receiver to the FM radio in your car. To ensure a proper reception of the signal, both the transmitter and the receiver must be set in the same frequency.
 First, search a free frequency with the radio in your car. You will be able to easy detect a free frequency as
 they are those with no signal or a poor quality signal. When
-you find a free radio signal, select the same frequency in your *Energy Car FM-T Bluetooth*. This can be done by pressing the FREQUENCY CONTROL button and changing the frequency with the DIAL.  Once the desired frequency set, press again the FREQUENCY CONTROL button to confirm the setting.
+you find a free radio signal, select the same frequency in your *Energy Car FM-T Bluetooth*. This can be done by pressing the FREQUENCY CONTROL button and changing the frequency with the DIAL.  Once the desired frequency is set, press again the FREQUENCY CONTROL button to confirm the setting.
 At this point you should receive the transmitted signal in the car radio. If the quality is not good enough, select another free frequency.  We recommend to select frequencies between 100.0 Hz and 108.0 Hz.
 
