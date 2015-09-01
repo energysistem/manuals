@@ -1,8 +1,9 @@
 ## <quick_guide> Conteúdo do produto
 
 * Energy Phone Neo 4G.
-* Guia Rápido.
+* Guia Rápida.
 * Película de protecção de ecrã.
-* Cabo USB 2.0 para conectar ao PC.
-* Adaptador de corrente AC/DC (Europlug) 100-240V AC 50-60Hz.
+* Cabo USB 2.0.
+* Adaptador de corrente AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz.
+* Bateria recarregável de iões de lítio 
 </quick_guide>
