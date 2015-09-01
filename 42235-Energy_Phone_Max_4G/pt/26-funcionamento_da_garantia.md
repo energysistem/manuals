@@ -5,7 +5,7 @@ Visite a secção de suporte neste link: http://www.energysistem.com/pt/support 
 
 1. Pode verificar a disponibilidade do manual do usuário no seu idioma em: http://www.energysistem.com/pt/guide/42235   
 
-2. Alternativamente, pode entrar em contacto com o distribuidor onde foi adquirido o produto, apresentando o recibo da compra ou factura.
+2. Alternativamente, pode entrar em contacto com o distribuidor do produto, apresentando o recibo da compra ou factura.
 
 **Importante:** Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou apenas com o conteúdo original de fábrica. 
 
