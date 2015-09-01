@@ -3,8 +3,8 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
 
 Nombre del fabricante:
-Energy Sistem Soyntec S.A.
-Dirección: Pol. Ind. Finestrat - C/.Calpe, 1.
+Energy Sistem Technology S.A.
+Dirección: C/.Calpe, 1.
 03509 Finestrat Alicante (España).
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
