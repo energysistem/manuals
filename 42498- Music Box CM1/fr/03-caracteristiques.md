@@ -8,7 +8,7 @@
 * Haut-parleurs avec système de relief acoustique: Son clair avec graves plus nets.
 * Puissance de sortie totale (RMS) : 6 W.
 * Design compact et portable, vous permettra de l'emporter toujours avec vous et d'amplifier votre musique.
-* Décodeur de mémoire USB: reproduit des fichiers MP3 / WAV depuis une mémoire flash USB avec une capacité de jusqu'à 32 Go.
+* Décodeur de mémoire USB.
 * Entrée "Audio-in" de 3.5 mm : pour écouter votre musique n'importe où avec tout lecteur portable ou ordinateur.
 * Batterie de lithium rechargeable.
 * Chargement de la batterie à travers du port microUSB.
