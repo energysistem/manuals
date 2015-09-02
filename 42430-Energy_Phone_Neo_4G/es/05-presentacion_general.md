@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen2]()
+![Imagen2](http://static.energysistem.com/images/manuals/42430/55e70c0d08227.jpg)
 
 1. Flash trasero
 2. Micrófono cancelador de ruido
