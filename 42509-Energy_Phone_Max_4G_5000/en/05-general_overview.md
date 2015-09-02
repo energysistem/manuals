@@ -1,7 +1,7 @@
 <quick_guide>
 ## General overview
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42509/55e70a1092dbc.jpg)
 
 1.	Rear camera
 2.	Rear flash
