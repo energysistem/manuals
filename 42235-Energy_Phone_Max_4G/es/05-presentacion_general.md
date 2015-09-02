@@ -1,7 +1,7 @@
 <quick_guide>
 ## Presentación general
 
-![Imagen2]()
+![Imagen2](http://static.energysistem.com/images/manuals/42235/55e708ae9e43e.jpg)
 
 1. Botón de encendido/apagado
 2. Botón de volumen
