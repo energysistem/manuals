@@ -14,5 +14,5 @@ Tu *Energy Car Transmitter Music Bluetooth* dispone de un emisor de FM integrado
 reproducida en tu dispositivo móvil Bluetooth previamente sincronizado al receptor de radio FM del coche. Para la correcta recepción de la señal, tanto tu *Energy Car Transmitter Music Bluetooth* como la radio del coche deben configurarse a la misma frecuencia.
 Primero, busca una frecuencia libre con la radio de tu coche. Podrás detectar una frecuencia libre fácilmente ya
 que son las que al seleccionarlas no se recibe ninguna señal o la señal recibida es de muy baja calidad. Cuando
-tengas una señal de radio libre detectada, selecciona en tu *Energy Car Transmitter Music Bluetooth* la misma frecuencia. Para ello pulsa el botón CONTROL DE FRECUENCIA y con el SELECTOR cambia la frecuencia. Una vez configurada la frecuencia deseada, vuelve a pulsar el botón CONTROL DE FRECUENCIA para confirmar el ajuste.
-En ese momento deberías recibir en la radio del coche la señal transmitida. Si la calidad no es suficientemente buena selecciona otra frecuencia libre distinta. Se recomienda seleccionar frecuencias comprendidas entre 100.0 Hz y 108.0 Hz.
+tengas una señal de radio libre detectada, selecciona en tu *Energy Car Transmitter Music Bluetooth* la misma frecuencia. Para ello pulsa el botón CONTROL DE FRECUENCIA (4) y con el SELECTOR (7) cambiala. 
+En ese momento deberías recibir en la radio del coche la señal transmitida. Si la calidad no es suficientemente buena selecciona otra frecuencia libre distinta. 
