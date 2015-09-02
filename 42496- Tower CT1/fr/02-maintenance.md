@@ -1,11 +1,7 @@
 ## Soin et maintenance 
 
-* Ne pas exposer votre *Energy Tower 5* à des chocs, à la poussière, à l'humidité ou à des températures extrêmes.
+* N'exposez pas votre *Energy Tower CT1 Bluetooth* à des chocs, à la poussière, à l'humidité ou à hautes températures.
+*	Ne pas utiliser des produits corrosifs ou abrasifs.
+*	Gardez votre appareil propre et sans poussière; utilisez à cette fin un chiffon doux et sec.
+*	Ne démontez pas l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Technology, S.A.
 
-* Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
-
-* Gardez votre Energy Keyboard Case Pro 8 Windows propre et sans poussière; utilisez à cette fin un chiffon doux et sec lorsqu'il est déconnecté.
-
-* Ne démontez pas votre appareil. Toutes les réparations doivent être effectuées uniquement par du personnel qualifié de Energy Sistem Soyntec S.A.
-
-* Assurez-vous de garder votre *Energy Tower 5* hors tension lorsque vous ne l'utilisez pas. 
