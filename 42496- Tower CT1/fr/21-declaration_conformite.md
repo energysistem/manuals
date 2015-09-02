@@ -15,12 +15,14 @@ Vous pouvez demander une copie de la déclaration de conformité à l’adresse 
 
 Finestrat, 01 novembre 2015
 
-![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg)|Ce symbole sur le produit ou le manuel signifie que votre
+![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg)
+
+Ce symbole sur le produit ou le manuel signifie que votre
 équipement électrique et électroniques doivent être jetés
 à la fin de la vie séparément de vos déchets ménagers.
 Pour plus d’informations, s’il vous plaît contacter les autorités
 locales ou le revendeur où vous avez acheté le
-produit.|
+produit.
 
 
 </quick_guide>
