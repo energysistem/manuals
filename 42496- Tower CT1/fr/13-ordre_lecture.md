@@ -14,5 +14,7 @@ Trouvez ci-après un schéma de l'ordre de lecture :
 ![](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
 2) FOLD: Le dossier que vous écoutez est répété.
-2) ONE: La chanson que vous écoutez est répété.
-3) RAND: La lecture en mode aléatoire du contenu dans la mémoire.
+
+3) ONE: La chanson que vous écoutez est répété.
+
+4) RAND: La lecture en mode aléatoire du contenu dans la mémoire.
