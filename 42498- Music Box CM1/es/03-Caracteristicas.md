@@ -8,7 +8,7 @@
 * Altavoces con sistema de realce acústico: Sonido claro y con graves reforzados.
 * Potencia de salida total (RMS): 6 W.
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
-* Decodificador de memorias USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
+* Decodificador de memorias USB.
 * Entrada "Audio-In" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
 * Batería recargable.
 * Carga de batería a través de puerto microUSB.
