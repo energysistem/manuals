@@ -5,5 +5,5 @@
 * Guia rápida
 * Película de protecção de ecrã
 * Cabo USB para carregamento rápido
-* Adaptador de corrente AC/DC (Europlug) 100-240V AC 50-60Hz para carregamento rápido.
+* Adaptador de corrente AC/DC 9V 1.5A (Europlug) 100-240V AC 50-60Hz para carregamento rápido.
 </quick_guide>
