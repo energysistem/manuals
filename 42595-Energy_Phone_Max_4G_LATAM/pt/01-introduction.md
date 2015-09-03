@@ -7,6 +7,6 @@
 
  
 
-## <unique> * Encontrará o manual completo do *Energy Phone Max 4G* no seguinte link:  http://www.energysistem.com/guide/42235 </unique> </quick_guide>
+## <unique> * Encontrará o manual completo do *Energy Phone Max 4G* no seguinte link:  http://www.energysistem.com/guide/42595 </unique> </quick_guide>
 
 </quick_guide>
