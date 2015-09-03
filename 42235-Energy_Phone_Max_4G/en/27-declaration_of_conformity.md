@@ -20,8 +20,6 @@ declaration of conformity at C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain) Te
 Finestrat, 01 November 2015
 
 
-Finestrat, 01 November 2015
-
 </quick_guide>
 
 
