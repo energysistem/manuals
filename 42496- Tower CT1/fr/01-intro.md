@@ -1,7 +1,6 @@
 ## Introduction
 
-* Enery Sistem®* vous remercie d’avoir acquis *l’Energy Tower 5*, nous espérons que vous apprécierez notre produit.
+*	Merci de votre confiance et de l'achat de votre nouveau Energy Tower CT1 Bluetooth, profitez de l'appareil.
+*	Tour de son avec connexion sans fil Bluetooth® et une puissance réelle de 60W. Écoutez vos chansons préférées depuis de mémoires USB/SD et syntonisez la radio FM. Elle compte également avec fonction horloge/réveil.
+*	Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profiter toutes ses caractéristiques.
 
-* Éveillez vos sens avec ce système de son 2.1 en tour. Connectez facilement vos appareils Bluetooth e commencez à profiter des 60W RMS qu’elle offre. Elle compte également avec Radio FM, USB et lecteur de cartes SD/SDHC pour que vous ne manquiez jamais la musique.
-
-* Nous vous conseillons de lire ce manuel d’utilisateur pour utiliser le produit en toute sécurité à fin d’exploiter au mieux ses performances.

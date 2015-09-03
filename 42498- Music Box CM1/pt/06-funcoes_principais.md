@@ -1,22 +1,22 @@
+<quick_guide>
 ## Funções principais
 
-### Ligado e desligado do dispositivo
+### Ligar e desligar o dispositivo
 
-Utiliza o botão ON/OFF (4) para ligar o desligar o dispositivo.
-
-Para ligar o dispositivo, pressione o botão ON/OFF (4) durante 2 segundos. O DISPLAY (8) sera ligado, com o icone do coração. E depois a tela iniciará, indicando que o dispositivo está ligado.
-
-Para desligar o dispositivo, pressione o botão ON/OFF (4) durante 2 segundos.
-
-Quando o dispositivo estiver ligado, o DISPLAY (8) permanece iluminado em cor azul com o ícone do coração e a informação do modo de leitura.
+Para ligar o dispositivo, mantenha premido o botão LIGAR/DESLIGAR () durante 2 segundos. O ícone do coração, INDICADOR DE DISPOSITIVO LIGADO, acender-se-á (). 
+Para desligar o dispositivo, mantenha premido o botão LIGAR/DESLIGAR () durante 2 segundos.
+O INDICADOR DE DISPOSITIVO LIGADO () fica iluminado enquanto o dispositivo está ligado.
+</unique> </quick_guide>
 
 ### Mudar o modo de leitura
 
 Quando ligue o dispositivo, automáticamente se inicia a pesquisa de dispositivos bluetooth. Para mudar a modo Audio-In basta conectar o cabo audio (incluido) à CONEXÃO AUDIO-IN (14). Para mudar entre os diferentes modos de leitura, aperte o botão MODO (3).
 
+### <quick_guide> Carregar a bateria
 
-### Carga da bateria
+No momento que o altifalante não emite som ou não liga é necessário recarregá-lo ligando a extremidade do cabo USB (incluído) à porta microUSB PARA CARREGAR a BATERIA (). A outra extremidade deve ser ligada a outro dispositivo com porta USB que possa fornecer a corrente  (PC, carregador de parede USB, de carro, etc). O LED DE CARGA () acende-se, torna-se vermelho e desliga-se quando a carga está completa.
 
-Quando o altifalante já não emite som ou começa a perceber que a curta distância emite interferências em modo bluetooth é o momento de recarregar-o, ligue a extremidade micro USB do cabo USB (incluido) no *Energy Music Box B3 Bluetooth* (11), e a outra extremidade na porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A luz LED (10) acende a vermelho e quando a carga esté completa será desligado.
 
 **Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
+
+</unique> </quick_guide>

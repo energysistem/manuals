@@ -2,7 +2,7 @@
 
 |  |  |
 |:-------|:-------|
-|1. CÔNTROLE D'APPELS  <br> 2. CÔNTROLE FRÉQUENCE <br> 3. MICROPHONE <br> 4. ÉCRAN <br> 5. CÔNTROLE D'APPELS <br> 6. CONNECTEUR USB DE CHARGEMENT <br> 7. SÉLECTEUR <br> 8. CONNECTEUR D'ALIMENTATION <br> |![Imagen1](http://static.energysistem.com/images/manuals/42448/55154650cb18f.jpg)|
+|![Imagen1](http://static.energysistem.com/images/manuals/42431/55e5d3a60c8a6.jpg) |![Imagen1](http://static.energysistem.com/images/manuals/42431/55e5d3972d5f9.jpg)|
 </quick_guide>
 
 

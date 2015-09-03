@@ -1,9 +1,7 @@
 ## Introduction
 
-Energy Sistem® thanks you for buying your new *Energy Tower 5*, we wish you to enjoy it.
+Thank you for your trust in us and for buying the new Energy Tower CT1 Bluetooth.  We hope you will enjoy your new sound tower with a 2.1 sound system has a Bluetooth connection and 60W output power. It allows you to listen to your favourite songs through USB and SD cards tune; it also has FM radio, alarm clock and line-in input.
 
-Awaken your senses with this 2.1 sound tower. Connect your Bluetooth devices easily and enjoy the sound system's 60W RMS. It also features an FM Radio, USB port and a SD/SDHC card reader.
-
-We suggest you read this user manual in order to take the most advange from your product, on a safely way and with the best performance.
+We suggest you to read this user manual in order to take the most advange from your product, on a safely way and with the best performance.
 
 

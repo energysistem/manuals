@@ -1,20 +1,20 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2]()
+![Imagen2](http://static.energysistem.com/images/manuals/42430/55e70c0d08227.jpg)
 
 1. Flash traseiro
 2. Microfone com função de cancelamento de ruído
-3. Câmera traseira
-4. Câmera frontal
+3. Câmara traseira
+4. Câmara frontal
 5. Saída de auscultadores
 6. Led de notificações
 7. Receptor frontal 
 8. Entrada USB
-9. Sensores de luminosidade e de proximidade
+9. Sensores de luminosidade e proximidade
 10. Botão de ligar / desligar
 11. Botão de volume
 12. Slot para extrair a capa traseira
-13. Botões tácteis de aplicações recentes, início, voltar
+13. Botões tácteis: aplicações recentes, início, voltar
 14. Altifalante frontal
 15. Microfone
 16. Número de série e números de IMEI

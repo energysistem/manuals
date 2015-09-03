@@ -1,6 +1,7 @@
-## <quick_guide> Présentation générale
+<quick_guide>
+##  Présentation générale
 
 |  |  |
 |:-------|:-------|
-|1.	 LED <br> 2.	VOLUME + <br> 3.	BOUTON MULTIFONCTION <br> 4.	>/>><br> 5.	VOLUME -<br> 6.	</<< <br> 7.	CONNEXION USB <br> 8.	MICROPHONE|![Imagen1](http://static.energysistem.com/images/manuals/39929/5410254065a58.jpg)|
+|1.	 VOLUME + / AVANCER <br> 2.	ON/OFF ET PLAY/PAUSE  <br> 3.	VOLUME - / RECULER  <br> 4. LED <br> 5.	CONNECTEUR USB DE CHARGEMENT  <br> 6.	MICROPHONE|![Imagen1](http://static.energysistem.com/images/manuals/39929/5410254065a58.jpg)|
 </quick_guide>

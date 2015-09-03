@@ -1,15 +1,15 @@
 <quick_guide>
 ## Apresentação geral
 
-![Imagen2]()
+![Imagen2](http://static.energysistem.com/images/manuals/42509/55e70a1092dbc.jpg)
 
-1.  Câmera traseira
+1.  Câmara traseira
 2.  Flash traseiro
 3.  Entrada USB
 4.  Sensores de luminosidade e proximidade
 5.  Receptor
 6.  LED de notificações
-7.  Câmera frontal
+7.  Câmara frontal
 8.  Botão de volume
 9.  Botão de ligar/desligar
 10. Botões tácteis: aplicações recentes, início, voltar

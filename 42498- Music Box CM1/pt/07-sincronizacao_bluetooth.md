@@ -1,7 +1,11 @@
-## Sincronização Bluetooth
-Sempre que ligar seu *Energy Music Box B3 Bluetooth* automaticamente começará a pesquisa de dispositivos para estabelecer a sincronização bluetooth; ao mesmo tempo desde o seu dispositivo Bluetooth®, (telemóvel, tablet, portátil, etc.) inicia a pesquisa e sincronização de dispositivos. Quando identifique o  *Energy Music Box B3 Bluetooth* no seu dispositivo, seleciona a opção ligar.  A conexão será de imediato e sem necessidade de códigos. O altifalante reproduzirá um som que indica que a ligação estabelecida entre os dois dispositivos foi satisfatória.
+<quick_guide>
+## Ligação Bluetooth
 
-Para sincronizar de novo com o último dispositivo que conectou, ligue o *Energy Music Box B3 Bluetooth* e a sincronização será automática.
+Uma vez ligado, o seu *Energy Music Box CM1 Bluetooth* começa automaticamente a procurar dispositivos para estabelecer a ligação Bluetooth. Ao mesmo tempo, o seu dispositivo (telemóvel, tablet, portátil)  começa também a pesquisa e sincronização de dispositivos. Uma vez o seu dispositivo tem identificado o *Energy Music Box CM1 Bluetooth*, selecione "ligar". A ligação será estabelecida imediatamente e sem necessidade de códigos. O altifalante emitirá um som para indicar que a ligação entre os dispositivos foi estabelecida correctamente.
 
-Se você quer sincronizar outro dispositivo  Bluetooth®, aperte o botão de CONTROLE DE CHAMADA (5). Desta forma, a sincronização atual parará e realizarça uma nova pesquisa de dispositivos Bluetooth®.
+Para estabelecer novamente a ligação com o último dispositivo emparelhado só tem que ligar o Energy Music Box CM1 Bluetooth e a sincronização começará automaticamente.
 
+Se deseja sincronizar outro dispositivo Bluetooth®, só tem que manter premido o botão PASTA (5). Deste modo, a sincronização estabelecida termina e começa uma nova pesquisa de dispositivos Bluetooth®.
+
+
+</unique> </quick_guide>
