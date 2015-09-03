@@ -5,7 +5,7 @@
 * Guide Rapide.
 * Protecteur d’écran.
 * Câble USB 2.0.
-* Adaptateur d’alimentation courant AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz.
+* Adaptateur d’alimentation courant AC/DC 5V 1A (US plug) 100-240V AC 50-60Hz.
 * Pile au lithium rechargeable.
 
 </quick_guide>
