@@ -1,6 +1,6 @@
 ## <quick_guide>  Conditions de garantie
 
-Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Soyntec S.A. répondra pour tout défaut existant au moment de la réception du bien. Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues.
+Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien. Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues.
 
 La garantie offerte par Energy Sistem couvre les défauts de matière ou de fabrication.
 
