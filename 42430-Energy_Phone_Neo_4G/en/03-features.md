@@ -1,4 +1,4 @@
-## Key Features
+## Main Features
 *	Smartphone with optimized ANDROID™ 5 O.S.
 *	4.5" IPS capacitive touch display (qHD - 960x540p).
 *	Qualcomm Snapdragon Quad Core ARM Cortex A7 1.1GHz processor and Adreno 304 GPU.
