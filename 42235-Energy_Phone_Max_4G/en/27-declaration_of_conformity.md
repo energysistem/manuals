@@ -9,6 +9,7 @@ Address: C/ Calpe, 1.
 03509 Finestrat - Alicante (Spain).
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
+
 We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Phone Max 4G** 
 
 Manufacturing country: China
