@@ -9,9 +9,9 @@
 5. **Play Store#trade#:** Download the best and most popular apps for your Android#trade# system.
 6. **Internet:** Web browser.
 7. **Email:** E-mail client.
-8. **Menu** Access to the application and widget menu.
+8. **Menu:** Access to the application and widget menu.
 9. **Contacts:** Contact management.
-10. **Phone** Make Calls and call log.
+10. **Phone:** Make Calls and call log.
 11. **Gallery:** Image gallery.
 12. **Energy Cam:** Access to the built-in camera.
 
