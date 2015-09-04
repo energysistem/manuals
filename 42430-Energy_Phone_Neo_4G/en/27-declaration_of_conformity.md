@@ -12,7 +12,7 @@ NIF: A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem#trade# Energy Phone Neo 4G*
+**Energy Sistem#trade# Energy Phone Neo 4G**
 Manufacturing Country: China
 
 Is in compliance with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of 09 March 1999. You may request a copy of the declaration of conformity at C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain) Tel. +34 966 831 05
