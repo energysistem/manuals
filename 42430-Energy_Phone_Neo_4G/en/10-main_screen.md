@@ -13,5 +13,5 @@
 9. **Contacts:** Contact management.
 10. **Phone:** Make calls and call history.
 11. **Gallery:** Image gallery.
-12. **Energy Cam:** Access to the built-in camera.
+12. **Camera:** Access to the built-in camera.
 
