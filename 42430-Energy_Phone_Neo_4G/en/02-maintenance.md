@@ -3,4 +3,4 @@
 * Do not use abrasive or corrosive cleaners.
 * Keep the device clean and dust free using a soft, dry cloth.
 * Charge the battery when the display shows the low battery icon. Only charge with the adapter included in your smartphone.
-* Do not disassemble the device. Any repairs must be carried out by Energy Sistem Technology, S.A. qualified personnel only.
+* Do not disassemble the device. Any repairs must be carried out only by qualified personnel from Energy Sistem Technology, S.A.
