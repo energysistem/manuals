@@ -10,8 +10,8 @@
 * Doble entrada de tarjeta micro-SIM (1x LTE + 1x WCDMA).
 * 1GB RAM.
 * 8GB de memoria interna que permiten almacenar hasta 32 horas de video o 4.000 canciones.
-* Cámara frontal integrada con sensor de 2.0 Mpx.
-* Cámara trasera integrada de 5.0 Mpx con autofocus y flash LED.
+* Cámara frontal integrada con sensor de 2 Mpx.
+* Cámara trasera integrada de 5 Mpx con autofocus y flash LED.
 * Altavoz integrado.
 * Micrófono omnidireccional integrado.
 * Sensor de movimiento.
