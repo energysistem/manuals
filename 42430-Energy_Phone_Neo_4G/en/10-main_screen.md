@@ -11,7 +11,7 @@
 7. **Email:** E-mail client.
 8. **Menu:** Access to the application and widget menu.
 9. **Contacts:** Contact management.
-10. **Phone:** Make calls and call log.
+10. **Phone:** Make calls and call history.
 11. **Gallery:** Image gallery.
 12. **Energy Cam:** Access to the built-in camera.
 
