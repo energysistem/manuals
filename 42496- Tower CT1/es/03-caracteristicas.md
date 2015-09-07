@@ -18,5 +18,5 @@
 - Mando a distancia con control total de funciones.
 - Ecualizaciones predefinidas con opción de ajuste manual.
 - Decodificador de memorias USB y tarjetas SD/SDHC/MMC de hasta 32 GB.
-- Formatos de reproducción de audio (USB/SD) : WAV y MP3.
+- Formatos de reproducción de audio (USB/SD) : WAV, MP3 y WMA.
 - Alimentación: 120-240 V / 50-60 Hz.
