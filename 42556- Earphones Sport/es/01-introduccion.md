@@ -6,5 +6,5 @@
 
 *	Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto y aproveches todas sus prestaciones.
 
-* Encuentra el manual completo de los *Energy Wireless BT Sport* en el siguiente enlace http://www.energysistem.com/guide/39581 </unique> </quick_guide>
+</unique> </quick_guide>
 
