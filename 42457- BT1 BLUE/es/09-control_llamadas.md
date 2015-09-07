@@ -5,5 +5,5 @@ Teniendo los *Energy Headphones BT1 Bluetooth* sincronizados con tu smartphone p
 Para contestar una llamada entrante pulsa el botón PLAY/PAUSE (2). En caso de estar escuchando alguna canción en el instante de recibir la llamada, esta se detendrá y escucharás un mensaje de llamada entrante. También puedes rechazar la llamada manteniendo pulsado este botón durante 2 segundos.
 Para finalizar la llamada pulsa nuevamente el botón PLAY/PAUSE (2), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
 
-Mientras escuchas música, también puedes hacer una rellamada al último número del historial de su smartphone manteniendo pulsado el botón PLAY/PAUSE (2) durante 2 segundos.
+Mientras escuchas música, también puedes hacer una rellamada al último número del historial de su smartphone pulsado dos veces seguidas el botón PLAY/PAUSE (2).
 
