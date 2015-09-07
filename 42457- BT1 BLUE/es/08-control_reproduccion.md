@@ -4,7 +4,7 @@ Una vez ya sincronizados los *Energy Headphones BT1 Bluetooth* puedes controlar 
 
 Para avanzar de canción mantén pulsado el botón VOLUMEN + / AVANCE(1). Igualmente puedes retroceder una canción manteniendo pulsado el botón  VOLUMEN - / RETROCESO (3).
 
-Podrás subir y bajar el volumen de reproducción utilizando para ello los botones (1) y (3) respectivamente. Oirás un bip con cada cambio de volumen realizado y un bip más largo cuando alcances el volumen máximo.
+Podrás subir y bajar el volumen de reproducción utilizando para ello los botones (1) y (3) respectivamente. Oirás un bip cuando alcances el volumen máximo.
 
 Para pausar o reanudar la reproducción pulsa una única vez el botón PAUSAR / REANUDAR (2).
 
