@@ -6,7 +6,7 @@ Para encender el dispositivo, pulsa durante 3 segundos el botón ENCENDIDO/APAGA
 
 Para apagar el dispositivo vuelve a pulsar durante 3 segundos el botón ENCENDIDO/APAGADO Y PAUSAR/REANUDAR (2),  y escucharás un sonido de despedida que indica que el dispositivo está apagado. El LED  (4) dejará de parpadear.
 
-Mientras esté encendido el dispositivo el LED (4) indicador se mantendrá parpadeando.
+Mientras esté encendido el dispositivo el LED (4) indicador se mantendrá parpadeando en color azul.
 
 ### Carga de la batería
 
