@@ -5,7 +5,7 @@
 - Protocolos Bluetooth®: A2DP ; AVRCP.
 - Distancia de uso con dispositivos Bluetooth® hasta 10 metros.
 - Potencia RMS: 60 W (30W + 15W x 2).
-- Altavoces: 4" x 2 (centrales) + 4" x 1 (subwoofer).
+- Altavoces: 4" x 2 (frontales) + 4" x 1 (subwoofer).
 - Respuesta en frecuencia: 20Hz-20KHz.
 - Radio FM.
 - Reloj digital con encendido y apagado programable.
