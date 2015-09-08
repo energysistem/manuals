@@ -15,7 +15,6 @@
 ### Características técnicas
 
 * Bluetooth® V4.0, Classe II.
-* Tecnologia aptx HD.
 * Suporta protocolos HSP / HFP / A2DP /AVRCP.
 * Indicador de carga em dispositivos iOS.
 * Diâmetro do driver: 12mm
