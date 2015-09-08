@@ -3,7 +3,6 @@
 ### General features
 
 * Sports Bluetooth® earphones.
-* Conections: Bluetooth® and microUSB.
 * Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
 * Volume control from the earphones.
 * Pairing without codes.
@@ -15,7 +14,6 @@
 ### Technical features
 
 * Bluetooth® V4.0, Class II.
-* Aptx HD Technology.
 * HSP / HFP / A2DP /AVRCP protocols.
 * Charge indicator on iOS devices.
 * Driver diameter: 12mm.
