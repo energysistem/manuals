@@ -20,7 +20,6 @@
 ### Spécifications techniques
 
 - Bluetooth® V4.0 classe II.
-- Technologie aptx HD.
 - Supporte protocoles HSP / HFP / A2DP /AVRCP.
 - Indicateur de chargement sur des appareils iOS.
 - Diamètre du driver: 12mm
