@@ -3,7 +3,6 @@
 ### Características generales
 
 * Auriculares deportivos Bluetooth®.
-* Conexiones: Bluetooth® y micro-USB.
 * Fácil sincronización con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
 * Control de volumen desde el propio auricular.
 * Sincronización sin códigos.
@@ -16,7 +15,6 @@
 ### Características técnicas
 
 *	Bluetooth® V4.1, Clase II.
-*	Tecnología aptx HD.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
 *	Diámetro del driver: 10mm.
