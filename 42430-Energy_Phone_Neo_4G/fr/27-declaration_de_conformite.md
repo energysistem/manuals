@@ -9,9 +9,7 @@ Adresse: C/ Calpe, 1
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-Déclarons sous notre seule responsabilité que le produit :
-
-**Energy Sistem#trade# Energy Phone Neo 4G**
+Déclarons sous notre seule responsabilité que le produit : **Energy Sistem#trade# Energy Phone Neo 4G**
 
 Pays de fabrication: Chine
 
