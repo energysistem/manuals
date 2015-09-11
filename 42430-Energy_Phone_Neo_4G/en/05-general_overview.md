@@ -15,7 +15,7 @@
 10. Power button
 11. Volume button
 12. Back case extraction slot
-13. Recent Apps, Home, Back touch buttons
+13. Touch buttons: Recent Apps, Home, Back
 14. Front speaker
 15. Microphone
 16. IMEI and serial numbers
