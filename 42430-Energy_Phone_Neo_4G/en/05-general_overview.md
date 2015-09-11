@@ -1,7 +1,7 @@
 <quick_guide>
 ## General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42430/55e70c0d08227.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42430/55f2a6c4ca522.jpg)
 
 1. Rear flash
 2. Noise cancelling microphone
