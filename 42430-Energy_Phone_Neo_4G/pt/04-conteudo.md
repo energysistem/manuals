@@ -5,5 +5,5 @@
 * Película de protecção de ecrã.
 * Cabo USB 2.0.
 * Adaptador de corrente AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz.
-* Bateria recarregável de iões de lítio 
+* Bateria de lítio recarregável
 </quick_guide>
