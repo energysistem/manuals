@@ -5,6 +5,6 @@
 * Quick guide.
 * Screen protector.
 * Special USB cable for quick charging.
-* AC/DC (Europlug) 100-240V AC 50-60Hz power adapter for quick charge.
+* AC/DC 9V 1.5A (Europlug) 100-240V AC 50-60Hz power adapter for quick charge.
 </quick_guide>
 
