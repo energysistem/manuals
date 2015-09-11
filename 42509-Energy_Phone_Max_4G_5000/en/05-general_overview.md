@@ -19,7 +19,7 @@
 14.	MicroSD and microSIM protective lid
 15.	MicroSD card slot
 16.	MicroSIM card slot 2
-17.	MicroSIM card slot 2
+17.	MicroSIM card slot 1
 
 
 </quick_guide>
