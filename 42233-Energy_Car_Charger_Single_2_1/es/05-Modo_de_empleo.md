@@ -1,7 +1,8 @@
 ## <quick_guide> Modo de empleo
 
-1. Conecta tu cargador *Energy Home Charger 1.2A* a una toma de corriente eléctrica.
-2. Conecta tu dispositivo externo al cargador *Energy Home Charger 1.2A* mediante un cable USB para
+1. Retira el encendedor del coche de su conector (En caso de que la toma disponga de encendedor)
+2. Conecta tu cargador *Energy Home Charger 2.1A*
+2. Conecta tu dispositivo externo al cargador *Energy Home Charger 2.1A* mediante un cable USB para
 iniciar la carga.
 
 </quick_guide>
