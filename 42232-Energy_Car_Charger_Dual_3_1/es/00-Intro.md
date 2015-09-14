@@ -1,6 +1,6 @@
 ## <quick_guide> Introducción
 
-Energy Sistem te agradece la compra de tu nuevo *Energy Car Charger 2.1A*. Deseamos que lo disfrutes.Carga tus dispositivos portátiles alimentados por USB en tu aunomovil de una forma rápida, cómoda y segura.
+Energy Sistem te agradece la compra de tu nuevo *Energy Car Charger 3.1A*. Deseamos que lo disfrutes.Carga dos de tus dispositivos portátiles alimentados por USB en tu automovil simultaneamente de una forma rápida, cómoda y segura.
 
 Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
 
