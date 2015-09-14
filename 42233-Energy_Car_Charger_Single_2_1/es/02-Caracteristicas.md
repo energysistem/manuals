@@ -1,6 +1,6 @@
 ## Principales Características
 
-- Cargador con conector USB (tipo A).
-- Amperaje de salida de hasta 1200mA.
-- Entrada: AC 100V-240V.
-- Salida: DC 5V ± 0.25V, 1200mA.
+- Cargador de automovil con conector USB (tipo A).
+- Amperaje de salida de hasta 200mA.
+- Entrada: DC 12-24V
+- Salida: DC 5V ± 0.25V, 2100mA 
