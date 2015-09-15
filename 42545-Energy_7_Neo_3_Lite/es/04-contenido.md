@@ -1,5 +1,5 @@
 ## <quick_guide> Contenido del producto
-* Energy Tablet 9" Neo 2.
+* Energy Tablet 7" Neo 3 Lite. 
 * Guía rápida.
 * Cable USB-MicroUSB para conexión al PC.
 * Cable USB-HOST para conexión de dispositivos USB externos.
