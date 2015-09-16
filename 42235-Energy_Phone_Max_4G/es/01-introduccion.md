@@ -10,3 +10,4 @@ Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas esta guí
 ## <unique> * Encuentra el manual completo del *Energy Phone Max 4G* en el siguiente enlace  http://www.energysistem.com/guide/42235 </unique> </quick_guide>
 
 
+ 
