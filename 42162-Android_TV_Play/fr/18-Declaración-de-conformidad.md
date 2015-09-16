@@ -1,24 +1,22 @@
-## <quick_guide> Declaración de Conformidad
+<quick_guide>
+##  Déclaration de conformité
 
-![CE](http://static.energysistem.com/images/manuals/42162/55007b7fa091d.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
 
-Nombre del fabricante: Energy Sistem Soyntec S.A. 
-
-Dirección: Pol. Ind. Finestrat - C/.Calpe, 1.
-
-03509 Finestrat Alicante (España).
-
+Nom du Fournisseur:
+Energy Sistem Technology, S.A.
+Adresse: C/ Calpe, 1
+03509 Finestrat - Alicante (Espagne).
 Tel: 902 388 388 // Fax: 902 119 034
-
 NIF: A53107488
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Déclarons sous notre seule responsabilité que le produit :
 
 **Energy Sistem#trade# Energy Android TV Play**
 
-País de fabricación: China
+Pays de fabrication: Chine
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre. Puedes solicitar una copia de la declaración de conformidad en la dirección del fabricante anteriormente citada.
+Est conforme aux normes ou documents normatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09 mars 1999. Vous pouvez demander une copie de la declaration de conformité à l’adresse : C/ Calpe, 1 - 03509 Finestrat - Alicante (Espagne) Tel. +34 966 831 058
 
-Finestrat, 02 de enero de 2015
+Finestrat, 02 janvier 2015
 </quick_guide>
