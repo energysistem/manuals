@@ -1,12 +1,11 @@
-## Condiciones de la garantía
+<quick_guide>
+## Conditions de garantie
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Soyntec S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del Bien, en los términos y bajo las condiciones establecidas en la citada norma. Quedan excluidas del periodo de 36 meses las baterías del producto, cuyo período de garantía será de 12 meses.
+Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien. Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues. La garantie offerte par Energy Sistem couvre les défauts de matière ou de fabrication.
 
-En el caso de que el Bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución o, subsidiaria a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
+Cette garantie ne couvre pas les défauts ou détériorations résultant d'un accident, d'une utilisation inadéquate ou d'une manipulation du produit effectuée ou tentée par des personnes autres que celles de l'équipe d'Energy Sistem.
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero debido a uso indebido, negligencia, uso o empleo del Bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación.
+La garantie de 36 mois est valable pour l'Union Européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
 
-Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
-
-La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+</quick_guide>
 
