@@ -1,22 +1,19 @@
-## <quick_guide> Funcionamiento de la garantía
+<quick_guide>
+## Fonctionnement de la garantie
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrá encontrar FAQs (respuestas a preguntas mas frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, comme la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
 
-1. Puedes consultar la disponibilidad del manual del usuario en tu idioma en: http://www.energysistem.com/guide/42162
+ 1. Vous pouvez vérifier la disponibilité du manuel dans votre langue sur: http://www.energysistem.com/fr/guide/42162
 
-2. También ponemos a tu disposición el teléfono para la gestión de garantía **902 294 294** (teléfono de soporte técnico válido solo para España).
-Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.
+ 2. Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
 
-3. Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+**Important :** Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem ne sera pas obligé de stocker cette information et il est conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine. Les spécifications sont sujettes à changement sans préavis.
 
-*Importante:* Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem Soyntec S.A. no se verá en la obligación de respaldar dicha información. Por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica. Las especificaciones están sujetas a cambios sin previo aviso.
+## Marques commerciales
 
-## Marcas comerciales
+Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+© 2015 par Energy Sistem Technology, S.A. Tous droits réservés.
 
-© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
-
-*NOTA:* El presente dispositivo puede contener enlaces a sitios o páginas web operados por terceros ajenos a Energy Sistem Soyntec S.A. Estos enlaces son facilitados para tu información o comodidad; Energy Sistem Soyntec S.A. no se hace responsable de su disponibilidad, contenido, adecuación o exactitud. Dichas páginas externas pueden contener o hacer referencia a marcas, patentes, información registrada, tecnologías, productos, procesos, u otros derechos de la propiedad pertenecientes a otras personas. Todos los derechos reservados son propiedad de sus respectivos dueños.
-
+**AVIS:** Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d'autrui à Energy Sistem Technology, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude. Ces sites externes peuvent contenir ou faire référence à des marques, des brevets, des informations confidentielles, technologies, produits, processus ou autres droits de propriété appartenant à autrui. Tous les droits réservés sont la propriété de leurs propriétaires respectifs.
 </quick_guide>
