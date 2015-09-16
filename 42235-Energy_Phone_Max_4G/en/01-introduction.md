@@ -8,6 +8,7 @@ Your new phone has a 5” IPS HD (1280x720 pixels) capacitive multi-touch displa
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
-## <unique> * Find the complete manual of the *Energy Phone Max 4G* in the following link  http://www.energysistem.com/guide/42235 </unique> 
+## <unique> * Find the complete manual of the *Energy Phone Max 4G* in the following link  http://www.energysistem.com/guide/42235
+</unique> 
 
 </quick_guide>
