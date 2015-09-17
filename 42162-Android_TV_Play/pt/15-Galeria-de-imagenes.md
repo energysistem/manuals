@@ -1,4 +1,4 @@
-## Imagen
+## Galeria de imagens
 
 Esta aplicação permite mostrar imagens individuais e criar uma apresentação de slides apenas com pressionar um botão.
 
