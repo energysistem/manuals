@@ -1,4 +1,4 @@
-## Tela sem fio
+## Ecrã sem fios
 
 Seu Energy#trade# Android TV Play incorpora a função de tela de cast sem fio para compartilhar seus dispositivos compatíveis com tecnologia Miracast#trade# no seu televisor.
 
