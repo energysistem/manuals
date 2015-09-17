@@ -1,4 +1,4 @@
-## Cuidados e Manutenção
+## Cuidado e Manutenção
 
 - Não exponha o seu Energy#trade# Android TV Play a choques, a poeira, humidade, ou as altas temperaturas.
 - Não use produtos de limpeza corrosivos ou abrasivos.
