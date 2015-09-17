@@ -1,4 +1,4 @@
-## Reproductor de vídeo
+## Leitor de vídeo
 
 Navegue através do navegador de arquivos para seleccionar os vídeos para reproduzir.
 Pressione em **"OK"** ![OK](http://static.energysistem.com/images/manuals/42162/5501c8043769d.jpg) para entrar em diferentes unidades e pastas para reproduzir arquivos video . Pressione **"Back"** ![Back](http://static.energysistem.com/images/manuals/42162/5501c809057e9.jpg) para voltar um nível e voltar para os arquivos do navegador da reprodução.
