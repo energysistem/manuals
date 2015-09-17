@@ -1,4 +1,4 @@
-## <quick_guide> Controle remoto
+## <quick_guide> Telecomando
 
 ![] (http://static.energysistem.com/images/manuals/42162/55002aca7ca89.jpg)
 
