@@ -6,11 +6,7 @@ basada en el sistema operativo Android#trade#, con el que podrás acceder a Inte
 momento y lugar, consultar tu correo electrónico y reproducir todo tipo de contenido multimedia (vídeos, música, fotografías, eBooks, etc.).
 Además, hay disponibles miles de aplicaciones y juegos para que puedas sacarle el máximo provecho al
 dispositivo.
-<<<<<<< HEAD
-El sistema dispone de una pantalla multi-táctil capacitiva de 7" (1024x600 píxeles), procesador ARM Cortex A9 Dual Core 1GHz, Bluetooth 3.0, WiFi, cámaras frontal y trasera y memoria ampliable mediante tarjeta microSD.
-=======
 El sistema dispone de una pantalla multi-táctil capacitiva de 7" (1024x600 píxeles), procesador ARM Cortex A9 Dual Core 1GHz, Bluetooth 4.0, WiFi, cámaras frontal y trasera y memoria ampliable mediante tarjeta microSD.
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
 * Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y
 aprovechando al máximo sus prestaciones.
 
