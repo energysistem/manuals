@@ -18,7 +18,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 **Marca:** Energy Sistem#trade#
 
-**Modelo:** Energy Extra Battery 5000
+**Modelo:** Energy Extra Battery 10000
 
 **País de fabricación:** China
 

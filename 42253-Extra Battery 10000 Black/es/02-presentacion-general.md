@@ -1,10 +1,13 @@
 ## Presentación general
 
-![General View](http://static.energysistem.com/images/manuals/42251/55d33eb60ee5c.jpg)
+![General View](http://static.energysistem.com/images/manuals/42253/55fa871d4beac.jpg)
 
-1. Cable micro-USB integrado
-2. Indicador LED
-3. Salida micro-USB de 5V / 1000 mA
-4. Salida USB tipo A de 5V / 1000 mA para cargar todo tipo de dispositivos
+1. Cable integrado extraible con salida tipo micro-USB / Salida USB Tipo A de 5V / 2100 mA
+2. Tira de indicadores LED
+3. Entrada USB tipo micro-USB de 5V / 1000 mA
+4. Salida USB tipo A de 5V / 2100 mA
+5. Botón de indicación de carga
+
+
 
 
