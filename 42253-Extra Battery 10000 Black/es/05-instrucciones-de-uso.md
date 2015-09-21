@@ -3,7 +3,7 @@
 
 **Para cargar tu dispositivo:**
 
-Puedes conectar el cable integrado (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu cable de carga conectándolo a cualquiera de los puertos USB tipo A disponibles (1, extrayendo el cable integrado) / (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Puedes conectar el cable incluido (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu propio cable de carga conectándolo a cualquiera de los puertos USB tipo A disponibles (1, extrayendo el cable incluido) / (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
 
 Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
 
@@ -18,7 +18,8 @@ El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra 
 
 **Para cargar tu Energy Extra Battery:**
 
-Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3). Puedes usar también el cable extraible incluido (1). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3).
+Puedes usar también el cable extraible incluido (1). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
 
 El indicador LED mostrará en todo momento en qué estado se encuentra la carga de tu Extra Battery:
 

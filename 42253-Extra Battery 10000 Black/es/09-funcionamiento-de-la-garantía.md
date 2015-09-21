@@ -9,6 +9,5 @@ Marcas comerciales. Toda compañía, marca y nombres de producto son marcas come
 
 Las especificaciones están sujetas a cambios sin previo aviso.
 
-© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
+© 2015 por Energy Sistem Technology S.A. Todos los derechos reservados.
 
-</quick_guide>

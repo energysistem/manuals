@@ -8,5 +8,6 @@
 * Cable micro-USB extraible incluido en uno de los puertos USB para que no te líes.
 * 2 puertos USB Tipo A para conectar cualquier cable de carga y poder cargar a la vez todo tipo de dispositivos, incluido Iphone e Ipad.
 * Indicadores LED de carga y funcionamiento.
+* Botón de comprobación de carga.
 
 
