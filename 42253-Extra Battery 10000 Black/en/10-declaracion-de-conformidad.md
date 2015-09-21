@@ -18,11 +18,10 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 **Marca:** Energy Sistem#trade#
 
-**Modelo:** Energy Extra Battery 5000
+**Modelo:** Energy Extra Battery 10000
 
 **País de fabricación:** China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
 
-</quick_guide>
