@@ -1,4 +1,5 @@
-## <quick_guide> Presentación general
+<quick_guide>
+##  Presentación general
 
 
 1. Conector para la toma 12V de automovil 
