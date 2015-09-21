@@ -1,4 +1,5 @@
-## <quick_guide> Introduction
+<quick_guide>
+## Introduction
 
 Thank you for your trust in us and for buying the new *Energy Car Charger Dual 3.1A*. You can simultaneously charge two portable devices, while they are USB powered while travelling in your car.
 
