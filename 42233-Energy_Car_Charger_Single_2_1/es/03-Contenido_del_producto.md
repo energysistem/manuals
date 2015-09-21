@@ -1,4 +1,5 @@
-## <quick_guide> Contenido del producto
+<quick_guide>
+## Contenido del producto
 
 - Cargador USB *Energy Car Charger 2.1A*.
 - Manual de usuario.
