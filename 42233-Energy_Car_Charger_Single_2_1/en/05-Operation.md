@@ -1,5 +1,7 @@
-## <quick_guide> Operation
+<quick_guide> 
+## Operation
 
-1. Connect your *Energy Home Charger 1.2A* to the socket.
-2. Connect your portable device to the *Energy Home Charger 1.2A* using a USB cable to start
-charging.
+1.	Remove the lighter from its socket (In case the socket has a lighter).
+2.	Connect the* Energy Car Charger 2.1A*.
+3.	Connect your external device to the *Energy Home Charger 2.1A* using the USB cable and it will automatically start charging.
+</quick_guide> 
