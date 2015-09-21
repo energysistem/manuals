@@ -1,3 +1,3 @@
 ## <quick_guide> Product Content
-- USB charger *Energy Home Charger 1.2A*.
+- *Energy Car Charger Dual 3.1A.A* USB charger.
 - User manual.
