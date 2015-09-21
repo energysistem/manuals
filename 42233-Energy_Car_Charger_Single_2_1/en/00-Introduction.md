@@ -1,10 +1,10 @@
-## <quick_guide> Introduction
+<quick_guide>
+## Introduction
 
-Energy Sistem® thanks you for buying your new USB charger *Energy Home Charger 1.2A*. We
-wish you enjoy using it.
-It charges your device’s battery in a fast, easy and safe way, without turning on your PC.
+Thank you for your trust in us and for buying the new *Energy Car Charger 2.1A*. You can simultaneously charge two portable devices, while they are USB powered while travelling in your car.
 
-We recommend you to read this user manual in order to get the most of your device on an easily and comfortable way, enjoying all features.
+Before you start using it we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
+
 
 **Note:** Carefully check the amperage input allowed by your USB device. If the amperage is not the
 correct one in every case, the device could not charge correctly or even could be damaged.
