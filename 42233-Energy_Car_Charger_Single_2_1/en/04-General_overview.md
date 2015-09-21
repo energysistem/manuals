@@ -1,8 +1,10 @@
-## <quick_guide> General Overview
+<quick_guide>
+##  General Overview
 
 ![IMAGEN GENERAL DEL PRODUCTO]
 
-1. Europlug (type C) connector.
-2. USB connector.
+1.	Connector for the 12 V light socket of the car
+2.	USB Connector
+3.	LED power indicator
 
 </quick_guide>
