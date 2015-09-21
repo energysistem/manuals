@@ -1,7 +1,7 @@
 <quick_guide>
 ## Contenido del producto
 
-* Energy Phone Max 4G.
+* Energy Phone Neo Lite.
 * Guía Rápida.
 * Protector de pantalla.
 * Cable USB 2.0.

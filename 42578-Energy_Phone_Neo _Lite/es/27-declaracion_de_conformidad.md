@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaración de Conformidad
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![Imagen1]()
 
 Nombre del fabricante:
 Energy Sistem Technology S.A.
@@ -12,7 +12,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Phone Max 4G**
+**Energy Sistem#trade# Energy Phone Neo Lite**
 
 País de fabricación: China
 

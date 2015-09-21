@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Portada](00-portada.md)
 * [IntroducciÃ³n](01-introduccion.md)
 * [Cuidado y mantenimiento](02-mantenimiento.md)
@@ -8,7 +9,7 @@
 * [Presentacion general](05-presentacion_general.md)
 * [AlimentaciÃ³n/Primer uso](06-alimentacion.md)
 * [Encendido y apagado](07-encendido.md)
-* [Colocación de lámina protectora] (08-lamina_protectora.md)
+* [Colocaciï¿½n de lï¿½mina protectora] (08-lamina_protectora.md)
 * [Tipos de pulsaciones](09-tipos_de_pulsaciones.md)
 * [Pantalla principal](10-pantalla_principal.md)
 * [Widgets](11-widgets.md)

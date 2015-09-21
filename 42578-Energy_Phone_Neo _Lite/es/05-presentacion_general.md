@@ -1,24 +1,26 @@
 <quick_guide>
 ## Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/42595/55f2a5126bac1.jpg)
+![Imagen2]()
 
-1. Botón de encendido/apagado
-2. Botón de volumen
+1. Flash trasero
+2. Cámara trasera
 3. Cámara frontal
-4. Sensores de luminosidad y de proximidad
+4. Salida de auriculares
 5. Receptor
-6. Entrada USB
-7. Salida de auriculares
-8. Cámara trasera
-9. Flash trasero
-10. Altavoz
-11. Micrófono
+6. Sensores de luminosidad y de proximidad
+7. Botón de volumen
+8. Botón de encendido/apagado
+9. Ranura para extracción de carcasa trasera
+10. Micrófono
+11. Entrada USB
 12. Botones táctiles: aplicaciones recientes, inicio, volver
-13. Ranura de tarjeta microSIM 1
-14. Ranura de tarjeta microSIM 2
-15. Ranura de tarjeta microSD
-16. Número de serie y números de IMEI
-17. Batería
+13. Altavoz
+14. Ranura de tarjeta microSD
+15. Ranura de tarjeta SIM 2
+16. Ranura de tarjeta SIM 1
+17. Número de serie y números de IMEI
+18. Batería
+
 
 </quick_guide>
