@@ -1,6 +1,8 @@
 ## Principales caractéristiques
 
-- Chargeur avec connecteur USB (type A).
-- Ampérage sortie jusqu'à 1200mA.
-- Entrée: AC 100V-240V.
-- Sortie: DC 5V ± 0,25V, 1200mA.
+-	Chargeur pour voiture avec deux connecteurs USB Type A.
+-	Permet de charger deux appareils simultanément. 
+-	Ampérage sortie jusqu'à 3100 mA.
+-	Entrée : DC 12-24V
+-	Sorties :  DC 5V ± 0.25 V, 2100 mA et DC 5V ± 0.25 V, 1000 mA
+
