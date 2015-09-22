@@ -1,7 +1,7 @@
 <quick_guide>
 ## Introduction
 
-Thank you for your trust in us and for buying the new *Energy Car Charger 2.1A*. You can charge your portable devices while travelling in your car.
+Thank you for your trust in us and for buying the new *Energy Car Charger 2.1A*. You can charge your USB portable devices while travelling in your car.
 
 Before you start using it we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
