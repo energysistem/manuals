@@ -1,4 +1,5 @@
-## <quick_guide> Conteúdo do produto
+<quick_guide> 
+## Conteúdo do produto
 
 * Carregador USB *Energy Car Charger 2.1A*.
 * Manual do usuário.
