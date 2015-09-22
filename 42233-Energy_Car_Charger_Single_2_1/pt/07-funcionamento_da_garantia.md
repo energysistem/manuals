@@ -1,4 +1,5 @@
-## <quick_guide>Funcionamento da garantia
+<quick_guide>
+## Funcionamento da garantia
 
 Visite a secção de suporte neste link: http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Perguntas frequentes), os manuais do usuário, os drivers e as actualizações disponíveis.
 
