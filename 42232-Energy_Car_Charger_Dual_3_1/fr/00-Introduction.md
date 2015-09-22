@@ -1,8 +1,10 @@
-## <quick_guide> Introduction
+<quick_guide>
+##  Introduction
 
-Energy Sistem#trade# vous remercie d'avoir  acquis le chargeur Energy Home Charger 1.2A, nous espérons que vous apprécierez notre produit.Rechargez vos appareils portables alimentés par USB dans façon rapide, en toute sécurité, confortablement et sans allumer votre ordinateur.
+Merci de votre confiance et de l'achat de votre nouveau Energy Car Charger Dual 3.1A. Vous pouvez charger simultanément deux périphériques USB portables alimentés tout en voyageant dans la voiture.
 
-Nous vous conseillons de lire ce manuel pour apprécier le produit en toute sécurité et en maximisant toutes ses fonctions.
+Avant de commencer à profiter de votre batterie nous vous conseillons de lire cette guide pour profiter toutes ses caractéristiques. 
 
-Remarque: Vérifiez l'ampérage d'entrée supporté par votre périphérique USB. Si l'ampérage n'est pas correct dans chaque cas, l'appareil peut ne pas charger correctement ou peut être endommagé.
+*Avis* : Vérifiez l'ampérage d'entrée supporté par votre périphérique. Si l'ampérage n'est pas correct dans chaque cas, l'appareil peut ne pas charger correctement ou peut être endommagé
+
 </quick_guide>
