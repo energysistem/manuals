@@ -12,7 +12,7 @@ NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto: 
 
-*Energy Sistem™ Energy Phone Neo Lite* 
+*Energy Sistem #trade# Energy Phone Neo Lite* 
 
 País de fabricação: China
 
