@@ -1,4 +1,4 @@
- <quick_guide>
+<quick_guide>
 ## Instruções de utilização
 
 Para utilizar o Energy Car Charger 2.1A deve seguir estes passos:
