@@ -1,4 +1,5 @@
 ## <quick_guide> Apresentação geral
-1. Conector Europlug (tipo C) para ligação à rede eléctrica.
-2. Conector USB.
+1. Adaptador para ligar a tomada do carro (12V).
+2. Conector USB
+3. Indicador LED de dispositivo ligado
 </quick_guide> 
