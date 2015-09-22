@@ -11,6 +11,6 @@ O, si lo prefieres,  puedes dirigirte al lugar donde compraste el producto, pres
 
 Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-© 2015 por Energy Sistem Technology S.A. Todos los derechos reservados.
+© 2015 por Energy Sistem Technology, S.A. Todos los derechos reservados.
 
 </quick_guide>
