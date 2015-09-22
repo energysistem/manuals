@@ -1,5 +1,6 @@
 ## <quick_guide> Contenu du produit
 
-* Chargeur USB Energy Home Charger 1.2A.
-* Manuel de l'utilisateur.
+*	Chargeur USB Energy Car Charger Dual 3.1A.
+*	Manuel de l'utilisateur.
+
 </quick_guide>
