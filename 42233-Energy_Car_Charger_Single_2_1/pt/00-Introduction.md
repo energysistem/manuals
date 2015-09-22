@@ -1,7 +1,7 @@
 ## <quick_guide> Introdução
-Energy Sistem agradece-lhe por adquirir o seu novo *Energy Home Charger 1.2A*. desejamos que tire o maior proveito. Carregue seus dispositivos alimentados com USB portátil de maneira rápida, confortável, segura e sem ligar seu computador.
+Agradecemos-lhe a sua confiança pela aquisição do seu novo *Energy Car Charger Single 2.1A*. Com este dispositivo poderá carregar dois dispositivos portáteis através de USB enquanto conduz o seu carro.
 
-Sugerimos que você leia este manual para desfrutar do produto de forma segura e maximizar todas as suas características.
+Antes de começar a utilizar o produto, aconselhamos ler a presente guia para tirar o máximo partido das prestações do  produto. 
 
-Nota: Verifique a amperagem de entrada suportado pelo dispositivo USB. Se a amperagem não está correcta em cada caso, o dispositivo não pode carregar correctamente ou pode ficar danificado.
+Importante: Antes de começar com o carregamento de um dispositivo, é preciso verificar a amperagem. Se esta não for correcta, pode que o dispositivo não carregue correctamente ou resulte danificado. 
 </quick_guide>
