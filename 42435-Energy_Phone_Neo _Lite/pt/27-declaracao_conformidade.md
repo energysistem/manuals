@@ -10,7 +10,9 @@ Morada: C/ Calpe, 1
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto: *Energy Sistem™ Energy Phone Neo Lite* 
+Declaramos sob a nossa exclusiva responsabilidade que o produto: 
+
+*Energy Sistem™ Energy Phone Neo Lite* 
 
 País de fabricação: China
 
