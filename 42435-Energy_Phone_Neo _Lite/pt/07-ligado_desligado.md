@@ -5,7 +5,7 @@ Antes de ligar o seu Energy Phone Neo Lite é preciso controlar que os cartões 
 
 Para desligar o dispositivo mantenha premido o botão de ligar / desligar (8) até que apareça o menu de desligamento. Seguidamente, escolha a opção “Desligar”.
 
-Um breve toque no botão de ligar / desligar (1) bloqueia / desbloqueia o dispositivo ao mesmo tempo que liga ou desliga o ecrã e activa o modo de poupança de energia.
+Um breve toque no botão de ligar / desligar (8) bloqueia / desbloqueia o dispositivo ao mesmo tempo que liga ou desliga o ecrã e activa o modo de poupança de energia.
 
 
 </quick_guide>
