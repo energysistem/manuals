@@ -1,7 +1,11 @@
-## <quick_guide> Instructions d'utilisation
+<quick_guide>
+## Instructions d'utilisation
 
-1. Branchez votre chargeur *Energy Home Charger 1.2A* à une prise électrique.
-2. Connectez votre périphérique externe au chargeur *Energy Home Charger 1.2A* via un câble USB pour
-commencer le chargement.
+Pour utiliser l'Energy Car Charger 2.1 A suivez ces étapes simples :
+
+1.	Enlevez l'allume-cigare de la voiture de son connecteur (Si le connecteur a un allume-cigare)
+2.	Connectez votre chargeur Energy Home Charger 2.1A
+3.	Connectez votre chargeur au périphérique externe Energy Home Charger 2.1A via le câble USB et le chargement commencera automatiquement.
+
 
 </quick_guide>
