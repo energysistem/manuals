@@ -2,12 +2,13 @@
 
 ## Product content
 
-* Energy Phone Max 4G.
+* Energy Phone Neo Lite.
 * Quick guide.
 * Screen protector.
-* USB 2.0 cable.
+* 2.0 USB cable
 * AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz power adapter.
-* Rechargeable Lithium Battery.
+* Rechargeable lithium battery.
+
 
 </quick_guide>
 
