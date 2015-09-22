@@ -1,5 +1,5 @@
 ## <quick_guide> Conteúdo do produto
 
-* Carregador USB Energy Home Charger 1.2A.
-* Manual do Usuário.
+* Carregador USB *Energy Car Charger 2.1A*.
+* Manual do usuário.
 </quick_guide>
