@@ -1,7 +1,7 @@
 <quick_guide>
 ## Precauções de utilização 
 
-##Precauções de utilização
+### Precauções de utilização
 Em certas situações ou locais como aviões, hospitais, estações de serviço e outros é proibida a utilização do telefone.
 
 A fim de reduzir a quantidade de radiação recebida, utilize um kit mãos-livres, o modo altifalante ou um auscultador bluetooth. Não faça chamadas nos locais onde o sinal é fraco ou no carro, trem ou comboio. Mantenha o telefone afastado de áreas sensíveis como a barriga das mulheres grávidas, especialmente se está a fazer uma chamada. Se tem um implante electrónico (marca-passos, dispositivos de neuro-estimulação, etc...) posicione o telefone no lado oposto ao implante a uma distância mínima de 15 centímetros do corpo quando faça uma chamada.
