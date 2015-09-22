@@ -4,23 +4,25 @@
 
 ![Imagen1]()
 
-1.	Power button
-2.	Volume button
-3.	Front camera
-4.	Proximity and luminosity sensors
-5.	Receiver
-6.	USB Input
-7.	Earphones output
-8.	Rear camera
-9.	Rear flash
-10.	Speaker
-11.	Microphone
-12.	Touch buttons: Recent Apps, Home, Back
-13.	MicroSIM card slot 1
-14.	MicroSIM card slot 2
-15.	MicroSD card slot
-16.	IMEI and serial numbers
-17.	Battery
+1. Rear flash
+2. Rear camera
+3. Front camera
+4. Earphones output
+5. Receiver
+6. Proximity and luminosity sensors
+7. Volume button
+8. Power button
+9. Back case extraction slot
+10. Microphone 
+11. USB Input
+12. Touch buttons: Recent Apps, Home, Back
+13. Speaker
+14. MicroSD card slot
+15. SIM 2 card slot
+16. SIM 1 card slot
+17. IMEI and serial numbers
+18. Battery
+
 
 
 </quick_guide>
