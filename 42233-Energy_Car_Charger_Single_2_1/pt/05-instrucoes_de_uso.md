@@ -1,7 +1,10 @@
-## <quick_guide> Como usar
+ <quick_guide>
+## Instruções de utilização
 
-1. Conecte o carregador *Energy Home Charger 1.2A* a uma tomada de parede.
-2. Conecte o dispositivo externo para o carregador *Energy Home Charger 1.2A* através de um cabo USB para
-iniciar o carregamento.
+Para utilizar o Energy Car Charger 2.1A deve seguir estes passos:
+
+1.	Remova a parte superior do isqueiro no carro (no caso que a tomada seja através do isqueiro)
+2.	Ligue o seu carregador *Energy Car Charger 2.1A*
+3.	Ligue o dispositivo externo ao carregador *Energy Car Charger 2.1A* através do cabo USB e o dispositivo começará a carregar automaticamente.
 
 </quick_guide>
