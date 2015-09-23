@@ -10,7 +10,8 @@ Morada: C/ Calpe, 1
 Tel: 902 388 388 // Fax:902 119 034
 NIF: A53107488
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto: 
+Declaramos sob a nossa exclusiva responsabilidade que o produto:
+
 **Energy Sistem#trade# Energy Car Charger Dual 3.1A** 
 
 País de fabricação: China Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva
