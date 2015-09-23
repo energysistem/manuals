@@ -9,7 +9,7 @@ Address: C/ Calpe, 1.
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Car Charger 2.1A**
+We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Car Charger 3.1A**
 
 Manufacturing country: China
 
