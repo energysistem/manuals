@@ -18,7 +18,7 @@ O indicador LED mostra sempre o estado da sua Extra Battery:
 
 Ligue o cabo do carregador do seu smartphone ou tablet à porta micro USB da sua Energy Extra Battery (3). O processo de carregamento começa imediatamente e o indicador LED (2) acende.
 
-O indicador LED mostra sempre o estado de carregamento da sua Extra Battery: : 
+O indicador LED mostra sempre o estado de carregamento da sua Extra Battery:
 
 * LED vermelho intermitente lento: a carregar (capacidade: 1/3)
 * LED âmbar intermitente lento: a carregar (capacidade: 2/3)
