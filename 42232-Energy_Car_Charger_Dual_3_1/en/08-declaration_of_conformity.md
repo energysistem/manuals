@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaration of conformity
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![CE](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 Manufacturer Name: Energy Sistem Technology, S.A.
 Address: C/ Calpe, 1.
