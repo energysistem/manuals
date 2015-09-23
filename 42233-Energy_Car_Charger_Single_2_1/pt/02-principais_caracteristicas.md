@@ -1,4 +1,4 @@
-## Principais características
+## Características principais
 
 * Carregador para o carro com conector USB (tipo A).
 * Amperagem de saída até 2100mA.
