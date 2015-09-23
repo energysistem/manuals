@@ -1,4 +1,4 @@
-## FAQs
+## Perguntas frequentes
 
 **Posso utilizar qualquer cabo USB?**
 
