@@ -10,11 +10,11 @@ No caso de dispositivos que têm sistemas de ligação especiais, como por exemp
 
 A carga vai depender da capacidade da bateria que tenha o dispositivo que vai carregar. Por exemplo, um smartphone tem normalmente uma capacidade que vai de 1400 até 2200 mAh, dependendo do modelo. A sua Energy Extra Battery completamente carregada tem uma capacidade de 2500 mAh, mas durante o processo de carregamento é inevitável perder energia. Também vai depender do uso que faça do dispositivo e da sua configuração porque durante o processo de carregamento, este também pode consumir energia, especialmente se está ligado ou tem o Wifi ligado, 4G...
 
-**Quanto tempo vai demorar carregar o meu dispositivo?**
+**Quanto tempo vai demorar para carregar o meu dispositivo?**
 
 O tempo de carregamento vai depender da capacidade da bateria que tenha o seu dispositivo. As duas portas da sua Energy Extra Battery são de 1 ampere, o que equivale ao voltagem de saída que oferecem a maior parte dos carregadores originais de smartphone no mercado, portanto, o tempo de carregamento vai ser parecido. Se utiliza as duas portas ao mesmo tempo, o tempo de carregamento vai ser maior.
 
-**Quanto tempo vai demorar carregar a minha Energy Extra Battery?**
+**Quanto tempo vai demorar para carregar a minha Energy Extra Battery?**
 O tempo de carregamento vai depender da fonte de electricidade, a qual depende directamente da sua capacidade. Se está a utilizar como fonte um computador, o carregamento vai demorar mais tempo que um carregador de smartphone ou tablet, principalmente porque estes têm capacidade para carregar dispositivos. O processo pode variar entre 2 e 5 horas.
 
 
