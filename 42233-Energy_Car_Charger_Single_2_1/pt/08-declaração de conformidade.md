@@ -12,7 +12,7 @@ NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
-**Energy Sistem#trade# Energy Car Charger Dual 3.1A** 
+**Energy Sistem#trade# Energy Car Charger 2.1A** 
 
 País de fabricação: China Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva
 2004/08/CE do Parlamento Europeu e do Conselho de 15 de Decembro de 2004. Pode solicitar uma cópia da declaração de conformidade em: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
