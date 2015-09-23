@@ -10,7 +10,7 @@
 5. Récepteur
 6. Capteurs de luminosité et de proximité
 7. Bouton de volume
-8. Bouton de démarrage/éteint
+8. Bouton de allumer/éteindre
 9. Fente pour extraction de la coque arrière
 10. Microphone
 11. Entrée USB
