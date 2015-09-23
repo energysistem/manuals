@@ -1,6 +1,6 @@
 ## Características principais 
  
-* Carregador com duas portas USB (tipo A) para o carro.
+* Carregador para o carro com duas portas USB (tipo A).
 * Permite carregar dois dispositivos ao mesmo tempo.
 * Amperagem de saída até 3100 mA.
 * Entrada: AC 12V-24V.
