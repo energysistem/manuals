@@ -1,28 +1,27 @@
-## <quick_guide> Declaración de conformidad
+## <quick_guide> Declaração de conformidade
 
 ![CE](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-**Nombre del suministrador:** Energy Sistem Technology S.A.
+**Nome do fabricante:** Energy Sistem Technology, S.A. 
 
-**Fecha:** 06/07/2015
+**Data:** 06/07/2015 
 
-**Dirección:**Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
+**Morada:** C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha) 
 
-**Tel:** 902 388 388
+**Tel.:**  902 388 388 
 
-**Fax:** 902 119 034
+**Fax:** 902 119 034 
 
-**NIF:** A53107488
+**NIF:** A53107488 
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
-**Marca:** Energy Sistem#trade#
+**Marca:** Energy Sistem#trade#  
 
-**Modelo:** Energy Extra Battery 2500
+**Modelo:** Energy Extra Battery 2500 
 
-**País de fabricación:** China
+**País de fabricação:** China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
-
+Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 2004/08/CE do Parlamento Europeu e do Conselho de 14 de Dezembro de 2004.
 
 </quick_guide>
