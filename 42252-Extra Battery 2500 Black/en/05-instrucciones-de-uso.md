@@ -29,5 +29,5 @@ El indicador LED mostrará en todo momento en qué estado se encuentra la carga 
 
 #### **NOTA:**
 
-#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga. La carga un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga. La carga de un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
 
