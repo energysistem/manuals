@@ -1,8 +1,9 @@
-## Introducción
+## Introduction
 
-Energy Sistem#trade# te agradece la compra de tu nueva batería portátil Energy Extra Battery 2500. Esperamos que la disfrutes.
+Thank you for buying the new Energy Extra Battery 2500. We hope that you enjoy it and that it turns into your best ally for your everyday life. 
 
-Esta batería portátil recargable de 2500 mAh de capacidad es perfecta para recargar tu smartphone, reproductor multimedia u otros dispositivos en cualquier lugar gracias a su cable integrado, puerto USB adicional, diseño ultraligero y práctico tamaño de bolsillo.
+This portable and rechargeable power bank with 2500 mAh capacity is ideal to recharge the battery of your smartphone, multimedia player or other devices wherever you are thanks to its integrated cable, additional USB port, ultra-slim and practical pocket-size design.
 
-Te aconsejamos que leas este manual para que puedas disfrutar de tu Energy Extra Battery de una manera segura, aprovechando al máximo todas sus prestaciones.
+We recommend reading this manual in order to make the most of the product features before you start using it. 
+
 
