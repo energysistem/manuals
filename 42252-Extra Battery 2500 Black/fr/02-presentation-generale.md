@@ -6,6 +6,6 @@
 2.	Indicateur LED
 3.	Sortie microUSB de 5V / 1000 mA
 4.	Sortie USB type A 5V / 1000 mA pour pour charger n'importe quel appareil.
-
+ 
 
 
