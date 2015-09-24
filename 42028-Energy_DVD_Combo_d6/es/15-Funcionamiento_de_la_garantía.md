@@ -1,11 +1,12 @@
-## 13. FUNCIONAMIENTO DE LA GARANTÍA
-1. Entrando en http://support.energysistem.com y tras seleccionar su producto podrá encontrar FAQ’s (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones.
-2. Si no obtiene en la sección de soporte la solución, puede hacernos llegar su consulta o solicitud de gestión de garantías a través del email: soporte@energysistem.com
-3. También ponemos a su disposición el teléfono para la gestión de garantía 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica tenga a mano el Ticket o Factura de compra y el número de serie del producto.
-4. Opcionalmente se puede dirigir al lugar donde compró el producto, presentando su Factura o Ticket de compra.
+## Funcionamiento de la Garantía
 
-Teléfono de Atención al Cliente (en España): 902 294 294
+Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+
+También puedes ponerte en contacto con nosotros para gestionar la garantía a través del número de teléfono 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica debes tener a mano el ticket o factura de compra y el número de serie del producto.
+Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+
+Marcas comerciales. Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
 Las especificaciones están sujetas a cambios sin previo aviso.
 
-© 2009 por Energy Sistem®. Todos los derechos reservados.
+© 2015 por Energy Sistem Technology S.A. Todos los derechos reservados.
