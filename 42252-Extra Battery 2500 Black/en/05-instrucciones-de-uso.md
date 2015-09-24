@@ -1,33 +1,34 @@
-## Instrucciones de uso
+## User instructions
 
-**Para cargar tu dispositivo:**
+**Charging a device:**
 
-Puedes conectar el cable micro-USB (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu cable de carga conectándolo al puerto USB tipo A adicional (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Connect the built-in micro-USB cable (1) to the micro USB output port of the device you want to charge.  You can also use your charging cable by connecting it to the additional USB Type A output port (4). The charging process will start immediately and the LED indicator (2) will light.
 
-Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+Once the charging process has finished, disconnect the device and the Extra Battery will turn off automatically.
 
-El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra Battery: 
+The LED indicator will show the charging status of your Extra Battery any time: 
 
-* LED Verde permanente: Nivel óptimo de batería (3/3 de capacidad)
-* LED Ámbar permanente: Nivel medio de batería (2/3 de capacidad)
-* LED Rojo permanente: Nivel bajo de batería (1/3 de capacidad)
-* LED Rojo parpadeo rápido: Batería agotada
+* Permanent green LED: optimum battery level (Capacity: 3/3)
+* Permanent amber LED: medium battery level (Capacity: 2/3)
+* Permanent red LED: low battery level (Capacity: 1/3)
+* Fast flashing red LED: empty battery.
 
 
-**Para cargar tu Energy Extra Battery:**
 
-Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+**Charging your Energy Extra Battery:**
 
-El indicador LED mostrará en todo momento en qué estado se encuentra la carga de tu Extra Battery: 
+Connect the charging cable of your smartphone or tablet to the micro-USB port of your Energy Extra Battery (3). The charging process will start immediately and the LED indicator (2) will light.
 
-* LED Rojo parpadeo lento: Cargando (1/3 de capacidad)
-* LED Ámbar parpadeo lento: Cargando (2/3 de capacidad)
-* LED Verde parpadeo lento: Cargando (3/3 de capacidad)
-* LED Verde permanente: Batería cargada 
+The LED indicator will show the status of your Extra Battery any time: 
+
+* Slow red flashing LED: charging (Capacity: 1/3)
+* Slow amber flashing LED: charging (Capacity: 2/3)
+* Slow green flashing LED: charging (Capacity: 3/3)
+* Permanent green LED: charged battery. 
 
 ![LED STATUS](http://static.energysistem.com/images/manuals/42252/55c071b2d0c5d.jpg)
 
-#### **NOTA:**
+#### **IMPORTANT:**
 
-#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga. La carga de un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+#### If you use both outputs to charge two devices, the required charging time will increase. Please take into account that charging your Energy Extra Battery and other device simultaneously may result in a reduction of the battery life.
 
