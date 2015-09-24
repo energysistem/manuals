@@ -1,8 +1,7 @@
 ## Introducción
 
-Energy Sistem#trade# te agradece la compra de tu nueva batería portátil Energy Extra Battery 2500. Esperamos que la disfrutes.
+Energy Sistem#trade# vous remercie pour l'achat de cette nouvelle batterie portable Energy Extra Battery 2500. Profitez de l'appareil.
 
-Esta batería portátil recargable de 2500 mAh de capacidad es perfecta para recargar tu smartphone, reproductor multimedia u otros dispositivos en cualquier lugar gracias a su cable integrado, puerto USB adicional, diseño ultraligero y práctico tamaño de bolsillo.
+Cette batterie portable et rechargeable avec 2500 mAh de capacité est idéale pour recharger votre smartphone, lecteurs multimédia ou d'autres appareils électroniques n'importe où. 
 
-Te aconsejamos que leas este manual para que puedas disfrutar de tu Energy Extra Battery de una manera segura, aprovechando al máximo todas sus prestaciones.
-
+Nous vous conseillons de lire cette guide pour tirer le meilleur parti à votre produit en toute sécurité et profiter toutes ses caractéristiques.
