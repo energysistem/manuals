@@ -29,5 +29,5 @@ O indicador LED mostra sempre o estado de carregamento da sua Extra Battery:
 
 #### **IMPORTANTE:**
 
-#### Pode utilizar as duas portas para carregar dois dispositivos ao mesmo tempo, o qual aumentará o tempo de carregamento. A vida útil da bateria pode reduzir-se se carrega um dispositivo ao mesmo tempo que a Energy Extra Battery. 
+#### Pode utilizar as duas portas para carregar dois dispositivos ao mesmo tempo, o qual aumentará o tempo de carregamento. A vida útil da bateria pode reduzir-se ao carregar um dispositivo ao mesmo tempo que a Energy Extra Battery. 
 
