@@ -7,6 +7,7 @@ Visit the Support section at http://www.energysistem.com/en/support and select y
 
 2. Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
+Specifications are subject to change without notice.
 
 ## Trademarks
 
