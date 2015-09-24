@@ -1,4 +1,4 @@
-## Introducción
+## Introduction
 
 Energy Sistem#trade# vous remercie pour l'achat de cette nouvelle batterie portable Energy Extra Battery 2500. Profitez de l'appareil.
 
