@@ -29,5 +29,5 @@ L'indicateur LED montrera toujours l'état de charge de la batterie de votre Ext
 
 #### **AVIS:**
 
-#### Vous pouvez utiliser les deux sorties pour charger deux appareils, ce qui augmenterait les temps de charge. Si vous chargez un appareil lors du chargement de l'Energy Extra Battery, la vie la l'Energy Extra Battery peut être réduite.
+#### Vous pouvez utiliser les deux sorties pour charger deux appareils, ce qui augmenterait les temps de charge. Si vous chargez un appareil lors du chargement de l'Energy Extra Battery, la vie de l'Energy Extra Battery peut être réduite.
 
