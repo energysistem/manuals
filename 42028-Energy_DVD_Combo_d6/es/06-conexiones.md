@@ -12,6 +12,6 @@ correspondiente. Asegúrate de desenchufar todos los equipos de la red eléctric
 ### Conexión SCART
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf86252d89a.jpg)
 
-### Conexión de audio digital a amplificador AV
+### Conexión de audio a amplificador AV
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf845dd5a80.jpg)
 
