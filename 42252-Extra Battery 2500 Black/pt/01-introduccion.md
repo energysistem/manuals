@@ -4,5 +4,5 @@ Energy Sistem#trade# agradece-lhe a aquisição da sua nova Energy Extra Battery
 
 Esta bateria portátil recarregável com uma capacidade de 2500mAh é perfeita para carregar a bateria do seu smartphone, leitor multimédia ou outros dispositivos em qualquer lugar graças ao seu cabo integrado, porta USB adicional, desenho ultra-leve e prático tamanho de bolso. 
 
-Antes de começar a utilizá-la, aconselhamos ler esta guia para tirar o máximo partido de todas as prestações que oferece.
+Antes de começar a utilizá-la, aconselhamos ler este manual para tirar o máximo partido de todas as prestações que oferece.
 
