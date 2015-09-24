@@ -1,68 +1,55 @@
-## 6. MENÚ PRINCIPAL
+## Menu principal
 
 El menú principal te permite acceder a la Configuración DVD, Menú DVB, Configuración de Sistema y Juegos. Pulsa el botón SETUP para acceder al menú principal.
 
-### 6.1. CONFIGURACIÓN DVD
+### Configuración DVD
 
-#### 6.1.1. CONFIGURACIÓN DEL IDIOMA
+#### Configuración de Idioma
 
 * Menu: Selecciona el idioma del menú de disco.
 * Audio: Selecciona el idioma del audio.
 * Subtítulos: Selecciona el idioma de los subtítulos.
 * Subtítulos externos: Selecciona la codificación de los subtítulos MPEG4.
 
-#### 6.1.2. CONFIGURACIÓN DEL AUDIO
+#### Configuración de Audio
 
-* Salida Digital
-  * Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
-  * SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
-  * SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
-* Downmix
-<<<<<<< HEAD
-  * Lt/Rt: Selecciona esta opción cuando el d6 esté conectado a un dispositivo compatible con Dolby Pro Logic.
-  * Lo/Ro: Selecciona esta opción cuando el d6 está conectado a un dispositivo estéreo convencional.
-=======
-  * Lt/Rt: Selecciona esta opción cuando el d5 AV esté conectado a un dispositivo compatible con Dolby Pro Logic.
-  * Lo/Ro: Selecciona esta opción cuando el d5 AV está conectado a un dispositivo estéreo convencional.
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+- Salida Digital
+-- Desactivado – Selecciona esta opción cuando no se utilice ninguna salida digital.
+-- SPDIF/RAW - Las señales Dolby Digital no son modificadas. En general, esta opción se utiliza con un amplificador 5.1.
+-- SPDIF/PCM – Las señales Dolby Digital y MPEG 2 multicanal se convierten a PCM (Pulse Code Modulation). Esta opción se utiliza con amplificadores o receptores sin decodificador de audio digital multicanal.
+-- Downmix
+-- Lt/Rt: Selecciona esta opción cuando el d5 AV esté conectado a un dispositivo compatible con Dolby Pro Logic.
+-- Lo/Ro: Selecciona esta opción cuando el d5 AV está conectado a un dispositivo estéreo convencional.
 
-#### 6.1.3. CONFIGURACIÓN PERSONAL
+#### Configuración Personal
 
-* Control parental
- * Selecciona el nivel que desees y pulsa OK para confirmar. A continuación, introduzca la contraseña por defecto “6666”. Si has olvidado la contraseña introduce la contraseña por defecto: “6666”.
-* Marca de ángulo
- * Act.: Activa la función.
- * Desac.: Desactiva la función.
+- Control parental
+-- Selecciona el nivel que desees y pulsa OK para confirmar. A continuación, introduzca la contraseña por defecto “6666”. Si has olvidado la contraseña introduce la contraseña por defecto: “6666”.
+- Marca de ángulo
+-- Act.: Activa la función.
+-- Desac.: Desactiva la función.
 
-### 6.2. MENÚ DVB-T
+### Menú TDT
 
-En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona“DVB menu”.
+En modo DVB, pulsa el botón SETUP para acceder al menú principal y selecciona “DVB menu”.
 
-#### 6.2.1. LISTA DE PROGRAMAS
+#### Lista de Programas
 
-* Cadenas de TV
-La table incluye tres opciones: Favor (Favoritos), Mover y Borrar.
+- Programas de TV: Accede a las opciones Favoritos, Mover y Borrar.
 
- * Favoritos
+-- Favoritos: Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
 
-    Esta opción permite seleccionar las cadenas preferidas. Para ello, en la columna “Favor” de la tabla seleccione el recuadro correspondiente a la cadena que desea añadir y pulse OK. Si la cadena se ha añadido a Favoritos, un símbolo de confirmación (corazón) se visualizará en el recuadro correspondiente. Para suprimir una cadena de la lista de favoritos, seleccione la cadena y pulse el botón OK. Puede utilizar el botón FAVORITE para acceder a sus cadenas favoritas.
+-- Lista: Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
 
- * Lista
+-- Borrar: Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
 
-    Esta opción le permite modificar el orden de la lista de las cadenas. En la columna “Mover”, seleccione el recuadro correspondiente a la cadena que quiere cambiar de orden y pulse OK. Cambie la posición de la cadena seleccionada con los botones arriba/abajo. Pulse OK para confirmar la modificación en la lista.
+- Emisoras de Radio: La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
 
- * Borrar
-
-    Utilice esta opción para eliminar una cadena. Para ello, en la columna “Borrar” de la tabla, seleccione el recuadro correspondiente a la cadena que desea eliminar y pulse OK. En el recuadro aparecerá una X y la cadena eliminada desaparecerá de la lista.
-
-* Emisoras de Radio
-
-  La lista de emisoras de radio se presenta de la misma forma que la lista de las cadenas de televisión. Consulte el apartado anterior para configurar la lista de las emisoras de radio.
-* Ordenar
+-- Ordenar
 
   Puede ordenar las cadenas de la lista por nombre, por código de servicio, por número de cadena o mediante LCN (Logic Channel Number).
 
-#### 6.2.2. BÚSQUEDA DE CADENAS
+#### Búsqueda de cadenas
 * Búsqueda Automática
 
   Esta opción permite la búsqueda automática de cadenas en función del país y la zona horaria. Antes de iniciar la búsqueda, el sistema le pedirá si desea elimiar las cadenas ya existentes.
