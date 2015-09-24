@@ -9,7 +9,7 @@ Visite a secção de suporte neste link: http://www.energysistem.com/pt/support 
 
 As especificações estão sujeitas a alterações sem aviso prévio.
 
-## Marcas registadas. 
+## Marcas registadas 
 
 Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
