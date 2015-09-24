@@ -1,6 +1,6 @@
 ## <quick_guide> Introducción
 
-Gracias por confiar en nosotros y elegir el Energy Car Charger Dual 3.1A. Con él puedes cargar, de forma simultánea, dos dispositivos portátiles alimentados por USB mientras viajas en el coche.
+Gracias por confiar en nosotros y elegir el *Energy Car Charger Dual 3.1A*. Con él puedes cargar, de forma simultánea, dos dispositivos portátiles alimentados por USB mientras viajas en el coche.
 
 Antes de empezar a utilizarlo te aconsejamos leer este manual para que puedas aprovechar al máximo todas sus funciones. 
 
