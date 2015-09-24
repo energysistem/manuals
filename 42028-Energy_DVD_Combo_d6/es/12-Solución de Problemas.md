@@ -1,10 +1,10 @@
 # Solución de Problemas
 
-Si tienes problemas con el uso del d5 AV o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos y esta tabla.
+Si tienes problemas con el uso del d5 AV o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos, y consulta esta tabla.
 
 
 | Problema | Posible solución |
-| - | - |
+|:-------|:-------|
 | El aparato no se enciende | Comprueba que el aparato se ha enchufado correctamente a la toma de corriente. <br>Comprueba que el aparato está encendido. Pulsa el botón STANDBY |
 | No hay imagen | Comprueba que el televisor está encendido. <br>Comprueba que ha seleccionado la entrada AV correcta en el televisor.<br>Comprueba las conexiones de video realizadas entre el reproductor y el televisor |
 | Imagen de mala calidad | Comprueba que no hay huellas en el disco, límpialo con un paño suave frotándolo desde el centro hacia los bordes.<br>Comprueba la compatibilidad del disco con el sistema de televisor (PAL/NTSC) |
