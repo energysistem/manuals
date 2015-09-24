@@ -11,7 +11,7 @@ The LED indicator will show the charging status of your Extra Battery any time:
 * Permanent green LED: optimum battery level (Capacity: 3/3)
 * Permanent amber LED: medium battery level (Capacity: 2/3)
 * Permanent red LED: low battery level (Capacity: 1/3)
-* Fast flashing red LED: empty battery.
+* Fast flashing red LED: empty battery
 
 
 
@@ -24,7 +24,7 @@ The LED indicator will show the status of your Extra Battery any time:
 * Slow red flashing LED: charging (Capacity: 1/3)
 * Slow amber flashing LED: charging (Capacity: 2/3)
 * Slow green flashing LED: charging (Capacity: 3/3)
-* Permanent green LED: charged battery. 
+* Permanent green LED: charged battery
 
 ![LED STATUS](http://static.energysistem.com/images/manuals/42252/55c071b2d0c5d.jpg)
 
