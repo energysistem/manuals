@@ -1,4 +1,4 @@
-## Conexiones
+## Esquema de conexiones
 
 Precaución: Asegúrate que la tensión de la toma de corriente es la misma que la del receptor (100-240V / 50-60 Hz).
 
