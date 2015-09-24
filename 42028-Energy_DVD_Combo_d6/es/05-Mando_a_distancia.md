@@ -40,8 +40,7 @@ información adicional del canal.
 29. CH+/-: cambiar los canales.
 30. SUBTITLE: Cambia entre los subtítulos disponibles.
 
-#### Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del
-canal.
+#### Nota: La disponibilidad de SUBTITLES/TEXT/AUDIO depende del emisor del canal.
 
 ### Colocación de las pilas
 
