@@ -6,7 +6,7 @@ Pulsa OK para confirmar.
 
 * Selección de un canal: Pulsa CH-/CH+ o utiliza los botones numéricos para pasar de un canal a otro.
 
-Durante la visualización de un canal, pulsa OK para visualizar la lista de canales.
+* Durante la visualización de un canal, pulsa OK para visualizar la lista de canales.
 
 * Audio: Pulsa el botón Audio para seleccionar el canal de audio (Audio 1 o Audio 2) y uno de los tres modos de audio: II, DD e ID.
 
