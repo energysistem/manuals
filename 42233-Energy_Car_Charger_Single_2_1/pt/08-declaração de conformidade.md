@@ -12,7 +12,7 @@ NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
-**Energy Sistem#trade# Energy Car Charger 2.1A** 
+**Energy Sistem#trade# Energy Car Charger USB 2.1 A** 
 
 País de fabricação: China 
 
