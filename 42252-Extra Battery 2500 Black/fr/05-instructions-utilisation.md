@@ -1,4 +1,4 @@
-## Instrucciones de uso
+## Instructions d'utilisation
 
 **Pour charger votre appareil :**
 
@@ -7,7 +7,7 @@ Vous pouvez connecter le câble microUSB (1) à la connexion microUSB de l'appar
 Lorsque le chargement est terminé, débranchez l'appareil et l'Extra Battery s'éteint automatiquement dans quelque seconds.
 L'indicateur LED montrera à tout moment l'état de l'Extra Battery :
 
-* LED verte permanente :  Niveau de batterie optimale (3/3 capacité)*
+* LED verte permanente :  Niveau de batterie optimale (3/3 capacité)
 * LED ambre permanente :  Niveau de batterie optimale (2/3 capacité)
 * LED rouge permanent :  Niveau de batterie optimale (1/3 capacité)
 * LED rouge clignotant rapide : Batterie épuisée.
