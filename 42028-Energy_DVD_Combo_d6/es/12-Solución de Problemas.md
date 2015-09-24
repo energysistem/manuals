@@ -1,10 +1,7 @@
-# 10. Solución de Problemas
+# Solución de Problemas
 
-<<<<<<< HEAD
-Si tienes problemas con el uso del d6 o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos y esta tabla.
-=======
 Si tienes problemas con el uso del d5 AV o su instalación lee detenidamente los capítulos del manual que hagan referencia a esos términos y esta tabla.
->>>>>>> 7eb7017141bce7453a0edce922c4da649da12c27
+
 
 | Problema | Posible solución |
 | -- | -- |
