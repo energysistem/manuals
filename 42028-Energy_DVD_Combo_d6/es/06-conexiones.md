@@ -7,24 +7,11 @@ Al conectar el receptor a otro equipo, por ejemplo: TV, VCR o amplificador, cons
 correspondiente. Asegúrate de desenchufar todos los equipos de la red eléctrica antes de efectuar la conexión.
 
 ### Conexión de antena
-
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567a1c0d772.jpg)
-
-### Conexión SCART
-
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567c2c29c99.jpg)
-
-### Conexión de audio digital a amplificador AV
-
-![Imagen1](http://static.energysistem.com/images/manuals/42028/53567ca54d546.jpg)
-
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf8b8e866e8.jpg)
 
-### 4.2 CONEXIÓN SCART
-
+### Conexión SCART
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf86252d89a.jpg)
 
-### 4.3 CONEXIÓN A AMPLIFICADOR A/V CON ENTRADA DE AUDIO DIGITAL
-
+### Conexión de audio digital a amplificador AV
 ![Imagen1](http://static.energysistem.com/images/manuals/42028/53cf845dd5a80.jpg)
 
