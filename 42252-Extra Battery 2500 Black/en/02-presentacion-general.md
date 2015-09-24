@@ -4,7 +4,7 @@
 
 1. Built-in micro-USB cable
 2. LED indicator
-3. Output: 5V / 1000 mA microUSB 
+3. Input: 5V / 1000 mA microUSB 
 4. Output: 5V / 1000 mA USB type A to charge all type of devices.
 
 
