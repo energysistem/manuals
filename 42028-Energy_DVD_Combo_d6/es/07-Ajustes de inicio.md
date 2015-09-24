@@ -1,6 +1,6 @@
-## Ajustes
+## Ajustes iniciales
 
-### Instalación inicial
+### Instalación 
 
 1. Efectúa las conexiones de acuerdo a lo indicado en la sección "Conexiones".
 2. Introduce dos pilas AAA (incluidas) en el compartimento de pilas del mando a distancia respetando la polaridad.
