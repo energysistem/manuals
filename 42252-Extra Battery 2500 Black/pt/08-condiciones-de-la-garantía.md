@@ -2,9 +2,7 @@
 
 Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo comprador durante um período de 36 meses. 
 
-A bateria de lítio do produto não está incluída na garantia de 36 meses porque para ela há uma garantia específica de 12 meses.
-
-No caso que o produto não seja entregado em conformidade com o contrato mediante a apresentação do recibo ou factura, reconhece ao comprador o direito à reparação do produto, troca, redução do preço ou rescisão do contrato de acordo com a norma referida.
+A garantia de 36 meses é aplicável a todas as funções do produto à excepção da bateria de lítio, a qual não está incluída na garantia de 36 meses porque para ela há uma garantia específica de 12 meses.
 
 Esta garantia cobre defeitos de fabrico ou materiais e não se aplica se o defeito foi causado por pessoas não autorizadas devido a acidente, utilização indevida ou modificações do produto.
 
