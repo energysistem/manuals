@@ -1,7 +1,7 @@
 <quick_guide>
 ## Introduction
 
-Merci de votre confiance et de l'achat de votre nouveau Energy Car Charger 2.1A. Vous pouvez charger des périphériques USB portables alimentés tout en voyageant dans la voiture.
+Merci de votre confiance et de l'achat de votre nouveau Energy Car Charger 2.1A. Vous pouvez charger des périphériques USB portables tout en voyageant dans la voiture.
 
 Avant de commencer à profiter de votre batterie nous vous conseillons de lire cette guide pour profiter toutes ses caractéristiques.
 
