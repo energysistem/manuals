@@ -1,8 +1,8 @@
-<quick_guide> 
+<quick_guide>
 
 ## Apresentação geral
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/55e708ae9e43e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42595/56051fb469242.jpg)
 
 1.	Botão de ligar/desligar
 2.	Botão de volume
@@ -17,8 +17,8 @@
 11.	 Microfone
 12.	 Botões tácteis: aplicações recentes, início, voltar
 13.	 Slot do cartão microSIM 1
-14.	 Slot do cartão microSIM 2 
-15.	 Slot microSD 
+14.	 Slot do cartão microSIM 2
+15.	 Slot microSD
 16.	 Número de série e IMEI
 17.	 Bateria
 
