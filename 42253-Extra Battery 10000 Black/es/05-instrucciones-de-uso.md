@@ -33,7 +33,12 @@ El indicador LED mostrará en todo momento en qué estado se encuentra la carga 
 
 Pulsa el botón inferior (5) para comprobar el nivel de carga de tu Extra Battery.
 
-![LED STATUS](http:.jpg)
+**Apagado de tu Extra Battery**
+
+Tu Energy Extra Battery tiene un sistema de apagado automático a los pocos segundos de desconectarla del dispositivo que haya cargado. Sin embargo puedes apagarla en cualquier momento durante la carga sin necesidad de desconectarla pulsando dos beces sobre el botón inferior (5).
+
+
+![LED STATUS](http://static.energysistem.com/images/manuals/42253/56057b333bf80.jpg)
 
 #### **NOTA:**
 
