@@ -1,10 +1,11 @@
-## Principales características
+## Main features
 
-* Batería precargada para uso inmediato.
-* Especialmente diseñada para cargar smartphones y tablets.
-* Batería de polímero de litio que, además de resultar más fiable, eficiente y ligera, permite almacenar la máxima carga durante el mayor tiempo posible.
-* Cable micro-USB integrado para que no te líes.
-* Salida adicional USB Tipo A para conectar cualquier cable de carga y poder cargar todo tipo de dispositivos, incluido Iphone e Ipad.
-* Indicador LED de carga y funcionamiento.
-* Ultra delgada y con diseño compacto para que puedas llevarla siempre contigo.
+* Pre-charged battery for immediate use.
+* Specifically conceived for charging smartphones.
+* Reliable, efficient and light lithium polymer battery that keeps fully charged the longest time possible.
+* Built-in micro-USB cable to avoid tangles.
+* Additional USB Type-A output to connect any charging cable and charge any type of devices including Iphones. 
+* LED charge and on indicator.
+* Ultraslim and compact design to carry it always along with you. 
+
 

@@ -1,4 +1,5 @@
-## Contenido del producto
+## Product contents
 
-* 1 x Energy Extra Battery 5000 con cable micro-USB integrado.
-* 1 x Guía rápida.
+* 1 x Energy Extra Battery 5000 with built-in micro-USB cable.
+* 1 x Quick guide.
+

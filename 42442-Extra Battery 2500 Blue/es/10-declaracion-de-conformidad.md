@@ -1,12 +1,10 @@
-## <quick_guide> Declaración de conformidad
+## Declaración de conformidad
 
 ![CE](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 **Nombre del suministrador:** Energy Sistem Technology S.A.
 
-**Fecha:** 06/07/2015
-
-**Dirección:**Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
+**Dirección:** C/ Calpe, 1 - 03509, Finestrat, Alicante (España)
 
 **Tel:** 902 388 388
 
@@ -24,5 +22,5 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
+Finestrat, 1 de Noviembre de 2015
 
-</quick_guide>

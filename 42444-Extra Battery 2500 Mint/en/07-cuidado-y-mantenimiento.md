@@ -1,10 +1,11 @@
-## Cuidado y mantenimiento
+## Care and maintenance
 
-* No expongas tu Energy Extra Battery a golpes, polvo, fuego, luz solar directa, humedad o altas temperaturas.
-* No uses productos de limpieza corrosivos o abrasivos.
-* Mantén el Energy Extra Battery limpia y sin polvo, con un paño suave y seco, y realiza la limpieza mientras está apagada y desconectada de la corriente eléctrica.
-* No trates de desmontar tu Energy Extra Battery. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
-* Es recomendable que almacenes tu Energy Extra Battery cargada cuando no la vayas a usar por un largo periodo de tiempo.
+* Protect your Energy Extra Battery from jolts, dust, direct sunlight, humidity or high temperatures and keep it away from ignition sources.
+* Do not use abrasive or corrosive cleaners.
+* Keep your Energy Extra Battery clean and free of dust using a soft and dry cloth for this purpose. Please clean the battery when it is off and not connected to the power grid.
+* Do not try to dismantle your Energy Extra Battery. Any repairs must only be carried out by qualified staff of Energy Sistem Technology, S.A.  
+* We strongly recommend that you keep your Energy Extra Battery charged if you are not going to use it for a long period of time.
+
 
 
 

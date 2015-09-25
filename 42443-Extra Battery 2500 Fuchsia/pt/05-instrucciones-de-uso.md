@@ -1,33 +1,33 @@
-## Instrucciones de uso
+## Instruções de utilização
 
-**Para cargar tu dispositivo:**
+**Para carregar um dispositivo:**
 
-Puedes conectar el cable micro-USB (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu cable de carga conectándolo al puerto USB tipo A adicional (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Pode ligar o cabo micro USB (1) à porta micro USB do dispositivo que quer carregar. Alternativamente pode ligar o cabo de carregamento à porta USB adicional tipo A (4). O processo de carregamento começa imediatamente e o indicador LED (2) acende.
 
-Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+Uma vez carregado, desligue o dispositivo e a Extra Battery irá se desligar automaticamente após uns segundos.
 
-El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra Battery: 
+O indicador LED mostra sempre o estado da sua Extra Battery: 
 
-* LED Verde permanente: Nivel óptimo de batería (3/3 de capacidad)
-* LED Ámbar permanente: Nivel medio de batería (2/3 de capacidad)
-* LED Rojo permanente: Nivel bajo de batería (1/3 de capacidad)
-* LED Rojo parpadeo rápido: Batería agotada
+* LED verde permanente: nível máximo da bateria (capacidade: 3/3)
+* LED âmbar permanente: nível médio da bateria (capacidade: 2/3)
+* LED vermelho permanente: nível de bateria fraca (capacidade: 1/3)
+* LED vermelho e intermitente rápido: bateria descarregada
 
 
-**Para cargar tu Energy Extra Battery:**
+**Para carregar a sua Energy Extra Battery:**
 
-Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Ligue o cabo do carregador do seu smartphone ou tablet à porta micro USB da sua Energy Extra Battery (3). O processo de carregamento começa imediatamente e o indicador LED (2) acende.
 
-El indicador LED mostrará en todo momento en qué estado se encuentra la carga de tu Extra Battery: 
+O indicador LED mostra sempre o estado de carregamento da sua Extra Battery:
 
-* LED Rojo parpadeo lento: Cargando (1/3 de capacidad)
-* LED Ámbar parpadeo lento: Cargando (2/3 de capacidad)
-* LED Verde parpadeo lento: Cargando (3/3 de capacidad)
-* LED Verde permanente: Batería cargada 
+* LED vermelho intermitente lento: a carregar (capacidade: 1/3)
+* LED âmbar intermitente lento: a carregar (capacidade: 2/3)
+* LED verde intermitente lento: a carregar (capacidade: 3/3)
+* LED verde permanente: bateria carregada 
 
 ![LED STATUS](http://static.energysistem.com/images/manuals/42252/55c071b2d0c5d.jpg)
 
-#### **NOTA:**
+#### **IMPORTANTE:**
 
-#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga. La carga un dispositivo mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+#### Pode utilizar as duas portas para carregar dois dispositivos ao mesmo tempo, o qual aumentará o tempo de carregamento. A vida útil da bateria pode reduzir-se ao carregar um dispositivo ao mesmo tempo que a Energy Extra Battery. 
 

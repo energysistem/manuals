@@ -1,10 +1,10 @@
-## Principales características
+## Características principais 
 
-* Batería precargada para uso inmediato.
-* Especialmente diseñada para cargar smartphones y tablets.
-* Batería de polímero de litio que, además de resultar más fiable, eficiente y ligera, permite almacenar la máxima carga durante el mayor tiempo posible.
-* Cable micro-USB integrado para que no te líes.
-* Salida adicional USB Tipo A para conectar cualquier cable de carga y poder cargar todo tipo de dispositivos, incluido Iphone e Ipad.
-* Indicador LED de carga y funcionamiento.
-* Ultra delgada y con diseño compacto para que puedas llevarla siempre contigo.
+* Bateria précarregada para utilização imediata.
+* Bateria especialmente concebida para carregar smartphones e tablets.
+* Bateria de polímero de lítio que para além de mais fiável, eficiente e leve, permite manter o nível de carga da bateria durante o maior periodo de tempo possível.
+* Cabo micro USB integrado para evitar emaranhamentos.
+* Porta USB adicional tipo A para ligar qualquer cabo de carregamento e carregar qualquer tipo de dispositivos, incluindo Iphones e Ipads.
+* Indicador LED de carga e funcionamiento.
+* Bateria de desenho compacto e ultra-leve para sempre levar consigo.
 
