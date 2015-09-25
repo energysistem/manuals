@@ -8,7 +8,7 @@ For devices with special outputs like the ones from Apple, you can use the origi
 
 **Which output rating will use my Energy Extra Battery 2500 to charge my devices (smartphone, MP3…)?**
 
-The output rating will depend on the battery capacity of the device that you want to charge. Smartphones, for instance, usually have an approximate charging capacity that goes from 1400 to 2200 mAh depending on the model. When your Energy Extra Battery is fully charged (100%), it has a capacity of 2500 mAh. Nevertheless, energy is lost in the charging process and there are other factors like the use that you make of your phone and its settings because it can keep consuming energy, especially if the device, Wifi, 4G, etc, is on.
+The output rating will depend on the battery capacity of the device that you want to charge. Smartphones, for instance, usually have an approximate charging capacity that goes from 1400 to 2200 mAh depending on the model. When your Energy Extra Battery is fully charged (100%), it has a capacity of 2500 mAh. Nevertheless, energy is lost in the charging process and there are other factors like the use that you make of your phone and its settings because it can keep consuming energy, especially if the device, Wifi, 4G, etc, are on.
 
 **How much time will it take to charge a device?**
 
