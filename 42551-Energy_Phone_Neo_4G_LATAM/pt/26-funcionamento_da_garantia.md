@@ -1,9 +1,9 @@
 <quick_guide>
 ## Funcionamento da garantia
 
-Visite a secção de suporte neste link: http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Perguntas frequentes), os manuais do usuário, os drivers e as actualizações disponíveis. Também tem a possibilidade de consultar o apoio técnico ou solicitar a garantia. 
+Visite a secção de suporte neste link: http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Perguntas frequentes), os manuais do usuário, os drivers e as actualizações disponíveis. Também tem a possibilidade de consultar o apoio técnico ou solicitar a garantia.
 
-1. Pode verificar a disponibilidade do manual do usuário no seu idioma em: http://www.energysistem.com/pt/guide/42430
+1. Pode verificar a disponibilidade do manual do usuário no seu idioma em: http://www.energysistem.com/pt/guide/42551
 
 2. Alternativamente, pode entrar em contacto com o distribuidor do produto, apresentando o recibo da compra ou factura.
 

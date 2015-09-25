@@ -1,6 +1,6 @@
 ## <quick_guide> Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42430/55f2a6c4ca522.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42551/56051f6f1de83.jpg)
 
 1. Flash arrière
 2. Microphone avec réduction du bruit

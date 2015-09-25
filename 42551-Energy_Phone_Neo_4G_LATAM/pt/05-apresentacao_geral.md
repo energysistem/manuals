@@ -1,6 +1,6 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42430/55f2a6c4ca522.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42551/56051f6f1de83.jpg)
 
 1. Flash traseiro
 2. Microfone com função de cancelamento de ruído
@@ -8,7 +8,7 @@
 4. Câmara frontal
 5. Saída de auscultadores
 6. Led de notificações
-7. Receptor frontal 
+7. Receptor frontal
 8. Entrada USB
 9. Sensores de luminosidade e proximidade
 10. Botão de ligar / desligar

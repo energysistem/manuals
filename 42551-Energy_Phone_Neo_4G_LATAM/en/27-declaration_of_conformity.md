@@ -1,4 +1,4 @@
-<quick_guide> 
+<quick_guide>
 ## Declaration of conformity
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)

@@ -6,4 +6,4 @@ Tu nuevo teléfono dispone de una pantalla multi-táctil capacitiva de 4.5" (960
 
 Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas esta guía para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo del *Energy Phone Neo 4G* en el siguiente enlace  http://www.energysistem.com/guide/42430 </unique> </quick_guide>
+## <unique> * Encuentra el manual completo del *Energy Phone Neo 4G* en el siguiente enlace  http://www.energysistem.com/guide/42551 </unique> </quick_guide>
