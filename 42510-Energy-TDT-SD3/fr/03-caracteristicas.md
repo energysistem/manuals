@@ -1,23 +1,23 @@
-## Principales características
+## Caractéristiques principales
 
-- Sintonizador de Televisión Digital Terrestre DVB-T MPEG-2.
-- Cabezal pivotante 360º en tamaño mini para no ocupar espacio conectándolo al televisor directamente sin cables a través del conector SCART (Euroconector).
-- Reproduce a través del puerto USB: vídeo en formato SD (DivX, Xvid, AVI, MPG) audio (MP3, WMA) y fotos (JPEG, BMP, GIF).
-- Graba TDT en formato MPEG-2 con calidad digital a través de dispositivos USB. Gestión de grabaciones.
-- Función de Timeshift para pausar y reanudar la emisión de TDT.
-- Sintoniza radio con calidad digital.
-- Guía de programación semanal electrónica (EPG) con programación de eventos (grabación / aviso).
-- Función mosaico dinámico de múltiples canales en pantalla (MSM).
-- Menú en pantalla OSD multilingüe.
-- Teletexto (VBI).
-- Subtítulos seleccionables entre canal digital y teletexto.
-- Edición de canales: varios tipos de canales favoritos, mover, bloquear, borrar, renombrar y clasificar por temática.
-- Control parental.
-- Función de apagado automático (ECO) y temporizador (SLEEP).
-- Juegos y aplicaciones incluidas (Calculadora, Calendario, 5 en línea).
-- Actualizaciones de software a través del puerto USB.
-- Búsqueda automática y manual de los canales de TV y Radio, con capacidad de memorizar hasta 1000 canales.
-- OFDM Modo 2K/8K.
-- Ancho de banda: 7/8 MHz.
-- Sistema de archivos: FAT / FAT32.
-- Consumo energético eficiente en modo stand by contribuyendo a la sostenibilidad del medio ambiente.
+-	Récepteur de Télévision Numérique Terrestre DVB-T MPEG-2.
+-	Tête pivotante 360° en taille mini pour ne pas occuper d'espace en le connectant directement sur le téléviseur sans fil via prise péritel (SCART).
+-	Lecture à travers le port USB: vidéo au format SD (DivX, Xvid, AVI, MPG) audio (MP3, WMA) et photos (JPEG, BMP, GIF).
+-	Enregistrement DVB-T au format MPEG-2 en qualité numérique via des périphériques USB.  Gestion des enregistrements.
+-	Fonction Timeshift pour suspendre et reprendre l'émission de la TNT.
+-	Réception de radio en qualité numérique.
+-	Guide électronique des programmes (EPG) pour planifier des événements (enregistrement / préavis).
+-	Fonction mosaïque dynamique de plusieurs canaux sur l'écran (MSM).
+-	Menu OSD multilingue.
+-	Teletext (VBI).
+-	Sous-titres sélectionnables entre chaîne numérique et télétexte.
+-	Édition de chaînes : différents types de chaînes favorites, déplacer, bloquer, supprimer, renommer et trier par sujet.
+-	Contrôle parental.
+-	Fonction arrêt automatique (ECO) et la minuteur (SLEEP).
+-	Jeux et applications inclus (Calculatrice, calendrier, puissance 5).
+-	Mises à jour du logiciel via port USB.
+-	Recherche automatique et manuelle des chaînes de télévision et radio, capable de stocker jusqu'à 1000 chaînes.
+-	OFDM Mode 2K/8K.
+-	Bande passante : 7/8 MHz.
+-	Système de fichiers : FAT / FAT32.
+
