@@ -1,9 +1,10 @@
 ## Contenido del producto
 
-* Energy TDT SD3
-* Mando a distancia
-* Cable receptor IR
-* Cable USB Host
-* Adaptador de corriente AC/DC (EU plug) 100-240V AC 50-60Hz DC 5V 1.5A
-* Guía Rápida
+-	Energy TDT SD3
+-	Télécommande.
+-	Câble récepteur IR
+-	Câble USB.
+-	Adaptateur d'alimentation courant AC/DC (Europlug) 100-240V AC 50-60Hz DC 5V 1.5 A
+-	Guide Rapide.
+
 
