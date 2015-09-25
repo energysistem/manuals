@@ -1,4 +1,4 @@
-## <quick_guide> Funcionamiento de la Garantí­a
+## Funcionamiento de la Garantía
 
 Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
 
@@ -9,6 +9,5 @@ Marcas comerciales. Toda compañía, marca y nombres de producto son marcas come
 
 Las especificaciones están sujetas a cambios sin previo aviso.
 
-© 2015 por Energy Sistem Soyntec S.A. Todos los derechos reservados.
+© 2015 por Energy Sistem Technology S.A. Todos los derechos reservados.
 
-</quick_guide>
