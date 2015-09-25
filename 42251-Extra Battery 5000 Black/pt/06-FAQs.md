@@ -1,4 +1,4 @@
-## ## Perguntas frequentes
+## Perguntas frequentes
 
 **Posso utilizar qualquer cabo USB?**
 
@@ -16,7 +16,7 @@ O tempo de carregamento vai depender da capacidade da bateria que tenha o seu di
 
 **Quanto tempo vai demorar para carregar a minha Energy Extra Battery?**
 
-O tempo de carregamento vai depender da fonte de electricidade, a qual depende directamente da sua capacidade. Se está a utilizar como fonte um computador, o carregamento vai demorar mais tempo que um carregador de smartphone ou tablet, principalmente porque estes têm capacidade para carregar dispositivos. O processo pode variar entre 2 e 5 horas.
+O tempo de carregamento vai depender da fonte de electricidade, a qual depende directamente da sua capacidade. Se está a utilizar como fonte um computador, o carregamento vai demorar mais tempo que um carregador de smartphone ou tablet, principalmente porque estes têm capacidade para carregar dispositivos. O processo pode variar entre 4 e 10 horas.
 
 
 
