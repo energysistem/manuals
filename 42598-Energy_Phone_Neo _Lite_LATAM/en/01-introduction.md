@@ -8,7 +8,7 @@ Your new phone has an IPS WVGA 4" (800x480 pixels) touch display, a Quad Core AR
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it.  It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
-## <unique> * Find the complete manual of the *Energy Phone Lite* in the following link http://www.energysistem.com/guide/42435
+## <unique> * Find the complete manual of the *Energy Phone Lite* in the following link http://www.energysistem.com/guide/42598
 </unique>
 
 </quick_guide>

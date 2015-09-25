@@ -8,6 +8,6 @@ O seu novo telefone dispõe de um ecrã táctil de 4" IPS WVGA (800x480 píxeis)
 Antes de começar a utilizar o seu smartphone, aconselhamos ler a presente guia para familiarizar-se com o produto.  Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo:
 
 
-## <unique> * Encontrará o manual completo do *Energy Phone Neo Lite* no seguinte link:  http://www.energysistem.com/guide/42435 </unique> </quick_guide>
+## <unique> * Encontrará o manual completo do *Energy Phone Neo Lite* no seguinte link:  http://www.energysistem.com/guide/42598 </unique> </quick_guide>
 
 </quick_guide>
