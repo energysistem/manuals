@@ -1,12 +1,11 @@
 ## Cuidado y mantenimiento
 
-* No expongas tu Energy TDT SD3 a golpes, polvo, luz solar directa, humedad o altas temperaturas.
-* No uses productos de limpieza corrosivos o abrasivos.
-* Mantén el aparato limpio y sin polvo, con un paño suave y seco. Desconecta siempre el dispositivo de la fuente de alimentación antes de limpiarlo.
-* Las ranuras y aberturas de tu Energy TDT SD3 son para la ventilación. No las cubras o
-bloquees.
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy
-Sistem Soyntec S.A.
-* Tu Energy TDT SD3 no necesita mantenimiento. Asegúrate que las baterías se desechan de forma segura. Consulta las autoridades locales sobre la normativa de residuos.
+*	Ne pas exposer votre Energy TDT SD3 à des chocs, à la poussière, à l'humidité ou à hautes températures.
+*	Ne pas utiliser des produits corrosifs ou abrasifs.
+*	Gardez l'appareil propre et sans poussière avec un chiffon doux et sec. Débranchez toujours l'appareil de l'alimentation électrique avant de le nettoyer.
+*	Les fentes et orifices de votre Energy TDT SD3 servent à ventiler l'appareil. Ne le recouvrez ou bloquez pas.
+*	Ne démontez pas l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Technology, S.A.
+*	Votre Energy TDT SD3 ne nécessite pas de maintenance. Assurez-vous que l'élimination des batteries est écologiquement sûre. Consultez les autorités locales le règlement sur l'élimination des déchets
+
 
 
