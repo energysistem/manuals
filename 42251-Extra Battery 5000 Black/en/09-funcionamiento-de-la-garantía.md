@@ -8,7 +8,7 @@ Visit the Support section at http://www.energysistem.com/en/support and select y
 
 Specifications are subject to change without notice.
 
-Trademarks
+## Trademarks
 
 All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
