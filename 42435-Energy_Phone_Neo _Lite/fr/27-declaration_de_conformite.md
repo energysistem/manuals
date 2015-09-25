@@ -1,7 +1,7 @@
 <quick_guide>
 ## Déclaration de conformité
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56052d0ec0d72.jpg)
 
 Nom du Fournisseur :
 Energy Sistem Technology, S.A.

@@ -1,8 +1,8 @@
-<quick_guide> 
+<quick_guide>
 
 ## Apresentação geral
 
-![Imagen1](http://static.energysistem.com/images/manuals/42595/55f2a5126bac1.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56052d4f3d70a.jpg)
 
 1.	Flash traseiro
 2.	Câmara traseira

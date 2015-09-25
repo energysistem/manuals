@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaration of conformity
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56052d0ec0d72.jpg)
 
 Manufacturer Name:
 Energy Sistem Technology, S.A.
@@ -10,7 +10,7 @@ Address: C/ Calpe, 1.
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Phone Neo Lite** 
+We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Phone Neo Lite**
 
 Manufacturing country: China
 

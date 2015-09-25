@@ -2,7 +2,7 @@
 
 ## General overview
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56052d4f3d70a.jpg)
 
 1. Rear flash
 2. Rear camera
@@ -13,7 +13,7 @@
 7. Volume button
 8. Power button
 9. Back case extraction slot
-10. Microphone 
+10. Microphone
 11. USB Input
 12. Touch buttons: Recent Apps, Home, Back
 13. Speaker
