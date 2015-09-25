@@ -15,8 +15,6 @@ El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra 
 * 1 LED encendido: Nivel de batería a 1/4 de capacidad
 * 1 LED parpadeo rápido: Nivel de batería al mínimo de capacidad
 
-#### **NOTA:** 
-
 
 **Para cargar tu Energy Extra Battery:**
 
