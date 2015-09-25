@@ -3,9 +3,11 @@
 
 **Para cargar tu dispositivo:**
 
+![](http://static.energysistem.com/images/manuals/42253/56057cbc54561.jpg)
+
 Puedes conectar el cable incluido (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu propio cable de carga conectándolo a cualquiera de los puertos USB tipo A disponibles (1, extrayendo el cable incluido) / (4).  Comenzará el proceso de carga y se encenderá el indicador LED (2).
 
-Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+![](http://static.energysistem.com/images/manuals/42253/56057edd1414b.jpg)
 
 El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra Battery:
 
@@ -29,13 +31,15 @@ El indicador LED mostrará en todo momento en qué estado se encuentra la carga 
 * 4 LEDS parpadeo lento: Cargando hasta plena de capacidad
 * 4 LEDS permanente: Batería cargada
 
+Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+
 **Comprobación de la carga**
 
 Pulsa el botón inferior (5) para comprobar el nivel de carga de tu Extra Battery.
 
 **Apagado de tu Extra Battery**
 
-Tu Energy Extra Battery tiene un sistema de apagado automático a los pocos segundos de desconectarla del dispositivo que haya cargado. Sin embargo puedes apagarla en cualquier momento durante la carga sin necesidad de desconectarla pulsando dos beces sobre el botón inferior (5).
+Tu Energy Extra Battery tiene un sistema de apagado automático a los pocos segundos de desconectarla del dispositivo que hayas cargado. Sin embargo puedes apagarla en cualquier momento durante la carga sin necesidad de desconectarla pulsando dos veces sobre el botón inferior (5).
 
 
 ![LED STATUS](http://static.energysistem.com/images/manuals/42253/56057b333bf80.jpg)
