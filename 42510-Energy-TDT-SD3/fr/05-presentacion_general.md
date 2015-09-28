@@ -1,62 +1,63 @@
 ## Presentación general
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
-1. Conector SCART (Euroconector).
-2. Rótula giratoria 360º.
+1. Connecteur SCART (Péritel).
+2. Tête pivotante 360º.
 
 ![Side 1](http://static.energysistem.com/images/manuals/42510/555f149545541.jpg)
-3. Conector de entrada de Antena. Conéctala a la toma de antena externa de TV.
-4. Conector de salida de Antena. Usala si necesitas transferir la señal de antena desde tu SD3 a otro dispositivo.
-5. Conector del cable del sensor IR del mando a distancia. Este cable recibe la señal del mando a distancia de tu SD3.
-6. Conector del cable del adaptador de corriente AC/DC.
+3. Connecteur d'entrée d'antenne. Connectez-le à la prise d'antenne externe de télévision.
+4. Connecteur de sortie d'antenne. Utilisez-le si vous avez besoin de transférer le signal antenne vers de vorte SD3 à un autre appareil.
+5. Connecteur du câble du récepteur IR de la télécommande.  Ce câble reçoit le signal de la télécommande de votre SD3.
+6. Connecteur du câble adaptateur AC/DC.
 
 ![Side 2](http://static.energysistem.com/images/manuals/42510/555f14657d929.jpg)
-7. Conector del cable USB Host. Conecta tus dispositivos USB externos para reproducir contenido multimedia o realizar grabaciones de TDT.
+7. Connecteur du câble USB Host.  Connectez vos périphériques USB externes pour diffuser du contenu multimédia ou des enregistrements de la TNT.
 
-### *Mando a distancia*
+### *Télécommande*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
-8. STANDBY: Conmuta entre encendido / modo de espera.
-9. MUTE: Activa / desactiva el sonido.
-10. MENU: Muestra el menú principal.
-11. CH+/-: Permite cambiar de canal. Flecha arriba y abajo.
-12. VOL+/-: Permite regular el nivel de volumen de sonido. Flecha izquierda y derecha.
-13. RECLIST: Muestra la lista de grabaciones almacenadas.
-14. TECLAS NUMERICAS: Se usan para introducir canales manualmente o números en los menús.
-15. TV/RADIO: Cambia entre selección de canales de TV o emisoras de radio. AUDIO: Selecciona entre las pistas de audio
-16. ROJO: Sleep. Función de apagado programado / Tecla de selección roja. VERDE: List. Listado de canales. Tecla de selección verde.
-17. RECORD: Grabación Manual de canales de TV. STOP: Detener grabación o reproducción en curso.
-18. INFO: Muestra en pantalla información acerca del canal visionado. Pulsa varias veces para ampliar / desactivar.
-19. PLAY/PAUSE: Pausa / Reanuda la reproducción de TV o el contenido multimedia (es necesario un dispositivo de almacenamiento USB externo).
-20. EXIT: Volver / Salir de los menús.
-21. EPG: Guía de programación de en pantalla.
-22. OK: Tecla de selección / confirmar.
-23. FAVORITE: Acceso a los canales favoritos.
-24. GAME: Acceso a juegos y aplicaciones (Gomoku, Calendario y Calculadora).
-25. RECALL: Conmuta entre el canal actual y el anteriormente visionado.
-26. SUBTITLE: Activa o desactiva los subtítulos. TEXT: Muestra el teletexto en los canales en los que se encuentre disponible.
-27. AMARILLO: MSM. Mosaico interactivo de canales / Tecla de selección amarilla. AZUL: Tecla de selección azul.
-28. REV: Marcha atrás rápida en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad. FWD: Avance rápido hacia delante en grabación o multimedia. Pulsa varias veces para seleccionar la velocidad.
+8. Veille : Change entre marche/veille.
+9. Mute : Active/désactive le son.
+10. Menu : Affiche le menu principal.
+11. CH+/- : Changement de chaîne. Flèche vers le haut et le bas.
+12. VOL+/- : Permet de régler le niveau de volume sonore. Flèche gauche et droite.
+13. Reclist : Affiche la liste des enregistrements stockés.
+14. Touches numériques : Utilisés pour entrer manuellement les numéros des chaînes ou du menu.
+15. Tv/Radio : Change entre sélection de chaînes de télévision ou des stations de radio.  Audio : Sélectionne entre les pistes audio
+16. Rouge : Sleep. Fonction arrête programmé / Touche sélection rouge. Vert : List. Liste des chaînes. Touche de sélection verte.
+17. Record : Enregistrement manuel de chaînes de TV.  Stop : Arrêter enregistrement ou la lecture en cours.
+18. Info : L'écran affiche les information sur la chaîne que vous êtes en train de regarder. Appuyez plusieurs fois pour zoomer on / off.
+19. Play/Pause : Pause / Reprend la lecture de contenu multimédia ou l'émission de TV  (nécessite un périphérique de stockage USB externe).
+20. Exit : Retour / Quitter le menu.
+21. EPG : Guide de programmation sur l'écran.
+22. Ok : Touche de sélection / confirmation.
+23. Favorite : Accés à vos chaînes préférées.
+24. Game : Accès aux jeux et applications (Gomoku, Calendrier et Calculatrice).
+25. Recall : Change entre la chaîne actuelle et la chaîne antérieure. 
+26. Subtitle : Activez ou désactivez le sous-titres. Text : Affiche les télétexte les chaînes de télétexte dans lesquelles il est disponible.
+27. Jaune : MSM. Mosaïque interactive de chaînes / Touche de sélection jaune.  BLEU : Touche de sélection bleue.
+28. Rev : Recul rapide dans l'enregistrement ou multimédia.  Appuyez plusieurs fois pour sélectionner la vitesse.  Fwd : Avance rapide dans l'enregistrement ou multimédia.  Appuyez plusieurs fois pour sélectionner la vitesse. 
 
-Si la función Time Shift se encuentra conectada, usa *"REV" y "FWD"* (28) y  para desplazarte por la emisión de televisión digital terrestre. Puedes consultar más información sobre *"Time Shift"* en la sección "Multimedia" > "Mis Grabaciones".
+Si la fonction Time Shift est connectée, utilisez *« Rev » et « Fwd »* (28) pour vous déplacer dans l'émission de télévision numérique terrestre. Vous pouvez trouver plus d'informations sur *« Time Shift »* la section « Multimédia » > « Mes Enregistrements ».
 
-Para utilizar el mando a distancia, dirígelo hacia la parte frontal del cable receptor. El cable receptor para el mando a distancia lleva en uno de sus extremos un sensor con una superficie adhesiva para colocarlo fácil y discretamente al frontal del televisor. Antes de adherirlo, y para garantizarte una colocación segura, asegúrate de que la superficie es completamente lisa, límpiala con alcohol y sécala completamente. Retira la protección del material adhesivo y pégalo en un lugar cercano al centro del TV.
+Pour utiliser la télécommande, vous devez la diriger vers l'avant du câble du récepteur.  Le câble récepteur pour la télécommande a un capteur avec une surface adhésive sur une extrémité pour le placer facilement et discrètement en face de la TV. Avant de le fixer, et pour garantir une installation sûre, assurez-vous que la surface est complètement lisse, nettoyez-la avec de l'alcool et séchez complètement.  Retirer la protection de l'adhésif et coller à proximité du centre du téléviseur.
 
-Asegúrate que el campo visual entre el mando y el receptor queda libre de obstáculos para garantizar la mejor recepción. El mando a distancia tiene 1 emisor de señal IR en la parte superior, con un alcance de hasta 7 metros desde el receptor en un ángulo de hasta 30 grados en ambos sentidos del receptor.
+Assurez-vous que le champ de vision entre la télécommande et le récepteur n'est pas obstruée pour assurer une meilleure réception.  La télécommande a 1 émetteur IR de signal dans la partie supérieure, avec une portée allant jusqu'à 7 mètres du récepteur à un angle de 30 degrés dans chaque direction du récepteur.
 
 ![Sensor Angles](http://static.energysistem.com/images/manuals/42510/5566d47c0d54d.jpg)
 
-Si estas características se ven reducidas, y el campo de visión entre el mando y el receptor está libre de obstáculos, es probable que la vida útil de las baterías haya llegado a su fin. Te recomendamos entonces que las sustituyas por unas nuevas.
+Si ces caractéristiques sont réduites, et le champ de vision entre la télécommande et le récepteur est dégagée, il est probable que les piles sont épuisées. Nous recommandons donc de les changer.
 
-*Instalación de las baterías.*
+*Installation des piles.*
 
-Retira la tapa del compartimento de las baterías en el mando a distancia y coloca 2 baterías de tipo AAA. El siguiente diagrama indica la forma correcta de insertar las baterías.
+Retirez le couvercle du compartiment de la pile de la télécommande et placez 2 piles AAA. Le schéma suivant montre la façon correcte d'insérer les piles.
 
 ![Batteries](http://static.energysistem.com/images/manuals/42510/5566d5fb06f23.jpg)
 
-*Recomendaciones acerca de las baterías.*
-* Guarda las baterías siempre fuera del alcance de los niños.
-* No intentes cargar las baterías agotadas. No las arrojes al fuego, desmontes o cortocircuites.
-* Cambia las baterías una vez al año por seguridad.
-* Cambia las dos baterías a la misma vez, reemplazándolas por unas del mismo tipo.
-* Retira las baterías del mando a distancia cuando no lo vayas a usar el mando por un tiempo prolongado.
-* Desecha las baterías agotadas de forma responsable. Consulta con las autoridades locales la normativa local en esta materia.
+*Recommandations concernant les piles.*
+*	Garder les piles hors de portée des enfants.
+*	Ne pas essayer de charger des piles usagées.  Ne pas jeter dans le feu, ne pas désassembler ou court-circuiter.
+*	Changer les piles une fois par an par mesure de sécurité.
+*	Changer les deux piles en même temps, en les remplaçant par celles du même type.
+*	Retirer les piles de la télécommande lorsque vous ne comptez pas utiliser la télécommande pendant une longue période.
+*	Jeter les piles usagées de façon responsable. Vérifier auprès des autorités locales sur la législation en vigueur dans ce domaine.
+
