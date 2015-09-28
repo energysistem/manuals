@@ -1,20 +1,24 @@
 ## Présentation générale
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
+
 1. Connecteur SCART (Péritel).
 2. Tête pivotante 360º.
 
 ![Side 1](http://static.energysistem.com/images/manuals/42510/555f149545541.jpg)
+
 3. Connecteur d'entrée d'antenne. Connectez-le à la prise d'antenne externe de télévision.
 4. Connecteur de sortie d'antenne. Utilisez-le si vous avez besoin de transférer le signal antenne vers de vorte SD3 à un autre appareil.
 5. Connecteur du câble du récepteur IR de la télécommande.  Ce câble reçoit le signal de la télécommande de votre SD3.
 6. Connecteur du câble adaptateur AC/DC.
 
 ![Side 2](http://static.energysistem.com/images/manuals/42510/555f14657d929.jpg)
+
 7. Connecteur du câble USB Host.  Connectez vos périphériques USB externes pour diffuser du contenu multimédia ou des enregistrements de la TNT.
 
 ### *Télécommande*
 ![Remote control unit](http://static.energysistem.com/images/manuals/42510/555f14b3c066f.jpg)
+
 8. Veille : Change entre marche/veille.
 9. Mute : Active/désactive le son.
 10. Menu : Affiche le menu principal.
