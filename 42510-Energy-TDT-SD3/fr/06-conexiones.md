@@ -1,7 +1,7 @@
-## Esquema de conexiones
+## Schéma de connexions
 
-Precaución: Asegúrate que la tensión de la toma de corriente es la adecuada para el adaptador de corriente de tu Energy TDT SD3, que es de 110 a 240 voltios. Desconecta los dispositivos de la red eléctrica antes de efectuar el conexionado. Consulta la información del fabricante de tu TV en caso de ser necesario.
+Attention : Assurez-vous que la prise d'alimentation est adaptée à l'adaptateur de votre Energy TDT SD3, qui est de 110 à 240 volts.  Débranchez l'appareil du secteur avant de faire la connexion. Consultez les informations du fabricant sur votre téléviseur si nécessaire.
 
-### *Conectando el Energy TDT SD3 a un TV.*
+### *En connectant l'Energy TDT SD3 à un téléviseur.*
 
 ![Pluging the SD3](xxx.jpg)
