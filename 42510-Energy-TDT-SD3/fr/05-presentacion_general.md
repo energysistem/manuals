@@ -1,4 +1,4 @@
-## Presentación general
+## Présentation générale
 
 ![Frontal Scart](http://static.energysistem.com/images/manuals/42510/555f14e763c04.jpg)
 1. Connecteur SCART (Péritel).
