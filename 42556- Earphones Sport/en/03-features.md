@@ -1,31 +1,34 @@
 ## Features
 
-### General features
+### Main features
 
-* Sports Bluetooth® earphones.
-* Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
-* Volume control from the earphones.
-* Pairing without codes.
-* Lightweight and comfortable.
-* Automatic call reception.
-* Distance range up to 10m.
-* Rechargeable li-ion battery.
+*	Sports Bluetooth earphones.
+*	Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
+*	Volume control from the earphones.
+*	Pairing without codes.
+*	Multipoint technology to connect two Bluetooth devices at the same time.
+*	Lightweight and comfortable.
+*	Automatic call reception.
+*	Use range up to 10 m.
+*	Rechargeable lithium battery.
+
 
 ### Technical features
 
-* Bluetooth® V4.0, Class II.
-* HSP / HFP / A2DP /AVRCP protocols.
-* Charge indicator on iOS devices.
-* Driver diameter: 12mm.
-* Frequency response:  20 - 20.000KHz.
-* Distance range up to 10m.
-* Primary microphone sensitivity: 42dB.
-* Secondary microphone sensitivity: 45dB.
+*	Bluetooth® v4.1 Class II.
+*	HSP / HFP / A2DP /AVRCP profiles.
+*	Charge indicator on iOS devices.
+*	Driver diameter: 10 mm.
+*	Frequency response: 20 - 20.000Hz.
+*	Use range up to 10 m.
+*	Microphone sensitivity: -42 dB ± 3 dB.
+
 
 ### Rechargeable lithium battery specifications
 
-* Capacity: 100mAh
-- USB charging system
-- Charging time: 1.5 hours.
-- Battery life in-use: 7 hours.
-- Battery life in standby: 300 hours.
+*	Capacity: 100 mAh.
+*	USB charging system.
+*	Charging time: 1,5 hours.
+*	In use battery life: 12 hours.
+*	Standby battery life: 300 hours.
+
