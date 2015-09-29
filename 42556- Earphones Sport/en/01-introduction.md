@@ -6,4 +6,4 @@
 *	Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
 <unique> 
-* Find the whole *Energy Earphones Sport Bluetooth* user manual on the following weblink http://www.energysistem.com/guide/42556 </unique> </quick_guide>
+Find the whole *Energy Earphones Sport Bluetooth* user manual on the following weblink http://www.energysistem.com/guide/42556 </unique> </quick_guide>
