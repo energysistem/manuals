@@ -2,5 +2,6 @@
 
 |  |  |
 |:-------|:-------|
-|1. MULTIFUNCTION BUTTON  <br> 2.	USB CONNECTION<br> 3.	 MICROPHONE<br> 4.	VOLUME - / BACKWARD <br> 5.	VOLUME + / FORWARD   <br> 6.	LED INDICATOR|![Imagen1](http://static.energysistem.com/images/manuals/39581/53288ceb7a70f.jpg)|
+|1. Multifunction button <br> 2.	Volume - / Previous<br> 3.	 Volume + / Next <br> 4.	Indicator  <br> 5.	Microphone    <br> 6.	Charging connection|![Imagen1](http://static.energysistem.com/images/manuals/39581/53288ceb7a70f.jpg)|
 </quick_guide>
+ 
