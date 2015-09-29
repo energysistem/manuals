@@ -1,4 +1,4 @@
-## Line in
+## Line-in
 
 To use the Line-in function, connect the audio cable in the LINE-IN PORT () by one side, and connect the other side to another audio device like MP3 player, smartphone, tablet, etc. At the time that the cable is connected to the Line-in input (), the "Line-in" mode is automatically activated and you will see "AUX" on the display.
 
