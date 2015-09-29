@@ -1,22 +1,14 @@
-## Power switch. Stand by mode.
+## Turn On / Off Standby mode
 
-First, connect your *Energy Tower 5* to power supply and put the rear switch in "ON" position. Thereafter, you can turn on and off from the "PLAY" button on the top panel, keeping it pressed for 2 seconds (stand-by mode).
+When connecting the tower to the power outlet, turn your *Energy Tower CT1* on using the switch located in the rear part of the tower.  Then you will be able to switch it on and off using the PLAY button () on the top display by pressing it for 2 seconds.
 
-We recommend that when the tower is not in use for a long period of time, put "OFF" the rear switch.
+If you are not using the tower for a long period of time, in addition to switching it off in the top display, we recommend switching it "OFF" also in the rear panel.
 
 
 ## Display
 
-The *Energy  Tower 5* is equipped with a backlit display hidden on the top of device.
+The *Energy Tower CT1 Bluetooth* is equipped with a backlit display hidden on the top of device.
+When the device is turned on, you can see the Energy Sistem logo illuminated at the top of the panel. In addition, you can see the display with the current mode.
 
-When device is turned on, you can see Energy Sistem TM logo at he top of the panel.
-
-In addition, you can see the display with the actual mode and more information in the front of the top panel.
-
-
-## Touch control
-
-The *Energy Tower 5* has a touch in the top panel by which you can control all functions easily.
-For a correct response of touch control, you should press it with the fingertip and hold for about 1 second.
 
 
