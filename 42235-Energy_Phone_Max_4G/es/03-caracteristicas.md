@@ -7,7 +7,7 @@
 * Conexión WI-FI 802.11 b/g/n.
 * Función GPS.
 * Bluetooth 4.0.
-* Dos entradas de tarjeta microSIM: SIM 1 3G/4G, SIM 2 3G.
+* Dos entradas de tarjeta microSIM.
 * 1GB RAM DDR3.
 * 16GB de memoria interna.
 * Memoria ampliable mediante tarjetas microSD-HC/XC (hasta 128GB).
