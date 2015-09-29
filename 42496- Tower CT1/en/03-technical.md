@@ -2,25 +2,24 @@
 
 ### Main Features
 
-- 2.1 sound system tower.
-- Touch control.
-- Wireless Connectivity: Bluetooth® v4.0 + EDR.
-- RMS Power: 60 W (30W + 15W x 2).
-- Distance of Bluetooth® system:  10 metres.
-- Reading USB pendrives and SD / SDHC / MMC cards with capacity up to 32 GB.
-- FM Radio.
-- Frequency range (FM): 87.5-108MHz
-- Connecting to audio devices by means of 3.5mm jack cable (included).
-- 2 x DC out for charging external devices.
-- Output current USB charging ports: 5V, 2A.
-- LED Backlit Display.
-- Support on top of the device for tablets and smartphones.
-- Wooden cabinet speakers.
-- Remote control with full functions control.
-- Preset EQs with manual setting option.
-- Plays MP3 files from SD / SDHC / MMC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3 files from USB memory drives with capacity up to 32 GB.
-- Playback Formats Audio (USB / SD): WAV, MP3 and WMA.
-- Speakers: 4" x 2 (core) + 4" x 1 (subwoofer).
-- Frequency response: 20Hz-20KHz
-- Power supply: 120-240 V / 50-60 Hz.
+*	2.1 Tower sound system
+*	Wireless Connectivity: - Bluetooth® v2.1.
+*	Bluetooth profiles: A2DP ; AVRCP.
+*	Distance of Bluetooth® system up to 10 metres.
+*	RMS Power: 60 W (30 W + 15 W x 2).
+*	Speakers:  4" x 2 (central) + 4" x 1 (subwoofer).
+*	Frequency response: 20 Hz-20 Hz.
+*	FM Radio
+*	Clock with programmable on/off function.
+*	Frequency range (FM): 87,5-108MHz
+*	Connection to audio devices with a 3,5mm jack cable (included).
+*	Output current USB charging ports: 5V, 2 A.
+*	Backlit LED display.
+*	Support on top of the device for tablets and smartphones.
+*	Wooden cabinet speakers for a perfect acoustic.
+*	Remote control with full functions.
+*	Predefined equalization modes or manual adjustment option.
+*	USB & SD/SDHC/MMC up to 32 GB cards decoder.
+*	Audio formats (USB/SD): WAV and MP3.
+*	Power supply: 120-240 V / 50-60 Hz.
+
