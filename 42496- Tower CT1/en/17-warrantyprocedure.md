@@ -7,3 +7,9 @@ You can check the availability of the user manual in your language at http://www
 Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
 Specifications are subject to change without notice.
+
+## Trademarks
+All company, brand and product names are trademarks or registered trademarks of their respective companies.
+
+© 2015 by Energy Sistem Technology, S.A. All rights reserved.
+
