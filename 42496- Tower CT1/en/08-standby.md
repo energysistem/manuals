@@ -5,10 +5,7 @@ When connecting the tower to the power outlet, turn your *Energy Tower CT1 Bluet
 If you are not using the tower for a long period of time, in addition to switching it off in the top display, we recommend switching it "OFF" also in the rear panel.
 
 
-## Display
 
-The *Energy Tower CT1 Bluetooth* is equipped with a backlit display hidden on the top of device.
-When the device is turned on, you can see the Energy Sistem logo illuminated at the top of the panel. In addition, you can see the display with the current mode.
 
 
 
