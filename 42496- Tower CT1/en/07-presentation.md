@@ -1,10 +1,9 @@
 ## General functions
 
-*Energy Tower CT1* is an integrated music player with Bluetooth® technology. You can play your song through USB/SD external memories as well, you can enjoy the FM radio and the Audio-in inputs to connect you MP3 player, mobile phone and other audio devices.
+The *Energy Tower CT1 Bluetooth* is a tower speaker with which you can play your music using the Bluetooth technology, external memories (USB or SD cards), the Audio-in input and you can also enjoy the FM radio. Easy sync with tablets, smartphones, laptops, Mac, PC and any other device with Bluetooth®.
 
-In order to select different functions, press (5). This will help you to select between the available functions of the connecting devices.
+In order to select different functions, press FUNCTION CHANGE (). to see the selected function. If you have nothing connected to the USB and SD / MMC inputs, the button FUNCTION CHANGE () will change between FM Radio, Bluetooth and Audio-in (AUX).
 
-If you have nothing connected to the USB and SD / MMC inputs, mode (5) button commute between FM Radio, Bluetooth and Line-in (Aux) mode. When you connect any device on any of the connections, *Energy Tower CT1* automatically switch to that function.
+When you connect any device on any of the connections, the *Energy Tower CT1 Bluetooth* will automatically switch to that function. If you have connected any or all inputs, the FUNCTION CHANGE button () will change between all the available functions.
 
-If you have connected any or all entries, the mode button (5) commute between all available.
 
