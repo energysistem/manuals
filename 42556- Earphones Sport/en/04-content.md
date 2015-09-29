@@ -1,8 +1,9 @@
-## <quick_guide>Product Content
+<quick_guide>
+## Product Content
 
-* Energy BT Sport earphones
-* USB cable
-* Hard carrying case
-* User manual
-* Interchangeable ear cushions
+*	Energy Earphones Sport Bluetooth
+*	USB charging cable
+*	Carrying bag
+*	Interchangeable ear cushions
+
 </quick_guide>
