@@ -1,15 +1,15 @@
 ## Talk Control
 
-Once you have paired your *Energy Wireless BT Sport*, you can manage your phone calls from the earphones.
+Once you have paired your *Energy Earphones Sport Bluetooth*, you can manage your phone calls from the earphones.
 
 **Answering a call**
 
-To answer a call, press any of the volume buttons (4) "+" or (5) "-" once.
+To answer a call, press any of the buttons, the Multifunction (1), Volume - (2) or Volume + (3) once.
 
 **Ending a call**
 
-Keep pressed any of the volume buttons (4) "+" or (5) "-" for aproximately two seconds to end a call.
+Press once the Multifunction button (1) to end a call.
 
 **Recall function**
 
-You can return your last phone call received from the earphones by pressing button (4) "-" twice.
+You can return your last phone call received from the earphones by pressing the Multifunction button (1) twice.
