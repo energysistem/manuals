@@ -1,6 +1,6 @@
 ## Remote control
 
-With the Remote Control you can select all possibilities that *Energy Tower CT1 Bluetooth* offers you:
+With the Remote Control you can select all possibilities that the *Energy Tower CT1 Bluetooth* offers you:
 
 *	Switch ON/OFF
 *	Select your mode (USB, SD, Line-in, Radio FM, Bluetooth) through the MODE button.
