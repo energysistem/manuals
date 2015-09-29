@@ -1,13 +1,10 @@
 ## Care and maintenance
 
-* Do not expose your *Energy Tower CT1* to impacts dust or even high temperatures.
+*	Do not expose your *Energy Box CT1 Bluetooth* to impacts, dust, direct sunlight, humidity or high temperatures.
 
-* Do not use corrosive or abrasive cleaning products.
+*	Do not use corrosive nor abrasive cleaning products.
 
-* Keep the device clean and without dust.
+*	Keep the speaker clean and dust free, use for this a soft dry cloth.
 
-* Do not disassemble the device. Any repair should be done by the qualified staff of Energy Sistem Technology, S.A.
+*	Do not disassemble the device. All reparation should be done exclusively Energy Sistem Technology, S.A. qualified staff.
 
-* Keep your *Energy Tower CT1* for form water or humidity, that one can be harmful for both speakers or for the amplifier.
-
-* Make sure that your *Energy Tower CT1* is off while you are not using it.
