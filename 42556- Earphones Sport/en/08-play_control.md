@@ -1,7 +1,8 @@
-## Play Control
+## Playback control
 
-Once you have paired your *Energy Wireless BT Sport*, you can control the play volume from the earphones. In order to do so, press buttons (4) “+” or (5) "–" once. You will hear a beep when maximum and minimum volume is reached.
+To control the play volume from the earphones press the Volume + (3) or Volume - (2) buttons. You will hear a "beep" when maximum and minimum volume is reached.
 
-To pause or resume play, press simultaneously the buttons (4) "+" and (5) "-" once. 
+To go to the next song press the Next (3) button for 2 seconds. To go to the previous song press the Previous (2) button.
 
-To forward or backward a song, keep pressed for two seconds buttons (4) "+" or (5) "-" respectively.
+Pause/Resume the playback with the Multifunction (1) button.
+
