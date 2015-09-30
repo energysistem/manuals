@@ -1,6 +1,6 @@
 ### Configuración Wi-Fi
 
-Pulsa en Ajustes desde el menú de aplicaciones.
+Tu Energy Phone Max 4G dispone de conexión Wi-Fi 802.11 b/g/n. Para conectar tu dispositivo con cualquier red inalámbrica solo tienes que ir a Ajustes > Wi-Fi y mover el interruptor a la posición ON. A continuación comenzará a realizar una búsqueda de todas las redes disponibles y solo tendrás que seleccionar una para comenzar a realizar la conexión.
 
 ![Imagen1]()
 
