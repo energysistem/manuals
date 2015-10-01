@@ -6,6 +6,6 @@
 
 * Mantén el dispositivo limpio y sin polvo; utiliza para ello un paño suave y seco.
 
-* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
+* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
 
 
