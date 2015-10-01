@@ -1,4 +1,4 @@
-## 3 ## Características
+## Características
 
 - Sistema de som 2.1 em torre.
 - Conectividade sem fios: Bluetooth® v2.1.
