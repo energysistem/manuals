@@ -1,11 +1,11 @@
-## Sincronização Bluetooth 
+## Ligação Bluetooth
 
-Pressionando o botão modo (5) para seleccionar o modo Bluetooth, irão aparecer no display as letras "bt". Então você pode efectuar a sincronização com o seu dispositivo Bluetooth. 
+Seleccione o modo Bluetooth que aparecerá no painel com as letras "bt" ao premir o botão MUDAR FUNÇÃO (11). Nesse momento, poderá estabelecer a ligação com o seu dispositivo Bluetooth.
 
-Quando você ter exibido no seu dispositivo Bluetooth o nome de "Energy Tower 5" só seleccione ligar e espere alguns segundos depois que a conexão for concluída. 
+Quando o nome da "Energy Tower" apareça no seu dispositivo Bluetooth, só tem que seleccionar "ligar" e após uns segundos, a ligação estabelecer-se-á.
 
-No momento em que a conexão é estabelecida, você pode começar com a leitura sem fio de toda a sua lista de música. 
+No momento que a ligação tem sido estabelecida, pode começar com a reprodução sem fios da sua lista de músicas.
 
-Se você quiser remover a sincronização actual e sincronizar qualquer outro dispositivo, você tem que pressionar o botão (4) por 2 segundos e iniciar uma nova pesquisa, ou você também pode sair do modo Bluetooth e entrar novamente com o botão (5).
+A torre estabelecerá sempre a ligação com o mesmo dispositivo automaticamente. Se deseja finalizar a ligação estabelecida, deve terminar a ligação através das opções de configuração do seu smartphone ou tablet.
 
-Além disso, a *Energy Tower 5* inclui os perfis Bluetooth A2DP (Advanced Audio Distribution Profile) pelo qual você pode ouvir a sua música em estéreo, e AVRCP (Audio Video Remote Control Profile) pelo qual você pode controlar a reprodução de sua música a partir da *Energy Tower 5* ou do seu controle remoto. 
+A *Energy Tower CT1 Bluetooth* inclui também perfis Bluetooth A2DP (Advanced Audio Distribution Profile), os quais lhe permitem escutar a sua música com som estéreo e AVRCP (Audio Video Remote Control Profile), através do qual pode controlar a reprodução de música desde a própria *Energy Tower CT1 Bluetooth* ou desde o seu telecomando.
