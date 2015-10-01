@@ -1,6 +1,6 @@
 ## Introduction
 
-*	Thank you for your trust in us and for buying the new Energy Music Box CT1 Bluetooth. We hope you enjoy it.
+*	Thank you for your trust in us and for buying the new Energy Tower CT1 Bluetooth. We hope you enjoy it.
 
 *	Tower sound system with Bluetooth® wireless connection and 60 W RMS output power.  Listen your favourite songs through USB host and SD/SDHC cards, tune the FM radio. With alarm clock function.
 
