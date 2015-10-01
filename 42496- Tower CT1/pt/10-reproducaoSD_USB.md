@@ -1,4 +1,4 @@
-## ## Reprodução a partir de cartões SD e USB
+## Reprodução a partir de cartões SD e USB
 
 Para reproduzir ficheiros com formato MP3, WAV ou WMA, deve inserir uma unidade externa USB o um cartão de memória SD nos slots correspondentes, (1) e (2), respectivamente.
 
