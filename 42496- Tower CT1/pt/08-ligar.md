@@ -1,4 +1,4 @@
-## Ligar e desligar o dispositivo. Modo standby
+## Ligar e desligar o dispositivo. Modo stand-by
 
 Uma vez tem a sua *Energy Tower CT1* ligada à tomada de corrente, ligue a torre deslizando o interruptor na parte posterior da torre para a posição "ON". A partir desse momento, poderá ligar ou desligar a torre através do botão LIGAR/DESLIGAR (11) no painel superior, se mantém esse botão premido durante 2 segundos.
 
