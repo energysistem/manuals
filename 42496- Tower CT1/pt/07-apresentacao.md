@@ -1,4 +1,4 @@
-## ## Apresentação geral
+## Apresentação geral
 
 A *Energy Tower CT1 Bluetooth* é um sistema de som em torre que reproduz música apartir de tecnologia Bluetooth®, unidades externas (USB ou cartões SD) e entrada Audio-In. Dispõe também de Rádio FM. Pode sincronizá-la facilmente com tablets, smartphones, computadores portáteis, MACs, PCs e qualquer  dispositivo  Bluetooth.
 
