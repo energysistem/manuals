@@ -11,6 +11,6 @@ En utilisant les touches T-ON et T-OFF de la télécommande vous pouvez régler 
 
 Pour programmer l'heure d'allumage appuyez sur la touche T-ON, puis entrez l'heure que vous voulez en utilisant les touches numériques de la télécommande.  Suivez la même procédure pour le réglage lorsque vous utilisez le bouton T-OFF.
 
-Pour garder le calendrier fixé, vous devez désactiver la tour de la touche ALLUMER/ÉTEINDRE () sur le panneau supérieur.  La programmation sera perdue si vous mettez l'interrupteur arrière sur la  position OFF ou débranchez le câble d'alimentation de la tour.
+Pour garder le calendrier fixé, vous devez désactiver la tour de la touche ALLUMER/ÉTEINDRE (11) sur le panneau supérieur.  La programmation sera perdue si vous mettez l'interrupteur arrière sur la  position OFF ou débranchez le câble d'alimentation de la tour.
 
 Lorsque votre Energy Tower CT1 Bluetooth s'allume automatiquement à l'heure prévue, il va commencer à lire à partir du dernier mode, de la dernière chanson ou la dernière station et volume sélectionné.
