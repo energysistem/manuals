@@ -1,6 +1,6 @@
 ## Carregamento de dispositivos 
 
-A *Energy Tower 5* tem dois saídas "DC OUT", nas quais você pode conectar um cabo USB para carregar outro dispositivo como um smartphone, tablet ou leitor de MP3, mesmo enquanto você estiver usando-o como um reprodutor.
+A *Energy Tower CT1* tem dois saídas "DC OUT", nas quais você pode conectar um cabo USB para carregar outro dispositivo como um smartphone, tablet ou leitor de MP3, mesmo enquanto você estiver usando-o como um reprodutor.
 
 Especificações de saída "DC OUT": <br> 
 
