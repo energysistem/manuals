@@ -1,8 +1,7 @@
-## Apresentação Geral 
+## ## Apresentação geral
 
-O *Energy Tower 5* é um sistema de som em torre com reprodução via Bluetooth®, memória externa (USB ou cartões SD), entrada Line-in e também tem rádio FM. Sincroniza-se facilmente com tablets, smartphones, laptops, Mac, PC e qualquer outro dispositivo com Bluetooth. 
+A *Energy Tower CT1 Bluetooth* é um sistema de som em torre que reproduz música apartir de tecnologia Bluetooth®, unidades externas (USB ou cartões SD) e entrada Audio-In. Dispõe também de Rádio FM. Pode sincronizá-la facilmente com tablets, smartphones, computadores portáteis, MACs, PCs e qualquer  dispositivo  Bluetooth.
 
-Para alternar entre as diferentes funções, pressione o botão (5), e a função seleccionada será exibida no visor. Se não há nada conectado nas entradas USB e SD/MMC, o botão (5) comutará entre o modo Rádio FM, Bluetooth 
-e Line-in (Aux). 
+ Prima o botão MUDAR FUNÇÃO () para mudar de uma função para outra e poderá ver a função escolhida no painel. Caso de não ter dispositivo nenhum ligado às entradas USB e SD/MMC, o botão MUDAR FUNÇÃO () mudará alternadamente para os modos de rádio FM, Bluetooth e Audio-in (Aux).
 
-Ao conectar qualquer dispositivo em qualquer uma das conexões, a *Energy Tower 5* mudará automaticamente para essa função. Se tiver ligado uma ou todas as entradas, o botão (5) alternará entre todas os disponíveis.
+Quando ligue algum dispositivo a qualquer porta da *Energy Tower CC1 Bluetooth*, a torre mudará para essa função automaticamente. No caso de ter ligados dispositivos a uma ou todas as entradas, o botão MUDAR FUNÇÃO () alternará entre todas as funções disponíveis.
