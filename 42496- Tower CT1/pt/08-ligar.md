@@ -6,4 +6,4 @@ Recomendamos, para além de desligar a torre através do painel superior, desliz
 
 ## Ecrã
 
-A *Energy Tower CT1 Bluetooth* tem um ecrã retroiluminado oculto na parte superior. Ao ligar o dispositivo, pode ver que o logo Energy Sistem acende-se no painel superior. Além disso, o ecrã que mostra o modo  seleccionado na *Energy Tower CT1 Bluetooth* acende-se também.
+A *Energy Tower CT1 Bluetooth* tem um ecrã retroiluminado oculto na parte superior. Ao ligar o dispositivo, pode ver que o logo de Energy Sistem acende-se no painel superior. Além disso, o ecrã que mostra o modo  seleccionado na *Energy Tower CT1 Bluetooth* acende-se também.
