@@ -1,19 +1,22 @@
-## Controle remoto
+## Telecomando
 
-Usando o controle remoto você pode controlar todos os recursos da *Energy Tower 5*.
+Pode controlar todas as possibilidades que oferece a *Energy Tower CT1 Bluetooth* através do telecomando.
 
-* Desligar e reiniciar o computador.
+* Ligar e desligar o dispositivo.
 
-* Selecção de modo (USB, SD, Line-in, Radio FM, Bluetooth®) através do botão modo.
+* Seleccionar o modo (USB, SD, Audio-in, Rádio FM, Bluetooth®) através do botão de modo.
 
-* Função "Mute" para silenciar todos os modos. 
+* Função "MUTE" para silenciar todos os modos à excepção do modo Bluetooth.
 
-* Controle de Volume, Play/Pause, Avanço e Retrocesso o controle de sintonia / FM. 
+* Controlo de Volume, Play/Pause, Avançar e Voltar para a pista de áudio ou frequência FM seguinte/anterior (todos os modos).
 
-* Equalização (EQ predefinida) para os modos USB e SD. 
+* Equalização (EQ) para os modos USB e SD.
 
-* Navegação por pastas * (Botão X) para os modos USB e SD. 
+* Navegar nas pastas (Botão BROWSE) para os modos USB e SD. 
 
-* modos Repeat e Random (Botão RPT). 
+* Modos de reprodução (Botão RPT) para os modos USB e SD. Veja a secção "Reprodução a partir de cartões SD e USB".
 
-* Seleccionando o número de música ou estação através dos botões numéricos (modos USB, SD e Rádio FM).
+* Seleccionar o número de canção ou frequência de rádio através dos botões numéricos (modos USB, SD e Rádio FM).
+
+* Controlo do relógio-alarme (Botões T-ON, CLOCK E T-OFF).
+
