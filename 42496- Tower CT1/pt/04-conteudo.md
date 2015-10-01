@@ -1,6 +1,6 @@
 ## Conteúdo do produto 
 
-- Energy Tower 5. 
-- Controle remoto. 
-- Cabo de áudio (3,5 mm). 
-- Guia Rápida.
+- Energy Tower CT1 Bluetooth.
+- Telecomando.
+- Cabo de áudio (3,5mm).
+
