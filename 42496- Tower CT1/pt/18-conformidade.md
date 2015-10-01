@@ -8,7 +8,7 @@ Declaramos sob a nossa exclusiva responsabilidade a conformidade que o produto:
 
 >**Energy Tower CT1 Bluetooth**
 
-**Pais de fabricação:**_China<br>
+_**Pais de fabricação:**_ China<br>
 Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 99/5/EC do Parlamento Europeu e do Conselho de 9 de Março de 1999. Pode solicitar uma cópia da declaração de conformidade em: C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha) Tel. +34 966 831 058
 
 Finestrat, 01 de novembro de 2015
