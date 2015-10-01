@@ -1,7 +1,7 @@
-## Introdução 
+## Introdução
 
-* Energy Sistem® agradece-lhe por adquirir esta *Energy Tower 5*, desejamos que tire o maior proveito.
+* Energy Sistem agradece a aquisição da sua *Energy Tower CC1 Bluetooth*. Desejamos-lhe muita diversão.
 
-* Desperte seus sentidos com este sistema de som do 2.1 em torre. Ligue facilmente seus aparelhos Bluetooth e comece a desfrutar com 60W RMS que oferece. Além disso, conta com Rádio FM, USB e leitor de cartões SD/SDHC, para que nunca falte a música. 
+* Torre de som com ligação sem fios Bluetooth® e potência real de 60W. Escute as suas canções favoritas através das unidades externas USB/SD ou ouça as emissões de rádio FM. Além disso, inclui também a função relógio/alarme.
 
-* Sugerimos que você leia este manual para obter o máximo de seu produto de forma segura e aproveitando seus benefícios.
+* Aconselhamos ler o presente manual do usuário para tirar o máximo partido do produto com segurança e aproveitando todas as suas prestações.
