@@ -9,7 +9,7 @@ Mediante los botones  T-ON y T-OFF del mando podrás establecer la hora de encen
 
 Para programar la hora de encendido pulsa el botón T-ON y luego introduce la hora que deseas mediante los botones numéricos del mando. Sigue el mismo procedimiento para establecer la hora de apagado mediante el botón T-OFF.
 
-Para conservar la programación establecida debes apagar la torre desde el botón ENCENDER/APAGAR () del panel superior. La programación se perderá si pones el interruptor trasero en OFF o si desconectas el cable de alimentación de la torre.
+Para conservar la programación establecida debes apagar la torre desde el botón ENCENDER/APAGAR (11) del panel superior. La programación se perderá si pones el interruptor trasero en OFF o si desconectas el cable de alimentación de la torre.
 
 Cuando tu *Energy Tower CT1 Bluetooth* encienda automáticamente a la hora programada, empezará a reproducir desde el último modo, desde la última canción o emisora y al último volumen seleccionado.
 
