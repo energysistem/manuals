@@ -10,5 +10,5 @@ Si vous désactivez *l'Energy Tower CT1 Bluetooth* ou retirez une des mémoires,
 
 Lorsque vous vous reconnectez la même mémoire, il continuera à jouer au moment où vous l'avez laissé.
 
-Pour naviguer entre les pistes, utiliser les touches AVANCE () et RETOUR ().  Vous pouvez également changer dossier en appuyant sur la touche CHANGEMENT DE DOSSIER ().
+Pour naviguer entre les pistes, utiliser les touches AVANCE (7) et RETOUR (9).  Vous pouvez également changer dossier en appuyant sur la touche CHANGEMENT DE DOSSIER (10).
 
