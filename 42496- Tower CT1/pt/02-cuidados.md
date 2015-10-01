@@ -1,6 +1,6 @@
 ## Cuidados e Manutenção 
 
-* Não exponha sua *Energy Tower 5* a golpes, poeira, humidade ou temperaturas extremas.
+* Não exponha sua *Energy Tower CT1* a golpes, poeira, humidade ou temperaturas extremas.
 
 * Não use produtos de limpeza corrosivos ou abrasivos. 
 
@@ -8,4 +8,4 @@
 
 * Não desmonte o aparelho. Todas as reparações devem ser realizadas exclusivamente por pessoal qualificado de Energy Sistem Soyntec S.A.
 
-* Certifique-se de manter sua *Energy Tower 5* desligada quando não estiver em uso. 
+* Certifique-se de manter sua *Energy Tower CT1* desligada quando não estiver em uso. 
