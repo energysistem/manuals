@@ -8,7 +8,7 @@ With the Remote Control you can select all possibilities that the *Energy Tower 
 *	Volume control, Play/Pause, Next and Previous songs/FM stations (in all modes).
 *	Equalization presets for USB and SD modes.
 *	Manage your folders in the USB and SD memories with browse button.
-*	Repeat and Random modes for the USB and SD memories with RPT button.
+*	Playback modes for the USB and SD memories with RPT button. For more info see the 
 *	Numeric buttons to select your songs/stations with the number buttons.
 *	Alarm clock control (T-ON, CLOCK and T-OFF buttons)
 
