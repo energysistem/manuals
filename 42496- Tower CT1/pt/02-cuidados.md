@@ -1,11 +1,11 @@
-## Cuidados e Manutenção 
+## Cuidado e manutenção
 
-* Não exponha sua *Energy Tower CT1* a golpes, poeira, humidade ou temperaturas extremas.
+* Evite que a sua Energy Tower CT1 Bluetooth sofra impactos fortes e que entre em contacto com altas temperaturas, pó e humidade.
 
-* Não use produtos de limpeza corrosivos ou abrasivos. 
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
 
-* Mantenha o aparelho limpo e sem poeira; utilize um pano seco e macio para isso. 
+* Mantenha o dispositivo limpo e sem pó com ajuda de um pano suave e seco.
 
-* Não desmonte o aparelho. Todas as reparações devem ser realizadas exclusivamente por pessoal qualificado de Energy Sistem Soyntec S.A.
+* Não desmonte o dispositivo. Qualquer reparação do mesmo deve ser efectuada apenas por pessoal qualificado de Energy Sistem Technology, S.A.
 
-* Certifique-se de manter sua *Energy Tower CT1* desligada quando não estiver em uso. 
+
