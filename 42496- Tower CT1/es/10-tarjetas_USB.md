@@ -1,6 +1,6 @@
 ## Reproducción desde tarjetas SD y USB
 
-Para reproducir archivos en formato MP3, WAV ó WMA inserta una memoria externa USB o una tarjeta de memoria SDMMC en las ranuras correspondientes, () y () respectivamente.
+Para reproducir archivos en formato MP3, WAV ó WMA inserta una memoria externa USB o una tarjeta de memoria SD en las ranuras correspondientes, (1) y (2) respectivamente.
 
 En ese momento el *Energy Tower CT1 Bluetooth* reproducirá desde la memoria externa insertada automáticamente.
 Visualizarás en el display "USB" ó "SD" según el tipo de memoria que insertes.
@@ -9,12 +9,12 @@ Si apagas el *Energy Tower CT1 Bluetooth* o extraes alguna de las memorias, se a
 
 Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de AVANCE () y RETROCESO (). También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA ().
+Para navegar entre canciones, utiliza los botones de AVANCE (7) y RETROCESO (9). También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (10).
 
 
 ### Modo de reproducción
 
-Pulsando el botón MODO DE REPRODUCCIÓN () puedes seleccionar una de estas 3 opciones:
+Pulsando el botón RPT del mando puedes seleccionar una de estas 3 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria.
 
