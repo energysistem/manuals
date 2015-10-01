@@ -1,8 +1,8 @@
 ## Parte superior
 
-![Schema](http://static.energysistem.com/images/manuals/42261/5579421b60325.jpg)
+![Schema](hhttp://static.energysistem.com/images/manuals/42261/560cea7310ba0.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42261/55794e9b41ddc.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42261/560cea6bb6ac6.jpg)
 
 
 
