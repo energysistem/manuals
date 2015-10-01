@@ -14,7 +14,7 @@ Mediante el mando a distancia puedes controlar todas las posibilidades que ofrec
 
 * Navegación por carpetas (Botón BROWSE) para los modos USB y SD.
 
-* Modos de reproducción. (Botón RPT).
+* Modos de reproducción. (Botón RPT) para los modos USB y SD. Ver el apartado "Reproducción desde tarjetas SD y USB".
 
 * Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y Radio FM).
 
