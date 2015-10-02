@@ -5,6 +5,7 @@ Energy Sistem Technology, S.A. garantit que le produit est exempt de défauts de
 
 La garantie offerte par Energy Sistem™ couvre les défauts de matière ou de fabrication. Cette garantie ne couvre pas les défauts ou détériorations résultant
 d’un accident, d’une utilisation inadéquate ou d’une manipulation du produit effectuée ou tentée par des personnes autres que les réparateurs d’Energy Sistem™.
+
 La garantie de 36 mois est valable pour l’Union européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
 
 </quick_guide>
