@@ -9,7 +9,7 @@ Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d’ach
 
 Les spécifications sont sujettes à changement sans préavis.
 
-Marques commerciales
+## Marques commerciales
 Tous les autres noms de produits ou d’entreprises sont des marques de commerce ou
 marques déposées de leurs entreprises correspondantes.
 
