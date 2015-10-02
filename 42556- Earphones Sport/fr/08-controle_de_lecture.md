@@ -1,7 +1,8 @@
 ## Contrôle de lecture
 
-Après avoir synchronisé les Energy Wireless BT Sport vous pouvez contrôler le volume de lecture depuis les écouteurs. Pour cela, appuyez une seule fois sur les boutons (4) "+" ou (5) "-".  Vous entendrez un bip lorsque vous atteindre le volume maximum et minimal.
+Pour contrôler le volume de lecture depuis les écouteurs appuyez  sur les boutons Volume + (3) ou Volume - (2). Vous entendrez un bip lorsque vous atteindrez le volume maximum.
 
-Pour arrêter ou recommencer la lecture, appuyez au même temps les boutons (4) “+” et (5) “–“ une seule fois. 
+En appuyant sur le bouton Avancer (3) pendant 2 secondes vous passez à la chanson suivante. Pour passer à la précédente, appuyez sur le bouton Reculer (2).
 
-Pour avancer ou reculer une musique, appuyez pendant deux secondes les boutons (4) "+" ou (5) "-" respectivement.
+Pause / Reprend la lecture de contenu multimédia ou l'émission de TV  (nécessite un périphérique de stockage USB externe).
+
