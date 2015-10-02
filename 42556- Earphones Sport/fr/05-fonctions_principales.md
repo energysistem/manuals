@@ -1,18 +1,17 @@
 ## Fonctions Principales
 <quick_guide>
-### Marche / arrêt de l'appareil
+### Allumer et éteindre
 
-Utilisez le bouton (1) pour allumer / éteindre l'appareil.
+Pour allumer l'appareil, appuyez sur la touche Multifonction (1) pendant 4 secondes et vous verrez l'Indicateur (4) en bleu. Vous écouterez « Power on » sur l'appareil, cela indique que l'appareil est allumé.
 
-Pour allumer l'appareil, appuyez pendant 2 seconds sur le bouton (1) et vous la lumière LED (6) commencera à clignoter en bleu.  Vous écouterez "POWER ON" qu'indique que l'appareil est allumé.
+Pour éteindre l'appareil, appuyez à nouveau pendant 5 seconds le bouton Multifonction (1), vous écouterez « Power off », cela indique que l'appareil est éteint.  L'indicateur (4) arrêtera de clignoter.
 
-Pour éteindre l'appareil, appuyez à nouveau pendant 3 seconds le bouton (1), écoutez "POWER OFF" qu'indique que l'appareil est éteint. La LED (6) arrêtera de clignoter.
+Alors que l'appareil est allumé, l'Indicateur (4) continue à clignoter.
 
-Quand l'appareil soit allumé la lumière LED (6) indicateur clignotera.
 </quick_guide>
 ### Chargement de la batterie
 
-Quand l'écouteur n'émet pas du son ou vous commencez à percevoir qu'à courte distance l'écouteur émet des interférences, c'est le moment de le recharger, de brancher le but mini USB du câble USB (inclut) sur l’Energy Wireless BT Sport (5), et l'autre but USB sur d'autres appareils avec port USB pour fournir de l'énergie (PC, chargeur USB mural, de voiture, etc). La lumière LED (6) sera illuminée en rouge et quand le chargement soit complet, sera éteinte.
+Lorsque la charge de la batterie est faible, l'écouteur vous alerte par un message vocal disant « Batterie low ». Pour le recharger, connectez l'extrémité miniUSB du câble USB (fourni) à la Connexion de chargement* (5), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). L'Indicateur (6) s'allume en rouge et lorsque la charge est complète l'Indicateur passera au bleue.
 
 
-**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
+**Avis:** Ne pas stocker ou laisser tomber en désuétude vos Energy Earphones Sport Bluetooth avec la batterie complètement déchargée.
