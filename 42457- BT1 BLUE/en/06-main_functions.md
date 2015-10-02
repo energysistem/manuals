@@ -17,5 +17,5 @@ When the battery is about to drain, the headphones will emit a sound warning abo
 
 To charge it, connect the mini USB end of the included USB cable to your CHARGING USB PORT (5) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). 
 
-The LED (4) will turn on in red colour and when the charge is completed the LED will turn off.
+The LED (4) will turn on in red colour and when the charge is completed the LED will change to blue color.
 
