@@ -1,8 +1,6 @@
 <quick_guide>
 ##  Déclaration de conformité
 
-DÉCLARATION DE CONFORMITÉ
-
 Nom du Fournisseur :
 Energy Sistem Technology, S.A.
 Adresse : C/ Calpe, 1
