@@ -2,36 +2,32 @@
 ## Caractéristiques
 ### Caractéristiques générales
 
-- Écouteurs Bluetooth® sportifs.
-- Bluetooth V4.0, classe II.
-- Contrôle d'appels et lecture depuis l'haut parleur.
-- Technologie pour l'isolement acoustique.
-- Simple synchronisation sans codes.
-- Synchronisation avec deux appareils Bluetooth® au même temps.
-- Réception d'appels automatique.
-- Microphone intégré avec isolement de bruit.
-- Ergonomiques, adaptables anatomiquement pour un plus grand confort.
-- Ultra-légers, seulement 15g.
-- Compatibilité totale avec des Tablettes, Smartphones, Ordinateurs portables, MAC et PCs
-- Son de très bonne qualité et claire, avec des basses puissants et des aigus très vifs.. 
-- Batterie de lithium rechargeable.
-- Distance d'utilisation jusqu'à 10m de portée.
+*	Écouteurs Bluetooth sportifs.
+*	Synchronisation facile avec des tablettes, des smartphones, des ordinateurs portables, MAC, PC et tout autre appareil Bluetooth.
+*	Contrôle du volume depuis l'écouteur.
+*	Synchronisation sans codes.
+*	Technologie multipoint qui vous permet de connecter deux appareils Bluetooth simultanément.
+*	Légers et confortables.
+*	Réception d'appels automatique.
+*	Distance de l'utilisation de jusqu'à 10 m de portée.
+*	Batterie au lithium rechargeable.
+
 
 ### Spécifications techniques
 
-- Bluetooth® V4.0 classe II.
-- Supporte protocoles HSP / HFP / A2DP /AVRCP.
-- Indicateur de chargement sur des appareils iOS.
-- Diamètre du driver: 12mm
-- Réponse en fréquence: 20  Hz ~ 20KHz.
-- Distance d'utilisation jusqu'à 10m de portée
-- Impédance: 16 Ohm
-- Sensibilité du microphone principal: 42dB 
-- Sensibilité du microphone secondaire: 45dB
+*	Bluetooth V4.1, Classe II.
+*	Supporte profils HSP / HFP / A2DP /AVRCP.
+*	Indicateur de chargement sur des appareils iOS.
+*	Diamètre du driver : 10 mm.
+*	Réponse en fréquence : 20 - 20.000Hz.
+*	Distance de l'utilisation de jusqu'à 10 m de portée.
+*	Sensibilité du microphone -42 dB ± 3 dB.
 
 ### Spécifications de la batterie de lithium rechargeable<br/>
-- Capacité: 100mAh
-- Système de chargement par USB
-- Temps de chargement: 1,5 heures
-- Autonomie d'utilisation: Jusqu'à 7 heures
-- Autonomie en stand by: 300 heures
+
+*	Capacité : 100 mAh.
+*	Système de chargement par USB
+*	Temps de chargement : 1,5 heures.
+*	Autonomie d'utilisation : 7 heures.
+*	Autonomie en veille : 300 heures.
+
