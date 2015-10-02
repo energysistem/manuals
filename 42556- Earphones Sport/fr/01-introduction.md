@@ -7,4 +7,4 @@
 *	Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profiter toutes ses caractéristiques.
 
 <unique>
-* Consultez le manuel entier de l'*Energy Earphones Sport Bluetooth* sur ce lien http://www.energysistem.com/guide/42556 </unique> </quick_guide>
+Consultez le manuel entier de l'*Energy Earphones Sport Bluetooth* sur ce lien http://www.energysistem.com/guide/42556 </unique> </quick_guide>
