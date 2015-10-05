@@ -1,37 +1,47 @@
 
 ## Instrucciones de uso
 
-**Para cargar tu dispositivo:**
+**Pour charger votre appareil :**
 
-Puedes conectar el cable incluido (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu propio cable de carga conectándolo a cualquiera de los puertos USB tipo A disponibles (1, extrayendo el cable incluido) / (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Branchez le câble micro USB (1) à l'entrée du port micro USB de l'appareil portable à charger. Vous pouvez aussi utiliser votre propre câble dans les ports USB type A disponibles (1, une fois extrait le câble inclus) / (4) Puis le chargement commencera et l'indicateur LED (2) s'allume.
 
-Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+L'indicateur LED montrera à tout moment l'état de l'Extra Battery :
 
-El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra Battery:
-
-* 4 LEDS: Nivel de batería a plena capacidad
-* 3 LEDS: Nivel de batería a 3/4 de capacidad
-* 2 LEDS: Nivel de batería a 1/2 de capacidad
-* 1 LED: Nivel de batería a 1/4 de capacidad
-* 4 LEDS apagados: Batería agotada
+*	4 LEDs allumés : Niveau de batterie à pleine capacité
+*	3 LEDs allumés : Niveau de batterie 3/4 de capacité 
+*	2 LEDs allumés : Niveau de batterie 1/2 de capacité 
+*	1 LED allumé : Niveau de batterie 1/4 de capacité 
+*	1 LED clignotant rapide : Niveau de batterie au minimum de capacité
 
 
-**Para cargar tu Energy Extra Battery:**
+**Pour charger l'Energy Extra Battery :**
 
-Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3).
-Puedes usar también el cable extraible incluido (1). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Branchez le câble du chargeur à votre smartphone ou tablette au connecteur microUSB de votre Energy Extra Battery (3).
+Vous pouvez utiliser aussi le câble amovible compris (1). Puis le chargement commencera et l'indicateur LED (2) s'allume.
 
-El indicador LED mostrará en todo momento en qué estado se encuentra la carga de tu Extra Battery:
+L'indicateur LED montrera toujours l'état de charge de la batterie de votre Extra Battery.
 
-* 1 LED parpadeo: Cargando hasta 1/4 de capacidad
-* 2 LEDS parpadeo: Cargando hasta 1/2 de capacidad
-* 3 LEDS parpadeo: Cargando hasta 3/4 de capacidad
-* 4 LEDS parpadeo: Cargando hasta plena de capacidad
-* 4 LEDS permanente: Batería cargada
+*	1 LED clignotement lent : Chargement jusqu'à 1/4 de capacité
+*	2 LEDs clignotement lent : Chargement jusqu'à 1/2 de capacité.
+*	3 LEDs clignotement lent : Chargement jusqu'à 3/4 de capacité
+*	4 LEDs clignotement lent : Chargement jusqu'à pleine capacité
+*	4 LEDs permanents :  Batterie chargée
+
+Lorsque le chargement est terminé, débranchez l'appareil et l'Extra Battery s'éteint automatiquement dans quelque seconds.
+
+
+**Bouton de vérification de charge :**
+
+Appuyez sur le bouton inférieur (5)  pour vérifier le niveau de charge de votre Extra Battery.
+
+**Éteindre votre Extra Battery :** 
+
+Votre Energy Extra Battery a un système d'arrêt automatique les quelques secondes après avoir déconnecté l'appareil que vous avez chargé. Cependant, vous pouvez l'éteindre n'importe quand lors de la charge sans la déconnecter, en appuyant deux fois sur le bouton inférieur (5).
+
 
 ![LED STATUS](http:.jpg)
 
-#### **NOTA:**
+#### **Avis:**
 
-#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga.
-#### La carga uno o varios dispositivos mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+#### Vous pouvez utiliser les deux sorties pour charger deux appareils, ce qui augmenterait les temps de charge.
+#### Si vous chargez un appareil lors du chargement de l'Energy Extra Battery, la vie la l'Energy Extra Battery peut être réduite.
