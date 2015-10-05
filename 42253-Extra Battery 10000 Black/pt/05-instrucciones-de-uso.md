@@ -11,9 +11,9 @@ Pode ligar o cabo fornecido (1) à porta micro USB do dispositivo que quer carre
 O indicador LED mostra sempre o estado da sua Extra Battery:
 
 * 4 indicadores LED acesos: nível máximo da bateria
-* 3 indicadores LED acesos: capacidade da bateria: 3/4
-* 2 indicadores LED acesos: capacidade da bateria: 1/2
-* 1 LED aceso: capacidade da bateria: 1/4
+* 3 indicadores LED acesos: bateria carregada até 3/4 da sua capacidade
+* 2 indicadores LED acesos: bateria carregada até 1/2 da sua capacidade 
+* 1 LED aceso: bateria carregada até 1/4 da sua capacidade
 * 1 LED intermitente rápido: nível mínimo da bateria
 
 
