@@ -1,8 +1,8 @@
-## Introducción
+## Introduction
 
-Energy Sistem#trade# te agradece la compra de tu nueva batería portátil Energy Extra Battery 10000. Esperamos que la disfrutes y la conviertas en tu mejor aliado para el día a día.
+Energy Sistem™ vous remercie pour l'achat de cette nouvelle batterie portable Energy Extra Battery 10000. Profitez de l'appareil.
 
-Esta batería portátil recargable de 10000 mAh de capacidad es perfecta para recargar tu tablet, smartphone, reproductor multimedia u otros dispositivos en cualquier lugar gracias a su sistema de carga rápida, con cable extraible incluido, 2 puertos USB para carga simultánea, que te permite cargar tus dispositivos allá donde estés.
+Cette batterie portable et rechargeable avec 10000 mAh de capacité est idéale pour recharger votre smartphone, lecteurs multimédia ou d'autres appareils électroniques grâce à son système de charge rapide, avec câble amovible, 2 ports USB pour charge simultanée, qui vous permet de charger vos appareils n'importe où. 
 
-Te aconsejamos que leas este manual para que puedas disfrutar de tu Energy Extra Battery aprovechando al máximo todas sus prestaciones.
+Avant de commencer à profiter de votre batterie nous vous conseillons de lire cette guide pour profiter toutes ses caractéristiques.
 
