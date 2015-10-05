@@ -1,37 +1,50 @@
+## Instruções de utilização
 
-## Instrucciones de uso
+**Para carregar um dispositivo:**
 
-**Para cargar tu dispositivo:**
+![](http://static.energysistem.com/images/manuals/42253/56057cbc54561.jpg)
 
-Puedes conectar el cable incluido (1) a la conexión micro-USB del dispositivo que quieres recargar. O puedes utilizar tu propio cable de carga conectándolo a cualquiera de los puertos USB tipo A disponibles (1, extrayendo el cable incluido) / (4).  Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Pode ligar o cabo fornecido (1) à porta micro USB do dispositivo que quer carregar. Alternativamente, pode ligar o seu próprio cabo de carregamento à qualquer das portas USB tipo A disponíveis (em primeiro lugar, tem que remover o cabo fornecido) / (4).  O processo de carregamento começa e o indicador LED (2) acende.
 
-Cuando finalice la carga, puedes desconectar tu dispositivo, y la Extra Battery se apagará automáticamente a los pocos segundos.
+![](http://static.energysistem.com/images/manuals/42253/56057edd1414b.jpg)
 
-El indicador LED mostrará en todo momento en qué estado se encuentra tu Extra Battery:
+O indicador LED mostra sempre o estado da sua Extra Battery:
 
-* 4 LEDS: Nivel de batería a plena capacidad
-* 3 LEDS: Nivel de batería a 3/4 de capacidad
-* 2 LEDS: Nivel de batería a 1/2 de capacidad
-* 1 LED: Nivel de batería a 1/4 de capacidad
-* 4 LEDS apagados: Batería agotada
+* 4 indicadores LED permanentes: nível máximo da bateria
+* 3 indicadores LED permanentes: capacidade da bateria: 3/4
+* 2 indicadores LED permanentes: capacidade da bateria: 1/2
+* 1 LED permanente: capacidade da bateria: 1/4
+* 1 LED intermitente rápido: nível mínimo da bateria
 
 
-**Para cargar tu Energy Extra Battery:**
+**Para carregar a sua Energy Extra Battery:**
 
-Conecta el cable del cargador de tu smartphone o tablet al conector micro-USB de tu Energy Extra Battery (3).
-Puedes usar también el cable extraible incluido (1). Acto seguido empezará el proceso de carga y se encenderá el indicador LED (2).
+Ligue o cabo do carregador do seu smartphone ou tablet à porta micro USB da sua Energy Extra Battery (3).
+Pode utilizar também o cabo removível fornecido (1). O processo de carregamento começa e o indicador LED (2) acende.
 
-El indicador LED mostrará en todo momento en qué estado se encuentra la carga de tu Extra Battery:
+O indicador LED mostra sempre o estado de carregamento da sua Extra Battery:
 
-* 1 LED parpadeo: Cargando hasta 1/4 de capacidad
-* 2 LEDS parpadeo: Cargando hasta 1/2 de capacidad
-* 3 LEDS parpadeo: Cargando hasta 3/4 de capacidad
-* 4 LEDS parpadeo: Cargando hasta plena de capacidad
-* 4 LEDS permanente: Batería cargada
+* 1 LED intermitente lento: a carregar até atingir 1/4 da capacidade
+* 2 indicadores LED intermitentes lentos: a carregar até atingir 1/2 da capacidade
+* 3 indicadores LED intermitentes lentos: a carregar até atingir 3/4 da capacidade
+* 4 indicadores LED intermitentes lentos: a carregar até atingir a capacidade máxima
+* 4 indicadores LED permanentes: Bateria carregada
 
-![LED STATUS](http:.jpg)
+Uma vez carregado, desligue o dispositivo e a Extra Battery irá se desligar automaticamente após uns segundos.
 
-#### **NOTA:**
+**Para verificar o nível de carga**
 
-#### Puedes usar ambas salidas a la vez para cargar dos dispositivos, lo que aumentará los tiempos de carga.
-#### La carga uno o varios dispositivos mientras cargas tu Energy Extra Battery puede reducir la vida útil de ésta.
+Prima o botão inferior (5) para verificar o nível de carga da sua Extra Battery. 
+
+**Desligar a sua Extra Battery**
+
+A sua Energy Extra Battery tem um sistema para desligar automaticamente a bateria, o qual se activa após de desligá-la do dispositivo que tem carregado.  No entanto, pode desligá-la em qualquer momento do processo de carregamento sem necessidade de desligá-la do dispositivo a carregar premindo o botão inferior (5) duas vezes.
+
+
+![LED STATUS](http://static.energysistem.com/images/manuals/42253/56057b333bf80.jpg)
+
+#### **IMPORTANTE:**
+
+#### Pode utilizar as duas portas para carregar dois dispositivos ao mesmo tempo, o qual irá  aumentar o tempo de carregamento.
+#### A vida útil da bateria pode reduzir-se ao carregar um dispositivo ao mesmo tempo que a Energy Extra Battery.
+
