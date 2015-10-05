@@ -10,7 +10,7 @@ No caso de dispositivos que têm sistemas de ligação especiais, como por exemp
 
 A carga vai depender da capacidade da bateria que tenha o dispositivo que vai carregar.
 Por exemplo, um smartphone tem normalmente uma capacidade que vai de 1400 até 2200 mAh, dependendo do modelo.
-A sua Energy Extra Battery completamente carregada tem uma capacidade de 10000 mAh, mas é inevitável perder energia durante o processo. A carga também vai depender do uso que faça do dispositivo e da sua configuração porque estes também podem consumir energia durante o processo de carregamento, especialmente se o dispositivo está ligado ou tem ligado o Wifi, 4G, etc...
+A sua Energy Extra Battery completamente carregada tem uma capacidade de 10000 mAh, mas é inevitável perder energia durante o processo de carregamento. A carga também vai depender do uso que faça do dispositivo e da sua configuração porque estes também podem consumir energia durante o processo, especialmente se o dispositivo está ligado ou tem ligado o Wifi, 4G, etc...
 
 **Quanto tempo vai demorar para carregar o meu dispositivo?**
 
