@@ -1,4 +1,5 @@
-## Contenido del producto
+## Contenu du produit
 
-* 1 x Energy Extra Battery 10000 con cable micro-USB extraible.
-* 1 x Guía rápida.
+*	Energy Extra Battery 10000 avec câble microUSB intégré.
+*	Guide rapide.
+
