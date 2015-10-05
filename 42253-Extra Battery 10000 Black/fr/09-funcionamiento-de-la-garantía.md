@@ -1,13 +1,13 @@
-## <quick_guide> Funcionamiento de la Garantí­a
+## Fonctionnement de la garantie
 
-Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, comme la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
 
-También puedes ponerte en contacto con nosotros para gestionar la garantía a través del número de teléfono 902 294 294 (teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica debes tener a mano el ticket o factura de compra y el número de serie del producto.
-Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
 
-Marcas comerciales. Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+Les spécifications sont sujettes à changement sans préavis.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+## Marques commerciales
 
-© 2015 por Energy Sistem Technology S.A. Todos los derechos reservados.
+Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
+© 2015 par Energy Sistem Technology, S.A. Tous droits réservés.
