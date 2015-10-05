@@ -2,11 +2,12 @@
 
 ![General View](http://static.energysistem.com/images/manuals/42253/55fa871d4beac.jpg)
 
-1. Cable extraible incluido con salida tipo micro-USB / Salida USB Tipo A de 5V / 2100 mA
-2. Tira de indicadores LED
-3. Entrada USB tipo micro-USB de 5V / 1000 mA
-4. Salida USB tipo A de 5V / 2100 mA
-5. Botón de comprobación de carga
+1.	Câble amovible avec sortie microUSB / sortie USB Type A de 5 V / 2100 mA compris.
+2.	Barre de LED pour indiquer la charge
+3.	Entrée microUSB de 5 V / 1000 mA
+4.	Sortie type A de 5V / 2100 mA
+5.	Bouton de vérification de charge / arrêt
+
 
 
 
