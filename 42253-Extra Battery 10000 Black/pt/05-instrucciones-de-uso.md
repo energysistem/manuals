@@ -28,7 +28,7 @@ O indicador LED mostra sempre o estado de carregamento da sua Extra Battery:
 * 2 indicadores LED intermitentes lentos: a carregar até atingir 1/2 da capacidade
 * 3 indicadores LED intermitentes lentos: a carregar até atingir 3/4 da capacidade
 * 4 indicadores LED intermitentes lentos: a carregar até atingir a capacidade máxima
-* 4 indicadores LED permanentes: Bateria carregada
+* 4 indicadores LED permanentes: bateria carregada
 
 Uma vez carregado, desligue o dispositivo e a Extra Battery irá se desligar automaticamente após uns segundos.
 
