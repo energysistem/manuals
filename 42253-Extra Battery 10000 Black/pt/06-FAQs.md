@@ -1,24 +1,24 @@
-## FAQs
+## Perguntas frequentes
 
-**¿Puedo usar cualquier cable USB?**
+**Posso utilizar qualquer cabo USB?**
 
-Tu Energy Extra Battery incluye un cable extraible con conexión para dispositivos micro-USB, o bien puedes usar las salidas USB Tipo A para conectar cualquier otro cable compatible del que ya dispongas.
+A sua Energy Extra Battery tem um cabo removível que permite ligar os dispositivos micro USB, mas também tem a possibilidade de utilizar as portas USB Tipo A para ligar qualquer outro cabo compatível que tenha na sua casa.
 
-En el caso de dispositivos con entradas especiales, como por ejemplo los dispositivos Apple#trade#, puedes usar el cable original que incluyen sus dispositivos, puesto que uno de sus extremos se conecta a cualquier puerto USB Tipo A de tu Energy Extra Battery.
+No caso de dispositivos que têm sistemas de ligação especiais, como por exemplo os dispositivos da Apple#trade#, pode utilizar o cabo original destes produtos porque é possível ligar uma das extremidades do cabo à qualquer porta USB Tipo A da sua Energy Extra Battery.
 
-**¿Cuánta carga proporcionará mi Energy Extra Battery 10000 a mi dispositivo (Tablet, Smartphone, MP3…)?**
+**Quanta carga pode fornecer a minha Energy Extra Battery 10000 ao meu dispositivo (tablet, smartphone, MP3…)?**
 
-Dependerá de la capacidad de la batería que tenga el dispositivo que vayas a cargar.
-Por ejemplo, un smartphone tiene habitualmente una capacidad de carga aproximada de 1400 a 2200 mAh según el modelo.
-Tu Energy Extra Battery cargada al 100% tiene una capacidad de 10000 mAh, pero durante el proceso de carga se pierde energía en la transferencia, y también dependerá del uso que estés dando al dispositivo y su configuración, ya que durante la carga, éste también puede estar consumiendo energía, especialmente si está encendido, conectado por Wifi, 4G...
+A carga vai depender da capacidade da bateria que tenha o dispositivo que vai carregar.
+Por exemplo, um smartphone tem normalmente uma capacidade que vai de 1400 até 2200 mAh, dependendo do modelo.
+A sua Energy Extra Battery completamente carregada tem uma capacidade de 10000 mAh, mas é inevitável perder energia durante o processo. A carga também vai depender do uso que faça do dispositivo e da sua configuração porque estes também podem consumir energia durante o processo de carregamento, especialmente se o dispositivo está ligado ou tem ligado o Wifi, 4G, etc...
 
-**¿Cuánto tiempo tardo en cargar mi dispositivo?**
+**Quanto tempo vai demorar para carregar o meu dispositivo?**
 
-Dependerá de la capacidad de la batería de tu dispositivo. Puedes elegir entre la salida de 1000 mA o 2100 mA, equivalente a la salida que ofrecen la gran mayoria de cargadores originales de smartphone y tablets del mercado respectivamente, por lo que el tiempo de carga será similar. Si usas las dos salidas a la vez, el tiempo de carga será mayor.
+O tempo de carregamento vai depender da capacidade da bateria que tenha o seu dispositivo. Pode escolher entre a porta de 1000 mA ou a porta de 2100 mA, as quais correspondem  à voltagem de saída que oferecem a maior parte dos carregadores originais de smartphone e tablets, respectivamente, no mercado. Portanto, o tempo de carregamento vai ser parecido. Se utiliza as duas portas ao mesmo tempo, o tempo de carregamento vai ser maior.
 
-**¿Cuánto tiempo tardo en cargar mi Energy Extra Battery?**
+**Quanto tempo vai demorar para carregar a minha Energy Extra Battery?**
 
-Dependerá de capacidad de carga de la fuente. Si usas un ordenador, será más lento que usar un cargador de un smartphone o un tablet, por su capacidad para cargar dispositivos. El proceso podría variar entre las 4 y las 10 horas.
+O tempo de carregamento vai depender da capacidade da fonte que fornece a corrente eléctrica. Se está a utilizar como fonte um computador, o carregamento vai demorar mais tempo que se utiliza um carregador de smartphone ou tablet, principalmente porque estes têm capacidade para carregar dispositivos. O processo pode demorar entre 4 e 10 horas.
 
 
 
