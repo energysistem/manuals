@@ -1,4 +1,4 @@
-1 ## Introdução
+## Introdução
 
 Energy Sistem#trade# agradece-lhe a aquisição da sua nova Energy Extra Battery 10000. Esperamos que desfrute do produto e que este se torne no seu melhor aliado para o dia-a-dia.
 
