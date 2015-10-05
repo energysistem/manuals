@@ -1,4 +1,4 @@
-2 ## Apresentação geral
+## Apresentação geral
 
 ![General View](http://static.energysistem.com/images/manuals/42253/55fa871d4beac.jpg)
 
