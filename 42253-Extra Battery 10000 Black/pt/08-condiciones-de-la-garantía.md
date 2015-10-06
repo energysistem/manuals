@@ -1,4 +1,4 @@
-##Condições da garantia
+## Condições da garantia
 
 Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo consumidor durante um período de 36 meses.
 
