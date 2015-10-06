@@ -1,8 +1,6 @@
-## <quick_guide>Conteúdo do produto
+##  Conteúdo do produto
 
-* Energy BT Sport earphones
-* Cabo USB
+* Energy Earphones Sport Bluetooth
+* Cabo USB de carregamento
 * Estojo de transporte
-* Manual do usuário
-* Almofadas de reposição.
-</quick_guide>
+* Almofadas substituíveis
