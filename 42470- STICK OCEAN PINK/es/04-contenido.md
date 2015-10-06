@@ -7,4 +7,3 @@
 
 * Auriculares deportivos adaptables y brazalete deportivo ajustable. (modelos MP3 Active).
 
-* Guía rápida.
