@@ -1,8 +1,9 @@
-## Introducción
+## Introduction
 
-Energy Sistem#trade# te agradece la compra de tu nueva batería portátil Energy Extra Battery 10000. Esperamos que la disfrutes y la conviertas en tu mejor aliado para el día a día.
+Energy Sistem#trade# thank you for purchasing the new Energy Extra Battery 5000. We hope that you enjoy it and that it turns into your best ally for your everyday life.
 
-Esta batería portátil recargable de 10000 mAh de capacidad es perfecta para recargar tu tablet, smartphone, reproductor multimedia u otros dispositivos en cualquier lugar gracias a su sistema de carga rápida, con cable extraible incluido, 2 puertos USB para carga simultánea, que te permite cargar tus dispositivos allá donde estés.
+This portable and rechargeable battery with 10000 mAh capacity is ideal to recharge your smartphone, tablet, multimedia player or other devices thanks to its quick charge system with integrated cable, 2 USB port for simultaneous charging, to charge any device wherever you go.
 
-Te aconsejamos que leas este manual para que puedas disfrutar de tu Energy Extra Battery aprovechando al máximo todas sus prestaciones.
+Before you start using it we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
+
 
