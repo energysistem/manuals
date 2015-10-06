@@ -1,6 +1,6 @@
 ## Declaración de conformidad.
 
-Nombre del suministrador: Energy Sistem Soyntec S. A.
+Nombre del suministrador: Energy Sistem Technology, S. A.
 
 Fecha: 15/05/2013
 
