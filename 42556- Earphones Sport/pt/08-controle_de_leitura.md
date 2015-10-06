@@ -1,7 +1,8 @@
-##Controle de leitura
+## Controlo da reprodução
 
-Após a sincronização dos Energy Wireless BT Sport pode controlar o volume de leitura desde os fones. Por isso, aperte só uma vez os botões (4) "+" ou (5) "-". Escutará um bipe quando seja atingido o volume máximo e mínimo.
+Prima os botões VOLUME + (3) ou  VOLUME - (2) para regular o volume a partir dos próprios auscultadores. Ouvirá um sinal sonoro ao atingir o volume máximo.
 
-Para parar ou reiniciar a leitura, aperte simultaneamente os botões (4) “+” e (5) “–“ uma única vez.
+Prima o botão AVANÇAR (3) durante 2 segundos para escutar a canção seguinte. Para escutar a canção anterior, só tem que premir o botão VOLTAR (2).
 
-Para avançar ou retroceder na canção aperte durante dois segundos os botões (4) "+" ou (5) "-" respectivamente.
+Prima o botão MULTIFUNÇÃO (1) para parar o continuar com a reprodução da música.
+
