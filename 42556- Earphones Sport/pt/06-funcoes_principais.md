@@ -15,5 +15,5 @@ O INDICADOR (4) continua a piscar enquanto o dispositivo está ligado.
 Quando a bateria está fraca, os auscultadores vão avisar-lhe por meio de uma mensagem falada que diz "Battery Low". Para carregá-lo, só tem que ligar a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA DE CARREGAMENTO* (5) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O INDICADOR (6) torna-se vermelho e quando a bateria está completamente carregada, torna-se azul.
 
 
-**IMPORTANTE:** Recomendamos não deixar a bateria dos *Energy Earphones Sport Bluetooth* completamente descarregada durante longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+**Importante:** Recomendamos não deixar a bateria dos *Energy Earphones Sport Bluetooth* completamente descarregada durante longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
 
