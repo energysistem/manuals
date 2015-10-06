@@ -1,6 +1,6 @@
 ## Declaration of conformity.
 
-Manufacturer name: Energy Sistem Soyntec S.A.
+Manufacturer name: Energy Sistem Technolgy, S.A.
 
 Address: Pol. Ind. Finestrat, C/.Calpe, 1 - 03509, Finestrat, Alicante (Spain)
 
