@@ -1,6 +1,6 @@
 ## Principales características
 
-* Pantalla OLED 128x32 píxels.
+* Pantalla 128x32 píxels.
 *  Radio FM integrada con presintonías y grabación.
 *  Grabadora de voz digital con micrófono integrado.
 *  Reproduce música MP3 / WMA.
