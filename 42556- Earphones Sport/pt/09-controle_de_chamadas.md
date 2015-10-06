@@ -1,15 +1,14 @@
-## Controle de chamadas
+## Controlo do telemóvel
 
-Se tem os seus Energy Wireless BT Sport sincronizados com um telefone, poderá gerir as chamadas desde os fones.
+Se tem os seus *Energy Earphones Sport Bluetooth* ligados ao smartphone através de Bluetooth®, pode gerir as suas chamadas a partir dos auscultadores.
 
-**Responder uma chamada**
+**Atender chamadas**  
+Para atender uma chamada, prima uma vez qualquer destes botões: MULTIFUNÇÃO (1), VOLUME - (2) ou VOLUME + (3).
 
-Para responder uma chamada aperte qualquer dos botões de volume (4) "+" ou (5) "-" uma única vez.
+**Terminar chamadas**  
+Para terminar a chamada, prima uma vez o botão MULTIFUNÇÃO (1).
 
-**Terminar uma chamada**
+**Função de marcação rápida**  
+Para ligar para o último número de telefone do histórico do telemóvel, prima duas vezes seguidas o botão MULTIFUNÇÃO (1).
 
-Manter pressionado qualquer dos botões de volume (4) "+" ou (5) "-" durante cerca de 2 segundos para terminar una chamada.
 
-**Função de rechamada**
-
-Desde os fones poderá retornar uma chamada, apertando dois vezes o botão (4) "-".
