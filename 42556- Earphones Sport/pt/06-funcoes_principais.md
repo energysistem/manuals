@@ -1,17 +1,19 @@
 ## Funções principais
-<quick_guide>
-### Ligado e desligado do dispositivo
 
-Utiliza o botão (1) para ligar ou desligar o dispositivo.
+### Ligar e desligar o dispositivo.
 
-Para ligar o dispositivo, aperte durante 2 segundos o botão (1) e verá que a LED (6) pisca em azul. Escutará "POWER ON" no dispositivo que indica que o dispositivo está ligado.
 
-Para desligar o dispositivo aperte de novo durante 3 segundos o botão (1), escutando por el dispositivo “POWER OFF” que indica que el dispositivo esta apagado. A LED (6) deixará de piscar.
+Prima o botão MULTIFUNÇÃO (1) durante 4 segundos para ligar o dispositivo e poderá ver que o INDICADOR (4) torna-se azul. Ouvirá a confirmação "Power On" ao ligar o dispositivo, a qual indica que está ligado. 
 
-Quando o dispositivo seja ligado a luz LED (6) o indicador piscará.
-</quick_guide>
-### Carregamento da bateria
+Prima o botão MULTIFUNÇÃO (1) novamente durante 5 segundos para desligar o dispositivo. Ouvirá a confirmação "Power Off", a qual indica que o dispositivo está desligado. O INDICADOR (4) deixa de piscar.
 
-Quando o fone não emite som ou começa a perceber que a curta distância o fone emite interferências, este é o momento de recarrega-lo, ligando o extremo mini USB do cabo USB (incluído) no Energy Wireless BT Sport (2), e o outro extremo USB à qualquer outro aparelho com porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A LED (6) se ilumina en cor vermelho e quando fica carregado completamente, será desligado.
+O INDICADOR (4) continua a piscar enquanto o dispositivo está ligado.
 
-**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada. 
+
+### Carregar a bateria
+
+Quando a bateria está fraca, os auscultadores vão avisar-lhe por meio de uma mensagem falada que diz "Battery Low". Para carregá-lo, só tem que ligar a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA DE CARREGAMENTO* (5) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O INDICADOR (6) torna-se vermelho e quando a bateria está completamente carregada, torna-se azul.
+
+
+**IMPORTANTE:** Recomendamos não deixar a bateria dos *Energy Earphones Sport Bluetooth* completamente descarregada durante longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+
