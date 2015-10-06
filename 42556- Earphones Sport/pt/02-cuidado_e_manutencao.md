@@ -1,9 +1,12 @@
 ## Cuidado e manutenção
 
-* Não exponha o seu Energy Wireless BT Sport a choques, a poeira, humidade, ou as altas temperaturas.
-* Não use produtos de limpeza corrosivos ou abrasivos. 
-* Não posicione seus Energy Wireless BT Sport perto de dispositivos que emitem campos electromagnéticos intensos.
-* Mantenha os fones limpos e sem pó, utilize um pano macio e seco.
-* Não desmonte o seu aparelho. Qualquer reparação deve fazê-la exclusivamente o pessoal qualificado de Energy Sistem Soyntec, S.A.
-* Assegure-se de manter seus Energy Wireless BT Sport desligados quando não esteja em uso.
-* Carregue a bateria quando a pilha seja descarregada para alongar a vida desta. 
+* Evite que os seus *Energy Earphones Sport Bluetooth* sofram impactos fortes ou que entrem em contacto com altas temperaturas, pó e humidade. 
+
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
+
+* Mantenha os auscultadores limpos e sem pó com ajuda de um pano suave e seco.
+
+* Não desmonte o dispositivo.  Qualquer reparação do mesmo deve ser efectuada apenas por pessoal qualificado de Energy Sistem Technology, S.A.
+
+* É recomendável manter os seus *Energy Earphones Sport Bluetooth* desligados se não va a utilizá-los durante muito tempo. Não deixe a bateria dos auscultadores completamente descarregada durante longos períodos de tempo.
+
