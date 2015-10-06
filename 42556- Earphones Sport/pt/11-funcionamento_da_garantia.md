@@ -8,7 +8,7 @@ Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produt
 
 As especificações estão sujeitas a alterações sem aviso prévio.  
 
-## Marcas registadas
+### Marcas registadas
 
 Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
