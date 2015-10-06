@@ -1,9 +1,9 @@
 ## Contenido del producto
 
 
-* Energy Sistem Energy MP3 Stick / Active Series.
+* Energy Sistem Energy MP3 Stick.
 
-* Auriculares intrauditivos Hi-Fi. (modelos MP3 Stick).
+* Auriculares intrauditivos Hi-Fi. 
 
-* Auriculares deportivos adaptables y brazalete deportivo ajustable. (modelos MP3 Active).
+
 
