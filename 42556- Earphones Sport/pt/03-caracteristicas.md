@@ -8,7 +8,7 @@
 * Sincronização sem códigos.
 * Tecnologia Multiponto que permite ligar dois dispositivos Bluetooth® em simultâneo. 
 * Leves e confortáveis.
-* Entrada de chamadas. Sistemna mãos livres.
+* Recepção de chamadas. Sistema mãos livres.
 * Raio de utilização: até 10 m.
 * Bateria de lítio recarregável.
 
