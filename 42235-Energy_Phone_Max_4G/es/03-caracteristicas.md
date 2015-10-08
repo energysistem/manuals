@@ -22,6 +22,6 @@
 * Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo Android#trade#.
 * Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
 * Capacidad de batería: 2.500mAh.
-* Autonomía: hasta XXX horas en standby y XX horas de conversación.
+* Autonomía: hasta 265 horas en standby y 15 horas de conversación.
 * Medición SAR: 0.372 (W/Kg) en cabeza y 0.652 (W/Kg) en cuerpo (a 10mm de distancia).
 

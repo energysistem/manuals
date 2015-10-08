@@ -4,5 +4,5 @@ Tu Energy Phone Max 4G dispone de una entrada para tarjetas de memoria microSD p
 
 Tu Energy Phone también dispone de un puerto micro USB para que puedas transferir archivos entre tu ordenador. Basta con conectar el cable incluido con el producto para establecer la conexión y gestionar la transferencia de tus archivos.
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42235/56168981c3b75.jpg)
 
