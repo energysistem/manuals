@@ -26,11 +26,11 @@
 - Built in microphone.
 - Microphone Sensitivity: -38dB ±3dB.
 - Dimensions: 167.5 x 59 x 144 mm
-- Weight:105g
+- Weight:110g
 
 ### Rechargeable lithium battery specifications
 
-- Battery type: Li-ion battery 195mAH
+- Battery type: Li-ion battery 300mAh
 - Battery life in playback mode: 8 hours
 - Battery life in talking mode: 8 hours
 - Charging time:2 hours
