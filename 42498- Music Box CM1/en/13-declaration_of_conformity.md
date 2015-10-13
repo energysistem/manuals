@@ -24,4 +24,4 @@ Finestrat, 1 october 2015
 |:-------|:-------|
 |![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed at the end of life separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
 
-</quick_guide>
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
