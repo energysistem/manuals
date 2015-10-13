@@ -3,7 +3,7 @@
 
 ### Turn ON/OFF
 
-To turn on your device, press and keep 2 seconds the ON/OFF button (4). The POWER ON INDICATOR (11) will turn on the heart icon.
+To turn on your device, press and keep 2 seconds the ON/OFF button (4). The POWER ON INDICATOR (11) will turn on.
 To turn on your device, press and keep the ON/OFF button (4) for 2 seconds.
 When the device is on, the POWER ON INDICATOR (11) will be illuminated.
 </unique> </quick_guide>
