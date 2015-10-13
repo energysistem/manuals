@@ -1,6 +1,6 @@
 ## Principales características
 
-* Smartphone libre con sistema ANDROID#trade# 5.1 optimizado.
+* Smartphone libre con sistema Android#R# 5.1 optimizado.
 * Pantalla táctil IPS de 5" (HD 1280x720 pixeles).
 * Procesador de cuatro núcleos ARM Cortex A53 1.0GHz y GPU Mali T720MP1.
 * Conexión súper rápida 4G/LTE categoría 4.
