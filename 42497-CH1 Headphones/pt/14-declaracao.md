@@ -7,7 +7,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 Declaramos sob nossa exclusiva responsabilidade que o produto 
 
-*Energy Sistem#trade# Stéreo Bluetooth® Earphone Energy Wireless BT3+*
+*Energy Sistem CH1 Headphones Bluetooth*
 
 **País de fabricação:** China
 
