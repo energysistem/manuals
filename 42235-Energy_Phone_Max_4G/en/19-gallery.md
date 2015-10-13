@@ -15,7 +15,7 @@ To return to the main desktop, press the Back or Home button.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42235/561688872ae79.jpg)
 
-1.	Back to video list.
+1.	Back to image list.
 2.	Share.
 3.	Sharing preferences.
 4.	Options.
