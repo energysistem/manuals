@@ -27,8 +27,8 @@
 - Diamètre du diaphragme: 40 mm.
 - Microphone inclut.
 - Sensibilité du microphone: -42 dB.
-- Dimensions: 170 x 165 x 53 mm.
-- Poids. 126 g.
+- Dimensions: 167.5 x 59 x 144 mm.
+- Poids. 110 g.
 
 <br/>
 Caractéristiques de la batterie<br/>
