@@ -19,4 +19,4 @@ Finestrat, 01 de outubro de 2015
 |:-------|:-------|
 |![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Este símbolo no produto ou nas instruções significa que deve reciclar os seus dispositivos elétricos e eletrónicos no final das suas vidas utéis e separadamente dos outros resíduos domésticos. Existem sistemas de recolha seletiva e reciclagem para esse fim. Para mais informações, contacte as autoridades locais ou o distribuidor que vendeu o produto. |
 
-</quick_guide>
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
