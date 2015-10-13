@@ -1,5 +1,5 @@
 <quick_guide>
 ## Content
-- Energy Headphones BT1 Bluetooth.
+- Energy Headphones CH1 Bluetooth.
 - USB cable.
 </quick_guide>
