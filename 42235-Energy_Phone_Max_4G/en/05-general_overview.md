@@ -2,7 +2,7 @@
 
 ## General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42595/55f2a5126bac1.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42235/56051f9b910c2.jpg)
 
 1.	Power button
 2.	Volume button
