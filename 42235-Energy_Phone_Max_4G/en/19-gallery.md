@@ -18,3 +18,6 @@ To return to the main desktop, press the Back or Home button.
 1.	Back to video list.
 2.	Share.
 3.	Sharing preferences.
+4.	Options.
+5.	Image.
+6.	Editing mode.
