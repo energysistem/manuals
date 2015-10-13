@@ -1,5 +1,5 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Headphones BT1 Bluetooth
+* Energy Headphones CH1 Bluetooth
 * Cable USB
 </quick_guide>
