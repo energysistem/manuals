@@ -5,7 +5,7 @@
 *	Super fast connectivity 4G/LTE category 4.
 *	Wi-Fi 802.11 b/g/n connectivity.
 *	GPS function.
-*	Bluetooth® v2.1.
+*	Bluetooth® 4.0
 *	Dual microSIM card slot.
 *	1 GB RAM DDR3.
 *	16 GB internal memory.
