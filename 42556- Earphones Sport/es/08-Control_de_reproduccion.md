@@ -1,8 +1,9 @@
 ## Control de reproducción
 
-Para controlar el volumen de reproducción desde los propios auriculares pulsa los botones VOLUMEN + (3) o VOLUMEN - (2). Oirás un "bip" cuando alcances el volumen máximo.
+Para controlar el volumen de reproducción pulsa los botones volumen + (3) o volumen - (1). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
 
-Pulsando el botón AVANCE (3) durante 2 segundos podrás pasar a la canción posterior. Para pasar a la anterior, pulsa el botón RETROCESO (2).
+A través del botón multifunción (2) pausa o reanuda la reproducción.
 
-Pausa o reanuda la reproducción con el botón MULTIFUNCIÓN (1).
+Para cambiar de canción presiona el botón avance (3) o retroceso (1) durante 2 segundos.
+
 
