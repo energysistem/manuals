@@ -15,7 +15,7 @@ NIF: A53107488
 
 Déclarons sous notre seule responsabilité que le produit:
 
-*Energy Headphones BT1 Bluetooth*
+*Energy Headphones CH1 Bluetooth*
 
 _**Pays de fabrication:**_ Chine  
 Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 2004/108/EC du Parlement Européen et du Conseil du 15 décembre 2004.
