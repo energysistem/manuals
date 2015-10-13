@@ -1,6 +1,6 @@
 ### Configuration de la carte SIM
 
-![Imagen]()
+![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
 
 Votre Energy Phone a la possibilité d'utiliser deux cartes microSIM. Sur la section Paramètres >> Administration de carte SIM, vous pourrez gérer les cartes.
 

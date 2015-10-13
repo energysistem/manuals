@@ -1,6 +1,6 @@
 ## Câmera
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
 
 1. Modo de visualização multi-ângulo.
 2. Modo panorâmico.
@@ -10,7 +10,7 @@
 6. Modo normal.
 7. HDR.
 8. Flash.
-9. Mudar câmera. 
+9. Mudar câmera.
 10. Acesso à galeria.
 11. Botão do obturador.
 12. Modo de vídeo.

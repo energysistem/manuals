@@ -2,7 +2,7 @@
 
 Tap the Settings icon in the main apps menu.
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42235/561684f83e81b.jpg)
 
 1. Wi-Fi.
 2. Enable the Wi-Fi option.

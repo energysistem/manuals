@@ -1,4 +1,4 @@
-<quick_guide> 
+<quick_guide>
 
 ## Apresentação geral
 
@@ -17,8 +17,8 @@
 11.	 Microfone
 12.	 Botões tácteis: aplicações recentes, início, voltar
 13.	 Slot do cartão microSIM 1
-14.	 Slot do cartão microSIM 2 
-15.	 Slot microSD 
+14.	 Slot do cartão microSIM 2
+15.	 Slot microSD
 16.	 Número de série e IMEI
 17.	 Bateria
 

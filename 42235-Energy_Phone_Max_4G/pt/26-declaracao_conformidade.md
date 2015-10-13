@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaração de conformidade
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42235/56051fa39d0fb.jpg)
 
 Nome do fabricante:
 Energy Sistem Technology, S.A.
@@ -10,7 +10,7 @@ Morada: C/ Calpe, 1
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto: *Energy Sistem#trade# Energy Phone Max 4G* 
+Declaramos sob a nossa exclusiva responsabilidade que o produto: *Energy Sistem#trade# Energy Phone Max 4G*
 
 País de fabricação: China
 

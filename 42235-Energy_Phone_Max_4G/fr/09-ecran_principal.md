@@ -1,6 +1,7 @@
 ## Écran principal
 
-![Imagen1]()
+![Imagen1](
+http://static.energysistem.com/images/manuals/42235/561cb1af889ce.jpg)
 
 1. **Navigateur:** Accès directe au moteur de recherche WEB de Google#trade#.
 2. **Barre d'état:** Montre l'information sur l'état du réseau, la batterie et l'heure. Si vous glissez le doigt, une

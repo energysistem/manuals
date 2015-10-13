@@ -8,4 +8,4 @@ Votre Energy Phone a aussi une sortie USB-OTG pour transférer les fichiers dans
 
 **Mode HOST:** Permet de connecter votre Energy téléphone au PC.
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42235/56168981c3b75.jpg)

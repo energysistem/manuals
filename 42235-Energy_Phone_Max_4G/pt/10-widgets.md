@@ -1,6 +1,6 @@
 ### Widgets
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1ba8b4d8.jpg)
 
 Para adicionar um Widget a qualquer dos desktops, aperte em "aplicações e widgets" (1) e, à continuação, seleccione "WIDGETS" na zona superior da tela (2). Com o gesto de passar página (3) poderá ver todos os Widgets instalados. Escolha um para adicionar ao desktop mantendo-o apertado e em seguida solte o ícone.
 
