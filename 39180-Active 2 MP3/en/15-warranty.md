@@ -1,6 +1,6 @@
 ## Warranty.
 
-Energy Sistem Soyntec SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months.
+Energy Sistem Technology, SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months.
 
 Batteries are excluded from the 36-month warranty, having a warranty period of 12 months.
 
@@ -22,4 +22,4 @@ Specifications are subject to change without notice.
 
 *Trademarks.* All companies, brands and product names are trademarks or registered trademarks of their respective companies.
 
-© 2014 by Energy Sistem Soyntec S.A. All rights reserved.
+© 2015 by Energy Sistem Technology, S.A. All rights reserved.
