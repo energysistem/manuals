@@ -2,7 +2,7 @@
 
 ### Encendido y apagado del dispositivo
 
-Para encender el dispositivo, mantén pulsado el botón ENCENDIDO/APAGADO (4) durante 2 segundos. Se encenderá el icono del corazón, INDICADOR DE ENCENDIDO (11).
+Para encender el dispositivo, mantén pulsado el botón ENCENDIDO/APAGADO (4) durante 2 segundos. Se encenderá el INDICADOR DE ENCENDIDO (11).
 
 Para apagar el dispositivo, mantén pulsado el botón ENCENDIDO/APAGADOO (4) durante 2 segundos.
 
