@@ -1,6 +1,6 @@
 ## <quick_guide> Déclaration de conformité
 
-_**Nom du Fournisseur:**_ Energy Sistem Soyntec S.A.  
+_**Nom du Fournisseur:**_ Energy Sistem Technology, S.A.  
 _**Adresse:**_  C/ Calpe, 1 - 03509 Finestrat Alicante (Epagne).  
 _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
 
