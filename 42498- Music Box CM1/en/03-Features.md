@@ -26,7 +26,7 @@
 * Earphones output
 
 ### Battery specifications
-* Nominal capacity: 1500mA.
+* Nominal capacity: 1800 mAh.
 * Nominal voltage: 3.7V.
 * Autonomy in radio mode: 12 hours.*
 * Battery life in radio mode: 10 hours.* 
