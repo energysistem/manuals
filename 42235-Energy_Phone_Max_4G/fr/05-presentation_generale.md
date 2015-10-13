@@ -1,7 +1,7 @@
 <quick_guide>
 ## Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42595/55f2a5126bac1.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42235/56051f9b910c2.jpg)
 
 1.	Bouton de démarrage/éteint
 2.	Bouton de volume
