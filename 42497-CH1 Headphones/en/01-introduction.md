@@ -1,7 +1,7 @@
 <quick_guide>
 ## Introduction
 
-*	Thank you for your trust in us and for buying the new *Energy Headphones BT1 Bluetooth*. We hope you enjoy it.
+*	Thank you for your trust in us and for buying the new *Energy Headphones CH1 Bluetooth*. We hope you enjoy it.
 
 * 3.0 Bluetooth headphones that combine an outstanding sound experience with the fresh and youthful colours of a modern design Answer phone calls and control your music playback directly from the headphones.
 
