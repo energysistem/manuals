@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1. Bouton multifonction   <br> 2. Volume - / Reculer  USB<br> 3.	Volume + / Avancer   <br> 4.	Indicateur <br> 5.	Microphone  <br> 6.	Connecteur de chargement|![Imagen1](http://static.energysistem.com/images/manuals/39581/53288ceb7a70f.jpg)|
+|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19bcba81f.jpg)	|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19aba1c67.jpg)|
 </quick_guide>
