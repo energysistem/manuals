@@ -1,4 +1,4 @@
-### Definições cartão SIM
+### Configurar cartão SIM
 
 ![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
 
