@@ -15,11 +15,11 @@
 ### Características técnicas
 
 *	Bluetooth® V4.1, Clase II.
+*	Distancia de uso de hasta 10 m de alcance.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
 *	Diámetro del driver: 10 mm.
 *	Respuesta en frecuencia: 20 - 20.000 Hz.
-*	Distancia de uso de hasta 10 m de alcance.
 *	Sensibilidad del micrófono: -42 dB. 
 
 ### Características de la batería de litio recargable
