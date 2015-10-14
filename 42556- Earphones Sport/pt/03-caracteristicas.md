@@ -20,12 +20,12 @@
 *	Diâmetro do driver: 10 mm.
 * Resposta em frequência: 20 - 20.000 Hz.
 *	Raio de utilização: até 10 m.
-*	Sensibilidade do microfone: -42dB ± 3dB.
+*	Sensibilidade do microfone: -42dB.
 
 ### Características da bateria de lítio recarregável
 
 *	Capacidade: 100 mAh.
 *	Sistema de carregamento através de USB.
 *	Tempo de carregamento: 1,5 horas.
-*	Autonomia da bateria: 7 horas.
+*	Autonomia da bateria: 8 horas.
 *	Autonomia em stand by: 300 horas.
