@@ -26,7 +26,7 @@
 ### Spécifications de la batterie de lithium rechargeable<br/>
 
 *	Capacité : 100 mAh.
-*	Système de chargement par USB
+*	Système de chargement par USB.
 *	Temps de chargement : 1,5 heures.
 *	Autonomie d'utilisation : 8 heures.
 *	Autonomie en veille : 300 heures.
