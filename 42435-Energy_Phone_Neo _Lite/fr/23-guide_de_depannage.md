@@ -1,6 +1,6 @@
 ## Guide de Dépannage
 
-1.	Pour quoi quelques fichiers MP3 ne peuvent pas être lis ? Le fichier MP3 doit respecter les normes layer 3 de MPEG1, MPEG2 ou MPEG 2.5.  Au contraire, il doit être recodé parmi un software.
+1.	Pour quoi quelques fichiers MP3 ne peuvent pas être lus ? Le fichier MP3 doit respecter les normes layer 3 de MPEG1, MPEG2 ou MPEG 2.5.  Au contraire, il doit être recodé parmi un software.
 
 2.	Ma Energy Phone ne s'allume pas, qu'est-ce que je peux faire ? Assurez-vous que la batterie soit suffisamment chargée, après essayer de brancher l'appareil. Si même en le chargeant pendant au moins 30 minutes, le système continue sans pouvoir être allumé, c'est possible qu'il y ait un problème avec le système d'exploitation installé. S'il vous plaît, lisez la section de ce manuel "Mise à jour".
 
