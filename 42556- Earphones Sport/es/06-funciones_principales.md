@@ -12,7 +12,7 @@ Mientras el dispositivo esté encendido, el INDICADOR (4) se mantendrá parpadea
 
 ### Carga de la batería
 
-Cuando la carga de la batería sea baja, el auricular te avisará mediante un mensaje de voz diciendo "Battery Low". Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la CONEXIÓN DE CARGA* (6), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El INDICADOR (4) se iluminará en rojo y cuando la carga se complete el INDICADOR cambiará a color azul.
+Cuando la carga de la batería sea baja, el auricular te avisará mediante un mensaje de voz diciendo "Battery Low". Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la CONEXIÓN DE CARGA* (6), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El INDICADOR (4) se iluminará en rojo y cuando la carga se complete el INDICADOR (4) cambiará a color azul.
 
 
 **Nota:** Te recomendamos que no dejes en desuso tus *Energy Earphones Sport Bluetooth* durante un periodo largo de tiempo con la batería completamente descargada. Es aconsejable que cargues la batería de tus auriculares al menos una vez al mes.
