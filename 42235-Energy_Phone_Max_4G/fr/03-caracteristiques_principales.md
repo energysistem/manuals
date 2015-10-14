@@ -12,7 +12,7 @@
 *	16 Go de mémoire interne.
 *	Mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
 *	Appareil photo frontal intégré de 5 Mpx FOV 84,3º.
-*	Appareil photo arrière intégrée de 8 Mpx avec autofocus et flash LED.
+*	Appareil photo arrière intégré de 8 Mpx avec autofocus et flash LED.
 *	Haut-parleur intégré.
 *	Microphone omnidirectionnel intégré.
 *	Capteur de mouvement (accéléromètre).
