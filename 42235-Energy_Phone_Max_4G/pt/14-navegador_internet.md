@@ -1,12 +1,12 @@
-### Navegador de Internet
+### Navegador 
 
-O seu novo Energy Phone dispõe de um potente navegador de Internet entre a lista de aplicações instaladas por padrão, com o qual poderá utilizar a Internet de uma forma rápida e fácil. Uma vez ligado o dispositivo a uma rede Wi-Fi, aperte sobre o ícone Navegador situado no desktop ou no menu de aplicações para iniciar o programa. O sistema carregará a página de entrada estabelecida por padrão e a mostrará na tela.
+O seu novo Energy Phone Max 4G dispõe de um potente navegador web que apareçe na lista de aplicações instaladas por pré-definição. Este navegador permite-lhe utilizar a Internet de maneira rápida e fácil. Uma vez ligado o dispositivo a uma rede Wi-Fi, 3G ou 4G, prima o ícone do navegador no desktop ou no menu de aplicações para iniciar o programa. O sistema carrega a página de início estabelecida por pré-definição e a mostra no ecrã.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1aae30be.jpg)
 
-1. Recarregar.
-2. Endereço WEB.
+1. Carregar.
+2. Endereço web.
 3. Marcadores.
-4. Administrar separadores do navegador.
+4. Gerir separadores.
 5. Avançar.
 6. Voltar.
