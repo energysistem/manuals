@@ -1,4 +1,4 @@
-### Definições Wi-Fi
+### Configurar Wi-Fi
 
 O seu Energy Phone Max 4G dispõe de ligação Wi-Fi 802.11 b/g/n. Para ligar o dispositivo a qualquer rede sem fios, só tem que entrar em Definições > Wi-Fi e deslizar o interruptor para a posição ON. A seguir, começa a pesquisa de todos os dispositivos disponíveis e depois, só tem que seleccionar um deles para estabelecer a ligação.
 
