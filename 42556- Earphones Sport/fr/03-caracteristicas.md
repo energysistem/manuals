@@ -21,13 +21,13 @@
 *	Diamètre du driver : 10 mm.
 *	Réponse en fréquence : 20 - 20.000Hz.
 *	Distance de l'utilisation de jusqu'à 10 m de portée.
-*	Sensibilité du microphone -42 dB ± 3 dB.
+*	Sensibilité du microphone -42 dB.
 
 ### Spécifications de la batterie de lithium rechargeable<br/>
 
 *	Capacité : 100 mAh.
 *	Système de chargement par USB
 *	Temps de chargement : 1,5 heures.
-*	Autonomie d'utilisation : 7 heures.
+*	Autonomie d'utilisation : 8 heures.
 *	Autonomie en veille : 300 heures.
 
