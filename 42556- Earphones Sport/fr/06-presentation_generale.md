@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19bcba81f.jpg)	|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19aba1c67.jpg)|
+|1.	VOLUME - / RECULER. <br> 2.	BOUTON DE MULTIFONCTION. <br> 3. VOLUME + / AVANCER. <br> 4.	INDICATEUR. <br> 5. MICROPHONE.	<br> 6.	CONNEXION POUR CHARGER LA BATTERIE.|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19aba1c67.jpg)|
 </quick_guide>
