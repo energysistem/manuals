@@ -1,7 +1,7 @@
-### Configuração cartão SIM
+### Configuração do cartão SIM
 
 ![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
 
-O seu Energy Phone tem a possibilidade de utilizar um chip microSIM. Para administrar o uso do chip, entre em Definições>> Gestão de SIM.
+O seu Energy Phone Max 4G oferece-lhe a possibilidade de utilizar dois cartões micro-SIM. Poderá gerir os cartões na secção Configurações> Cartões SIM.
 
-Nesta secção, você pode definir o cartão padrão para fazer ou receber chamadas, enviar e receber mensagens de texto e a conexão de dados. Ele também permite estabelecer o roaming com seu operador de rede móvel.
+Nesta secção pode seleccionar o cartão padrão para fazer ou receber chamadas, enviar e receber mensagens de texto e a ligação de dados.
