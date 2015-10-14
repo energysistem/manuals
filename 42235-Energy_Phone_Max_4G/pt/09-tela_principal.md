@@ -13,4 +13,4 @@
 9. **Contactos:** gestão de contactos.
 10. **Telefone:** Chamadas e registo.
 11. **Galeria:** visualização de imagens.
-12. **Câmara:**  permite-lhe aceder à câmara de fotos integrada.
+12. **Câmara:**  permite-lhe aceder à câmara fotográfica integrada.
