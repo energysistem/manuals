@@ -11,4 +11,4 @@
 7. Canção anterior.
 8. Repetir.
 9. Tempo decorrido.
-10.Barra de progresso.
+10. Barra de progresso.
