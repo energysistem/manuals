@@ -1,11 +1,8 @@
 ## MicroSD / USB
 
-Seu Energy Phone tem uma entrada para cartões de memória microSD para expandir a capacidade do dispositivo. Para usá-lo, desligue quando inserir/extrair o cartão, para evitar a perda acidental de dados. Suporta os formatos de alta capacidade (microSD-HC) e capacidade de memória estendida (microSD-XC).
+O seu Energy Phone Max 4G tem uma entrada para cartões de memória microSD para expandir a capacidade do dispositivo. Para usá-la, desligue o dispositivo ao inserir/extrair o cartão para evitar, desta maneira, a perda acidental de dados. Suporta os formatos de alta capacidade (microSD-HC) e capacidade de memória expansível (microSD-XC).
 
-O seu Energy Phone dispõe de uma saída USB para transferir os ficheiros entre o seu computador, tablet, memoria USB e outros. Basta ligar o cabo incluído com o produto para estabelecer a conexão e administrar a transferência de suas músicas, vídeos e fotos.
+O seu Energy Phone dispõe de uma saída USB para transferir os ficheiros entre o seu computador. Basta ligar o cabo fornecido com o produto para estabelecer a ligação e gerir a transferência dos seus ficheiros.
 
-**Modo OTG:** Ligue dispositivos externos, tais como teclados, mouses, pen drives, etc
-
-**Modo HOST:** Permite que você conecte o Energy Phone ao PC.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42235/56168981c3b75.jpg)
