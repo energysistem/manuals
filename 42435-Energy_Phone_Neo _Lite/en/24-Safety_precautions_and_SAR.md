@@ -1,4 +1,4 @@
-<quick_guide> 
+<quick_guide>
 ## Safety precautions and SAR
 
 ### Safety precautions
@@ -7,5 +7,5 @@ To reduce the amount of radiation, use a hands-free kit, the speaker mode, a blu
 
 ### Exposure information (SAR)
 
-This device meets the guidelines developed by the ICNIRP for exposure to radio waves. The unit does not exceed the SAR radio wave exposure limits. This unit measures the amount of radio energy absorbed by the body when using a device. The SAR limit adopted by Europe is 2.0 W/kg averaged over 10 grams of tissue. The test performed showed that the highest SAR value for this device when using it near the ear/head is 0,81 W/Kg.
-</quick_guide> 
+This device meets the guidelines developed by the ICNIRP for exposure to radio waves. The unit does not exceed the SAR radio wave exposure limits. This unit measures the amount of radio energy absorbed by the body when using a device. The SAR limit adopted by Europe is 2.0 W/kg averaged over 10 grams of tissue. The test performed showed that the highest SAR value for this device when using it near the ear/head is 0,339 W/Kg.
+</quick_guide>
