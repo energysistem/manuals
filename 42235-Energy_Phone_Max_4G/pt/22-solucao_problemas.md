@@ -1,32 +1,34 @@
 ## Solução de Problemas
 
-1.	Por que não podem ser lidos alguns arquivos MP3?
-O arquivo MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. No caso contrario tem que recodificar mediante software.
+1.	Por que não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrario, tem que recodificar através do software.
 
-2.	Meu Energy Phone não liga, que posso fazer?
-Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se mesmo carregando a bateria ao menos 30 minutos, o sistema continua sem ligar, é possível que exista um problema com o sistema operacional instalado. Por favor, leia a secção "ATUALIZAÇÃO" deste manual.
+2.	Não posso ligar o meu Energy Phone, o qué é que eu posso fazer?
+Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se após de ter carregado a bateria pelo menos 30 minutos, o dispositivo ainda não liga, é possível que exista um problema com o sistema operativo instalado. Por favor, consulte a secção "ACTUALIZAÇÃO" deste manual.
 
-3.	Por que não se reproduzem alguns arquivos WMA?
-Assegure-se que não estás codificando os WMA com DRM.
+3.	Por que não é possível reproduzir alguns ficheiros WMA?
+Assegure-se que não está a codificar os WMA com DRM.
 
-4.	Por que não posso ver os meus arquivos de vídeo, imagem ou texto quando utilizo o leitor de musica?
-Geralmente, as aplicações só mostram os arquivos compatíveis que possam ser lidos pelo programa. Por tanto, enquanto navegue pelas pastas desde uma aplicação em concreto, só poderá visualizar os tipos de arquivos associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...). Para poder ver todos os arquivos salvos na memória, inicie a aplicação FileXplorer desde o menu de aplicações.
+4.	Por que não posso ver os meus ficheiros de vídeo, imagem ou texto quando utilizo o leitor de música?
+Nomalmente, as aplicações só mostram os ficheiros compatíveis que podem ser lidos pelo programa. Portanto, só poderá visualizar os tipos de ficheiros associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...) enquanto navegue pelas pastas a partir de uma aplicação em concreto. Para poder ver todos os ficheiros guardados na memória em simultâneo, inicie a aplicação Ficheiros desde o menu de aplicações.
 
-5.	Quais são os formatos de vídeo compatíveis com meu Energy Phone?
-O seu Energy Phone pode ler múltiplos formatos de vídeo sem recodificar.
+5.	Quais são os formatos de vídeo compatíveis com o meu Energy Phone?
+O seu Energy Phone pode ler múltiplos formatos de vídeo sem recodificar como por exemplo, MP4, 3GP e MOV.
 
-6.	Por que não consigo visualizar os meus arquivos de imagens.jpg?
-Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos arquivos.jpg. Estes dados podem fazer com que o seu Energy Phone não carregue as imagens. Tente eliminar o arquivo, renomeá-lo e voltar a salvá-lo na memória do dispositivo.
+6.	Por que não consigo visualizar os meus ficheiros de imagens.jpg?
+Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos ficheiros.jpg. Estes dados podem fazer com que o seu Energy Phone não carregue as imagens. Tente eliminá-los e guardá-los de novo na memória com outro nome.
 
-7.	Algumas vezes a tela não responde e/ou fica toda negra. O que posso fazer para solucionar?
-É sempre melhor reiniciar o dispositivo usando as opções disponíveis no sistema mas, quando não for possível, reinicie-o apertando simulaneamente o botão de ligar/desligar junto com o botão de vol +.
+7.	Às vezes o ecrã fica preto e o dispositivo não responde. É sempre melhor reiniciar o dispositivo através das opções disponíveis no sistema mas se não for possível, extraia a bateria e insirá-la de novo para reiniciá-lo.
 
 8.	A capacidade de memória do Energy Phone é 16GB, mas a memória disponível é inferior. Por quê?
 O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 2,6 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 16GB.
 
-9.	Que devo fazer para que me deixe instalar uma aplicação?
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
-Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
+9.	Que devo fazer para que o dispositivo permita instalar uma aplicação?
+Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que active a instalação de aplicações a partir de "Fontes não conhecidas". Esta opção está desactivada por razões de segurança.
+Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão no ecrã a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes não conhecidas (activar).
 
 10.	Qual é a autonomia do dispositivo?
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada. Aproximadamente a autonomia do Energy Phone Pro é de até 360 horas de navegação em standby e até 18 horas de conversação.
+Depende em grande medida das condições de utilização como o nível de brilho do ecrã, a utilização de auscultadores ou altifalante ou se a Wi-Fi está ligada ou desligada. A autonomia do Energy Phone Pro é aproximadamnte de até 265 horas de navegação em standby e até 18 horas de conversa.
+
+11. Quais são as frequências de funcionamento do meu dispositivo para 3G e 4G? O seu Energy Phone Max 4G tem sido desenhado para funcionar correctamente com WCDMA 900/2100 no modo 3G e FDD-LTE 800/1800/2600 Mhz no modo 4G.
+
+
