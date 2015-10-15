@@ -1,6 +1,6 @@
 ## Resolução de problemas
 
-1.	Por que não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrario, tem que recodificar através do software.
+1.	Porquê não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrario, tem que recodificar através do software.
 
 2.	Não posso ligar o meu Energy Phone, o qué é que eu posso fazer?
 Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se após de ter carregado a bateria pelo menos 30 minutos, o dispositivo ainda não liga, é possível que exista um problema com o sistema operativo instalado. Por favor, consulte a secção "ACTUALIZAÇÃO" deste manual.
