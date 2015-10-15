@@ -1,4 +1,4 @@
-## Solução de Problemas
+## Resolução de problemas
 
 1.	Por que não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrario, tem que recodificar através do software.
 
