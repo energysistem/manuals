@@ -7,7 +7,7 @@
 3. Partilhar.
 4. Preferéncias.
 5. Opções.
-6. Reprodução de música
+6. Reprodução de música.
 7. Duração.
 8. Aumentar o ecrã.
 9. Barra de progresso.
