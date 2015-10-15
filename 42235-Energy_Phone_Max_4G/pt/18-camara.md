@@ -5,13 +5,14 @@
 1. Modo de visualização multi-ângulo.
 2. Modo panorâmico.
 3. Modo beleza.
-4. Modo rastreamento de movimento.
-5. Modo fotografia en directo.
+4. Modo captura de movimento.
+5. Modo fotografia a partir de vídeo.
 6. Modo normal.
+7. Modo automático através de gesto
 7. HDR.
 8. Flash.
-9. Mudar câmera.
+9. Mudar câmara.
 10. Acesso à galeria.
-11. Botão do obturador.
-12. Modo de vídeo.
-13. Configuraçöes.
+11. Botão de disparo.
+12. Modo vídeo.
+13. Definições.
