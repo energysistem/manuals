@@ -1,6 +1,6 @@
 ## Resolução de problemas
 
-1.	Porquê não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrario, tem que recodificar através do software.
+1.	Porquê não é possível reproduzir alguns ficheiros MP3? O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrário, tem que recodificar através do software.
 
 2.	Não posso ligar o meu Energy Phone, o qué é que eu posso fazer?
 Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se após de ter carregado a bateria pelo menos 30 minutos, o dispositivo ainda não liga, é possível que exista um problema com o sistema operativo instalado. Por favor, consulte a secção "ACTUALIZAÇÃO" deste manual.
@@ -19,8 +19,8 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 
 7.	Às vezes o ecrã fica preto e o dispositivo não responde. É sempre melhor reiniciar o dispositivo através das opções disponíveis no sistema mas se não for possível, extraia a bateria e insirá-la de novo para reiniciá-lo.
 
-8.	A capacidade de memória do Energy Phone é 16GB, mas a memória disponível é inferior. Por quê?
-O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 2,6 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 16GB.
+8.	A capacidade de memória do Energy Phone é 16GB, mas a memória disponível é inferior. Porquê?
+O sistema operativo Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 2,6 GB de memória interna para funcionar. Por isso, a memória disponível para guardar os dados adicionais é inferior a 16GB.
 
 9.	Que devo fazer para que o dispositivo permita instalar uma aplicação?
 Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que active a instalação de aplicações a partir de "Fontes não conhecidas". Esta opção está desactivada por razões de segurança.
