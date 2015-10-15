@@ -16,4 +16,4 @@
 12. Botão de disparo.
 13. Modo vídeo.
 14. Definições.
-15. Previsualização
+15. Previsualização.
