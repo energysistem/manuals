@@ -5,16 +5,16 @@
 2.	Não posso ligar o meu Energy Phone, o qué é que eu posso fazer?
 Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se após de ter carregado a bateria pelo menos 30 minutos, o dispositivo ainda não liga, é possível que exista um problema com o sistema operativo instalado. Por favor, consulte a secção "ACTUALIZAÇÃO" deste manual.
 
-3.	Por que não é possível reproduzir alguns ficheiros WMA?
+3.	Porquê não é possível reproduzir alguns ficheiros WMA?
 Assegure-se que não está a codificar os WMA com DRM.
 
-4.	Por que não posso ver os meus ficheiros de vídeo, imagem ou texto quando utilizo o leitor de música?
+4.	Porquê não posso ver os meus ficheiros de vídeo, imagem ou texto quando utilizo o leitor de música?
 Nomalmente, as aplicações só mostram os ficheiros compatíveis que podem ser lidos pelo programa. Portanto, só poderá visualizar os tipos de ficheiros associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...) enquanto navegue pelas pastas a partir de uma aplicação em concreto. Para poder ver todos os ficheiros guardados na memória em simultâneo, inicie a aplicação Ficheiros desde o menu de aplicações.
 
 5.	Quais são os formatos de vídeo compatíveis com o meu Energy Phone?
 O seu Energy Phone pode ler múltiplos formatos de vídeo sem recodificar como por exemplo, MP4, 3GP e MOV.
 
-6.	Por que não consigo visualizar os meus ficheiros de imagens.jpg?
+6.	Porquê não consigo visualizar os meus ficheiros de imagens.jpg?
 Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos ficheiros.jpg. Estes dados podem fazer com que o seu Energy Phone não carregue as imagens. Tente eliminá-los e guardá-los de novo na memória com outro nome.
 
 7.	Às vezes o ecrã fica preto e o dispositivo não responde. É sempre melhor reiniciar o dispositivo através das opções disponíveis no sistema mas se não for possível, extraia a bateria e insirá-la de novo para reiniciá-lo.
