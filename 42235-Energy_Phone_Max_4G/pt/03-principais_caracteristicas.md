@@ -23,5 +23,5 @@
 *	Frequências de funcionamento: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + LTE FDD 800/1800/2600 MHz.
 *	Capacidade da bateria: 2500 mAh.
 *	Autonomia em standby até 265 horas e até 15 horas em conversação.
-*	Valores de exposição SAR: 0.372 (W/Kg) ao nível de cabeça e 0.652 (W/Kg) ao nível de corpo (a uma distância de 10 mm).
+*	Valores de exposição SAR: 0,372 (W/Kg) ao nível de cabeça e 0,652 (W/Kg) ao nível de corpo (a uma distância de 10 mm).
 
