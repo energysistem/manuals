@@ -15,4 +15,4 @@ nouvelle version apparaîtra dans le menu de configuration basique qui gère les
 9. **Contacts :** Administration de contacts.
 10. **Phone :** Appels et registre
 11. **Gallery :** Visualisation d'images.
-12. **Energy Cam :** Accès a la camera de photos intégrée.Appel.
+12. **Appareil photo :** Accès a la camera de photos intégrée.Appel.
