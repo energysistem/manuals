@@ -31,4 +31,4 @@ En primer lugar asegúrate que el fichero tiene la extensión de instalación An
 Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM, 3G y 4G. Aproximadamente la autonomía del Energy Phone Max 4G es de hasta 265 horas en standby y 15 horas de conversación.
 
 11. ¿Cuales son las frecuencias operativas de mi dispositivo para 3G y 4G?
-Tu Energy Phone Max 4G está preparado para trabajar correctamente en modo 3G en las bandas WCDMA 850/1900 MHz y en modo 4G en las bandas FDD-LTE 1700/1900/2600 MHz.
+Tu Energy Phone Max 4G está preparado para trabajar correctamente en modo 3G en las bandas WCDMA 900/2100 MHz y en modo 4G en las bandas FDD-LTE 800/1800/2600 MHz.

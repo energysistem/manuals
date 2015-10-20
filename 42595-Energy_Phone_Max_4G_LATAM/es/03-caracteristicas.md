@@ -20,7 +20,7 @@
 * Sensor de proximidad.
 * Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / videos / fotos, radio FM, alarma y calculadora.
 * Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo Android#trade#.
-* Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 850/1900 MHz + FDD-LTE 1700/1900/2600 MHz.
+* Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
 * Capacidad de batería: 2.500mAh.
 * Autonomía: hasta 265 horas en standby y 15 horas de conversación.
 * Medición SAR: 0.372 (W/Kg) en cabeza y 0.652 (W/Kg) en cuerpo (a 10mm de distancia).
