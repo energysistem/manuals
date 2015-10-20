@@ -20,7 +20,7 @@
 *	Capteur de proximité.
 *	Applications installées: navigateur d'Internet, gestionnaire de courrier électronique, applications pour jouer de la musique / des vidéos / des photos, radio FM, alarme et calculatrice.
 *	Permet l'installation des milliers d'applications et des jeux disponibles pour le système d'exploitation Android™ .
-*	Fréquence d'opération: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
+*	Fréquence d'opération: GSM 850/900/1800/1900 MHz + WCDMA 850/1900 MHz + FDD-LTE 1700/1900/2600 MHz.
 *	Capacité de la batterie: 2.500mAh.
 *	Autonomie: jusqu'à 265 heures en mode veille et 15 heures de conversation.
 *	Mesure SAR: 0,372 (W/Kg) en tête et 0,652 (W/Kg) en corps (à 10 mm de portée).

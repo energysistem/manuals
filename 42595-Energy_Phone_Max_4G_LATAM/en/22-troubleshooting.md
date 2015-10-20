@@ -31,4 +31,4 @@ First, make sure that the file has the Android™ application extension (.APK).A
 It depends largely on the usage conditions, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The Energy Phone Pro HD battery lasts up to 260 hours on standby and 15 hours talking. Battery life: up to 265 hours on standby and 15 hours talk time.
 
 11.	Which are the 4G and 3G operating frequencies of my device?
-Your Energy Phone Max 4G is ready to work correctly in 3G mode with WCDMA 900/2100 MHz bands and in 4G mode with FDD-LTE 800/1800/2600 MHz.
+Your Energy Phone Max 4G is ready to work correctly in 3G mode with WCDMA 850/1900 MHz bands and in 4G mode with FDD-LTE 1700/1900/2600 MHz.

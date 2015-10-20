@@ -19,7 +19,7 @@
 *	Proximity sensor.
 *	Installed applications: web browser, email manager, applications to play music / videos / photos, FM radio, alarm and calculator.
 *	Allows you to install thousands of applications and games available for the Android™ operating system.
-*	Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
+*	Frequency bands: GSM 850/900/1800/1900 MHz + WCDMA 850/1900 MHz + FDD-LTE 1700/1900/2600 MHz.
 *	Battery capacity: 2.500mAh.
 *	Battery life: up to 265 hours on standby and 15 hours talk time.
 *	SAR rating: 0,372 (W/Kg) at the head and 0,652 (W/Kg) at the body (10 mm distance).

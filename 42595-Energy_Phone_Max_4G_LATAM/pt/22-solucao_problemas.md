@@ -29,6 +29,6 @@ Para autorizar a instalação de aplicações só tem que seguir as instruções
 10.	Qual é a autonomia do dispositivo?
 Depende em grande medida das condições de utilização como o nível de brilho do ecrã, a utilização de auscultadores ou altifalante ou se a Wi-Fi está ligada ou desligada. A autonomia do Energy Phone Pro é aproximadamnte de até 265 horas de navegação em standby e até 18 horas de conversa.
 
-11. Quais são as frequências de funcionamento do meu dispositivo para 3G e 4G? O seu Energy Phone Max 4G tem sido desenhado para funcionar correctamente com WCDMA 900/2100 no modo 3G e FDD-LTE 800/1800/2600 Mhz no modo 4G.
+11. Quais são as frequências de funcionamento do meu dispositivo para 3G e 4G? O seu Energy Phone Max 4G tem sido desenhado para funcionar correctamente com WCDMA 850/1900 no modo 3G e FDD-LTE 1700/1900/2600 Mhz no modo 4G.
 
 
