@@ -1,0 +1,20 @@
+# Summary
+
+* [Portada](00-portada.md)
+* [Introduccion](01-introduction.md)
+* [Mantenimiento](02-maintenance.md)
+* [Caracteristicas](03-caracteristiques_principales.md)
+* [Contenido](04-contenu.md)
+* [Presentacion general](05-presentation_generale.md)
+* [Alimentacion](06-alimentation.md)
+* [Encendido](07-allumer.md)
+* [Tipos de pulsaciones](08-type_de_pulsations.md)
+* [Pantalla principal](09-ecran_principal.md)
+* [Configuracion inalambrica](10-configuration_sans_fil.md)
+* [Principales aplicaciones](11-principales_applications.md)
+* [Actualizacion](12-mise_a_jour.md)
+* [Resolucion de problemas](13-guide_de_depannage.md)
+* [Condiciones de la garantia](14-garantie.md)
+* [Funcionamiento de la garantia](15-fonctionnement_de_la_garantie.md)
+* [Declaracion de conformidad](16-declaration_de_conformite.md)
+
