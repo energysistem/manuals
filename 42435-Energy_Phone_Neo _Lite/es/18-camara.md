@@ -11,7 +11,7 @@
 7. Patrón de líneas.
 8. Temporizador.
 
-Para acceder al modo vídeo y ajustes de la cámara desliza el dedo en la pantalla principal de la cámara y a continuación selecciona modo cámara, vídeo o ajustes.
+Para acceder al modo vídeo y ajustes de la cámara desliza el dedo en la pantalla principal de la cámara y selecciona el modo cámara, vídeo o ajustes.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42435/5638830f87468.jpg)
 
