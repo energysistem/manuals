@@ -1,7 +1,9 @@
-## <Quick_guide> Contenu du produit 
-* Energy Tablet Pro 8 Windows. 
-* Guide rapide. 
-* Câble USB 2.0 High-Speed pour le connecter au PC. 
-* Câble USB-HOST pour connecter les périphériques USB externes.
-* Adaptateur AC / DC (Europlug) 100-240VAC 50-60Hz.
-</quick_guide> 
+<quick_guide>
+## Contenu du produit
+* Energy Tablet 8” Windows.
+* Guide Rapide.
+* Câble USB-microUSB
+* Câble USB Host.
+* Adaptateur d'alimentation courant AC/DC (Europlug) 100-240V AC 50-60 Hz.
+</quick_guide>
+
