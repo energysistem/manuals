@@ -1,5 +1,6 @@
-﻿## <quick_guide> Presentación general
+## <quick_guide> Presentación general
 ![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54e4747e32635.jpg)
+
 1. Cámara trasera
 
 2. Cámara delantera
