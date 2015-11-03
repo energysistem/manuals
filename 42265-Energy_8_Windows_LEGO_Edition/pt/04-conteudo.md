@@ -1,7 +1,9 @@
 ## <quick_guide> Conteúdo do produto
 
-* Energy Tablet Pro 10 Windows. 
-* Guia rápida. 
+* Energy Tablet 8” Windows LEGO® Edition.
+* Guia rápida.
 * Cabo USB-MicroUSB
-* Adaptador de corrente AC/DC (Europlug) 100-240 VAC 50-60 Hz. 
+* Adaptador USB Host
+* Adaptador de corrente AC/DC (Europlug) 100-240VAC 50-60Hz.
 </quick_guide>
+
