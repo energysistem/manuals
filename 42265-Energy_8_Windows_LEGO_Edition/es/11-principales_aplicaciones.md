@@ -1,4 +1,4 @@
-﻿## Principales aplicaciones
+## Principales aplicaciones
 
 ### Internet Edge
 
