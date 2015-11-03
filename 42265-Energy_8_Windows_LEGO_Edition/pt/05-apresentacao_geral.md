@@ -19,9 +19,9 @@
 
 9. Saída para auscultadores
 
-10. Conector micro USB
+10. Conector microUSB
 
-11. Porta micro HDMI
+11. Porta microHDMI
 
 12. Botão Windows
 </quick_guide>
