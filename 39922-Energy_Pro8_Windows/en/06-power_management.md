@@ -1,9 +1,9 @@
-## <quick_guide> Battery Management/First use
+<quick_guide>
+##  Power/First use
 
-Your Energy Tablet has a rechargeable lithium ion battery. Initially the battery is charged at factory, but it is highly recommended to perform a full charge before the first use.
-Recharge the battery connecting the device to the AC/DC 5V included with the product. The charging time ranges from 2-4 hours, depending on whether the device is off or running. In order to keep the battery in good condition, we recommend that you turn it off while charging and not leave it charging more than 8 hours.
+Your Energy Tablet Windows has a built-in rechargeable lithium ion battery. Recharge the battery by connecting the device to the outlet only using the power adapter and the USB cable included with the product. The charging time ranges from 2-4 hours, depending on whether the device is off or on.
 
-You have several ways to improve the performance and optimize the battery use of your Energy Tablet:
-Set your tablet to automatically turn off the display after a few seconds of inactivity and select an ideal display brightness to enlarge the battery life.
+You have several ways to improve the performance and optimize the battery use of your tablet, setting the automatic shutdown and adjusting the brightness level of the screen.
 
 </quick_guide>
+
