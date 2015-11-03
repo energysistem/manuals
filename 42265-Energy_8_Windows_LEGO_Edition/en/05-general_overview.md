@@ -1,19 +1,17 @@
-## <quick_guide> General Overview
-
+<quick_guide>
+##  General overview
 ![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54e4747e32635.jpg)
-
 1. Rear camera
 2. Front camera
-3. Speakers
+3. Speaker
 4. Power button
-5. Volume control +
-6. Volume control -
-7. Touch panel
+5. Volume button +
+6. Volume button -
+7. Touchscreen
 8. microSD slot
-9. Headphone output
-10. microUSB connector
-11. microHDMI out
-12. Keyboard connector
-13. Windows button
-
+9. Earphones output
+10. MicroUSB connector
+11. MicroHDMI output
+12. Windows button
 </quick_guide>
+
