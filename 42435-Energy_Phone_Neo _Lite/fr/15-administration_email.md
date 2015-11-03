@@ -2,7 +2,7 @@
 
 Avis: Pour connaître les paramètres de configuration de votre compte, veuillez consulter votre fournisseur de courrier électronique.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/5616856562095.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56388339d5dae.jpg)
 
 1.	Dossier choisi.
 2.	Chercher.

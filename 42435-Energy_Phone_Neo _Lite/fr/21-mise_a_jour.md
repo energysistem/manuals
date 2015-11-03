@@ -7,7 +7,7 @@ Suivez les pas suivants pour réaliser l'installation :
 1.	Assurez-vous que la batterie de votre Energy Phone Max 4G est totalement chargée. Sinon, connectez le smartphone à une alimentation externe en utilisant l'adaptateur AC/DC fourni et attendez jusqu'à ce que la batterie soit complètement chargée.
 2.	Accédez au site web www.energysistem.com.
 3.	Entrez sur la section "Support" et choisissez le type de produit "Smartphone".
-4.	Choisissez votre modèle Energy Phone de la liste dépliant qui apparaitra, et tout de suite, déchargez la dernière version du système d'exploitation Android™ disponible. 
+4.	Choisissez votre modèle Energy Phone de la liste dépliant qui apparaitra, et tout de suite, déchargez la dernière version du système d'exploitation Android™ disponible.
 Important :
  Assurez-vous que la version du système d'exploitation que vous êtes en train de décharger soit spécifique pour votre modèle et numéro de série, car au cas contraire, votre dispositif pourra être endommagé.
 5.	Décomprimez le fichier sur votre ordinateur.

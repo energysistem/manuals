@@ -1,6 +1,6 @@
 ## Câmara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56388308e722c.jpg)
 
 1. Modo de visualização multi-ângulo.
 2. Modo panorâmico.
@@ -17,3 +17,5 @@
 13. Modo vídeo.
 14. Definições.
 15. Previsualização.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42435/5638830f87468.jpg)

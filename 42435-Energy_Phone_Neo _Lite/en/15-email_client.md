@@ -2,7 +2,7 @@
 
 **Note:** In order to know your account settings, ask your e-mail service provider.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/5616856562095.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56388339d5dae.jpg)
 
 1. Selected folder.
 2. New e-mail.

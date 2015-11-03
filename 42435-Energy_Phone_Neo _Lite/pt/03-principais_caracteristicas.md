@@ -1,7 +1,7 @@
 ## Principais características
 
-*	Smartphone livre com sistema Android#trade# 5.1 optimizado. 
-*	Ecrã táctil de 5" IPS HD (1280x720 píxeis). 
+*	Smartphone livre com sistema Android#trade# 5.1 optimizado.
+*	Ecrã táctil de 5" IPS HD (1280x720 píxeis).
 *	Processador Quad Core ARM Cortex A53 1.0 GHz e GPU Mali T720MP1.
 *	Ligação à internet 4G/LTE categoria 4 ultra-rápida
 *	Ligação Wi-Fi 802.11 b/g/n.
@@ -19,7 +19,7 @@
 *	Ecrã com ajuste automático de brilho.
 *	Sensor de proximidade.
 *	Aplicações instaladas: navegador, aplicação de e-mail, aplicações para reproduzir músicas / vídeos / fotos, rádio FM, alarme e calculadora.
-*	Permite instalar milhares de aplicações e jogos disponíveis para o sistema operativo Android#trade#. 
+*	Permite instalar milhares de aplicações e jogos disponíveis para o sistema operativo Android#trade#.
 *	Frequências de funcionamento: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + LTE FDD 800/1800/2600 MHz.
 *	Capacidade da bateria: 2500 mAh.
 *	Autonomia em standby até 265 horas e até 15 horas em conversação.

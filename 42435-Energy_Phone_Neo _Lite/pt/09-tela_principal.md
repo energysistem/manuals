@@ -1,6 +1,6 @@
 ## Ecrã Principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1af889ce.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56388357b5e5d.jpg)
 
 1. **Pesquisa:** atalho para o motor de pesquisa WEB da Google#trade#.
 2. **Barra de estado:** mostra a informação sobre o estado da cobertura wi-fi, a bateria e a hora. Deslize o dedo sobre esta parte para aceder a uma versão do menu de configuração básica que é responsável de gerir as notificações e o próprio menu de configuração.

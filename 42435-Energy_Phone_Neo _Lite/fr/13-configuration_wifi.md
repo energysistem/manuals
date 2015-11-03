@@ -2,9 +2,9 @@
 
 Votre Energy Phone Max 4G dispose de connexion Wi-Fi 802.11 b/g/n. Pour connecter votre appareil à un réseau sans fil, allez sur Paramètres > Wi-Fi et déplacez le commutateur à la position ON. À continuation l'appareil fera une recherche de tous les appareils disponibles et vous devrez sélectionner un pour commencer la connexion.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561684f83e81b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/563883e911c81.jpg)
 
-1.	Paramètres > Wi-Fi. 
+1.	Paramètres > Wi-Fi.
 2.	Activez la case Bluetooth.
 3.	Sélectionnez votre réseau Wi-Fi.
 4.	Connectez.
