@@ -1,4 +1,4 @@
-﻿<quick_guide>
+<quick_guide>
 ## Declaración de Conformidad
 
 Nombre del fabricante:
