@@ -1,4 +1,4 @@
-﻿## Actualización
+## Actualización
 
 Tu Energy Tablet dispone del sistema operativo Windows#trade# 10 instalado, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones automáticas están activadas, con lo que tu Energy Tablet te avisará automaticamente cuando haya alguna actualización disponible para instalar.
 
