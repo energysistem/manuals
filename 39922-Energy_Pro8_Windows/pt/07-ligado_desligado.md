@@ -1,11 +1,10 @@
-## <quick_guide> Ligado e Desligado 
+﻿## <quick_guide> Ligar e desligar
+Para ligar o seu Energy Tablet prima o botão de ligar / desligar (4) uns segundos. Quando o sistema operativo estiver carregado, terá que desbloquear o dispositivo para começar a utilizá-lo.  Para desbloqueá-lo arreste o ecrã de bloqueio para cima e identifique-se.  
 
-Para ligar o Energy Tablet, pressione o botão ligar / desligar (4) por alguns segundos. Quando o sistema operacional seja carregado, você terá que desbloquear o dispositivo para começar a utilizá-lo. Para isso arraste a tela de bloqueio para cima e identifique-se.
+Durante a primeira utilização, siga os passos que mostra o dispositivo para criar a sua conta de utilizador e configurar o tablet ao seu gosto. Durante o processo, deverá indicar uma conta de utilizador que seja compatível com Microsoft Windows#trade#. Caso não tenha um conta, poderá criar uma.
 
-Durante o primeiro arranque, siga os passos que indica o dispositivo para criar sua conta de usuário e configurar o seu Energy tablet ao seu gosto. Neste processo, você terá que inserir uma conta de usuário compatível com Microsoft Windows#trade#, você pode criá-la se você não tem a conta.
+Para desligar o dispositivo mantenha premido o botão de ligar / desligar (4) até que apareça o ecrã de bloqueio e arreste-o para baixo. 
 
-Para desligar pressione e segure o botão ligar / desligar (4) até que a tela de bloqueio aparece e arraste para baixo. 
-Uma breve pressão no botão ligar / desligar (4) você pode desbloquear / bloquear o dispositivo, desligando a tela e activando o modo de economia de energia.
-
-</quick_guide> 
+Um breve toque no botão de ligar/desligar (4) bloqueia / desbloqueia o dispositivo ao mesmo tempo que desliga o ecrã e activa o modo de poupança de energia.
+</quick_guide>
 
