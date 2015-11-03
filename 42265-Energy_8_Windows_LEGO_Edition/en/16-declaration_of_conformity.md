@@ -16,6 +16,5 @@ Is in compliance with the essential norms and standards of the Directive 99/05/C
 
 Finestrat, 01 November 2015
 
-
 </quick_guide>
 
