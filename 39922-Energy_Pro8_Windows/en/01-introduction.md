@@ -1,9 +1,10 @@
-## <quick_guide> Introduction
+<quick_guide>
+## Introduction
 
-* Energy Sistem#trade# thanks you for buying your new Energy Pro 8 Windows. We hope you enjoy it!.
-* This device belongs to the Energy Tablet Pro family:  a new generation of communication devices based on Windows#trade# operating system, with which you can access the Internet, work with Office, use Skype, check your e-mails and play any multimedia content (high definition 1080p video, music, photos, eBooks, etc.).
-In addition, there are thousands of applications and games available so you can get the best of your device.
-The device has a 8" IPS screen (1200x800 pixels) capacitive multi-touch display, Quad Core Intel Atom up to 1.83GHz processor, Bluetooth 4.0, WiFi, rear and front cameras and expandable memory via microSD.
-* We recommend you to read this manual to enjoy your device in a safe way and with maximum performance.
+Thank you for your trust in us and for buying the new Energy Tablet 8" Windows. We hope you will enjoy it.
+This model has an 8" IPS HD (1280x720 pixels) touchscreen, Intel Quad Core processor up to 1.83 GHz, Bluetooth 4.0, Wi-Fi, front camera and 2 Mpx rear camera.
 
-## <unique> Find the whole *Energy Pro 8 Windows * user manual on the following link   http://www.energysistem.com/en/guide/39922. </unique> </quick_guide>
+Before you start using your tablet we recommend you to read this manual and familiarize yourself with it.  It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
+
+##<unique>Find the complete manual of the *Energy Tablet 8" Windows* in the following link  http://www.energysistem.com/guide/39922 </unique> </quick_guide>
+
