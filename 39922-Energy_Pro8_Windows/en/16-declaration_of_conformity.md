@@ -8,7 +8,7 @@ Address: C/ Calpe, 1.
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Tablet Windows**
+We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Tablet 8" Windows**
 
 Manufacturing country: China
 
