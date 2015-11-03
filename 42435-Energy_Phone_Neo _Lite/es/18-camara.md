@@ -1,21 +1,19 @@
 ## Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42435/56388308e722c.jpg)
 
+1. Acceso a modo vídeo y ajustes.
+2. Acceso a galería.
+3. Intercambio de cámara.
+4. Flash.
+5. HDR.
+6. Botón de disparo.
+7. Patrón de líneas.
+8. Temporizador.
 
-1. Modo vista multiángulo.
-2. Modo Panorámica.
-3. Modo Belleza de rostro.
-4. Modo Seguimiento de movimiento.
-5. Modo Fotografía en directo.
-6. Modo Normal.
-7. Disparo automático por gesto.
-8. HDR.
-9. Flash.
-10. Intercambio de cámara.
-11. Acceso a galería.
-12. Botón de disparo.
-13. Modo vídeo.
-14. Ajustes.
-15. Previsualización de cámara.
+Para acceder al modo vídeo y ajustes de la cámara desliza el dedo en la pantalla principal de la cámara y a continuación selecciona modo cámara, vídeo o ajustes.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42435/5638830f87468.jpg)
+
+1. Ajustes.
 

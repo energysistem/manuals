@@ -1,27 +1,30 @@
 ## Principales características
 
-* Smartphone libre con sistema Android#trade# 5.1 optimizado.
-* Pantalla táctil IPS de 5" (HD 1280x720 pixeles).
-* Procesador de cuatro núcleos ARM Cortex A53 1.0GHz y GPU Mali T720MP1.
-* Conexión súper rápida 4G/LTE categoría 4.
-* Conexión WI-FI 802.11 b/g/n.
-* Función GPS.
-* Bluetooth 4.0.
-* Dos entradas de tarjeta microSIM.
-* 1GB RAM DDR3.
-* 16GB de memoria interna.
-* Memoria ampliable mediante tarjetas microSD-HC/XC (hasta 128GB).
-* Cámara frontal integrada de 5 Mpx con ángulo FOV de 84,3º.
-* Cámara trasera integrada de 8 Mpx con autofocus y flash LED.
-* Altavoz integrado.
-* Micrófono omnidireccional integrado.
-* Sensor de movimiento (acelerómetro).
-* Pantalla con ajuste automático de brillo.
-* Sensor de proximidad.
-* Aplicaciones instaladas: navegador de Internet, gestor de correo electrónico, aplicaciones para reproducción de música / videos / fotos, radio FM, alarma y calculadora.
-* Permite la instalación de miles de aplicaciones y juegos disponibles para el sistema operativo Android#trade#.
-* Frecuencias de operación: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
-* Capacidad de batería: 2.500mAh.
-* Autonomía: hasta 265 horas en standby y 15 horas de conversación.
-* Medición SAR: 0.372 (W/Kg) en cabeza y 0.652 (W/Kg) en cuerpo (a 10mm de distancia).
+- Pantalla táctil de 4"
+- Tecnología IPS
+- Resolución WVGA (800x480 píxeles)
+- Procesador de cuatro núcleos ARM Cortex A7 1.3 GHz
+- GPU Mali-400 integrada
+-  Android™ 5.1 Lollipop
+- Cámara trasera 5 Mpx con autofocus y flash LED
+- Cámara frontal VGA
+- 1 GB RAM.
+- 4 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 128 GB)
+- 3G: 900/2100 MHz (BANDAS WCDMA VIII / I )
+- 2G: 850/900/1800/1900 MHz (BANDAS GSM)
+- Bluetooth®
+- WI-FI 802.11 b/g/n
+- A-GPS
+- Dual SIM
+- Conexión microUSB 2.0
+- Audio Jack 3,5 mm con estandar CTIA
+- Capacidad de batería: 1.500 mAh
+- Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
+- Sensor de movimiento (acelerómetro)
+- Sensor de proximidad
+- Sensor de luminosidad
+- Altavoz integrado
+- Micrófono omnidireccional integrado
+- Radio FM de 87.5 a 108 MHz con presintonías
+- Medición SAR: 0.339 (W/Kg) en cabeza y 0.406 (W/Kg) en cuerpo (a 10mm de distancia).
 

@@ -1,7 +1,7 @@
 ### Configuración tarjeta SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42435/563896f5b41e8.jpg)
 
-Tu Energy Phone Max 4G tiene la posibilidad de utilizar dos tarjetas micro-SIM. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
+Tu Energy Phone Neo Lite tiene la posibilidad de utilizar dos tarjetas SIM. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
 
-En este apartado podrás seleccionar la tarjeta predefinida para realizar o recibir llamadas, enviar y recibir mensajes de texto y la conexión de datos.
+En este apartado podrás seleccionar la tarjeta predefinida para realizar o recibir llamadas, enviar y recibir mensajes de texto, la conexión de datos y la selección de tarjeta primaria con conexión 3G.
