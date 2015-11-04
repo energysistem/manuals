@@ -22,7 +22,7 @@ Many digital cameras and image editing software add hidden data to .jpg files. T
 It is always better to reboot the device through one of the options available within the system, but if that is not possible, reboot it by extracting and inserting again the battery.
 
 8.	The built-in memory of the Energy Phone Max 4G is 16 GB, but the available memory is lower. Why?
-The Android™ operating system and the preinstalled applications need approximately 4 GB to work. Therefore, the available memory for additional data is less than 16 GB.
+The Android™ operating system and the preinstalled applications need approximately 5 GB to work. Therefore, the available memory for additional data is less than 16 GB.
 
 9.	What should I do to install an application?
 First, make sure that the file has the Android™ application extension (.APK).Android™ will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application: Settings / Security / Unknown sources (activate).
