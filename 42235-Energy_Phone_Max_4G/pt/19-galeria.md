@@ -15,7 +15,7 @@ Para ver a imagem o album seguinte/anterior arraste o dedo horizontalmente no ec
 
 1.Voltar para a lista de imagens.
 2. Partilhar.
-3. Prefeerências.
+3. Preferências.
 4. Opções.
 5. Imagem.
 6. Modo edição.
