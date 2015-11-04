@@ -8,4 +8,4 @@
 
 * Recarga la batería cuando en la pantalla se muestre el ícono de batería baja.
 
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
+* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technlogy, S.A.
