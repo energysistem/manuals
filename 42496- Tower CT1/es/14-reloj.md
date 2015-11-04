@@ -5,7 +5,7 @@ Desde tu *Energy Tower CT1 Bluetooth* podrás visualizar la hora en su panel sup
 Para configurar la hora del reloj pulsa el botón CLOCK del mando y luego mantén pulsado el botón PLAY/PAUSE del mando o del panel superior, de esta manera los dígitos de la hora empezazán a parpadear.En ese momento pulsando los botones VOLUMEN + y VOLUMEN - podrás cambiar la hora. Para confirmar la hora seleccionada vuelve a pulsar el botón PLAY/PAUSE y entonces podrás cambiar los dígitos de los minutos del mismo modo.
 
 ### Visualizar hora.
-Mientras estés usando la torre puedes pulsar el botón CLOCK del mando para visualizar la hora. Vuelve a pulsar este botón para salir del modo CLOCK y continuar con la reproducción de música.
+Mientras estés usando la torre puedes pulsar el botón CLOCK del mando para visualizar la hora en la pantalla. Vuelve a pulsar este botón para salir del modo CLOCK y continuar con la reproducción de música.
 
 ### Programar hora de encendido y apagado.
 Mediante los botones  T-ON y T-OFF del mando podrás establecer la hora de encendido y de apagado respectivamente.
