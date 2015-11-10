@@ -12,3 +12,4 @@
 8. Repetir.
 9. Tempo decorrido.
 10. Barra de progresso.
+
