@@ -28,7 +28,7 @@ O sistema operativo Android#trade# e as aplicações pré-instaladas no disposit
 Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que active a instalação de aplicações a partir de "Fontes não conhecidas". Esta opção está desactivada por razões de segurança. Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão no ecrã a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes não conhecidas (activar).
 
 10.	Qual é a autonomia do dispositivo?
-Depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, de se a Wi-Fi está ligada ou desligada ou da utilização das redes GSM e 3G. A autonomia do Energy Phone Neo Lite é aproximadamente de até XXX horas em standby e até XXX horas de conversa.
+Depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, de se a Wi-Fi está ligada ou desligada ou da utilização das redes GSM e 3G. A autonomia do Energy Phone Neo Lite é aproximadamente de até 120 horas em standby e até 8 horas de conversa.
 
 11. Quais são as frequências de funcionamento do meu dispositivo para 3G?
 O seu Energy Phone Neo Lite tem sido desenhado para funcionar correctamente com WCDMA 900/2100 Mhz no modo 3G.
