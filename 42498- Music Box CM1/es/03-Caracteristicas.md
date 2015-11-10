@@ -20,7 +20,7 @@
 * Decodificador de memorias USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
 * Altavoces 2.0 con sistema de realce acústico.
 * Potencia de salida total (RMS):6 W.
-* Respuesta en frecuencia: 90 Hz ~ 20 KHz.
+* Respuesta en frecuencia: 80 Hz ~ 20 KHz.
 * Relación señal/ruido: >80 dB.
 * Entrada "Audio-In" de 3.5 mm.
 * Batería de litio recargable.
