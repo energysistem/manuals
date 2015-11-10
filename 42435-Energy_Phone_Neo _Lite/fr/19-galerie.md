@@ -16,10 +16,10 @@ Pour retourner au bureau principal, appuyez sur l'icône de retour ou Menu déma
 
 1.	Retourner sur la liste des images.
 2.	Partager.
-3.	Préférences partage.
-4.	Options.
-5.	Image.
-6.	Mode édition.
+3.	Options.
+4.	Image.
+5.	Mode édition.
+
 
 
 
