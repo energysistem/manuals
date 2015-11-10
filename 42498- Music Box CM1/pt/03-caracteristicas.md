@@ -20,7 +20,7 @@
 * Fácil sincronização com tablets, Smartphones, Portáteis, MAC, PC, PS3  qualquer outro dispositivo Bluetooth®.
 * Alto-falantes 2.0 com sistema de melhora acústica.
 * Potência de saída total (RMS):6 W.
-Resposta em frequência: 90 Hz ~ 20 KHz.
+Resposta em frequência: 80 Hz ~ 20 KHz.
 Rácio sinal/ruído: >80 dB.
 * Microfone integrado (função mãos livres).
 * Entrada "Audio-In" de 3.5 mm.
