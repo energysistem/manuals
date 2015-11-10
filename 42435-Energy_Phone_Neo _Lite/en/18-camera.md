@@ -13,4 +13,7 @@
 8.	Timer.
 
 To access the video and settings mode of the camera slide your finger on the main screen of the camera and choose the camera, video or settings mode.
+
 ![Imagen1](http://static.energysistem.com/images/manuals/42435/5638830f87468.jpg)
+
+1.	Settings.
