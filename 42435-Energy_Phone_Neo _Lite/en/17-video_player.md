@@ -5,12 +5,16 @@
 1.	Back to video list.
 2.	Play / Pause.
 3.	Share.
-4.	Sharing preferences.
-5.	Options.
-6.	Now playing.
-7.	Length.
-8.	Full screen.
-9.	Progress bar.
-10.	Elapsed time.
+4.	Options.
+5.	Now playing.
+6.	Length.
+7.	Go to next video.
+8.	Forward.
+9.	Stop.
+10.	Back.
+11.	Progress bar.
+12.	Go to previous video.
+13.	Elapsed time.
+
 
 
