@@ -28,7 +28,7 @@
 
 ### Caractéristiques de la batterie de lithium rechargeable.
 
-* Capacité nominale: 1800 mAh.
+* Capacité nominale: 1600 mAh.
 * Tension nominale: 3.7V.
 * Autonomie en mode musique: 12 heures.*
 * Autonomie en mode Bluetooth: 10 heures.*
