@@ -19,7 +19,7 @@
 * USB memory decoder: plays MP3 files from USB memory drives with capacity up to 32 GB.
 * 2.0 Loudspeakers with acoustic enhancement system.
 * Total output power (RMS): 6W.
-* Frequency response: 90 Hz ~ 20 KHz
+* Frequency response: 80 Hz ~ 20 KHz
 * S/N ratio: >80 dB.
 * 3.5 mm "Audio-In" port.
 * Rechargeable lithium battery.
