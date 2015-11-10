@@ -18,7 +18,7 @@ Il est toujours recommandé de réinitialiser l'appareil à travers les options 
 Le système d'exploitation Android™ et les applications préinstallées au dispositif ont besoin de XXX Go de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 4 Go.
 9.	Qu'est-ce que je dois faire pour pouvoir installer une application ? 
 Premièrement, assurez-vous bien que le fichier a l'extension d'installation Android™(APK), deuxièmement, Android™ vous demandera d'activer l'installation d'applications depuis « Origines méconnus », cette option est désactivé par sécurité.  Pour autoriser l'installation d'applications, vous avez que à suivre les instructions qui vont apparaître sur l'écran, la première fois que vous essayez d'installer une application :  Paramètres / Applications / Origines méconnus (activer).
-10.	Quelle est l'autonomie du dispositif ? 
+10.	Quelle est l'autonomie du dispositif ?  
  Cela dépend, surtout, des conditions d'usage, comme le niveau d'éclat de l'écran, l'usage d'écouteurs ou du haut parleur, ou si le Wi-Fi est activé ou désactivé et l'usage de réseaux GSM et 3G. L'autonomie du Energy Phone Neo Lite est de jusqu'à 120 heures en mode veille et 8 heures de conversation.
 11.	Quelles sont les fréquences de fonctionnement de mon appareil pour 3G ?
 Votre Energy Phone Neo Lite est préparé pour opérer correctement en mode 3G dans les bandes WCDMA 900/2100 MHz.
