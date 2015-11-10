@@ -4,8 +4,9 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42435/56388339d5dae.jpg)
 
-1. Selected folder.
-2. New e-mail.
-3. Search.
-4. E-mails.
-5. Folders.
+1.	Selected folder.
+2.	Search.
+3.	E-mails.
+4.	New e-mail.
+5.	Folders.
+
