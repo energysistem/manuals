@@ -2,20 +2,18 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42435/56388308e722c.jpg)
 
-1. Modo de visualização multi-ângulo.
-2. Modo panorâmico.
-3. Modo beleza.
-4. Modo captura de movimento.
-5. Modo fotografia a partir de vídeo.
-6. Modo normal.
-7. Modo automático através de gesto
-8. HDR.
-9. Flash.
-10. Mudar câmara.
-11. Acesso à galeria.
-12. Botão de disparo.
-13. Modo vídeo.
-14. Definições.
-15. Previsualização.
+1. Aceder ao modo vídeo e definições.
+2. Aceder à galeria.
+3. Mudar câmara.
+4. Flash.
+5. HDR.
+6. Botão de disparo.
+7. Linhas de grade.
+8. Temporizador.
+
+Para aceder ao modo vídeo e às definições da câmara, deslize o dedo sobre o ecrã principal da câmara e seleccione o modo câmara, vídeo ou definições.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42435/5638830f87468.jpg)
+
+1. Definições.
+
