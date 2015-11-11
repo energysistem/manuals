@@ -22,7 +22,7 @@ Muchas cámaras fotográficas digitales y programas de edición de imágenes añ
 Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo extrayendo y volviendo a insertar la batería.
 
 8.	La capacidad de memoria del Energy Phone Neo Lite es de 4GB, pero la memoria disponible es inferior ¿Por qué?
-El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente XXXGB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 4GB.
+El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 2,2GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 4GB.
 
 9.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar).
