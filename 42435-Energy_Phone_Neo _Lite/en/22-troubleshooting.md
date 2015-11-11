@@ -15,9 +15,9 @@ Many digital cameras and image editing software add hidden data to .jpg files. T
 7.	Sometimes the screen turns black and the device does not respond.
 It is always better to reboot the device through one of the options available within the system, but if that is not possible, reboot it by extracting and inserting again the battery.
 8.	The built-in memory of the Energy Phone Neo Lite is 4 GB, but the available memory is lower. Why?
-The Android™ operating system and the preinstalled applications need approximately XXX GB to work. Therefore, the available memory for additional data is less than 4 GB.
+The Android#trade# operating system and the preinstalled applications need approximately 2,2 GB to work. Therefore, the available memory for additional data is less than 4 GB.
 9.	What must I do to install an application?
-First, make sure that the file has the Android™ application extension (.APK).Android™ will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application: Settings / Security / Unknown sources (activate).
+First, make sure that the file has the Android#trade# application extension (.APK).Android#trade# will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application: Settings / Security / Unknown sources (activate).
 10.	How long does the battery last? 
 It depends largely on the usage conditions, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the use of GSM and 3G networks. The battery life of the Energy Phone Neo Lite lasts up to 120 hours on standby and 8 hours talk time.
 11.	Which are the 3G operating frequencies of my device?
