@@ -17,7 +17,6 @@ To return to the main desktop, press the Back or Home button.
 
 1.	Back to image list.
 2.	Share.
-3.	Sharing preferences.
-4.	Options.
-5.	Image.
-6.	Editing mode.
+3.	Options.
+4.	Image.
+5.	Editing mode.
