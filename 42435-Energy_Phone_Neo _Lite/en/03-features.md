@@ -4,7 +4,7 @@
 *	WVGA Resolution (800x480 pixel)
 *	Quad Core ARM Cortex A7 1.3 GHz processor.
 *	Integrated Mali-400 GPU
-*	Android™ 5.1 Lollipop
+*	Android#trade# 5.1 Lollipop
 *	5 Mpx rear camera with autofocus and LED flash.
 *	VGA Front camera
 *	1GB RAM.
