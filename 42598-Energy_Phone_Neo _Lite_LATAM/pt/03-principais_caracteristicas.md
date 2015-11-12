@@ -3,14 +3,14 @@
 - Ecrã táctil de 4"
 - Tecnologia IPS
 - Resolução WVGA (800x480 pixels)
-- Processador Quad Core ARM Cortex A7 1.3 GHz 
+- Processador Quad Core ARM Cortex A7 1.3 GHz
 - GPU Mali-400
 - Android#trade# 5.1 Lollipop
 - Câmara traseira de 5 MP com auto foco e flash LED
 - Câmara frontal VGA
 - 1 GB RAM.
 - 4 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB).
-- 3G: 900/2100 MHz (BANDAS WCDMA VIII / I)
+- 3G: 850/1900 MHz (BANDAS WCDMA V / II)
 - 2G: 850/900/1800/1900 MHz (BANDAS GSM)
 - Bluetooth®
 - WI-FI 802.11 b/g/n

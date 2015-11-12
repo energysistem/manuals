@@ -10,7 +10,7 @@
 - Cámara frontal VGA
 - 1 GB RAM.
 - 4 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 128 GB)
-- 3G: 900/2100 MHz (BANDAS WCDMA VIII / I )
+- 3G: 850/1900 MHz (BANDAS WCDMA V / II )
 - 2G: 850/900/1800/1900 MHz (BANDAS GSM)
 - Bluetooth®
 - WI-FI 802.11 b/g/n
@@ -19,7 +19,7 @@
 - Conexión microUSB 2.0
 - Audio Jack 3,5 mm con estandar CTIA
 - Capacidad de batería: 1.500 mAh
-- Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
+- Adaptador de corriente AC/DC (USplug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
 - Sensor de movimiento (acelerómetro)
 - Sensor de proximidad
 - Sensor de luminosidad

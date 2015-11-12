@@ -9,7 +9,7 @@
 *	VGA Front camera
 *	1GB RAM.
 *	4 GB of internal memory further expandable using microSDHC/XC (up to 128 GB)
-*	3G: 900/2100 MHz (BANDS WCDMA VIII / I )
+*	3G: 850/1900 MHz (BANDS WCDMA V / II )
 *	2G: 850/900/1800/1900 MHz (BANDS GSM)
 *	Bluetooth
 *	WI-FI 802.11 b/g/n

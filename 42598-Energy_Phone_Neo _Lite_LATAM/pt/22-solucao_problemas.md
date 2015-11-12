@@ -31,4 +31,4 @@ Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação An
 Depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, de se a Wi-Fi está ligada ou desligada ou da utilização das redes GSM e 3G. A autonomia do Energy Phone Neo Lite é aproximadamente de até 120 horas em standby e até 8 horas de conversa.
 
 11. Quais são as frequências de funcionamento do meu dispositivo para 3G?
-O seu Energy Phone Neo Lite tem sido desenhado para funcionar correctamente com WCDMA 900/2100 Mhz no modo 3G.
+O seu Energy Phone Neo Lite tem sido desenhado para funcionar correctamente com WCDMA 850/1900 Mhz no modo 3G.
