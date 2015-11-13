@@ -19,7 +19,7 @@
 *	Connecteur microUSB 2.0
 *	Audio Jack 3,5 mm avec norme CTIA
 *	Capacité de la batterie: 1.500 mAh
-*	Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
+*	Adaptateur d'alimentation courant AC/DC (US plug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
 *	Capteur de mouvement (accéléromètre).
 *	Capteur de proximité.
 *	Capteur de luminosité.

@@ -18,7 +18,7 @@
 *	MicroUSB 2.0 connection
 *	Audio Jack 3,5 mm with standard CTIA
 *	Battery capacity: 1.500 mAh
-*	AC/DC (Europlug) power adapter Input: 100-240VAC 50-60Hz. Output: 5V 1A
+*	AC/DC (US plug) power adapter Input: 100-240VAC 50-60Hz. Output: 5V 1A
 *	Motion sensor (accelerometer).
 *	Proximity sensor.
 *	Proximity sensor.
