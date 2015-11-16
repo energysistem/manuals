@@ -1,5 +1,5 @@
 ## Control de llamadas
 
-Teniendo el *Energy Music Box B3 Bluetooth* sincronizado con tu móvil o smartphone podrás recibir llamadas y utilizar el MICRÓFONO () para hablar desde el propio altavoz gracias a la función manos libres.
+Con el *Energy Music Box Pocket Bluetooth* sincronizado con tu smartphone podrás controlar tus llamadas desde el propio altavoz.
 
-Para contestar una llamada únicamente tienes que pulsar el botón de CONTROL DE LLAMADA () y en caso de estar escuchando alguna canción por el altavoz en el instante de recibir la llamada, ésta se detendrá en ese momento escuchándose el tono de llamada. Para finalizar la llamada pulsa nuevamente el botón de CONTROL DE LLAMADA (), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
+Al recibir una llamada, la canción que estés escuchando se detendrá y sonará el tono de llamada. Para contestar la llamada únicamente tienes que pulsar el botón de CONTROL DE LLAMADA (), y para finalizarla pulsa nuevamente el botón de CONTROL DE LLAMADA (). La canción se reanudará automáticamente.
