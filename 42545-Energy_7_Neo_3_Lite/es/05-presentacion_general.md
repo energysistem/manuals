@@ -23,4 +23,6 @@ CAMBIAR IMAGEN
 
 9. Salida de auriculares
 
+10. Flash
+
 </quick_guide>
