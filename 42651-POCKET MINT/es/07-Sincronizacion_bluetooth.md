@@ -1,8 +1,8 @@
 ## Sincronización Bluetooth
 
-Estando apagado tu *Energy Music Box Pocket Bluetooth* mantén pulsado durante 4 segundo el botón ENCENDIDO/APAGADO() para comenzar la búsqueda de dispositivos para establecer la sincronización Bluetooth; al mismo tiempo desde tu dispositivo Bluetooth® (móvil, tablet, portátil, etc.) inicia la búsqueda y sincronización de dispositivos. Una vez ya identificado el *Energy Pocket* en tu dispositivo, selecciona "conectar". La conexión se realizará de forma inmediata y sin necesidad de códigos. El altavoz reproducirá un sonido que indica que la conexión entre ambos dispositivos se ha establecido correctamente.
+Con tu altavoz *Energy Music Box Pocket* encendido, presiona el botón cambio de modo (5) durante aproximadamente 2 segundos hasta que el indicador de función (8) empiece a parpadear intensamente en azul. En ese momento, tu altavoz estará listo para sincronizarlo con tu smartphone o tablet. Una vez localizado tu Energy Pocket en tu dispositivo, pulsa “conectar”. La conexión se realizará de forma inmediata y sin necesidad de códigos. Escucharás una alerta que confirma la sincronización entre ambos dispositivos.
+Cuando enciendas de nuevo tu *Energy Music Box Pocket*, se sincronizará de forma automática, siempre y cuando tengas la conexión Bluetooth de tu Smartphone o tablet activada.
+Para sincronizar con otro dispositivo mientras estás reproduciendo tu música, presiona
+de nuevo con el mismo dispositivo no es necesario repetir todo el proceso, basta con mantener encendido tus *Energy Earphones Sport Bluetooth* y la conexión Bluetooth® de tu smartphone, tablet, portátil, etc.
 
-Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta con encender el *Energy Music Box Pocket Bluetooth* y la sincronización se llevará a cabo de manera automática.
-
-Si deseas sincronizar otro dispositivo Bluetooth®, mantén pulsado durante 3 segundos el botón de CAMBIO DE FUNCIÓN (). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
 </quick_guide>
