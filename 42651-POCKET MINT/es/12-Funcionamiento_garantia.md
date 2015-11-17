@@ -8,7 +8,7 @@ También ponemos a tu disposición el teléfono para la gestión de garantía 90
 
 Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando tu factura o ticket de compra.
 
-**Importante: **Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto el servicio técnico de Energy Sistem no se verá en la obligación de respaldar dicha información por lo que es recomendable entregar el equipo sin información en la memoria del mismo, o con la información original de fábrica.
+**Importante:** Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto el servicio técnico de Energy Sistem no se verá en la obligación de respaldar dicha información por lo que es recomendable entregar el equipo sin información en la memoria del mismo, o con la información original de fábrica.
 Las especificaciones están sujetas a cambios sin previo aviso.
 
 *Marcas comerciales.* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
