@@ -16,8 +16,6 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
 *País de fabricación:* China
 
-Al que se refiere esta declaración, con la(s) norma(s) u otros documento(s) normativo(s) de acuerdo con las disposiciones de la Directiva 2004/108/CE del
-Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
-
+Al que se refiere esta declaración, con la(s) norma(s) u otros documento(s) normativo(s) de acuerdo con las disposiciones de la Directiva 2004/108/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
