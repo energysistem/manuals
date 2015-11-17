@@ -20,5 +20,4 @@ Al que se refiere esta declaración, con la(s) norma(s) u otros documento(s) nor
 Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
 
 
-
-![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+</p> ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
