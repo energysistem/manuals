@@ -4,4 +4,4 @@ Una vez sincronizado tu *Energy Music Box Pocket Bluetooth* puedes controlar el 
 
 A través del botón REPRODUCCIÓN/PAUSA () inicia, pausa o reanuda la reproducción.
 
-Para cambiar de canción presiona el botón AVANCE () o RETROCESO ().
+Para cambiar de canción usa los botones AVANCE () y RETROCESO ().
