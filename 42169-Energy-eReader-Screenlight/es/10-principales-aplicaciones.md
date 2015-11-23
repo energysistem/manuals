@@ -33,7 +33,6 @@ Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la
 - Margen: Selecciona el margen preferido.
 - Rotar pantalla: Rota la pantalla 90º hacia la derecha o hacia la izquierda.
 - Paso automático: Mediante esta función, tu eReader es capaz de pasar la página automáticamente tras el transcurso del tiempo indicado.
-- Refresco de página: Esta función permite seleccionar al usuario si quiere que el dispositivo realice un refresco automático cada página, cada 3 páginas o cada 5 páginas. 
 - Añadir a favoritos: agrega el libro actual a la colección de libros favoritos.
 - Sobre el libro: Muestra información sobre el libro actual (Título, Autor, Editor, Formato).
 
