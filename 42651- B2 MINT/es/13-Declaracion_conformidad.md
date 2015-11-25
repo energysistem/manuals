@@ -6,7 +6,7 @@ _**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
->**Energy Music Box Pocket Bluetooth**
+>**Energy Music Box B2 Bluetooth**
 
 _**País de fabricación:**_ China
 
