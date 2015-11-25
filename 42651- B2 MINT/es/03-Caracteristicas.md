@@ -28,5 +28,5 @@
 *	Capacidad: 800 mAh.
 *	Sistema de carga por USB.
 *	Tiempo de carga: 1,5 horas.
-*	Autonomía en uso: 8 horas.
+*	Autonomía en uso a volumen medio: 9 horas.
 
