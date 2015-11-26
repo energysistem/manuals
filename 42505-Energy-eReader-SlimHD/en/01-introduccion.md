@@ -1,0 +1,2 @@
+## Introduction
+Energy Sistem#trade# thanks you for buying your new Energy eReader Slim. We hope you enjoy it! This new eReader features a 6" E-Ink screen and has a stylish and ultra-slim design (only 7.6mm of thickness and 149 grams of weight). This features, along with its advanced reading functions and 8GB of internal memory make it the perfect device for your reading sessions. We recommend you to read this manual in order to enjoy this product safely and getting the most out of its features.

@@ -1,0 +1,20 @@
+# Summary
+
+* [Introduction](README.md)
+* [Portada](00-portada.md)
+* [Introduccion](01-introduccion.md)
+* [Cuidado y mantenimiento](02-instrucciones-de-seguridad.md)
+* [Principales caracteristicas](03-principales-caracteristicas.md)
+* [Presentación General](04-presentacion-general.md)
+* [Contenido](05-contenido-del-producto.md)
+* [Alimentacion](06-alimentacion-y-primer-uso.md)
+* [Encendido y apagado](07-encendido-y-apagado.md)
+* [Conexión por USB](conexion_por_usb.md)
+* [Pantalla](08-pantalla-principal.md)
+* [Aplicaciones](9-principales-aplicaciones.md)
+* [Actualizacion](10-actualizacion.md)
+* [Resolucion](11-resolucion-de-problemas.md)
+* [Condiciones de la garantia](12-condiciones-de-la-garantia.md)
+* [Funcionamiento de la garantia](13-funcionamiento-de-la-garantia.md)
+* [Declaracion de conformidad](14-declaracion-de-conformidad.md)
+
