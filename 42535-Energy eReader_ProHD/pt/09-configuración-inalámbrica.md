@@ -1,6 +1,6 @@
 ## Configuração sem fio 
 
-O seu Energy eReader Pro dispõe de conexão Wi-Fi. Para ligar o dispositivo a uma rede sem fio, você só tem que ir para  ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Configurações >> ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi e mover o interruptor para a posição ON ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). Em seguida, começará a busca de redes sem fio e só tem que escolher uma para iniciar o processo de conexão.
+O seu Energy eReader Pro+ dispõe de conexão Wi-Fi. Para ligar o dispositivo a uma rede sem fio, você só tem que ir para  ![](http://static.energysistem.com/images/manuals/42091/5499468057a7f.jpg) Configurações >> ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi e mover o interruptor para a posição ON ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). Em seguida, começará a busca de redes sem fio e só tem que escolher uma para iniciar o processo de conexão.
 
 - ![] (http://static.energysistem.com/images/manuals/42091/549953ce5f5d9.jpg) Wi-Fi 
 - Ative o interruptor Wi-Fi movendo-o para a posição ON ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)

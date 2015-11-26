@@ -1,6 +1,6 @@
 ## Solução De Problemas
 
-**Eu não posso desligar ou suspender a minha eReader Pro / botão "Power" não está funcionando.**
+**Eu não posso desligar ou suspender a minha eReader Pro+ / botão "Power" não está funcionando.**
 
 Você precisa desativar o "modo de demonstração". Este modo, que você pode ajustar durante o Assistente de Inicialização, é projetado para o ereader quando é mostrado em uma loja exibindo na tela explicações sobre como o trabalho eReader. Para evitar desligar enquanto exposta neste modo, o botão de alimentação e modo de espera automático é desativado.
 

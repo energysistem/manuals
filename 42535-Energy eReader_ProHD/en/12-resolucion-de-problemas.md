@@ -1,6 +1,6 @@
 ## Troubleshooting
 
-**I can not shut down or suspend my eReader Pro / "Power" button is not working**
+**I can not shut down or suspend my eReader Pro+ / "Power" button is not working**
 
 You need to disable the "demo mode". This mode, which you can adjust during the Boot Wizard, is designed for the ereader when it is shown at a shop displaying on screen explanations about how the eReader work. To avoid turning off while exposed in this mode, the power button and the automatic standby mode is disabled.
 

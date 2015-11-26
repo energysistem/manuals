@@ -4,7 +4,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
 
-Your Energy eReader Pro has a direct access to the Internet through your wireless connection. Once the device is connected to a Wi-Fi network, click on the "Browser" icon, located in the main menu or in applications menu to start the program. The system will load the home page set by default. You can use the browser to download your content in the cloud. You can find your content downloaded in the "Downloads" app.
+Your Energy eReader Pro+ has a direct access to the Internet through your wireless connection. Once the device is connected to a Wi-Fi network, click on the "Browser" icon, located in the main menu or in applications menu to start the program. The system will load the home page set by default. You can use the browser to download your content in the cloud. You can find your content downloaded in the "Downloads" app.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 

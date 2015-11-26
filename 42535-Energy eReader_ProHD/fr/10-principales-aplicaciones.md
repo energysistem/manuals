@@ -4,7 +4,7 @@
 
 ![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
 
-Votre Energy eReader Pro dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l'écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l'afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements". 
+Votre Energy eReader Pro+ dispose d'un accès direct à Internet via votre connexion sans fil. Une fois que l'appareil est connecté à un réseau Wi-Fi, cliquez sur l'icône "Navigateur" situé sur l'écran principal ou dans le menu des applications pour lancer le programme. Le système va charger la page d'accueil définie par défaut et l'afficher sur votre écran. Vous pouvez utiliser le navigateur pour télécharger votre contenu depuis Internet. Vous trouverez votre contenu téléchargé dans l'application "Téléchargements". 
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 
