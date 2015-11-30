@@ -30,7 +30,7 @@
 - Descodificador USB: reproduz arquivos MP3/WAV desde memória flash USB com capacidade de até 32 GB.
 - Altifalantes 2.1 com subwoofer.
 - Potência de saída total (RMS): 12 W.
-- Resposta em freqüência: 90 Hz ~ 20 KHz.
+- Resposta em freqüência: 60 Hz ~ 20 KHz.
 - Relação sinal/ruido: >80 dB.
 - Função radio FM.
 - Microfone integrado (função mãos livres).
