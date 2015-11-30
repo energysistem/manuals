@@ -2,7 +2,7 @@
 
 Your Energy Phone Max 4G has Wi-Fi 802.11 b/g/n connectivity. To connect your device to any wireless network go to Settings > Wi-Fi and turn the switch to the ON position. The search will start, then select one of the networks available to start the connection.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561684f83e81b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42430/565c22714752b.jpg)
 
 1. Settings > Wi-Fi
 2. Enable the Wi-Fi option.

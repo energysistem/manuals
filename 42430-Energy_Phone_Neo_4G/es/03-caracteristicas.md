@@ -5,7 +5,7 @@
 - Resolución qHD (960x540 píxeles)
 - Procesador Qualcomm® Snapdragon™ 210 - MSM8909 de cuatro núcleos ARM Cortex A7 1.1GHz
 - GPU Adreno 304 integrada.
--  Android™ 5.1 Lollipop
+- Android#trade# 5.1 Lollipop
 - Cámara trasera 5 Mpx con autofocus y flash LED
 - Cámara frontal 2 Mpx
 - 1 GB RAM DDR3
