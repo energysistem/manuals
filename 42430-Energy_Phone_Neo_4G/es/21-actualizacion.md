@@ -1,12 +1,12 @@
 ## Actualización
 
-Tu Energy Phone Max 4G tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son vía OTA (Over-The-Air), con lo que tu Energy Phone se conectará automaticamente con nuestros servidores, hará la descarga e instalará el nuevo software en cuanto tengamos una nueva actualización lista para usar.
+Tu Energy Phone Neo 4G tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son vía OTA (Over-The-Air), con lo que tu Energy Phone se conectará automaticamente con nuestros servidores, hará la descarga e instalará el nuevo software en cuanto tengamos una nueva actualización lista para usar.
 
-Tambien puedes actualizar tu Energy Phone Max 4G a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o actualizarlo a una nueva versión compatible si esta se encuentra disponible.
+Tambien puedes actualizar tu Energy Phone Neo 4G a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o actualizarlo a una nueva versión compatible si esta se encuentra disponible.
 
 Sigue los siguientes pasos para realizar la instalación:
 
-1. Asegúrate de que la batería de tu Energy Phone Max 4G se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC/DC proporcionado y espera a que la batería se cargue del todo.
+1. Asegúrate de que la batería de tu Energy Phone Neo 4G se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC/DC proporcionado y espera a que la batería se cargue del todo.
 
 2. Accede a la página web www.energysistem.com desde tu ordenador.
 
@@ -18,4 +18,4 @@ Asegúrate de que la versión de sistema operativo que estás descargando es esp
 
 5. Descomprime el archivo en tu ordenador.
 
-6. Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy Phone Max 4G.
+6. Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy Phone Neo 4G.
