@@ -1,6 +1,6 @@
 ### Configuración tarjeta SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
+![Imagen]()
 
 Tu Energy Phone Max 4G tiene la posibilidad de utilizar dos tarjetas micro-SIM. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
 
