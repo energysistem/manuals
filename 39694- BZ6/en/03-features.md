@@ -32,7 +32,7 @@
 - USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
 - 2.1 loudspeakers with subwoofer.
 - Total output power (RMS): 12 W.
-- Frequency response: 90 Hz ~ 20 KHz.
+- Frequency response: 60 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
 - FM radio function.
 - Built-in microphone (handsfree function).
