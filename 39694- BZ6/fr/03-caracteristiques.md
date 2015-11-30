@@ -32,7 +32,7 @@
 - Décodeur USB: lit des fichiers MP3/WAV depuis la mémoire flash USB avec une capacité supérieure jusqu'à 32 GB.
 - Haut-parleurs 2.1 avec subwoofer.
 - Puissance de sortie totale (RMS): 12 W.
-- Réponse en fréquence: 90 Hz ~ 20 KHz.
+- Réponse en fréquence: 60 Hz ~ 20 KHz.
 - Rapport signal/bruit: >80 dB.
 - Fonction Radio FM.
 - Microphone inclut (fonction mains livres).
