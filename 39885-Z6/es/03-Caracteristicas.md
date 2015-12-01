@@ -26,7 +26,7 @@
 - Pantalla integrada en el dispositivo.
 - Altavoces 2.1 con subwoofer.
 - Potencia de salida total (RMS): 12 W.
-- Respuesta en frecuencia: 90 Hz ~ 20 KHz.
+- Respuesta en frecuencia: 60 Hz ~ 20 KHz.
 - Relación señal/ruido: >80 dB.
 - Función radio FM.
 - Entrada "Audio-In" de 3.5 mm.

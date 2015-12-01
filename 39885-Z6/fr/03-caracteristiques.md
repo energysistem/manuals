@@ -26,7 +26,7 @@
 - Écran inclus dans l’appareil.
 - Haut-parleurs 2.1 avec système de relief acoustique.
 - Puissance de sortie totale (RMS) : 12 W.
-- Réponse en  fréquence : 90 Hz ~ 20 KHz.
+- Réponse en  fréquence : 60 Hz ~ 20 KHz.
 - Relation signal / bruit : > 80 dB.
 - Fonction radio FM.
 - Entrée "Audio-In" de 3.5 mms.

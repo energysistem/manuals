@@ -8,7 +8,7 @@
 4. Câmara frontal
 5. Saída de auscultadores
 6. Led de notificações
-7. Receptor frontal 
+7. Receptor frontal
 8. Entrada USB
 9. Sensores de luminosidade e proximidade
 10. Botão de ligar / desligar
