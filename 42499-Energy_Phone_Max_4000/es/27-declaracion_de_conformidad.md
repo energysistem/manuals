@@ -1,5 +1,5 @@
 <quick_guide>
-##Declaración de Conformidad
+## Declaración de Conformidad
 
 ![Imagen1]()
 
