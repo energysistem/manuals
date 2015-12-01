@@ -26,7 +26,7 @@ Aquí se visualizan todos los libros guardados en la memoria interna o en la tar
 Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
 
 ![] (http://static.energysistem.com/images/manuals/42091/549999bcb6cac.jpg)
- 
+
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
 Diferentes funciones son posibles durante la lectura de un libro:
@@ -38,10 +38,10 @@ Diferentes funciones son posibles durante la lectura de un libro:
 -	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando el "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
 -	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42091/5499689351ff1.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
 -	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42091/5499683c600c2.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
--	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras. 
+-	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
 -	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
 -	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42091/549989ccd2aea.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque. 
+-	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
 -	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
@@ -53,9 +53,9 @@ Diferentes funciones son posibles durante la lectura de un libro:
 Esta aplicación permite acceder a la biblioteca y disfrutar de todos tus archivos audio almacenados en la memoria interna de tu eReader o en la tarjeta micro SD/SDHC. En el menú de aplicaciones, selecciona el icono (icono música).
 Una vez la aplicación abierta, podrás disfrutar de todos tus archivos de audio. La búsqueda de tus archivos de audio favoritos está facilitada por su almacenamiento por artistas, por álbumes, por canciones o por listas.
 
-![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg) 
+![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg)
 
-*Modo reproducción:* puedes definir el orden de reproducción de las canciones (reproducción aleatoria, repetir la canción actual, repetir todas las canciones). 
+*Modo reproducción:* puedes definir el orden de reproducción de las canciones (reproducción aleatoria, repetir la canción actual, repetir todas las canciones).
 Ese modo de reproducción ofrece la posibilidad de:
 -	Acceder directamente a tu biblioteca para elegir tu canción
 -	Hacer una reproducción aleatoria de tus canciones
