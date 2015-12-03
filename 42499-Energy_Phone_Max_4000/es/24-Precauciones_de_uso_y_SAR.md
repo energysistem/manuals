@@ -1,7 +1,7 @@
 ## <quick_guide> Precauciones de uso y SAR
 ### Precauciones de uso
 En ciertos lugares o situaciones, como aviones, hospitales, estaciones de servicio y algunos otros lugares está prohibido el uso del teléfono.
-Para reducir la cantidad de radiación recibida usa un kit manos libres, el modo de altavoz o un auricular bluetooth, no hagas llamadas en lugares donde la señal es débil como en el coche, en el tren o el metro. Mantén el teléfono alejado de las áreas sensibles como el vientre de las mujeres embarazadas, especialmente durante una llamada. Si tienes un implante electrónico (marcapasos, bombas de insulina, neuroestimuladores, etc...) coloca el teléfono a un mínimo de 15 cm del cuerpo y en el lado opuesto al implante cuando realices la llamada.
+Para reducir la cantidad de radiación recibida usa un kit manos libres, el modo altavoz o un auricular bluetooth, no hagas llamadas en lugares donde la señal es débil como en el coche, en el tren o el metro. Mantén el teléfono alejado de las áreas sensibles como el vientre de las mujeres embarazadas, especialmente durante una llamada. Si tienes un implante electrónico (marcapasos, bombas de insulina, neuroestimuladores, etc...) coloca el teléfono a un mínimo de 15 cm del cuerpo y en el lado opuesto al implante cuando realices la llamada.
 
 
 ### Información de exposición (SAR)
