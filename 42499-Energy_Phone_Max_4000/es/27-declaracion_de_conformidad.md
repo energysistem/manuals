@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaración de Conformidad
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42499/565ffb700c41b.jpg)
 
 Nombre del fabricante:
 Energy Sistem Technology, S.A.
