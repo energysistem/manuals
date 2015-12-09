@@ -7,7 +7,6 @@
 - Conectividade sem fio: Bluetooth e NFC.
 - Tecnologia multidriver 8 alto-falantes para uma qualidade de som surround.
 - Reproduz arquivos MP3 a partir de cartões microSD/SDHC com capacidade de até 64 GB.
-- Leitor de cartão com função USB-OTG.
 - Fácil sincronização com tablets, smartphones, laptops, MAC, PC e qualquer outro dispositivo Bluetooth®.
 - Controle total das funções desde os próprio fones.
 - Sincronização sem códigos.
@@ -25,7 +24,6 @@
 - Versão 4.0.
 - Função NFC: Bluetooth® sincronize seus dispositivos com apenas tocá-los.
 - Jogando micro capacidade SD/SDHC até 64GB cartões.
-- Leitor de cartão com função USB-OTG.
 - Frequência: banda ISM de 2.4GHz.
 - Resposta de frequência: 5 Hz ~ 25 KHz.
 - Compatível com a versão Bluetooth: V 1.0. / V1.1. / V1.2 / V2.0 / V2.1 e poseriores.
