@@ -7,7 +7,6 @@
 - Wireless connectivity: Bluetooth® and NFC.
 - Multi Driver technology with 8 speakers for an amazing surround sound.
 - Play all your MP3 files directly from MicroSD/SDHC cards up to 32 GB.
-- Card reader with USB-OTG function.
 - Easy to sync with tablets, smartphones, laptops, MAC, PC and other Bluetooth® devices.
 - Control all its functions directly from the headphones.
 - Syncing without codes.
