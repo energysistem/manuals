@@ -6,7 +6,7 @@ Cada vez que insertes una tarjeta microSIM deberás reiniciar el dispositivo par
 
 Para apagar el dispositivo mantén pulsado el botón de encendido / apagado (8) hasta que aparezca el menú de apagado y a continuación escoge la opción “Apagar”.
 
-Una pulsación breve del botón de encendido / apagado (8) bloquea / desbloquea el dispositivo apagando o encendiendo la pantalla, activando a su vez el modo de ahorro de energía.
+Una pulsación breve del botón de encendido / apagado (8) bloquea / desbloquea el dispositivo apagando o encendiendo la pantalla.
 
 # Colocación tarjeta microSIM 2
 
