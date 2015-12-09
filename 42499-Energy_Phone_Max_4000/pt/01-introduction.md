@@ -6,5 +6,5 @@ O seu novo telefone dispõe de um ecrã táctil  de 5" HD IPS (1280x720 píxels)
 
 Antes de começar a utilizar o seu smartphone, aconselhamos ler a presente guia para familiarizar-se com o produto.   Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
 
-## <unique> *Encontrará o manual completo do *Energy Phone Max 4000 no seguinte link http://www.energysistem.com/guide/42499 </unique> </quick_guide>
+## <unique> * Encontrará o manual completo do *Energy Phone Max 4000 no seguinte link http://www.energysistem.com/guide/42499 </unique> </quick_guide>
 
