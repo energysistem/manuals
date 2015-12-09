@@ -7,7 +7,6 @@
 - Connectivité sans fil: Bluetooth® et NFC.
 - Technologie multidriver avec 8 haut-parleurs pour une qualité sonore surround.
 - Lecture des fichiers MP3 à partir de cartes microSD/SDHC avec une capacité jusqu'à 64 Go.
-- Lecteur de cartes avec fonction USB OTG.
 - Synchronisation facile avec tablettes, smartphones, ordinateurs portables, MAC, PC et tout autre appareil Bluetooth®.
 - Contrôle totale des fonctions à partir du casque. - - Synchronisation sans codes.
 - Connexion à des appareils audio avec un câble jack 3,5 mm (inclus).
@@ -25,7 +24,6 @@
 - Version 4.0.
 - Fonction NFC: synchronisez vos appareils Bluetooth® avec une seule touche.
 - Lecture cartes micro SD/SDHC jusqu'à 64 Go.
-- Lecteur cartes avec la fonction USB OTG.
 - Fréquence: 2,4 GHz bande ISM.
 - Réponse en fréquence: 5 Hz ~ 25 kHz.
 - Compatible avec la version Bluetooth®: V 1.0. / V1.1. / V1.2 / V2.0 / V2.1 et postérieures.
