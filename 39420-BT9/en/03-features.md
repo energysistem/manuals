@@ -23,7 +23,6 @@
 - V4.0
 - NFC function: pair your Bluetooth® devices with a single touch.
 - Compatible with MicroSD/SDHC cards up to 32 GB.
-- Card reader with USB-OTG function.
 - Frequency: 2.4GHz ISM band.
 - Frequency response: 5 Hz~25 KHz.
 - Compatible with the following Bluetooth® versions: V 1.0. / V1.1. / V1.2 / V2.0 / V2.1 and newer versions.
