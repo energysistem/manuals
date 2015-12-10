@@ -5,21 +5,22 @@
 
 1.	Appareil photo arrière
 2.	Flash arrière
-3.	Entrée USB
+3.	Sortie pour les écouteurs
 4.	Capteurs de luminosité et de proximité
 5.	Récepteur
-6.	LED de notifications
-7.	Appareil photo frontal
-8.	Touche volume
-9.	Touche allumer / éteindre
-10.	Boutons tactiles: Applications récentes, Démarrage, Retour
-11.	Sortie pour les écouteurs
-12.	Microphone
+6.	Appareil photo frontal
+7.	Bouton de volume
+8.	Bouton de démarrage/éteint
+9.	Fente pour extraction de la coque arrière
+10.	Microphone
+11.	Boutons tactiles : Applications récentes, Démarrage, Retour
+12.	Entrée USB
 13.	Haut-parleur
-14.	Couvercle protecteur microSD et microSIM
-15.	Entrée cartè microSD
-16.	Entrée cartè microSIM 2
-17.	Entrée cartè microSIM 1
+14.	Entrée cartes microSIM 1
+15.	Entrée cartes microSD
+16.	Entrée cartes microSIM 2
+17.	Numéro de série et IMEI
+
 
 
 </quick_guide>
