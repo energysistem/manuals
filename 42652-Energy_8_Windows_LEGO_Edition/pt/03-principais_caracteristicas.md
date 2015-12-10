@@ -1,6 +1,6 @@
 ## Principais características
 
-* Tela TFT de 10.1" 16:9(1280x800 píxeis).
+* Tela IPS de 8" 16:9 (1280x800 píxeis).
 * Tela capacitiva multi-táctil.
 * Processador quad core ARM Cortex A7 1.3GHz com Mali-400 incluido.
 * 1GB DDR3 RAM.
