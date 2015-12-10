@@ -9,7 +9,7 @@ In order to turn off the device, hold the power button (8) until you see the pow
 Briefly press the power button (8) to lock/unlock the device thus, turning the screen on/off.
 
 
-#### Placement microSIM 2
+### Placement microSIM 2
 
 16a. Slide upwards the lock tab (following the OPEN arrow) until you hear a “click” to unlock it.
 16b. Lift up the tab from the bottom.

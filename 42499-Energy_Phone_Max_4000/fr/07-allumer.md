@@ -10,7 +10,7 @@ Pour éteindre l'appareil, appuyez sur la touche allumer / éteindre (8) jusqu'�
 Une pulsation brève de la touche allumer / éteindre (8) bloquer / débloquer l'appareil, allumer et éteindre l'écran.
 
 
-#### Placement microSIM 2
+### Placement microSIM 2
 
 16a. Glissez l'onglet de verrouillage vers le haut (en suivant la flèche OPEN) jusqu'à ce que vous entendez le « click » pour débloquer.
 16b. Soulevez la languette du bas.

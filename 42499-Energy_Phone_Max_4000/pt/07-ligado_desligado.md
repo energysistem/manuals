@@ -8,7 +8,7 @@ Para desligar o dispositivo mantenha premido o botão de ligar / desligar (8) at
 
 Um breve toque no botão de ligar / desligar (8) bloqueia / desbloqueia o dispositivo ao mesmo tempo que liga ou desliga o ecrã.
 
-#### Colocar o cartão microSIM 2
+### Colocar o cartão microSIM 2
 
 16a. Deslize o suporte do cartão microSIM para cima (na direcção indicada pela seta OPEN) até ouvir o clique (desbloqueio).
 16b. Levante o suporte pela parte inferior.
