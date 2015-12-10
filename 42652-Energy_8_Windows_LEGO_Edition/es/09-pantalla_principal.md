@@ -14,5 +14,6 @@ en la web, en la Tienda Windows y en las aplicaciones que lo permitan.
 8. **Galería**: acceso a la galería de imágenes
 9. **Microsoft Edge**: navegador web
 10. **Cortana**: controla mediante tu voz el sistema Windows
-11. **LEGO App**: acceso a todos los contenidos exclusivos LEGO
+11. **Skype**: llamadas, videoconferencias...
+12. **LEGO App**: acceso a todos los contenidos exclusivos LEGO
 
