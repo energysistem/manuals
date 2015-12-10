@@ -1,7 +1,7 @@
 <quick_guide>
 ## Contenu du produit
 
-* Energy Phone Max 4G 5000.
+* Energy Phone Max 4000.
 * Guide Rapide.
 * Protecteur d'écran.
 * Câble USB de charge rapide.
