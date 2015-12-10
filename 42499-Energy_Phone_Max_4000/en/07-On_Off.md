@@ -13,7 +13,7 @@ Briefly press the power button (8) to lock/unlock the device thus, turning the s
 
 16a. Slide upwards the lock tab (following the OPEN arrow) until you hear a “click” to unlock it.
 16b. Lift up the tab from the bottom.
-16c. Place the SIM as shown in the drawing.
+16c. Place the microSIM as shown in the drawing.
 16d. Lower the tab.
 16e. Slide down the lock tab (following the LOCK arrow) until you hear the “click” to lock it.
 

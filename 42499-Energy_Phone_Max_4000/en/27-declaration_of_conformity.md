@@ -1,7 +1,7 @@
  <quick_guide>
-##Declaration of conformity
+## Declaration of conformity
 
-![Imagen1](http://static.energysistem.com/images/manuals/39976/5499406586b11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42499/565ffb700c41b.jpg)
 
 Manufacturer Name:
 Energy Sistem Technology, S.A.
@@ -10,7 +10,7 @@ Address: C/ Calpe, 1.
 Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
-We declare under our own exclusive responsibility that the product **Energy Sistem™ Energy Phone Max 4000**
+We declare under our own exclusive responsibility that the product **Energy Sistem#trade# Energy Phone Max 4000**
 
 Manufacturing country: China
 
