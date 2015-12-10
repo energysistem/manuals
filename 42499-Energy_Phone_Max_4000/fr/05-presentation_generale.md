@@ -1,7 +1,7 @@
 <quick_guide>
 ## Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42509/55f2a6146e151.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42499/566949a653254.jpg)
 
 1.	Appareil photo arrière
 2.	Flash arrière
