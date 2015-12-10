@@ -3,18 +3,16 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42245/5491b9bb5cef4.jpg)
 
 
-1. **Usuario**: muestra la sesión de usuario activa y permite cerrarla e iniciar una nueva sesión
+1. **Aplicaciones en ejecución**: muestra las aplicaciones que se están ejecutando
 2. **Búsqueda**: permite realizar búsquedas en la tablet,
 en la web, en la Tienda Windows y en las aplicaciones que lo permitan.
-3. **Escritorio**: accede al modo tradicional del escritorio Windows#trade#
-4. **Email**: correo electrónico
-5. **Equipo**: acceso a las unidades de almacenamiento del sistema
-6. **Configuración**: ajustes del equipo
-7. **Store**: Tienda de aplicaciones de Windows#trade#
-8. **Office 365**: Microsoft Word, Excel, Outlook...
-9. **OneDrive**: almacenamiento en la nube
-10. **Cámara**: acceso a las cámaras de fotos integradas
-11. **Galería**: acceso a la galería de imágenes
-12. **Internet explorer**: navegador web
-13. **Contactos**: libreta de direcciones universal
-14. **Skype**: realiza videoconferencias, llamadas...
+3. **Email**: correo electrónico
+4. **Menú Aplicaciones**: acceso a las aplicaciones instaladas
+5. **Store**: Tienda de aplicaciones de Windows#trade#
+6. **Contactos**: acceso a la libreta de direcciones
+7. **Calendario**: acceso al calendario
+8. **Galería**: acceso a la galería de imágenes
+9. **Microsoft Edge**: navegador web
+10. **Cortana**: controla mediante tu voz el sistema Windows
+11. **Groove Music**: acceso a la aplicacion musical
+
