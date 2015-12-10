@@ -16,7 +16,7 @@
 11.	Touch buttons: Recent Apps, Home, Back
 12.	USB Input
 13.	Speaker
-14.	MicroSIM card slot 2
+14.	MicroSIM card slot 1
 15.	MicroSD card slot
 16.	MicroSIM card slot 2
 17.	IMEI and serial numbers
