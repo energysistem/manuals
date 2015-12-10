@@ -5,22 +5,21 @@
 
 1.	Rear camera
 2.	Rear flash
-3.	USB input
+3.	Earphones output
 4.	Proximity and luminosity sensors
 5.	Receiver
-6.	Notifications LED
-7.	Front camera
-8.	Volume button
-9.	Power button
-10.	Touch buttons: Recent Apps, Home, Back
-11.	Earphones output
-12.	Microphone
+6.	Front camera
+7.	Volume button
+8.	Power button
+9.	Back case extraction slot
+10.	Microphone 
+11.	Touch buttons: Recent Apps, Home, Back
+12.	USB Input
 13.	Speaker
-14.	MicroSD and microSIM protective lid
+14.	MicroSIM card slot 2
 15.	MicroSD card slot
 16.	MicroSIM card slot 2
-17.	MicroSIM card slot 1
-
+17.	IMEI and serial numbers
 
 </quick_guide>
 
