@@ -1,6 +1,6 @@
 <quick_guide>
 ## Présentation générale
-![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39903/54e4747e32635.jpg)
+![IMAGEN GENERAL DEL PRODUCTO](http://static.energysistem.com/images/manuals/39922/56695121b116a.jpg)
 
 1. Appareil photo arrière
 2. Appareil photo frontal
