@@ -21,7 +21,7 @@
 - Audio Jack 3,5 mm con estandar CTIA
 - Capacidad de batería: 1.800 mAh
 - Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
-- Autonomía: hasta XXX horas en standby y 8 horas de conversación
+- Autonomía: hasta 120 horas en standby y 8 horas de conversación
 - Altavoz frontal integrado
 - LED de notificaciones
 - Sensor de movimiento (acelerómetro)
