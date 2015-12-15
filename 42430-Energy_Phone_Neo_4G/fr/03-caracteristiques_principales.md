@@ -1,26 +1,33 @@
 ## Caractéristiques principales
 
-*	Smartphone avec système Android™ 5.1 optimisée.
-*	Écran tactile IPS de 5.0" (HD - 1280x720 pixels).
-*	Processeur Quad Core ARM Cortex A53 1.0 GHz et GPU Mali T720MP1.
-*	Connexion super rapide 4G/LTE categorie 4.
-* Connexion Wi-Fi 802.11 b/g/n.
-*	Fonction GPS.
-*	Bluetooth 4.0.
-*	Double entrée de cartes microSIM.
+*	Écran tactile de 4.5"
+*	Technologie IPS
+*	Résolution qHD (960x540 pixels)
+*	Processeur Quad Core Qualcomm® Snapdragon(TM) 210 - MSM8909 ARM Cortex A7 1.1 GHz
+*	GPU Adreno 304 intégré
+*	Android#trade# 5.1 Lollipop
+*	Appareil photo arrière de 5 Mpx avec autofocus et flash LED.
+*	Appareil photo de 2 Mpx
 *	1 Go RAM DDR3.
-*	16 Go de mémoire interne.
-*	Mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
-*	Appareil photo frontal intégré de 5 Mpx FOV 84,3º.
-*	Appareil photo arrière intégré de 8 Mpx avec autofocus et flash LED.
-*	Haut-parleur intégré.
-*	Microphone omnidirectionnel intégré.
+*	8 Go de mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
+*	4G: 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
+*	3G: 900/2100 MHz (BANDES WCDMA VIII / I )
+*	2G: 850/900/1800/1900 MHz (BANDES GSM)
+*	Bluetooth® 4.0.
+*	WI-FI 802.11 b/g/n
+*	A-GPS
+*	Dual microSIM
+*	Connecteur microUSB 2.0
+*	Audio Jack 3,5 mm avec norme CTIA
+*	Capacité de la batterie: 1.800 mAh
+*	Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
+*	Autonomie: jusqu'à 120 heures en mode veille et 8 heures de conversation.
+*	Haut-parleur frontal intégré.
+*	LED de notifications
 *	Capteur de mouvement (accéléromètre).
-*	Écran avec réglage automatique de luminosité.
 *	Capteur de proximité.
-*	Applications installées: navigateur d'Internet, gestionnaire de courrier électronique, applications pour jouer de la musique / des vidéos / des photos, radio FM, alarme et calculatrice.
-*	Permet l'installation des milliers d'applications et des jeux disponibles pour le système d'exploitation Android™ .
-*	Fréquence d'opération: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + FDD-LTE 800/1800/2600 MHz.
-*	Capacité de la batterie: 2.500mAh.
-*	Autonomie: jusqu'à 265 heures en mode veille et 15 heures de conversation.
-*	Mesure SAR: 0,372 (W/Kg) en tête et 0,652 (W/Kg) en corps (à 10 mm de portée).
+*	Capteur de luminosité.
+*	Deux microphones omnidirectionnels intégrés à réduction de bruit
+*	Radio FM de 87.5 a 108 MHz avec pré-fréquences
+*	Mesure SAR : 0,601 (W/Kg) en tête et 0,716 (W/Kg) en corps (à 10 mm de portée).
+
