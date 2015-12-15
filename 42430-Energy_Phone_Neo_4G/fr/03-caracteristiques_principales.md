@@ -10,16 +10,16 @@
 *	Appareil photo de 2 Mpx
 *	1 Go RAM DDR3.
 *	8 Go de mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
-*	4G: 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
-*	3G: 900/2100 MHz (BANDES WCDMA VIII / I )
-*	2G: 850/900/1800/1900 MHz (BANDES GSM)
+*	4G : 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
+*	3G : 900/2100 MHz (BANDES WCDMA VIII / I )
+*	2G : 850/900/1800/1900 MHz (BANDES GSM)
 *	Bluetooth® 4.0.
 *	WI-FI 802.11 b/g/n
 *	A-GPS
 *	Dual microSIM
 *	Connecteur microUSB 2.0
 *	Audio Jack 3,5 mm avec norme CTIA
-*	Capacité de la batterie: 1.800 mAh
+*	Capacité de la batterie : 1.800 mAh
 *	Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
 *	Autonomie: jusqu'à 120 heures en mode veille et 8 heures de conversation.
 *	Haut-parleur frontal intégré.
