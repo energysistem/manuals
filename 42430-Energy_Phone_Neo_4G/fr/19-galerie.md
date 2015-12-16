@@ -5,8 +5,7 @@ Vous pouvez visualiser vos photos et vidéos stockées dans la mémoire interne 
 ![Imagen1](http://static.energysistem.com/images/manuals/42430/565c2200a77db.jpg)  <br> <br>
 
 1.	Options d'organisation.
-2.	Raccourci à l'appareil photo.
-3.	Options.
+2.	Options.
 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42430/565c2204e0462.jpg)
@@ -16,10 +15,10 @@ Pour retourner au bureau principal, appuyez sur l'icône de retour ou Menu déma
 
 1.	Retourner sur la liste des images.
 2.	Partager.
-3.	Préférences partage.
-4.	Options.
-5.	Image.
-6.	Mode édition.
+3.	Options.
+4.	Image.
+5.	Mode édition.
+
 
 
 
