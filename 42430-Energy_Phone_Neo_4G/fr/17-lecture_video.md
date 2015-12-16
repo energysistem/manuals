@@ -5,13 +5,15 @@
 1.	Retourner sur la liste des vidéos.
 2.	Play / Pause.
 3.	Partager.
-4.	Préférences partage.
-5.	Options.
-6.	Film en cours.
-7.	Durée.
-8.	Plein écran.
-9.	Barre de progression.
-10.	Temps de lecture.
+4.	Options.
+5.	Film en cours.
+6.	Durée.
+7.	Plein écran. 
+8.	Avancer.
+9.	Arrêter.
+10.	Reculer.
+11.	Temps de lecture.
+
 
 
 
