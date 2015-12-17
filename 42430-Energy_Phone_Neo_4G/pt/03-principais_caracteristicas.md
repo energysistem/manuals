@@ -1,27 +1,32 @@
 ## Principais características
 
-*	Smartphone livre com sistema Android#trade# 5.1 optimizado.
-*	Ecrã táctil de 5" IPS HD (1280x720 píxeis).
-*	Processador Quad Core ARM Cortex A53 1.0 GHz e GPU Mali T720MP1.
-*	Ligação à internet 4G/LTE categoria 4 ultra-rápida
-*	Ligação Wi-Fi 802.11 b/g/n.
-*	Função GPS.
-*	Bluetooth 4.0.
-*	Dois slots para cartões MicroSIM.
-*	Memória RAM 1 GB DDR3.
-*	Memória interna: 16 GB.
-*	Memória ampliável através de cartões microSD-HC/XC (até 128 GB).
-*	Câmara frontal integrada de 5 Mpx com ângulo de visão (FOV) de 84,3º.
-*	Câmara traseira integrada de 8 Mpx com auto-focus e flash de LED.
-*	Altifalante integrado.
-*	Microfone omnidireccional integrado.
-*	Sensor de movimento (acelerómetro).
-*	Ecrã com ajuste automático de brilho.
-*	Sensor de proximidade.
-*	Aplicações instaladas: navegador, aplicação de e-mail, aplicações para reproduzir músicas / vídeos / fotos, rádio FM, alarme e calculadora.
-*	Permite instalar milhares de aplicações e jogos disponíveis para o sistema operativo Android#trade#.
-*	Frequências de funcionamento: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz + LTE FDD 800/1800/2600 MHz.
-*	Capacidade da bateria: 2500 mAh.
-*	Autonomia em standby até 265 horas e até 15 horas em conversação.
-*	Valores de exposição SAR: 0,372 (W/Kg) ao nível de cabeça e 0,652 (W/Kg) ao nível de corpo (a uma distância de 10 mm).
-
+* Ecrã táctil de 4.5"
+*	Tecnologia IPS
+*	Resolução HD (960x540 pixels)
+*	Procesador Qualcomm® Snapdragon(TM) 210 - MSM8909 de quatro núcleos ARM Cortex A7 de 1.1 GHz
+*	GPU Adreno 304 incorporado
+*	Android#trade# 5.1 Lollipop
+*	Câmara traseira de 5 MP com auto foco e flash LED
+*	Câmara frontal de 2 MP
+*	1 GB de RAM DDR3
+*	8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais).
+*	4G: 800/1800/2600 MHz (FDD-LTE: BANDAS XX / III / VII)
+*	3G:  900/2100 MHz (BANDAS WCDMA VIII / I)
+*	2G: 850/900/1800/1900 MHz (BANDAS GSM)
+*	Bluetooth® 4.0
+*	WI-FI 802.11 b/g/n
+*	A-GPS
+*	Dual Micro SIM
+*	Porta microUSB 2.0
+*	Áudio Jack de 3,5 milímetros com padrão CTIA
+*	Capacidade da bateria: 1800 mAh
+*	Adaptador de corrente AC/DC (Europlug) Entrada: 100-240 VAC 50-60 Hz. Saída: 5V 1A
+*	Autonomia: até 120 horas em standby e até 8 horas de conversa.
+*	Altifalante frontal incorporado
+*	LED de notificações
+*	Sensor de movimento (acelerómetro)
+*	Sensor de proximidade
+*	Sensor de luminosidade
+*	Dois microfones omnidirecionais incorporados com cancelamento de ruído
+*	Rádio FM de 87.5 até 108 MHz com estações prédefinidas
+*	Valores de exposição SAR: 0,601 (W/Kg) ao nível de cabeça e 0,716 (W/Kg) ao nível de corpo (a uma distância de 10 mm)
