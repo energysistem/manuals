@@ -8,5 +8,5 @@ Your new tablet has a 7" (1024x600 pixels) capacitive multi-touch display, a Qua
 Before you start using your tablet we recommend you to read this manual and familiarize yourself with it.  It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
 
-## <unique> Find the whole *Energy Tablet 7" Neo 3 Lite * user manual on the following link   http://www.energysistem.com/en/guide/42545. </unique> 
+## <unique> Find the whole *Energy Tablet 7" Neo 3 Lite* user manual on the following link   http://www.energysistem.com/en/guide/42545. </unique> 
 </quick_guide>
