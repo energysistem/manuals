@@ -7,7 +7,7 @@
 3. Duração.
 4. Reprodução aleatória.
 5. Canção seguinte.
-6. Reproduzir / parar.
+6. Reproduzir / Parar.
 7. Canção anterior.
 8. Repetir.
 9. Tempo decorrido.
