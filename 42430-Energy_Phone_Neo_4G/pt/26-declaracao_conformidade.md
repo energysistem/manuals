@@ -6,7 +6,7 @@ Nome do fabricante:
 Energy Sistem Technology, S.A.
 Morada: Rua Calpe, 1
 03509 Finestrat Alicante (Espanha).
-Tel: 902 388 388 // Fax:902 119 034
+Tel: 902 388 388 // Fax: 902 119 034
 NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto: **Energy Sistem#trade# Energy Phone Neo 4G**
