@@ -1,5 +1,4 @@
-<quick_guide>
-## Aplicação da garantia
+## <quick_guide> Aplicação da garantia
 
 Visite http://www.energysistem.com/pt/support e seleccione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as actualizações disponíveis. Também tem a possibilidade de contactar o apoio técnico ou solicitar a garantia.
 
