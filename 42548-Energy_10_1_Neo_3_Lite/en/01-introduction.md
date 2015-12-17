@@ -1,9 +1,11 @@
-## <quick_guide> Introduction
+<quick_guide>
 
-* Energy Sistem#trade# thanks you for buying your new Energy Tablet 9" Neo 2. We hope you enjoy it!.
-* This device belongs to the Energy Tablet Neo family:  a new generation of communication devices based on Android#trade# operating system, with which you can access the Internet and communicate anytime, anywhere, check your e-mails and play any multimedia content (video, music, photos, eBooks, etc.).
-In addition, there are thousands of applications and games available so you can get the most out of your device.
-The device has a 9" (1024x600 pixels) capacitive multi-touch display, Quad Core ARM Cortex A7 1.3GHz processor, Bluetooth 4.0, WiFi, rear and front cameras and expandable memory via microSD.
-* We recommend you to read this manual to enjoy your device in a safe way and with maximum performance.
+## Introduction
 
-## <unique> Find the whole *Energy Tablet 9" Neo 2* user manual on the following link   http://www.energysistem.com/en/guide/422328. </unique> </quick_guide>
+Merci de votre confiance et de l'achat de votre nouvelle Energy Tablet 10.1" Neo 3 Lite. Profitez de l'appareil.
+Votre nouvelle tablette inclut un écran multi-tactile capacitif de 10.1" (1024x600 píxeles), processeur Quad Core ARM Cortex A7 1.3GHz, Bluetooth 4.0, Wi-Fi, appareil photo frontal VGA et appareil photo arrière de 2 Mpx avec flash.
+
+Avant de commencer à profiter de votre tablette, nous vous conseillons de lire ce manuel pour vous familiariser avec elle. Il ne vous prendra que quelques minutes et vous aidera à tirer le meilleur parti de toutes ses caractéristiques.
+
+
+## <unique> Find the whole *Energy Tablet 10.1" Neo 3* user manual on the following link   http://www.energysistem.com/en/guide/42548. </unique> </quick_guide>
