@@ -1,4 +1,4 @@
-### Reprodução de vídeo
+### Leitura de vídeo
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42430/565c225dc5c24.jpg)
 
