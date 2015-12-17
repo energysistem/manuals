@@ -1,6 +1,6 @@
 ### Gestão de e-mail
 
-Aviso: Para conhecer os parâmetros de configuração da sua conta consulte o seu provedor de e-mail.
+**Importante:** Para conhecer os parâmetros de configuração da sua conta consulte o seu provedor de e-mail.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42430/565c220c33019.jpg)
 
