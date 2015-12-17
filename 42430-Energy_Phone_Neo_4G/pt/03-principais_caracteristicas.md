@@ -16,7 +16,7 @@
 *	Bluetooth® 4.0
 *	WI-FI 802.11 b/g/n
 *	A-GPS
-*	Dual Micro SIM
+*	Dual microSIM
 *	Porta microUSB 2.0
 *	Áudio Jack de 3,5 milímetros com padrão CTIA
 *	Capacidade da bateria: 1800 mAh
