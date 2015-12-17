@@ -10,4 +10,4 @@ Avant de commencer à profiter de votre tablette, nous vous conseillons de lire 
 
 
 
-## <unique> Consultez le manuel entier de votre *Energy Tablet Neo 10.1" Neo 3* sur ce lien http://www.energysistem.com/fr/guide/42238 </unique> </quick_guide>
+## <unique> Consultez le manuel entier de votre *Energy Tablet Neo 10.1" Neo 3* sur ce lien http://www.energysistem.com/fr/guide/42547 </unique> </quick_guide>
