@@ -15,7 +15,7 @@ Les spécifications sont sujettes à changement sans préavis.
 
 Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
-© 2015 par Energy Sistem Technology, S.A. Tous droits réservés.
+© 2016 par Energy Sistem Technology, S.A. Tous droits réservés.
 
 **Avis:** Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d'autrui à Energy Sistem Technology, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude. Ces sites externes peuvent contenir ou faire référence à des marques, des brevets, des informations confidentielles, technologies, produits, processus ou autres droits de propriété appartenant à autrui. Tous les droits réservés sont la propriété de leurs propriétaires respectifs.
 </quick_guide>
