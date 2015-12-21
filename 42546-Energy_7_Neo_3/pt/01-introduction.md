@@ -1,4 +1,4 @@
-·<quick_guide> 
+<quick_guide> 
 ## Introdução
 
 Agradecemos a sua confiança assim como a aquisição do seu novo Energy Tablet 7" Neo 3. Esperamos que desfrute do produto.
