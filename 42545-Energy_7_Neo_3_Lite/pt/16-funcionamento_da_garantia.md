@@ -1,18 +1,16 @@
-## <quick_guide>Funcionamento da garantia
+<quick_guide>
+## Aplicação da garantia
+Visite http://support.energysistem.com/support e seleccione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as actualizações disponíveis. Também tem a possibilidade de consultar o apoio técnico ou solicitar a garantia. 
 
-Visite a seção de Suporte em http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (Perguntas freqüentes), manuais, drivers e atualizações disponíveis, assim como a possibilidade de realizar uma consulta ao serviço técnico ou solicitar a garantia.
-1. Você pode verificar a disponibilidade do manual do usuário no seu idioma em
-http://www.energysistem.com/pt/guide/42238
-2. Alternativamente, você pode preferir entrar em contato com o distribuidor aonde foi adquirido o produto, apresentando o recibo de compra ou fatura.
-Importante: Esta garantia não cobre qualquer dano ou perda de quaisquer dados armazenados na memória do produto, o Serviço Técnico de Energy Sistem não assumirá qualquer perda das informações citadas. Pelo que é recomendável remover quaisquer dados ou informações pessoais da memória interna antes de enviar o produto, ou enviar apenas com o conteúdo original de fábrica.
+Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou factura.
 
+**Importante**: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Serviço Técnico de Energy Sistem não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou apenas com o conteúdo original de fábrica.
 As especificações estão sujeitas a alterações sem aviso prévio.
 
-## Marcas registradas
+## Marcas registadas
+Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
+© 2015 Energy Sistem Technology, S.A. Todos os direitos reservados.
 
-Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
-©2015 por Energy Sistem®. Todos os direitos reservados.
-NOTA: O presente dispositivo pode conter conexões a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Soyntec S.A. Estas conexões são facilitadas para a sua informação ou comodidade; Energy Sistem Soyntec S.A. não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude.
-Ditas páginas externas podem conter ou fazer referência a marcas, patentes, informação registrada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são de propriedade dos seus respectivos donos.
+IMPORTANTE: O presente dispositivo pode conter links a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Technology, S.A. Estes links são facilitados para a sua informação ou comodidade; Energy Sistem não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude. As páginas externas referidas podem conter ou fazer referência a marcas, patentes, informação registada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são propriedade dos respectivos proprietários.
 
 </quick_guide>
