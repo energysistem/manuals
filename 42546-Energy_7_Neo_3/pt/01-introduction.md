@@ -1,10 +1,12 @@
-## <quick_guide> Introdução
+·<quick_guide> 
+## Introdução
 
-* Energy Sistem#trade# lhe agradece a compra do seu Energy Tablet 9" Neo 2. Esperamos que desfrute deste aparelho.
-* Este dispositivo pertence a família  Energy Tablet Neo: uma nova geração de dispositivos baseada no sistema operativo Android#trade#, com o qual poderá aceder à Internet em qualquer momento e lugar, consultar o seu correio electrónico e reproduzir todo tipo de conteúdo multimédia (vídeos em alta definição até 1080p, músicas, fotografias, eBooks, etc.). Ademais, tem disponíveis milhares de aplicações e jogos para que possa tirar o máximo proveito do dispositivo.
-O sistema dispõe de uma tela multi-táctil capacitiva de 9" (1024x600 píxeis), processador ARM Cortex A7 Quad Core 1.3GHz, Bluetooth 4.0, WiFi, câmaras frontal e traseira, e memória expansível com cartões microSD.
+Agradecemos a sua confiança assim como a aquisição do seu novo Energy Tablet 7" Neo 3. Esperamos que desfrute do produto.
 
-* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
+O seu novo tablet dispõe de um ecrã multitáctil capacitivo de 7" IPS (1024x600 pixels), processador Quad Core ARM Cortex A7 de 1.3 GHz, Bluetooth 4.0, Wi-Fi, GPS, câmara frontal de 2 MP e câmara traseira de 5 MP com flash.
 
-## <unique> * Encontre o manual completo da sua Energy Tablet Neo 9 no seguinte link http://www.energysistem.com/pt/guide/42238. </unique> </quick_guide>
+Antes de começar a desfrutar do seu tablet, aconselhamos ler a presente guia para familiarizar-se com o produto.   Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
+
+## <unique> * Pode ver o manual do utilizador completo do Energy Tablet 7" Neo 3* no seguinte link  http://www.energysistem.com/pt/guide/42546 </unique> </quick_guide>
+
 
