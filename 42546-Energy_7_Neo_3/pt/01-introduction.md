@@ -7,6 +7,6 @@ O seu novo tablet dispõe de um ecrã multitáctil capacitivo de 7" IPS (1024x60
 
 Antes de começar a desfrutar do seu tablet, aconselhamos ler a presente guia para familiarizar-se com o produto.   Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
 
-## <unique> * Pode ver o manual do utilizador completo do Energy Tablet 7" Neo 3* no seguinte link  http://www.energysistem.com/pt/guide/42546 </unique> </quick_guide>
-
+## <unique> * Pode ver o manual do utilizador completo do *Energy Tablet 7" Neo 3* no seguinte link  http://www.energysistem.com/pt/guide/42546 
+</unique> </quick_guide>
 
