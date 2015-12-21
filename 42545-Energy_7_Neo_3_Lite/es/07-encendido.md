@@ -5,6 +5,5 @@ Para encender tu Energy Tablet, pulsa el botón de encendido / apagado (4) duran
 Para apagar el dispositivo mantén pulsado el botón de encendido / apagado (4) hasta que aparezca el menú de
 apagado, a continuación escoge la opción Apagar.
 
-Una pulsación breve del botón de encendido / apagado (4) bloquea / desbloquea el dispositivo apagando o
-encendiendo la pantalla y activando a su vez el modo de ahorro de energía.
+Una pulsación breve del botón de encendido / apagado (4) bloquea / desbloquea el dispositivo apagando o encendiendo la pantalla y activando a su vez el modo de ahorro de energía.
 </quick_guide>
