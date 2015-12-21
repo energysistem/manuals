@@ -3,7 +3,7 @@
 *	Écran tactile de 4.5"
 *	Technologie IPS
 *	Résolution qHD (960x540 pixels)
-*	Processeur Quad Core Qualcomm® Snapdragon(TM) 210 - MSM8909 ARM Cortex A7 1.1 GHz
+*	Processeur Quad Core Qualcomm® Snapdragon#trade# 210 - MSM8909 ARM Cortex A7 1.1 GHz
 *	GPU Adreno 304 intégré
 *	Android#trade# 5.1 Lollipop
 *	Appareil photo arrière de 5 Mpx avec autofocus et flash LED.
@@ -11,7 +11,7 @@
 *	1 Go RAM DDR3.
 *	8 Go de mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
 *	4G : 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
-*	3G : 900/2100 MHz (BANDES WCDMA VIII / I )
+*	3G : 900/2100 MHz (BANDES WCDMA VIII / I)
 *	2G : 850/900/1800/1900 MHz (BANDES GSM)
 *	Bluetooth® 4.0.
 *	WI-FI 802.11 b/g/n

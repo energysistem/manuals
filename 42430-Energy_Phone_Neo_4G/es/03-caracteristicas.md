@@ -3,7 +3,7 @@
 - Pantalla táctil de 4.5"
 - Tecnología IPS
 - Resolución qHD (960x540 píxeles)
-- Procesador Qualcomm® Snapdragon™ 210 - MSM8909 de cuatro núcleos ARM Cortex A7 1.1GHz
+- Procesador Qualcomm® Snapdragon#trade# 210 - MSM8909 de cuatro núcleos ARM Cortex A7 1.1GHz
 - GPU Adreno 304 integrada.
 - Android#trade# 5.1 Lollipop
 - Cámara trasera 5 Mpx con autofocus y flash LED

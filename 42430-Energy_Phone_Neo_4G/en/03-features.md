@@ -2,7 +2,7 @@
 *	4.5" Touchscreen
 *	IPS technology
 *	qHD Resolution (960x540 pixel)
-*	Quad Core Qualcomm® Snapdragon(TM) 210 - MSM8909 ARM Cortex A7 1.1GHz processor
+*	Quad Core Qualcomm® Snapdragon#trade# 210 - MSM8909 ARM Cortex A7 1.1GHz processor
 *	Integrated Adreno 304 GPU
 *	Android#trade# 5.1 Lollipop
 *	5 Mpx rear camera with autofocus and LED flash
@@ -17,17 +17,17 @@
 *	A-GPS
 *	Dual microSIM
 *	MicroUSB 2.0 connection
-*	Audio Jack 3,5 mm with CTIA standard 
+*	Audio Jack 3,5 mm with CTIA standard
 *	Battery capacity: 1.800 mAh
 *	AC/DC (Europlug) power adapter Input: 100-240VAC 50-60Hz. Output: 5V 1A
-*	Battery life: up to 120 hours on standby and 8 hours talk time.
-*	Integrated front speaker.
+*	Battery life: up to 120 hours on standby and 8 hours talk time
+*	Integrated front speaker
 *	Notifications LED
 *	Motion sensor (accelerometer)
-*	Proximity sensor.
-*	Proximity sensor.
-*	Two integrated omnidirectional microphones with noise cancelling.
+*	Proximity sensor
+*	Luminosity sensor
+*	Two integrated omnidirectional microphones with noise cancelling
 *	87.5 to 108 MHz FM radio with presets
-*	SAR rating: 0,601 (W/Kg) at the head and 0,716 (W/Kg) at the body (10 mm distance).
+*	SAR rating: 0,601 (W/Kg) at the head and 0,716 (W/Kg) at the body (10 mm distance)
 
 

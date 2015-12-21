@@ -10,7 +10,7 @@ Make sure that the battery is charged enough to power the device. If after leavi
 Make sure you are not trying to play WMA file with DRM (Digital Rights Management).
 
 4.	Why can't I see my video, image or text files when using the music player?
-Generally, applications only display the files supported by the program. Therefore, while you browse the folders using a specific application, you can only see the files associated to that program (songs in the music player, videos in the movie player, etc). In order to see all the files stored in the internal memory, start the FileXplorer application from the application menu.
+Generally, applications only display the files supported by the program. Therefore, while you browse the folders using a specific application, you can only see the files associated to that program (songs in the music player, videos in the movie player, etc). In order to see all the files stored in the internal memory, start the file explorer application from the application menu.
 
 5.	Which video formats are compatible with my Energy Phone?
 Your Energy Phone can play multiple video formats without recoding, such as MP4, 3GP, MOV and more.
