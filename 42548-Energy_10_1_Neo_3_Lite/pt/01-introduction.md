@@ -7,5 +7,5 @@ O seu novo tablet dispõe de um ecrã multitáctil capacitivo de 10.1" (1024x600
 
 Antes de começar a desfrutar do seu tablet, aconselhamos ler a presente guia para familiarizar-se com o produto. Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
 
-## <unique> * Pode ver o manual do utilizador completo do Energy Tablet 10.1" Neo 3 Lite* no seguinte link: http://www.energysistem.com/guide/42548 </unique> </quick_guide>
+## <unique> * Pode ver o manual do utilizador completo do *Energy Tablet 10.1" Neo 3 Lite* no seguinte link: http://www.energysistem.com/guide/42548 </unique> </quick_guide>
 
