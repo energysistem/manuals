@@ -1,11 +1,11 @@
-## <quick_guide> Alimentação
+## <quick_guide> Carregamento/Primeira utilização
 
-A sua Energy Tablet tem uma bateria recarregável de iões de lítio. que você deve introduzir no dispositivo. Remova a tampa traseira. Introduz a bateria e os cartões SIM. Coloca a tampa traseira de novo. Inicialmente a bateria está carregada desde a fábrica, mas é recomendável que realize uma carga completa antes da primeira utilização.
-Para recarregar a bateria liga o dispositivo na tomada de tomada eléctrica unicamente mediante o adaptador de corrente AC/DC 5V incluído com o produto. O tempo de carregamento oscila entre 2-4 horas, dependendo se o dispositivo está desligado ou em funcionamento. Para manter a bateria em excelentes condições, recomendamos manter o dispositivo desligado durante o carregamento e não deixá-lo carregando por mais de 8 horas.
-Dispõe de várias formas para melhorar o rendimento e optimizar o uso da bateria da sua Energy Tablet:
+O seu Energy Tablet tem uma bateria recarregável de iões de lítio. Inicialmente a bateria já vem pré-carregada, mas é recomendável que realize uma carga completa antes da primeira utilização. Para carregar a bateria ligue o dispositivo na tomada de corrente apenas através do adaptador de corrente AC/DC fornecido com o produto. O tempo de carregamento pode variar entre 2 e 4 horas, dependendo de se o dispositivo está ligado ou desligado. Para manter a bateria em perfeitas condições, recomendamos manter o dispositivo desligado durante o carregamento e não deixá-lo mais de 8 horas a carregar.
 
-Configure o desligado automático da tela depois de uns segundos de inactividade em Configuração> Tela > Modo de espera depois de.
+Dispõe de várias formas de melhorar o desempenho e optimizar o uso da bateria do seu Energy Tablet:
 
-Seleccione um nível ideal de brilho de tela em Configurações> Exibir > Brilho.
+Pode configurar o desligamento automático do ecrã após alguns segundos de inactividade em Definições> Ecrã > Suspensão.
+
+Seleccione um nível de brilho óptimo do ecrã em Definições> Ecrã > Brilho.
 
 </quick_guide>
