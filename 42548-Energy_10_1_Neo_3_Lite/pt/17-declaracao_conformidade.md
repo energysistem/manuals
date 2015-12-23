@@ -12,7 +12,7 @@ NIF: A53107488
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
-**Energy Sistem™ Energy Tablet 10.1" Neo 3 Lite**
+**Energy Sistem#trade# Energy Tablet 10.1" Neo 3 Lite**
 
 País de fabricação: China
 
