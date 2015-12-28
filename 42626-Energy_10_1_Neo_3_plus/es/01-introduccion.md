@@ -7,5 +7,5 @@ Tu nueva tablet dispone de una pantalla IPS multi-táctil capacitiva de 10.1” 
 
 Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo de la *Energy Tablet 10.1" Neo 3+* en el siguiente enlace  http://www.energysistem.com/guide/42626 </unique> </quick_guide>
+## <unique> * También puedes consultar el manual completo de la Energy Tablet 10.1" Neo 3+ en el siguiente enlace http://www.energysistem.com/guide/42626 para aprovechar al máximo todas las posibilidades del dispositivo.
 
