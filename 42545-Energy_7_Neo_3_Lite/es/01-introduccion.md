@@ -7,5 +7,5 @@ Tu nueva tablet dispone de una pantalla multi-táctil capacitiva de 7” (1024x6
 
 Antes de comenzar a disfrutar de tu tablet te aconsejamos leer esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo de la *Energy Tablet 7" Neo 3 Lite* en el siguiente enlace  http://www.energysistem.com/guide/42545 </unique> </quick_guide>
+## <unique> * También puedes consultar el manual completo de la Energy Tablet 7” Neo 3 Lite en el siguiente enlace http://www.energysistem.com/guide/42545 para aprovechar al máximo todas las posibilidades del dispositivo.
 
