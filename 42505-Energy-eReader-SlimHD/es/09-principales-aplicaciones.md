@@ -73,6 +73,7 @@ Pulsando el botón de opciones accederás a las funciones disponibles:
 - Propiedades: Muestra información referente al archivo o carpeta seleccionados, como el nombre, el tamaño, etc.
 
 **Ajustes**
+
 Personaliza tu eReader ajustándolo a tus necesidades:
 
 * Fuente del sistema: Personaliza la fuente de las ventanas y menús del sistema. Puedes elegir entre 7 tipos de letra diferentes.
