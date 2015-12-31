@@ -2,75 +2,86 @@
 
 **Libros**
 
-Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
+Aquí se visualizan todos los libros guardados en la memoria interna y en la tarjeta microSD externa.
 
-Dispones de diferentes opciones de visualización y orden de los libros de tu biblioteca. Accede a ellas mediante el menú de opciones ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). Allí encontraras diferentes opciones:
+Usa las teclas de navegación para desplazarte por las carpetas, pulsa la tecla de selección para entrar dentro de las carpetas o abrir un libro, o pulsa la tecla volver para salir o ir hacia atrás.
 
-- Favoritos: Mostrará únicamente los libros que hayas marcado como Favoritos.
-- Buscar: Mediante esta opción podrás hacer una búsqueda de un título concreto.
-- Ordenar por Título: Se mostrarán los libros ordenados alfabéticamente por su Título.
-- Ordenar por Autor: Se mostrarán los libros ordenados en carpetas correspondientes al Autor.
-- Recién leído: Se mostrarán los últimos libros a los que accedió el usuario.
-- Recientes: Se mostrarán los libros más recientemente transferidos al dispositivo.
-- Ver lista: Se mostrarán los libros en formato de lista.
-- Ver portada: Se mostrarán los libros con la portada en miniatura acompañando al título del mismo.
+Dispones de diferentes opciones de visualización y orden de los libros de tu biblioteca. Accede a ellas pulsando la tecla de opciones ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). En el menú de opciones encontrarás:
 
-
-Si lo prefieres, también es posible hacer una búsqueda de un título concreto introduciendo el nombre requerido tras pulsar el botón ![](http://static.energysistem.com/images/manuals/42169/54bfe09236f6d.jpg).  
+- Búsqueda de archivos: Para buscar tus libros favoritos.
+- Ir a página: Selecciona una página de tu lista de libros.
+- Eliminar archivo: Puedes eliminar tus archivos y carpetas mediante esta opción.
+- Vista de lista / librería: Elige el formato de visualización de tus libros y carpetas. Puedes elegir entre la vista de lista, o la vista de librería, que mostrará las portadas de tus libros.
+- Clasificación: Elige el orden en el que se mostrarán tus libros y carpetas. Puedes ordenar por nombre, por fecha, por tipo de archivo, por autor o por tamaño (Sólo para archivos).
+- Propiedades: Muestra información referente al libro o carpeta seleccionado, como el nombre, el tamaño, etc.
 
 *Funciones avanzadas de lectura*
 
-Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la lectura según tus preferencias y hacerla así más cómoda y eficaz. A continuación se detallan dichas funciones. 
+Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la lectura según tus preferencias y hacerla así más cómoda y divertida. Pulsa el botón de opciones para acceder a estas funciones. 
 
+- Ir a página: Accede directamente a una página concreta del libro que estás leyendo.
+- Buscar: Realiza una búsqueda de texto deltro del libro que estás leyendo.
+- Configuración de la página: Accede a las características de las páginas de texto, como el tamaño de la fuente, la tipografía (Sólo cuando usas el lector FB Reader), interlineado o márgenes. Puedes seleccionar tambien el formato de la editorial por defecto, esconder la barra de progreso de lectura, o guardar los mismos ajustes para todos los libros.
 - Añadir marcador: Mediante esta función, podrás añadir un marcador en la página del libro en la que te encuentres. De este modo, podrás acceder más rápido a esa página posteriormente.
-- Marcadores: Muestra todos los marcadores creados en el libro actual.
+- Contenido y Marcadores: Muestra el índice y todos los marcadores creados en el libro actual.
 - Índice: Accede al índice del libro (si dispone de él).
-- Ir a página: Accede directamente a una página concreta del libro actual.
-- Buscar: Realiza una búsqueda de una o más palabras en el libro actual.
-- Tamaño de letra: Selecciona el tamaño de letra preferido entre los 6 disponibles.
-- Tipo de letra: Selecciona el tipo de letra preferido.
-- Espaciado: Selecciona el espaciado entre líneas preferido.
-- Margen: Selecciona el margen preferido.
 - Rotar pantalla: Rota la pantalla 90º hacia la derecha o hacia la izquierda.
-- Paso automático: Mediante esta función, tu eReader es capaz de pasar la página automáticamente tras el transcurso del tiempo indicado.
-- Refresco de página: Esta función permite seleccionar al usuario si quiere que el dispositivo realice un refresco automático cada página, cada 3 páginas o cada 5 páginas. 
-- Añadir a favoritos: agrega el libro actual a la colección de libros favoritos.
-- Sobre el libro: Muestra información sobre el libro actual (Título, Autor, Editor, Formato).
+- Reproducción automática: Mediante esta función, tu eReader es capaz de pasar la página automáticamente tras el transcurso del tiempo indicado en los ajustes de reproducción automática.
+- Ajustes de reproducción automática: Selecciona el tiempo de lectura antes de pasar a la siguiente página.
+- Información del libro: Muestras información acerca del libro como el autor, el numero de ISBN, el editor, tipo de libro, etc.
 
-Nota: No todos formatos de eBook son capaces de desarrollar todas estas funcionalidades.
+Nota: Puede que algunas de estas funciones no estén disponibles dependiendo del formato del libro.
 
 **Imágenes**
 
-Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
+Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta microSD externa.
 
-Una vez accedes al menú Imágenes, pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg) puedes seleccionar si quieres ver los archivos como una lista o si prefieres ver una representación de las imágenes en miniatura.
+Usa las teclas de navegación para desplazarte por las carpetas, pulsa la tecla de selección para entrar dentro de las carpetas o abrir una imagen, o pulsa la tecla volver para salir o ir hacia atrás.
 
-Situándote dentro de una imagen y pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), aparecerá un desplegable con las siguientes opciones:
+Dispones de diferentes opciones de visualización y orden de tus imágenes. Accede a ellas pulsando la tecla de opciones ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). En el menú de opciones encontrarás:
 
-* Rotar hacia la izquierda o derecha (en intervalos de 90º)
-* Acercar o alejar la imagen 
-* Realizar una presentación con todas las imágenes en la memoria, y en su caso seleccionar el intervalo temporal de paso de imágenes. 
-* Acerca de la imagen: En este punto se muestra información de la imagen (nombre, dimensiones, tipo de archivo).
+- Búsqueda de archivos: Para buscar tus imágenes favoritas.
+- Ir a página: Selecciona una página de tu lista de imágenes.
+- Eliminar archivo: Puedes eliminar tus archivos y carpetas mediante esta opción.
+- Vista de lista / mosaico: Elige el formato de visualización de tus libros y carpetas. Puedes elegir entre la vista de lista, o la vista de mosaico, que mostrará las miniaturas de tus imágenes.
+- Clasificación: Elige el orden en el que se mostrarán tus imágenes y carpetas. Puedes ordenar por nombre, por fecha, por tipo de archivo, etc.
+- Propiedades: Muestra información referente a la imagen o carpeta seleccionada, como el nombre, el tamaño, etc.
+
+*Opciones de imagen*
+
+Cuando estés visualizando las imagenes dispondrás de opciones adicionales que te permitirán interactuar con cada una de ellas. Pulsa el botón de opciones para acceder a estas funciones.
+
+- Ir a página: Selecciona una página de tu lista de imágenes.
+- Mostrar información de imagen / Volver a pantalla completa: Conmuta entre la vista de información de imagen la vista a pantalla completa.
+* Rotación de pantalla: Puedes rotar la pantalla para ver las imágenes usando cualquier orientación. 
+* Añadir al salvapantallas: Añade la imágen a la lista de imágenes de salvapantallas, que se muestran cuando el eReader está en modo de espera. Puedes visualizar la lista de imágenes mostradas en el salvapantallas dentro de Ajustes / Salvapantallas.
+* Acerca de la imagen: En este punto se muestra información de la imagen (nombre, dimensiones, tipo de archivo,etc.).
 
 **Archivos**
 
-Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta micro SD de memoria externa, independientemente de su formato.
+Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta microSD externa, independientemente del tipo de medio a visualizar.
 
-Pulsando ![](http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg), podrás hacer una búsqueda de un archivo concreto mediante la introducción de su nombre, eliminar cualquier archivo o carpeta, o seleccionar si quieres navegar por la memoria interna o por la externa (micro SD).
+Usa las teclas de navegación para desplazarte por las carpetas, pulsa la tecla de selección para entrar dentro de las carpetas o abrir un archivo, o pulsa la tecla volver para salir o ir hacia atrás.
+
+Pulsando el botón de opciones accederás a las funciones disponibles:
+
+- Búsqueda de archivos: Para buscar tus archivos.
+- Ir a página: Selecciona una página de tu lista de archivos.
+- Eliminar archivo: Puedes eliminar tus archivos y carpetas mediante esta opción.
+- Vista de lista / mosaico: Elige el formato de visualización de tus archivos y carpetas. Puedes elegir entre la vista de lista, o la vista de mosaico, que mostrará las miniaturas de tus archivos, formato, etc.
+- Clasificación: Elige el orden en el que se mostrarán tus archivos y carpetas. Puedes ordenar por nombre, por fecha, por tipo de archivo, tamaño, etc.
+- Propiedades: Muestra información referente al archivo o carpeta seleccionados, como el nombre, el tamaño, etc.
 
 **Ajustes**
+Personaliza tu eReader ajustándolo a tus necesidades:
 
-En este menú dispones de 6 apartados, los cuales son:
-* Marcadores: entrando en este apartado, accederás a visualizar todos los marcadores (ordenados por libro) que hayas guardado durante tus lecturas. De este modo podrás acceder sencilla y rápidamente al punto que indicaste previamente.
-* Ajustes de energía: Ajusta aquí los tiempos de entrada en suspensión y de autoapagado del dispositivo.
-* Información eReader: Muestra la versión y la cantidad de memoria usada y disponible.
-* Idioma: selecciona entre 13 idiomas diferentes.
+* Fuente del sistema: Personaliza la fuente de las ventanas y menús del sistema. Puedes elegir entre 7 tipos de letra diferentes.
 * Fecha y hora: Ajusta aquí la fecha y la hora.
-* Restaurar ajustes por defecto: En este punto podrás hacer que el dispositivo elimine toda la configuración personalizada y vuelva a los valores que tenía por defecto (perderás ajustes personalizados, marcadores, favoritos)
-
-
-**Buscar**
-
-Accede rápidamente a cualquier archivo. Introduce el nombre del archivo que quieres encontrar y pulsa OK. El dispositivo mostrará los resultados que concuerden de entre todos los archivos de la memoria.
-
-
+* Modo de espera: Ajusta el tiempo antes de que el eReader entre en modo de espera, que es un modo que mantiene el ereader encendido sin apenas consumir energía. Reactiva tu eReader pulsando brevemente el botón de encendido. También puedes desactivar esta opción seleccionando "Nunca".
+* Apagar despues de: Ajusta aquí el tiempo antes de que el eReader se apague automáticamente. Esta función es útil si no haces un uso frecuente del dispositivo, ayudando a conservar su energía. Puedes desactivar esta opción seleccionando "Nunca".
+* Salvapantallas: Elige las imágenes que se mostrarán como salvapantallas cuando el eReader entre en modo de espera. Puedes seleccionar más archivos desde la función "Imágenes" (Opciones, Añadir al salvapantallas). Puedes visualizar las imágenes pulsando el botón "Opciones" 
+* Ajustes DRM: Ajusta tu usuario y contraseña para contenido protegido con Adobe Digital Edition. Para leer este tipo de archivos necesitarás seleccionar el lector de libros EPUB como "Adobe Reader".
+* Preferencias de lectura: Puedes ajustar el lector de libros por defecto entre "FB Reader" y "Adobe Reader" según tu preferencia, el refresco de pantalla completo durante la lectura y los ajustes de luz (modelo Screenlight HD).Información eReader: Muestra la versión y la cantidad de memoria usada y disponible.
+* Ajustes de Idioma: Selecciona el idioma de tu preferencia.
+* Restaurar ajustes por defecto: En este punto podrás hacer que el dispositivo elimine toda la configuración personalizada y vuelva a los valores que tenía por defecto (perderás ajustes personalizados, marcadores, etc.)
+* Acerca del eReader: Muestra información del modelo, estado de la batería, versión de software, número de serie, memoria usada y disponible...
