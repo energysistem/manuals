@@ -12,7 +12,7 @@
 
 **NIF:** A53107488
 
-We declare under our own exclusive responsibility that the product: **Energy Sistem#trade# Energy Extra Battery 5000**
+We declare under our own exclusive responsibility that the product: **Energy Sistem#trade# Energy Extra Battery 10000**
 
 **Manufacturing country:** China
 
