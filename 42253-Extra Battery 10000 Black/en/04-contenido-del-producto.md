@@ -1,5 +1,5 @@
 ## Product content
 
-*	Energy Extra Battery 2500 with built-in micro USB cable.
+*	Energy Extra Battery 10000 Black with built-in micro USB cable.
 *	Quick guide.
 
