@@ -1,16 +1,11 @@
-## Instructions de sécurité
+## Entretien et maintenance.
 
-Pour assurer votre sécurité et celle des autres, s'il vous plaît n'oubliez pas de lire les consignes de sécurité avant d'utiliser ce produit. Enregistrer ces informations dans un endroit sûr pour référence ultérieure. 
-
-**Précautions**
-
-Nous vous recommandons de lire ce qui suit : 
-- Effectuez des sauvegardes régulières sur un autre périphérique de stockage. Energy Sistem #trade# ne sera pas tenu comme responsable pour la perte ou l'endommagement des données stockées. 
-- Ne placez pas l'unité à proximité d'appareils qui émettent des champs électromagnétiques puissants. Ils peuvent causer des dommages ou de perte de données. 
-- Ne démontez pas l'appareil. 
-- Ne laissez pas tomber l'appareil au sol ou recevoir un choc car cela peut entraîner une perte de données irrémédiable ou même arrêter complètement de fonctionner. 
-- Ne pas utiliser l'eReader dans des conditions de forte humidité ou lorsqu'il est mouillé. 
-- Ne pas exercer une pression sur l'écran de l'appareil. 
-- Ne pas retirer la carte micro SD ou éteindre l'appareil pendant la lecture ou l'écriture des données pour empêcher la perte de données. 
-- Assurez-vous que la carte micro SD est déverrouillée avant d'écrire ou supprimer des données.
+- Gardez votre eReader propre et la poussière avec un chiffon doux et sec.
+- Ne pas utiliser de nettoyage abrasif ou corrosif.
+- Ne pas peser sur l'écran de l'appareil.
+- Ne pas exposer votre Energy eReader Slim HD aux secousses, à la poussière, la lumière du soleil directe pour le temps prolongée, l'humidité ou des températures élevées.
+- Ne retirez pas la carte micro SD ou éteindre l'appareil tandis que les données de lecture ou d'écriture pour éviter la perte de données.
+- Ne placez pas le lecteur à proximité d'appareils qui émettent des champs électromagnétiques puissants. Il peut causer des dommages ou des pertes de données.
+- Sauvegarde périodiquement à un autre périphérique de stockage. Energy Sistem # # commerciale ne sera pas responsable en aucune façon des dommages ou pertes de données stockées.
+- Ne démontez pas votre eReader. Les réparations doivent être effectuées exclusivement par du personnel qualifié Energy Sistem Technology S.A.
 
