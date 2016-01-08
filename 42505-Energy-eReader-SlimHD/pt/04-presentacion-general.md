@@ -1,5 +1,5 @@
 ## Apresentação Geral
-![](http://static.energysistem.com/images/manuals/39225/54bfed3bb4167.jpg)
+![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
 
 1. Tamanho da fonte / Actualização da página com um toque longo
 2. Rotação da tela
