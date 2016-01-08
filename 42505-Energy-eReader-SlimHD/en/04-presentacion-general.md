@@ -1,5 +1,5 @@
 ## General overview
-![](http://static.energysistem.com/images/manuals/39225/54bfed3bb4167.jpg)
+![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
 
 1.	Font size / page refresh (press and hold).
 2.	Page turning
