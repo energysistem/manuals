@@ -2,7 +2,7 @@
 
 **Books**
 
-Here all the books stored in the internal memory and external microSD card is displayed.
+You will find here all the books stored in the internal memory and external microSD card.
 
 Use the navigation keys to scroll through folders, press the selection button to enter into folders or open a book, or press the key again to exit or go back.
 
@@ -34,7 +34,7 @@ Note: Some of these features may not be available depending on the format of the
 
 **Images**
 
-Here you will find all image files located in the internal memory or external microSD card.
+You will find here all image files located in the internal memory or external microSD card.
 
 Use the navigation keys to scroll through folders, press the selection button to enter into folders or open a picture, or press the back key to exit or go back.
 
