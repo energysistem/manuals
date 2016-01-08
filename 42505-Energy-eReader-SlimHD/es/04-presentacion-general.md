@@ -1,6 +1,6 @@
 ## Presentación General
 
-![]http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
+![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
 
 1. Botón Home
 2. Botón de opciones
