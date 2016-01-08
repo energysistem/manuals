@@ -1,17 +1,11 @@
-## Instruções de segurança 
+## Cuidados e Manutenção.
 
-Para garantir a sua segurança e a segurança de outras pessoas, por favor, não deixe de ler as informações de segurança antes de usar este produto. Salve essas informações em um local seguro para referência futura. 
-
-
-**Precauções**
-
-Recomendamos a leitura dos pontos seguintes: 
-- Faça backups regulares em outro dispositivo de armazenamento. Energy Sistem#trade# não será responsável de forma alguma por perdas ou danos aos dados armazenados. 
-- Não coloque o dispositivo perto de dispositivos que emitem campos electromagnéticos fortes. Isso pode causar danos ou perda de dados. 
-- Não desmonte ou remodele o dispositivo. 
-- Não deixe o aparelho chocar ou cair no chão, pode causar perda de dados irrecuperável ou até mesmo parar de funcionar completamente. 
-- Não use o eReader em condições de alta humidade ou quando molhado. 
-- Não exercer pressão na tela do dispositivo.
-- Não remova o cartão micro SD ou desligue o dispositivo enquanto lê ou escreve dados para evitar a perda de dados. 
-- Verifique se o cartão micro SD é desbloqueado antes de escrever ou apagar os dados.
+- Mantenha o seu eReader limpo e pó com um pano macio e seco.
+- Não utilize limpeza abrasivo ou corrosivo.
+- Não suportar para baixo na tela do dispositivo.
+- Não exponha a sua energia eReader Magro HD para shakes, poeira, luz direta do sol por tempo prolongado, umidade ou altas temperaturas.
+- Não retire o cartão micro SD ou desligar o dispositivo enquanto lê ou escreve dados para evitar a perda de dados.
+- Não coloque o leitor perto de dispositivos que emitem campos electromagnéticos fortes. Isso pode causar danos ou perda de dados.
+- Faz-se periodicamente para outro dispositivo de armazenamento. Energy Sistem # # comércio não deverá ser responsabilizada de forma alguma por danos ou perdas de dados armazenados.
+- Não desmonte o seu eReader. Quaisquer reparos devem ser realizados exclusivamente por pessoal qualificado Sistem Energy Technology SA
 
