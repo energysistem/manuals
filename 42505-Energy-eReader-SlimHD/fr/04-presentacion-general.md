@@ -1,5 +1,5 @@
 ## Presentation Generale
-![](http://static.energysistem.com/images/manuals/39225/54bfed3bb4167.jpg)
+![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
 
 1. Taille de la police / Rafraîchissement de la page (avec une pulsation prolongée).
 2. Rotation de l'écran
