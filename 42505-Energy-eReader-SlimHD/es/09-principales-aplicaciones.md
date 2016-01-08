@@ -86,3 +86,14 @@ Personaliza tu eReader ajustándolo a tus necesidades:
 * Ajustes de Idioma: Selecciona el idioma de tu preferencia.
 * Restaurar ajustes por defecto: En este punto podrás hacer que el dispositivo elimine toda la configuración personalizada y vuelva a los valores que tenía por defecto (perderás ajustes personalizados, marcadores, etc.)
 * Acerca del eReader: Muestra información del modelo, estado de la batería, versión de software, número de serie, memoria usada y disponible...
+
+
+** Sudoku **
+
+Entre lectura y lectura no olvides ejercitar tu mente con este divertido Sudoku. Reta a tu mente eligiendo el nivel de dificultad.
+
+El juego se desarrolla en una cuadrícula de 9x9 celdas, dividida en regiones de 3x3 celdas. Partiendo de algunos números ya dispuestos en algunas de las celdas según el nivel de dificultad elegido, deberás completar las casillas vacías con dígitos del 1 al 9 teniendo en cuenta que no pueden coincidir 2 numeros iguales en la misma fila, en la misma columna o en la misma región. 
+
+Completarás el Sudoku cuando completes todas las celdas vacias. Sólo existe una posible solución, ¡Ánimo!
+
+
