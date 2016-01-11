@@ -12,5 +12,5 @@
 - Interface do usuário em vários idiomas, fácil e intuitiva. 
 - Armazene milhares de livros em sua memória interna de 8GB, o que também pode estender 64GB através de cartões microSD mais-HC / XC.
 
-*Calculo com meia hora de leitura diária.
+#### Calculo com meia hora de leitura diária.
 
