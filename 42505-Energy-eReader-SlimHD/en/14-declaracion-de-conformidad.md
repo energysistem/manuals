@@ -1,6 +1,6 @@
 ## Declaration of conformity
 
-**Manufacturer name:** Energy Sistem Soyntec S.A.				
+**Manufacturer name:** Energy Sistem Technology S.A.				
 
 **Date:** 01/01/2016
 
