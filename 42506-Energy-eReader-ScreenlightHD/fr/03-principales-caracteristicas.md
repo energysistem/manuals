@@ -2,7 +2,7 @@
 
 - Liseuse de livres électroniques avec écran e-ink Carta HD de 6", 16 niveaux de gris et un contraste élevé pour une lecture facile sans usure de l'œil.
 - Résolution 758 x 1024 pixels et 212ppp d'apprécier tous les textes et les images avec une grande clarté.
-- Sa conception allie élégance et confort mesures seulement 7,6 mm d'épaisseur et est étonnamment léger.
+- Sa conception allie élégance et confort mesures seulement 8,1 mm d'épaisseur et est étonnamment léger.
 - Dernier processeur de nouvelle génération pour la gestion des périphériques ultra-rapide.
 - Design ergonomique avec boutons latéraux pour tourner les pages créées avec facilité, que vous soyez gaucher ou droitier, assurant une prise ferme en tout temps.
 - Système anti-reflets qui empêche les reflets, offrant une lecture agréable sous lumière directe du soleil et de différents angles de vision.
