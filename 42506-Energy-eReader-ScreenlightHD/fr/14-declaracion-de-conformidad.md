@@ -2,6 +2,8 @@
 
 **Nom du Fournisseur:** Energy Sistem Technology S.A.
 
+**Date:** 01/01/2016
+
 **Adresse:** Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
 
 **Tel:** 902 388 388 
@@ -13,7 +15,7 @@
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# - Energy eReader Slim HD**
+**Energy Sistem#trade# - Energy eReader Screenlight HD**
 
 **Pays de fabrication:** Chine
 
