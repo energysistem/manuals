@@ -1,6 +1,6 @@
 ## Declaração de conformidade
 
-**Nome do fabricante:** Energy Sistem Soyntec S.A.
+**Nome do fabricante:** Energy Sistem Technology S.A.
 
 **Data:** 06/10/2014
 
@@ -14,7 +14,7 @@
 
 Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
-**Energy Sistem#trade# - Energy eReader Slim**
+**Energy Sistem#trade# - Energy eReader Slim HD**
 
 **País de fabricação:** China
 
