@@ -1,5 +1,7 @@
 ## Turning the device On and Off
 
-To turn your eReader on, press the On/Off button for a few seconds. To turn it off, press the On/Off button again for a few seconds. Pressing the On/Off briefly will lock/unlock the eReader. While turned off or in lock mode the eReader will display an image on its screen. Do not worry, this will not consume the device's battery.
+To turn on your eReader Slim HD, hold the on / off button / standby (10) until the startup image appears. To turn off the eReader, hold the button until a warning window appears, select turn off in the screen. A short press of this button  will put your eReader on standby mode, which is a special low-power mode that lets you instantly return to the last screen by just pushing the button again.
 
-![](http://static.energysistem.com/images/manuals/42169/54bfcad7db4c9.jpg)
+![](http://static.energysistem.com/images/manuals/39225/569374303b9ac.jpg)
+
+When your eReader is in standby mode or switched off, it will display an image on the display indicating their status. Do not worry, this image does not consume energy.
