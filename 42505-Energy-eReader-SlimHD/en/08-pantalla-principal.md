@@ -1,9 +1,10 @@
 ## Home screen
 
-![](http://static.energysistem.com/images/manuals/39225/54bfec892decc.jpg)
+![](http://static.energysistem.com/images/manuals/39225/5693976e8fa48.jpg)
 
-1.	Recently read section. Features a progress bar.
-2.	Recently added section: Displays recently added books to the library.
-3.	Main icons.
-4.	Battery: Displays the eReader's battery level.
-5.	Date and time.
+1. Recent books read, indicating the progression of reading by bar points
+2. Latest books added
+3. Main applications and settings 
+4. Date
+5. Battery Level
+6. Clock
