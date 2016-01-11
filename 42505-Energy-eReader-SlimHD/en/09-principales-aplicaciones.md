@@ -1,12 +1,14 @@
 ## Main applications
 
+![](http://static.energysistem.com/images/manuals/39225/5693a18601299.jpg)
+
 **Books**
 
 You will find here all the books stored in the internal memory and external microSD card.
 
 Use the navigation keys to scroll through folders, press the selection button to enter into folders or open a book, or press the key again to exit or go back.
 
-You have different options display and order of the books in your library. Access these options by pressing! [] (Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). In the options menu you will find:
+You have different options display and order of the books in your library. Access these options by pressing ![](Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). In the options menu you will find:
 
 - Book Search: To search your favorite books.
 - Go to page: Select a page from your book list.
@@ -25,12 +27,14 @@ While reading an eBook, you have multiple functions to adjust the reading accord
 - Add bookmark: With this function, you can add a bookmark in the book page where you are. Thus, you can access that page more quickly later.
 - Content and bookmarks: Displays the index and all the bookmarks created in the current book.
 - Home: Go to the index of the book (if available).
-- Rotate screen: Rotate the screen 90 ° clockwise or counterclockwise.
+- Rotate screen: Rotate the screen 90° clockwise or counterclockwise.
 - Autoturn page: With this function, your eReader is able to turn the page automatically after the lapse of time indicated in the Autoturn settings.
 - Autoturn Settings: Select the reading time before moving to the next page.
 - Book Information: Share information about the book and the author, ISBN number, publisher, type of book, etc.
 
 Note: Some of these features may not be available depending on the format of the book.
+
+![](http://static.energysistem.com/images/manuals/39225/5693a18b837ed.jpg)
 
 **Images**
 
@@ -57,6 +61,8 @@ When you are watching the images you can find additional options that allow you 
 * Add to screensaver: Adds the image to the image list of screensavers, which are displayed when the eReader is in standby mode. You can view the list of images displayed on the screen saver within Settings / Screensavers.
 * About picture: At this point image information (. Name, size, file type, etc.) is displayed.
 
+![](http://static.energysistem.com/images/manuals/39225/5693a19022c84.jpg)
+
 **Files**
 
 Here all the folders and stored in the internal memory or external microSD card, regardless of the media type files are displayed Display.
@@ -71,6 +77,8 @@ Pressing the Options button will access the functions offered:
 - List / mosaic: Choose the display format of your files and folders. You can choose from the list view or tile view, which displays thumbnails of your files, format, etc.
 - Sorting: Choose the order in which files and folders are displayed. You can sort by name, by date, by file type, size, etc.
 - Properties: displays information about the selected file or folder, such as name, size, etc.
+
+![](http://static.energysistem.com/images/manuals/39225/5693a1970d7ea.jpg)
 
 **Settings**
 
@@ -87,6 +95,8 @@ Customize your eReader settings by adjusting it to your needs:
 * Restore Default Settings: Press here for reset all customized settings and return to the original default values (you will lose custom settings, bookmarks, etc.)
 * About the eReader: Displays information model, battery status, software version, serial number, memory used and available ...
 
+
+![](http://static.energysistem.com/images/manuals/39225/5693a19c407bb.jpg)
 
 **Sudoku**
 
