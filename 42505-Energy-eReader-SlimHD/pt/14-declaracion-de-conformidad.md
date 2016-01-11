@@ -2,7 +2,7 @@
 
 **Nome do fabricante:** Energy Sistem Technology S.A.
 
-**Data:** 06/10/2014
+**Data:** 01/01/2016
 
 **Endereço:** Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
 
