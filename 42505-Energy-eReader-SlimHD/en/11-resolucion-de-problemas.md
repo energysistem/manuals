@@ -12,10 +12,6 @@ The pdf file is shown as created, with its own font types and sizes. Therefore y
 
 Check that your eReaders supports the eBook format.
 
-**The eReader is locked and does not respond.**
-
-Try pressing the reset button using a very thin object such as a paper clip. Then press the ON button. 
-
 **The eReader does not show correctly the eBook characters, the space lining, etc.**
 
 This is due to the format the file has been digitalized in. Many eBooks are digitalized and formatted automatically without being reviewed. Use only reliable and quality content providers for the best reading experience.
