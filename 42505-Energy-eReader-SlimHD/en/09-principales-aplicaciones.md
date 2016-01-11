@@ -17,7 +17,7 @@ You have different options display and order of the books in your library. Acces
 - Sorting: Choose the order in which your books and folders are displayed. You can sort by name, by date, by file type, by author or by size (files only).
 - Properties: Displays information about the book or folder selected as the name, size, etc.
 
-* Advanced Reading *
+*Advanced Reading*
 
 While reading an eBook, you have multiple functions to adjust the reading according to your preferences and make it so comfortable and fun. Click the Options button to access these functions.
 
@@ -51,7 +51,7 @@ You have different viewing options and order your images. Access these options b
 - Sorting: Choose the order in which your images and folders are displayed. You can sort by name, by date, by file type, etc.
 - Properties: displays information about the selected image or as a folder name, size, etc.
 
-* Image Options *
+*Image Options*
 
 When you are watching the images you can find additional options that allow you to interact with each of them. Click the Options button to access these functions.
 
