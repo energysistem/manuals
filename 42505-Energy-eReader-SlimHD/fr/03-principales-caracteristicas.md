@@ -12,4 +12,4 @@
 - Très facile à utiliser via un utilisateur intuitive et disponible en plusieurs langues.
 - Stockez des milliers de livres dans sa mémoire interne de 8Go, qui peut également étendre 64Go plus via cartes SD-HC / XC.
 
-*Calcul basé sur une demi-heure de lecture quotidienne.
+#### Calcul basé sur une demi-heure de lecture quotidienne.
