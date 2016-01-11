@@ -1,5 +1,5 @@
 ## Conteúdo do produto
 
-- Energy eReader Slim HD
+- Energy eReader Screenlight HD
 - Cabo microUSB
 - Manual do usuário 
