@@ -2,7 +2,7 @@
 
 **Manufacturer name:** Energy Sistem Soyntec S.A.				
 
-**Date:** 06/10/2014
+**Date:** 01/01/2016
 
 **Address:** Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
 
@@ -14,7 +14,7 @@
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem#trade# - Energy eReader Slim**
+**Energy Sistem#trade# - Energy eReader Slim HD**
 
 **Manufacturing Country:** China
 
