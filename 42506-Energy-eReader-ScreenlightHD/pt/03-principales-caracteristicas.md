@@ -2,7 +2,7 @@
 
 - Leitor de ebook com tela e-ink Carta HD de 6", 16 níveis de cinza e alto contraste para facilitar a leitura sem óculos.
 - Resolução 758 x 1024 pixels e 212ppp para apreciar todos os textos e imagens com grande clareza.
-- Seu design combina elegância e conforto mede apenas 7,6 milímetros de espessura e é surpreendentemente leve.
+- Seu design combina elegância e conforto mede apenas 8,1 milímetros de espessura e é surpreendentemente leve.
 - Processador de última geração para gerenciamento de dispositivos ultra-rápido.
 - Design ergonômico com botões laterais para virar as páginas criadas com facilidade, se você está canhoto ou destro, garantindo um aperto firme em todos os momentos.
 - Sistema anti-reflexo que impede o brilho e reflexos, proporcionando uma agradável leitura sob luz solar direta e de diferentes ângulos de visão.
