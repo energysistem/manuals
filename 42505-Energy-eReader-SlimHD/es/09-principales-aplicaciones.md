@@ -1,5 +1,6 @@
 ## Principales aplicaciones
 
+![](http://static.energysistem.com/images/manuals/39225/5693a18601299.jpg)
 **Libros**
 
 Aquí se visualizan todos los libros guardados en la memoria interna y en la tarjeta microSD externa.
@@ -32,6 +33,7 @@ Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la
 
 Nota: Puede que algunas de estas funciones no estén disponibles dependiendo del formato del libro.
 
+![](http://static.energysistem.com/images/manuals/39225/5693a18b837ed.jpg)
 **Imágenes**
 
 Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta microSD externa.
