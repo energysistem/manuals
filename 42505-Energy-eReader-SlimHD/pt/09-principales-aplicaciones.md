@@ -1,12 +1,14 @@
 ## Principais aplicações
 
+![](http://static.energysistem.com/images/manuals/39225/5693a18601299.jpg)
+
 **Livros** 
 
 Você vai encontrar aqui todos os livros armazenados na memória interna e cartão microSD externo.
 
 Use as teclas de navegação para percorrer as pastas, pressione o botão de seleção para entrar em pastas ou abrir um livro, ou pressione a tecla novamente para sair ou voltar.
 
-Você tem opções de exibição e ordem dos livros em sua biblioteca diferente. Acesse essas opções pressionando! [] (Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). No menu de opções, você encontrará:
+Você tem opções de exibição e ordem dos livros em sua biblioteca diferente. Acesse essas opções pressionando ![](Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). No menu de opções, você encontrará:
 
 - Pesquisa de livros: Para procurar seus livros favoritos.
 - Ir para página: Selecione uma página da sua lista livro.
@@ -31,6 +33,9 @@ Quando lê um eBook, você tem múltiplas funções para ajustar a leitura de ac
 - Informações do livro: Compartilhe informações sobre o livro eo autor, número de ISBN, editor, tipo de livro, etc.
 
 Nota: Alguns desses recursos podem não estar disponíveis, dependendo do formato do livro.
+
+
+![](http://static.energysistem.com/images/manuals/39225/5693a18b837ed.jpg)
 
 **Imagens**
 
@@ -57,6 +62,9 @@ Quando estiver a ver as imagens que você pode encontrar opções adicionais que
 * Adicione a screensaver: Adiciona a imagem para a lista de imagem de screensavers, que são exibidos quando o eReader está em modo de espera. Você pode ver a lista de imagens exibidas no protetor de tela dentro de Settings / Protetores de tela.
 * Sobre imagem: Neste ponto a informação da imagem é exibida (nome, tamanho, tipo de arquivo, etc.)..
 
+
+![](http://static.energysistem.com/images/manuals/39225/5693a19022c84.jpg)
+
 **Arquivos** 
 
 Aqui todas as pastas e armazenadas na memória interna ou no cartão microSD externo, independentemente de os arquivos de tipo de mídia são exibidos Display.
@@ -71,6 +79,9 @@ Pressionando o botão Opções acessará as funções oferecidas:
 - Lista / mosaico: Escolha o formato de seus arquivos e pastas display. Você pode escolher entre o modo de exibição lista ou exibição lado a lado, que exibe miniaturas de seus arquivos, formato, etc.
 - Seleção: Escolha a ordem em que os arquivos e pastas são exibidos. Você pode classificar por nome, por data, por tipo de arquivo, tamanho, etc.
 - Propriedades: exibe as informações sobre o arquivo ou pasta seleccionados, tais como nome, tamanho, etc.
+
+
+![](http://static.energysistem.com/images/manuals/39225/5693a1970d7ea.jpg)
 
 **Configurações**
 
@@ -87,6 +98,8 @@ Personalize as definições do eReader, ajustando-o às suas necessidades:
 * Restaurar configurações padrão: Pressione aqui para repor todas as definições personalizadas e retornar aos valores padrão originais (você vai perder configurações personalizadas, marcadores, etc.)
 * Sobre o eReader: Apresenta modelo de informação, status da bateria, versão do software, número de série, memória utilizada e disponível ...
 
+
+![](http://static.energysistem.com/images/manuals/39225/5693a19c407bb.jpg)
 
 **Sudoku** 
 
