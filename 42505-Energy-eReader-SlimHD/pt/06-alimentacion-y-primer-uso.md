@@ -1,5 +1,3 @@
-## Alimentação / Primeiro uso
+## Alimentação
 
-Suo Energy eReader Slim contém uma bateria de lítio recarregável. Inicialmente, a bateria é carregada na fábrica, mas recomenda-se realizar uma carga completa antes da primeira utilização. Recarregue a bateria conectando o aparelho à rede eléctrica através de um carregador USB (5V / 1Ah máx.) ou a seu computador através do cabo USB micro incluído com o produto. O tempo de carga é entre 1-3 horas. Para manter a bateria em boas condições, recomendamos que você não mantenha o carregamento por mais de 8 horas. 
-
-![](http://static.energysistem.com/images/manuals/42169/54bfda0aa2c2c.jpg)
+Seu Energy eReader Slim HD incorpora uma bateria de iões de lítio recarregável. Quando se esgota, você pode encher a sua eReader novamente ligar qualquer tipo de carregador USB utilizando o cabo microUSB. O tempo de carga pode variar entre 3 e 5 horas.
