@@ -1,6 +1,7 @@
 ## Principales aplicaciones
 
 ![](http://static.energysistem.com/images/manuals/39225/5693a18601299.jpg)
+
 **Libros**
 
 Aquí se visualizan todos los libros guardados en la memoria interna y en la tarjeta microSD externa.
@@ -34,6 +35,7 @@ Durante la lectura de un eBook, dispones de múltiples funciones para ajustar la
 Nota: Puede que algunas de estas funciones no estén disponibles dependiendo del formato del libro.
 
 ![](http://static.energysistem.com/images/manuals/39225/5693a18b837ed.jpg)
+
 **Imágenes**
 
 Aquí se visualizan todos los archivos de imagen guardados en la memoria interna o en la tarjeta microSD externa.
@@ -59,6 +61,8 @@ Cuando estés visualizando las imagenes dispondrás de opciones adicionales que 
 * Añadir al salvapantallas: Añade la imágen a la lista de imágenes de salvapantallas, que se muestran cuando el eReader está en modo de espera. Puedes visualizar la lista de imágenes mostradas en el salvapantallas dentro de Ajustes / Salvapantallas.
 * Acerca de la imagen: En este punto se muestra información de la imagen (nombre, dimensiones, tipo de archivo,etc.).
 
+![](http://static.energysistem.com/images/manuals/39225/5693a19022c84.jpg)
+
 **Archivos**
 
 Aquí se visualizan todos las carpetas y archivos guardados en la memoria interna o en la tarjeta microSD externa, independientemente del tipo de medio a visualizar.
@@ -73,6 +77,8 @@ Pulsando el botón de opciones accederás a las funciones disponibles:
 - Vista de lista / mosaico: Elige el formato de visualización de tus archivos y carpetas. Puedes elegir entre la vista de lista, o la vista de mosaico, que mostrará las miniaturas de tus archivos, formato, etc.
 - Clasificación: Elige el orden en el que se mostrarán tus archivos y carpetas. Puedes ordenar por nombre, por fecha, por tipo de archivo, tamaño, etc.
 - Propiedades: Muestra información referente al archivo o carpeta seleccionados, como el nombre, el tamaño, etc.
+
+![](http://static.energysistem.com/images/manuals/39225/5693a1970d7ea.jpg)
 
 **Ajustes**
 
@@ -89,6 +95,8 @@ Personaliza tu eReader ajustándolo a tus necesidades:
 * Restaurar ajustes por defecto: En este punto podrás hacer que el dispositivo elimine toda la configuración personalizada y vuelva a los valores que tenía por defecto (perderás ajustes personalizados, marcadores, etc.)
 * Acerca del eReader: Muestra información del modelo, estado de la batería, versión de software, número de serie, memoria usada y disponible...
 
+
+![](http://static.energysistem.com/images/manuals/39225/5693a19c407bb.jpg)
 
 ** Sudoku **
 
