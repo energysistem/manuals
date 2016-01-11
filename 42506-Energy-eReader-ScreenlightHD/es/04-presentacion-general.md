@@ -1,6 +1,6 @@
 ## Presentación General
 
-![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
+![](http://static.energysistem.com/images/manuals/39225/5693e19abba5b.jpg)
 
 1. Botón de paso de página hacia atrás
 2. Botón de paso de página hacia adelante
@@ -9,7 +9,7 @@
 5. Botones de dirección
 6. Botón de selección
 7. Botón de opciones
-8. Botón Home
+8. Botón Screenlight
 9. Indicador LED de carga y encendido
 10. Botón de encendido / apagado y modo de espera
 11. Conector microUSB
