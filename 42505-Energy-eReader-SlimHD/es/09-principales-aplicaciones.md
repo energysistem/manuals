@@ -98,7 +98,7 @@ Personaliza tu eReader ajustándolo a tus necesidades:
 
 ![](http://static.energysistem.com/images/manuals/39225/5693a19c407bb.jpg)
 
-** Sudoku **
+**Sudoku**
 
 Entre lectura y lectura no olvides ejercitar tu mente con este divertido Sudoku. Reta a tu mente eligiendo el nivel de dificultad.
 
