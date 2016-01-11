@@ -1,3 +1,3 @@
-## Energy eReader Screenlight
+## Energy eReader Slim
 
-![] (http://static.energysistem.com/images/manuals/42169/54b5636269138.jpg)
+![] (http://static.energysistem.com/images/manuals/39225/54b5648baea3c.jpg)

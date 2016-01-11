@@ -12,10 +12,6 @@ O formato PDF é exibido como ele é criado, com suas fontes e estilos, portanto
 
 Verifique que o formato de ebook é compatível com o seu eReader. 
 
-**O eReader está bloqueado e não responde.**
-
-Tente pressionar o botão de reset na base usando um objeto fino, como um clipe.
-
 **As letras dos livros não são bem exibidas, o espaço entre linhas è excessivo ou as quebras de página são onde não devem.**
 
 É devido ao formato em que o arquivo foi digitalizado. Muitos e-books são digitalizados e formatados automaticamente, sem revisão. Use só provedores de conteúdo de confiança e qualidade para uma melhor experiência do usuário.

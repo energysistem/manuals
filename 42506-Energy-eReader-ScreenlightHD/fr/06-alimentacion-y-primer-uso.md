@@ -1,5 +1,5 @@
-## Alimentation / Première utilisation:
+## Alimentation
 
-Votre Energy eReader Screenlight possède une batterie de lithium rechargeable. La batterie vient chargée depuis l'usine, mais il est recommandable que vous réalisiez une charge complète avant la première utilisation. Rechargez la batterie en connectant le dispositif à la prise électrique grâce à un chargeur USB (5V / 1Ah max.) ou à votre ordinateur en utilisant le câble micro USB inclus dans le produit. Le temps de charge varie entre 3-5 heures. Pour garder la batterie dans d'excellentes conditions, on vous recommande de ne pas le laisser se charger durant plus de 8 heures. 
+Votre Energy eReader Slim HD intègre une batterie rechargeable au lithium-ion. Quand il vient à manquer, vous pouvez recharger votre eReader connecter à nouveau un chargeur de type USB en utilisant le câble microUSB. Le temps de charge peut varier entre 3 et 5 heures.
 
-![](http://static.energysistem.com/images/manuals/42169/54bfda0aa2c2c.jpg)
+![](http://static.energysistem.com/images/manuals/39225/56937434ba471.jpg)

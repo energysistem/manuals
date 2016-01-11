@@ -1,6 +1,6 @@
 ## Condições de garantia
 
-Durante um período de 36 meses a partir da data da primeira compra pelo consumidor, nos termos do RDL 1/2007 Energy Sistem Soyntec S.A. é responsável por qualquer falta de conformidade que exista no momento da entrega Bem, nos termos e nas condições especificadas na regra. Excluem-se do período de 36 meses as baterias do produto, o período de garantia é de 12 meses.
+Durante um período de 36 meses a partir da data da primeira compra pelo consumidor, nos termos do RDL 1/2007 Energy Sistem Technology S.A. é responsável por qualquer falta de conformidade que exista no momento da entrega Bem, nos termos e nas condições especificadas na regra. Excluem-se do período de 36 meses as baterias do produto, o período de garantia é de 12 meses.
 
 No caso em que o poço não estava sob contrato e mediante recibo de entrega ou da fatura, o comprador reconhece o direito de qualquer reparo, a substituição ou subsidiária para a redução do preço ou a rescisão do contrato em conformidade com essa norma.
 

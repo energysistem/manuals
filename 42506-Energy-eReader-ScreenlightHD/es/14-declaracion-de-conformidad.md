@@ -1,8 +1,7 @@
 ## Declaración de conformidad
 
-**Nombre del suministrador:** Energy Sistem Soyntec S.A.	
-
-**Fecha:** 06/10/2014
+**Nombre del suministrador:** Energy Sistem Soyntec S.A.
+**Fecha:** 01/01/2016
 
 **Dirección:** Pol. Ind. Finestrat - C/.Calpe, 1 - 03509, Finestrat, Alicante (España)
 
@@ -14,7 +13,7 @@
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# - Energy eReader Screenlight**
+**Energy Sistem#trade# - Energy eReader Slim HD**
 
 **País de fabricación:** China
 

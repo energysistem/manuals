@@ -1,3 +1,5 @@
 ## Introducción
 
-Energy Sistem#trade# te agradece la compra de tu nuevo Energy eReader Screenlight. ¡Deseamos que lo disfrutes! Este nuevo lector de libros electrónicos dispone de una pantalla e-ink de 6" con función Screenlight de retroiluminación de pantalla y posee un diseño estilizado y ultraligero (tan solo 8.1mm de grosor y 160gr). Estas características, unidas a sus funciones avanzadas de lectura y sus 8GB de memoria interna, hacen de este dispositivo un compañero ideal para tus jornadas de lectura. Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo sus prestaciones.
+Gracias por confiar en nosotros y adquirir tu nuevo Energy eReader Slim HD. ¡Deseamos que lo disfrutes! Tu nuevo lector de libros electrónicos dispone de una novedosa pantalla de tinta electrónica e-Ink Carta de 6" de alta resolución, unida a su diseño estilizado y ultraligero (tan solo 7.6 mm de grosor y 176 gr). Estas características, unidas a sus funciones avanzadas de lectura y sus 8GB de memoria interna, hacen de este dispositivo un compañero ideal para tus jornadas de lectura.
+
+Antes de comenzar a disfrutar de tu eReader Slim HD te aconsejamos que leas esta guía para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
