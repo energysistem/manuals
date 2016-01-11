@@ -13,7 +13,7 @@
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# - Energy eReader Slim HD**
+**Energy Sistem#trade# - Energy eReader Screenlight HD**
 
 **País de fabricación:** China
 
