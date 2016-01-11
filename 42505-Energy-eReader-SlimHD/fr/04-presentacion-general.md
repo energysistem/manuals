@@ -1,12 +1,15 @@
 ## Presentation Generale
 ![](http://static.energysistem.com/images/manuals/39225/568ff90a3ce54.jpg)
 
-1. Taille de la police / Rafraîchissement de la page (avec une pulsation prolongée).
-2. Rotation de l'écran
-3. Bouton directionnel
-4. Bouton de sélection
-5. Menu Options
-6. Recul / Accueil
-7. Port micro USB  
-8. Entrée cartes microSD
-9. Bouton ON / OFF
+1. Bouton pour tourner la page en arrière
+2. Bouton pour tourner la page en avant
+3. Bouton de rafraîchissement de l'ecran
+4. Bouton revenir en arrière
+5. Boutons de direction
+6. Bouton de sélection
+7. Bouton de options
+8. Bouton home
+9. Indicateur LED de chargement et fonctionnement
+10. Bouton de démarrage / éteint / mode veille
+11. Connecteur microUSB
+12. Entrée cartes microUSB
