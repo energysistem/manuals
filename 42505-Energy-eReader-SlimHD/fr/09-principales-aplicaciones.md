@@ -1,12 +1,14 @@
 ## Principales applications
 
+![](http://static.energysistem.com/images/manuals/39225/5693a18601299.jpg)
+
 **Livres**
 
 Vous trouverez ici tous les livres stockés dans la mémoire interne et la carte microSD externe.
 
 Utilisez les touches de navigation pour faire défiler les dossiers, appuyez sur le bouton de sélection pour entrer dans des dossiers ou d'ouvrir un livre, ou appuyez de nouveau sur la touche pour quitter ou retourner.
 
-Vous avez différente affichage et l'ordre des livres dans votre bibliothèque options. Accéder à ces options en appuyant sur! [] (Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). Dans le menu des options, vous trouverez:
+Vous avez différente affichage et l'ordre des livres dans votre bibliothèque options. Accéder à ces options en appuyant sur ![](Http://static.energysistem.com/images/manuals/42169/54bfe0a1cd3a6.jpg). Dans le menu des options, vous trouverez:
 
 - Recherche de Livres: Pour rechercher vos livres préférés.
 - Aller à la page: Sélectionnez une page à partir de votre liste de livres.
@@ -31,6 +33,9 @@ Lors de la lecture d'un livre électronique, vous disposez de plusieurs fonction
 - Réserver Infos pratiques: Partager l'information sur le livre et l'auteur, numéro ISBN, éditeur, type de livre, etc.
 
 Remarque: Certaines de ces caractéristiques peuvent ne pas être disponibles selon le format du livre.
+
+
+![](http://static.energysistem.com/images/manuals/39225/5693a18b837ed.jpg)
 
 **Des images**
 
@@ -57,9 +62,12 @@ Lorsque vous regardez les images que vous pouvez trouver des options supplément
 * Ajouter à économiseur d'écran: Ajoute l'image à la liste d'image d'économiseurs d'écran, qui sont affichées lorsque l'eReader est en mode veille. Vous pouvez afficher la liste des images affichées sur l'écran de veille dans les Réglages / écran.
 * A propos de l'image: A ces informations d'image de point est affiché (nom, taille, type de fichier, etc..).
 
-**Des dossiers**
 
-Voici tous les dossiers et stockées dans la mémoire interne ou carte microSD externe, indépendamment des fichiers de type de média sont affichés affichage.
+![](http://static.energysistem.com/images/manuals/39225/5693a19022c84.jpg)
+
+**Des fichiers**
+
+Voici tous les fichiers et stockées dans la mémoire interne ou carte microSD externe, indépendamment des fichiers de type de média sont affichés affichage.
 
 Utilisez les touches de navigation pour faire défiler les dossiers, appuyez sur le bouton de sélection pour entrer dans des dossiers ou ouvrir un fichier, ou appuyez sur la touche BACK pour quitter ou retourner.
 
@@ -71,6 +79,9 @@ En appuyant sur le bouton Options va accéder aux fonctions proposées:
 - Liste / Mosaïque: Choisissez le format d'affichage de vos fichiers et dossiers. Vous pouvez choisir de la vue de liste ou de tuile, qui affiche les vignettes de vos fichiers, format, etc.
 - Tri: Choisissez l'ordre dans lequel les fichiers et dossiers sont affichés. Vous pouvez trier par nom, par date, par type de fichier, taille, etc.
 - Propriétés: affiche des informations sur le fichier ou le dossier sélectionné, telles que le nom, la taille, etc.
+
+
+![](http://static.energysistem.com/images/manuals/39225/5693a1970d7ea.jpg)
 
 **Paramètres**
 
@@ -87,6 +98,8 @@ Personnalisez vos paramètres eReader en l'adaptant à vos besoins:
 * Restaurer les paramètres par défaut: Appuyez ici pour réinitialiser tous les paramètres personnalisés et revenir aux valeurs par défaut d'origine (vous perdrez les paramètres personnalisés, signets, etc.)
 * A propos de l'eReader: Affiche de modèle d'information, état de la batterie, la version du logiciel, le numéro de série, la mémoire utilisée et disponible ...
 
+
+![](http://static.energysistem.com/images/manuals/39225/5693a19c407bb.jpg)
 
 **Sudoku**
 
