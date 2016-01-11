@@ -12,4 +12,4 @@
 - Very easy to use via an intuitive user friendly OSD available in multiple languages.
 - Store thousands of books in its internal memory of 8GB, which can also extend 64GB more via microSD-HC/XC cards.
 
-* Based on half an hour average daily reading time.
+#### Based on half an hour average daily reading time.
