@@ -1,3 +1,3 @@
-## Energy eReader Slim HD
+## Energy eReader Screenlight HD
 
-![](Portada moi)
+![] (http://static.energysistem.com/images/manuals/39225/5693da954e820.jpg)
