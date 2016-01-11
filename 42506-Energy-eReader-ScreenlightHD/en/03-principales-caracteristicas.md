@@ -2,7 +2,7 @@
 
 - eReader with 6" E-Ink Carta HD Display, 16 gray levels and high contrast for easy reading without eye stress.
 - Display resolution 758 x 1024 pixels and 212ppp to appreciate all the texts and images with great clarity.
-- Its design combines elegance and comfort in only 7.6 mm thick and surprisingly lightweight.
+- Its design combines elegance and comfort in only 8.1 mm thick and surprisingly lightweight.
 - Latest generation processor for ultra-fast device management.
 - Ergonomic design with side buttons created to turn pages with ease, whether you are left or right handed, ensuring a firm grip at all times.
 - Antireflection system that prevents glare and reflections, providing a pleasant reading under direct sunlight and from different viewing angles.
