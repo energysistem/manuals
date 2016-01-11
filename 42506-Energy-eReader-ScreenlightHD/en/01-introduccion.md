@@ -1,5 +1,5 @@
 ## Introduction
 
-Thank you for trusting us and buy your new Energy eReader Slim HD. We hope you enjoy it! Your new e-book reader has a new high resolution 6" electronic ink screen e-Ink Carta, together with its slim design and lightweight (only 7.6 mm thick and 176 grams). These characteristics, together with its reading advanced features and 8GB of internal memory, make this device ideal for your days reading companion.
+Thank you for your trust in us and for buying your new Energy eReader Screenlight HD. We hope you enjoy it! Your new e-book reader has an innovative backlighted high definition 6" e-Ink Carta display, with a compact and ultralight design (only 8.1 mm thick and 181  grams). These features, along with its advanced reading functions and its 8GB of internal memory, make this device the ideal companion for your days reading.
 
-Before enjoying your eReader Slim HD we recommend you read this guide to familiarize yourself with it. It only takes a couple of minutes and help you maximize your benefits.
+Before enjoying your eReader Screenlight HD we recommend you read this guide to familiarize yourself with it. It only takes a couple of minutes and help you maximize your benefits.
