@@ -72,7 +72,7 @@ Pressing the Options button will access the functions offered:
 - Sorting: Choose the order in which files and folders are displayed. You can sort by name, by date, by file type, size, etc.
 - Properties: displays information about the selected file or folder, such as name, size, etc.
 
-** Settings **
+**Settings**
 
 Customize your eReader settings by adjusting it to your needs:
 
@@ -88,7 +88,7 @@ Customize your eReader settings by adjusting it to your needs:
 * About the eReader: Displays information model, battery status, software version, serial number, memory used and available ...
 
 
-** Sudoku **
+**Sudoku**
 
 Between readings do not forget to exercise your mind with this funny Sudoku. Challenge your mind by choosing the level of difficulty.
 
