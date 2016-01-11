@@ -12,4 +12,4 @@
 - Muy sencillo de utilizar a través de una interfaz de usuario intuitiva y disponible en múltiples idiomas.
 - Almacena miles de libros en su memoria interna de 8 GB, que además puedes ampliar 64 GB más mediante tarjetas microSD-HC/XC.
 
-*Cáculo basado en media hora de lectura diaria.
+#### Cáculo basado en media hora de lectura diaria.
