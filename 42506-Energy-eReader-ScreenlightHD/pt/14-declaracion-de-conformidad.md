@@ -2,7 +2,7 @@
 
 **Nome do fabricante:** Energy Sistem Technology S.A.
 
-**Data:** 06/10/2014
+**Data:** 01/01/2016
 
 **Endereço:** Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).
 
@@ -14,7 +14,7 @@
 
 Declaramos sob nossa exclusiva responsabilidade a conformidade do produto:
 
-**Energy Sistem#trade# - Energy eReader Slim HD**
+**Energy Sistem#trade# - Energy eReader Screenlight HD**
 
 **País de fabricação:** China
 
