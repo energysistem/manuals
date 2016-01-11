@@ -1,6 +1,6 @@
 ## Déclaration de conformité
 
-**Nom du Fournisseur:** Energy Sistem Soyntec S.A.
+**Nom du Fournisseur:** Energy Sistem Technology S.A.
 
 **Adresse:** Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
 
@@ -13,7 +13,7 @@
 
 Déclarons sous notre seule responsabilité que le produit:
 
-**Energy Sistem#trade# - Energy eReader Slim**
+**Energy Sistem#trade# - Energy eReader Slim HD**
 
 **Pays de fabrication:** Chine
 
