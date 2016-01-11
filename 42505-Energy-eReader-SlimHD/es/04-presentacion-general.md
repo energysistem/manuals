@@ -10,7 +10,6 @@
 6. Botón de refresco de pantalla
 7. Botón de paso de página hacia atrás
 8. Botón de paso de página hacia adelante
-
 9. Ranura para tarjeta microSD
 10. Conector micro USB
 11. Botón de encendido/apagado y modo de espera
