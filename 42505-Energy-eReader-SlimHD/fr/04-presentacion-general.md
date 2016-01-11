@@ -12,4 +12,4 @@
 9. Indicateur LED de chargement et fonctionnement
 10. Bouton de démarrage / éteint / mode veille
 11. Connecteur microUSB
-12. Entrée cartes microUSB
+12. Entrée cartes microSD
