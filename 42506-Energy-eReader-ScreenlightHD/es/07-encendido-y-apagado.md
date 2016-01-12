@@ -6,4 +6,16 @@ Para encender tu eReader Screenlight HD, mantén pulsado el botón encendido/apa
 
 Cuando tu eReader se encuentre en modo de espera o apagado mostrará una imagen en su pantalla indicando su estado. No te preocupes, esta imagen no consume energía.
 
+## Función Screenlight
+
+Gracias a la luz integrada de tu eReader Screenlight HD podrás disfrutar de la lectura en entornos de baja luminosidad manteniendo pulsado el botón Screenlight (8). 
+
+Realiza una pulsación prolongada de este botón para encender y apagar la luz de la pantalla.
+
+Pulsa brevemente para desplegar el la ventana de ajuste de nivel de iluminación.
+
+Selecciona el nivel pulsando sobre las teclas de dirección izquierda y derecha. Cuando esté a tu gusto pulsa la tecla central de selección o la tecla volver para salir. El menú en pantalla desaparecerá a los 10 segundos si no pulsas ninguna tecla.
+
+
+
 
