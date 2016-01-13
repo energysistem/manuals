@@ -2,7 +2,7 @@
 
 Before using radio function, firstly you have to search the available radio channels and will save them for visualising them later. It is not necessary to repeat this search unless change of location of modification of the radio stations' signal.
 
-To search radio channel, press and keep pressing FUNCTION CHANGE button (11) when the device is in Radio FM mode.
+To search radio channel, press and keep pressing FOLDER button (10) when the device is in Radio FM mode.
 
 This will save all stations founded in the internal memory of the device. This process may take a few minutes.
 
