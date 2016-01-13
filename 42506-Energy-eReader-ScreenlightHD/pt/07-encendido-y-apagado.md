@@ -5,3 +5,9 @@ Para ligar o eReader Screenlight HD, pressione o botão ligar / desligar / stand
 ![](http://static.energysistem.com/images/manuals/39225/569374303b9ac.jpg)
 
 Quando o seu eReader está em standby ou desligado irá exibir uma imagem na tela indicando o seu estado. Não se preocupe, isso não consumir energia.
+
+
+## Função Screenlight
+Com a luz integrada do seu eReader Screenlight HD pode desfrutar da sua leitura em condições de iluminação reduzida. Para activá-la só tem que premir o botão Screenlight (8). Pode definir mais parâmetros desta função no menu Definições do dispositivo. Faça uma pressão prolongada sobre o botão Screenlight (8) para mudar a luz no ecrã. Pressione rapidamente para selecionar o nível de iluminação.
+
+![](http://static.energysistem.com/images/manuals/39225/56966d2113b44.jpg)
