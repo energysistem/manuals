@@ -16,6 +16,7 @@ Pulsa brevemente para desplegar el la ventana de ajuste de nivel de iluminación
 
 Selecciona el nivel pulsando sobre las teclas de dirección izquierda y derecha. Cuando esté a tu gusto pulsa la tecla central de selección o la tecla volver para salir. El menú en pantalla desaparecerá a los 10 segundos si no pulsas ninguna tecla.
 
+![](http://static.energysistem.com/images/manuals/39225/56966d2113b44.jpg)
 
 
 
