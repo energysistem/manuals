@@ -17,3 +17,5 @@ Make a long press on the Screenlight button to turn on and off the Screenlight f
 Press briefly to display the lighting level adjustment window.
 
 Select the level by pressing the left and right navigation keys. Once it is selected the desired adjustment, press the center Selection key or Back key to exit. The menu screen will close after 10 seconds if you do not press any key.
+
+![](http://static.energysistem.com/images/manuals/39225/56966d2113b44.jpg)
