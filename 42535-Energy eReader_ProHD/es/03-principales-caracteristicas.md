@@ -11,4 +11,4 @@
 - Funciones avanzadas de lectura: diferentes tamaños, tipos de letra y marcadores.
 - Incluye 1500 libros de la literatura universal de regalo.
 
-* Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
+#### *Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
