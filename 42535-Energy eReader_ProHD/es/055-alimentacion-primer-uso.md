@@ -4,5 +4,5 @@ Tu Energy eReader Pro HD lleva incorporada una batería recargable de iones de l
 
 ![](http://static.energysistem.com/images/manuals/42535/5698c40746fd7.jpg)
 
-
+El tiempo de carga puede oscilar entre 3 y 5 horas.
 
