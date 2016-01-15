@@ -1,4 +1,4 @@
-## Instrucciones de uso
+## Alimentación
 
 Tu Energy eReader Pro HD lleva incorporada una batería recargable de iones de litio. Cuando se agote, la puedes recargar de nuevo conectando tu eReader a cualquier cargador USB Tipo A o a tu ordenador usando el cable microUSB incluido.
 
