@@ -1,12 +1,12 @@
 ## Encendido y apagado
 
-Para encender tu eReader, pulsa el botón encendido/apagado hasta que aparezca la imagen de inicio.
+Para encender tu eReader, pulsa el botón encendido/apagado (3) hasta que aparezca la imagen de inicio.
 
-![](http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
+![](http://static.energysistem.com/images/manuals/42535/5698c3fe67c19.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42091/54995f0540d20.jpg)
 
-Para apagar el dispositivo, mantén pulsado el botón hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar" pulsando en la pantalla. También puedes ponerlo en modo espera, realizando una breve pulsación sobre este mismo botón. El modo espera es un modo especial de bajo consumo que te permitirá volver instantáneamente a la pantalla en la que te encontrabas realizando otra breve pulsación.
+Para apagar el dispositivo, mantén pulsado este botón hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar" pulsando en la pantalla. También puedes ponerlo en modo espera, realizando una breve pulsación sobre este mismo botón. El modo espera es un modo especial de bajo consumo que te permitirá volver instantáneamente a la pantalla en la que te encontrabas realizando otra breve pulsación.
 
 ![](http://static.energysistem.com/images/manuals/42091/54995bf4db1ef.jpg)
 
