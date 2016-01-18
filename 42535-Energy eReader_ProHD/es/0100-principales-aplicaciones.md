@@ -8,7 +8,7 @@ Tu Energy eReader Pro HD tiene un acceso directo a Internet a trav√©s su conexi√
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d194fe7780.jpg)
 
-**Correo:**
+**Correo (Gmail):**
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499635f09527.jpg)
 
