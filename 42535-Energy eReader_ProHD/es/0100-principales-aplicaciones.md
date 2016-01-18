@@ -2,9 +2,9 @@
 
 **Navegador Internet:**
 
-![] (http://static.energysistem.com/images/manuals/42091/549962d8447a8.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/569d0d81e5567.jpg)
 
-Tu Energy eReader Pro+ tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
+Tu Energy eReader Pro HD tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999690cbdca.jpg)
 
