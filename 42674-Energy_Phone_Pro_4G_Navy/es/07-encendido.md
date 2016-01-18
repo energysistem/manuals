@@ -9,7 +9,7 @@ Una pulsación breve del botón de encendido / apagado (1) bloquea / desbloquea 
 
 ### Colocación tarjeta microSIM 1 / nanoSIM 2 / microSD
 
-Este dispositivo permite dos opciones de configuración para el uso de las tarjetas SIM y de almacenamiento SD.
+Este dispositivo ofrece dos opciones de configuración para el uso de las tarjetas SIM y de almacenamiento SD.
 Debido a su diseño compacto, la carcasa trasera de este modelo no es extraible por lo que para introducir las tarjetas es necesario emplear la herramienta de extracción SIM incluida con el propio producto. Para ello, inserta dicha herramienta en el orificio de la ranura (2) situado en el lateral derecho del dispositivo.
 
 Opción 1: Tarjeta microSIM 1 + Tarjeta de almacenamiento microSD (imagen 2a).
