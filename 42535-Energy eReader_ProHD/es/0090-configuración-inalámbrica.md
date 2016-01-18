@@ -10,7 +10,7 @@ Tu Energy eReader Pro+ dispone de conexión Wi-Fi. Para conectar tu dispositivo 
 
 - Establece la conexión, poniendo la contraseña de la red.
 
-![] (http://static.energysistem.com/images/manuals/42091/549956f23fb5a.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/569d13874ab30.jpg)
 
 *Nota:* Una vez se haya completado el proceso de autentificación con éxito, tu Energy eReader guardará los datos de acceso a la red Wi-Fi y estará listo para que puedas utilizar Internet. El dispositivo recordará la red y se conectará automáticamente a ella cuando ésta se encuentre disponible. 
 
