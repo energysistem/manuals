@@ -14,7 +14,7 @@
 
 - *Atrás:* ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). Permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
 
-- En ocasiones, encontrarás el icono de opciones adicionales ![](http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Pulsa
+- En ocasiones, encontrarás el icono de opciones adicionales ![](http://static.energysistem.com/images/manuals/42535/569d0b104612e.jpg). Pulsa
 este icono para acceder a opciones avanzadas.
 
 - *Luz:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Te permite ajustar el nivel de luz para iluminar la pantalla de tu eReader
