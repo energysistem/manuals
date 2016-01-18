@@ -1,11 +1,11 @@
 <quick_guide>
 ## Contenido del producto
 
-* Energy Phone Max 4G.
+* Energy Phone Pro 4G Navy.
 * Guía Rápida.
 * Protector de pantalla.
 * Cable USB.
 * Adaptador de corriente AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz.
-* Batería de litio recargable.
+* Herramienta de extracción de SIM.
 
 </quick_guide>

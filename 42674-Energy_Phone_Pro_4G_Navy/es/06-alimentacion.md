@@ -1,6 +1,6 @@
 <quick_guide>
 ## Alimentación
 
-Tu Energy Phone Max 4G lleva una batería recargable de iones de litio. Recarga la batería conectando el dispositivo a la toma de corriente mediante el adaptador de corriente y cable USB incluido con el producto. El tiempo de carga oscila entre 2-4 horas, dependiendo de si el dispositivo está apagado o en funcionamiento.
+Tu Energy Phone Pro 4G Navy lleva una batería recargable de  polímero de iones de litio. El tiempo de carga oscila entre 2 y 3 horas, dependiendo de si el dispositivo está apagado o en funcionamiento. Para garantizar estos tiempos, recarga siempre tu teléfono mediante el cable USB y adaptador de corriente incluidos con el producto.
 
 </quick_guide>
