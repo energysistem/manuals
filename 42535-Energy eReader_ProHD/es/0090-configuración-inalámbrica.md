@@ -1,6 +1,6 @@
 ## Configuración Inalámbrica
 
-Tu Energy eReader Pro+ dispone de conexión Wi-Fi. Para conectar tu dispositivo a una red inalámbrica, solo tienes que ir a ![](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Ajustes >> ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi y mover el interruptor a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). A continuación comenzará una búsqueda de redes inalámbricas y solo tendrás que seleccionar una para comenzar el proceso de conexión.
+Tu Energy eReader Pro HD dispone de conexión Wi-Fi. Para conectar tu dispositivo a una red inalámbrica, solo tienes que ir a ![](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Ajustes >> ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi y mover el interruptor a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). A continuación comenzará una búsqueda de redes inalámbricas y solo tendrás que seleccionar una para comenzar el proceso de conexión.
 
 - ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi 
 - Habilita el interruptor Wi-Fi moviéndolo a la posición SI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
