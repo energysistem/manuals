@@ -2,5 +2,7 @@
 
 |  |  |
 |:-------|:-------|
-|1.	VOLUME - <br> 2. VOLUME + <br> 3. MODE <br> 4. PLAY/PAUSE & ON/OFF <br> 5. CONTROL TALK <br> 6.PREVIOUS <br> 7.	NEXT <br> 8. MICROPHONE <br> 9.  POWER ON INDICATOR <br> 10.AUDIO OUTPUT CONNECTION <br> 11. CHARGE LED INDICATOR <br> 12. USB CONNECTION FOR BATTERY CHARGE <br> 13. MODE LED INDICATOR <br> 14. AUDIO INPUT CONNECTION <br> |![Imagen1](http://static.energysistem.com/images/manuals/42448/55154650cb18f.jpg)|
+|1.	MICROPHONE <br> 2. VOLUME - <br> 3. VOLUME + <br> 4. MODE / BLUETOOTH SEARCH <br> 5. PLAY/PAUSE / ON/OFF / CONTROL TALK <br> 6.PREVIOUS <br> 7.	NEXT <br> 8. FUNCTION INDICATOR LED <br> 9.  CHARGING LED<br> 10. USB CONNECTION FOR BATTERY CHARGE <br> 11. AUDIO INPUT CONNECTION <br> |![Imagen1](http://static.energysistem.com/images/manuals/42651/569e63691620b.jpg)|
+
+
 
