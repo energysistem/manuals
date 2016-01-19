@@ -10,8 +10,7 @@
 - Portable and compact design, allows you to take it anywhere and amplify your music.
 - 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
 - Bluetooth® handsfree function.
-- Rechargeable lithium battery.
-- microUSB port battery charger.
+- Rechargeable battery.
 <br/><br/>
 
 ### Technical features
