@@ -25,7 +25,6 @@
 - Built-in microphone (handsfree function).
 - 3.5 mm "Audio-In" port.
 - Rechargeable lithium battery.
-- Rechargeable lithium battery up to 15 hours duration.*
 - Audio output connection.
 
 ### Battery specifications
