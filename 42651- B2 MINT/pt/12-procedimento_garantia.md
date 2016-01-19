@@ -11,5 +11,5 @@ As especificações estão sujeitas a alterações sem aviso prévio.
 
 *Marcas Registradas.* Todas as empresas, marcas e nomes de produtos são marcas comerciais ou registradas de suas respectivas empresas.
 
-©2015 por Energy Sistem Soyntec S.A. Todos os direitos reservados.
+©2015 por Energy Sistem Technology S.A. Todos os direitos reservados.
 
