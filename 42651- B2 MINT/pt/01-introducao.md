@@ -1,6 +1,6 @@
 ## <quick_guide> Introdução
 
-* Energy Sistem® agradece-lhe a aquisição do *Energy Music Box B3 Bluetooth*, desejamos-lhe que o desfrute.
+* Energy Sistem® agradece-lhe a aquisição do *Energy Music Box B2 Bluetooth*, desejamos-lhe que o desfrute.
 
 * Alto-falante MP3 portátil com tecnologia Bluetooth®. Desfruta da tua música sem fios desde qualquer dispositivo Bluetooth®, Audio-In e bateria recarregável.
 
