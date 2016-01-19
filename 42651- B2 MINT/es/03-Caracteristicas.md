@@ -4,10 +4,9 @@
 *	Altavoz portátil Bluetooth®.
 *	Conexiones: Bluetooth® y entrada de audio line-in de 3,5 mm.
 *	Fácil sincronización con smartphones, tablets y cualquier otro dispositivo Bluetooth.
-*	Control de volumen desde el propio altavoz.
+*	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
 *	Ligero y de reducidas dimensiones.
-*	Recepción de llamadas automática.
 *	Distancia de hasta 10 m de alcance.
 *	Batería de litio recargable.
 
