@@ -2,5 +2,5 @@
 
 |  |  |
 |:-------|:-------|
-|1.	RETROCESO <br>2. VOLUMEN - <br> 3. VOLUMEN +<br> 4.  AVANCE <br> 5.CAMBIO DE MODO /BUSQUEDA BLUETOOTH <br> 6.	ENCENDIDO/APAGADO, REPRODUCCIÓN/PAUSA Y CONTROL DE LLAMADA <br> 7.	MICRÓFONO <br> 8. LED INDICADOR DE FUNCIÓN   <br> 9. CONEXIÓN DE ENTRADA DE AUDIO <br> 10. LED DE CARGA <br> 11. CONEXIÓN USB PARA CARGAR LA BATERÍA <br>  |![Imagen1](http://static.energysistem.com/images/manuals/42448/55154650cb18f.jpg)|
+|1.	MICRÓFONO <br>2. VOLUMEN - <br> 3. VOLUMEN +<br> 4.  CAMBIO DE MODO / BÚSQUEDA BLUETOOTH <br> 5. ENCENDIDO/APAGADO, REPRODUCCIÓN/PAUSA Y CONTROL DE LLAMADA <br> 6.	RETROCESO <br> 7.	AVANCE <br> 8. LED INDICADOR DE FUNCIÓN   <br> 9. LED DE CARGA <br> 10. CONEXIÓN USB PARA CARGAR LA BATERÍA <br> 11. CONEXIÓN DE ENTRADA DE AUDIO <br>  |![Imagen1](http://static.energysistem.com/images/manuals/42651/569e626bad6f6.jpg)|
 </quick_guide>
