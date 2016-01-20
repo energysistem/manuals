@@ -4,7 +4,7 @@
 ![Imagen2](http://static.energysistem.com/images/manuals/39725/569d05f812179.jpg)
 
 1. Botón de encendido/apagado y led de notificaciones
-2. Bandeja de tarjetas microSIM 1 / nanoSIM 2 / microSD
+2. Bandeja de tarjetas microSIM 1/nanoSIM 2/microSD
 3. Flash trasero
 4. Cámara trasera
 5. Salida de auriculares
