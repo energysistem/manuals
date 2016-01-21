@@ -13,8 +13,8 @@
 8. Receiver
 9. Proximity and luminosity sensors
 10. Front camera
-11. Volume button
-12. Volume button
+11. Volume button +
+12. Volume button -
 13. MicroUSB Input
 14. Speaker
 15. Microphone 
