@@ -1,5 +1,5 @@
 <quick_guide>
-## Precauções de utilização e informação SAR
+## Precauções de utilização e SAR
 ### Precauções de utilização
 Em certas situações ou locais como aviões, hospitais, estações de serviço e outros é proibida a utilização do telefone.
 
