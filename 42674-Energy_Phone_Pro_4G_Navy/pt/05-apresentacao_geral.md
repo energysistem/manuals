@@ -19,7 +19,7 @@
 13.	Porta microUSB
 14.	Altifalante
 15.	Microfone
-16.	Botões tácteis: aplicações recentes, início, voltar
+16.	Botões tácteis do sistema: aplicações recentes, início, voltar
 17.	Ferramenta de ejectar cartões SIM/microSD
 
 </quick_guide>
