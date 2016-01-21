@@ -1,6 +1,6 @@
 ## Contenido del producto
 
-- Energy Tower Wi.Fi.
+- Energy Multiroom Tower Wi-Fi.
 - Mando a distancia.
 - Cable de audio (3,5mm).
 
