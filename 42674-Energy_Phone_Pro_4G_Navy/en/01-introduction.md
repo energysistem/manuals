@@ -7,5 +7,5 @@ Your new phone has an AMOLED HD 5" display (1280x720 pixels) with anti-fingerpri
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it.  It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
 
-## <unique> * Find the complete manual of the *Energy Phone Pro 4G Navy* in the following link  http://www.energysistem.com/guide/42674 </unique> 
+## <unique> * Find the complete manual of the *Energy Phone Pro 4G Navy* in the following link  http://www.energysistem.com/guide/42674 </unique>
 </quick_guide>

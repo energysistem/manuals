@@ -1,7 +1,7 @@
 <quick_guide>
 ## General overview
 
-![Imagen2](http://static.energysistem.com/images/manuals/39725/569d05f812179.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/39725/56a0a63ce5c76.jpg)
 
 1. Power/standby button and notification led
 2. MicroSIM 1/nanoSIM 2/microSD card trays
@@ -17,7 +17,7 @@
 12. Volume button -
 13. MicroUSB Input
 14. Speaker
-15. Microphone 
+15. Microphone
 16. System touch buttons: Recent Apps, Home, Back
 17. SIM/microSD extraction tool
 
