@@ -11,8 +11,8 @@ Une pulsation brève de la touche allumer/éteindre (1) bloque/débloque l'appar
 
 Pour placer les cartes SIMs/microSD vous devez retirer le plateau (2) uniquement avec l'outil (17) qui se trouve à l'extérieur de l'enveloppe inclut avec le produit. Insérez l'outil dans l'orifice du plateau (2) mentionné. Une fois extraite, vous pourrez vérifier que l'appareil offre deux configurations possibles pour l'usage des cartes SIM et de stockage SD, comme suit :
 
-Option 2a : Carte microSIM + Carte de stockage microSD
-Option 2b : Carte microSIM + Carte nanoSIM 2
+Option 2a : Carte microSIM 1 + Carte de stockage microSD
+Option 2b : Carte microSIM 1 + Carte nanoSIM 2
 
 </quick_guide>
 
