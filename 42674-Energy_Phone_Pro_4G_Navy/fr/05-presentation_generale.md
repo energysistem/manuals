@@ -19,7 +19,7 @@
 14. Haut-parleur
 15. Microphone
 16. Boutons tactiles : Applications récentes, Démarrage, Retour
-17. Outil d'extraction SIM/microSD
+17. Outil d'extraction SIMs/microSD
 
 
 </quick_guide>
