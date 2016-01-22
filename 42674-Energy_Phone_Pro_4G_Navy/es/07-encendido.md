@@ -12,7 +12,7 @@ Una pulsación breve del botón de encendido/apagado (1) bloquea/desbloquea el d
 Para colocar las tarjetas SIM/microSD deberás extraer la bandeja (2) empleando exclusivamente la herramienta (17) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (2) mencionada. Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM
 y/o de almacenamiento SD, como sigue:
 
-Opción 2a: Tarjeta microSIM 1 + Tarjeta de almacenamiento microSD.
-Opción 2b: Tarjeta microSIM 1 + Tarjeta nanoSIM 2.
+Option 2a: Tarjeta microSIM 1 + Tarjeta de almacenamiento microSD.
+Option 2b: Tarjeta microSIM 1 + Tarjeta nanoSIM 2.
 
 </quick_guide>
