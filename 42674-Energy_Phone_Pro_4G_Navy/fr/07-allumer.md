@@ -5,7 +5,7 @@ Avant d'allumer votre Energy Phone Pro 4G Navy, assurez-vous que les cartes SIMs
 
 Pour éteindre l'appareil, appuyez sur la touche allumer/éteindre (1) jusqu'à l'éteint, à continuation, choisissez l'option "Éteint".
 
-Une pulsation brève de la touche allumer/éteindre (1) bloque/débloque l'appareil, et allume et éteint l'écran.
+Une pulsation brève de la touche allumer/éteindre (1) bloque/débloque l'appareil et allume/éteint l'écran.
 
 ### Placement carte microSIM 1/nanoSIM 2/microSD
 
