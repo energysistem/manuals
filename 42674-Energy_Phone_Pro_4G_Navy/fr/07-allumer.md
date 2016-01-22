@@ -7,7 +7,7 @@ Pour éteindre l'appareil, appuyez sur la touche allumer/éteindre (1) jusqu'à 
 
 Une pulsation brève de la touche allumer/éteindre (1) bloque/débloque l'appareil, et allume et éteint l'écran.
 
-### Placement carte microSIM 1/nanoSIM 2 microSD
+### Placement carte microSIM 1/nanoSIM 2/microSD
 
 Pour placer les cartes SIMs/microSD vous devez retirer le plateau (2) uniquement avec l'outil (17) qui se trouve à l'extérieur de l'enveloppe inclut avec le produit. Insérez l'outil dans l'orifice du plateau (2) mentionné. Une fois extraite, vous pourrez vérifier que l'appareil offre deux configurations possibles pour l'usage des cartes SIM et de stockage SD, comme suit :
 
