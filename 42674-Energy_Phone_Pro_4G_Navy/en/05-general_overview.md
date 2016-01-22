@@ -18,8 +18,8 @@
 13. MicroUSB Input
 14. Speaker
 15. Microphone
-16. System touch buttons: Recent Apps, Home, Back
-17. SIMs/microSD extraction tool
+16. System touch buttons: recent apps, home, back
+17. SIM/microSD extraction tool
 
 
 </quick_guide>
