@@ -8,4 +8,8 @@ Para pasar de canción en canción, pulsa los botones de AVANCE (7) y RETROCESO 
 
 Para avanzar o retroceder rápido dentro de una misma canción, mantén pulsados los botones de AVANCE (7) o RETROCESO (6). Cuando sueltes el botón, se reanudará la reproducción.
 
-Se puede cambiar el modo de reproducción a través de memorias USB y tarjetas de memoria SD/MMC, pulsando el botón MODO (3) durante 2 segundos. De esta forma, podrás seleccionar entre reproducción normal, reproducción aleatoria o repetición de pista.
+Se puede cambiar el modo de reproducción pulsando el botón MODO (3) durante 2 segundos. En la pantalla podrás visualizar el modo de reproducción seleccionado, hay 3 diferentes:
+
+- ALL: reproducción normal de todo el contenido de la memoria.
+- ONE: reproducción en bucle de la pista que estás escuchando.
+- RAND: reprodución aleatoria de todo el contenido de la memoria.
