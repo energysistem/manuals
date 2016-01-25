@@ -1,5 +1,3 @@
-CAMBIAR FOTO
-
 <quick_guide>
 ## General Overview
 
