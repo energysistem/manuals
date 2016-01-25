@@ -52,7 +52,7 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 
 **Bloc de Notas:**
 
-![] (http://static.energysistem.com/images/manuals/42091/549964d20a26a.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/56a6503a232ae.jpg)
 
 Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
 
