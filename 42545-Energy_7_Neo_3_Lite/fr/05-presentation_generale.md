@@ -2,7 +2,7 @@
 
 ## Présentation générale
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42545/56a6427804adb.jpg)
 
 1.	Appareil photo arrière
 2.	Appareil photo frontal
