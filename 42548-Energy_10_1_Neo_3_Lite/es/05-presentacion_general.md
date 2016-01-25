@@ -23,13 +23,10 @@
 
 9. Ranura para microSD
 
-8. Cámara trasera
+10. Cámara trasera
 
 11. Flash
 
-
-
-10. Flash
 
 </quick_guide>
 
