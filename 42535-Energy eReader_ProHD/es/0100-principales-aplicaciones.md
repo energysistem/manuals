@@ -38,38 +38,17 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 -	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
 -	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
 -	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42091/5499687e1d486.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando el "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
--	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42091/5499689351ff1.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
--	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42091/5499683c600c2.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
--	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42091/54996859bc9ae.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
--	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42091/549930e4088f3.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
+-	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando sobre "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
+-	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
+-	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
+-	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
+-	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
 -	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42091/549989ccd2aea.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42091/549968214d699.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
--	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42091/54994004280fa.jpg). Permite configurar el nivel de luz más adecuado.
+-	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
+-	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Permite configurar el nivel de luz más adecuado.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
 
-**Música:**
-
-![] (http://static.energysistem.com/images/manuals/42091/549964cb4f678.jpg)
-
-Esta aplicación permite acceder a la biblioteca y disfrutar de todos tus archivos audio almacenados en la memoria interna de tu eReader o en la tarjeta micro SD/SDHC. En el menú de aplicaciones, selecciona el icono (icono música).
-Una vez la aplicación abierta, podrás disfrutar de todos tus archivos de audio. La búsqueda de tus archivos de audio favoritos está facilitada por su almacenamiento por artistas, por álbumes, por canciones o por listas.
-
-![] (http://static.energysistem.com/images/manuals/42091/54999da5cc327.jpg)
-
-*Modo reproducción:* puedes definir el orden de reproducción de las canciones (reproducción aleatoria, repetir la canción actual, repetir todas las canciones).
-Ese modo de reproducción ofrece la posibilidad de:
--	Acceder directamente a tu biblioteca para elegir tu canción
--	Hacer una reproducción aleatoria de tus canciones
--	Añadir esa canción a una de tus listas
--	Eliminar la canción directamente
--	Controlar el volumen
--	Modificar los efectos de sonido
-
-*Nota:* Los botones laterales te permiten aumentar o disminuir directamente el volumen de la canción que estás escuchando.
-
-![] (http://static.energysistem.com/images/manuals/42091/54999ccf2d853.jpg)
 
 **Bloc de Notas:**
 
