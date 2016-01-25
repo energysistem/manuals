@@ -3,16 +3,16 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42546/56a643ee7c760.jpg)
 
-1.	Rear camera
-2.	Front camera
-3.	Speaker
-4.	Power button
+1.	Front camera
+2.	Flash
+3.	Power button
+4.	Touchscreen
 5.	Volume button +/-
-6.	Touchscreen
-7.	MicroSD slot
-8.	MicroUSB slot
+6.	Rear Camera
+7.	Flash
+8.	Speaker
 9.	Earphones output
-10.	Flash
-
+10.	MicroUSB slot
+11. MicroSD slot
 
 </quick_guide>
