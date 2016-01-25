@@ -10,7 +10,7 @@ Tu Energy eReader Pro HD tiene un acceso directo a Internet a través su conexi�
 
 **Correo (Gmail):**
 
-![] (http://static.energysistem.com/images/manuals/42091/5499635f09527.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/56a63a5cde8e2.jpg)
 
 La aplicación de Correo te permite recibir, enviar y consultar tus correos mediante su interfaz configurada con tu cuenta electrónica.
 Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
