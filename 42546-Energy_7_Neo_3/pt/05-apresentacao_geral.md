@@ -3,7 +3,7 @@
 ## <quick_guide> Apresentação geral
 
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42546/56a643ee7c760.jpg)
 
 1. Câmara traseira
 
