@@ -20,12 +20,12 @@ Otra opción de esa aplicación es la posibilidad de configurar varias cuentas e
 
 **Biblioteca:**
 
-![] (http://static.energysistem.com/images/manuals/42091/549963bb6267e.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
 Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
 Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
 
-![] (http://static.energysistem.com/images/manuals/42091/549999bcb6cac.jpg)
+![] (http://static.energysistem.com/images/manuals/42535/56a64147ea852.jpg)
 
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
