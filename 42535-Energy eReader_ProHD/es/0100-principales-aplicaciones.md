@@ -29,8 +29,11 @@ Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando
 
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
-Diferentes funciones son posibles durante la lectura de un libro:
--	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42091/549968861ae4e.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
+Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el centro del texto en la vista lectura para acceder al menú:
+
+![](http://static.energysistem.com/images/manuals/42535/56a6488b920aa.jpg)
+
+-	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
 -	*Cambiar el tamaño de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
 -	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
 -	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
