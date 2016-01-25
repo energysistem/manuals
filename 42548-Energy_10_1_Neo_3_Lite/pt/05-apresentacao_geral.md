@@ -3,26 +3,30 @@
 ## <quick_guide> Apresentação geral
 
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42548/56a64afbc2972.jpg)
 
-1. Câmara traseira
 
-2. Câmara frontal
+1. Câmara frontal
 
-3. Altifalante
+2. Flash
 
-4. Botão de ligar/desligar
+3. Ecrã táctil
 
-5. Botão de volume +/-
+4. Altifalante
 
-6. Ecrã táctil
+5. Botão de ligar/desligar
 
-7. Slot para microSD
+6. Botão de volume +/-
 
-8. Slot para microUSB
+7. Slot para microUSB
 
-9. Saída para auscultadores
+8. Saída para auscultadores
 
-10. Flash
+9. Slot para microSD
+
+10. Câmara traseira
+
+11. Flash
+
 
 </quick_guide>
