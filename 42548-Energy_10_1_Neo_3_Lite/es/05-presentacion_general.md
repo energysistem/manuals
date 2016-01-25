@@ -3,25 +3,31 @@
 ## <quick_guide> Presentación general
 
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42548/56a64afbc2972.jpg)
 
-1. Cámara trasera
+1. Cámara delantera
 
-2. Cámara delantera
+2. Flash
 
-3. Altavoz
+3. Pantalla táctil
 
-4. Botón de encendido/apagado
+4. Altavoz
 
-5. Botón de control de volumen +/-
+5. Botón de encendido/apagado
 
-6. Pantalla táctil
+6. Botón de control de volumen +/-
 
-7. Ranura para microSD
+7. Ranura para microUSB
 
-8. Ranura para microUSB
+8. Salida de auriculares
 
-9. Salida de auriculares
+9. Ranura para microSD
+
+8. Cámara trasera
+
+11. Flash
+
+
 
 10. Flash
 
