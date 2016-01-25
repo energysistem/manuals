@@ -43,7 +43,7 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 -	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
 -	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
 -	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
--	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42091/549989ccd2aea.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
+-	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
 -	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
 -	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Permite configurar el nivel de luz más adecuado.
 
