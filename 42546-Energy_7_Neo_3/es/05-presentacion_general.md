@@ -1,5 +1,3 @@
-﻿CAMBIAR IMAGEN
-
 ## <quick_guide> Presentación general
 
 
