@@ -30,7 +30,7 @@ IOS: XXXXX
 
 1.4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi".
 
-1.5)Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
+1.5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
 
 #### 2) ¿Tienes más altavoces Energy Wi-Fi? Conéctalos y disfruta  del modo multiroom.
