@@ -15,6 +15,6 @@ Cuando la batería del auricular está a punto de agotarse, el auricular emitir�
 
 **Consideraciones importantes:** 
 
-- No uses cargadores de tablet. Los adaptadores deben de un amperaje máximo de 1A (1000mA).
+- No uses cargadores de tablets. Los adaptadores deben de un amperaje máximo de 1A (1000mA).
 - Se recomienda cargar el dispositivo apagado. 
 - No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
