@@ -1,7 +1,5 @@
 ## Características
 
-### Características generales
-
 - Sistema de sonido 2.1 en torre.
 - Conectividad sin cables: Bluetooth® v4.0 + EDR.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
