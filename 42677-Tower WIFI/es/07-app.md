@@ -4,7 +4,7 @@ Descarga la aplicación Energy Wi-Fi y sácale el máximo partido a tu altavoz:
 
 - Controla el altavoz desde tu smartphone o tablet. Puedes controlarlo desde varios dispositivos al mismo tiempo.
 
-- Modo Multiroom: Conecta varios altavoces Wi-Fi para reproducir el contenido que desees de manera simultanea o independiente.
+- Modo Multiroom: Conecta varios altavoces Wi-Fi para reproducir el contenido que desees de manera sincronizada o independiente.
 
 - Explora cualquier emisora de radio streaming con TuneIn.
 
