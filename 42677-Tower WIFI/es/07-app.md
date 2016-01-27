@@ -32,8 +32,7 @@ También puedes escanear los codigos que encontrarás en la guía rápida.
 
 1.4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi".
 
-1.5)Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
-
+1.5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
 #### 2) ¿Tienes más altavoces Energy Wi-Fi? Conéctalos y disfruta del modo multiroom.
 
@@ -68,7 +67,7 @@ Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD 
 
 ##### 3.4) Entradas auxiliares.
 
-   En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
+En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
 
 - AUX 1. Se encuentra en el lateral del panel superior. Se trata de una conexión mini jack 3.5mm. El resto de modos de reproducción se silenciarán cuando el altavoz detecte señal en esta entrada.
 
@@ -82,12 +81,13 @@ Explora cualquier emisora de radio streaming mundial usando esta opción.
 
 Escucha tu música favorita en Spotify (requiere contratación de cuenta premium).
 
-####  4) Requisitos 
-Para un correcto funcionamiento, el router de tu red privada debe cumplir con estos requisitos:
+####  4) Configuración necesaria del router.
 
-4.1) Debe estar configurado a 2.4 GHz. El sistema Multiroom no es compatible con la frecuencia 5 GHz.
+Para un correcto funcionamiento, el router de tu red privada debe:
 
-4.2) El sistema de encriptación puede ser WPS o WEP. El sistema WPA es incompatible.
+4.1) Estar configurado a 2.4 GHz. El sistema Multiroom no es compatible con la frecuencia 5 GHz.
+
+4.2) Estar encriptado mediante protocolos WPS o WEP. El sistema WPA es incompatible.
 
 
 
