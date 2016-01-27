@@ -43,10 +43,10 @@ Una vez realizada la configuración inicial con el primer altavoz, sigue los mis
 
 Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada. 
 
-2.1) Modo Multiroom independiente.
+##### 2.1) Modo Multiroom independiente.
 
 
-2.2) Modos Multiroom sincronizado.
+##### 2.2) Modos Multiroom sincronizado.
 
 
 #### 3) Opciones de reproducción.
@@ -56,17 +56,17 @@ Ya uses un sólo altavoz o varios mediante el modo Multiroom independiente o sin
 
 Reproduce el contenido de tu smartphone o tablet.
 
-3.2) Bluetooth.
+##### 3.2) Bluetooth.
 
 Cambia de modo reproducción pulsando el botón Modo () de tu altavoz y selecciona el modo Bluetooth (aparecerá "bt" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
 Esta es tu opción si deseas reproducir videos streaming en modo Multiroom.
 
-3.3) USB/SD.
+##### 3.3) USB/SD.
 
 Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD de manera automática. 
 
-3.4) Entradas auxiliares.
+##### 3.4) Entradas auxiliares.
 
    En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
 
@@ -74,11 +74,11 @@ Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD 
 
 - AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón MODO ().
 
-3.5) TuneIn
+##### 3.5) TuneIn
 
 Explora cualquier emisora de radio streaming mundial usando esta opción. 
 
-3.6) Spotify
+##### 3.6) Spotify
 
 Escucha tu música favorita en Spotify (requiere contratación de cuenta premium).
 
