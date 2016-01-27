@@ -82,9 +82,12 @@ Explora cualquier emisora de radio streaming mundial usando esta opción.
 
 Escucha tu música favorita en Spotify (requiere contratación de cuenta premium).
 
+####  4) Requisitos 
+Para un correcto funcionamiento, el router de tu red privada debe cumplir con estos requisitos:
 
+4.1) Debe estar configurado a 2.4 GHz. El sistema Multiroom no es compatible con la frecuencia 5 GHz.
 
-
+4.2) El sistema de encriptación puede ser WPS o WEP. El sistema WPA es incompatible.
 
 
 
