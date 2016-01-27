@@ -2,7 +2,7 @@
 
 Descarga la aplicación Energy Wi-Fi y sácale el máximo partido a tu altavoz:
 
-- Controla el altavoz desde tu smartphone o tablet.
+- Controla el altavoz desde tu smartphone o tablet. Puedes controlarlo desde varios dispositivos al mismo tiempo.
 
 - Modo Multiroom: Conecta varios altavoces Wi-Fi para reproducir el contenido que desees de manera simultanea o independiente.
 
@@ -33,24 +33,34 @@ IOS: XXXXX
 1.5)Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
 
-#### 2) ¿Tienes más altavoces Energy Wi-Fi? Conéctalos y disfruta  del modo multiroom.
+#### 2) ¿Tienes más altavoces Energy Wi-Fi? Conéctalos y disfruta del modo multiroom.
 
-Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet para reproducir tu música de manera simultánea o independiente.
+Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
-Una vez realizada la configuración inicial con el primer altavoz, sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz wi-Fi. Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 10 altavoces en modo Multiroom.
+Una vez realizada la configuración inicial con el primer altavoz, sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz wi-Fi. Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
+
+Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir una contenido diferente por cada altavoz o la misma por varios de manera sincronizada. 
+
+
+2.1) Modo Multiroom independiente.
+
+
+2.2) Modos Multiroom sincronizado.
+
+
 
 #### 3) Opciones de reproducción.
 Ya uses un sólo altavoz o varios mediante el modo Multiroom, dispones de las siguientes opciones de reproducción.
 
-2.1) Mi música.
+3.1) Mi música.
 
-2.2) Bluetooth.
+3.2) Bluetooth.
 
 Esta es tu opción si deseas reproducir videos streaming en modo Multiroom.
 
-2.3) USB/SD.
+3.3) USB/SD.
 
-2.4) Entradas auxiliares.
+3.4) Entradas auxiliares.
 
 En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
 
@@ -58,9 +68,9 @@ En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para c
 
 - AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón MODO ().
 
-2.5) TuneIn
+3.5) TuneIn
 
-2.6) Spotify
+3.6) Spotify
 
 
 
