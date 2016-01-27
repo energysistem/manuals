@@ -52,7 +52,7 @@ Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pist
 #### 3) Opciones de reproducción.
 Ya uses un sólo altavoz o varios mediante el modo Multiroom independiente o sincronizado, dispones de las varias opciones de reproducción:
 
-3.1) Mi música.
+##### 3.1) Mi música.
 
 Reproduce el contenido de tu smartphone o tablet.
 
