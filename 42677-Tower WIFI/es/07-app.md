@@ -18,6 +18,8 @@ Android: XXXXX
 
 IOS: XXXXX
 
+También puedes escanear los codigos que encontrarás en la guía rápida.
+
 ### Pasos a seguir:
 
 #### 1) Configuración inicial.
@@ -39,8 +41,7 @@ Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu sma
 
 Una vez realizada la configuración inicial con el primer altavoz, sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz wi-Fi. Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
 
-Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir una contenido diferente por cada altavoz o la misma por varios de manera sincronizada. 
-
+Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada. 
 
 2.1) Modo Multiroom independiente.
 
@@ -48,17 +49,19 @@ Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pist
 2.2) Modos Multiroom sincronizado.
 
 
-
 #### 3) Opciones de reproducción.
-Ya uses un sólo altavoz o varios mediante el modo Multiroom, dispones de las siguientes opciones de reproducción.
+Ya uses un sólo altavoz o varios mediante el modo Multiroom independiente o sincronizado, dispones de las varias opciones de reproducción:
 
 3.1) Mi música.
+Reproduce el contenido de tu smartphone o tablet.
 
 3.2) Bluetooth.
+Cambia de modo reproducción pulsando el botón Modo () de tu altavoz y selecciona el modo Bluetooth (aparecerá "bt" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
 Esta es tu opción si deseas reproducir videos streaming en modo Multiroom.
 
 3.3) USB/SD.
+Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD de manera automática. 
 
 3.4) Entradas auxiliares.
 
@@ -69,9 +72,10 @@ En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para c
 - AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón MODO ().
 
 3.5) TuneIn
+Explora cualquier emisora de radio streaming mundial usando esta opción. 
 
 3.6) Spotify
-
+Escucha tu música favorita en Spotify (requiere contratación de cuenta premium).
 
 
 
