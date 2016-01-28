@@ -5,7 +5,7 @@
 - Luz integrada y regulable para leer bajo cualquier condición de luminosidad.
 - Conectividad Wi-Fi N de alta velocidad integrada.
 - Procesador de doble núcleo Cortex A9 de alto rendimiento.
-- SIstema operativo Android para disfrutar de aplicaciones como diccionario, correo, descarga de contenidos en la nube, etc.
+- Sistema operativo Android para disfrutar de aplicaciones como diccionario, correo, descarga de contenidos en la nube, etc.
 - Diseño ultra-delgado y ergonómico, ideal para la sujeción durante horas y horas de lectura.
 - Batería de litio recargable de alta capacidad con 2800 mAh, que permite hasta dos meses de uso con una sola carga.*
 - Funciones avanzadas de lectura: diferentes tamaños, tipos de letra, marcadores, notas, subrayado...
