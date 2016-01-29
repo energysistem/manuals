@@ -18,7 +18,7 @@ Otra opción de esa aplicación es la posibilidad de configurar varias cuentas e
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999ab245c55.jpg)
 
-**Biblioteca:**
+**Libros:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
@@ -28,6 +28,8 @@ Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando
 ![] (http://static.energysistem.com/images/manuals/42535/56a64147ea852.jpg)
 
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
+
+### Funciones avanzadas de lectura
 
 Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el centro del texto en la vista lectura para acceder al menú:
 
