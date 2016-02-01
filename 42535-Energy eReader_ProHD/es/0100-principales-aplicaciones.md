@@ -54,7 +54,7 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 ### Función diccionario
 Tu Energy eReader Pro HD incorpora una función de diccionario que te permite instalar cualquier base de datos compatible "StarDict", uno de los formatos de diccionario electrónico más extendidos.
 
-Puedes instalar los diccionarios dentro de la carpeta "/dict" en el directorio raíz de la memoria principal de tu eReader.
+Puedes instalar los diccionarios dentro de la carpeta "/dict" en el directorio raíz de la memoria principal de tu eReader. Generalmente los diccionarios tipo "StarDict" están contenidos en 3 ficheros en formato *.dz, *.idz y *.ifo. 
 
 Una vez instalado el diccionario podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
 
