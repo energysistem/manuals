@@ -8,4 +8,8 @@ Pour passer la chanson, appuyez sur les boutons d'AVANCE (7) et RECUL (6). Avanc
 
 Pour avancer ou reculer rapidement dans une même chanson, appuyez les boutons d'AVANCE (7) ou RECUL (6). Si vous relâchez le bouton, la lecture sera reprise.
 
-Vous pouvez changer le mode de lecture via mémoires USB et cartes SD/MMC en appuyant sur le bouton MODE (3) pendant 2 secondes. De cette façon, vous pouvez choisir entre la lecture normale, aléatoire ou répétition de piste.
+Vous pouvez changer le mode de lecture en appuyant sur le bouton MODE (3) pendant 2 secondes. Vous pourrez visualiser le mode de lecture sélectionné dans l’écran, il y a 3 modes différents :
+
+* ALL : lecture normale de tout le contenu de la mémoire.
+* ONE : lecture en boucle de la piste que vous écoutez.
+* RAND : lecture aléatoire de tout le contenu de la mémoire.
