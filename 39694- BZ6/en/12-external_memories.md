@@ -8,4 +8,9 @@ Change the track by using the NEXT (7) and PREVIOUS (6) buttons. To advance to t
 
 To quick forward or backward the song, keep the NEXT (7) or PREVIOUS (6) buttons. By releasing the button, the playback will continue normally.
 
-You can change the playback mode via USB device and SD/MMC memory cards by pressing the MODE button (3) for 2 seconds. This way, you can select between normal play, random or repeat track mode.
+You can change the playback mode by pressing the MODE (3) button for 2 seconds. The selected playback mode will be displayed on the screen, there are 3 different modes:
+
+* ALL: normal playback of all the memory content.
+* ONE: loop playback of the song you are listening.
+* RAND: random playback of all the memory content.
+
