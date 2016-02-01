@@ -66,7 +66,7 @@ Esta es tu opción si deseas reproducir videos streaming en modo Multiroom.
 
 ##### 3.3) USB/SD.
 
-Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD de manera automática. 
+Al introducir una memoria externa (USB o SD) tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas.
 
 ##### 3.4) Entradas auxiliares.
 
