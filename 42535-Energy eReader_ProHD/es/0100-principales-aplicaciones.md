@@ -1,4 +1,4 @@
-## Aplicaciones
+## Principales aplicaciones
 
 **Navegador Internet:**
 
@@ -57,6 +57,8 @@ Tu Energy eReader Pro HD incorpora una función de diccionario que te permite in
 Puedes instalar los diccionarios dentro de la carpeta "/dict" en el directorio raíz de la memoria principal de tu eReader.
 
 Una vez instalado el diccionario podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
+
+![](http://static.energysistem.com/images/manuals/42535/56af962fc17ff.jpg)
 
 #### Nota: Las bases de datos de diccionarios son propiedad de terceros. Energy Sistem Technology S.A. no se responsabiliza de su contenido.
 
