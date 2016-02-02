@@ -1,6 +1,6 @@
 ### 1) Configuración inicial.
 
-1.1) Enciende tu altavoz Wi-Fi, y espera unos 15 segundos. Un aviso acústico te indicará que el altavoz está listo para ser usado en modo APP.
+1.1) Enciende tu altavoz Wi-Fi mediante el interruptor de encendido (), y espera unos 15 segundos. Un aviso acústico te indicará que el altavoz está listo para ser usado en modo APP.
 
 1.2) Inicia la aplicación y selecciona la opción "Añadir dispositivo". Asegurate de estar conectado a tu red Wi-Fi privada.
 
