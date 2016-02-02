@@ -1,4 +1,4 @@
-## sonar con la aplicación Energy Wi-Fi.
+## Hazlo sonar con la aplicación Energy Wi-Fi.
 
 Descarga la aplicación Energy Wi-Fi y sácale el máximo partido a tu altavoz:
 
