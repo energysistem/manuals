@@ -10,15 +10,11 @@ Descarga la aplicación Energy Wi-Fi y sácale el máximo partido a tu altavoz:
 
 - Escucha tu música favorita en Spotify (requiere contratación de cuenta premium).
 
-Podrás descargar la versión que necesitas en el siguiente enlace:
-
-Enlaces:
+Puedes descargar la aplicación directamente desde Play Store o APP store buscando la aplicación "Energy Wi-Fi". También puedes descargar la versión que necesitas escaneando con tu dispositivo los siguientes códigos:
 
 Android: XXXXX
 
 IOS: XXXXX
-
-También puedes escanear los codigos que encontrarás en la guía rápida.
 
 ### Pasos a seguir:
 
