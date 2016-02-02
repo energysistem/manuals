@@ -8,8 +8,8 @@ Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pist
 
 #### 3.1) Modo Multiroom independiente.
 
-Reproduce un contenido diferente por cada altavoz. Controlalos de manera independiente.
+Reproduce una canción diferente por cada altavoz. Controlalos de manera independiente.
 
 #### 3.2) Modos Multiroom sincronizado.
 
-Reproduce un mismo contenido por diferentes altavoces al mismo tiempo. Asigna a cada altavoz un canal diferente y monta tu sistema de sonido personalizado. Es tan fácil como mantener pulsada la pista del altavoz y arrastrarla encima de otra. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos.
+Reproduce una misma canción por diferentes altavoces al mismo tiempo. Asigna a cada altavoz un canal diferente y configura tu sistema de sonido personalizado. Es tan fácil como mantener pulsada la pista del altavoz y arrastrarla encima de otra. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos.
