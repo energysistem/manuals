@@ -52,11 +52,16 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 ![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
 
 ### Función diccionario
-Tu Energy eReader Pro HD incorpora una función de diccionario que te permite instalar cualquier base de datos compatible "StarDict", uno de los formatos de diccionario electrónico más extendidos.
+Tu Energy eReader Pro HD incorpora una función de diccionario que te permite instalar cualquier base de datos compatible "StarDict", uno de los formatos de diccionario electrónico más extendidos, creados con herramientas gratuitas de licencia GNU GPL.
 
-Para instalar los diccionarios conecta tu eReader a tu computadora. Crea previamente la carpeta "/dict" en el directorio raíz de la memoria principal de tu eReader (X:/dict/), donde "X" es el nombre de la unidad de tu eReader. Puedes instalar los diccionarios creando subcarpetas dentro de esta carpeta (por ejemplo X:/dict/english_spanish/). Generalmente los diccionarios tipo "StarDict" están contenidos en 3 ficheros en formato *.dz (o *.dict), *.idz (o *.idx) y *.ifo. Será necesario reiniciar el eReader tras la instalación.
+Podrás usar tanto los diccionarios comerciales de prestigiosas editoriales como aquellos gratuitos creados por la comunidad, o incluso crear los tuyos propios.
 
-Una vez instalado el diccionario podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
+Para poder disfrutar de la aplicación Diccionario en tu Energy eReader, lo primero que tienes que hacer es descargar en tu ordenador los ficheros del diccionario que desees instalar. Generalmente los diccionarios tipo "StarDict" se componen de 3 ficheros en formato *.dz (o *.dict), *.idz (o *.idx) y *.ifo y necesitarás los tres para poder usar el diccionario. Para instalarlos en tu Energy eReader, debes seguir estos sencillos pasos: 
+- 1) Conecta tu Energy eReader al ordenador y desde este accede mediante el explorador de archivos a la memoria interna de tu eReader - 2) Una vez en la carpeta principal o raíz crea una carpeta llamada “dict” (por ejemplo x:/dict/)
+- 3) Copia directamente los diccionarios en esta carpeta, o crea subcarpetas con los nombres de los diccionarios que quieras añadir (Drae, Catalán-español,etc..), 
+- 4) Reinicia tu eReader tras la instalación.
+
+Una vez instalados los diccionarios y reiniciado tu eReader podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
 
 ![](http://static.energysistem.com/images/manuals/42535/56af962fc17ff.jpg)
 
