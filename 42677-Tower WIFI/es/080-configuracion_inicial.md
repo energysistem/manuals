@@ -11,5 +11,5 @@
 5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
 
-*Nota:* Tienes otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
+*Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
 
