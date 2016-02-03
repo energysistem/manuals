@@ -1,23 +1,30 @@
-## Características
+## Especificaciones.
 
-- Sistema de sonido 2.1 en torre.
-- Conectividad sin cables: Bluetooth® v4.0 + EDR.
-- Protocolos Bluetooth®: A2DP ; AVRCP.
-- Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
-- Potencia RMS: 60 W (30W + 10W x 2 + 5W x 2).
-- Radio FM.
-- Rango de frecuencia (FM): 87,5-108MHz
-- Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
-- Salidas USB para cargar dispositivos externos.Corriente de salida: 5V, 2A
-- Display LED retroiluminado.
-- Soporte para tablets y smartphones en la parte superior.
-- Panel superior táctil.
-- Cuerpo en madera para una acústica perfecta.
-- Mando a distancia con control total de funciones.
-- Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Decodificador de memorias USB de hasta 32 GB.
-- Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4" x 2 (centrales) + 1,5''x 2 (twitters) + 4" x 1 (subwoofer).
-- Respuesta en frecuencia: 20Hz-20KHz
+- Sistema de sonido 2.1 con potencia real de 60W. (1x subwoofer de 30W +2 x full range de 10W + 1 x tweeter de 10W)
+- Conexión Wi-Fi .
+-      Estándar: 802.11 b/g/n
+-	Rango de frecuencia 2.412GHz-2.484GHz
+-	Protocolos de seguridad compatibles: WPA-PSK 
+-	Tipos de cifrado: AES 
+-	Sistemas de audio inalámbricos compatibles: Airplay y DLNA.
+
+- Conexión Bluetooth V.4.0 
+- Versión 4.0 + EDR (Enhanced Data Rate).
+- Clase II. Hasta 10 metros de alcance. 
+- Protocolos Bluetooth®: A2DP ; AVRCP. 
+- Frecuencia: 2.4GHz banda ISM.
+
+- Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 32 GB.
+- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
+- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters) 
+- Subwoofer: 1x5"
+- Respuesta en frecuencia: 20Hz-20K Hz.
+- 5 modos de EQ predefinidos para los modos USB y SD.
+- Ecualizador analógico de 2 bandas.
+- Caja acústica de madera.
+- Mando a distancia de hasta 10 metros de alcance.
+- Entrada auxiliar de 3,5 mm.
+- Corriente de salida de los puertos USB de carga: 5V 2A  
+- Panel superior retroiluminado y táctil.
+- Display de segmentos LED.
 - Alimentación: 120-240 V / 50-60 Hz.
