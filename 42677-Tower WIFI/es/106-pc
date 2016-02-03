@@ -1,0 +1,19 @@
+### Como conectar tu altavoz a tu ordenador personal.
+
+Los altavoces de las familia Energy Multiroom Wi-Fi pueden servirse el protocolo Digital Living Network Alliance (DLNA) para establecer comunicación con otros dispositivos a través de la conexión Wi-Fi de la red que ellos mismos emiten. Esto nos da la posibilidad de conectar el altavoz con otros dispositivos que utilicen este tipo de protocolos, como por ejemplo aquellos dispositivos que utilicen un sistema operativo Linux o Windows. También es compatible con el protocolo AirPlay de Mac OS. 
+Windows:
+
+1) Conectarse a la red propia del dispositivo, más información en la sección XXX.
+2) Acceder al administrador de dispositivos (Panel de control->Hardware y sonido->Agregar un dispositivo->Dispositivos conectados). Esperar a que el dispositivo se muestre y añadirlo como dispositivo externo, aparecerá con el nombre de la red difundida, esperar a que se configure correctamente la conexión. 
+3) Compartir música con el altavoz. Acceder al Windows Media Player, selecciona las canciones que desees compartir con el altavoz, abre el menú de opciones adicionales (clic derecho) desplazate por el submenu hasta casta a un Dispositivo y seleccionar la Torre.
+Linux:
+1) Abre un terminal e introduce los siguientes comandos que instalarán el paquete pulseaudio-dlna que habilita la posibilidad de realizar streaming a otros dispositivos mediante el protocolo DLNA:
+	sudo add-apt repository ppa:qos/pulseaudio-dlna
+sudo apt-get update 
+sudo apt-get install pulseaudio-dlna
+pulseaudio-dlna
+
+2) Acceder al gestor de audio del sistema operativo y seleccionar el dispositivo Energy Multiroom Wi-Fi como salida de audio.
+Mac OS:
+1) Conectarse a la red Wi-Fi propia del dispositivo, para más información consultar la sección XXX
+2) Abrir el iToons, utilizar el protocolo AirPlay y seleccionar el dispositivo como reproductor externo.
