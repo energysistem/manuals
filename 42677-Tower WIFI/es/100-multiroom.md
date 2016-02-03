@@ -1,4 +1,5 @@
-## 3) ¿Tienes más altavoces Energy Wi-Fi? ### Conéctalos y disfruta del modo multiroom.
+## 3) ¿Tienes más altavoces Energy Wi-Fi? 
+### Conéctalos y disfruta del modo multiroom.
 
 Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
