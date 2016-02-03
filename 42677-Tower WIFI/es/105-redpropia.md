@@ -1,4 +1,4 @@
-## Como conectarte a la red propia de tu altavoz.
+## Como conectarte a la red propia del altavoz.
 
 La familia de altavoces *Energy Multiroom Wi-Fi* generan una red Wi-Fi propia para poder interactuar con el resto de dispositivos de la misma familia de productos. Estas redes son fácilmente identificables ya que en su nombre por defecto tiene una estructura del tipo "Energy Multiroom_XXXX" donde XXXX es un indicador único de cada dispositivo. Por supuesto el nombre de esta red es configurable accediendo asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi".
 
