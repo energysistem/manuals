@@ -19,7 +19,7 @@
 - Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters) 
 - Subwoofer: 1x5"
 - Respuesta en frecuencia: 20Hz-20K Hz.
-- 5 modos de EQ predefinidos para los modos USB y SD.
+- 5 modos de ecualización digital predefinidos para los modos USB y SD.
 - Ecualizador analógico de 2 bandas.
 - Caja acústica de madera.
 - Mando a distancia de hasta 10 metros de alcance.
