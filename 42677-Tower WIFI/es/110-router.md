@@ -1,4 +1,4 @@
-###  4) Configuración necesaria del router.
+##  4) Configuración del router.
 
 Para un correcto funcionamiento, el router de tu red privada debe:
 
@@ -7,5 +7,5 @@ Para un correcto funcionamiento, el router de tu red privada debe:
 4.2) Estar encriptado mediante protocolos WPS o WEP. El sistema WPA es incompatible.
 
 
-SETUP
+### SETUP
 
