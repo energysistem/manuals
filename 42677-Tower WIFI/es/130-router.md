@@ -2,7 +2,7 @@
 
 Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu red privada debe cumplir las siguientes consideraciones:
 
-- Utilizar la banda Wi-Fi de 2.4 GHz. El sistema Multiroom no es compatible con las bandas de Wi-Fi de 5 GHz.
+- Utilizar la banda Wi-Fi de <b>2.4 GHz</b>. El sistema Multiroom no es compatible con las bandas de Wi-Fi de 5 GHz.
 
 - Es necesario que la red a la que quiere conectar el altavoz esté encriptada con una clave WAP PSK utilizando AES o bien no utilice clave.
 
