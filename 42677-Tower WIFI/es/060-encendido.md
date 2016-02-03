@@ -1,4 +1,4 @@
-## Encendido y apagado del dispositivo.
+## Encendido y apagado. 
 
 Una vez enchufada a la toma de corriente, enciende tu *Energy Multiroom Tower Wifi* poniendo el interruptor de la parte posterior de la torre en "ON". A partir de entonces, podrás encenderla y apagarla desde el botón INICIAR/PAUSAR () del panel superior,manteniendolo pulsado durante 2 segundos.
 
