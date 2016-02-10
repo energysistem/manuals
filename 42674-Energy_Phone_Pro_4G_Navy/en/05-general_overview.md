@@ -3,7 +3,7 @@
 
 ![Imagen2](http://static.energysistem.com/images/manuals/39725/56a0a63ce5c76.jpg)
 
-1. Power/standby button and notification led
+1. Power button and notification led
 2. MicroSIM 1/nanoSIM 2/microSD cards tray
 3. Rear flash
 4. Rear camera
