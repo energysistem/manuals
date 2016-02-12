@@ -32,7 +32,6 @@
 
 - Nominal capacity: 1800 mAh.
 - Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
 - Autonomy in music player mode: 12 hours.*
 - Autonomy in Bluetooth mode: 10 hours.*
 <br/><br/>
