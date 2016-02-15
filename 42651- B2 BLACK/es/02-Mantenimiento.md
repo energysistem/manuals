@@ -1,6 +1,6 @@
 ## Cuidado y mantenimiento
 
-*	No expongas tu *Energy Music Box B2 Bluetooth* a alta humedad, altas temperaturas o golpes extremos.
+*	No expongas tu *Energy Music Box B2 Bluetooth* a humedad o altas temperaturas.
 
 *	No uses productos de limpieza corrosivos o abrasivos.
 
