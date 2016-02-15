@@ -16,6 +16,7 @@
   - Protocolos Bluetooth®: A2DP ; AVRCP. 
   - Frecuencia: 2.4GHz banda ISM.
 
+
 - Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 32 GB.
 - Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
 - 5 modos de ecualización digital predefinidos para los modos USB y SD.
