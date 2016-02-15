@@ -1,6 +1,10 @@
 ## Especificaciones.
 
-- Sistema de sonido 2.1 con potencia real de 60W. (1x subwoofer de 30W +2 x full range de 10W + 1 x tweeter de 10W)
+- Sistema de sonido 2.1 con potencia real de 60W. (1x subwoofer de 30W +2 x full range de 10W + 1 x tweeter de 10W).
+- Altavoces frontales: 4"×2 (centrales) + 1,5''x 2 (twitters) 
+- Subwoofer: 1x5"
+- Respuesta en frecuencia: 20Hz-20K Hz.
+
 - Conexión Wi-Fi .
   - Estándar: 802.11 b/g/n
   -	Rango de frecuencia 2.412GHz-2.484GHz
@@ -16,9 +20,6 @@
 
 - Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 32 GB.
 - Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters) 
-- Subwoofer: 1x5"
-- Respuesta en frecuencia: 20Hz-20K Hz.
 - 5 modos de ecualización digital predefinidos para los modos USB y SD.
 - Ecualizador analógico de 2 bandas.
 - Caja acústica de madera.
