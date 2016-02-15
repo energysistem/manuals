@@ -17,7 +17,7 @@
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
 *	Potencia RMS: 5 W.
-*	Sensibilidad del micrófono: -42 dB ± 3 dB.
+*	Sensibilidad del micrófono: -42 dB +- 3 dB.
 *	Diámetro del altavoz: 40 mm.
 *	Respuesta en frecuencia: 90 - 20.000 Hz.
 *	Relación señal/ruido > 80 dB.
