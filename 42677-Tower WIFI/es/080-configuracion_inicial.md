@@ -10,9 +10,11 @@
 
 Si la sincronización no se ha realizado correctamente, vuelve a realizar el proceso desde el punto 1). 
 
-5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
+5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". 
 
 ![](http://static.energysistem.com/images/manuals/42360/56c3039689dc4.jpg)
+
+Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
 *Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
 
