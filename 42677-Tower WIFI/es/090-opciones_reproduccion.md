@@ -28,6 +28,10 @@ En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para c
 
 Explora cualquier emisora de radio streaming usando esta opción que encontrarás en el menú principal de la aplicación.
 
+![](http://static.energysistem.com/images/manuals/42360/56c3039689dc4.jpg)
+
 ### Spotify
 
 Escucha tu música favorita en Spotify (requiere contratación de cuenta premium). Está opción esta disponible en el menú principal de la aplicación.
+
+![](http://static.energysistem.com/images/manuals/42360/56c3057353627.jpg)
