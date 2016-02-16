@@ -7,6 +7,7 @@
 3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente". Un mensaje de voz te indicará que la conexión se ha realizado con exito. En caso contrario, vuelve a realizar la misma operación desde el principio y asegurate que la contraseña introducida es la correcta.
 
 4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se he realizado correctamente:
+
  ![](http://static.energysistem.com/images/manuals/42360/56c2ffe8c11e0.jpg)
  
 Si la sincronización no se ha realizado correctamente, vuelve a realizar el proceso desde el punto 1). 
