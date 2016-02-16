@@ -8,6 +8,8 @@
 
 4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se he realizado correctamente:
 
+![](http://static.energysistem.com/images/manuals/42360/56c303ff3f949.jpg)
+
 Si la sincronización no se ha realizado correctamente, vuelve a realizar el proceso desde el punto 1). 
 
 5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". 
