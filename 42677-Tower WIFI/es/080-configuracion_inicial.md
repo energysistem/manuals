@@ -4,9 +4,9 @@
 
 2) Inicia la aplicación y selecciona la opción "Añadir dispositivo". Asegurate de estar conectado a tu red Wi-Fi privada.
 
-3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente". Un mensaje de voz te indicará que la conexión se ha realizado con exito. En caso contrario, vuelve a realizar la misma operación desde el principio y asegurate que la contraseña introducida es la correcta.
+3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente". En caso contrario, vuelve a realizar la misma operación desde el principio y asegurate que la contraseña introducida es la correcta.
 
-4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se he realizado correctamente:
+4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente:
 
 ![](http://static.energysistem.com/images/manuals/42360/56c303ff3f949.jpg)
 
