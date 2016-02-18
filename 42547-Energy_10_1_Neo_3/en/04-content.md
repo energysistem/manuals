@@ -4,8 +4,8 @@
 
 *	Energy Tablet 10.1" Neo 3
 *	Quick guide
-*	USB - microUSB cable for PC connection
+*	USB - microUSB cable 
 *	USB-HOST cable for connecting external USB devices
-*	AC/DC (Europlug) 100-240VAC 50-60Hz power adapter
+*	AC/DC (Europlug) 5V 2A power adapter
 
 </quick_guide>
