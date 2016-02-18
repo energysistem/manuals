@@ -18,14 +18,11 @@ Votre Energy Tablet peut jouer plusieurs formats vidéo sans recodage. Vous pouv
 6 Pourquoi ne puis-je pas afficher mes images jpg? 
 De nombreux appareils photo numériques et des logiciels de retouche d'image ajouter cachés aux données des fichiers jpg. Cela peut rendre votre Energy Tablet charger les images. Essayez de les éliminer en enregistrant le fichier sous un autre nom. 
 
-7 Parfois, l'écran devient noir et le dispositif ne répond pas. 
-Il est toujours préférable de redémarrer l'appareil à travers les options disponibles dans le système, mais si cela n'est pas possible, démarrez enlever et remettre la batterie et en appuyant sur le bouton d'alimentation. 
-
-8 La capacité de mémoire disponible dans mon Tablet énergie est inférieure à celle indiquée dans especificaciones¿Por quoi? 
+7 La capacité de mémoire disponible dans mon Tablet énergie est inférieure à celle indiquée dans especificaciones¿Por quoi? 
 Le système d'exploitation Windows ™ et les applications installées sur la mémoire interne de l'appareil nécessaire à l'exécution. Par conséquent, la quantité de mémoire disponible pour stocker des données supplémentaires est quelque peu inférieure à celle spécifiée. 
 
-9 Je amélioré le firmware et maintenant je n'ai pas de fichiers multimédia ou du papier peint Comment puis-je récupérer les fichiers qui ont été préinstallés? 
+8 Je amélioré le firmware et maintenant je n'ai pas de fichiers multimédia ou du papier peint Comment puis-je récupérer les fichiers qui ont été préinstallés? 
 Avant tout système mises à jour vous recommandons de sauvegarder tout ce que vous voulez garder. Dans energysistem.com'll trouver non seulement tous les contenus qui ont été préinstallés sur votre tablette énergie mais beaucoup plus de fichiers multimédia et afficher des fonds supplémentaires. 
 
-10 Quelle est l'autonomie de l'appareil? 
+9 Quelle est l'autonomie de l'appareil? 
 Il dépend beaucoup des conditions d'utilisation, comme la luminosité de l'écran, avec un casque ou des haut-parleurs, si le Wi-Fi est activé ou désactivé, la puissance écessaire pour l'exécution d'applications et de jeux, etc 
