@@ -18,15 +18,12 @@ Seu Energia Tablet pode jogar vários formatos de vídeo sem recodificação. Vo
 6 Por que não consigo visualizar os meus arquivos de imagens jpg? 
 Muitas câmeras digitais e software de edição de imagens adicionar dados arquivos jpg ocultos. Isso pode tornar o Tablet Energia carregar as imagens. Tente eliminá-los por salvar o arquivo com outro nome. 
 
-7 Às vezes, a tela fica preta eo dispositivo não responde. 
-É sempre melhor para reiniciar o dispositivo através das opções disponíveis no sistema, mas se isso não for possível, reiniciar remover e colocar de volta a bateria e pressionar o botão de energia. 
-
-8 A capacidade de memória disponível no meu Tablet energia é menor do que o indicado na especificaciones¿Por quê? 
+7 A capacidade de memória disponível no meu Tablet energia é menor do que o indicado na especificaciones¿Por quê? 
 O sistema operacional Windows ™ e aplicativos instalados na memória interna do dispositivo necessário para executar. Portanto, a memória disponível para armazenar dados adicionais é um pouco menos do que o especificado. 
 
-9 Eu atualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
+8 Eu atualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
 Antes de qualquer sistema de atualizações recomendável fazer backup de tudo que você deseja manter. Em energysistem.com'll encontrar não só todo o conteúdo que veio pré-instalado em seu Tablet energia, mas muitos mais arquivos de mídia e exibir fundos adicionais. 
 
-10 Qual é a autonomia do aparelho? 
+9 Qual é a autonomia do aparelho? 
 Depende muito das condições de uso, como o brilho da tela, usando fones de ouvido ou alto-falante, se o Wi-Fi está ligado ou desligado, a energia necessária para a execução de aplicativos e jogos, etc 
 
