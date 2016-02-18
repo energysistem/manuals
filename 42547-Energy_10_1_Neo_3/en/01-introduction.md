@@ -1,11 +1,7 @@
 <quick_guide> 
 ## Introduction
 
-Thank you for your trust in us and for buying the new Energy Tablet 10.1" Neo 3. We hope you will enjoy it.
+Thank you for your trust in us and for buying the new Energy Tablet 10.1" (1280x800 pixels) capacitive multi-touch IPS display with antifinger coating, a Octa Core ARM Cortex A7 1.6 GHz processor, Bluetooth 4.0, Wi-Fi, 2 Mpx front camera and 5 Mpx rear camera both with flash.. Before you start using your tablet we recommend you to read the complete manual of the Energy Tablet 10.1” Neo 3 in the following link: https://www.energysistem.com/guide/42547 to enjoy your device with maximum performance.
 
-Your new tablet has a 10.1" (1280x800 pixels) capacitive multi-touch display, a Octa Core ARM Cortex A7 1.6 GHz processor, Bluetooth 4.0, Wi-Fi, 2 Mpx front camera and 5 Mpx rear camera both with flash.
+</quick_guide>
 
-Before you start using your tablet we recommend you to read this manual and familiarize yourself with it.  It only takes a couple of minutes and it will help you to enjoy your device with maximum performance.
-
-
-## <unique> Find the whole *Energy Tablet 10.1" Neo 3* user manual on the following link   http://www.energysistem.com/en/guide/42547. </unique> </quick_guide>
