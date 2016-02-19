@@ -13,11 +13,9 @@ Généralement, les applications seulement montrent les fichiers compatibles, qu
 
 6.	Pour quoi je n'arrive pas à visualiser mes fichiers des images .jpg? Nombreux appareils photos numériques et programmes d'édition d'images ont additionnés des donnés cachés aux fichiers .jpg. Ces donnés peuvent faire que votre Energy Tablet ne charge pas les images.  Essayez de les effacer en enregistrant l'image avec un autre nom.
 
-7.	Quelques fois, l'écran est toute en noir et le dispositif ne répond pas. Il est toujours recommandé de réinitialiser l'appareil à travers des options disponibles sur le système et si n'est pas possible, redémarrez l'appareil et installez la batterie en appuyant sur la touche d'allumage.
+7.	La capacité de mémoire de mon Energy Tablet est inférieure à celle indiqué dans les spécifications. Pour quoi? Le système d'exploitation Windows™ et les applications préinstallées dans le dispositif ont besoin de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à celle spécifiée.
 
-8.	La capacité de mémoire de mon Energy Tablet est inférieure à celle indiqué dans les spécifications. Pour quoi? Le système d'exploitation Windows™ et les applications préinstallées dans le dispositif ont besoin de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à celle spécifiée.
-
-9.	J’ai mis à jour le firmware et maintenant je n'ai pas de fichiers multimédia ou fond d’écran. Comment puis-je récupérer les fichiers qui ont été préinstallés? 
+8.	J’ai mis à jour le firmware et maintenant je n'ai pas de fichiers multimédia ou fond d’écran. Comment puis-je récupérer les fichiers qui ont été préinstallés? 
 Avant tout mise à jour nous recommandons de sauvegarder tout ce que vous voulez garder. Sur energysistem.com vous trouverez non seulement tous les contenus qui ont été préinstallés sur votre tablette énergie mais beaucoup plus de fichiers multimédia et des fonds d’écran supplémentaires.
 
-10.	Quelle est l'autonomie du dispositif? Cela dépend, surtout, des conditions d'usage, comme le niveau d'éclat de l'écran, l'usage d'écouteurs ou du haut parleur, ou si le Wi-Fi est activé ou désactivé, la puissance nécessaire pour l'exécution d'applications et de jeux, etc. 
+9.	Quelle est l'autonomie du dispositif? Cela dépend, surtout, des conditions d'usage, comme le niveau d'éclat de l'écran, l'usage d'écouteurs ou du haut parleur, ou si le Wi-Fi est activé ou désactivé, la puissance nécessaire pour l'exécution d'applications et de jeux, etc. 
