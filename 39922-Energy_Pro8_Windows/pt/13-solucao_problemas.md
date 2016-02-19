@@ -21,7 +21,7 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 
 7.	A capacidade de memória disponível no meu Tablet Energy é menor do indicado nas especificações ¿Por que? O sistema operacional Windows™ e as aplicações instaladas no dispositivo necessitam memória interna para funcionar. Portanto, a memória disponível para armazenar dados adicionais é um pouco menos do especificado. 
 
-8 Eu actualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
+8. Eu actualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
 Antes de qualquer actualização do sistema recomendamos fazer backup de tudo que você deseja manter. Em energysistem.com vai encontrar não só todo o conteúdo que veio pré-instalado em seu Tablet Energy, mas muitos mais arquivos de mídia e papéis de parede adicionais. 
 
 9.	Qual é a autonomia do dispositivo? 
