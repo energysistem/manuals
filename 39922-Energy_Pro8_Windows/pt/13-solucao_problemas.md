@@ -19,9 +19,6 @@ O seu Energy Tablet pode ler múltiplos formatos de vídeo sem recodificar. Voc�
 6.	Por que não consigo visualizar os meus arquivos de imagens .jpg? 
 Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos arquivos .jpg. Estes dados podem fazer com que o seu Energy Tablet não carregue as imagens. Tente eliminar o arquivo, renomeá-lo e voltar a salvá-lo na memória do dispositivo.
 
-7.	Muitas vezes a tela fica em cor preto e o dispositivo não responde.
-Sempre é melhor reiniciar o dispositivo através das opções disponíveis no sistema, mas se isso não for possível, reinicie, remova e coloque de volta a bateria e pressione o botão de ligado.
-
 8.	A capacidade de memória disponível no meu Tablet Energy é menor do indicado nas especificações ¿Por que? O sistema operacional Windows™ e as aplicações instaladas no dispositivo necessitam memória interna para funcionar. Portanto, a memória disponível para armazenar dados adicionais é um pouco menos do especificado. 
 
 9 Eu actualizei o firmware e agora tenho nenhum arquivo de mídia ou papel de parede Como posso recuperar arquivos que vieram pré-instalados? 
