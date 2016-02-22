@@ -1,15 +1,15 @@
-## Principales características
+## Caractéristiques principales
 
-- Tu lectura en alta definición con su pantalla de tinta electrónica E-Ink#trade# Carta HD de 6", sistema antirreflectante y calidad de visualización óptima desde cualquier ángulo.
-- Pantalla táctil plana para mejorar la experiencia de uso de tu eReader.
-- Luz integrada y regulable para leer bajo cualquier condición de luminosidad.
-- Conectividad Wi-Fi N de alta velocidad integrada.
-- Procesador de doble núcleo Cortex A9 de alto rendimiento.
-- Sistema operativo Android para disfrutar de aplicaciones como diccionario, correo, descarga de contenidos en la nube, etc.
-- Diseño ultra-delgado y ergonómico, ideal para la sujeción durante horas y horas de lectura.
-- Batería de litio recargable de alta capacidad con 2800 mAh, que permite hasta dos meses de uso con una sola carga.*
-- Funciones avanzadas de lectura: diferentes tamaños, tipos de letra, marcadores, notas, subrayado...
-- Único en su clase con 8GB de memoria interna y puerto microSD ampliable con hasta 64GB para almacenar miles de libros.
-- Incluye 1500 libros de la literatura universal de regalo.
+-	Votre lecture en haute définition avec son d'écran électronique E-Ink™ Carta HD de 6", système antireflet et qualité de visualisation optimale sous tous les angles.
+-	Écran plat tactile pour améliorer l'expérience de l'utilisation de votre liseuse.
+-	Lumière intégrée réglable pour lire dans toutes les conditions d'éclairage.
+-	Connectivité Wi-Fi N haute vitesse intégrée.
+-	Processeur Dual Core Cortex A9 haute performance.
+-	Android OS pour profiter des applications de dictionnaire, le courriel, le téléchargement de contenu dans le cloud, etc.
+-	Design ultra-mince et ergonomique, idéal pour organiser des heures de lecture.
+-	Batterie au lithium rechargeable de grande capacité avec 2800 mAh, ce qui permet un maximum de deux mois d'utilisation sur une seule charge.*
+-	Fonctions de lecture spéciales: différentes tailles, polices, signets, notes, soulignent ...
+-	Unique en son genre avec 8 Go de mémoire interne et port microSD extensible jusqu'à 64 Go pour stocker des milliers de livres.
+-	Avec 1500 classiques de la littérature universelle.
 
-#### *Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
+#### *Basé sur le temps de lecture quotidienne moyenne avec un niveau d'éclairage minimum "Screenlight" et la connectivité Wi-Fi désactivé.
