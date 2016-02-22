@@ -1,5 +1,5 @@
-## Ampliación de memoria
+## Extension de mémoire
 
-Tu Energy eReader Pro HD tiene una capacidad de 8 GB de memoria flash para almacenamiento de libros y aplicaciones. Si lo deseas, puedes ampliar su capacidad añadiendo una tarjeta MicroSD de hasta 64 GB al puerto MicroSD (1) de tu eReader.
+Pour allumer votre eReader, appuyez sur le bouton démarrage/éteint/mode veille (3) jusqu'à ce que l'image de bienvenue apparaît dans l'écran.
 
 ![](http://static.energysistem.com/images/manuals/42535/569ce1deb73b4.jpg)
