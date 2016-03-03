@@ -3,5 +3,5 @@
 * Guía rápida
 * Cable USB-MicroUSB para conexión al PC
 * Cable USB-HOST para conexión de dispositivos USB externos
-* Adaptador de corriente AC/DC (Europlug) 100-240VAC 50-60Hz
+* Adaptador de corriente AC/DC (Europlug) 5V 2A
 </quick_guide>
