@@ -1,19 +1,20 @@
 ## Principales Características
 
-* Pantalla TFT 7" 16:9 (1024x600 píxels).
-* Pantalla capacitiva multi-táctil de 5 puntos.
-* Procesador de cuatro núcleos ARM Cortex A7 1.3GHz con GPU SGX544MP2 integrada.
-* 512MB DDR3 RAM.
-* 8GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
+* Pantalla IPS 10.1" (1280x800 píxels).
+* Pantalla capacitiva multi-táctil de 5 puntos con protección Dragontrail y tratamiento antihuellas
+* Procesador de ocho núcleos ARM Cortex A7 1.6GHz 
+* 2GB DDR3 RAM.
+* 32GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
 * WI-FI N: módulo 802.11 b/g/n
 * Bluetooth 4.0
-* Cámara trasera VGA con flash.
-* Cámara frontal VGA.
+* Cámara trasera 8Mpx con flash.
+* Cámara frontal 2Mpx con flash.
 * Función USB-Host.
 * Función USB-OTG
-* Altavoz integrado 1w.
+* Altavoces integrados 2x1w.
 * Micrófono omnidireccional integrado.
 * Sensor de movimiento (acelerómetro).
-* Capacidad de batería: 3.7v/2800mAh.
-* Autonomía: hasta 4 horas y media de navegación Wi-Fi.
-* Alimentación mediante adaptador AC 100-240v 50-60Hz DC 5v/2A.
+* Capacidad de batería: 3.7v/7000mAh.
+* Autonomía: hasta 5 horas y media de navegación Wi-Fi.
+* Alimentación mediante adaptador Europlug 5v/2A.
+
