@@ -1,7 +1,6 @@
-CAMBIAR IMAGEN
+<quick_guide> 
 
-## <quick_guide> Presentación general
-
+## Presentación general
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
 
