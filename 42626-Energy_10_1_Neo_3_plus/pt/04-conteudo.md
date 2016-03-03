@@ -1,6 +1,6 @@
 <quick_guide> 
 
-##Conteúdo do produto
+## Conteúdo do produto
 
 *	Energy Tablet 10.1" Neo 3+
 *	Guia rápida
