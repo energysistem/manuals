@@ -1,4 +1,6 @@
-## <quick_guide> Contenido del producto
+<quick_guide> 
+
+## Contenido del producto
 * Energy Tablet 10.1" Neo 3+ 
 * Guía rápida
 * Cable USB-MicroUSB para conexión al PC
