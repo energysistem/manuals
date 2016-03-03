@@ -16,5 +16,5 @@
 10. Sortie pour les écouteurs
 11. Entrée MiniHDMI
 12. Entrée microUSB
-13. 
+
 </quick_guide>
