@@ -1,8 +1,6 @@
 <quick_guide> 
 ## Declaração de conformidade
 
-![Imagen1](http://static.energysistem.com/images/manuals/42258/54994043de633.jpg)
-
 Energy Sistem Technology, S.A. 
 Morada: Rua Calpe, 1.
 03509 Finestrat - Alicante (Espanha).
@@ -18,7 +16,7 @@ País de fabricação: China
 Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 99/05/CE do Parlamento Europeu e do Conselho de 9 de Março de 1999. 
 Pode solicitar uma cópia da declaração de conformidade em: C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha) Tel. +34 966 831 058.
 
-Finestrat, 01 de novembro de 2015
+Finestrat, 01 de março de 2016
 
 </quick_guide>
 
