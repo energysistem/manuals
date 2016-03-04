@@ -1,20 +1,20 @@
-## Resolución de problemas
+## Resolução de problemas
 
-**¿Cómo puedo apagar el eReader del todo sin tener imagen en su pantalla?**
+** Como é que posso desligar o eReader completamente se o ecrã não está a mostrar nenhuma imagem? **
 
-El eReader siempre tendrá una imagen aún teniendo el aparato apagado. No te preocupes porque esa imagen de apagado no consume la energía del eReader. Además, puedes configurar la imagen mostrada cuando está en suspensión.
-
-
-**No puedo cambiar la fuente de las letras en un archivo PDF.**
-
-El formato pdf en algunas ocasiones es creado como si de una fotografía se tratase, con sus fuentes y estilos, por ello no podrás cambiar el tipo de letra. Esta es la limitación que encontrarás con este formato, sin embargo, podrás hacer zoom y moverte a través del libro como si de otro formato se tratara.
+O eReader mostra sempre uma imagem, mesmo se o dispositivo estiver desligado. Não fique preocupado porque a imagem de dispositivo desligado não gasta a bateria do seu eReader. Além disso, pode definir a imagem mostrada quando o dispositivo estiver  no estado de suspensão. 
 
 
-**No se puede leer un libro electrónico.**
+**Não posso alterar o tipo de letra em um ficheiro PDF.** 
 
-Comprueba que el formato del libro electrónico es compatible con tu eReader.
+Às vezes, o formato pdf é criado como se fosse uma fotografia com as suas próprias letras e estilos. É por isso que não vai poder alterar o tipo de letra. Esta é a limitação que vai encontrar neste formato. No entanto, pode ampliar as páginas e percorrer o livro como se tivesse outro formato.
 
 
-**El eReader muestra mal los caracteres de los libros, espacios entre líneas excesivos o saltos de página donde no debería.**
+**Não é possível ler um livro eletrónico**
 
-Se debe al formato en el que se ha digitalizado el archivo. Muchos de los libros electrónicos son digitalizados y formateados automáticamente sin revisión. Usa sólo contenido de proveedores de contenidos fiables y de calidad para tener la mejor experiencia de uso.
+Verifique que o formato do livro eletrónico é compatível com o seu eReader.
+
+
+**O eReader não mostra os caracteres dos livros devidamente, os espaços entrelinhas são excessivos ou há quebras de página onde não deveria haver. **
+
+Isso acontece devido ao formato no que o ficheiro foi digitalizado. Muitos livros eletrónicos tem sido digitalizados e formatados automaticamente, sem revisão. Utilize apenas conteúdos de provedores que oferecem boa qualidade e fiabilidade para desfrutar da melhor experiência de utilização possível.
