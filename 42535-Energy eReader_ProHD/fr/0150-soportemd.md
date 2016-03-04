@@ -1,13 +1,19 @@
-# Funcionamiento de la garantía
+## Fonctionnement de la garantie
 
-Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a las preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía del dispositivo.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, comme la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
 
-También puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+ 1. Vous pouvez vérifier la disponibilité du manuel dans votre langue sur http://www.energysistem.com/fr/guide/42265
 
-Marcas comerciales
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+ 2. Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+**Important :** Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem ne sera pas obligé de stocker cette information et il est conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.
 
-© 2016 por Energy Sistem Technology, S.A.Todos los derechos reservados.
+Les spécifications sont sujettes à changement sans préavis.
 
+## Marques commerciales
+
+Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+
+© 2016 par Energy Sistem Technology, S.A. Tous droits réservés.
+
+**Avis:** Le présent appareil peut contenir des liens ou des pages web opérées par troisièmes, d'autrui à Energy Sistem Technology, S.A. Ces liens vous sont fournis pour votre information ou commodité; Energy Sistem ne devient pas responsable de sa disponibilité, contenu, actualisation, adéquation ou exactitude. Ces sites externes peuvent contenir ou faire référence à des marques, des brevets, des informations confidentielles, technologies, produits, processus ou autres droits de propriété appartenant à autrui. Tous les droits réservés sont la propriété de leurs propriétaires respectifs.
