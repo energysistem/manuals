@@ -1,6 +1,6 @@
-## Contenido del producto
+## Conteúdo do produto
 
 - Energy eReader Pro HD
-- Cable microUSB
-- Guía rápida
+- Cabo microUSB
+- Guia rápida
 
