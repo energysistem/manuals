@@ -1,23 +1,24 @@
-## Encendido y apagado
+## Ligar e desligar
 
-Para encender tu eReader, pulsa el botón encendido/apagado (3) hasta que aparezca la imagen de inicio.
+Para ligar o seu leitor de e-books, mantenha premido o botão de ligar/desligar/ (3) até que a imagem inicial apareça.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd7667ffea.jpg)
 
-Para apagar el dispositivo, mantén pulsado este botón (3) hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar" pulsando en la pantalla. También puedes ponerlo en modo espera, realizando una breve pulsación sobre este mismo botón (3). Este modo de bajo consumo te permitirá volver instantáneamente a la pantalla en la que te encontrabas realizando otra breve pulsación.
+Para desligar o dispositivo mantenha premido este botão (3) até que o menu Desligar apareça e  prima a seguir no ecrã para escolher a opção "Aceitar/Ok". Também pode ativar o modo standby se prime no mesmo botão (3) durante uns segundos. Este modo de baixo consumo energético lhe vai permitir voltar ao ecrã anterior com um breve toque.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42091/549944d0977d4.jpg)
 
-En el modo de espera, el dispositivo muestra una imagen en su pantalla. No te preocupes, en este modo tu eReader apenas consume energía.
+Com o modo standby ativado, o dispositivo vai mostrar uma imagem no ecrã. Não fique preocupado. O seu leitor de e-books  consome uma quantidade mínima de energia.
 
-*En modo de espera:*
+* No modo standby:*
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd4963732d.jpg)
 
-*Apagado:*
+*Desligado:*
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd44fd07a3.jpg)
+
