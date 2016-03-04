@@ -1,10 +1,11 @@
-## Alimentación
+## Carregamento
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd48e49506.jpg)
 
-Tu Energy eReader Pro HD lleva incorporada una batería recargable de iones de litio. Cuando se agote, la puedes recargar de nuevo conectando tu eReader a cualquier cargador USB Tipo A o a tu ordenador usando el cable microUSB incluido. Encontrarás el conector microUSB (2) en la parte superior de tu eReader Pro HD.
+O seu Energy eReader Pro HD tem uma bateria recarregável de iões de lítio. Caso de ficar sem bateria, pode carregá-la  através de qualquer carregador USB Tipo A ou através do cabo microUSB fornecido que deverá ligar ao seu computador.  O conector microUSB (2) encontra-se na parte superior do seu leitor de e-books Pro HD.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cdfc148428.jpg)
 
-El tiempo de carga puede oscilar entre 3 y 5 horas dependiendo del tipo de cargador utilizado.
+O tempo de carregamento pode oscilar entre 3 e 5 horas dependendo do tipo de carregador que utilize.
+
 
