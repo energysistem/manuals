@@ -1,82 +1,80 @@
-## Principales aplicaciones
+## Aplicações principais
 
-**Navegador Internet:**
+**Navegador:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d81e5567.jpg)
 
-Tu Energy eReader Pro HD tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
+O seu Energy eReader Pro HD permite-lhe aceder diretamente à Internet através da ligação sem fios. Uma vez ligado o dispositivo a uma rede wi-fi, prima o ícone do "Navegador" no menu principal ou no menu de aplicações para iniciar o programa. O sistema carrega a página de início estabelecida por predefinição e a mostra no ecrã. Pode utilizar o navegador para descarregar os  conteúdos que tenha na nuvem. Vai encontrar os conteúdos descarregados na aplicação "Descargas".
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d194fe7780.jpg)
 
-**Correo (Gmail):**
+**Correio (Gmail):**
 
 ![] (http://static.energysistem.com/images/manuals/42535/56a63a5cde8e2.jpg)
 
-La aplicación de Correo te permite recibir, enviar y consultar tus correos mediante su interfaz configurada con tu cuenta electrónica.
-Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
-Otra opción de esa aplicación es la posibilidad de configurar varias cuentas electrónicas para estar activo en todas tus cuentas en una única interfaz.
+A aplicação Correio permite-lhe receber, enviar e aceder aos seus e-mails através da interface da sua conta de correio.
+Se é a primeira vez que utiliza a aplicação, terá que aceder com a sua conta de correio eletrónico e a palavra-passe. Uma vez registada a sua conta na aplicação, pode navegar na interface para ler os seus e-mails.
+Outra opção que oferece a aplicação é a possibilidade de configurar várias contas de correio eletrónico para ter todas ativas em uma única interface.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999ab245c55.jpg)
 
-**Libros:**
+**Livros:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
-Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
-Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
+Aqui pode visualizar todos os livros guardados na memória interna ou no cartão microSD como memória externa.
+Para seleccionar o modo de visualização no explorador de e-books prima o ícone dos modos de visualização: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (pré-visualização das capas dos seus e-books). Prima na capa do livro que quer ler para abri-lo.
 
 ![] (http://static.energysistem.com/images/manuals/42535/56b07aab8526b.jpg)
 
-*Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
+*Nota:* Caso que o ficheiro estiver armazenado em um cartão microSD/SDHC que tem sido removido, vai ver o ficheiro na lista mais não vai poder abri-lo.
 
-### Funciones avanzadas de lectura
+### Funções avançadas de leitura:
 
-Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el centro del texto en la vista lectura para acceder al menú:
+Várias funções possíveis durante a leitura de um livro. Prima na parte central do texto com a vista de leitura ativada para aceder ao menu:
 
 ![](http://static.energysistem.com/images/manuals/42535/56a6488b920aa.jpg)
 
--	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
--	*Cambiar el tamaño de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
--	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
--	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
--	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando sobre "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
--	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
--	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
--	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
--	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
--	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
--	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Permite configurar el nivel de luz más adecuado.
+-	*Ir para a página:* ![] (http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). Pode inserir o número de página exato que deseja visualizar clicando no número de página e mudá-lo.
+-	*Alterar o tamanho de letra:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Pode utilizar os dois ícones para aumentar ou diminuir o tamanho de letra até atingir o tamanho que quiser.
+-	*Mudar o tipo de letra:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Pode seleccionar a letra mais adequada entre uma variedade de letras propostas.
+-	*Alterar o espaço entrelinhas:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Pode escolher o espaço entrelinhas que goste para desfrutar de uma leitura mais confortável.
+-	*Alterar as margens de página:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Pode escolher o espaço entrelinhas que goste para desfrutar de uma leitura mais confortável.
+-	*Ir automáticamente para a página:* ![] (http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). Para começar a leitura automática tem que activar o modo automático para virar página a partir do botão "ON". Tem a possibilidade de estabelecer diferentes intervalos de tempo para virar as páginas segundo a velocidade de leitura que prefira.
+-	*Rotação de ecrã:* ![] (http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). Para rotar o ecrã na posição vertical ou horizontal. Seleccione a posição entre as várias opções de rotação mostradas no ecrã. 
+-	*Informação do livro*: ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Mostra todas as informações sobre o livro que está a ler. Pode acontecer que alguns livros não mostrem algum ou todos os dados. Isso vai depender da editora.
+-	*Adicionar o marcador:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Pode definir marcadores para tornar mais fácil a leitura. Os marcadores ficam ordenados e acessíveis para que possa acedê-los quando quiser.
+-	*Menu opções:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Possibilita abrir o menu para visualizar, abrir ou eliminar as suas anotações, marcadores e comentários.
+-	*Aceder / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Prima no marcador que deseja visualizar para acedê-lo. Caso queira eliminá-lo basta com premir uns segundos o marcador que quer eliminar e a opção aparece.
+-	*Pesquisar palavras:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para localizar no livro a palavra que está a pesquisar e poder aceder à página com um simples toque.
+- *Indicador de luz:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Possibilita a definição do nivel de luminosidade mais adequado.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
 
-### Función diccionario
-Tu Energy eReader Pro HD incorpora una función de diccionario que te permite instalar cualquier base de datos compatible "StarDict", uno de los formatos de diccionario electrónico más extendidos, creados con herramientas gratuitas de licencia GNU GPL.
+### Função dicionário
+O seu Energy eReader Pro HD integra a função dicionário que possibilita a instalação de qualquer banco de dados que seja compatível com "StarDict", um dos formatos de dicionário eletrónico mais utilizados e criados com ajuda de ferramentas livres com licença GNU GPL.
 
-Podrás usar tanto los diccionarios comerciales de prestigiosas editoriales como aquellos gratuitos creados por la comunidad, o incluso crear los tuyos propios.
+Pode utilizar os dicionários de afamadas editoras e também os dicionários gratuitos criados pela comunidade assim como criar os seus próprios dicionários.
 
-Para poder disfrutar de la aplicación Diccionario en tu Energy eReader, lo primero que tienes que hacer es descargar en tu ordenador los ficheros del diccionario que desees instalar. Generalmente los diccionarios tipo "StarDict" se componen de 3 ficheros en formato *.dz (o *.dict), *.idz (o *.idx) y *.ifo y necesitarás los tres para poder usar el diccionario. Para instalarlos en tu Energy eReader, debes seguir estos sencillos pasos: 
+O primeiro que tem que fazer para desfrutar da aplicação Dicionário no seu Energy eReader é descarregar os ficheiros do dicionário que deseja instalar. Normalmente, os dicionários do tipo "StarDict" contêm 3 ficheiros nos formatos .dz (ou *.dict), *.idz (o *.idx) e *.ifo. Precisa dos tres para poder utilizar o dicionário. Para instalá-los no seu Energy eReader basta seguir estes simples passos: 
 
-- 1) Conecta tu Energy eReader al ordenador y desde este accede mediante el explorador de archivos a la memoria interna de tu eReader.
-- 2) Una vez en la carpeta principal o raíz crea una carpeta llamada “dict” (por ejemplo x:/dict/)
-- 3) Copia directamente los diccionarios en esta carpeta, o crea subcarpetas con los nombres de los diccionarios que quieras añadir (Drae, Catalán-español,etc..)
-- 4) Reinicia tu eReader tras la instalación.
+- 1) Ligue o seu Energy eReader ao computador e aceda à memória interna do seu eReader através do explorador de ficheiros.
+- 2) Uma vez na pasta principal ou raiz crie uma pasta com o nome " dict " (por exemplo, x:/dict/)
+- 3 ) Copie dicionários diretamente para esta pasta ou crie subpastas com os nomes dos dicionários que deseja adicionar (Drae, Catalão -Espanhol, etc...)
+- 4) Reinicie o eReader após a instalação.
 
-Una vez instalados los diccionarios y reiniciado tu eReader podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
+Uma vez instalados os dicionários e reiniciado o seu eReader pode utilizar esta função diretamente no modo de leitura. Para isso mantenha premida a palavra que quiser e seleccione "Dicionário" na janela pop-up.
 
 ![](http://static.energysistem.com/images/manuals/42535/56af962fc17ff.jpg)
 
-#### Nota: Las bases de datos de diccionarios son propiedad de terceros. Energy Sistem Technology S.A. no se responsabiliza de su contenido.
+#### Nota: Os bancos de dados dos dicionários são propriedade de terceiros. Energy Sistem Technology S.A. não é responsável por seu conteúdo.
 
-**Bloc de Notas:**
+**Bloco de Notas:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/56a6503a232ae.jpg)
 
-Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+Esta aplicação permite anotar todos os comentários ou notas que quiser e que mais tarde vai poder eliminar com um simples toque. Também pode adicionar notas premindo o texto do livro que está a ler e arrastando para seleccionar a parte que deseja. 
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a33534ae6.jpg)
-
-
