@@ -1,21 +1,21 @@
-## Declaración de conformidad
+## Declaração de conformidade
 
-Nombre del suministrador: Energy Sistem Technology S.A.
+Nome do fabricante: Energy Sistem Technology, S.A.
 
-FECHA: 01/01/2016
+Data: 01/01/2016
 
-Dirección: C/ Calpe, 1 - 03509, Finestrat, Alicante (España)
+Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
 
-Tel: 902 388 388
+Tel.: 902 388 388
 
 Fax: 902 119 034
 
 NIF: A53107488
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
 **Energy Sistem#trade# - Energy eReader Pro HD**
 
-**País de fabricación**: China
+**País de fabricação**:  China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2004/08/CE del Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
+Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 2004/08/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 2004. 
