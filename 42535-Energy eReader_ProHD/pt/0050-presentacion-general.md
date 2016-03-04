@@ -1,12 +1,12 @@
-## Presentación general
+## Apresentação geral
 
 ![](http://static.energysistem.com/images/manuals/42535/56a73aafdcabb.jpg)
 
-1. Ranura para tarjeta microSD
+1. Slot do cartão microSD
 2. Conector microUSB
-3. Botón de encendido / apagado y modo de espera
-4. Botón de paso de página hacia atrás
-5. Botón de paso de página hacia adelante
-6. Botón Home / Refresco de pantalla / Indicador LED de carga
+3. Botão de ligar / desligar e modo standby
+4. Botão página anterior
+5. Botão página seguinte
+6. Botão Home / Actualizar o ecrã / Indicador LED de carregamento
 
 
