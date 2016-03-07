@@ -8,13 +8,13 @@ Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi m
 
 ### Bluetooth.
 
-Cambia de modo reproducción pulsando el botón MODO () de tu altavoz y selecciona el modo Bluetooth (aparecerá "bt" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
+Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz y selecciona el modo Bluetooth (aparecerá "-bt-" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
 Esta es tu opción si lo que deseas es reproducir videos streaming desde Youtube.
 
 ### USB/SD.
 
-Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón MODO ( ) de tu altavoz.
+Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz.
 
 ### Entradas auxiliares.
 
