@@ -9,10 +9,14 @@ Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy M
 
 ## Parte superior.
 
-![Schema](http://static.energysistem.com/images/manuals/42261/5579421b60325.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/56dd6ffd6e44b.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42261/55794e9b41ddc.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/56dd70695bec3.jpg)
 
 ## Parte trasera.
 
+![Schema](http://static.energysistem.com/images/manuals/42677/56dd7055b9a13.jpg)
+
 ## Mando a distancia.
+
+![Schema](http://static.energysistem.com/images/manuals/42677/56dd6fc9d2cd2.jpg)
