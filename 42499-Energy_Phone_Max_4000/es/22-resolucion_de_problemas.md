@@ -24,8 +24,8 @@ Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles 
 8.	La capacidad de memoria del Energy Phone Max 4000 es de 8GB, pero la memoria disponible es inferior ¿Por qué?
 El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 3GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 8GB.
 
-9.	¿Qué debo hacer para que me deje instalar una aplicación?
-En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar).
+9.	¿Qué debo hacer para que me deje instalar una aplicación fuera de Play Store#trade#?
+En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar). Esta acción puede comprometer la seguridad del terminal, siendo recomendable el instalar aplicaciones que provengan de fuentes fiables.
 
 10.	¿Cuál es la autonomía del dispositivo?
 Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM y 3G. Aproximadamente la autonomía del Energy Phone Max 4000 es de hasta 720 horas en standby y 28 horas de conversación.
