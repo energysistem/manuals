@@ -5,6 +5,7 @@ Puedes realizar la conexión de una manera alternativa a la descrita en el apart
 La primera forma es conectándote a la propia red que emite el altavoz, más información en la sección "Como conectarse a la red propia de tu altavoz". Una vez conectado se ha de acceder al asistente de configuración del dispositivo y forzar la conexión del altavoz a una red concreta como se explica en la sección "Asistente de configuración del módulo Wi-Fi".
 
 La segunda forma es a partir de la aplicación y sólo es posible en la aplicación de Android. Una vez que hayas realizado el proceso de conexión del dispositivo y este haya dado lugar a error podrás acceder a la ventana donde se muestran los pasos a seguir para configurar la red Wi-Fi y volver a intentar la búsqueda. 
+
 ![](http://static.energysistem.com/images/manuals/42677/56e83021481f5.jpg)
 
 En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. 
