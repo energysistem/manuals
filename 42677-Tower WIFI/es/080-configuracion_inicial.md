@@ -4,7 +4,9 @@ Sigue los siguientes pasos para configurar tu altavoz:
 
 1) Enciende tu altavoz Wi-Fi y espera unos 15 segundos. Un aviso acústico te indicará que el altavoz está listo para ser usado en modo APP.
 
-2) Inicia la aplicación y selecciona la opción "Añadir dispositivo". Asegurate de estar conectado a tu red Wi-Fi privada.
+2) Inicia la aplicación y selecciona la opción "Añadir altavoz". Asegurate de estar conectado a tu red Wi-Fi privada.
+
+![](http://static.energysistem.com/images/manuals/42677/56e8357bd5bac.jpg)
 
 3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente". En caso contrario, vuelve a realizar la misma operación desde el principio y asegurate que la contraseña introducida es la correcta.
 
