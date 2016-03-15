@@ -15,6 +15,11 @@ Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pist
 
 Reproduce una canción diferente por cada altavoz. Controlalos de manera independiente.
 
+![](http://static.energysistem.com/images/manuals/42677/56e8403b2cade.jpg)
+
+
 ### Modos Multiroom sincronizado.
 
 Reproduce una misma canción por diferentes altavoces al mismo tiempo. Asigna a cada altavoz un canal diferente y configura tu sistema de sonido personalizado. Es tan fácil como mantener pulsada la pista del altavoz y arrastrarla encima de otra. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos.
+
+![](http://static.energysistem.com/images/manuals/42677/56e840a237ad5.jpg)
