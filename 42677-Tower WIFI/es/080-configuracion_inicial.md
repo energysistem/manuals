@@ -8,7 +8,9 @@ Sigue los siguientes pasos para configurar tu altavoz:
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8357bd5bac.jpg)
 
-3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente". En caso contrario, vuelve a realizar la misma operación desde el principio y asegurate que la contraseña introducida es la correcta.
+3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente".
+
+![](http://static.energysistem.com/images/manuals/42677/56e835e93ebfb.jpg)
 
 4) Mantén pulsado el botón SINCRONIZACIÓN WIFI () de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente:
 
