@@ -4,7 +4,7 @@ Una vez configurado tu altavoz, dispones de las siguientes opciones para reprodu
 
 |  |  |
 |:-------|:-------|
-|### Mi música.
+|Mi música.
 
 Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi musica" desde el menú principal de la aplicación:
 
