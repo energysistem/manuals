@@ -2,9 +2,7 @@
 
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
-|  |  |
-|:-------|:-------|
-|Mi música.
+### Mi música.
 
 Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi musica" desde el menú principal de la aplicación:
 
@@ -14,7 +12,9 @@ Explora cualquier emisora de radio streaming usando esta opción que encontrará
 
 ### Spotify
 
-Escucha tu música favorita en Spotify (requiere contratación de cuenta premium). Está opción esta disponible en el menú principal de la aplicación. |![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)|
+Escucha tu música favorita en Spotify (requiere contratación de cuenta premium). Está opción esta disponible en el menú principal de la aplicación. 
+
+![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
 
 ### Bluetooth.
 
