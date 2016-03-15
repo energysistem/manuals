@@ -2,6 +2,8 @@
 
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
+![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
+
 ### Mi música.
 
 Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi musica" desde el menú principal de la aplicación:
