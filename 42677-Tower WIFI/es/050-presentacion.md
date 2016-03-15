@@ -8,6 +8,6 @@ Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy M
 
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e8272b42ebb.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/56e82b1d560c5.jpg)
 
 
