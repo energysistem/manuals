@@ -22,4 +22,4 @@ Reproduce una canción diferente por cada altavoz. Controlalos de manera indepen
 
 Reproduce una misma canción por diferentes altavoces al mismo tiempo. Asigna a cada altavoz un canal diferente y configura tu sistema de sonido personalizado. Es tan fácil como mantener pulsada la pista del altavoz y arrastrarla encima de otra. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos.
 
-![](http://static.energysistem.com/images/manuals/42677/56e840a237ad5.jpg)
+![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
