@@ -9,7 +9,7 @@ Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy M
 
 ## Parte superior.
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56dd6ffd6e44b.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/56e824a3aeef1.jpg)
 1. Retroceso
 2. Volumen -
 3. Ecualización
