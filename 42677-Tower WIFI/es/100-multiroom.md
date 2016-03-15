@@ -3,7 +3,11 @@
 
 Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
-Una vez realizada la configuración inicial con el primer altavoz, sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz wi-Fi. Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
+Una vez realizada la configuración inicial con el primer altavoz, pulsa la opción"+" y sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz wi-Fi.
+
+![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
+
+Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
 
 Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada.
 
