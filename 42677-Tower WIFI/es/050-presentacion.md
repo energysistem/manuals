@@ -1,4 +1,4 @@
-## Presentación general.
+## Presentación general
 
 El *Energy Multiroom Tower Wi-Fi* es un sistema de sonido en torre con reproducción a través de tecnología Bluetooth®, memorias externas (USB o tarjetas SD), entrada Audio-in y además cuenta con Radio FM. Se sincroniza facilmente con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo Bluetooth.
 
