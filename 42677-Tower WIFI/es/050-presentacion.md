@@ -6,7 +6,7 @@ Para cambiar entre las diferentes funciones, pulsa el botón CAMBIO DE FUNCIÓN 
 
 Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy Multiroom Tower Wi-Fi* cambiará automáticamente a dicha función. En el caso de tener conectadas alguna o todas las entradas, el botón CAMBIO DE FUNCIÓN (5) cambiará entre todas las disponibles.
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82692be914.jpg)
+![Schema](hhttp://static.energysistem.com/images/manuals/42677/56e827dc1814f.jpg)
 
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e8272b42ebb.jpg)
 
