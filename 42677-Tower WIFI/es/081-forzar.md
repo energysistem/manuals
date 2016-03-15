@@ -14,4 +14,4 @@ En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acc
 
 Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. 
 
-![](http://static.energysistem.com/images/manuals/42677/56e8314e18859.jpg)
+![](http://static.energysistem.com/images/manuals/42677/56e8340c3843c.jpg)
