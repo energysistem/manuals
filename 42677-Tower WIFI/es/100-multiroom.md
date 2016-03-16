@@ -19,13 +19,15 @@ Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de m
 
 ### Modos Multiroom sincronizado.
 
-Este modo de Multiroom sincronizado permite reproducir la misma música en varios altavoces al mismo tiempo. Para poder configurar este modo de reproducción desde la aplicación ve al menú "Lista de dispositivos" y mantén pulsado el dispositivo que quieras asociar con otro altavoz, a continuación, sin soltar, arrastrarla encima de otra pista. Espera unos segundos y podrás comprobar que ambos dispositivos se han sincronizado. En la aplicación verás las pistas interconectadas mediante una línea. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos. Puedes asignar a cada altavoz un canal diferente.
+Este modo de Multiroom sincronizado permite reproducir la misma música en varios altavoces al mismo tiempo. Para poder configurar este modo de reproducción desde la aplicación ve al menú "Lista de dispositivos" y mantén pulsado el dispositivo que quieras asociar con otro altavoz, a continuación, sin soltar, arrastrarla encima de otra pista. Espera unos segundos y podrás comprobar que ambos dispositivos se han sincronizado. En la aplicación verás las pistas interconectadas mediante una línea. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos. 
+
+![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
+
+Puedes asignar a cada altavoz un canal diferente.
 
 * L= Canal izquiero
 * R= Canal derecho
 * L+R= Estéreo
-
-![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
 
 Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
 
