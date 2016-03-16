@@ -11,6 +11,6 @@ Una vez que hayas accedido, se mostrará el menú "WiFi". Dentro de este menú d
   
 Dentro del menú de "Ajuste/Settings" encontramos tres pestañas. La pestaña de "Estado/Status" contiene la información general del dispositivo, como sus identificativos, la versiones del firmware o la dirección IP si estamos conectados a alguna red. 
   
-Dentro de de la pestaña "Sistema/System" se da la opción cambiar el idioma de este asistente de configuración, para poder guardar las modificaciones es necesario pulsar el botón "Guardar/Save". También es posible actualizar los Firmware del altavoz manualmente o actualizarlos online y restablecer los valores de fábrica para conseguir que nuestro altavoz se encuentre configurada como el primer día. 
+En la pestaña "Sistema/System" encontrarás la opción cambiar el idioma de este asistente de configuración, para poder guardar las modificaciones es necesario pulsar el botón "Guardar/Save". También es posible actualizar los Firmware del altavoz manualmente o actualizarlos online y restablecer los valores de fábrica para conseguir que nuestro altavoz se encuentre configurada como el primer día. 
 En cuanto a la pestaña menú "Red/Network", nos permite cambiar la contraseña y el nombre de la red Wi-Fi propia del altavoz.
 
