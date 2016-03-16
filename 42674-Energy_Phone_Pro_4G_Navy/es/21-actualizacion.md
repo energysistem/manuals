@@ -6,7 +6,7 @@ Tambien puedes actualizar tu Energy Phone Pro 4G Navy a través de tu ordenador.
 
 Sigue los siguientes pasos para realizar la instalación:
 
-1. Asegúrate de que la batería de tu Energy Phone Max 4G se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC/DC proporcionado y espera a que la batería se cargue del todo.
+1. Asegúrate de que la batería de tu Energy Phone Pro 4G Navy se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC/DC proporcionado y espera a que la batería se cargue del todo.
 
 2. Accede a la página web www.energysistem.com desde tu ordenador.
 
@@ -18,4 +18,4 @@ Asegúrate de que la versión de sistema operativo que estás descargando es esp
 
 5. Descomprime el archivo en tu ordenador.
 
-6. Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy Phone Max 4G.
+6. Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy Phone Pro 4G Navy.
