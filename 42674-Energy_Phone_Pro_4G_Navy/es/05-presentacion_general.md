@@ -1,7 +1,7 @@
 <quick_guide>
 ## Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/39725/56a0a63ce5c76.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42674/56e9974f4447a.jpg)
 
 1. Botón de encendido/apagado y led de notificaciones
 2. Bandeja de tarjetas microSIM 1/nanoSIM 2/microSD
