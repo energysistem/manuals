@@ -1,5 +1,6 @@
 ## Pantalla principal
 
+
 ![](http://static.energysistem.com/images/manuals/39225/5693976e8fa48.jpg)
 
 1. Carrusel de los últimos libros leídos, indicando la progresión de la lectura mediante la barra de puntos
