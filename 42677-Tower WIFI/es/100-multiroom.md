@@ -25,9 +25,9 @@ Este modo de Multiroom sincronizado permite reproducir la misma música en vario
 
 Puedes asignar a cada altavoz un canal diferente.
 
-* L= Canal izquiero
-* R= Canal derecho
-* L+R= Estéreo
+* L = Canal izquierdo
+* R = Canal derecho
+* LR = Estéreo
 
 Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
 
