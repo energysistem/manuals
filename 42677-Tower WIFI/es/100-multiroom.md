@@ -1,5 +1,5 @@
 ## ¿Tienes más altavoces Energy Wi-Fi? 
-### Conéctalos y disfruta del modo multiroom.
+### Conéctalos y disfruta del modo Multiroom.
 
 Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
@@ -26,3 +26,7 @@ Este modo de Multiroom sincronizado permite reproducir la misma música en vario
 * L+R= Estéreo
 
 ![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
+
+Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
+
+ Para volver al modo de Multiroom Independiente, sólo tendrás que pulsar sobre el altavoz esclavo sincronizado y cuando aparezca como seleccionado arrástralo por debajo de la línea de puntos de esta pantalla, verás que la línea blanca discontinua desaparece. Espera unos segundos y el proceso de desincronización se habrá completado.  
