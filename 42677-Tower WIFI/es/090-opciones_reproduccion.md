@@ -32,7 +32,7 @@ En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para c
 
 - AUX 1. Se encuentra en el lateral del panel superior. Se trata de una conexión mini jack 3.5mm. El resto de modos de reproducción se silenciarán cuando el altavoz detecte señal en esta entrada.
 
-- AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón MODO ().
+- AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón CAMBIO DE FUNCIÓN (4).
 
 
 
