@@ -14,9 +14,9 @@ Desde este modo de reproducción puedes cambiar la ecualización del sonido, pul
 
 También podrás cambiar el orden de reproducción pulsando el botón ORDEN DE REPRODUCCIÓN (10). Hay 3 tipos:
 
-  1. Aleatorio.
-  2. Normal.
-  3. Repetir canción.
+  1. Aleatorio
+  2. Normal
+  3. Repetir canción
 
-Si quieres seleccionar la función Bluetooth desde el modo de reproducción de tarjeta microSD, puedes hacerlo directamente pulsando el botón Bluetooth (1), sin  embargo, no es posible hacer el cambio desde el modo bluetooth al modo tarjeta, siendo necesario apagar el modo bluetooth manteniendo pulsado el botón Bluetooth (1).
+Si quieres seleccionar la función Bluetooth desde el modo de reproducción de tarjeta microSD, puedes hacerlo directamente pulsando el botón BLUETOOTH (1), sin  embargo, no es posible hacer el cambio desde el modo bluetooth al modo tarjeta, siendo necesario apagar el modo bluetooth manteniendo pulsado el botón BLUETOOTH (1).
 
