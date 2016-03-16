@@ -3,7 +3,9 @@
 Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
 Para acceder a dicho asistente existen dos métodos: 
 
-1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Requisitos mínimos del router" de este manual,  y con un explorador de internet acceder a la dirección IP <b>10.10.10.254.</b> 
+1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
+
+![]( http://static.energysistem.com/images/manuals/42677/56e9551cebb34.jpg)
 
 2. El segundo método es que desde un dispositivo conectado a la misma red que el altavoz accedas con un explorador de internet a la dirección IP del altavoz , puedes encontrar esta dirección IP en el menú de "Info del altavoz" de la aplicación.
 
