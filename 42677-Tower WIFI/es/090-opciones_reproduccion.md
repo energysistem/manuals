@@ -12,34 +12,34 @@ En el menú principal de la aplicación encontrarás 4 categorías:
 
 Con esta opción podrás acceder rápidamente a tus canciones favoritas que hayas almacenado previamente. Esta lista está pensada para que sea sencillo añadir y eliminar canciones rápidamente. 
 
-### Mi música
+#### Mi música
 
 Reproduce las canciones que tienes almacenadas en tu dispositivo. Para que sea más sencillo te ordenamos las canciones por Álbumes y Artistas. Además podrás crear tus propias listas de reproducción y acceder a las últimas pistas escuchadas. En el caso de tener un USB o SD conectado al altavoz, también podrás acceder al contenido de estas memorias externas y seleccionar que canción quieres reproducir. Si accedes a la información extra de alguna de las pistas de música, podrás añadirla a favoritos, incorporar a la lista de reproducción actual o consultar información adicional de esta canción.
 
-### TuneIn
+#### TuneIn
 
 Disfruta de un gran abanico de emisora de radio streaming usando esta opción. Podrás escuchar desde una cantidad de músicas de todo el mundo hasta tus programas de deportes favoritos.  
 
-### Spotify
+#### Spotify
 Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu altavoz Energy Multiroom usando esta opción. Está opción esta disponible en el menú principal de la aplicación. 
 
-### Entradas externas
+#### Entradas externas
 Además de los métodos de reproducción arriba comentados, desde la aplicación también podrás controlar el restos de modos de reproducción externos a tu aplicación. Para conocer mejor como usar las entradas externas del altavoz consulta la siguiente sección "Hazlo sonar sin la aplicación Energy Wi-Fi".
 
 
 ### Hazlo sonar sin usar la aplicación Energy Wi-Fy
 
-### Bluetooth
+#### Bluetooth
 
 Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz y selecciona el modo Bluetooth (aparecerá "-bt-" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
 Esta es tu opción si lo que deseas es reproducir videos streaming desde tu dispositivo.
 
-### Memorias externas USB/SD
+#### Memorias externas USB/SD
 
 Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz.
 
-### Entradas auxiliares
+#### Entradas auxiliares
 
 En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
 
