@@ -8,7 +8,7 @@ En el menú principal de la aplicación encontrarás 4 categorías:
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
 
-### Favoritas
+#### Favoritas
 
 Con esta opción podrás acceder rápidamente a tus canciones favoritas que hayas almacenado previamente. Esta lista está pensada para que sea sencillo añadir y eliminar canciones rápidamente. 
 
