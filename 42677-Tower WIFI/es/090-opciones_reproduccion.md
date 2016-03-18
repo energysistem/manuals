@@ -27,7 +27,7 @@ Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu alt
 
 Esta es tu opción si lo que deseas es reproducir videos streaming desde tu dispositivo.
 
-#### Memorias externas USB/SD
+#### Memorias extraibles USB/SD
 Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz.
 
 #### Entradas auxiliares
