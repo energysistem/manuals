@@ -1,4 +1,4 @@
-## Ecualización del sonido.
+## Ecualización del sonido
 Tu *Energy Multiroom Tower Wi-Fi* tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
 
 * Ajuste de Agudos (17). Indicado como "Treble".
