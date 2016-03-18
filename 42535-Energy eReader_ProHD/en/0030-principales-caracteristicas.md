@@ -12,4 +12,4 @@
 - One of a kind with 8GB of internal memory, and expandable microSD port up to 64GB storage to carry thousands of books with you.
 - Includes 1500 of universal literature classic ebooks for free.
 
-#### * Based on half an hour of daily reading, with minimum backlight level, and WiFi connectivity disabled.
+#### * Based on half an hour of daily reading, with minimum backlight level, and WiFi connection disabled.
