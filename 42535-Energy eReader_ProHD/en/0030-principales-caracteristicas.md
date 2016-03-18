@@ -1,15 +1,15 @@
-## Principales características
+## Main features
 
-- Tu lectura en alta definición con su pantalla de tinta electrónica E-Ink#trade# Carta HD de 6", sistema antirreflectante y calidad de visualización óptima desde cualquier ángulo.
-- Pantalla táctil plana para mejorar la experiencia de uso de tu eReader.
-- Luz integrada y regulable para leer bajo cualquier condición de luminosidad.
-- Conectividad Wi-Fi N de alta velocidad integrada.
-- Procesador de doble núcleo Cortex A9 de alto rendimiento.
-- Sistema operativo Android para disfrutar de aplicaciones como diccionario, correo, descarga de contenidos en la nube, etc.
-- Diseño ultra-delgado y ergonómico, ideal para la sujeción durante horas y horas de lectura.
-- Batería de litio recargable de alta capacidad con 2800 mAh, que permite hasta dos meses de uso con una sola carga.*
-- Funciones avanzadas de lectura: diferentes tamaños, tipos de letra, marcadores, notas, subrayado...
-- Único en su clase con 8GB de memoria interna y puerto microSD ampliable con hasta 64GB para almacenar miles de libros.
-- Incluye 1500 libros de la literatura universal de regalo.
+- Reading in high definition with its 6" E-Ink Carta HD display, with anti-reflection system and optimal viewing quality from any angle
+- Flat Touch Screen to enhance the experience of using your eReader
+- Integrated and adjustable backlight system to read under all lighting conditions
+- IntegratedHigh speed Wi-Fi N connectivity
+- High performance Cortex A9 Dual core processor 
+- Android OS to enjoy applications such as dictionary, mail,  downloading content from your cloud storage system, etc.
+- Ultra-slim and ergonomic design, ideal for holding during long reading periods.
+- Rechargeable lithium 2800 mAh high capacity battery, which allows up to two months of use on a single charge*.
+- Advanced reading features: different sizes, fonts, bookmarks, notes, dictionary ...
+- One of a kind with 8GB of internal memory, and expandable microSD port up to 64GB storage to carry thousands of books with you.
+- Includes 1500 of universal literature classic ebooks for free.
 
-#### *Cálculo basado en media hora de lectura diaria, con mínimo nivel de iluminación "Screenlight" y la conectividad WiFi desactivada.
+#### * Based on half an hour of daily reading, with minimum backlight level, and WiFi connectivity disabled.
