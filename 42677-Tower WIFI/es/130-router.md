@@ -6,7 +6,7 @@ Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu
 
 - Es necesario que la red a la que quiere conectar el altavoz esté encriptada con una clave WAP PSK utilizando AES o bien no utilice clave.
 
-- El router ha de soportar el protocolo de comunicación Internet Group Management Protocol(IGMP) para poder establecer comunicación con los altavoces.
+- El router ha de soportar el protocolo de comunicación Internet Group Management Protocol (IGMP) para poder establecer comunicación con los altavoces.
 
 - La red a la que se desee conectar el altavoz ha de difundir el SSID.
 
