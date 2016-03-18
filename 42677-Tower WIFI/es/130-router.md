@@ -1,4 +1,4 @@
-## Requisitos mínimos del router.
+## Requisitos mínimos del router
 
 Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu red privada debe cumplir las siguientes consideraciones:
 
