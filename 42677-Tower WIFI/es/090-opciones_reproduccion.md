@@ -11,8 +11,7 @@ Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi m
 Explora cualquier emisora de radio streaming usando esta opción que encontrarás en el menú principal de la aplicación.
 
 ### Spotify
-
-Escucha tu música favorita en Spotify (requiere contratación de cuenta premium). Está opción esta disponible en el menú principal de la aplicación. 
+Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu altavoz Energy Multiroom usando esta opción. Está opción esta disponible en el menú principal de la aplicación. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
 
