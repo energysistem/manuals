@@ -1,6 +1,4 @@
-## Introducción
-
-Gracias por confiar en nosotros y adquirir tu nuevo Energy eReader Pro HD. ¡Deseamos que lo disfrutes! Tu nuevo lector de libros electrónicos tiene una pantalla E-Ink Carta#trade# táctil de 6" de alta definición, y su luz integrada con sistema antirreflectante te permite leer en espacios con poca luminosidad. El acceso a las miles de aplicaciones de su sistema operativo Android#trade# es posible gracias a su conexión Wi-Fi integrada. Estas características, unidas a sus funciones avanzadas de lectura y sus 8 GB de memoria interna, hacen de este dispositivo un compañero ideal para tus jornadas de lectura.
-
-Antes de comenzar a disfrutar de tu Energy eReader Pro HD te aconsejamos que leas esta guía rápida para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a sacar el máximo partido a todas sus prestaciones.
+## Introduction
+Thank you for trusting us and buy your new Energy eReader Pro HD. We hope you enjoy it! Your new e-book reader has a 6" E-Ink Carta#trade# HD display with touch panel, and its integrated light with anti-reflection system allows you to read in low-light. The access to thousands of applications on your system Android operating#trade# is possible thanks to its integrated Wi-Fi. These features, combined with its advanced reading features, and its 8GB of internal memory, make this device the ideal companion for your reading days.
+Before you start enjoying your Energy eReader Pro HD advise you to read this quick guide to get familiar with it. It only takes a couple of minutes and help you make the most of all their benefits.
 
