@@ -1,4 +1,4 @@
-## Configuración inicial.
+## Configuración inicial
 
 Sigue los siguientes pasos para configurar tu altavoz:
 
