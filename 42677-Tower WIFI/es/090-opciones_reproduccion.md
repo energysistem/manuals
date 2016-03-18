@@ -2,7 +2,7 @@
 
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
-### Hazlo sonar usando la aplicación Energy Wi-Fy
+### Hazlo sonar usando la aplicación Energy Wi-Fi
 
 En el menú principal de la aplicación encontrarás 4 categorías:
 
@@ -27,7 +27,7 @@ Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu 
 Además de los métodos de reproducción arriba comentados, desde la aplicación también podrás controlar el restos de modos de reproducción externos a tu aplicación. Para conocer mejor como usar las entradas externas del altavoz consulta la siguiente sección "Hazlo sonar sin la aplicación Energy Wi-Fi".
 
 
-### Hazlo sonar sin usar la aplicación Energy Wi-Fy
+### Hazlo sonar sin usar la aplicación Energy Wi-Fi
 
 #### Bluetooth
 
