@@ -19,7 +19,7 @@ Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu 
 
 Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz y selecciona el modo Bluetooth (aparecerá "-bt-" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
-Esta es tu opción si lo que deseas es reproducir videos streaming desde Youtube.
+Esta es tu opción si lo que deseas es reproducir videos streaming desde tu dispositivo.
 
 ### USB/SD.
 
