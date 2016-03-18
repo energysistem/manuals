@@ -1,8 +1,8 @@
-## Opciones de reproducción.
+## Opciones de reproducción
 
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
-### Mi música.
+### Mi música
 
 Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi musica" desde el menú principal de la aplicación.
 
@@ -15,17 +15,17 @@ Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
 
-### Bluetooth.
+### Bluetooth
 
 Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz y selecciona el modo Bluetooth (aparecerá "-bt-" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
 
 Esta es tu opción si lo que deseas es reproducir videos streaming desde tu dispositivo.
 
-### USB/SD.
+### Memorias externas USB/SD
 
 Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz.
 
-### Entradas auxiliares.
+### Entradas auxiliares
 
 En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
 
