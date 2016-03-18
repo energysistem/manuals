@@ -10,7 +10,7 @@ La segunda forma es a partir de la aplicación y sólo es posible en un disposit
 
 En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. 
 
-![](http://static.energysistem.com/images/manuals/42677/56e8314e18859.jpg)
+![](http://static.energysistem.com/images/manuals/42677/56ebd49756331.jpg)
 
 Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. 
 
