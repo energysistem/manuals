@@ -1,4 +1,4 @@
-## Como forzar la conexión del altavoz a tu red Wi-Fi.
+## Como forzar la conexión del altavoz a tu red Wi-Fi
 
 Puedes realizar la conexión de dos manera alternativas a la descrita en el apartado anterior "Configuración inicial".
 
