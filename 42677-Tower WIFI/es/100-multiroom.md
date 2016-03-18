@@ -3,7 +3,7 @@
 
 Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
-Una vez realizada la configuración inicial con el primer altavoz, pulsa la opción"+" y sigue los mismos pasos descritos en el apartado 1) para conectar tu segundo altavoz Wi-Fi.
+Una vez realizada la configuración inicial con el primer altavoz, pulsa la opción"+" y sigue los mismos pasos descritos en el apartado "Configuración inicial" para conectar tu segundo altavoz Wi-Fi.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
 
