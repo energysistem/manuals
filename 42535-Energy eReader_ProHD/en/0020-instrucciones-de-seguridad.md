@@ -1,11 +1,11 @@
-## Cuidado y mantenimiento
+## Care and Maintenance
 
-- Mantén tu eReader limpio y sin polvo, con un paño suave y seco.
-- No uses productos de limpieza corrosivos o abrasivos.
-- No ejerzas presión en la pantalla del dispositivo.
-- No expongas tu Energy eReader Pro HD a golpes, polvo, luz solar directa por tiempo prolongado, humedad o altas temperaturas.
-- No extraigas la tarjeta microSD o apagues el dispositivo mientras se está leyendo o escribiendo datos para evitar pérdida de datos.
-- No sitúes el dispositivo cerca de dispositivos que emitan campos electromagnéticos intensos. Puede provocar daños o pérdida de datos.
-- Realiza copias de seguridad periódicamente en otro dispositivo de almacenamiento. Energy Sistem#trade# no se hará responsable en ningún caso de la pérdida o daño de los datos almacenados.
-- No desmontes tu eReader. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy Sistem Technology S.A.
+- Keep your eReader away from dust by using a soft, dry cloth.
+- Do not use corrosive or abrasive cleaners.
+- Do not apply excesive pressure over the device's display.
+- Do not expose your Energy eReader Pro HD to shock, dust, direct sunlight for long time, humidity or high temperatures.
+- Do not remove the microSD card or turn off the device while reading or writing data to prevent data loss.
+- Do not place unit near devices that emit strong electromagnetic fields. It may cause damage or loss of data.
+- Make info backs up periodically to another storage device. Energy Sistem#trade# will not be liable in any case of loss or damage of stored data.
+- Do not disassemble your eReader. Any repairs must be performed only by Sistem Energy Technology S.A. qualified staff. 
 
