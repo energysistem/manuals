@@ -1,4 +1,4 @@
-## Especificaciones.
+## Especificaciones técnicas
 
 - Sistema de sonido 2.1 con potencia real de 60W. (1 x subwoofer de 4"y 30W + 2 x full range de 4" y 10W + 1 x tweeter de 1,5"y 10W).
 - Respuesta en frecuencia: 20Hz-20KHz.
