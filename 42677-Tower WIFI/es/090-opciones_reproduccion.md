@@ -2,18 +2,32 @@
 
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
+## Hazlo sonar usando la aplicación Energy Wi-Fy
+
+En el menú principal de la aplicación encontrarás 4 categorías:
+
+![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
+
+### Favoritas
+
+Con esta opción podrás acceder rápidamente a tus canciones favoritas que hayas almacenado previamente. Esta lista está pensada para que sea sencillo añadir y eliminar canciones rápidamente. 
+
 ### Mi música
 
-Reproduce las canciones que tienes almacenadas en tu dispositivo. Accede a "Mi musica" desde el menú principal de la aplicación.
+Reproduce las canciones que tienes almacenadas en tu dispositivo. Para que sea más sencillo te ordenamos las canciones por Álbumes y Artistas. Además podrás crear tus propias listas de reproducción y acceder a las últimas pistas escuchadas. En el caso de tener un USB o SD conectado al altavoz, también podrás acceder al contenido de estas memorias externas y seleccionar que canción quieres reproducir. Si accedes a la información extra de alguna de las pistas de música, podrás añadirla a favoritos, incorporar a la lista de reproducción actual o consultar información adicional de esta canción.
 
 ### TuneIn
 
-Explora cualquier emisora de radio streaming usando esta opción que encontrarás en el menú principal de la aplicación.
+Disfruta de un gran abanico de emisora de radio streaming usando esta opción. Podrás escuchar desde una cantidad de músicas de todo el mundo hasta tus programas de deportes favoritos.  
 
 ### Spotify
 Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu altavoz Energy Multiroom usando esta opción. Está opción esta disponible en el menú principal de la aplicación. 
 
-![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
+### Entradas externas
+Además de los métodos de reproducción arriba comentados, desde la aplicación también podrás controlar el restos de modos de reproducción externos a tu aplicación. Para conocer mejor como usar las entradas externas del altavoz consulta la siguiente sección "Hazlo sonar sin la aplicación Energy Wi-Fi".
+
+
+## Hazlo sonar sin usar la aplicación Energy Wi-Fy
 
 ### Bluetooth
 
