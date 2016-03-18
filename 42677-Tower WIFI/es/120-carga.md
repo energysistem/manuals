@@ -1,4 +1,4 @@
-## Carga de Dispositivos
+## Carga de dispositivos
 
 Tu  *Energy Multiroom Tower Wi-Fi* dispone de dos salidas "DC OUT" (12) en las cuales puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
