@@ -1,4 +1,4 @@
-## Asistente de configuración del módulo Wi-Fi.
+## Asistente de configuración del módulo Wi-Fi
 
 Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
 Para acceder a dicho asistente existen dos métodos: 
