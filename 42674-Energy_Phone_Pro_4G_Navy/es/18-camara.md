@@ -1,6 +1,6 @@
 ## Cámara
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe60b4b8c5.jpg)
 
 
 1. Modos de imagen.
