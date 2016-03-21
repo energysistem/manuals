@@ -2,10 +2,14 @@
 
 La familia de altavoces *Energy Multiroom* generan una red Wi-Fi propia para poder interactuar con el resto de dispositivos de la misma familia de productos. Estas redes son fácilmente identificables ya que en su nombre por defecto tiene una estructura del tipo "Energy Multiroom_XXXX" donde XXXX es un indicador único de cada dispositivo. Por supuesto el nombre de esta red es configurable accediendo asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi".
 
-Por defecto, esta red viene encriptada y utiliza una contraseña del tipo WAP-PSK (AES). La contraseña por defecto es *0123456789*. Le recomendamos que modifique esta contraseña y utilices una que puedas recordar con facilidad. Esto podrá hacerlo desde la aplicación, en el menú información del dispositivo,  o desde el asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi". 
+Puedes conectarte directamente a la red Wi-Fi que genera tu altavoz. Por defecto, esta red viene encriptada y utiliza una contraseña del tipo WAP-PSK (AES). La contraseña por defecto es *0123456789*. Te recomendamos que modifique esta contraseña y utilices una que puedas recordar con facilidad. Esto podrá hacerlo desde la aplicación, en el menú información del dispositivo,  o desde el asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi". 
 
-Al conectarse a esta red Wi-Fi podrá encontrar rápidamente el dispositivo que emite esta red para poder utilizar la aplicación o poder acceder al asistente de configuración del dispositivo. Además al conectarse a esta red en el caso de que el altavoz esté conectado a otra red Wi-Fi, el altavoz actuará como bridge de la red Wi-Fi a la que esté conectada y compartirá el acceso a internet que este dispositivo posee. 
+Principal ventaja de este modo de conexión: 
+- Puedes prescindir del router.
+
+Limitaciones:
+- No podrás realizar una conexión Multiroom, sólo podrás manejar un sólo altavoz en modo APP.
+- No tendrás acceso a Internet con el dispositivo que estés usando. 
 
 Otra de las utilidades que se puede disfrutar al conectarse a esta red es la posibilidad de utilizar el altavoz como dispositivo externo de reproducción en otros sistemas operativos. Para saber más sobre esta funcionalidad consulta la sección "Como conectar tu altavoz a tu ordenador personal"  de este manual.
 
-*Nota:* Ten en cuenta que si te conectas a esta red Wi-Fi que genera el altavoz perderás la conexión de datos con el dispositivo que estés usando. Tu dispositivo intentará acceder a Internet a través de la red Wi-Fi a la que esté conectada, que en este caso será la red Wi-Fi del altavoz, y no posee acceso a Internet. 
