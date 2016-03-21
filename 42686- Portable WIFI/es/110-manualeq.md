@@ -1,10 +1,5 @@
 ## Ecualización del sonido
-Tu *Energy Multiroom Tower Wi-Fi* tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
-
-* Ajuste de Agudos (17). Indicado como "Treble".
-* Ajuste de Graves (15). Indicado como "Bass".
-
-También puedes seleccionar 1 de las 5 ecualizaciones predefinidas, pulsando el botón ECUALIZACIÓN del panel superior (3) o del mando a distancia (26):
+Tu *Energy Multiroom Portable Wi-Fi* dispone de 5 modos de ecualización predefinidos. Pulsa el botón ECUALIZACIÓN (5) del panel superior para cambiar entre ellos:
 
 * EQ 0: Normal.
 * EQ 1: Pop.
