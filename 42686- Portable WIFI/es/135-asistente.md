@@ -1,9 +1,9 @@
 ## Asistente de configuración del módulo Wi-Fi
 
-Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
+Tu *Energy Multiroom Portable Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
 Para acceder a dicho asistente existen dos métodos: 
 
-1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
+1. El primero es conectándote a la red que genera el propio altavoz, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
 
 2. El segundo método es que desde un dispositivo conectado a la misma red que el altavoz accedas con un explorador de internet a la dirección IP del altavoz , puedes encontrar esta dirección IP en la opción "Info del altavoz" del menu de configurarción de la aplicación.
 
