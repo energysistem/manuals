@@ -27,4 +27,4 @@
   - Capacidad nominal: 2050 mAh.
   - Voltaje nominal: 7.4V.
   - Autonomía aproximada: 4 horas.
-  - Conector de carga microUSB
+  - Conector de carga microUSB.
