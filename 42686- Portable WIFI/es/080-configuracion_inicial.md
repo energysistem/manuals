@@ -12,7 +12,7 @@ Sigue los siguientes pasos para configurar tu altavoz:
 
 ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 
-4) Mantén pulsado el botón SINCRONIZACIÓN Wi-Fi (4) de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente. En caso contrario, vuelve a realizar el proceso desde el punto 1). 
+4) Mantén pulsado el botón SINCRONIZACIÓN Wi-Fi (3) de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente. En caso contrario, vuelve a realizar el proceso desde el punto 1). 
 
 5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". 
 
