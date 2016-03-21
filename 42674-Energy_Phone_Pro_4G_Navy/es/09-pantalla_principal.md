@@ -10,9 +10,9 @@
 6. **Email:** Correo electrónico.
 7. **Internet:** Navegador web.
 8. **Menu:** Acceso al menú de aplicaciones y widgets.
-9. **Botón táctil en sistema** Volver.
-10. **Botón táctil en sistema** Inicio.
-11. **Botón táctil en sistema** Aplicaciones recientes.
+9. **Botón táctil en sistema:** Volver.
+10. **Botón táctil en sistema:** Inicio.
+11. **Botón táctil en sistema:** Aplicaciones recientes.
 12. **Teléfono:** Llamadas y registro.
 13. **Contactos:** Gestión de contactos.
 14. **Cámara:** Acceso a la cámara de fotos integrada.
