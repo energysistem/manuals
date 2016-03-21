@@ -1,5 +1,5 @@
 ## ¿Tienes más altavoces Energy Wi-Fi? 
-### Conéctalos y disfruta del modo Multiroom.
+### Conéctalos y disfruta del modo Multiroom
 
 Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
 
@@ -13,7 +13,7 @@ Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pist
 
 <br/>
 
-### Modo Multiroom independiente.
+### Modo Multiroom independiente
 
 Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de manera independiente, pudiendo controlar cada uno de ellos desde la aplicación o interactuando directamente con ellos mediante su panel superior. Podrás saber que estás en este modo reproducción mirando la aplicación dedicada ya que cada uno de los dispositivos te aparecerá en una línea independiente dentro del menú "Lista de dispositivos".
 
@@ -27,7 +27,7 @@ Este modo de Multiroom sincronizado permite reproducir la misma música en vario
 
 ![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
 
-Puedes asignar a cada altavoz un canal diferente.
+Puedes asignar a cada altavoz un canal diferente
 
 * L = Canal izquierdo
 * R = Canal derecho
