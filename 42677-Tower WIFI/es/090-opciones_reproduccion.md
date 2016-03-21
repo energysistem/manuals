@@ -3,7 +3,7 @@ Una vez configurado tu altavoz, dispones de las siguientes opciones para reprodu
 
 <br/>
 
-### - Usando la aplicación Energy Wi-Fi
+### Usando la aplicación Energy Wi-Fi
 En el menú principal de la aplicación encontrarás 4 categorías:
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
