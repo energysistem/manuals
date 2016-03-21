@@ -1,6 +1,6 @@
 ## Especificaciones técnicas
 
-- Sistema de sonido 2.1 con potencia real de 21W. (15W * 1 + 3W * 2)
+- Sistema de sonido 2.1 con potencia real de 25W. (12W * 1 + 6.5W * 2)
 - Respuesta en frecuencia: 60 Hz ~ 20 KHz.
 - Conexión Wi-Fi:
   - Estándar: 802.11 b/g/n
