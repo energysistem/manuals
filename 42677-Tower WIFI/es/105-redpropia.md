@@ -8,7 +8,7 @@ Principal ventaja de este modo de conexión:
 - Puedes prescindir del router.
 
 Limitaciones:
-- No podrás realizar una conexión Multiroom, sólo podrás manejar un sólo altavoz en modo APP.
+- No podrás realizar una conexión Multiroom, sólo podrás manejar un 1 altavoz en modo APP.
 - No tendrás acceso a Internet con el dispositivo que estés usando. 
 
 Otra de las utilidades que se puede disfrutar al conectarse a esta red es la posibilidad de utilizar el altavoz como dispositivo externo de reproducción en otros sistemas operativos. Para saber más sobre esta funcionalidad consulta la sección "Como conectar tu altavoz a tu ordenador personal"  de este manual.
