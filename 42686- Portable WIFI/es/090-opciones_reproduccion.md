@@ -36,6 +36,8 @@ Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/
 #### Entrada auxiliar
 En tu *Energy Multiroom Portable Wi-Fi* encontrarás una CONEXIÓN DE ENTRADA DE AUDIO (12) para conectar cualquier dispositivo externo. Se trata de una conexión mini jack 3.5mm. El resto de modos de reproducción se silenciarán cuando el altavoz detecte señal en esta entrada.
 
+  *NOTA:* Mientras se utiliza el altavoz en modo Audio-In, no es posible controlar la reproducción o el volumen desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
+
 
 
 
