@@ -1,6 +1,7 @@
 ## Opciones de reproducción
 Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
 
+<br/>
 
 ### Usando la aplicación Energy Wi-Fi
 En el menú principal de la aplicación encontrarás 4 categorías:
