@@ -33,6 +33,6 @@ Puedes asignar a cada altavoz un canal diferente
 * R = Canal derecho
 * LR = Estéreo
 
-Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
+Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (3), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
 
  Para volver al modo de Multiroom Independiente, sólo tendrás que pulsar sobre el altavoz esclavo sincronizado y cuando aparezca como seleccionado arrástralo por debajo de la línea de puntos de esta pantalla, verás que la línea blanca discontinua desaparece. Espera unos segundos y el proceso de desincronización se habrá completado.  
