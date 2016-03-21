@@ -21,7 +21,7 @@ Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de m
 
 <br/>
 
-### Modos Multiroom sincronizado.
+### Modos Multiroom sincronizado
 
 Este modo de Multiroom sincronizado permite reproducir la misma música en varios altavoces al mismo tiempo. Para poder configurar este modo de reproducción desde la aplicación ve al menú "Lista de dispositivos" y mantén pulsado el dispositivo que quieras asociar con otro altavoz, a continuación, sin soltar, arrastrarla encima de otra pista. Espera unos segundos y podrás comprobar que ambos dispositivos se han sincronizado. En la aplicación verás las pistas interconectadas mediante una línea. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos. 
 
