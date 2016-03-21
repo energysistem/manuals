@@ -1,4 +1,4 @@
 <quick_guide>
-![Portada](http://static.energysistem.com/images/manuals/42677/56e82c94cf96f.jpg)
-![Portada](http://static.energysistem.com/images/manuals/42677/56dd708430fdc.jpg)
+![Portada](http://static.energysistem.com/images/manuals/42686/56efd56a65929.jpg)
+![Portada](http://static.energysistem.com/images/manuals/42686/56efd5a25e2ef.jpg)
 </quick_guide>
