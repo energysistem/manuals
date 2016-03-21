@@ -19,6 +19,7 @@ Disfruta de un gran abanico de emisora de radio streaming usando esta opción. P
 #### Spotify
 Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu altavoz Energy Multiroom usando esta opción. Está opción esta disponible en el menú principal de la aplicación. 
 
+<br/>
 
 ### Sin necesidad de usar la aplicación Energy Wi-Fi 
 Además de los métodos de reproducción arriba comentados, desde la aplicación también podrás controlar el restos de modos de reproducción externos no siendo necesario el uso de esta aplicación para habilitar las siguientes entradas externas disponibles:
