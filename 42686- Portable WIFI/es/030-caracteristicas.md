@@ -20,7 +20,8 @@
 - 5 modos de ecualización digital predefinidos para los modos USB y SD.
 - Relación señal/ruido: >80 dB.
 - Display de segmentos LED.
-- Entrada auxiliar de 3,5mm.- Salida para auriculares de 3,5mm.
+- Entrada auxiliar de 3,5mm.
+- Salida para auriculares de 3,5mm.
 
 - Batería de litio recargable: 
   - Capacidad nominal: 2050 mAh.
