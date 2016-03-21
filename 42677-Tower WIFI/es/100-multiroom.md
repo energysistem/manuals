@@ -11,11 +11,15 @@ Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar h
 
 Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada.
 
+<br/>
+
 ### Modo Multiroom independiente.
 
 Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de manera independiente, pudiendo controlar cada uno de ellos desde la aplicación o interactuando directamente con ellos mediante su panel superior. Podrás saber que estás en este modo reproducción mirando la aplicación dedicada ya que cada uno de los dispositivos te aparecerá en una línea independiente dentro del menú "Lista de dispositivos".
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8403b2cade.jpg)
+
+<br/>
 
 ### Modos Multiroom sincronizado.
 
