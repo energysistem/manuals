@@ -20,5 +20,5 @@ ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 
 Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
 
-*Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
+*Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
 
