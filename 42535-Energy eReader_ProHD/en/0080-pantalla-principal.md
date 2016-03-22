@@ -18,9 +18,9 @@
 
 - *Screenlight:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). It allows you to regulate the back light level of your eReader screen.
 
-- *Wi-Fi* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Wi-Fi reception signal and status.
+- *Wi-Fi:* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Wi-Fi reception signal and status.
 
-- *Battery* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indicates the eReader battery level and status.
+- *Battery:* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indicates the eReader battery level and status.
 - 
 - *Time:* ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
