@@ -1,23 +1,23 @@
-## Encendido y apagado
+## Turning the device On and Off
 
-Para encender tu eReader, pulsa el botón encendido/apagado (3) hasta que aparezca la imagen de inicio.
+To turn on your eReader Pro HD, hold the on / off button / standby (3) until the startup image appears.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd7667ffea.jpg)
 
-Para apagar el dispositivo, mantén pulsado este botón (3) hasta que aparezca el menú de apagado, a continuación escoge la opción "Aceptar" pulsando en la pantalla. También puedes ponerlo en modo espera, realizando una breve pulsación sobre este mismo botón (3). Este modo de bajo consumo te permitirá volver instantáneamente a la pantalla en la que te encontrabas realizando otra breve pulsación.
+To turn off the eReader, hold the button (3) until a warning window appears and push "OK" on the screen. A short press of this button (3)  will put your eReader on standby mode, which is a special low-power mode that lets you instantly return to the last screen by just pushing the button again.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42091/549944d0977d4.jpg)
 
-En el modo de espera, el dispositivo muestra una imagen en su pantalla. No te preocupes, en este modo tu eReader apenas consume energía.
+When your eReader is in standby mode or switched off, it will display an image on the screen indicating their status. Do not worry, this image does not consume energy.
 
-*En modo de espera:*
+*Standby Mode:*
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd4963732d.jpg)
 
-*Apagado:*
+*Turned Off:*
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd44fd07a3.jpg)
