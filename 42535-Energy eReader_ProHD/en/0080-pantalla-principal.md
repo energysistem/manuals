@@ -21,7 +21,7 @@
 - *Wi-Fi:* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Wi-Fi reception signal and status.
 
 - *Battery:* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indicates the eReader battery level and status.
-- 
+
 - *Time:* ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
 *You can configure the application shortcuts you want on the home screen. To change you have to follow these steps: Settings / User defined / Customize desktop apps.
