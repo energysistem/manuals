@@ -8,7 +8,7 @@ La segunda forma ser realiza a través de la aplicación y sólo es posible en u
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd56037e20.jpg)
 
-En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. 
+En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero aparecerá la opción "Siguiente", arriba a la derecha que anteriormente estaba oculta. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49756331.jpg)
 
