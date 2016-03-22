@@ -1,4 +1,4 @@
-## Alimentación
+## Power supply
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd48e49506.jpg)
 
