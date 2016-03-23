@@ -4,26 +4,26 @@
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d81e5567.jpg)
 
-Tu Energy eReader Pro HD tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
+Your Energy eReader Pro HD has a direct access to the Internet through your wireless connection. Once the device is connected to a Wi-Fi network, click on the "Browser" icon, located in the main menu or in applications menu to start the program. The system will load the home page set by default. You can use the browser to download your content in the cloud. You can find your content downloaded in the "Downloads" app.
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d194fe7780.jpg)
 
-**Correo (Gmail):**
+**Gmail:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/56a63a5cde8e2.jpg)
 
-La aplicación de Correo te permite recibir, enviar y consultar tus correos mediante su interfaz configurada con tu cuenta electrónica.
-Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
-Otra opción de esa aplicación es la posibilidad de configurar varias cuentas electrónicas para estar activo en todas tus cuentas en una única interfaz.
+The Email application allows you to receive, send and get your emails through your email account interface.
+
+During the first use of the application, you must configure the application by entering your email address and password. Once your account registered in the application, you can navigate in the interface to check your emails. This application gives you the possibility to configure multiple email accounts to be active on all your accounts in a single interface.
 
 ![] (http://static.energysistem.com/images/manuals/42091/54999ab245c55.jpg)
 
-**Libros:**
+**Books:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
-Aquí se visualizan todos los libros guardados en la memoria interna o en la tarjeta micro SD de memoria externa.
-Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando el icono de modos de visualización: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (previsualización de las portadas de tus ebooks). Para abrir un libro pulsa la portada del libro que quieres leer.
+This application shows you all the books that you have stored in the internal memory or micro SD external memory card.
+You can select the display mode that you prefer to visualize the ebooks pressing on the icon display modes: ![] (http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) list mode, ![] (http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) library mode 1 or ![] (http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) library (previsualización de las portadas de tus ebooks). To open a book, press on the book of your choice. 
 
 ![] (http://static.energysistem.com/images/manuals/42535/56b07aab8526b.jpg)
 
