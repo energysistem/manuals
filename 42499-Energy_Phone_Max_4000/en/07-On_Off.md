@@ -1,21 +1,21 @@
 ## <quick_guide> Switch on and off
 
-Before turning on your Energy Phone Max 4000, make sure that the microSIM cards are inserted in their slots. After that, press the power button (8) located on the right side of your device for one second. When the operating system has loaded, unlock the device to start using it. Enter the PIN number of your microSIM cards and then drag the padlock upwards using your finger.
+Make sure that the microSIM cards are inserted in their corresponding slots before turning on your Energy Phone Max 4000. Afterwards, press the On / Off button (8) on the right of your device for one second. Once the operating system has loaded completely, please unlock the device to start using it. Proceed to enter the PIN number of your microSIM cards and then drag the padlock upwards.
 
-Each time you insert a microSIM card, you must restart the device to detect it.
+You will have to restart your device each time that you insert a microSIM card in order for the device to detect it.
 
-In order to turn off the device, hold the power button (8) until you see the power off menu, then select "Switch off".
+To turn off the device, press the On / Off button (8) until you see the power off menu and then, select "Switch off".
 
-Briefly press the power button (8) to lock/unlock the device thus, turning the screen on/off.
+Briefly press the On / Off button (8) to lock/unlock the device thus, turning the screen on/off.
 
+### How to insert the microSIM 2
 
-### Placement microSIM 2
-
-16a. Slide upwards the lock tab (following the OPEN arrow) until you hear a “click” to unlock it.
-16b. Lift up the tab from the bottom.
-16c. Place the microSIM as shown in the drawing.
+16a. Slide the lock tab vertically  (in the direction of the OPEN arrow) until you hear the "click" to unlock it.
+16b. Lift up the tab starting from the bottom part.
+16c. Place the microSIM as shown in the picture.
 16d. Lower the tab.
-16e. Slide down the lock tab (following the LOCK arrow) until you hear the “click” to lock it.
+16e. Slide down the lock tab (in the direction of the LOCK arrow) until you hear the "click" to lock it.
 
 </quick_guide>
+
 
