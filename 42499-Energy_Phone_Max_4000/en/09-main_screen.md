@@ -14,5 +14,3 @@
 10. **Phone:** Calls and call log.
 11. **Gallery:** Image gallery.
 12. **Camera:** Access to the built-in camera.
-
-
