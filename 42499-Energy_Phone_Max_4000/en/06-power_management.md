@@ -1,7 +1,7 @@
-<quick_guide>
-## Power
+## <quick_guide> Power
 
-Your Energy Smartphone has a high capacity 4000 mAh battery with quick charge. The charging time ranges from 2 to 4 hours, depending on whether the device is off or running. To ensure these charging times, recharge the battery by connecting the device to the outlet only using the USB cable and the adapter included with the product.
+ Your Energy Phone Max 4000 has a 4000 mAh battery with quick charge function. The charging time ranges from 2 to 4 hours, depending on whether the device is on or off. Always charge your phone through the USB cable and the power adapter that come with the product to comply with the battery charging times.
 
 </quick_guide>
+
 
