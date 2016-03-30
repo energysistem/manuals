@@ -4,10 +4,10 @@ Your Energy Phone Max 4000 has Wi-Fi 802.11 b/g/n connectivity. To connect your 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9edb4099b.jpg)
 
-1. Settings > Wi-Fi.
-2. Enable the Wi-Fi option.
-3. Select your Wi-Fi network.
-4. Connect.
+1. Settings > Wi-Fi
+2. Enable the Wi-Fi option
+3. Select your Wi-Fi network
+4. Connect
 
 **Note:** Your Energy Phone Max 4000 is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Phone will save the Wi-Fi access data and your devide will be ready to access the Internet. The device will remember the network and will automatically connect to it when it is available.
 
