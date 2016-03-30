@@ -70,7 +70,7 @@ Once installed dictionaries and restarting your eReader can use this function di
 
 #### Note: dictionaries databases are owned by third parties. Sistem Energy Technology S.A. is not responsible for their content.
 
-**Bloc de Notas:**
+**Notepad:**
 
 ![](http://static.energysistem.com/images/manuals/42535/56a6503a232ae.jpg)
 
