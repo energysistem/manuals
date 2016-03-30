@@ -19,6 +19,5 @@
 15. Slot do cartão microSD
 16. Slot do cartão microSIM 2
 17. Número de série e IMEI
-
-
+ 
 </quick_guide>
