@@ -18,7 +18,7 @@ CÂMARAS
 
 MEMÓRIA
 - 1 GB de RAM DDR3
-- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais).
+- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais)
 
 CONECTIVIDADE
 - 3G:  900/2100 MHz (BANDAS WCDMA VIII / I)
