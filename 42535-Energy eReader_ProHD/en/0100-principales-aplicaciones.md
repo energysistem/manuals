@@ -1,6 +1,6 @@
-## Principales aplicaciones
+## Main apps
 
-**Navegador Internet:**
+**Internet browser:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/569d0d81e5567.jpg)
 
