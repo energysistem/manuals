@@ -1,13 +1,13 @@
-# Funcionamiento de la garantía
+## Support and Warranty Procedure
 
-Entrando en http://support.energysistem.com/support y tras seleccionar tu producto, podrás encontrar FAQs (respuestas a las preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía del dispositivo.
+Visit the Support section at http://support.energysistem.com and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available, as the possibility to submit a query to the Technical Service or consult the warranty.
 
-También puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
-Marcas comerciales
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+Specifications are subject to change without notice.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+*Trademarks.* All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-© 2016 por Energy Sistem Technology, S.A.Todos los derechos reservados.
+2016 by Energy Sistem Soyntec S.A. All rights reserved.
+
 
