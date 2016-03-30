@@ -27,53 +27,54 @@ You can select the display mode that you prefer to visualize the ebooks pressing
 
 ![] (http://static.energysistem.com/images/manuals/42535/56b07aab8526b.jpg)
 
-*Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
+*Note:* If the file is stored on a micro SD / SDHC card will be shown in the list but could not be opened if the micro SD / SDHC has been removed.
 
-### Funciones avanzadas de lectura
+### Advanced reading features
 
-Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el centro del texto en la vista lectura para acceder al menú:
+Different functions are possible while reading a book. Push the center of the screen while reading in order to access the functions menu.
 
 ![](http://static.energysistem.com/images/manuals/42535/56a6488b920aa.jpg)
 
--	*Ir a página:* ![] (http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). Te permite introducir el número de página exacto que deseas visualizar pulsando en el número de página para poder cambiarlo.
--	*Cambiar el tamaño de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Tienes dos iconos en la pantalla para aumentar o disminuir el tamaño de fuente hasta llegar al tamaño que quieras.
--	*Cambiar de fuente:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Puedes seleccionar la fuente adecuada entre la variedad de fuentes propuesta en tu eReader.
--	*Cambiar interlineado:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). Te permite elegir el interlineado que prefieres para una lectura más cómoda.
--	*Cambiar el nivel de margen:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Te permite elegir el margen que prefieres para una lectura más cómoda.
--	*Avance automático de página:* ![] (http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). Para iniciar la lectura automática, activa el modo autopágina pulsando sobre "ON". Puedes definir diferentes tiempos de pase de página conforme a la velocidad de lectura que prefieres.
--	*Rotación de pantalla:* ![] (http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
--	*Información del libro*: ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
--	*Añadir marcador:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
--	*Menú opciones:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
--	*Abrir / eliminar marcadores:* ![] (http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
--	*Búsqueda de palabras:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
--	*Indicador de luz:* ![] (http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Permite configurar el nivel de luz más adecuado.
+-	*Go to page:* ![] (http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). It allows you to enter the number of exact page you want to view by clicking on the page number in order to change it.
+-	*Change the font size:* ![] (http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). You have two icons on the screen to increase or decrease the font size until the size you want.
+-	*Change the font type:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). You can select the appropriate font type from a variety of fonts in your eReader.
+-	*Change line spacing:* ![] (http://static.energysistem.com/images/manuals/42091/5499684a41714.jpg). It allows you to choose the spacing you prefer for comfortable reading.
+-	*Changing margin spacing:* ![] (http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). It allows you to choose the margin you prefer for comfortable reading.
+-	*Auto page flip:* ![] (http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). To start the automatic reading, enable the “Autoflip” mode by pressing "ON". You can define different page times to pass automatically the pages under the read speed you prefer.
+-	*Screen rotation:* ![] (http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). To rotate the screen vertically and horizontally. You can choose from rotation functions by clicking on the position that you prefer.
+-	*Book Information:* ![] (http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). This menu gives you all the information about the book you are reading. Some books do not contain any or all of the data, it will depend on the publisher of the book.
+-	*Add bookmark:* ![] (http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). To make easier your reading, you can define markers. The markers are ordered and accessible when you require them. 
+-	*Options menu:* ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Opens the menu which you can view, open, or delete your notes, bookmarks and comments.
+-	*Open / delete bookmarks:* ![] (http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). To open a bookmark, click on the bookmark you want to view. To delete a bookmark, press during few seconds the bookmark you want to delete and the options screen will appear.
+-	*Search words:* ![] (http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Choose this function to see where the searched word is in the book and have a directly access to this page by a simple touch. 
+-	*Light set icon:* ![] (http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). It allows you to set the most appropriate level of light.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a1a73e70e.jpg)
 
-### Función diccionario
-Tu Energy eReader Pro HD incorpora una función de diccionario que te permite instalar cualquier base de datos compatible "StarDict", uno de los formatos de diccionario electrónico más extendidos, creados con herramientas gratuitas de licencia GNU GPL.
+### Dictionary feature and app
 
-Podrás usar tanto los diccionarios comerciales de prestigiosas editoriales como aquellos gratuitos creados por la comunidad, o incluso crear los tuyos propios.
+Your Energy eReader Pro HD incorporates a dictionary feature that lets you install any "StarDict" compatible database. StarDict format is one of the most widespread formats of electronic dictionaries, created with free GNU GPL tools.
 
-Para poder disfrutar de la aplicación Diccionario en tu Energy eReader, lo primero que tienes que hacer es descargar en tu ordenador los ficheros del diccionario que desees instalar. Generalmente los diccionarios tipo "StarDict" se componen de 3 ficheros en formato *.dz (o *.dict), *.idz (o *.idx) y *.ifo y necesitarás los tres para poder usar el diccionario. Para instalarlos en tu Energy eReader, debes seguir estos sencillos pasos: 
+You can use both commercial dictionaries of leading publishers such as those created by the community for free, or even create your own.
 
-- 1) Conecta tu Energy eReader al ordenador y desde este accede mediante el explorador de archivos a la memoria interna de tu eReader.
-- 2) Una vez en la carpeta principal o raíz crea una carpeta llamada “dict” (por ejemplo x:/dict/)
-- 3) Copia directamente los diccionarios en esta carpeta, o crea subcarpetas con los nombres de los diccionarios que quieras añadir (Drae, Catalán-español,etc..)
-- 4) Reinicia tu eReader tras la instalación.
+To enjoy the Dictionary application on your Energy eReader, the first thing you have to do is download the dictionary files to your computer. Usually, "StarDict" dictionaries are composed of 3 files in * .dz (or * .dict) * .idz (or * .idx) and * .ifo formats. You will need all three to use the dictionary. Now you must follow these simple steps:
 
-Una vez instalados los diccionarios y reiniciado tu eReader podrás hacer uso de esta funcion directamente dentro del modo lectura, haciendo una pulsación prolongada sobre la palabra que elijas, y seleccionando "Diccionario" en la ventana emergente.
+- 1) Connect your eReader to your computer, and use the file browser to access the internal memory of your eReader.
+- 2) Once in the main root folder create a folder called "dict" (eg x: / dict /)
+- 3) Copy directly the dictionary files in this new folder, or create subfolders with the names of the dictionaries you want to add (Drae, Catalan-Spanish, etc ..)
+- 4) Restart your eReader after installation.
 
-![](http://static.energysistem.com/images/manuals/42535/56af962fc17ff.jpg)
+Once installed dictionaries and restarting your eReader can use this function directly while reading a book, making a long press on the word you choose, and selecting "Dictionary" in the popup window.
 
-#### Nota: Las bases de datos de diccionarios son propiedad de terceros. Energy Sistem Technology S.A. no se responsabiliza de su contenido.
+! [] (Http://static.energysistem.com/images/manuals/42535/56af962fc17ff.jpg)
+
+#### Note: dictionaries databases are owned by third parties. Sistem Energy Technology S.A. is not responsible for their content.
 
 **Bloc de Notas:**
 
 ![] (http://static.energysistem.com/images/manuals/42535/56a6503a232ae.jpg)
 
-Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+This application lets you record all sorts of comments or notes, that can later be removed by a simple touch. You can also add notes maintaining a long press on the text of the book you're reading and dragging to select the desired part.
 
 ![] (http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
 
