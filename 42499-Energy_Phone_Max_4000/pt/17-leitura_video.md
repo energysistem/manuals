@@ -12,3 +12,4 @@
 8. Ampliar o ecrã
 9. Barra de progresso
 10. Tempo decorrido
+ 
