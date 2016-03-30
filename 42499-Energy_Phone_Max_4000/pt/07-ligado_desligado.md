@@ -10,7 +10,7 @@ Um breve toque no botão de ligar/desligar (8) bloqueia/desbloqueia o dispositiv
 
 ### Inserir o cartão microSIM 2
 
-16a. Deslize o suporte do cartão microSIM para baixo. (na direcção indicada pela seta OPEN) até ouvir o som (desbloqueio).
+16a. Deslize o suporte do cartão microSIM para baixo (na direcção indicada pela seta OPEN) até ouvir o som (desbloqueio).
 16b. Levante o suporte pela parte inferior. 
 16c. Coloque o microSIM como indica a figura.
 16d. Empurre o suporte para baixo.
