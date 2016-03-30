@@ -5,9 +5,9 @@ Once the device is connected to a Wi-Fi, 4G or 3G network, press the browser ico
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9ea12cba0.jpg)
 
-1. Refresh.
-2. URL address.
-3. Bookmarks.
-4. Tab management.
-5. Forward.
-6. Back.
+1. Refresh
+2. URL address
+3. Bookmarks
+4. Tab management
+5. Forward
+6. Back
