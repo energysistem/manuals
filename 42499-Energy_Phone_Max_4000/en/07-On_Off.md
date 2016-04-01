@@ -10,7 +10,7 @@ Briefly press the On / Off button (8) to lock/unlock the device thus, turning th
 
 ### How to insert the microSIM 2
 
-16a. Slide the lock tab vertically  (in the direction of the OPEN arrow) until you hear the "click" to unlock it.
+16a. Slide up the lock tab (in the direction of the OPEN arrow) until you hear the "click" to unlock it.
 16b. Lift up the tab starting from the bottom part.
 16c. Place the microSIM as shown in the picture.
 16d. Lower the tab.
