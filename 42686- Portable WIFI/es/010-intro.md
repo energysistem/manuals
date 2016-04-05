@@ -6,4 +6,3 @@
 
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
 
-![](http://static.energysistem.com/images/manuals/42174/5703dd1264bbb.jpg)
