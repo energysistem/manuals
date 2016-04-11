@@ -1,6 +1,6 @@
 <quick_guide>
 
-## Introduction
+## Introduction.
 Merci de votre confiance et de l'achat de votre nouveau Energy Phone Max 4000. Nous espérons que vous l’apprécierez.
 Votre nouveau téléphone inclut un écran IPS HD tactile de 5" (1280x720 píxeles), processeur Quad Core ARM Cortex A7 1.3 GHz, Bluetooth 4.0, Wi-Fi, GPS, connexion 3G, appareil photo frontal et appareil photo arrière avec flash et une batterie de 4000 mAh avec fonction de charge rapide.
 
