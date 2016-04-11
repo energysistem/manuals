@@ -33,7 +33,7 @@ SISTEMAS DE LIGAÇÃO
 - Áudio Jack de 3,5 milímetros com padrão CTIA
 
 BATERIA:
-- Capacidade da bateria: Li-ion, 4000 mAh
+- Capacidade da bateria: Li-Po, 4000 mAh
 - Quick charge
 - Adaptador de corrente AC/DC (Europlug) Entrada: 100-240 VAC 50-60 Hz. Saída: 5V 1,5A
 - Autonomia: até 720 horas em standby e até 28 horas de conversa.
