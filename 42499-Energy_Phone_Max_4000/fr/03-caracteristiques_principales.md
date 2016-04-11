@@ -33,7 +33,7 @@ CONNEXIONS
 - Audio Jack 3,5 mm norme CTIA
 
 BATTERIE
-- Capacité de la batterie : 4.000 mAh Li-Ion
+- Capacité de la batterie : 4.000 mAh Li-Po
 - Quick Charge
 - Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz Sortie :  5V 1.5A
 - Autonomie : jusqu'à 720 heures en mode veille et 28 heures de conversation.
