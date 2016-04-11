@@ -33,7 +33,7 @@ CONNECTIONS
 - Audio Jack 3.5 mm with CTIA standard 
 
 BATTERY
-- Battery capacity: 4000 mAh, Li-Ion battery
+- Battery capacity: 4000 mAh, Li-Po battery
 - Quick charge
 - AC/DC (Europlug) power adapter. Input: 100-240 VAC 50-60 Hz. Output: 5 V 1.5 A
 - Battery life: up to 720 hours on standby and 28 hours conversation time.
