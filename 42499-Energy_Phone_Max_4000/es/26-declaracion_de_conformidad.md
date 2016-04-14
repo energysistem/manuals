@@ -18,7 +18,7 @@ País de fabricación: China
 Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
 Usted puede solicitar una copia de la declaración de conformidad en: C/ Calpe, 1 – 03509 Finestrat - Alicante (España) Tel. +34 966 831 058
 
-Finestrat, 01 de febrero de 2016
+Finestrat, 01 de abril de 2016
 
 </quick_guide>
 
