@@ -22,7 +22,7 @@ Muchas cámaras fotográficas digitales y programas de edición de imágenes añ
 Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo pulsando el botón de encendido y volumen menos al mismo tiempo durante 10 segundos.
 
 8.	La capacidad de memoria del Energy Phone Pro 4G Navy es de 16GB, pero la memoria disponible es inferior ¿Por qué?
-El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 5GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 16GB.
+El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 6GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 16GB.
 
 9.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar asegúrate que el fichero tiene la extensión de instalación Android#trade# (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar). Esta acción puede comprometer la seguridad del terminal, siendo recomendable el instalar aplicaciones que provengan de fuentes fiables.
