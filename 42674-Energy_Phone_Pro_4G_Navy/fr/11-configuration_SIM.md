@@ -1,8 +1,7 @@
 ### Configuration de la carte SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42674/56e996fa239a3.jpg)
 
-Votre Energy Phone Max 4G a la possibilité d'utiliser deux cartes microSIM. Sur la section Paramètres > Administration de carte SIM, vous pourrez gérer les cartes.
+Votre Energy Phone Pro 4G Navy vous offre la possibilité d'utiliser une carte microSIM et une carte nanoSIM ou une carte microSIM et une carte de stockage microSD. Sur la section Paramètres > Cartes SIM, vous pourrez gérer les cartes.
 
-Dans cette section, vous pouvez régler la carte par défaut pour faire ou recevoir des appels, envoyer et recevoir des messages texte et la connexion de données.
-
+Dans cette section, vous pourrez régler la carte par défaut pour passer ou recevoir des appels, envoyer et recevoir des messages texte et la connexion de données.
