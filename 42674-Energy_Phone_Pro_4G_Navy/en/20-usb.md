@@ -1,8 +1,11 @@
 ## MicroSD / USB
 
-Your Energy Phone Max 4G has a slot for microSD cards to expand your device's memory. To use it, turn off your device before inserting / extracting the card in order to avoid accidental data loss. It supports High Capacity (microSD-HC) and Extended Capacity (microSD-XC) card formats.
+Your Energy Phone Pro 4G Navy has a slot for microSD cards to expand your device's memory. To use it, turn off your device before inserting/extracting the card in order to avoid accidental data loss. It supports High Capacity (microSD-HC) and Extended Capacity (microSD-XC) card formats.
 
-Your Energy Phone has also a microUSB port so you can transfer files between your PC, tablet, USB flash drive, etc. You only need to connect the cable included with the product to establish the connection and manage the transfer your files.
+Your Energy Phone also includes a microUSB port with HOST and OTG functions. You only need to connect the cable that comes with the product to establish the connection and enjoy all mode functions.
 
+OTG mode (requires a microUSB-USB female adapter that is not included): It allows to connect external devices like keyboards, mice, external drives, etc, and other devices with battery.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168981c3b75.jpg)
+HOST mode: It allows to connect your Energy Phone to the computer.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56e9971440d39.jpg)
