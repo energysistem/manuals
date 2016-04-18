@@ -1,7 +1,8 @@
-### SIM card setup
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1a60b939.jpg)
+### SIM card settings
 
-Your Energy Phone allows you to use two microSIM cards. In Settings > SIM Management, you can manage them.
+![Imagen](http://static.energysistem.com/images/manuals/42674/56e996fa239a3.jpg)
 
-In this section you can set the default card to make or receive calls, send and receive text messages and data connection. It also allows you to set your roaming network operator.
+Your Energy Phone Pro 4G Navy offers the possibility of using a microSIM card and a nanoSIM card at the same time or a microSIM card and a microSD card. In Settings > SIM Management, you can manage the use of both cards.
+
+In this section you can set the default card to make or receive calls, send and receive text messages and set the data connection.
