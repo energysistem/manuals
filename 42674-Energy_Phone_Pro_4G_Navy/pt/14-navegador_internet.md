@@ -5,7 +5,7 @@ Uma vez ligado o dispositivo a uma rede Wi-Fi, 3G ou 4G, prima o ícone do naveg
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42674/56e997242070a.jpg)
 
-1. Carregar
-2. Endereço web
-3. Gerir separadores
-4. Definições
+1. Carregar.
+2. Endereço web.
+3. Gerir separadores.
+4. Definições.
