@@ -2,7 +2,7 @@
 
 O seu Energy Phone Pro 4G Navy tem um sistema operativo instalado baseado em Android#trade#, que pode ser reinstalado ou actualizado se for necessário. As actualizações são realizadas via OTA (Over-The-Air), por tanto, o seu Energy Phone irá ligar aos nossos servidores automaticamente, descarregará os conteúdos e instalará o novo software cada vez que uma actualização esteja disponível.
 
-Também pode actualizar o seu Energy Phone Pro 4G através do computador. O processo é muito simples mas tem que ser realizado com cuidado e apenas quando é necessário. Se observa que o dispositivo fica bloqueado, reinicia inesperadamente ou tem problemas para aceder ao conteúdo da memória, é conveniente reinstalar o sistema operativo ou actualizá-lo a uma nova versão compatível, se estiver disponível.
+Também pode actualizar o seu Energy Phone Pro 4G Navy através do computador. O processo é muito simples mas tem que ser realizado com cuidado e apenas quando é necessário. Se observa que o dispositivo fica bloqueado, reinicia inesperadamente ou tem problemas para aceder ao conteúdo da memória, é conveniente reinstalar o sistema operativo ou actualizá-lo a uma nova versão compatível, se estiver disponível.
 
 Siga os seguintes passos para realizar a instalação:
 
@@ -12,9 +12,7 @@ Siga os seguintes passos para realizar a instalação:
 
 3. Entre na secção "Suporte" e seleccione o tipo de produto "Smartphone".
 
-4. Seleccione o seu modelo de Energy Phone da lista desdobrável que aparecerá e descarregue à seguir a ultima versão do sistema operativo Android#trade# disponível.
-**Importante:**
-Assegure-se de que a versão do sistema operativo que está a descarregar é o específico para o seu modelo e número de série, já que caso contrário, o dispositivo pode resultar danificado.
+4. Seleccione o seu modelo de Energy Phone da lista desdobrável que aparecerá e descarregue à seguir a ultima versão do sistema operativo Android#trade# disponível. **Importante:** Assegure-se de que a versão do sistema operativo que está a descarregar é o específico para o seu modelo e número de série, já que caso contrário, o dispositivo pode resultar danificado.
 
 5. Descompacte o ficheiro no seu computador.
 
