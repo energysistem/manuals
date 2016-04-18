@@ -8,4 +8,3 @@ Your Energy Phone Pro 4G Navy has Bluetooth 4.0 to connect your device to headph
 2. Enable the Bluetooth option.
 3. Select the device you want to connect to.
 4. Accept the pairing request.
-
