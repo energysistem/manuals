@@ -7,4 +7,3 @@ This warranty covers any defects in workmanship or materials. This warranty does
 The special 36-month warranty is valid for the European Union. For other countries please refer to the specific legislation or your local distributor.
 
 </quick_guide>
-
