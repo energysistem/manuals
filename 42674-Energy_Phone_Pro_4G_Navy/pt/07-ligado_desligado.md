@@ -11,7 +11,6 @@ Um breve toque no botão de ligar/desligar (1) bloqueia/desbloqueia o dispositiv
 
 Deve utilizar apenas a ferramenta de ejectar cartões SIM/microSD (17) que vai encontrar na parte exterior do envelope fornecido com o produto para extrair o slot (2) e colocar os cartões.  Insira a ferramenta no orifício do slot (2) referido. Uma vez extraído o slot, vai poder verificar as duas configurações possíveis de cartões SIM e/ou SD que oferece o dispositivo e que são referidas a seguir:
 
-Opção A: Cartão microSIM 1 + Cartão microSD.
-Opção B: Cartão microSIM 1 + Cartão nanoSIM 2.
+Opção A: Cartão microSIM 1 + Cartão microSD. Opção B: Cartão microSIM 1 + Cartão nanoSIM 2.
 
 </quick_guide>
