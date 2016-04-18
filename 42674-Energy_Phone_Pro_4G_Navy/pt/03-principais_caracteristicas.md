@@ -11,7 +11,7 @@ PROCESSADOR
 - GPU Adreno 405 incorporado
 
 DESIGN
-- Moldura. Material: liga de alumínio
+- Moldura em liga de alumínio
 - Vidro Corning® Gorilla® Glass 3 de alta resistência na parte traseira
 
 SISTEMA OPERATIVO
