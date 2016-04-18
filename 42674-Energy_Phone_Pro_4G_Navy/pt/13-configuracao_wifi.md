@@ -1,6 +1,6 @@
 ### Ligação Wi-Fi
 
-O seu Energy Phone Pro 4G dispõe de ligação Wi-Fi 802.11 b/g/n. Para ligar o dispositivo a qualquer rede sem fios, só tem que entrar em Definições > Wi-Fi e deslizar o interruptor para a posição ON. A seguir, começa a pesquisa de todas as redes disponíveis e depois, só tem que seleccionar uma delas para estabelecer a ligação.
+O seu Energy Phone Pro 4G Navy dispõe de ligação Wi-Fi 802.11 b/g/n. Para ligar o dispositivo a qualquer rede sem fios, só tem que entrar em Definições > Wi-Fi e deslizar o interruptor para a posição ON. A seguir, começa a pesquisa de todas as redes disponíveis e depois, só tem que seleccionar uma delas para estabelecer a ligação.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42674/56e998fa918d2.jpg)
 
