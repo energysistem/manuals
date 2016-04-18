@@ -4,7 +4,7 @@ O seu Energy Phone Pro 4G Navy dispõe de ligação Bluetooth 4.0. Para ligar o 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42674/56e991bceb2ab.jpg)
 
-1. Definições > Bluetooth
-2. Habilitar a opção Bluetooth
-3. Seleccionar o dispositivo que quer ligar
-4. Aceitar o pedido de emparelhamento
+1. Definições > Bluetooth.
+2. Habilitar a opção Bluetooth.
+3. Seleccionar o dispositivo que quer ligar.
+4. Aceitar o pedido de emparelhamento.
