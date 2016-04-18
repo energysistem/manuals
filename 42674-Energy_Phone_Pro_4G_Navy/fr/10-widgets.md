@@ -1,10 +1,9 @@
 ### Widgets
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1ba8b4d8.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56e998d210f16.jpg)
 
-Pour ajouter un Widget sur l'un des bureaux, appuyez sur "applications et widgets" (1) et à continuation, choisisez l'option "WIDGETS" sur la partie supérieure de l'écran (2). Avec le geste de tourner la page (3) vous pourrez voir tous les Widgets installés. Choisisez celle dont vous voulez ajouter au bureau en appuyant sur et relâcher le bouton à continuation.
+Pour ajouter un Widget sur l'un des bureaux, appuyez sur le centre du bureau (1) et choisissez ensuite l'option "WIDGETS" sur la partie inférieure de l'écran (2). Avec le geste de tourner la page (3) vous verrez tous les Widgets installés.  Choisissez celui que vous voudrez ajouter au bureau en appuyant au-dessus et relâchez ensuite le bouton.
 
-Les Widgets peuvent se placer dans d'autres zones du bureau ou être effacés très simplement. Pour effacer un Widget depuis votre emplacement actuel, appuyez sur celui-ci et sélectionnez-le quelques seconds. Les Widgets peuvent se resituer dans d'autres zones du même bureau ou les effacer facilement. Pour déplacer un Widget à une autre position dans le bureau.
+Les Widgets peuvent être déplacés vers d'autres parties du bureau ou être effacés très simplement.  Pour effacer un Widget depuis votre emplacement actuel, appuyez sur celui-ci et maintenez la sélection quelques secondes. Vous pourrez déplacer le Widget sur le bureau lorsque l'application sera en surbrillance.
 
-Pour éliminer le Widget maintenez-le pendant quelques secondes sans le lâcher, un icone de X apparaîtra dans l'écran, glisser jusqu'à l'icone X et puis lâcher.
-
+Pour éliminer le Widget, maintenez-le pendant quelques secondes sans le lâcher, l'icône X apparaîtra sur l'écran. Glissez le Widget jusqu'à l'icône et puis lâchez.
