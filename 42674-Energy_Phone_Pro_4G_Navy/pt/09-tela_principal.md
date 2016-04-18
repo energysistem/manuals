@@ -11,7 +11,7 @@
 7. **Internet:** navegador web.
 8. **Menu:** atalho para o menu de aplicações e widgets.
 9. **Botão táctil:** voltar.
-10. **Botão táctil:** iInício.
+10. **Botão táctil:** início.
 11. **Botão táctil:** aplicações recentes.
 12. **Telefone:** chamadas e registo.
 13. **Contactos:** gestão de contactos.
