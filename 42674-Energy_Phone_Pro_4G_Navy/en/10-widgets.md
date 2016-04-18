@@ -1,9 +1,9 @@
 ### Widgets
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/561cb1ba8b4d8.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56e998d210f16.jpg)
 
-In order to add a Widget to one of your desktops, tap the center of the desktop (1), then select "WIDGETS" at the bottom of the screen (2). You can slide your finger to the left or right (3) to see all your installed Widgets. Select the one you want to add to your desktop by holding press on it and then releasing it on the desktop.
+In order to add a Widget to one of your desktops, tap the centre of the desktop (1) and then, select "WIDGETS" at the bottom of the screen (2). You can slide your finger to the right (3) to see all your installed Widgets. Select the one you want to add to your desktop by keeping it pressed and then release it on the desktop.
 
-A Widget can be relocated or removed easily. To relocate a widget, tap and hold it for a few seconds. Once the widget is highlighted, you can move it to another position within the desktop.
+Widgets can be easily removed or relocated to other screen areas. To relocate a widget, press it and keep it selected for a few seconds. Once the app has been highlighted, you can move it to another desktop position.
 
-To remove the widget, tap and hold it for a few seconds and the X icon will appear on the top side of the screen, drag the widget to the X icon and release it.
+To remove the widget, keep it pressed for a few seconds without releasing it until the X icon appears on top of the screen. Then, drag the widget to that icon and release it.
