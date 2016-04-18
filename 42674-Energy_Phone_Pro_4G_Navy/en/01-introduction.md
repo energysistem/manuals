@@ -3,11 +3,7 @@
 
 Thank you for your trust in our company and for buying the new Energy Phone Pro 4G Navy. We hope you enjoy it.
 
-<<<<<<< HEAD
 Your new phone has an AMOLED HD 5" display (1280x720 pixels) with anti-fingerprint coating, Qualcomm® processor Snapdragon#trade# 616 Octa Core 1.5 GHz, Bluetooth 4.0, Wi-Fi, GPS, 4G/3G connection, front camera with flash, rear camera with autofocus and flash as well as Corning® Gorilla® Glass 3 rear protection.
-=======
-Your new phone has an AMOLED HD 5" display (1280x720 pixels) with anti-fingerprint coating, Octa Core Qualcomm® processor Snapdragon#trade# 615 1.5 GHz, Bluetooth 4.0, Wi-Fi, GPS, 4G/3G connection, front camera with flash, rear camera with autofocus and flash as well as Corning® Gorilla® Glass rear protection.
->>>>>>> origin/master
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it.  It will only take a few minutes and will help you enjoy your device with maximum performance.
 
