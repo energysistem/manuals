@@ -41,7 +41,7 @@ CONEXIONES
 BATERÍA
 - Capacidad de batería: 2.600 mAh Li-Po
 - Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
-- Autonomía: hasta XX horas en standby y XX horas de conversación.
+- Autonomía: hasta 165 horas en standby y 15 horas de conversación.
 
 OTROS
 - LED de notificaciones en botón de encendido/apagado

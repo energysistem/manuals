@@ -36,12 +36,12 @@ CONNECTIVITY
 CONNECTIONS
 - 2 configuration options: microSIM + nanoSIM or microSIM + microSD
 - MicroUSB 2.0 connection with OTG function
-- Audio Jack 3.5 mm with CTIA standard 
+- Audio Jack 3.5 mm with CTIA standard
 
 BATTERY
 - Battery capacity: 2600 mAh Li-Po
 - AC/DC (Europlug) power adapter. Input: 100-240 VAC 50-60 Hz. Output: 5V 1A
-- Battery life: up to XX hours on standby and XX hours conversation time.
+- Battery life: up to 165 hours on standby and 15 hours conversation time.
 
 OTHER FEATURES
 - Notification LED in power On/Off button
