@@ -1,7 +1,7 @@
 <quick_guide>
 ## Déclaration de conformité
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56051fa39d0fb.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f31fe85a6.jpg)
 
 Nom du Fournisseur :
 Energy Sistem Technology, S.A.
@@ -12,7 +12,7 @@ Numéro d'identification fiscale (NIF) : A53107488
 
 Déclarons sous notre seule responsabilité que le produit :
 
-**Energy Sistem#trade# Energy Phone Pro 4G Navy**
+**Energy Sistem#trade# Energy Phone Pro 4G Pearl**
 
 Pays de fabrication : Chine
 

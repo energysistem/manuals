@@ -1,6 +1,6 @@
 ## MicroSD / USB
 
-Votre Energy Phone Pro 4G Navy a une entrée pour cartes mémoire microSD pour étendre la capacité de l'appareil. Pour l'utiliser, éteignez l'appareil lorsque vous insérez/retirez la carte, de sorte que vous évitez toute perte accidentelle de données. Il supporte les formats de grande capacité (microSD-HC) et de capacité étendue (microSD-XC).
+Votre Energy Phone Pro 4G Pearl a une entrée pour cartes mémoire microSD pour étendre la capacité de l'appareil. Pour l'utiliser, éteignez l'appareil lorsque vous insérez/retirez la carte, de sorte que vous évitez toute perte accidentelle de données. Il supporte les formats de grande capacité (microSD-HC) et de capacité étendue (microSD-XC).
 
 Votre Energy Phone dispose aussi d’un port micro USB avec fonction HOST et OTG. Il suffit de brancher le câble fourni avec le produit pour établir la connexion et pouvoir profiter de ses fonctions en différents modes.
 
@@ -8,4 +8,4 @@ Le mode OTG (besoin d'un adaptateur femelle micro USB-USB non inclus): Permet de
 
 Mode HOST: Permet la connexion de votre Energy Phone au PC.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42674/56e9971440d39.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f366657e7.jpg)

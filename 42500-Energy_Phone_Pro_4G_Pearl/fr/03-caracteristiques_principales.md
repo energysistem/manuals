@@ -22,8 +22,8 @@ APPAREILS PHOTO
 - Appareil photo frontal de 5 Mpx avec angle FOV de 84,3º et flash LED.
 
 MÉMOIRE
-- 2 Go RAM DDR3
-- 16 Go de mémoire interne extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go plus)
+- 3 Go RAM DDR3
+- 32 Go de mémoire interne extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go plus)
 
 CONNECTIVITÉ
 - 4 G : 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)

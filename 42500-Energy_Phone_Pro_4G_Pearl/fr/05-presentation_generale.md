@@ -1,7 +1,7 @@
 <quick_guide>
 ## Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42674/56f2914c90d1d.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42500/5710f3ac299ba.jpg)
 
 1. Bouton de démarrage/éteint et led de notification
 2. Plateau pour cartes microSIM 1/nanoSIM 2/microSD

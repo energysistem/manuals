@@ -31,4 +31,4 @@ First of all, make sure that the file has the Android#trade# application extensi
 It depends largely on the usage conditions such as the screen brightness, the use of headphones or speaker, whether the Wi-Fi connection is enabled or disabled and the use of GSM, 3G and 4G networks. The battery life of the Energy Phone Pro 4G Pearl lasts up to 165 hours on standby and 15 hours in conversation mode.
 
 11. Which are the 4G and 3G operating frequencies of my device?
-Your Energy Phone Pro 4G Navy is prepared for the WCDMA 900/2100 MHz bands to work on 3G mode and for the FDD-LTE 800/1800/2600 MHz bands to work on 4G mode.
+Your Energy Phone Pro 4G Pearl is prepared for the WCDMA 900/2100 MHz bands to work on 3G mode and for the FDD-LTE 800/1800/2600 MHz bands to work on 4G mode.
