@@ -26,9 +26,9 @@ MÉMOIRE
 - 16 Go de mémoire interne extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go plus)
 
 CONNECTIVITÉ
-- 4G : 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
-- 3G : 900/2100 MHz (BANDES WCDMA VIII / I )
-- 2G : 850/900/1800/1900 MHz (BANDES GSM)
+- 4 G : 800/1800/2600 MHz (BANDES FDD-LTE XX / III / VII)
+- 3 G : 900/2100 MHz (BANDES WCDMA VIII / I )
+- 2 G : 850/900/1800/1900 MHz (BANDES GSM)
 - Bluetooth® 4.0
 - Wi-Fi 802.11 b/g/n
 - A-GPS, GLONASS
