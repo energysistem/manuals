@@ -33,5 +33,23 @@ CONNECTIVITÉ
 - Wi-Fi 802.11 b/g/n
 - A-GPS, GLONASS
 
-<quick_guide>
+CONNEXIONS
+- Plateau avec 2 configurations : microSIM + nanoSIM ou microSIM + microSD
+- Connexion microUSB 2.0 avec fonctionnalité OTG
+- Audio Jack 3,5 mm norme CTIA
 
+BATTERIE
+- Capacité de la batterie : 2.600 mAh Li-Po
+- Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
+- Autonomie : jusqu'à XX heures en mode veille et XX heures de conversation.
+
+AUTRES
+- LED de notification sur le bouton de démarrage/éteint
+- Capteur de mouvement (accéléromètre)
+- Capteur de proximité
+- Capteur de luminosité
+- Haut-parleur intégré
+- Microphone omnidirectionnel intégré
+- Microphone à réduction de bruit
+- Radio FM de 87.5 à 108 MHz avec présélecions
+- Mesure SAR : 0,431 (W/Kg) en tête et 0,408 (W/Kg) en corps (à 10 mm de distance).
