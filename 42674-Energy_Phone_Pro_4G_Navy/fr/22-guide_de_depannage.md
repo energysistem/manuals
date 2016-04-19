@@ -18,7 +18,7 @@ Votre Energy Phone peut lire plusieurs formats vidéo non recodés, par exemple 
 6.	Pourquoi je n'arrive pas à visualiser mes fichiers image .jpg ?
 Plusieurs appareils photo numériques et programmes d'édition d'images ont rajouté des données cachées aux fichiers .jpg. Ces donnés peuvent provoquer que votre Energy Phone ne charge pas les images. Essayez de les effacer et d'enregistrer l'image avec un autre nom.
 
-7.	Parfois, l'écran devient noire et l'appareil ne répond pas.
+7.	Parfois, l'écran devient noir et l'appareil ne répond pas.
 Il est toujours préférable de redémarrer l'appareil moyennant les options disponibles sur le système mais, si cela n’est pas possible, redémarrez en appuyant sur le bouton de démarrage et volume moins à la fois pendant 10 secondes.
 
 8.	La capacité de mémoire de l'Energy Phone Pro 4G Navy est de 16 Go, mais la mémoire disponible est inférieure. Pourquoi ?
