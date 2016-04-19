@@ -1,7 +1,7 @@
 <quick_guide>
 ## Switch on and off
 
-Please verify that the SIM/microSD cards are correctly inserted in the corresponding slots as explained in the "How to insert the microSIM1/nanoSIM 2/microSD cards" section before turning on your Energy Phone Pro 4G Navy. After that, press the power button (1) located on the right side of the device for one second. Once the operating system has loaded completely, please unlock the device to start using it. Enter the PIN number of your microSIM/nanoSIM cards and then slide your finger upwards on the screen.
+Please verify that the SIM/microSD cards are correctly inserted in the corresponding slots as explained in the "How to insert the microSIM 1/nanoSIM 2/microSD cards" section before turning on your Energy Phone Pro 4G Navy. After that, press the power button (1) located on the right side of the device for one second. Once the operating system has loaded completely, please unlock the device to start using it. Enter the PIN number of your microSIM/nanoSIM cards and then slide your finger upwards on the screen.
 
 In order to turn off the device, hold the power button (1) until you see the power off menu, then select "Switch off".
 
