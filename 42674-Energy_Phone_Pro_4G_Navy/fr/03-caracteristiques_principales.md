@@ -51,5 +51,5 @@ AUTRES
 - Haut-parleur intégré
 - Microphone omnidirectionnel intégré
 - Microphone à réduction de bruit
-- Radio FM de 87.5 à 108 MHz avec présélecions
+- Radio FM de 87.5 à 108 MHz avec présélections
 - Mesure SAR : 0,431 (W/Kg) en tête et 0,408 (W/Kg) en corps (à 10 mm de distance).
