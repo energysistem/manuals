@@ -22,13 +22,13 @@ Plusieurs appareils photo numériques et programmes d'édition d'images ont rajo
 Il est toujours préférable de redémarrer l'appareil moyennant les options disponibles sur le système mais, si cela n’est pas possible, redémarrez en appuyant sur le bouton de démarrage et volume moins à la fois pendant 10 secondes.
 
 8.	La capacité de mémoire de l'Energy Phone Pro 4G Navy est de 16 Go, mais la mémoire disponible est inférieure. Pourquoi ?
-Le système d'exploitation Android#trade# et les applications pré installées sur le dispositif ont besoin de XXXX Go environ de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 16 Go.
+Le système d'exploitation Android#trade# et les applications pré installées sur le dispositif ont besoin de 6 Go environ de mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour garder les donnés additionnels est inférieure à 16 Go.
 
 9.	Qu'est-ce que je dois faire pour installer une application ? 
 Premièrement, vérifiez que le fichier a l'extension d'installation Android#trade# (.APK), deuxièmement, Android#trade# vous demandera d'activer l'installation d'applications depuis « Sources inconnues », cette option est désactivée par sécurité.  Pour autoriser l'installation des applications, vous devez juste suivre les instructions qui vont apparaître sur l'écran la première fois que vous essaierez d'installer une application :  Paramètres / Applications / Sources inconnues (activer). Cette action peut compromettre la sécurité du terminal. Pour cette raison, il est recommandable d'installer des applications provenant de sources fiables.
 
 10.	Quelle est l'autonomie du dispositif ? 
-Cela dépend notamment des conditions d'usage, comme le niveau de luminosité de l'écran, l'usage d'écouteurs ou du haut-parleur, ou si le Wi-Fi est activé ou désactivé et l'usage des réseaux GSM, 3G et 4G. L'autonomie de l'Energy Phone Pro 4G Navy est de jusqu'à XXX heures en mode veille et XX heures de conversation.
+Cela dépend notamment des conditions d'usage, comme le niveau de luminosité de l'écran, l'usage d'écouteurs ou du haut-parleur, ou si le Wi-Fi est activé ou désactivé et l'usage des réseaux GSM, 3G et 4G. L'autonomie de l'Energy Phone Pro 4G Navy est de jusqu'à 165 heures en mode veille et 15 heures de conversation.
 
 11. Quelles sont les fréquences de fonctionnement de mon appareil pour 3G et 4G ?
 Votre Energy Phone Pro 4G Navy est préparé pour fonctionner en mode 3G pour les bandes WCDMA 900/2100 MHz et en mode 4G pour les bandes FDD-LTE 800/1800/2600 MHz.
