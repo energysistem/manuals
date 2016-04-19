@@ -1,7 +1,7 @@
 <quick_guide>
 ## Ligar e desligar
 
-Antes de ligar o seu Energy Phone Pro 4G Navy é preciso controlar que os cartões SIM/microSD estão inseridos nos seus respectivos slots de acordo com as instrucções da secção "Colocar os cartões microSIM 1/nanoSIM 2/microSD". A seguir, prima o botão de ligar/desligar (1) situado no lado direito do dispositivo durante um segundo. Quando o sistema operativo estiver carregado, terá que desbloquear o dispositivo para começar a utilizá-lo. Para começar a utilização, deve inserir o número PIN dos seus cartões microSIM/nanoSIM e a seguir, passar o dedo para cima no ecrã principal.
+Antes de ligar o seu Energy Phone Pro 4G Pearl é preciso controlar que os cartões SIM/microSD estão inseridos nos seus respectivos slots de acordo com as instrucções da secção "Colocar os cartões microSIM 1/nanoSIM 2/microSD". A seguir, prima o botão de ligar/desligar (1) situado no lado direito do dispositivo durante um segundo. Quando o sistema operativo estiver carregado, terá que desbloquear o dispositivo para começar a utilizá-lo. Para começar a utilização, deve inserir o número PIN dos seus cartões microSIM/nanoSIM e a seguir, passar o dedo para cima no ecrã principal.
 
 Para desligar o dispositivo mantenha premido o botão de ligar/desligar (1) até que apareça o menu de desligamento. Depois, escolha a opção "Desligar".
 

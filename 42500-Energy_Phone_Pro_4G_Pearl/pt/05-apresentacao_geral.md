@@ -1,7 +1,7 @@
 <quick_guide>
 ## Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42674/56f2914c90d1d.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42500/5710f3ac299ba.jpg)
 
 1. Botão de ligar/desligar e LED de notificações
 2. Slots de cartões microSIM 1/nanoSIM 2/microSD

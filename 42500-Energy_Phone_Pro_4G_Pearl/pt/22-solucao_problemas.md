@@ -1,6 +1,6 @@
 ## Resolução de problemas
 
-1.	Porque não é possível reproduzir alguns ficheiros MP3? 
+1.	Porque não é possível reproduzir alguns ficheiros MP3?
 O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrário, é necessário recodificar através do software.
 
 2.	O meu Energy Phone não liga, o qué é que eu posso fazer?
@@ -21,15 +21,15 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 7.	Às vezes o ecrã fica preto e o dispositivo não responde.
 É recomendável reiniciar o dispositivo sempre através das opções disponíveis do sistema, mas se isso não for possível, reinicie o dispositivo premindo o botão de ligar e de volume ao mesmo tempo durante 10 segundos.
 
-8.	A capacidade de memória do Energy Phone Pro 4G Navy é 16 GB, mas a memória disponível é inferior porquê?
-O sistema operativo Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 6 GB de memória interna para funcionar correctamente. Por isso, a memória disponível para guardar dados adicionais é inferior a 16 GB.
+8.	A capacidade de memória do Energy Phone Pro 4G Navy é 32 GB, mas a memória disponível é inferior porquê?
+O sistema operativo Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 8 GB de memória interna para funcionar correctamente. Por isso, a memória disponível para guardar dados adicionais é inferior a 32 GB.
 
 9.	Que devo fazer para que o dispositivo permita instalar uma aplicação?
 Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação Android#trade# (.APK), em segundo lugar Android#trade# lhe pedirá que active a instalação de aplicações a partir de "Fontes não conhecidas". Esta opção está desactivada por razões de segurança. Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão no ecrã a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes não conhecidas (activar). Esta ação pode comprometer a segurança do dispositivo. É, por isso, recomendável instalar apenas aplicações de fontes fiáveis.
 
 10.	Qual é a autonomia do dispositivo?
-Depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, de se a Wi-Fi está ligada ou desligada ou da utilização das redes GSM, 3G e 4G. A autonomia do Energy Phone Pro 4G Navy é aproximadamente de até 165 horas em standby e até 15 horas de conversa.
+Depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, de se a Wi-Fi está ligada ou desligada ou da utilização das redes GSM, 3G e 4G. A autonomia do Energy Phone Pro 4G Pearl é aproximadamente de até 165 horas em standby e até 15 horas de conversa.
 
 11. Quais são as frequências de funcionamento do meu dispositivo para 3G e 4G?
-O seu Energy Phone Pro 4G Navy tem sido desenhado para funcionar correctamente com WCDMA 900/2100 Mhz no modo 3G e com FDD-LTE 800/1800/2600 MHz no modo 4G.
+O seu Energy Phone Pro 4G Pearl tem sido desenhado para funcionar correctamente com WCDMA 900/2100 Mhz no modo 3G e com FDD-LTE 800/1800/2600 MHz no modo 4G.
 

@@ -1,6 +1,6 @@
 ### Widgets
 
-![Imagen1](http://static.energysistem.com/images/manuals/42674/56e998d210f16.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f3bf9f104.jpg)
 
 Para adicionar um Widget a qualquer dos ambientes de trabalho, prima o centro do ambiente de trabalho durante alguns segundos (1) e, à seguir, seleccione "WIDGETS" na parte inferior do ecrã (2). Se desliza o dedo da maneira indicada para virar a página (3) poderá ver todos os Widgets instalados. Para adicionar um deles ao ambiente de trabalho, tem que mantê-lo premido e depois, soltar o ícone.
 

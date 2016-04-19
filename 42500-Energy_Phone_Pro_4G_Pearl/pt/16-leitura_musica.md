@@ -1,6 +1,6 @@
 ### Reprodução de música
 
-![Imagen1](http://static.energysistem.com/images/manuals/42674/56e9971d021d8.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f36d34614.jpg)
 
 1. Lista de música.
 2. Visualização.

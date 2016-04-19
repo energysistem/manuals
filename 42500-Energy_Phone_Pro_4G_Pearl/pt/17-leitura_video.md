@@ -1,6 +1,6 @@
 ### Reprodução de vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe62c582fd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f3b852845.jpg)
 
 1. Voltar para a lista de vídeos.
 2. Reproduzir / Parar.

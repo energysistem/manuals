@@ -1,7 +1,7 @@
 <quick_guide>
 ## Conteúdo do produto
 
-*	Energy Phone Pro 4G Navy.
+*	Energy Phone Pro 4G Pearl.
 *	Guia Rápida.
 *	Película de protecção de ecrã.
 *	Cabo USB.
