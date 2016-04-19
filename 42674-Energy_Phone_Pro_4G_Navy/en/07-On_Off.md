@@ -12,7 +12,7 @@ Briefly press the power button (1) to lock/unlock the device thus, turning the s
 To place the SIM/microSD cards you should remove the slot (2) using the tool (17) located on the external part of the envelope that comes with the product. Insert the tool into the slot hole (2). Once removed, you will see that there are two possible combinations to use SIM or SD storage cards:
 
 Option A: MicroSIM card 1 + microSD storage card.
-Option B: MicroSIM 1 card + nanoSIM 2 card
+Option B: MicroSIM 1 card + nanoSIM 2 card.
 
 </quick_guide>
 
