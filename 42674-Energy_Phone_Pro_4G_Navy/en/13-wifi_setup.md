@@ -9,4 +9,4 @@ Your Energy Phone Pro 4G Navy has Wi-Fi 802.11 b/g/n connectivity. To connect yo
 3. Select your Wi-Fi network.
 4. Connect.
 
-**Note:** Your Energy Phone Pro 4G is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Phone will save the Wi-Fi access data and your devide will be ready to access the Internet. The device will remember the network and will automatically connect to it when it is available.
+**Note:** Your Energy Phone Pro 4G Navy is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your Energy Phone will save the Wi-Fi access data and your devide will be ready to access the Internet. The device will remember the network and will automatically connect to it when it is available.
