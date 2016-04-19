@@ -1,4 +1,4 @@
-###Configuration Wi-Fi
+### Configuration Wi-Fi
 
 Votre Energy Phone Pro 4G Navy dispose de connexion Wi-Fi 802.11 b/g/n. Pour connecter votre appareil à un réseau sans fil, allez sur Paramètres > Wi-Fi et déplacez l'interrupteur vers la position ON. Ensuite, l'appareil commencera à faire une recherche de tous les réseaux disponibles et vous devrez en sélectionner un pour commencer la connexion.
 
