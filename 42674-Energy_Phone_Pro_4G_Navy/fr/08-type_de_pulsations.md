@@ -35,7 +35,7 @@ Touchez la surface pendant une période prolongée
 
 * Zoom
 
-Faites un zoom avant et arrière sur l'image de l'écran
+Agrandir ou réduire l'image de l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
 
