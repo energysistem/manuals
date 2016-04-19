@@ -1,6 +1,6 @@
 ### Video Player
 
-![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe62c582fd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f3b852845.jpg)
 
 1. Back to video list.
 2. Play / Pause.

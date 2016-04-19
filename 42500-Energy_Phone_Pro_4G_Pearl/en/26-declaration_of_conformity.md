@@ -1,7 +1,7 @@
 <quick_guide>
 ## Declaration of conformity
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56051fa39d0fb.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f31fe85a6.jpg)
 
 Manufacturer name:
 Energy Sistem Technology, S.A.
@@ -12,7 +12,7 @@ Tax code: A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem#trade# Energy Phone Pro 4G Navy**
+**Energy Sistem#trade# Energy Phone Pro 4G Pearl**
 
 Manufacturing Country: China
 

@@ -1,7 +1,7 @@
 <quick_guide>
 ## General overview
 
-![Imagen2](http://static.energysistem.com/images/manuals/42674/56f2914c90d1d.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42500/5710f3ac299ba.jpg)
 
 1. Power On/Off button and notification led
 2. MicroSIM 1/nanoSIM 2/microSD card slots

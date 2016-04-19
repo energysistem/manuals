@@ -17,7 +17,7 @@ Touch the screen twice quickly
 
 * Drag
 
-Move your finger over the screen while maintaining continuous contact 
+Move your finger over the screen while maintaining continuous contact
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
