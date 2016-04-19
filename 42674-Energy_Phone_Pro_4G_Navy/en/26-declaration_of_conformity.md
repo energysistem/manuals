@@ -12,7 +12,7 @@ Tax code: A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-**Energy Sistem#trade# Energy Phone Pro 4G Navy*
+**Energy Sistem#trade# Energy Phone Pro 4G Navy**
 
 Manufacturing Country: China
 
