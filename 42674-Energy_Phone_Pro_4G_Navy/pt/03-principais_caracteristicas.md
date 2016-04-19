@@ -35,7 +35,7 @@ CONECTIVIDADE
 
 SISTEMAS DE LIGAÇÃO
 - 2 slots para: microSIM + nanoSIM ou microSIM + microSD
-- Porta microUSB 2.0 com função OTG
+- MicroUSB 2.0 com função OTG
 - Áudio Jack de 3,5 milímetros com padrão CTIA
 
 BATERIA:
