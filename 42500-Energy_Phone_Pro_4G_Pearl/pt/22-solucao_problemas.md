@@ -21,7 +21,7 @@ Muitas câmaras fotográficas digitais e programas de edição de imagens adicio
 7.	Às vezes o ecrã fica preto e o dispositivo não responde.
 É recomendável reiniciar o dispositivo sempre através das opções disponíveis do sistema, mas se isso não for possível, reinicie o dispositivo premindo o botão de ligar e de volume ao mesmo tempo durante 10 segundos.
 
-8.	A capacidade de memória do Energy Phone Pro 4G Navy é 32 GB, mas a memória disponível é inferior porquê?
+8.	A capacidade de memória do Energy Phone Pro 4G Pearl é 32 GB, mas a memória disponível é inferior porquê?
 O sistema operativo Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 8 GB de memória interna para funcionar correctamente. Por isso, a memória disponível para guardar dados adicionais é inferior a 32 GB.
 
 9.	Que devo fazer para que o dispositivo permita instalar uma aplicação?
