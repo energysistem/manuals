@@ -43,7 +43,7 @@ BATTERY
 - AC/DC (Europlug) power adapter. Input: 100-240 VAC 50-60 Hz. Output: 5V 1A
 - Battery life: up to XX hours on standby and XX hours conversation time.
 
-OTHER
+OTHER FEATURES
 - Notification LED in power On/Off button
 - Motion sensor (accelerometer)
 - Proximity sensor
