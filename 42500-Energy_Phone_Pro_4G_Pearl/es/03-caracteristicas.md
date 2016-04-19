@@ -22,8 +22,8 @@ CÁMARAS
 - Cámara frontal 5 Mpx con ángulo FOV de 84,3º y flash LED
 
 MEMORIA
-- 2 GB RAM DDR3
-- 16 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 128 GB más)
+- 3 GB RAM DDR3
+- 32 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 128 GB más)
 
 CONECTIVIDAD
 - 4G: 800/1800/2600 MHz (BANDAS FDD-LTE XX / III / VII)
