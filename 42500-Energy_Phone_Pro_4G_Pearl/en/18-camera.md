@@ -1,21 +1,14 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe60b4b8c5.jpg)
 
 
-1.	Multiangle view mode.
-2.	Panorama mode.
-3.	Face beauty mode.
-4.	Motion track mode.
-5.	Live photo mode.
-6.	Normal mode.
-7.	Automatic image capturing by gesture recognition
-8.	HDR.
-9.	Flash.
-10.	Swap cameras.
-11.	Access to the gallery.
-12.	Shooting button.
-13.	Video mode.
-14.	Settings.
-15.	Camera preview.
-
+1. Image mode.
+2. Effects.
+3. Switch cameras.
+4. Flash.
+5. Settings.
+6. Camera preview.
+7. Select mode.
+8. Shutter button.
+9. Access to gallery.

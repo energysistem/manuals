@@ -1,7 +1,6 @@
 <quick_guide>
 ## Conditions de garantie
-
-Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien. Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues.
+Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien.  Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues. 
 
 La garantie offerte par Energy Sistem couvre les défauts de matière ou de fabrication.
 
@@ -10,4 +9,3 @@ Cette garantie ne couvre pas les défauts ou détériorations résultant d'un ac
 La garantie de 36 mois est valable pour l'Union Européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
 
 </quick_guide>
-

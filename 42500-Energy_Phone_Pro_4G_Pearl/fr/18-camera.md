@@ -1,20 +1,14 @@
 ## Appareil photo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe60b4b8c5.jpg)
 
-1.	Mode vue multi-angle.
-2.	Mode panoramique.
-3.	Mode beauté.
-4.	Mode suivi de mouvement.
-5.	Mode photographie direct.
-6.	Mode normal.
-7.	Déclenchement automatique par geste.
-8.	HDR.
-9.	Flash.
-10.	Changement appareil photo.
-11.	Accès a la galerie.
-12.	Déclencheur.
-13.	Mode vidéo.
-14.	Paramètres.
-15.	Prévisualisation appareil photo.
 
+1. Modes d'image.
+2. Effets d'image.
+3. Échange appareil photo.
+4. Flash.
+5. Paramètres.
+6. Affichage appareil photo.
+7. Sélection de mode.
+8. Déclencheur.
+9. Accès à la galerie.

@@ -1,15 +1,15 @@
 <quick_guide>
 ## Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/39725/569d05f812179.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42674/56f2914c90d1d.jpg)
 
 1. Bouton de démarrage/éteint et led de notification
-2. Plateau pour cartes microSIM 1 / nanoSIM 2 / microSD
+2. Plateau pour cartes microSIM 1/nanoSIM 2/microSD
 3. Flash arrière
 4. Appareil photo arrière
 5. Sortie pour les écouteurs
 6. Microphone à réduction de bruit
-7. Flash frontal.
+7. Flash frontal
 8. Récepteur
 9. Capteurs de luminosité et de proximité
 10. Appareil photo frontal
@@ -18,8 +18,8 @@
 13. Entrée microUSB
 14. Haut-parleur
 15. Microphone
-16. Boutons tactiles : Applications récentes, Démarrage, Retour
-17. Outil d'extraction SIM/microSD
+16. Boutons tactiles du système : applications récentes, démarrage, retour
+17. Outil d'extraction SIM/microSD.
 
 
 </quick_guide>

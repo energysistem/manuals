@@ -1,19 +1,14 @@
 ## Câmara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/56168727c0fa7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56efe60b4b8c5.jpg)
 
-1. Modo de visualização multi-ângulo.
-2. Modo panorâmico.
-3. Modo beleza.
-4. Modo captura de movimento.
-5. Modo fotografia a partir de vídeo.
-6. Modo normal.
-7. Modo automático através de gesto
-8. HDR.
-9. Flash.
-10. Mudar câmara.
-11. Acesso à galeria.
-12. Botão de disparo.
-13. Modo vídeo.
-14. Definições.
-15. Previsualização.
+
+1. Modos de imagem.
+2. Filtros de imagem.
+3. Mudar câmara.
+4. Flash.
+5. Definições.
+6. Pré-visualizar.
+7. Seleccionar modo.
+8. Botão de disparo.
+9. Aceder à galeria.

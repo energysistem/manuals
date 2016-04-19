@@ -1,11 +1,11 @@
-### E-Mail client
+### E-mail settings
 
-**Note:** In order to know your account settings, ask your e-mail service provider.
+**Note:** In order to get to know your account settings, please ask your e-mail service provider.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42235/5616856562095.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42674/56f29143ea7b5.jpg)
 
 1. Selected folder.
-2. New e-mail.
-3. Search.
-4. E-mails.
+2. Search.
+3. E-mails.
+4. New e-mail.
 5. Folders.
