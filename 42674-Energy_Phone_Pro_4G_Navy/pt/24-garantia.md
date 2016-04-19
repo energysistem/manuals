@@ -1,5 +1,5 @@
 <quick_guide>
-##Condições da garantia
+## Condições da garantia
 
 Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo consumidor durante um período de 36 meses. A bateria do produto não está incluída na garantia de 36 meses porque para ela há uma garantia específica de 12 meses.
 

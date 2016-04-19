@@ -1,7 +1,7 @@
 ## Caractéristiques principales
 
 ÉCRAN
-- Écran tactile de 5" avec revêtement anti-traces 
+- Écran tactile de 5" avec revêtement anti-traces
 - Technologie AMOLED
 - Résolution HD (1280x720 pixels)
 - Couverture 100% gamme de couleurs du standard NTSC
@@ -19,7 +19,7 @@ SYSTÈME D'EXPLOITATION
 
 APPAREILS PHOTO
 - Appareil photo arrière 13 Mpx avec autofocus et flash LED
-- Appareil photo frontal de 5 Mpx avec angle FOV de 84,3º et flash LED. 
+- Appareil photo frontal de 5 Mpx avec angle FOV de 84,3º et flash LED.
 
 MÉMOIRE
 - 2 Go RAM DDR3
@@ -41,7 +41,7 @@ CONNEXIONS
 BATTERIE
 - Capacité de la batterie : 2.600 mAh Li-Po
 - Adaptateur d'alimentation courant AC/DC (Europlug) Entrée : 100-240VAC 50-60Hz. Sortie :  5V 1A
-- Autonomie : jusqu'à XX heures en mode veille et XX heures de conversation.
+- Autonomie : jusqu'à 165 heures en mode veille et 15 heures de conversation.
 
 AUTRES
 - LED de notification sur le bouton de démarrage/éteint
