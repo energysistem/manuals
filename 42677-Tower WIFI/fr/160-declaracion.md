@@ -1,20 +1,19 @@
-## Declaración de conformidad
+## Déclaration de conformité
 
-_**Nombre del suministrador:**_ Energy Sistem Technology S.A.
-_**Dirección:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+_**Nom du Fournisseur :**_ Energy Sistem Technology S.A.
+_**Adresse :**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
+_**Tél:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**Numéro d'identification fiscale (NIF) :**_  A53107488
 
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Nous déclarons sous notre seule responsabilité que le produit :
 
 >**Energy Multiroom Tower Wi-Fi**
 
-_**País de fabricación:**_ China<br>
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+_**Pays de fabrication :**_ Chine<br>
+Est conforme aux normes ou documents normatifs de la Directive 99/05/EC du Parlement Européen et du Conseil du 09 mars 1999.
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Ce symbole sur le produit ou les instructions signifie que vos appareils électriques et électroniques devront être recyclés à la fin de leur vie séparément de vos déchets ménagers. - -
 
    ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-
