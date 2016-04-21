@@ -1,38 +1,38 @@
-## ¿Tienes más altavoces Energy Wi-Fi? 
-### Conéctalos y disfruta del modo Multiroom
+## Avez-vous d'autres haut-parleurs Energy Wi-Fi ? 
+### Connectez-les et profitez du mode Multiroom
 
-Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
+Vous pouvez connecter plusieurs haut-parleurs à votre réseau Wi-Fi et les gérer depuis votre smartphone ou tablet ou même depuis des différents appareils simultanément.
 
-Una vez realizada la configuración inicial con el primer altavoz, pulsa la opción"+" y sigue los mismos pasos descritos en el apartado "Configuración inicial" para conectar tu segundo altavoz Wi-Fi.
+Une fois la configuration initiale a été complétée avec le premier haut-parleur, appuyez sur l'option « + » et suivez les mêmes indications de la rubrique « Configuration initiale » pour connecter votre deuxième haut-parleur Wi-Fi. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
 
-Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
+Recommencez le processus pour connecter d'autres haut-parleurs.  Vous pouvez connecter jusqu'à 8 haut-parleurs en mode Multiroom. 
 
-Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada.
+Depuis l'application vous pourrez gérer la lecture de chaque haut-parleur.  Chaque piste représente un haut-parleur.  Vous pourrez lire des contenus différents sur chaque haut-parleur ou les mêmes contenus sur plusieurs haut-parleurs simultanément. 
 
 <br/>
 
-### Modo Multiroom independiente
+### Mode Multiroom indépendant
 
-Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de manera independiente, pudiendo controlar cada uno de ellos desde la aplicación o interactuando directamente con ellos mediante su panel superior. Podrás saber que estás en este modo reproducción mirando la aplicación dedicada ya que cada uno de los dispositivos te aparecerá en una línea independiente dentro del menú "Lista de dispositivos".
+Ce mode de Multiroom est configuré par défaut.  Chaque haut-parleur agit de façon indépendante. Vous pourrez donc les gérer un par un depuis l'application ou depuis les panneaux supérieurs directement.  L'application spécifique vous montrera que vous êtes sur ce mode de lecture, car chaque périphérique apparaîtra sur une ligne indépendante sur le menu « Liste de périphériques ».
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8403b2cade.jpg)
 
 <br/>
 
-### Modos Multiroom sincronizado
+### Modes Multiroom synchronisés
 
-Este modo de Multiroom sincronizado permite reproducir la misma música en varios altavoces al mismo tiempo. Para poder configurar este modo de reproducción desde la aplicación ve al menú "Lista de dispositivos" y mantén pulsado el dispositivo que quieras asociar con otro altavoz, a continuación, sin soltar, arrastrarla encima de otra pista. Espera unos segundos y podrás comprobar que ambos dispositivos se han sincronizado. En la aplicación verás las pistas interconectadas mediante una línea. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos. 
+Ce mode Multiroom synchronisé permet de lire la même musique sur plusieurs haut-parleurs simultanément.  Pour régler ce mode de lecture depuis l'application, allez sur le menu « Liste de périphériques » et maintenez enfoncé le périphérique que vous souhaitez associer à un autre haut-parleur, ensuite, sans lâcher, faites-la glisser sur une autre piste.  Patientez quelques secondes et vérifiez que les deux périphériques sont synchronisés.  Sur l'application vous verrez les pistes interconnectées avec une ligne.  Ainsi, vous ferez des groupements où il y aura un haut-parleur principal et les autres seront dépendants de celui-ci.  
 
 ![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
 
-Puedes asignar a cada altavoz un canal diferente
+Vous pouvez attribuer à chaque haut-parleur un canal différent
 
-* L = Canal izquierdo
-* R = Canal derecho
-* LR = Estéreo
+* L = Canal gauche
+* R = Canal droit
+* LR = Stéréo
 
-Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
+Cette synchronisation restera jusqu'à ce que vous la supprimerez manuellement. Par conséquent, si vous changez le mode de lecture du haut-parleur principal avec la touche CHANGEMENT DE FONCTION (3), par exemple en passant au mode Bluetooth, vous pourrez transmettre le contenu émis par la connexion Bluetooth à tous les haut-parleurs dépendants synchronisés.  
 
- Para volver al modo de Multiroom Independiente, sólo tendrás que pulsar sobre el altavoz esclavo sincronizado y cuando aparezca como seleccionado arrástralo por debajo de la línea de puntos de esta pantalla, verás que la línea blanca discontinua desaparece. Espera unos segundos y el proceso de desincronización se habrá completado.  
+ Pour retourner au mode de Multiroom Indépendant, vous n'aurez qu'à sélectionner le haut-parleur dépendant synchronisé et le faire glisser au-dessous du pointillé de cet écran. Vous verrez comment la ligne blanche discontinue disparaît.  Patientez quelques secondes pour compléter la désynchronisation. 
