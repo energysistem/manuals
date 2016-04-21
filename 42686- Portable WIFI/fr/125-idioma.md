@@ -1,9 +1,9 @@
-## Como cambiar el idioma del altavoz
+## Comment changer la langue du haut-parleur
 
-Puedes cambiar el idioma del altavoz desde la aplicación. Accede a la configuración del altavoz pulsando el icono de configuración que aparece en el vértice superior derecho de la pista del altavoz:
+Vous pouvez changer la langue du haut-parleur avec l'application.  Accédez au réglage du haut-parleur en cliquant sur l'icône de configuration qui apparaît au coin supérieur droit de la piste du haut-parleur :
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8445dc8c03.jpg)
 
-A continuación selecciona "Info del altavoz" y aparecerá un menú en el cual puedes seleccionar el idioma del altavoz. Hay dos idiomas disponibles: Inglés y Castellano.
+Veuillez sélectionner ensuite « Info sur le haut-parleur » et vous pourrez choisir la langue du haut-parler sur le menu qui apparaîtra.   Il y a deux langues disponibles : anglais et espagnol. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4b5b895d.jpg)
