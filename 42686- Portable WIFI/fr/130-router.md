@@ -1,20 +1,18 @@
-## Requisitos mínimos del router
+## Conditions minimales requises du routeur
 
-Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu red privada debe cumplir las siguientes consideraciones:
+Pour un bon fonctionnement des haut-parleurs avec Wi-Fi, le routeur de votre réseau privé doit remplir les considérations suivantes :
 
-- Utilizar la banda Wi-Fi de <b>2.4 GHz</b>. El sistema Multiroom no es compatible con las bandas de Wi-Fi de 5 GHz.
+- Utiliser la bande Wi-Fi de <b>2.4 GHz</b>. Le système Multiroom n'est pas compatible avec les bandes de Wi-Fi de 5 GHz. 
 
-- Es necesario que la red a la que quiere conectar el altavoz esté encriptada con una clave WAP PSK utilizando AES o bien no utilice clave.
+- Il est nécessaire que le réseau auquel vous voulez connecter le haut-parleur soit crypté avec une clé WPA PSK en utilisant AES ou bien qu'il n'utilise pas de clé. 
 
-- El router ha de soportar el protocolo de comunicación Internet Group Management Protocol (IGMP) para poder establecer comunicación con los altavoces.
+- Le router doit supporter le protocole permettant la communication Internet Group Management Protocol (IGMP) pour établir la communication entre les haut-parleurs. 
 
-- La red a la que se desee conectar el altavoz ha de difundir el SSID.
+- Le réseau auquel vous souhaitez connecter le haut-parleur doit diffuser le SSID. 
 
-- Consideraciones de configuraciones avanzadas en el router que pueden dar lugar a error:
-  - Que la realización de asignación de direcciones IP se realice de modo estático.
-  -	Que se esté realizando filtrado de conexiones por direcciones MAC.
-  - Que el router se esté utilizando como Portal de internet. Si para acceder a internet es necesario configurar la clave de acceso a la red desde un explorador de internet, no será posible configurar el altavoz para poder conectarse a este tipo de routers. <br>
+- Considérations de paramètres avancés du router qui peuvent entraîner des erreurs :
+  - Attribution des adresses IP en mode statique. 
+  -	Filtrage de connexions par adresses MAC. 
+  - Utilisation du router en tant que portail Internet.  Si pour avoir accès à Internet il est nécessaire de configurer le mot de passe du réseau depuis un navigateur Internet, il ne sera pas possible de configurer le haut-parleur pour se connecter à ce genre de routeurs.   <br>
 
-- Los entornos de red con un alto nivel de ruido o un bajo nivel de potencia entre el router y el altavoz puede dar lugar a errores en la configuración. Asegúrese de que la distancia entre su altavoz y el router no sea excesivamente larga y que su canal Wi-Fi no esté saturado.
-
-
+- Les environnements réseau avec un niveau de bruit élevé ou une puissance faible entre le routeur et le haut-parleur peuvent entraîner des erreurs au niveau de la configuration.  Vérifiez que la distance entre votre haut-parleur et le routeur ne soit pas trop longue et que votre canal Wi-Fi ne soit pas surchargé. 
