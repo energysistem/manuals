@@ -1,7 +1,7 @@
-## Introducción
+## Introduction
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Multiroom Tower Wi-Fi.*, deseamos que la disfrutes.
+* Energy Sistem vous remercie d'avoir acheté cette *Energy Multiroom Tower Wi-Fi.*. Nous espérons que vous en profiterez.
 
-* Sistema Wi-Fi que proporciona un sorprendente sonido 2.1 con 60 W de potencia y una infinidad de posibilidades para reproducir tus canciones  favoritas por toda la casa ya sea por Bluetooth, memorias externas o conexión auxiliar.
+* Ce système Wi-Fi offre un incroyable son 2.1 avec 60 W de puissance et des possibilités infinies pour écouter vos chansons préférées par toute la maison, soit par Bluetooth, mémoire externe ou une connexion auxiliaire.
 
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+Nous vous conseillons de lire ce manuel de l'utilisateur afin de tirer le meilleur parti de votre produit en toute sécurité et profiter de toutes ses performances.
