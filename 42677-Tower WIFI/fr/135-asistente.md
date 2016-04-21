@@ -1,20 +1,20 @@
-## Asistente de configuración del módulo Wi-Fi
+## Assistant de configuration du module Wi-Fi. 
 
-Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
-Para acceder a dicho asistente existen dos métodos: 
+Votre *Energy Multiroom Tower Wi-Fi* est doté d'un assistant de configuration pour ajuster les paramètres du module Wi-Fi du haut-parleur. 
+Pour avoir accès à cet assistant il y a deux méthodes possibles : 
 
-1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
+1. La première méthode consiste à vous connecter au réseau généré par la Tower en soi. Pour savoir comment vous connecter à ce réseau, veuillez consultez la rubrique « Comment vous connecter au propre réseau du haut-parleur » sur ce manuel. Avec un navigateur Internet, veuillez accéder à l'adresse IP <b>10.10.10.254.</b> 
 
-2. El segundo método es que desde un dispositivo conectado a la misma red que el altavoz accedas con un explorador de internet a la dirección IP del altavoz , puedes encontrar esta dirección IP en la opción "Info del altavoz" del menu de configurarción de la aplicación.
+2. La deuxième méthode consiste à accéder avec un navigateur Internet à l'adresse IP du haut-parleur depuis un périphérique connecté au même réseau du haut-parleur. Vous trouverez cette adresse IP sur « Info sur le haut-parleur » au menu de configuration de l'application. 
 
-Una vez que hayas accedido, se mostrará el menú "WiFi". Dentro de este menú de configuración te aparecerá la información de la conexión del altavoz. Arriba te mostrará el nombre de la red a la que estás conectado, mientras que abajo te saldrá una lista de todas las redes disponibles para conectarse. Pinchando sobre cualquiera de las redes de la lista se cambiará la red Wi-Fi a la que está conectado el altavoz.
+Une fois vous aurez accédé, le menu « WiFi » apparaîtra.  Sur ce menu de configuration, vous verrez les informations concernant la connexion du haut-parleur.  En haut vous verrez le nom du réseau auquel vous êtes connecté, et sur la partie en bas vous aurez une liste avec tous les réseaux disponibles. Si vous cliquez sur n'importe quel réseau sur la liste, vous changerez le réseau Wi-Fi auquel le haut-parleur est connecté. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a5124ee.jpg)
   
-Dentro del menú de "Configuración" encontramos tres pestañas. La pestaña de "Estado" contiene la información general del dispositivo, como sus identificativos, la versiones del firmware o la dirección IP si estamos conectados a alguna red. 
+Sur le menu « Configuration » il y a trois onglets.  Sur l'onglet « État » vous trouverez les informations générales de l'appareil, telles que les codes d'identification, les versions du firmware ou l'adresse IP si nous sommes connectés à un réseau.   
   
-En la pestaña "Sistema" encontrarás la opción cambiar el idioma de este asistente de configuración. Es necesario guardar las modificaciones pulsando el botón "Guardar" para conservarlas. También es posible actualizar el firmware del altavoz manualmente o en línea. También puedes restablecer los valores de fábrica para volver a la configuración por defecto.
+Sur l'onglet « Système » vous trouverez l'option pour changer la langue de cet assistant de configuration.  Pour les conserver, il est nécessaire d'enregistrer les changements en cliquant sur la touche « Enregistrer ».  Il est également possible d'actualiser le firmware du haut-parleur manuellement ou en ligne.  Vous pouvez aussi restaurer les paramètres d'usine pour récupérer les réglages par défaut. 
 
-En cuanto a la pestaña "Red", nos permite cambiar la contraseña, el tipo de cifrado y el nombre de la red Wi-Fi propia del altavoz.
+En ce qui concerne l'onglet « Red », il nous permet de modifier le mot de passe, le type de cryptage et le nom du propre réseau Wi-Fi du haut-parleur. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a1708e3.jpg)
