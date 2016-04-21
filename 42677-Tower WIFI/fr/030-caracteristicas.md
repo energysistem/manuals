@@ -1,26 +1,26 @@
-## Especificaciones técnicas
+## Caractéristiques techniques
 
-- Sistema de sonido 2.1 con potencia real de 60W. (1 x subwoofer de 4"y 30W + 2 x full range de 4" y 10W + 1 x tweeter de 1,5"y 10W).
-- Respuesta en frecuencia: 20Hz-20KHz.
-- Conexión Wi-Fi:
-  - Estándar: 802.11 b/g/n.
-  -	Rango de frecuencia 2.412GHz-2.484GHz.
-  -	Protocolos de seguridad compatibles: WPA-PSK.
-  -	Tipos de cifrado: AES. 
-  -	Sistemas de audio inalámbricos compatibles: Airplay y DLNA.
-- Conexión Bluetooth V.4.0: 
-  - Versión 4.0 + EDR (Enhanced Data Rate).
-  - Clase II. Hasta 10 metros de alcance.
-  - Protocolos Bluetooth®: A2DP ; AVRCP. 
-  - Frecuencia: 2.4GHz banda ISM.
-- Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 64 GB.
-- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 64 GB.
-- 5 modos de ecualización digital predefinidos para los modos USB y SD.
-- Ecualizador analógico de 2 bandas.
-- Caja acústica de madera.
-- Mando a distancia de hasta 10 metros de alcance.
-- Entrada auxiliar de 3,5 mm.
-- Corriente de salida de los puertos USB de carga: 5V 2A  
-- Panel superior retroiluminado y táctil.
-- Display de segmentos LED.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Système de son 2.1 avec puissance réelle de 60 W. (1 x subwoofer de 4"et 30 W + 2 x full range de 4" et 10 W + 1 x tweeter de 1,5" et 10 W).
+- Réponse en fréquence : 20Hz-20KHz.
+- Connexion Wi-Fi :
+ - Standard : 802.11 b/g/n.
+  -	Gamme de fréquences 2.412GHz-2.484GHz.
+  -	Protocoles de sécurité compatibles : WPA-PSK.
+  -	Types de chiffrement : AES. 
+  -	Systèmes audio sans fil compatibles : Airplay et DLNA.
+- Connexion Bluetooth V.4.0 : 
+  - Version 4.0 + EDR (Enhanced Data Rate).
+  - Classe II. Portée jusqu'à 10 mètres. 
+  - Protocoles Bluetooth® : A2DP ; AVRCP. 
+  - Fréquence : 2.4GHz bande ISM.
+- Décodeur SD : il lit les fichiers MP3/WAV depuis une mémoire flash SD avec une capacité maximale de 64 Go. 
+- Décodeur USB : il lit les fichiers MP3/WAV depuis une mémoire flash USB avec une capacité maximale de 64 Go. 
+- 5 modes d'égalisation numérique prédéfinis pour les modes USB et SD. 
+- Égaliseur analogique 2 bandes.
+- Boîtier en bois. 
+- Télécommande avec portée maximale de 10 mètres. 
+- Entrée auxiliaire 3,5 mm
+- Courant de sortie des ports USB de charge : 5V 2A  
+- Panneau supérieur rétroéclairé et tactile. 
+- Display de segments à LED.  
+- Alimentation : 120-240 V / 50-60 Hz.
