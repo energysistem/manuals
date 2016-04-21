@@ -1,17 +1,17 @@
-## Como forzar la conexión del altavoz a tu red Wi-Fi
+## Comment forcer la connexion du haut-parleur à votre réseau Wi-Fi
 
-Puedes realizar la conexión de dos manera alternativas a la descrita en el apartado anterior "Configuración inicial".
+Vous pouvez réaliser la connexion de deux autres façons différentes à celles qui ont été décrites sur la section précédente « Configuration initiale ». 
 
-La primera forma es conectándote a la propia red que emite el altavoz, más información en la sección "Como conectarse a la red propia de tu altavoz". Una vez conectado se ha de acceder al asistente de configuración del dispositivo y forzar la conexión del altavoz a una red concreta como se explica en la sección "Asistente de configuración del módulo Wi-Fi".
+D'un côté vous pouvez vous connecter au propre réseau émis par le haut-parleur. Plus de renseignements sur la rubrique « Comment se connecter au propre réseau de votre haut-parleur ». Une fois il a été connecté, il faut accéder à l'assistant de configuration de l'appareil et forcer la connexion du haut-parleur à un réseau particulier, comme indiqué sur la rubrique « Assistant de configuration du module Wi-Fi ».
 
-La segunda forma ser realiza a través de la aplicación y sólo es posible en un dispositivo Android. Una vez que hayas realizado el proceso de conexión del dispositivo y este haya dado lugar a error podrás acceder a la ventana donde se muestran los pasos a seguir para configurar la red Wi-Fi y volver a intentar la búsqueda. Pulsa la opción "Configuración manual de la red".
+D'autre côté, vous pouvez aussi réaliser la connexion par moyen de l'application et cette modalité n'est possible que sur un appareil Android.  Une fois réalisé le processus de connexion de l'appareil et ayant celui-ci entraîné une erreur, vous pourrez accéder à la fenêtre où sont affichés les pas à suivre pour configurer le réseau Wi-Fi et réessayer la recherche.  Cliquez sur l'option « Configuration manuelle du réseau ».
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd56037e20.jpg)
 
-En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. 
+À ce stade il faut laisser l'application en arrière-plan (sans la fermer) et accéder à la configuration du Wi-Fi de votre appareil. Pour continuer, vous devez vous connecter au propre réseau du haut-parleur. Veuillez consulter la rubrique « Comment se connecter au propre réseau du haut-parleur » pour plus de renseignements. Après être connecté, agrandissez à nouveau l'application qui sera restée telle que vous l'aviez laissée, sauf que l'option « Suivant » qui était avant cachée, apparaîtra en haut à droite maintenant.  
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49756331.jpg)
 
-Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. .
+Si vous cliquez sur cette touche vous accéderez à un menu où vous trouverez tous les réseaux accessibles depuis le haut-parleur.  Pour forcer la connexion du haut-parleur à votre réseau privé, veuillez sélectionner le réseau de votre choix et le configurer si besoin. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49336cac.jpg)
