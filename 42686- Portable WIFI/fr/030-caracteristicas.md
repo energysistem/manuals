@@ -1,26 +1,30 @@
-## Especificaciones técnicas
+## Caractéristiques techniques
 
-- Sistema de sonido 2.1 con potencia real de 60W. (1 x subwoofer de 4"y 30W + 2 x full range de 4" y 10W + 1 x tweeter de 1,5"y 10W).
-- Respuesta en frecuencia: 20Hz-20KHz.
-- Conexión Wi-Fi:
-  - Estándar: 802.11 b/g/n.
-  -	Rango de frecuencia 2.412GHz-2.484GHz.
-  -	Protocolos de seguridad compatibles: WPA-PSK.
-  -	Tipos de cifrado: AES. 
-  -	Sistemas de audio inalámbricos compatibles: Airplay y DLNA.
-- Conexión Bluetooth V.4.0: 
-  - Versión 4.0 + EDR (Enhanced Data Rate).
-  - Clase II. Hasta 10 metros de alcance.
-  - Protocolos Bluetooth®: A2DP ; AVRCP. 
-  - Frecuencia: 2.4GHz banda ISM.
-- Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 64 GB.
-- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 64 GB.
-- 5 modos de ecualización digital predefinidos para los modos USB y SD.
-- Ecualizador analógico de 2 bandas.
-- Caja acústica de madera.
-- Mando a distancia de hasta 10 metros de alcance.
-- Entrada auxiliar de 3,5 mm.
-- Corriente de salida de los puertos USB de carga: 5V 2A  
-- Panel superior retroiluminado y táctil.
-- Display de segmentos LED.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Système de son 2.1 avec puissance réelle de 25 W. (12W * 1 + 6.5W * 2)
+- Réponse en fréquence : 60 Hz ~ 20 KHz.
+- Connexion Wi-Fi :
+ - Standard : 802.11 b/g/n
+  -	Gamme de fréquences 2.412GHz-2.484GHz
+  -	Protocoles de sécurité compatibles : WPA-PSK 
+  -	Types de chiffrement : AES 
+  -	Systèmes audio sans fil compatibles : Airplay et DLNA.
+
+- Connexion Bluetooth V.4.0 :
+  - Version 4.0 + EDR (Enhanced Data Rate).
+  - Classe II. Portée jusqu'à 10 mètres.  
+  - Protocoles Bluetooth® : A2DP ; AVRCP. 
+  - Fréquence : 2.4GHz bande ISM.
+
+- Décodeur SD : il lit les fichiers MP3/WAV depuis une mémoire flash SD avec une capacité maximale de 64 Go. 
+- Décodeur USB : il lit les fichiers MP3/WAV depuis une mémoire flash USB avec une capacité maximale de 64 Go. 
+- 5 modes d'égalisation numérique prédéfinis pour les modes USB et SD. 
+- Rapport signal/bruit :  >80 dB.
+- Display de segments à LED.  
+- Entrée auxiliaire 3,5 mm.
+- Sortie pour écouteurs de 3,5 mm.
+
+- Batterie au lithium rechargeable : 
+  - Capacité nominale : 2050 mAh.
+  - Tension nominale : 7.4 V.
+  - Autonomie approximative : 4 heures.
+  - Connecteur de chargement microUSB. 
