@@ -12,7 +12,7 @@ Suivez les indications suivantes pour configurer votre haut-parleur :
 
 ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 
-	4) Appuyez et maintenez enfoncé le bouton SYNCHRONISATION Wi-Fi (3) de votre haut-parleur jusqu’à ce que vous entendrez « Waiting for Wi-Fi connection ». Un message vocal vous confirmera que la synchronisation a été correctement effectuée. Autrement, recommencez le processus dès le point 1).  
+4) Appuyez et maintenez enfoncé le bouton SYNCHRONISATION Wi-Fi (3) de votre haut-parleur jusqu’à ce que vous entendrez « Waiting for Wi-Fi connection ». Un message vocal vous confirmera que la synchronisation a été correctement effectuée. Autrement, recommencez le processus dès le point 1).  
 
 5) Donnez à votre haut-parleur le nom de votre choix.  Vous avez une liste de noms prédéfinis mais vous pouvez lui donner un autre nom avec l'option « personnaliser » si vous le souhaitez.  
 
