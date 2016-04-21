@@ -14,6 +14,6 @@ Est conforme aux normes ou documents normatifs de la Directive 99/05/EC du Parle
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Ce symbole sur le produit ou les instructions signifie que vos appareils électriques et électroniques devront être recyclés à la fin de leur vie séparément de vos déchets ménagers. - -
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Ce symbole sur le produit ou les instructions signifie que vos appareils électriques et électroniques devront être recyclés à la fin de leur vie séparément de vos déchets ménagers.
 
    ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
