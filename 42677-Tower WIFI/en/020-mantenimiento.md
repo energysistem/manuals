@@ -1,6 +1,6 @@
 ## Cuidado y Mantenimiento
 
-* No expongas tu *Energy Multiroom Tower Wi-Fi* a humedad o altas temperaturas.
+* No expongas tu *Energy Multiroom Tower Wi-Fi* a humedad o altas temperaturas
 
 * No presiones las membranas de los altavoces.
 
