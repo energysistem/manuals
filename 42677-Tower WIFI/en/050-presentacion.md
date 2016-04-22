@@ -1,11 +1,9 @@
-## Conexiones y comandos
+## Connectivity and commands
 
-Para cambiar entre las diferentes funciones, pulsa el botón CAMBIO DE FUNCIÓN (4), visualizarás en el display la función selecionada. En caso de no haber nada conectado a las entradas USB y SD/MMC, el botón CAMBIO DE FUNCIÓN (4) conmutará entre el modo APP, Bluetooth y Entrada auxiliar 2 .
+In order to select different functions, press FUNCTION CHANGE (4). You will be able to see the selected function on screen. If no device is connected to the USB and SD/MMC inputs, the FUNCTION CHANGE (4) button will change between APP, Bluetooth and Audio input 2.
 
-Cuando conectes algún dispositivo en cualquiera de las entradas USB o SD, el *Energy Multiroom Tower Wi-Fi* cambiará automáticamente a dicha función. En el caso de tener conectadas alguna o todas las entradas, con el botón CAMBIO DE FUNCIÓN (4) podrás cambiar entre todas las disponibles.
+In case that you connect a device to any of the USB or SD onputs, the *Energy Multiroom Tower Wi-Fi* will change automatically to that function. If one or all inputs are being used, you will be able to change between all the available functions by pressing the FUNCTION CHANGE (4) button.
 
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
 
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
-
-
