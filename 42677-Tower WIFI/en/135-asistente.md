@@ -1,20 +1,20 @@
-## Asistente de configuración del módulo Wi-Fi
+## Wi-Fi setup wizard
 
-Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
-Para acceder a dicho asistente existen dos métodos: 
+Your *Energy Multiroom Tower Wi-Fi* comes with a Wi-Fi setup wizard to adjust all the Wi-Fi parameters of your speaker.
+There are two options to run the setup wizard: 
 
-1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
+1. The first one consists in connecting to the network's Tower. In order to know how to connect to this net, please see the "How to connect to the speaker's net" section and access the <b>10.10.10.254.</b> IPS address from an Internet browser.
 
-2. El segundo método es que desde un dispositivo conectado a la misma red que el altavoz accedas con un explorador de internet a la dirección IP del altavoz , puedes encontrar esta dirección IP en la opción "Info del altavoz" del menu de configurarción de la aplicación.
+2. The second option consists in accesing the speaker's IP address from a device connected to the same network as the speaker using an Internet browser. This IP address appears in the "Speaker info" option within the apps settings menu.
 
-Una vez que hayas accedido, se mostrará el menú "WiFi". Dentro de este menú de configuración te aparecerá la información de la conexión del altavoz. Arriba te mostrará el nombre de la red a la que estás conectado, mientras que abajo te saldrá una lista de todas las redes disponibles para conectarse. Pinchando sobre cualquiera de las redes de la lista se cambiará la red Wi-Fi a la que está conectado el altavoz.
+Once you have accessed, the "Wi-Fi" menu will appear. You will access the speaker's network information through this settings menu. The active network's name will appear on top of the screen while a list of all available networks will be shown below. If you select any network from the list, the active Wi-Fi network selected for your speaker will change to that one.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a5124ee.jpg)
   
-Dentro del menú de "Configuración" encontramos tres pestañas. La pestaña de "Estado" contiene la información general del dispositivo, como sus identificativos, la versiones del firmware o la dirección IP si estamos conectados a alguna red. 
+Within the "Settings" menu we will find three tabs. The "Status" tab contains general information on the device such as specifications, firmware versions or the IP address if we are connected to any network. 
   
-En la pestaña "Sistema" encontrarás la opción cambiar el idioma de este asistente de configuración. Es necesario guardar las modificaciones pulsando el botón "Guardar" para conservarlas. También es posible actualizar el firmware del altavoz manualmente o en línea. También puedes restablecer los valores de fábrica para volver a la configuración por defecto.
+In the "System" tab you will find the option to change the language of the Setup wizard. It is necessary to save all modifications by pressing the "Save" button. The speaker's firmware can be updated manually or online. You can also restore the default settings to return to the state by default.
 
-En cuanto a la pestaña "Red", nos permite cambiar la contraseña, el tipo de cifrado y el nombre de la red Wi-Fi propia del altavoz.
+The "Red" tab offers you the possibility of changing the password, the type of encryption as well as the name of the speaker's Wi-Fi network.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a1708e3.jpg)
