@@ -15,6 +15,6 @@ Within the "Settings" menu we will find three tabs. The "Status" tab contains ge
   
 In the "System" tab you will find the option to change the language of the Setup wizard. It is necessary to save all modifications by pressing the "Save" button. The speaker's firmware can be updated manually or online. You can also restore the default settings to return to the state by default.
 
-The "Red" tab offers you the possibility of changing the password, the type of encryption as well as the name of the speaker's Wi-Fi network.
+The "Network" tab offers you the possibility of changing the password, the type of encryption as well as the name of the speaker's Wi-Fi network.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a1708e3.jpg)
