@@ -1,5 +1,5 @@
-## Encendido y apagado
+## Switching the tower on and off
 
-Una vez enchufada a la toma de corriente, enciende tu *Energy Multiroom Tower Wifi* poniendo el INTERRUPTOR ENCENDIDO-APAGADO (16) de la parte posterior de la torre en "ON". A partir de entonces, podrás encenderla y apagarla desde el botón INICIAR/PAUSAR (8) del panel superior,manteniendolo pulsado durante 2 segundos, o con el botón del mando a distancia de ENCENDIDO-APAGADO (23).
+Once the *Energy Multiroom Tower Wi-Fi* has been plugged into a socket, turn it on by moving the ON-OFF SWITCH (16) on the back side of the tower to the "ON" position.  From that moment on, you can turn it on or off by pressing the PLAY/PAUSE button (8) on the top display for 2 seconds or the ON/OFF button (23) on your remote control.
 
-Te recomendamos que cuando no vayas a utilizar la torre durante un periodo largo de tiempo, además de apagar la torre desde el panel superior, pongas el INTERRUPTOR ENCENDIDO-APAGADO (16)  en la posición "OFF".
+If you are not going to use the tower for a long period of time, we recommend, not only to switch it off from the top display but also to turn the ON-OFF SWITCH (16) to the "OFF" position.
