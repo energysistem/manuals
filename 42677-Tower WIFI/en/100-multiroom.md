@@ -1,38 +1,38 @@
-## ¿Tienes más altavoces Energy Wi-Fi? 
-### Conéctalos y disfruta del modo Multiroom
+## Do you have more Energy Wi-Fi speakers? 
+### Connect them and enjoy the Multiroom mode
 
-Puedes conectar varios altavoces a tu red Wifi privada y manejarlos desde tu smartphone o tablet o desde diferentes dispositivos al mismo tiempo.
+You can connect several speakers to your private Wi-Fi network and control them using your smartphone, tablet or different devices simultaneously. 
 
-Una vez realizada la configuración inicial con el primer altavoz, pulsa la opción"+" y sigue los mismos pasos descritos en el apartado "Configuración inicial" para conectar tu segundo altavoz Wi-Fi.
+Once the first speaker's initial settings have been set, select the "+" option and follow the steps described in the "Initial settings" section to connect your second Energy Wi-Fi speaker.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
 
-Repite de nuevo los mismos pasos para conectar más altavoces. Puedes conectar hasta un máximo de 8 altavoces en modo Multiroom.
+Repeat the same steps to connect more speakers. You can connect up to 8 speakers in Multiroom mode.
 
-Desde la aplicación podrás manejar la reproducción de cada altavoz. Cada pista representa un altavoz. Podrás reproducir un contenido diferente por cada altavoz o la misma por varios de manera sincronizada.
+Control the music on each speaker with this app. Each speaker is represented by one track. You can play different music content on each speaker or the same song through all of them simultaneously.
 
 <br/>
 
-### Modo Multiroom independiente
+### Individual Multiroom Mode
 
-Este modo de Multiroom es el configurado por defecto. Cada altavoz actuará de manera independiente, pudiendo controlar cada uno de ellos desde la aplicación o interactuando directamente con ellos mediante su panel superior. Podrás saber que estás en este modo reproducción mirando la aplicación dedicada ya que cada uno de los dispositivos te aparecerá en una línea independiente dentro del menú "Lista de dispositivos".
+This Multiroom mode is set by default. Each speaker will play music independently and you can control each of them using the application or interacting directly with the device by touching the top display. You will know that this play mode is active by looking the app since each device will appear in one line within the "List of devices" menu.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8403b2cade.jpg)
 
 <br/>
 
-### Modos Multiroom sincronizado
+### Synchronized Multiroom Mode
 
-Este modo de Multiroom sincronizado permite reproducir la misma música en varios altavoces al mismo tiempo. Para poder configurar este modo de reproducción desde la aplicación ve al menú "Lista de dispositivos" y mantén pulsado el dispositivo que quieras asociar con otro altavoz, a continuación, sin soltar, arrastrarla encima de otra pista. Espera unos segundos y podrás comprobar que ambos dispositivos se han sincronizado. En la aplicación verás las pistas interconectadas mediante una línea. De esta manera realizarás agrupaciones donde existirá una altavoz maestro y el resto serán esclavos. 
+This synchronized Multiroom mode enables to play the same music on all speakers at the same time. In order to define the play mode settings using the app, please go to "List of devices" in the app and press the device that you want to connect to other speaker and then, drag it to another track maintaining contact. Wait a few seconds and you will see that both devices are now synchronized. The synchronized tracks will appear on the app screen. This way, you will create groups comprising a master speaker and the rest of speakers. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
 
-Puedes asignar a cada altavoz un canal diferente
+You can assign a different channel to each speaker.
 
-* L = Canal izquierdo
-* R = Canal derecho
-* LR = Estéreo
+* L = Left channel
+* R = Right channel
+* LR = Stereo
 
-Esta sincronización se mantendrá hasta que la deshagas manualmente, por lo que si cambias de modo de reproducción del altavoz maestro mediante el botón CAMBIO DE FUNCIÓN (4), por ejemplo cambiando al modo Bluetooth, podrás difundir el contenido emitido por la conexión Bluetooth a todos los altavoces esclavos sincronizados. 
+The synchronized mode remains active until it is disabled manually, so if you change the master speaker's play mode through the CHANGE FUNCTION (4) button, for instance, to Bluetooth mode, you will be able to stream the contents via Bluetooth to all synchronized speakers. 
 
- Para volver al modo de Multiroom Independiente, sólo tendrás que pulsar sobre el altavoz esclavo sincronizado y cuando aparezca como seleccionado arrástralo por debajo de la línea de puntos de esta pantalla, verás que la línea blanca discontinua desaparece. Espera unos segundos y el proceso de desincronización se habrá completado.  
+To enable the Individual Multiroom Mode again you only have to press on the synchronized secondary speaker and once selected, drag it under the dotted line on screen. You will see that the white broken line disappears. Wait a few seconds and the processto end the synchronized mode will be completed.  
