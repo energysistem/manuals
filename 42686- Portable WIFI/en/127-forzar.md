@@ -1,17 +1,19 @@
-## Como forzar la conexión del altavoz a tu red Wi-Fi
+## How to make your speaker connect to your Wi-Fi network
 
-Puedes realizar la conexión de dos manera alternativas a la descrita en el apartado anterior "Configuración inicial".
+You have two alternative options to establish the connection apart from the standard procedure that has been described in the "Initial settings" section.
 
-La primera forma es conectándote a la propia red que emite el altavoz, más información en la sección "Como conectarse a la red propia de tu altavoz". Una vez conectado se ha de acceder al asistente de configuración del dispositivo y forzar la conexión del altavoz a una red concreta como se explica en la sección "Asistente de configuración del módulo Wi-Fi".
+The first option consists in connecting to the speaker's network. For more information please see the "How to connect to your speaker's network". Once the connection has been established, you need to access the device intallation wizard and force the speaker to connect to a specific network, as explained in the "Wi-Fi setup wizard" section.
 
-La segunda forma ser realiza a través de la aplicación y sólo es posible en un dispositivo Android. Una vez que hayas realizado el proceso de conexión del dispositivo y este haya dado lugar a error podrás acceder a la ventana donde se muestran los pasos a seguir para configurar la red Wi-Fi y volver a intentar la búsqueda. Pulsa la opción "Configuración manual de la red".
+The second option to connect the speaker consists in using the app. This option is only available for Android devices. If after completing the device connection process you get an error message, you can access a window with the steps to set up the Wi-Fi network and restart searching. Press "Manually connect to a network".
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd56037e20.jpg)
 
-En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. 
+At this moment you have to run the app in the background (without closing it) and access your device Wi-Fi settings. You will have to connect to the speaker's Wi-Fi network next. For more information please see "How to connect to the speaker's network". Once you have done this, restore the app to full-screen again so that you return to the point where you were. Now the "Next" option, which was hidden, will appear on the screen upper corner. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49756331.jpg)
 
-Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. .
+Press this button to access the menu with all networks that can be accessed from the speaker. Select the network you want and set it up if necessary. This way, you will have forced the speaker to connect to your private network.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49336cac.jpg)
+
+
