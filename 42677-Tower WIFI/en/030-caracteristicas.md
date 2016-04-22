@@ -12,7 +12,7 @@
   - V4.0 + EDR (Enhanced Data Rate).
  - Class II. Distance range up to 10 m.
  - Bluetooth profiles®: A2DP ; AVRCP. 
- - Frequency: 2.4 GHz ISM range
+ - Frequency: 2.4 GHz ISM range.
 - SD memory decoder: reads MP3/WAV files from SD flash drives up to 64 GB.
 - USB memory decoder: reads MP3/WAV files from USB flash drives up to 64 GB.
 - 5 preset digital EQ for USB and SD modes.
@@ -20,7 +20,7 @@
 - Wooden cabinet speakers.
 - Remote control with up to 10 meters range.
 - 3.5 mm audio input.
-- Output power of USB ports: 5 V 2 A 
+- Output power of USB ports: 5V 2A 
 - LED-Backlit touch display.
 - LED segment display.
 - Power supply: 120-240 V / 50-60 Hz.
