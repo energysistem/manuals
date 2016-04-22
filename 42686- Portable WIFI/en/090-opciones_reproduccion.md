@@ -1,44 +1,39 @@
-## Opciones de reproducción
-Una vez configurado tu altavoz, dispones de las siguientes opciones para reproducir tu música favorita:
+## Playback settings
+Once you have definded your speaker's settings, you have the following options to playback your favourite music:
 
 <br/>
 
-### Usando la aplicación Energy Wi-Fi
-En el menú principal de la aplicación encontrarás 4 categorías:
+## How to use the Energy Wi-Fi app
+In the app's main menu you will find 4 categories:
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83c069cf1e.jpg)
 
-#### Favoritas
-Con esta opción podrás acceder rápidamente a tus canciones favoritas que hayas almacenado previamente. Esta lista está pensada para que sea sencillo añadir y eliminar canciones rápidamente. 
+#### Favourites
+This option will enable you to access the songs that you like most and that have been previously saved quite fast. This list has been conceived to add and delete songs more easily. 
 
-#### Mi música
-Reproduce las canciones que tienes almacenadas en tu dispositivo. Para que sea más sencillo te ordenamos las canciones por Álbumes y Artistas. Además podrás crear tus propias listas de reproducción y acceder a las últimas pistas escuchadas. En el caso de tener un USB o SD conectado al altavoz, también podrás acceder al contenido de estas memorias externas y seleccionar que canción quieres reproducir. Si accedes a la información extra de alguna de las pistas de música, podrás añadirla a favoritos, incorporar a la lista de reproducción actual o consultar información adicional de esta canción.
+#### My music
+Playback the songs that you have stored on your device. In order to make it easier, songs are sorted out into Albums and Artists. Furthermore, you will be able to create your own playlists and access the last played tracks. In case that one USB stick or SD card is connected to your speaker, you will also have the possibility of accessing these external memories and select the song you want to hear. If you access the additional information of a certain music track, you will be able to add this song to favourites or to the current playlist as well as take a look at the additional information.
 
 #### TuneIn
-Disfruta de un gran abanico de emisora de radio streaming usando esta opción. Podrás escuchar desde una cantidad de músicas de todo el mundo hasta tus programas de deportes favoritos.  
+ Use this option to enjoy a wide selection of streaming radio stations. You will be able to listen to all types of music from all over the world as well as your favourite sport programmes.  
 
 #### Spotify
-Si tienes una cuenta Premium Spotify, puedes escuchar tu música favorita en tu altavoz Energy Multiroom usando esta opción. Está opción esta disponible en el menú principal de la aplicación. 
+ If you have a Spotify Premium account, you can also listen to your favourite music on your Energy Multiroom speaker with this option. This option is available on the app's main menu. 
 
 <br/>
 
-### Sin necesidad de usar la aplicación Energy Wi-Fi 
-Además de los métodos de reproducción arriba comentados, desde la aplicación también podrás controlar el restos de modos de reproducción externos no siendo necesario el uso de esta aplicación para habilitar las siguientes entradas externas disponibles:
+### Play modes that don't need the Energy Wi-Fi app 
+Apart from the above mentioned play options, you can control all other external play modes through the app. However, it is not necessary to use the app to enable the following external inputs:
 
 #### Bluetooth
-Cambia de modo reproducción pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz y selecciona el modo Bluetooth (aparecerá "-bt-" en la pantalla de tu altavoz). Una vez seleccionado este modo, conectate mediante Bluetooth a tu Energy Multiroom. No necesitarás ningún código para realizar esta conexión.
+Change the play mode by pressing your speaker's CHANGE FUNCTION (3) button and select the Bluetooth mode (the letters "-bt-" will appear on your speaker's screen). Once you have selected this mode, connect to your Energy Multiroom via Bluetooth. You won't need any code to establish the connection.
 
-Esta es tu opción si lo que deseas es reproducir videos streaming desde tu dispositivo.
+This is the perfect option to play video streaming from your device.
 
-#### Memorias extraibles USB/SD
-Al introducir una memoria externa (USB o SD) en tu altavoz entrará en modo USB/SD de manera automática. Puedes reproducir los archivos MP3 y WAV guardados en tus memorias externas y cambiar de un modo a otro pulsando el botón CAMBIO DE FUNCIÓN (4) de tu altavoz.
+#### Removable USB/SD memories
+If you connect an USB or SD external memory to your speaker, it will start the USB/SD mode automatically. You can play MP3 and WAV files that have been saved to your external memories and change the mode by pressing the CHANGE FUNCTION (3) button on your speaker.
 
-#### Entradas auxiliares
-En tu *Energy Multiroom Tower Wi-Fi* encontrarás dos entradas auxiliares para conectar cualquier dispositivo externo:
+#### Line-input
+In your *Energy Multiroom Portable Wi-Fi* you will find an AUDIO LINE INPUT (12) to connect any external device. 3.5 mm mini jack input. All other play modes will be muted when the speaker detects the input signal.
 
-- AUX 1. Se encuentra en el lateral del panel superior. Se trata de una conexión mini jack 3.5mm. El resto de modos de reproducción se silenciarán cuando el altavoz detecte señal en esta entrada.
-
-- AUX 2: Se encuentra en la parte trasera de la tower. Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón CAMBIO DE FUNCIÓN (4).
-
-
-
+  *NOTE:* It is not possible to control the playback or the volume from the speaker while you are using it in this mode. In order to control these functions you will have to use the player that you have connected.
