@@ -1,24 +1,23 @@
-## Configuración inicial
+## Initial settings
 
-Sigue los siguientes pasos para configurar tu altavoz:
+Follow these instructions to define your speaker's settings:
 
-1) Enciende tu altavoz Wi-Fi y espera unos 15 segundos. Un aviso acústico te indicará que el altavoz está listo para ser usado en modo APP.
+1) Switch your Wi-Fi speaker on and wait 15 seconds. A sound will indicate that the speaker is ready to be used in APP mode.
 
-2) Inicia la aplicación y selecciona la opción "Añadir altavoz". Asegurate de estar conectado a tu red Wi-Fi privada.
+2) Run the app and select the "Add speaker" option. Please verify that the device is connected to your private Wi-Fi network.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8357bd5bac.jpg)
 
-3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente".
+3) Enter the password that you use to connect to your private Wi-Fi network and press "Next".
 
 ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 
-4) Mantén pulsado el botón SINCRONIZACIÓN Wi-Fi (4) de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente. En caso contrario, vuelve a realizar el proceso desde el punto 1). 
+4) Press and hold your speaker's Wi-Fi SYNC (4) button until you hear "Wating for Wi-Fi connection". A voice message will confirm that the synchronization has been established successfully. If this does not happen, please repeat once again the process starting at point 1). 
 
-5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". 
+5) Choose the name you want to give to your speaker. You can choose your speaker's name from a list or predefined names but  also have the option of creating the name you want through the "customize" option. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83881d0b19.jpg)
 
-Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
+Once you have selected your speaker's name, press "Done". Your speaker is now ready!
 
-*Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
-
+*Note:* there is an alternative option to establish the connection between your speaker and your private Wi-Fi network. Please take a look at the "How to make your speaker connect to your Wi-Fi network" section.
