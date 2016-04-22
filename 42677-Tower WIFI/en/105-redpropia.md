@@ -8,7 +8,7 @@ The main advantage of this mode is that:
 - You don't need a router.
 
 Limitations:
-- You cannot establish a Multiroom connection. You will only control one speaker in App mode.
+- You cannot establish a Multiroom connection. You will only control one speaker in APP mode.
 - You won't have access to the Internet on the device that you're currently using.
 
 
