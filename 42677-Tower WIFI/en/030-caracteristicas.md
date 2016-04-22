@@ -1,26 +1,27 @@
-## Especificaciones técnicas
+## Technical specifications
 
-- Sistema de sonido 2.1 con potencia real de 60W. (1 x subwoofer de 4"y 30W + 2 x full range de 4" y 10W + 1 x tweeter de 1,5"y 10W).
-- Respuesta en frecuencia: 20Hz-20KHz.
-- Conexión Wi-Fi:
-  - Estándar: 802.11 b/g/n.
-  -	Rango de frecuencia 2.412GHz-2.484GHz.
-  -	Protocolos de seguridad compatibles: WPA-PSK.
-  -	Tipos de cifrado: AES. 
-  -	Sistemas de audio inalámbricos compatibles: Airplay y DLNA.
-- Conexión Bluetooth V.4.0: 
-  - Versión 4.0 + EDR (Enhanced Data Rate).
-  - Clase II. Hasta 10 metros de alcance.
-  - Protocolos Bluetooth®: A2DP ; AVRCP. 
-  - Frecuencia: 2.4GHz banda ISM.
-- Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 64 GB.
-- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 64 GB.
-- 5 modos de ecualización digital predefinidos para los modos USB y SD.
-- Ecualizador analógico de 2 bandas.
-- Caja acústica de madera.
-- Mando a distancia de hasta 10 metros de alcance.
-- Entrada auxiliar de 3,5 mm.
-- Corriente de salida de los puertos USB de carga: 5V 2A  
-- Panel superior retroiluminado y táctil.
-- Display de segmentos LED.
-- Alimentación: 120-240 V / 50-60 Hz.
+- 2.1 sound system with 60 W output power. (1 x 4" subwoofer of 30 W + 2 x 4" full range speakers of 10 W + 1 x 1.5" tweeter of 10 W).
+- Frequency response: 20 Hz-20 Hz.
+- Wi-Fi connection:
+ - Standard: 802.11 b/g/n.
+ - Frequency range: 2412 GHz ~ 2484 GHz.
+ - Supported security protocols: WPA-PSK.
+ - Encryption Standard: AES. 
+ - Compatible wireless audio systems: Airplay and DLNA.
+- Bluetooth 4.0 connection: 
+  - V4.0 + EDR (Enhanced Data Rate).
+ - Class II. Distance range up to 10 m.
+ - Bluetooth profiles®: A2DP ; AVRCP. 
+ - Frequency: 2.4 GHz ISM range
+- SD memory decoder: reads MP3/WAV files from SD flash drives up to 64 GB.
+- USB memory decoder: reads MP3/WAV files from USB flash drives up to 64 GB.
+- 5 preset digital EQ for USB and SD modes.
+- Two-band analogue equalizer.
+- Wooden cabinet speakers.
+- Remote control with up to 10 meters range.
+- 3.5 mm audio input.
+- Output power of USB ports: 5 V 2 A 
+- LED-Backlit touch display.
+- LED segment display.
+- Power supply: 120-240 V / 50-60 Hz.
+
