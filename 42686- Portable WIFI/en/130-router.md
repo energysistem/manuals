@@ -1,20 +1,20 @@
-## Requisitos mínimos del router
+## Minimum router requirements
 
-Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu red privada debe cumplir las siguientes consideraciones:
+In order for the speakers to work via Wi-Fi correctly, the router of your private network must fulfill the following requirements:
 
-- Utilizar la banda Wi-Fi de <b>2.4 GHz</b>. El sistema Multiroom no es compatible con las bandas de Wi-Fi de 5 GHz.
+- For the Wi-Fi, you will need a <b>2.4 GHz</b> band. The Multiroom system is not compatible with 5 GHz Wi-Fi bands.
 
-- Es necesario que la red a la que quiere conectar el altavoz esté encriptada con una clave WAP PSK utilizando AES o bien no utilice clave.
+- It is necessary that the net to which you connect the speaker is encrypted with a WAP PSK key via AES or that it doesn't use a password at all.
 
-- El router ha de soportar el protocolo de comunicación Internet Group Management Protocol (IGMP) para poder establecer comunicación con los altavoces.
+- The router has to support the Internet Group Management Protocol (IGMP) in order to enable the communication with the speakers.
 
-- La red a la que se desee conectar el altavoz ha de difundir el SSID.
+- The net to which you want to connect the speaker has to enable the SSID broadcast.
 
-- Consideraciones de configuraciones avanzadas en el router que pueden dar lugar a error:
-  - Que la realización de asignación de direcciones IP se realice de modo estático.
-  -	Que se esté realizando filtrado de conexiones por direcciones MAC.
-  - Que el router se esté utilizando como Portal de internet. Si para acceder a internet es necesario configurar la clave de acceso a la red desde un explorador de internet, no será posible configurar el altavoz para poder conectarse a este tipo de routers. <br>
+- Considerations related to advanced router settings that can cause problems:
+ - Assign static IP addresses.
+ - Filter the connections by MAC addresses.
+ - The router is being used as a portal. If in order to access the Internet it is necessary to set up a net access code from an Internet browser, it won't be possible to set up the speaker so that it can connect to these type of routers. <br/>
 
-- Los entornos de red con un alto nivel de ruido o un bajo nivel de potencia entre el router y el altavoz puede dar lugar a errores en la configuración. Asegúrese de que la distancia entre su altavoz y el router no sea excesivamente larga y que su canal Wi-Fi no esté saturado.
+- Network environments with high levels of noise or a low performance level between router and speaker can result in mistakes that affect settings. Please verify that the distance between the speaker and the router is not excessively long and that the Wi-Fi channel is not overflowed.
 
 
