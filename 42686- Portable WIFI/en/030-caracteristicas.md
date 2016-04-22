@@ -10,7 +10,7 @@
  - Compatible wireless audio systems: Airplay and DLNA.
 
 - Bluetooth 4.0 connection:
-  - V4.0 + EDR (Enhanced Data Rate).
+ - Version 4.0 + EDR (Enhanced Data Rate).
  - Class II. Distance range up to 10 m. 
  - Bluetooth profiles®: A2DP; AVRCP. 
  - Frequency: 2.4 GHz ISM range.
