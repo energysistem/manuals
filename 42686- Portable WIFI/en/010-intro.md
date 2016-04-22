@@ -1,7 +1,8 @@
-## Introducción
+## Introduction
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Multiroom Tower Wi-Fi.*, deseamos que la disfrutes.
+* Energy Sistem would like to thank you for your trust and for buying this *Energy Multiroom Portable Wi-Fi*. We hope you enjoy it.
 
-* Sistema Wi-Fi que proporciona un sorprendente sonido 2.1 con 60 W de potencia y una infinidad de posibilidades para reproducir tus canciones  favoritas por toda la casa ya sea por Bluetooth, memorias externas o conexión auxiliar.
+* Portable Wi-Fi speaker with 25 W output power to enjoy your favourite songs and control what you hear inside or outside your house through its APP. Share your music across several devices to enjoy endless possibilities.
 
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+* We recommend you to read this manual in order to enjoy your device safely and with maximum performance.
+
