@@ -15,6 +15,6 @@ Sur le menu « Configuration » il y a trois onglets.  Sur l'onglet « État » 
   
 Sur l'onglet « Système » vous trouverez l'option pour changer la langue de cet assistant de configuration.  Pour les conserver, il est nécessaire d'enregistrer les changements en cliquant sur la touche « Enregistrer ».  Il est également possible d'actualiser le firmware du haut-parleur manuellement ou en ligne.  Vous pouvez aussi restaurer les paramètres d'usine pour récupérer les réglages par défaut. 
 
-En ce qui concerne l'onglet « Red », il nous permet de modifier le mot de passe, le type de cryptage et le nom du propre réseau Wi-Fi du haut-parleur. 
+En ce qui concerne l'onglet « Réseau », il nous permet de modifier le mot de passe, le type de cryptage et le nom du propre réseau Wi-Fi du haut-parleur. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a1708e3.jpg)
