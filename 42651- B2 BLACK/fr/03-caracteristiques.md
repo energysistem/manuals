@@ -19,7 +19,7 @@
 * Supporte fichiers A2DP et AVRCP.
 * Haut-parleurs 2.0 avec système de relief acoustique.
 * Puissance de sortie totale (RMS):6 W.
-* Réponse en fréquence: 90 Hz ~ 20 KHz.
+* Réponse en fréquence: 80 Hz ~ 20 KHz.
 * Rapport signal/bruit: >80 dB.
 * Microphone inclut (fonction mains libres).
 * Entrée "Audio-in" de 3.5 mm.
