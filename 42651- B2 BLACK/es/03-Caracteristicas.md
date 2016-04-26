@@ -19,7 +19,7 @@
 *	Potencia RMS: 5 W.
 *	Sensibilidad del micrófono: -42 dB.
 *	Diámetro del altavoz: 40 mm.
-*	Respuesta en frecuencia: 90 - 20.000 Hz.
+*	Respuesta en frecuencia: 80 - 20.000 Hz.
 *	Relación señal/ruido > 80 dB.
 *	THD < 1%.
 
