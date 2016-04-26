@@ -19,7 +19,7 @@
 - Supports A2DP and AVRCP profiles.
 - 2.0 loudspeakers with acoustic enhancement system.
 - Total output power (RMS): 6 W.
-- Frequency response: 90 Hz ~ 20 KHz.
+- Frequency response: 80 Hz ~ 20 KHz.
 - S/N ratio: >80 dB.
 - Built-in microphone (handsfree function).
 - 3.5 mm "Audio-In" port.
