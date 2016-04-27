@@ -29,11 +29,12 @@
 
 ### Rechargeable lithium battery specifications
 
-- Battery type: Li-ion battery 195mAH
-- Battery life in playback mode: 8 hours
-- Battery life in talking mode: 8 hours
-- Battery life in standby mode: 20 hours
-- Battery lifetime: Remain 80% capacity after 300 cycles
-- Charging time:~2 hours
-- USB charging system
+- Battery type: Li-ion battery 195 mAh.
+- Battery life in playback mode: 8 hours*.
+- Battery life in talking mode: 8 hours*.
+- Battery life in standby mode: 20 hours*.
+- Battery lifetime: Remain 80% capacity after 300 cycles.
+- Charging time:~2 hours.
+- USB charging system.
 
+( * ) Approximate battery life. Higher volume means higher battery consumption.
