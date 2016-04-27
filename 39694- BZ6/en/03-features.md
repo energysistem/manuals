@@ -47,8 +47,8 @@
 
 - Nominal capacity: 3600 mAh.
 - Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
-- Autonomy in music player mode: 12 hours.*
-- Autonomy in Bluetooth mode: 10 hours.*
+- Autonomy in radio mode: 15 hours*.
+- Autonomy in music player mode: 12 hours*.
+- Autonomy in Bluetooth mode: 10 hours*.
 <br/><br/>
-**The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+( * )The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
