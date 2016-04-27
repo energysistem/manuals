@@ -34,4 +34,4 @@
 - Autonomy in Line In mode at medium volume: 10 hours*.
 <br/><br/>
 
- *The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+*Approximate battery life. Higher volume means higher battery consumption.
