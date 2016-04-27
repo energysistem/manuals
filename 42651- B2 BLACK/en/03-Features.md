@@ -30,8 +30,8 @@
 
 - Nominal capacity: 800 mAh.
 - Nominal voltage: 3.7V.
-- Autonomy in Bluetooth mode and medium volume: 9 hours.*
-- Autonomy in Line In mode and medium volume: 10 hours.*
+- Autonomy in Bluetooth mode at medium volume: 9 hours.*
+- Autonomy in Line In mode at medium volume: 10 hours.*
 <br/><br/>
 
  * The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
