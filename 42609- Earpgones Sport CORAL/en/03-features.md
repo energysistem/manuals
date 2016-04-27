@@ -30,7 +30,6 @@
 *	USB charging system.
 *	Charging time: 1,5 hours*.
 *	In use battery life: 8 hours*.
+*	Standby battery life: 300 hours*.
 
 ( * ) Approximate battery life. Higher volume means higher battery consumption.
-*	Standby battery life: 300 hours.
-
