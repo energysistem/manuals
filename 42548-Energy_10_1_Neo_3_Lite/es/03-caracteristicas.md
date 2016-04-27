@@ -14,7 +14,7 @@
 * Altavoz integrado 1w.
 * Micrófono omnidireccional integrado.
 * Sensor de movimiento (acelerómetro).
-* Capacidad de batería: 3.7v/5000mAh.
+* Capacidad de batería: 3.7v/6000mAh.
 * Autonomía: hasta 4 horas y media de navegación Wi-Fi.
 * Alimentación mediante adaptador AC 100-240v 50-60Hz DC 5v/2A.
 
