@@ -22,7 +22,9 @@
 * Diaphragm diameter: 40 mm.
 * Speaker impedance: 32 Ohm.
 * Lithium battery 220 mAh.
-* Autonomy: 10 hours.
+* Battery life: 10 hours*.
 * Charge port: Micro USB type B.
 * Microphone sensitivity: -42 dB.
 * Weight: 160 g.
+
+( * ) Approximate battery life. Higher volume means higher battery consumption.
