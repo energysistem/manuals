@@ -35,4 +35,4 @@
 - Autonomy in music player mode: 12 hours*.
 - Autonomy in Bluetooth mode: 10 hours*.
 <br/><br/>
-(*)  Approximate battery life. Higher volume means higher battery consumption.
+( * )  Approximate battery life. Higher volume means higher battery consumption.
