@@ -32,6 +32,6 @@
 * Battery life in radio mode: 10 hours.* 
 
 
-*The battery life is approximated. An increase in the volume will increase the battery consumption.
+( * ) Approximate battery life. Higher volume means higher battery consumption.
 
 </quick_guide>
