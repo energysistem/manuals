@@ -1,5 +1,5 @@
 ## Key Features
-* 910.1" TFT screen 16:9 (1024x600 pixels).
+* 10.1" TFT screen 16:9 (1024x600 pixels).
 * 5 points capacitive multitouch screen.
 * Quad Core ARM Cortex A7 1.3GHz processor 
 * 1GB RAM.
