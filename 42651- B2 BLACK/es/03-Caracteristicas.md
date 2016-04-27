@@ -27,6 +27,8 @@
 *	Capacidad: 800 mAh.
 *	Sistema de carga por USB.
 *	Tiempo de carga: 1,5 horas.
-*	Autonomía aproximada a volumen medio en modo Bluetooth: 9 horas.
-*	Autonomía aproximada a volumen medio en modo Line In: 10 horas.
+*	Autonomía aproximada a volumen medio en modo Bluetooth: 9 horas*.
+*	Autonomía aproximada a volumen medio en modo Line In: 10 horas*.
+
+* *El cálculo de la autonomía es aproximado. Un mayor volumen supone un mayor consumo de la batería.
 
