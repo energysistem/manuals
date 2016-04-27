@@ -1,4 +1,4 @@
-## Connections Audio Input and Output.
+## Connections Audio Input.
 
 ### Audio Input Connection.
 
