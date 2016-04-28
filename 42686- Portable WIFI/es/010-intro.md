@@ -1,4 +1,4 @@
-## Introducción.
+## Introducción
 
 * Energy Sistem te agradece que hayas adquirido esta *Energy Multiroom Portable Wi-Fi.*, deseamos que la disfrutes.
 
