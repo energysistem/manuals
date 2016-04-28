@@ -4,6 +4,6 @@ In order to select different functions, press CHANGE FUNCTION (3). You will be a
 
 In case that you connect a device to any of the USB or SD onputs, the *Energy Multiroom Portable Wi-Fi* will change automatically to that function. If one or all inputs are being used, you will be able to change between all the available functions by pressing the CHANGE FUNCTION (3) button. 
 
-![Schema](http://static.energysistem.com/images/manuals/42686/56efd56f1caa4.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42686/5722312bc58f5.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42686/56efd5750d57b.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42686/5722311dc0f88.jpg)
