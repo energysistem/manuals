@@ -1,4 +1,4 @@
-## Introduction
+## Introduction.
 
 * Energy Sistem would like to thank you for your trust and for buying this *Energy Multiroom Tower Wi-Fi*. We hope you enjoy it.
 
