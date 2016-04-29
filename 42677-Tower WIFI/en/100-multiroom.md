@@ -5,7 +5,7 @@ You can connect several speakers to your private Wi-Fi network and control them 
 
 Once the first speaker's initial settings have been set, select the "+" option and follow the steps described in the "Initial settings" section to connect your second Energy Wi-Fi speaker.
 
-![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
+![](http://static.energysistem.com/images/manuals/42686/57223143bc321.jpg)
 
 Repeat the same steps to connect more speakers. You can connect up to 8 speakers in Multiroom mode.
 
@@ -17,7 +17,7 @@ Control the music on each speaker with this app. Each speaker is represented by 
 
 This Multiroom mode is set by default. Each speaker will play music independently and you can control each of them using the application or interacting directly with the device by touching the top display. You will know that this play mode is active by looking the app since each device will appear in one line within the "List of devices" menu.
 
-![](http://static.energysistem.com/images/manuals/42677/56e8403b2cade.jpg)
+![](http://static.energysistem.com/images/manuals/42686/5722314710239.jpg)
 
 <br/>
 
@@ -25,7 +25,7 @@ This Multiroom mode is set by default. Each speaker will play music independentl
 
 This synchronized Multiroom mode enables to play the same music on all speakers at the same time. In order to define the play mode settings using the app, please go to "List of devices" in the app and press the device that you want to connect to other speaker and then, drag it to another track maintaining contact. Wait a few seconds and you will see that both devices are now synchronized. The synchronized tracks will appear on the app screen. This way, you will create groups comprising a master speaker and the rest of speakers. 
 
-![](http://static.energysistem.com/images/manuals/42677/56e84120006a8.jpg)
+![]http://static.energysistem.com/images/manuals/42686/5722314a600d4.jpg)
 
 You can assign a different channel to each speaker.
 
