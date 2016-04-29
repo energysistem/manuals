@@ -4,6 +4,6 @@ In order to select different functions, press CHANGE FUNCTION (4). You will be a
 
 In case that you connect a device to any of the USB or SD onputs, the *Energy Multiroom Tower Wi-Fi* will change automatically to that function. If one or all inputs are being used, you will be able to change between all the available functions by pressing the CHANGE FUNCTION (4) button.
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/572237fa1eb24.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/572238067dfb7.jpg)
