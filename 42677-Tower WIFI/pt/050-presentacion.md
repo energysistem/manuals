@@ -6,6 +6,6 @@ Cuando conectes algún dispositivo en cualquiera de las entradas USB o SD, el *E
 
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/5722380dedb96.jpg)
 
 
