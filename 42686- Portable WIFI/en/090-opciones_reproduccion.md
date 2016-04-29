@@ -26,14 +26,14 @@ Playback the songs that you have stored on your device. In order to make it easi
 Apart from the above mentioned play options, you can control all other external play modes through the app. However, it is not necessary to use the app to enable the following external inputs:
 
 #### Bluetooth
-Change the play mode by pressing your speaker's CHANGE FUNCTION (3) button and select the Bluetooth mode (the letters "-bt-" will appear on your speaker's screen). Once you have selected this mode, connect to your Energy Multiroom via Bluetooth. You won't need any code to establish the connection.
+Change the play mode by pressing your speaker's MODE (3) button and select the Bluetooth mode (the letters "-bt-" will appear on your speaker's screen). Once you have selected this mode, connect to your Energy Multiroom via Bluetooth. You won't need any code to establish the connection.
 
 This is the perfect option to play video streaming from your device.
 
 #### Removable USB/SD memories
-If you connect an USB or SD external memory to your speaker, it will start the USB/SD mode automatically. You can play MP3 and WAV files that have been saved to your external memories and change the mode by pressing the CHANGE FUNCTION (3) button on your speaker.
+If you connect an USB or SD external memory to your speaker, it will start the USB/SD mode automatically. You can play MP3 and WAV files that have been saved to your external memories and change the mode by pressing the MODE (3) button on your speaker.
 
 #### Line-input
-In your *Energy Multiroom Portable Wi-Fi* you will find an AUDIO LINE INPUT (12) to connect any external device. 3.5 mm mini jack input. All other play modes will be muted when the speaker detects the input signal.
+In your *Energy Multiroom Portable Wi-Fi* you will find an AUDIO LINE CONNECTION (12) to connect any external device. 3.5 mm mini jack input. All other play modes will be muted when the speaker detects the input signal.
 
   *NOTE:* It is not possible to control the playback or the volume from the speaker while you are using it in this mode. In order to control these functions you will have to use the player that you have connected.
