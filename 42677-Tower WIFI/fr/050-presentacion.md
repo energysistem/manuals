@@ -4,6 +4,6 @@ Pour changer la fonction, appuyez sur la touche CHANGEMENT DE FONCTION (4), vous
 
 Lorsque vous connecterez un périphérique à une entrée USB ou SD, l'*Energy Multiroom Tower Wi-Fi* passera à cette fonction de façon automatique.   Si vous êtes en train d'utiliser une ou toutes les entrées, la touche CHANGEMENT DE FONCTION (4) vous permettra de changer parmi toutes les entrées disponibles.
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/572237fe1e998.jpg)
 
-![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42677/5722380a47506.jpg)
