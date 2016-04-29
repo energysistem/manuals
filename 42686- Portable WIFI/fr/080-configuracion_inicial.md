@@ -18,6 +18,6 @@ ____![](http://static.energysistem.com/images/manuals/42686/5722313c2f25f.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42686/572231407c6a0.jpg)
 
-Une fois vous aurez choisi le nom du haut-parleur, appuyez sur « Fait ». Votre haut-parleur est prêt !
+Une fois vous aurez choisi le nom du haut-parleur, appuyez sur « Done ». Votre haut-parleur est prêt !
 
 *Avis :* Il existe une méthode alternative pour connecter votre haut-parleur à votre réseau Wi-Fi privé.  Consultez la rubrique « Comment forcer la connexion du haut-parleur à votre réseau Wi-Fi »
