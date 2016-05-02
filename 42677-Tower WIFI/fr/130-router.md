@@ -13,6 +13,6 @@ Pour un bon fonctionnement des haut-parleurs avec Wi-Fi, le routeur de votre ré
 - Considérations de paramètres avancés du router qui peuvent entraîner des erreurs :
   - Attribution des adresses IP en mode statique. 
  -	Filtrage de connexions par adresses MAC. 
- - Utilisation du router en tant que portail Internet.  Si pour avoir accès à Internet il est nécessaire de configurer le mot de passe du réseau depuis un navigateur Internet, il ne sera pas possible de configurer le haut-parleur pour se connecter à ce genre de routeurs.   <br>
+ - Dans le cas où le router ait accès à Internet.  Si pour avoir accès à Internet il est nécessaire de configurer le mot de passe du réseau depuis un navigateur Internet, il ne sera pas possible de configurer le haut-parleur pour se connecter à ce genre de routeurs.   <br>
 
 - Les environnements réseau avec un niveau de bruit élevé ou une puissance faible entre le routeur et le haut-parleur peuvent entraîner des erreurs au niveau de la configuration.  Vérifiez que la distance entre votre haut-parleur et le routeur ne soit pas trop longue et que votre canal Wi-Fi ne soit pas surchargé. 
