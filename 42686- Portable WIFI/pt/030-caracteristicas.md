@@ -21,7 +21,6 @@
 - Relação S / N: >80 dB.
 - Display LED.
 - Entrada adicional de 3,5 mm.
-
 - Saída de 3.5 mm para auscultadores
 
 - Bateria de lítio recarregável: 
