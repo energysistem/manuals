@@ -5,12 +5,12 @@
 - Ligação Wi-Fi:
  - Standard: 802.11 b/g/n
  - Banda de frequência: 2412 GHz ~ 2484 GHz.
- 	 - Protocolos de segurança suportados: WPA-PSK 
+ - Protocolos de segurança suportados: WPA-PSK 
  - Tipo de encriptação: AES 
  - Sistemas de áudio sem fios compatíveis: Airplay e DLNA.
 
 - Ligação Bluetooth V.4.0:
-  - Versão 4.0 + EDR (Enhanced Data Rate).
+ - Versão 4.0 + EDR (Enhanced Data Rate).
  - Classe II. Raio de alcance até 10 m. 
  - Protocolos Bluetooth®: A2DP; AVRCP. 
  - Frequência: banda ISM de 2,4 GHz.
