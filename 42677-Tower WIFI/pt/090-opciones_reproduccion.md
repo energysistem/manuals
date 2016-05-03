@@ -22,7 +22,7 @@ Se tem uma conta Premium Spotify pode escutar a sua música favorita no altifala
 
 <br/>
 
-###Não precisa utilizar a aplicação Energy Wi-Fi 
+### Sem utilizar a aplicação Energy Wi-Fi 
 Além das opções de reprodução explicadas acima, também pode controlar os outros modos de reprodução externos a partir da aplicação mas não é preciso utilizar a aplicação para activar as seguintes entradas externas disponíveis:
 
 #### Bluetooth
