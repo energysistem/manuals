@@ -13,7 +13,7 @@ Após ter acedido, o menu "Wi-Fi" aparece. Dentro desse menu de configuração a
   
 Dentro do menu "Definições" vai encontrar três separadores. O separador "Estado" contém informações gerais sobre o dispositivo como as propriedades da rede, as versões de firmware ou endereço IP se estiver ligado a uma rede. 
   
-No separador "Sistema" vai encontrar a opção para alterar o idioma do assistente de configuração. Deve salvar as alterações premindo o botão "Save" para deste modo guardá-las permanentemente. Também pode actualizar o firmware do altifalante manualmente ou em linha. Também pode restaurar as definições de origem para retornar à configuração padrão.
+No separador "Sistema" vai encontrar a opção para alterar o idioma do assistente de configuração. Deve salvar as alterações premindo o botão "Guardar" para deste modo guardá-las permanentemente. Também pode actualizar o firmware do altifalante manualmente ou em linha. Também pode restaurar as definições de origem para retornar à configuração padrão.
 
 O separador "Redes" permite alterar a senha, o tipo de encriptação e o nome da rede Wi-Fi criada pelo altifalante.
 
