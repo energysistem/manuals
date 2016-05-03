@@ -1,20 +1,20 @@
-## Requisitos mínimos del router
+## Requisitos mínimos do router
 
-Para un correcto funcionamiento de los altavoces mediante Wi-Fi, el router de tu red privada debe cumplir las siguientes consideraciones:
+Para o correcto funcionamento dos altifalantes via Wi-Fi, o seu router deve cumprir com os seguintes requisitos:
 
-- Utilizar la banda Wi-Fi de <b>2.4 GHz</b>. El sistema Multiroom no es compatible con las bandas de Wi-Fi de 5 GHz.
+- Utilizar a banda de frequência Wi-Fi de <b>2.4 GHz</b>. O sistema Multiroom não é compatível com as bandas de frequência Wi-Fi de 5 GHz.
 
-- Es necesario que la red a la que quiere conectar el altavoz esté encriptada con una clave WAP PSK utilizando AES o bien no utilice clave.
+- É necessário uma rede Wi-Fi encriptada com o método WPA-PSK (AES) ou uma rede não encriptada para ligar o altifalante.
 
-- El router ha de soportar el protocolo de comunicación Internet Group Management Protocol (IGMP) para poder establecer comunicación con los altavoces.
+- O router deve suportar o protocolo de comunicação Internet Group Management Protocol (IGMP) para poder comunicar com os altifalantes.
 
-- La red a la que se desee conectar el altavoz ha de difundir el SSID.
+- A rede à que deseja ligar o altifalante tem de difundir o SSID .
 
-- Consideraciones de configuraciones avanzadas en el router que pueden dar lugar a error:
-  - Que la realización de asignación de direcciones IP se realice de modo estático.
-  -	Que se esté realizando filtrado de conexiones por direcciones MAC.
-  - Que el router se esté utilizando como Portal de internet. Si para acceder a internet es necesario configurar la clave de acceso a la red desde un explorador de internet, no será posible configurar el altavoz para poder conectarse a este tipo de routers. <br>
+- Considerações relativas a definições avançadas no router que podem levar a erros:
+ - A atribuição do endereço IP é realizada estaticamente.
+ - A filtragem de ligações é por endereço MAC.
+ - O router não tem acesso à Internet. Se para aceder à Internet é necessário definir a senha para aceder à rede através do navegador web, não vão poder configurar o altifalante para ligá-lo a este tipo de routers. <br>
 
-- Los entornos de red con un alto nivel de ruido o un bajo nivel de potencia entre el router y el altavoz puede dar lugar a errores en la configuración. Asegúrese de que la distancia entre su altavoz y el router no sea excesivamente larga y que su canal Wi-Fi no esté saturado.
+- Os ambientes de rede com nível de ruído elevado ou potência reduzida entre o router e o altifalante podem causar erros de configuração. Verifique que não há muita distância entre o altifalante e o router e que o seu canal Wi-Fi não está saturado.
 
 
