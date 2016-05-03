@@ -1,6 +1,6 @@
-## Contenido del producto
+## Conteúdo do produto
 
-- Energy Multiroom Tower Wi-Fi.
-- Mando a distancia.
-- Cable de audio (jack de 3,5mm).
+- Energy Multiroom Portable Wi-Fi.
+- Cabo de áudio (jack 3,5 mm).
+
 
