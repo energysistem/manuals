@@ -1,26 +1,26 @@
-## Especificaciones técnicas
+## Especificações técnicas: 
 
-- Sistema de sonido 2.1 con potencia real de 60W. (1 x subwoofer de 4"y 30W + 2 x full range de 4" y 10W + 1 x tweeter de 1,5"y 10W).
-- Respuesta en frecuencia: 20Hz-20KHz.
-- Conexión Wi-Fi:
-  - Estándar: 802.11 b/g/n.
-  -	Rango de frecuencia 2.412GHz-2.484GHz.
-  -	Protocolos de seguridad compatibles: WPA-PSK.
-  -	Tipos de cifrado: AES. 
-  -	Sistemas de audio inalámbricos compatibles: Airplay y DLNA.
-- Conexión Bluetooth V.4.0: 
-  - Versión 4.0 + EDR (Enhanced Data Rate).
-  - Clase II. Hasta 10 metros de alcance.
-  - Protocolos Bluetooth®: A2DP ; AVRCP. 
-  - Frecuencia: 2.4GHz banda ISM.
-- Decodificador SD: reproduce archivos MP3/WAV desde memoria flash SD con capacidad de hasta 64 GB.
-- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 64 GB.
-- 5 modos de ecualización digital predefinidos para los modos USB y SD.
-- Ecualizador analógico de 2 bandas.
-- Caja acústica de madera.
-- Mando a distancia de hasta 10 metros de alcance.
-- Entrada auxiliar de 3,5 mm.
-- Corriente de salida de los puertos USB de carga: 5V 2A  
-- Panel superior retroiluminado y táctil.
-- Display de segmentos LED.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Sistema de som 2.1 de 60 W de potência. (1 x subwoofer de 4"e 30 W + 2 x full range de 4" e 10 W + 1 x tweeter de 1,5" e 10 W).
+- Resposta em frequência: 20 Hz ~ 20 KHz.
+- Ligação Wi-Fi:
+  - Standard: 802.11 b/g/n.
+  - Banda de frequência: 2412 GHz ~ 2484 GHz.
+  - Protocolos de segurança suportados: WPA-PSK.
+  - Tipo de encriptação: AES. 
+  - Sistemas de áudio sem fios compatíveis: Airplay e DLNA.
+- Ligação Bluetooth V.4.0: 
+  - Versão 4.0 + EDR (Enhanced Data Rate).
+  - Classe II. Raio de alcance até 10 m.
+  - Protocolos Bluetooth®: A2DP; AVRCP. 
+  - Frequência: banda ISM de 2.4 GHz.
+- Descodificador SD: reproduz ficheiros MP3/WAV a partir de memórias SD até 64 GB.
+- Descodificador USB: reproduz ficheiros MP3/WAV a partir de memórias USB até 64 GB.
+- 5 modos de equalização digital predefinidos para USB e SD.
+- Equalizador de 2 bandas (analógico).
+- Corpo dos altifalantes em madeira.
+- Controlo remoto com raio de alcance até 10 metros.
+- Entrada adicional de 3,5 mm.
+- Corrente de saída das portas de carregamento USB: 5 V 2 A 
+- Painel de controlo táctil retroiluminado na parte superior.
+- Display LED.
+- Alimentação eléctrica: 120-240 V / 50-60 Hz.
