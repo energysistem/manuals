@@ -35,5 +35,5 @@ Pode atribuir canais diferentes aos altifalantes
 
 A sincronização continua activada até a terminar manualmente. Deste modo se muda o modo de reprodução através do botão "MUDAR FUNÇÃO" (4), por exemplo, para o modo Bluetooth, pode transmitir os conteúdos emitidos através de Bluetooth para todos os altifalantes sincronizados. 
 
- Para voltar para o modo Multiroom Individual só tem que premir no altifalante sincronizado e uma vez seleccionado, arrastá-lo para baixo da linha pontilhada no ecrã. Vai ver que a linha tracejada branca desaparece. Aguarde uns segundos e o processo para finalizar a sincronização inicia-se. 
+ Para voltar para o modo Multiroom Individual só tem que premir no altifalante sincronizado e uma vez seleccionado, arrastá-lo para baixo da linha pontilhada no ecrã. Vai ver que a linha tracejada branca desaparece. Aguarde uns segundos e o processo para finalizar a sincronização termina. 
 
