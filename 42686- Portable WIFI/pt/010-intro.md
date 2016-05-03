@@ -1,7 +1,8 @@
-## Introducción
+## Introdução
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Multiroom Tower Wi-Fi.*, deseamos que la disfrutes.
+* Energy Sistem agradace a aquisição do novo *Energy Multiroom Portable Wi-Fi*. Desejamos-lhe muita diversão com o produto.
 
-* Sistema Wi-Fi que proporciona un sorprendente sonido 2.1 con 60 W de potencia y una infinidad de posibilidades para reproducir tus canciones  favoritas por toda la casa ya sea por Bluetooth, memorias externas o conexión auxiliar.
+* Com este altifalante portátil Wi-Fi de 25 W de potência pode desfrutar da sua música favorita e controlar o que está a escutar dentro ou fora da sua casa a partir da APP. Desfrute da sua música em mais de um dispositivo e descubra possibilidades ilimitadas.
 
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+* Aconselhamos ler o presente manual para tirar o máximo partido do produto com segurança e aproveitando todas as suas prestações.
+
