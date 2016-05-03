@@ -1,24 +1,25 @@
-## Configuración inicial
+## Definições iniciais
 
-Sigue los siguientes pasos para configurar tu altavoz:
+Siga estes passos para configurar o seu altifalante:
 
-1) Enciende tu altavoz Wi-Fi y espera unos 15 segundos. Un aviso acústico te indicará que el altavoz está listo para ser usado en modo APP.
+1) Ligue o seu altifalante Wi-Fi e aguarde 15 segundos. Um sinal sonoro vai indicar que o altifalante está pronto para ser utilizado no modo APP.
 
-2) Inicia la aplicación y selecciona la opción "Añadir altavoz". Asegurate de estar conectado a tu red Wi-Fi privada.
+2) Inicie a aplicação e seleccione a opção "Adicionar altifalante". Verifique que o dispositivo está ligado a sua rede Wi-Fi privada.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8357bd5bac.jpg)
 
-3) Introduce la contraseña de acceso de tu red Wi-Fi privada a la que estás conectado y pulsa "siguiente".
+3) Digite a senha para aceder a sua rede Wi-Fi activa e prima "Next".
 
 ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 
-4) Mantén pulsado el botón SINCRONIZACIÓN Wi-Fi (4) de tu altavoz hasta escuchar "Esperando conexión Wifi". Un mensaje de voz confirmará que la sincronización se ha realizado correctamente. En caso contrario, vuelve a realizar el proceso desde el punto 1). 
+4) Mantenha premido o botão SINCRONIZAR Wi-Fi (4) no seu altifalante até escutar "Waiting for Wi-Fi connection". Uma mensagem de voz irá confirmar que a sincronização foi estabelecida com sucesso. Caso contrário, deve repetir o processo a partir do passo 1). 
 
-5) Pon el nombre que deseas a tu altavoz. Tienes una lista de nombres predefinidos pero si lo deseas puedes poner el nombre que desees seleccionando la opción "personalizar". 
+5) Digite o nome que desejar para nomear o seu altifalante. Pode escolher o nome da lista predefinida ou criar o nome que desejar através da opção "Custom". 
 
 ![](http://static.energysistem.com/images/manuals/42677/56e83881d0b19.jpg)
 
-Una vez seleccionado el nombre del altavoz, pulsa "Hecho". Tu altavoz ya está listo!
+Uma vez tem seleccionado o nome para o seu altifalante, só tem que premir "Done". Agora o seu altifalante está pronto para ser utilizado!
 
-*Nota:* Existe otro método alternativo para realizar la conexión entre tu altavoz y la tu red Wi-Fi privada. Consulta la sección "Como forzar la conexión del altavoz a tu red Wi-Fi".
+*Nota:* Há outra possibilidade para estabelecer a ligação entre o seu altifalante e a sua rede Wi-Fi privada. Consulte a secção "Forçar a ligação entre o altifalante e a rede Wi-Fi".
+
 
