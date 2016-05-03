@@ -21,12 +21,13 @@
 - Relação S / N: >80 dB.
 - Display LED.
 - Entrada adicional de 3,5 mm.
+
 - Saída de 3.5 mm para auscultadores
 
 - Bateria de lítio recarregável: 
  - Capacidade: 2050 mAh.
-- Voltagem nominal: 7,4 V.
+ - Voltagem nominal: 7,4 V.
  - Autonomia aproximada: 4 horas.
-  - Conector de carregamento microUSB.
+ - Conector de carregamento microUSB.
 
 
