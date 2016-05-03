@@ -1,5 +1,6 @@
-## Encendido y apagado
+## Ligar e desligar
 
-Una vez enchufada a la toma de corriente, enciende tu *Energy Multiroom Tower Wifi* poniendo el INTERRUPTOR ENCENDIDO-APAGADO (16) de la parte posterior de la torre en "ON". A partir de entonces, podrás encenderla y apagarla desde el botón INICIAR/PAUSAR (8) del panel superior,manteniendolo pulsado durante 2 segundos, o con el botón del mando a distancia de ENCENDIDO-APAGADO (23).
+Uma vez tem a sua *Energy Multiroom Tower Wi-Fi* ligada à tomada de corrente, deslize o INTERRUPTOR PARA LIGAR-DESLIGAR (16) na parte posterior da torre para a posição "ON". A partir desse momento, vai poder ligar e desligar a torre se premir o botão INICIAR/PARAR (8) durante 2 segundos ou o botão de LIGAR-DESLIGAR (23) no telecomando.
 
-Te recomendamos que cuando no vayas a utilizar la torre durante un periodo largo de tiempo, además de apagar la torre desde el panel superior, pongas el INTERRUPTOR ENCENDIDO-APAGADO (16)  en la posición "OFF".
+Aconselhamos desligar a coluna de som através do painel superior e também deslizar o INTERRUPTOR PARA LIGAR-DESLIGAR (16) para a posição "OFF" se não vai utilizar a torre durante muito tempo.
+
