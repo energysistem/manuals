@@ -12,7 +12,7 @@ No menu principal da aplicação vai encontrar 4 categorias:
 Através desta opção pode aceder as canções favoritas armazenadas previamente. A lista tem sido criada para adicionar ou apagar canções de modo rápido e simples. 
 
 #### My music
-Reprodução das canções guardadas no seu dispositivo. As canções aparecem organizadas por álbum e artista para que tudo seja mais simples. Além disso, vai poder criar as suas próprias listas de reprodução e aceder às últimas canções que tem escutado. Caso de ter um USB ou SD ligado ao altifalante também vai poder aceder aos dados das memórias externas e escohler a canção que quer ouvir. Se aceder à informação adicional de uma canção, tem a possibilidade de adicioná-la a Favoritas, à lista de reprodução ativa ou ver outras informações adicionais da canção.
+Reprodução das canções guardadas no seu dispositivo. As canções aparecem organizadas por álbum e artista para que tudo seja mais simples. Além disso, vai poder criar as suas próprias listas de reprodução e aceder às últimas canções que tem escutado. Caso de ter um USB ou SD ligado ao altifalante também vai poder aceder aos dados das memórias externas e escolher a canção que quer ouvir. Se aceder à informação adicional de uma canção, tem a possibilidade de adicioná-la a Favoritas, à lista de reprodução ativa ou ver outras informações adicionais da canção.
 
 #### TuneIn
 Utilize esta opção para desfrutar de uma grande variedade de emissoras de rádio em linha. Pode escutar músicas de todo o mundo assim como os programas desportivos que mais gosta. 
