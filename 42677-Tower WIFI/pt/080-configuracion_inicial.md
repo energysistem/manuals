@@ -4,7 +4,7 @@ Siga estes passos para configurar o seu altifalante:
 
 1) Ligue o seu altifalante Wi-Fi e aguarde 15 segundos. Um sinal sonoro vai indicar que o altifalante está pronto para ser utilizado no modo APP.
 
-2) Inicie a aplicação e seleccione a opção "Adicionar altifalante". Verifique que o dispositivo está ligado a sua rede Wi-Fi privada.
+2) Inicie a aplicação e seleccione a opção "Add speaker". Verifique que o dispositivo está ligado a sua rede Wi-Fi privada.
 
 ![](http://static.energysistem.com/images/manuals/42677/56e8357bd5bac.jpg)
 
