@@ -15,7 +15,7 @@ This option will enable you to access the songs that you like most and that have
 Playback the songs that you have stored on your device. In order to make it easier, songs are sorted out into Albums and Artists. Furthermore, you will be able to create your own playlists and access the last played tracks. In case that one USB stick or SD card is connected to your speaker, you will also have the possibility of accessing these external memories and select the song you want to hear. If you access the additional information of a certain music track, you will be able to add this song to favourites or to the current playlist as well as take a look at the additional information.
 
 #### TuneIn
- Use this option to enjoy a wide selection of streaming radio stations. You will be able to listen to all types of music from all over the world as well as your favourite sport programmes.  
+ Use this option to enjoy a wide selection of online radio stations. You will be able to listen to all types of music from all over the world as well as your favourite sport programmes.  
 
 #### Spotify
  If you have a Spotify Premium account, you can also listen to your favourite music on your Energy Multiroom speaker with this option. This option is available on the app's main menu. 
@@ -28,7 +28,7 @@ Apart from the above mentioned play options, you can control all other external 
 #### Bluetooth
 Change the play mode by pressing your speaker's MODE (4) button and select the Bluetooth mode (the letters "-bt-" will appear on your speaker's screen). Once you have selected this mode, connect to your Energy Multiroom via Bluetooth. You won't need any code to establish the connection.
 
-This is the perfect option to play video streaming from your device.
+This is the perfect option to play online videos from your device.
 
 #### Removable USB/SD memories
 If you connect an USB or SD external memory to your speaker, it will start the USB/SD mode automatically. You can play MP3 and WAV files that have been saved to your external memories and change the mode by pressing the MODE (4) button on your speaker.
