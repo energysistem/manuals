@@ -1,6 +1,6 @@
 ## Assistente da configuração Wi-Fi
 
-A sua *Energy Multiroom Tower Wi-Fi* tem um assistente de configuração para definir os parâmetros do módulo Wi-Fi no seu altifalante.
+A sua *Energy Multiroom Tower Wi-Fi* tem um assistente de configuração para definir os parâmetros do módulo Wi-Fi do seu altifalante.
 Há dois métodos para iniciar o assistente: 
 
 1. O primeiro método consiste em ligar á rede criada pela própia Tower. Para saber como ligar á rede, consulte a secção "Ligar dispositivos à rede do próprio altifalante" deste manual e aceda ao endereço IP <b>10.10.10.254</b> através do navegador web.
