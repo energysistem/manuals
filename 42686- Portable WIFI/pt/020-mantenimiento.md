@@ -1,11 +1,10 @@
-## Cuidado y Mantenimiento
+## Cuidado e manutenção
 
-* No expongas tu *Energy Multiroom Tower Wi-Fi* a humedad o altas temperaturas.
+* Evite que o seu *Energy Multiroom Portable Wi-Fi* entre em contacto com altas temperaturas e humidade. 
 
-* No presiones las membranas de los altavoces.
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Não desmonte o dispositivo. Qualquer reparação deve ser efectuada apenas por pessoal qualificado de Energy Sistem Technology, S.A.
 
-* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology S.A.
+* Segure-se que o seu *Energy Multiroom Portable Wi-Fi* está desligado se não está a utilizá-lo.
 
-* Asegúrate de mantener tu *Energy Multiroom Tower Wi-Fi* apagado cuando no esté en uso.
