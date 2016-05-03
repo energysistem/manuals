@@ -1,11 +1,11 @@
-## Carga de dispositivos
+## Carregar os dispositivos
 
-Tu  *Energy Multiroom Tower Wi-Fi* dispone de dos PUERTOS USB DE CARGA (12) en los cuales puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+A sua *Energy Multiroom Tower Wi-Fi* tem DUAS PORTAS DE CARREGAMENTO USB (12) para ligar cabos USB e carregar outros dispositivos como smartphones, tablets ou MP3, mesmo se estiver a utilizá-lo como leitor de música.
 
-Especificaciones de los PUERTOS USB DE CARGA: <br>
+Especificações técnicas das PORTAS DE CARREGAMENTO USB: <br>
 
-- Tensión = 5V 
-- Intensidad = 2A
+- Tensão = 5V 
+- Intensidade = 2A
 
-Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
+Qualquer dispositivo que precise mais de 5V de tensão não pode ser carregado.
 
