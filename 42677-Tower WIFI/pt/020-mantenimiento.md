@@ -8,5 +8,5 @@
 
 * Não desmonte o dispositivo. Qualquer reparação deve ser efectuada apenas por pessoal qualificado de Energy Sistem Technology, S.A.
 
-* Segure-se que o seu *Energy Multiroom Tower Wi-Fi* está desligada se não está a utilizá-la.
+* Segure-se que a sua *Energy Multiroom Tower Wi-Fi* está desligada se não está a utilizá-la.
 
