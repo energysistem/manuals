@@ -15,7 +15,7 @@ This option will enable you to access the songs that you like most and that have
 Playback the songs that you have stored on your device. In order to make it easier, songs are sorted out into Albums and Artists. Furthermore, you will be able to create your own playlists and access the last played tracks. In case that one USB stick or SD card is connected to your speaker, you will also have the possibility of accessing these external memories and select the song you want to hear. If you access the additional information of a certain music track, you will be able to add this song to favourites or to the current playlist as well as take a look at the additional information.
 
 #### TuneIn
- Use this option to enjoy a wide selection of streaming radio stations. You will be able to listen to all types of music from all over the world as well as your favourite sport programmes.  
+ Use this option to enjoy a wide selection of online radio stations. You will be able to listen to all types of music from all over the world as well as your favourite sport programmes.  
 
 #### Spotify
  If you have a Spotify Premium account, you can also listen to your favourite music on your Energy Multiroom speaker with this option. This option is available on the app's main menu. 
