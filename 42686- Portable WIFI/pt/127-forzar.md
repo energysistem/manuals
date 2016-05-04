@@ -1,17 +1,18 @@
-## Como forzar la conexión del altavoz a tu red Wi-Fi
+## Forçar a ligação entre o altifalante e a rede Wi-Fi
 
-Puedes realizar la conexión de dos manera alternativas a la descrita en el apartado anterior "Configuración inicial".
+Pode ligar os dispositivos de duas maneiras alternativas ao método descrito na secção "Definições iniciais".
 
-La primera forma es conectándote a la propia red que emite el altavoz, más información en la sección "Como conectarse a la red propia de tu altavoz". Una vez conectado se ha de acceder al asistente de configuración del dispositivo y forzar la conexión del altavoz a una red concreta como se explica en la sección "Asistente de configuración del módulo Wi-Fi".
+A primeira maneira é ligar o dispositivo à rede do próprio altifalante. Para mais informações, consulte a secção "Ligar dispositivos à rede do próprio altifalante". Uma vez ligado o dispositivo, aceda ao assistente de instalação do mesmo e force a ligação do altifalante à rede específica conforme é explicado na secção "Assistente da configuração Wi-Fi".
 
-La segunda forma ser realiza a través de la aplicación y sólo es posible en un dispositivo Android. Una vez que hayas realizado el proceso de conexión del dispositivo y este haya dado lugar a error podrás acceder a la ventana donde se muestran los pasos a seguir para configurar la red Wi-Fi y volver a intentar la búsqueda. Pulsa la opción "Configuración manual de la red".
+A segunda maneira é através da aplicação só é possível em um dispositivo Android. Se após de seguir os passos para ligar o dispositivo, o processo não tem finalizado com sucesso, pode aceder à janela dos passos para configurar a rede Wi-Fi e repetir a pesquisa. Escolha a opção "Ligar manualmente a uma rede sem fios".
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd56037e20.jpg)
 
-En este punto hay que dejar la aplicación en segundo plano (sin cerrarla) y acceder a la configuración del Wi-Fi de tu dispositivo. Para seguir debes conectarte a la red propia del altavoz, consultar la sección "Como conectarse a la red propia de tu altavoz" para más información. Tras conectarte, maximiza de nuevo a la aplicación donde volverá a estar en el mismo punto donde lo dejaste, pero habrá una opción arriba a la derecha que anteriormente estaba oculta. 
+Nesse momento tem que deixar em segundo plano a aplicação (não fechá-la) e aceder a configuração Wi-Fi do seu dispositivo. Ligue a seguir o dispositivo à rede Wi-Fi do próprio altifalante. Para mais informações, consulte a secção "Ligar dispositivos à rede do próprio altifalante". Após ter estabelecido a ligação, maximize a janela da aplicação de novo para voltar à visualização anterior. Agora a opção "Next" vai aparecer no canto superior direito. 
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49756331.jpg)
 
-Pulsando sobre este botón accederás a un menú donde se muestran todas la redes accesibles desde el altavoz. Seleccionando la que desees, y configurándola si es necesario, de esta manera habrás forzado la conexión del altavoz a tu red privada. .
+Ao premir esse botão vai aceder ao menu com todas as redes acessíveis a partir do altifalante. Seleccione a que desejar e configure a rede se for necessário. Deste modo força a ligação do altifalante à sua rede privada.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd49336cac.jpg)
+
