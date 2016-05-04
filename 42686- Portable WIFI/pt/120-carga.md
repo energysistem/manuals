@@ -1,11 +1,5 @@
-## Carga de dispositivos
+## Carregar outros dispositivos
 
-Tu  *Energy Multiroom Tower Wi-Fi* dispone de dos PUERTOS USB DE CARGA (12) en los cuales puedes conectar un cable USB para cargar otro dispositivo como un smartphone, un tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+Se o altifalante não emite som ou o ícone da bateria começa a piscar, tem que carregar a bateria. Ligue para isso a extremidade micro USB do cabo USB (fornecido) à PORTA DE CARREGAMENTO (9) e a outra extremidade a qualquer outro dispositivo com porta USB que possa fornecer energia (PC, carregador USB de parede ou de carro, etc). O LED (8) torna vermelho e desliga quando a bateria está carregada.
 
-Especificaciones de los PUERTOS USB DE CARGA: <br>
-
-- Tensión = 5V 
-- Intensidad = 2A
-
-Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
-
+**Nota:** Recomendamos carregar a bateria com o dispositivo desligado. Não é recomendável armazenar o dispositivo com a bateria descarregada ou não utilizá-lo durante longos períodos de tempo.
