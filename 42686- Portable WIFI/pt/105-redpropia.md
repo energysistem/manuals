@@ -1,15 +1,17 @@
-## Como conectarte a la red propia del altavoz
+## Ligar dispositivos à rede do próprio altifalante
 
-La familia de altavoces *Energy Multiroom* generan una red Wi-Fi propia para poder interactuar con el resto de dispositivos de la misma familia de productos. Estas redes son fácilmente identificables ya que en su nombre por defecto tiene una estructura del tipo "Energy Multiroom_XXXX" donde XXXX es un indicador único de cada dispositivo. Por supuesto el nombre de esta red es configurable accediendo asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi".
+Os altifalantes *Energy Multiroom* formam uma rede Wi-Fi própria para poder partilhar dados com os outros dispositivos da mesma categoria. As redes podem ser identificadas facilmente porque os nomes de rede predefinidos têm a seguinte estrutura: "Energy Multiroom_XXXX ". O XXXX é o identificativo único de cada um dos dispositivos. Pode definir o nome da rede através do assistente de instalação do dispositivo. Para mais informações, consulte a secção "Assistente da configuração Wi-Fi".
 
-Puedes conectarte directamente a la red Wi-Fi que genera tu altavoz. Por defecto, esta red viene encriptada y utiliza una contraseña del tipo WAP-PSK (AES). La contraseña por defecto es *0123456789*. Te recomendamos que modifique esta contraseña y utilices una que puedas recordar con facilidad. Esto podrá hacerlo desde la aplicación, en el menú información del dispositivo,  o desde el asistente de configuración del dispositivo, más información en la sección "Asistente de configuración del módulo Wi-Fi". 
+Pode ligar directamente à ligação Wi-Fi criada pelo altifalante. A ligação está encriptada e utiliza uma senha WAP-PSK (AES). A senha padrão é *0123456789*. É recomendável alterar a senha padrão e utilizar uma palavra-passe que possa lembrar facilmente. Pode fazer isso através do menu "Informações" da aplicação ou através do assistente de configuração do dispositivo. Para mais informações, consulte a secção "Assistente de configuração Wi-Fi". 
 
-Principal ventaja de este modo de conexión: 
-- Puedes prescindir del router.
+A principal vantagem deste tipo de ligação é que: 
+- Não precisa de router.
 
-Limitaciones:
-- No podrás realizar una conexión Multiroom, sólo podrás manejar un 1 altavoz en modo APP.
-- No tendrás acceso a Internet con el dispositivo que estés usando. 
+Limitações :
+- Não vai poder estabelecer uma ligação Multiroom. Só pode gerir um altifalante no modo APP.
+- Não vai poder aceder à Internet no dispositivo que está a utilizar nesse momento.
+
+
 
 
 
