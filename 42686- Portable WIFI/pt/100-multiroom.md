@@ -5,7 +5,7 @@ Pode ligar vários altifalantes à sua rede Wi-Fi privada e controlá-los atrav�
 
 Uma vez estabelecidas as definições iniciais do primeiro altifalante, prima a opção "+" e siga os mesmos passos para adicionar e ligar o segundo altifalante Wi-Fi.
 
-![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg))
+![](http://static.energysistem.com/images/manuals/42677/56e83f46d2bdb.jpg)
 
 Siga os mesmos passos para adicionar e ligar os outros altifalantes. Pode ligar até um máximo de 8 altifalantes no modo Multiroom.
 
