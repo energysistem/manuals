@@ -1,20 +1,21 @@
-## Asistente de configuración del módulo Wi-Fi
+## Assistente da configuração Wi-Fi
 
-Tu *Energy Multiroom Tower Wi-Fi* posee un asistente de configuración para ajustar los parámetros del módulo Wi-Fi del altavoz.
-Para acceder a dicho asistente existen dos métodos: 
+O seu *Energy Multiroom Portable Wi-Fi* tem um assistente de configuração para definir os parâmetros do módulo Wi-Fi no seu altifalante.
+Há dois métodos para iniciar o assistente: 
 
-1. El primero es conectándote a la red que genera la propia Tower, para saber cómo conectarse a esta red consultar la sección "Como conectarte a la red propia del altavoz" de este manual,  y con un explorador de internet accede a la dirección IP <b>10.10.10.254.</b> 
+1. O primeiro método consiste em ligar á rede criada pelo própio altifalante. Para saber como ligar á rede, consulte a secção "Ligar dispositivos à rede do próprio altifalante" deste manual e aceda ao endereço IP <b>10.10.10.254</b> através do navegador web.
 
-2. El segundo método es que desde un dispositivo conectado a la misma red que el altavoz accedas con un explorador de internet a la dirección IP del altavoz , puedes encontrar esta dirección IP en la opción "Info del altavoz" del menu de configurarción de la aplicación.
+2. O segundo método consiste em aceder ao endereço IP do altifalante em um dos dispositivos ligados à mesma rede que o altifalante. Pode encontrar o endereço IP na opção "Speaker info" do menu definições da aplicação.
 
-Una vez que hayas accedido, se mostrará el menú "WiFi". Dentro de este menú de configuración te aparecerá la información de la conexión del altavoz. Arriba te mostrará el nombre de la red a la que estás conectado, mientras que abajo te saldrá una lista de todas las redes disponibles para conectarse. Pinchando sobre cualquiera de las redes de la lista se cambiará la red Wi-Fi a la que está conectado el altavoz.
+Após ter acedido, o menu "Wi-Fi" aparece. Dentro desse menu de configuração aparece a informação da ligação do altifalante. Na parte superior irá mostrar-se o nome da rede à qual está ligado e na parte inferior vai aparecer a lista de todas as ligações disponíveis. Se clicar em qualquer das redes da lista de ligações Wi-Fi, a ligação Wi-Fi a que está ligado o altifalante mudará para essa rede.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a5124ee.jpg)
   
-Dentro del menú de "Configuración" encontramos tres pestañas. La pestaña de "Estado" contiene la información general del dispositivo, como sus identificativos, la versiones del firmware o la dirección IP si estamos conectados a alguna red. 
+Dentro do menu "Definições" vai encontrar três separadores. O separador "Estado" contém informações gerais sobre o dispositivo como as propriedades da rede, as versões de firmware ou o endereço IP se estiver ligado a uma rede. 
   
-En la pestaña "Sistema" encontrarás la opción cambiar el idioma de este asistente de configuración. Es necesario guardar las modificaciones pulsando el botón "Guardar" para conservarlas. También es posible actualizar el firmware del altavoz manualmente o en línea. También puedes restablecer los valores de fábrica para volver a la configuración por defecto.
+No separador "Sistema" vai encontrar a opção para alterar o idioma do assistente de configuração. Deve salvar as alterações premindo o botão "Guardar" para deste modo, guardá-las permanentemente. Também pode actualizar o firmware do altifalante manualmente ou em linha. Também pode restaurar as definições de origem para retornar à configuração padrão.
 
-En cuanto a la pestaña "Red", nos permite cambiar la contraseña, el tipo de cifrado y el nombre de la red Wi-Fi propia del altavoz.
+O separador "Redes" permite alterar a senha, o tipo de encriptação e o nome da rede Wi-Fi criada pelo altifalante.
 
 ![](http://static.energysistem.com/images/manuals/42677/56ebd4a1708e3.jpg)
+
