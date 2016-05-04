@@ -28,7 +28,7 @@ Apart from the above mentioned play options, you can control all other external 
 #### Bluetooth
 Change the play mode by pressing your speaker's MODE (3) button and select the Bluetooth mode (the letters "-bt-" will appear on your speaker's screen). Once you have selected this mode, connect to your Energy Multiroom via Bluetooth. You won't need any code to establish the connection.
 
-This is the perfect option to play video streaming from your device.
+This is the perfect option to play online videos from your device.
 
 #### Removable USB/SD memories
 If you connect an USB or SD external memory to your speaker, it will start the USB/SD mode automatically. You can play MP3 and WAV files that have been saved to your external memories and change the mode by pressing the MODE (3) button on your speaker.
