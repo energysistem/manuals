@@ -21,8 +21,3 @@ ____![](http://static.energysistem.com/images/manuals/42677/56e837d92cb37.jpg)
 Uma vez tem seleccionado o nome para o seu altifalante, só tem que premir "Done". Agora o seu altifalante está pronto para ser utilizado!
 
 *Nota:* Há outra possibilidade para estabelecer a ligação entre o seu altifalante e a sua rede Wi-Fi privada. Consulte a secção "Forçar a ligação entre o altifalante e a rede Wi-Fi".
-
-## Opções de reprodução
-Após ter configurado o dispositivo, tem disponíveis as seguintes opções para reproduzir a sua música favorita:
-
-<br/>
