@@ -2,7 +2,7 @@
 
 Para o correcto funcionamento dos altifalantes via Wi-Fi, o seu router deve cumprir com os seguintes requisitos:
 
-- Utilizar a banda de frequência Wi-Fi de <b>2.4 GHz</b>. O sistema Multiroom não é compatível com as bandas de frequência Wi-Fi de 5 GHz.
+- Utilizar a banda de frequência Wi-Fi de <b>2,4 GHz</b>. O sistema Multiroom não é compatível com as bandas de frequência Wi-Fi de 5 GHz.
 
 - É necessário uma rede Wi-Fi encriptada com o método WPA-PSK (AES) ou uma rede não encriptada para ligar o altifalante.
 
