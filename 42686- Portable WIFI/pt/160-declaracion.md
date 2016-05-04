@@ -10,6 +10,7 @@ Declaramos sob a nossa exclusiva responsabilidade que o produto:
 >**Energy Multiroom Portable Wi-Fi**
 
 _**Pais de fabricação:**_ China<br>
+
 Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 99/05/CE do Parlamento Europeu e do Conselho de 9 de Março de 1999.
 
 |  |  |
