@@ -20,7 +20,7 @@
 ### Technical features
 
 - Bidirectional Bluetooth®
-- Version 2.1 with EDR.
+- Version 4.0.
 - Compatibility with A2DP y AVRCP.
 - Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
 - Play MP3 files from micro SDHC up to 32GB.
