@@ -20,7 +20,7 @@
 ### Caractéristiques techniques
 
 - Bluetooth® à double sens.
-- Version 2.1 avec EDR.
+- Version 4.0.
 - Supporte fichiers A2DP et AVRCP.
 - Simple synchronisation avec des tablettes, Smartphones, Portátiles, MAC, PC et d'autres appareils Bluetooth®.
 - Lit fichiers MP3 depuis des cartes micro SDHC avec une capacité jusqu'à 32 Go.
