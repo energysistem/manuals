@@ -1,6 +1,6 @@
 ## Conditions de garantie
 
-Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien. La batterie au lithium du produit, dont la période de garantie est de 12 mois, est exclue.
+Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut existant au moment de la réception du bien. La batterie au lithium du produit est exclue de la garantie de 36 mois, avec une période de garantie de 24 mois.
 
 La garantie offerte par Energy Sistem couvre les défauts de matière ou de fabrication.
 
