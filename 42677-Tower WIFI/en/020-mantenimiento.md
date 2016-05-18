@@ -8,4 +8,4 @@
 
 * Please do not dismantle the device. All repairs should be done exclusively by qualified staff of Energy Sistem Technology, S.A. 
 
-* Please make sure that your *Energy Multiroom Tower Wi-Fi* is off if you are not using it.
+* Please make sure that your *Energy Multiroom Tower Wi-Fi* is off if you are not using it. 
