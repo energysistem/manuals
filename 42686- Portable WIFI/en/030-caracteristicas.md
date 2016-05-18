@@ -24,7 +24,7 @@
 - 3.5 mm output for headphones.
 
 - Rechargeable lithium battery: 
- - Nominal capacity: 2050 mAh.
+ - Nominal capacity: 2,050 mAh.
  - Nominal voltage: 7.4 V.
  - Approximate battery life: 4 hours.
   - MicroUSB charging port.
