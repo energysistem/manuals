@@ -4,7 +4,7 @@
 - Frequency response: 20 Hz-20 Hz.
 - Wi-Fi connection:
  - Standard: 802.11 b/g/n.
- - Frequency range: 2412 GHz ~ 2484 GHz.
+ - Frequency range: 2,412 GHz ~ 2,484 GHz.
  - Supported security protocols: WPA-PSK.
  - Encryption Standard: AES. 
  - Compatible wireless audio systems: Airplay and DLNA.
