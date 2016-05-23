@@ -6,7 +6,7 @@
 * Compatibilidade total com smartphones e tablets iOS, Android™, Windows Mobile, BlackBerry, etc.
 * Liberdade de som: Escuta e compartilha tua música em qualquer lugar, sem cabos.
 * Altifalantes com sistema de melhora acústica: Som claro e graves reforçados.
-* Potência de saída total (RMS): 6 W.
+* Potência de saída total: 6 W.
 * Desenho compacto e portátil, lhe permitirá levar-lho contigo facilmente em todo lugar e amplificar sua música.
 * Entrada "Audio-In" de 3.5 mm: para escutar música com qualquer leitor portátil ou computador.
 * Função mãos livres Bluetooth®.
@@ -19,7 +19,7 @@
 * Suporta arquivos A2DP e AVRCP.
 * Fácil sincronização com tablets, Smartphones, Portáteis, MAC, PC, PS3  qualquer outro dispositivo Bluetooth®.
 * Alto-falantes 2.0 com sistema de melhora acústica.
-* Potência de saída total (RMS):6 W.
+* Potência de saída total :6 W.
 Resposta em frequência: 80 Hz ~ 20 KHz.
 Rácio sinal/ruído: >80 dB.
 * Microfone integrado (função mãos livres).
