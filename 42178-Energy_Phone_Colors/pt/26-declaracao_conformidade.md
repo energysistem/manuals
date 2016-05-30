@@ -32,7 +32,7 @@ ETSI EN 301 511 V 9.0.2 (2003-03)
 
 Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/ EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
-Finestrat, 01 de enero de 2015.
+Finestrat, 01 Janeiro 2015.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 Daniel Havillio
