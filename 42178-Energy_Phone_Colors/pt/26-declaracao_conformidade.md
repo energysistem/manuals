@@ -2,7 +2,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/54984c7857106.jpg)
 
-Declarante: Energy Sistem Technology S.A. - NIF: A53107488
+Declarante: Energy Sistem Technology S.A. - CIF: A53107488
 Endereço: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
 Tel: 902 388 388  / + 34 966 813 257
 
@@ -12,7 +12,7 @@ Descrição: Smartphone
 Marca: Energy Sistem
 Modelo: Energy™ Phone Colors
 Fabricante: Energy Sistem Technology S.A.
-País de fabricação: Chine
+País de fabricação: China
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 

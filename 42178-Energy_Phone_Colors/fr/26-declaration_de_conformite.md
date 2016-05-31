@@ -2,7 +2,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/54984c7857106.jpg)
 
-Nom du déclarant: Energy Sistem Technology S.A. - NIF: A53107488
+Nom du déclarant: Energy Sistem Technology S.A. - CIF: A53107488
 Adresse: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
 Tel: 902 388 388  / + 34 966 813 257
 

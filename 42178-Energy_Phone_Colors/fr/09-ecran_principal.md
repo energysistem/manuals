@@ -1,4 +1,4 @@
-## ÉCRAN PRINCIPAL
+## Écran principal
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/54e232d7082e7.jpg)
 
