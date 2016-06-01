@@ -10,7 +10,7 @@ We declare under our own exclusive responsibility that the product
 
 Description: Smartphone
 Brand: Energy Sistem
-Model: Energy™ Phone Colors
+Model: Energy#trade# Phone Colors
 Manufacturer: Energy Sistem Technology S.A.
 Manufacturing country:China
 
