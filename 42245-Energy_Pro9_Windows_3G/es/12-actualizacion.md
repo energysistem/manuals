@@ -9,3 +9,14 @@ Tambien puedes reinstalar la configuración de fábrica del sistema operativo. S
 3. Realiza la busqueda de "Recovery" y entra en él.
 4. Elije la opción que deseas y sigue las instrucciones para restaurar tu sistema
 
+##Actualización a Windows 10
+
+Nosotros recomendamos que instales todas las actualizaciones disponibles para Windows 8 y esperes a que Windows te muestrs el mensaje "Actualización a Windows 10 disponible" debido a que el sistema operativo prepara todos los drivers para que no haya ningún problema durante la transición a Windows 10. 
+
+En caso de que tengas problemas con algún driver, descarga el paquete de controladores de hardware de nuestra página de soporte de la tablet y actualiza el controlador de los dispositivos que aparezcan como desconocidos.
+
+1. Accede al "Administrador de dispositivos" apretando con el botón derecho al botón de inicio.
+2. Presiona el botón derecho otra vez sobre los dispositivos que aparezcan como desconocidos.
+3. Selecciona "Actualizar software de controlador..." y selecciona la carpeta de los controladores descargados.
+4. El controlador se actualizará automáticamente y todo volverá a la normalidad.
+
