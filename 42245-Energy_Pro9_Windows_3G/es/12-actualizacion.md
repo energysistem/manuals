@@ -9,7 +9,7 @@ Tambien puedes reinstalar la configuración de fábrica del sistema operativo. S
 3. Realiza la busqueda de "Recovery" y entra en él.
 4. Elije la opción que deseas y sigue las instrucciones para restaurar tu sistema
 
-##Actualización a Windows 10
+## Actualización a Windows 10
 
 Nosotros recomendamos que instales todas las actualizaciones disponibles para Windows 8 y esperes a que Windows te muestrs el mensaje "Actualización a Windows 10 disponible" debido a que el sistema operativo prepara todos los drivers para que no haya ningún problema durante la transición a Windows 10. 
 
