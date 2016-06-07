@@ -9,4 +9,4 @@ Cuando conectes algún dispositivo en cualquiera de las entradas USB o SD, el *E
 ![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
 
 
-*Nota:*La función CAMBIO DE CARPETA actualmente no está operativa. Próximamente lanzaremos una actualización que mejora la navegación por carpetas. 
+*Nota:* La función CAMBIO DE CARPETA actualmente no está operativa. Próximamente lanzaremos una actualización que incorpora la opción de navegación por carpetas. 
