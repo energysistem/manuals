@@ -1,16 +1,16 @@
 ## Principales características
 
 PANTALLA
-- Pantalla táctil de 5" con tratamiento antihuellas
-- Tecnología IPS
-- Resolución HD (1280x720 píxeles)
+- Pantalla táctil de 4.5" con tratamiento antihuellas
+- Tecnología IPS FWVGA
+- Resolución (854x480 píxeles)
 
 PROCESADOR
-- Procesador de cuatro núcleos ARM Cortex A7 1.3 GHz
-- GPU Mali-400 MP integrada
+- Procesador de cuatro núcleos ARM Cortex A53 1.0 GHz
+- GPU Mali-T720 MP1 integrada
 
 SISTEMA OPERATIVO
--  Android#trade# 5.1 Lollipop
+-  Android#trade# 6.0 Marshmallow
 
 CÁMARAS
 - Cámara trasera 5 Mpx con autofocus y flash LED
@@ -21,6 +21,7 @@ MEMORIA
 - 8 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 128 GB más)
 
 CONECTIVIDAD
+- 4G: 800/900/1800/2600 MHz (BANDAS FDD-LTE XX / VIII / III / VII)
 - 3G: 900/2100 MHz (BANDAS WCDMA VIII / I)
 - 2G: 850/900/1800/1900 MHz (BANDAS GSM)
 - Bluetooth® 4.0
@@ -33,16 +34,15 @@ CONEXIONES
 - Audio Jack 3,5 mm con estandar CTIA
 
 BATERÍA
-- Capacidad de batería: 4.000 mAh Li-Po
-- Quick charge
-- Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1.5A
-- Autonomía: hasta 720 horas en standby y 28 horas de conversación.
+- Capacidad de batería: 2.000 mAh Li-ion
+- Características recomendadas adaptador de corriente (no incluido en el producto) AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A.
 
 OTROS
+- Altavoz Xtreme Sound integrado
+- LED de notificaciones
 - Sensor de movimiento (acelerómetro)
 - Sensor de proximidad
 - Sensor de luminosidad
-- Altavoz integrado
 - Micrófono omnidireccional integrado
 - Radio FM de 87.5 a 108 MHz con presintonías
 - Medición SAR: 0,124 (W/Kg) en cabeza y 0,237 (W/Kg) en cuerpo (a 10mm de distancia)

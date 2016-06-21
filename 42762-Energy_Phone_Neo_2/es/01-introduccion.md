@@ -6,4 +6,4 @@ Tu nuevo teléfono dispone de una pantalla táctil de 4.5” IPS FWVGA (854x480 
 
 Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas esta guía para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo del *Energy Phone Max 4000* en el siguiente enlace  http://www.energysistem.com/guide/42762 </unique> </quick_guide>
+## <unique> * Encuentra el manual completo del *Energy Phone Neo 2* en el siguiente enlace  http://www.energysistem.com/guide/42762 </unique> </quick_guide>
