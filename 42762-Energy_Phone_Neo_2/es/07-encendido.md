@@ -8,12 +8,6 @@ Para apagar el dispositivo mantén pulsado el botón de encendido / apagado (10)
 
 Una pulsación breve del botón de encendido / apagado (10) bloquea / desbloquea el dispositivo apagando o encendiendo la pantalla.
 
-### Colocación tarjeta microSIM 2
 
-17a. Desliza verticalmente la pestaña de cierre. (siguiendo la flecha OPEN) hasta escuchar el "click" para desbloqueo.
-17b. Levanta la pestaña desde su parte inferior.
-17c. Coloca la microSIM tal y como muestra el dibujo.
-17d. Baja la pestaña.
-17e. Desliza hacia abajo la pestaña de cierre (siguiendo la flecha LOCK) hasta escuchar el "click" para bloqueo.
 
 </quick_guide>
