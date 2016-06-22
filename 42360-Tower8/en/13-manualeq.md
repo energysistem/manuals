@@ -12,3 +12,4 @@ In "SD" and "USB" mode you can also select 1 of the 5 available EQ presset by pr
 * EQ 2: Rock.
 * EQ 3: Jazz.
 * EQ 4: Classic.
+* EQ 5: Vocal.
