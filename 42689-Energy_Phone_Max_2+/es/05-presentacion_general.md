@@ -20,6 +20,6 @@
 16. Ranura de tarjeta microSIM 2
 17. Ranura de tarjeta microSD
 18. Ranura de tarjeta microSIM 1
-19.Número de serie y números de IMEI
+19. Número de serie y números de IMEI
 
 </quick_guide>

@@ -1,10 +1,10 @@
 <quick_guide>
 ## Product content
 
-* Energy Phone Max 4000
-* Quick guide
-* Screen protector
-* Quick charge USB cable
-* Quick charge AC/DC 5V 1.5A (Europlug) 100-240V AC 50-60Hz power adapter for quick charge
+* Energy Phone Max 2+.
+* Quick guide.
+* Screen protector.
+* USB cable.
+* AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz power adapter.
 </quick_guide>
 
