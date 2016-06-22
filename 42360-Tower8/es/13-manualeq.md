@@ -12,6 +12,6 @@ Durante la reproducción en modo "Sd","USb" y "bt", también puedes seleccionar 
 * EQ 2: Rock.
 * EQ 3: Jazz.
 * EQ 4: Classic.
-
+* EQ 5: Vocal.
 
 
