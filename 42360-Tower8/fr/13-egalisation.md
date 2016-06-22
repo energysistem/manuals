@@ -12,3 +12,4 @@ Pendant la lecture en mode "SD" et "USB", vous pouvez également sélectionner 1
 * EQ 2: Rock. 
 * EQ 3: Jazz. 
 * EQ 4: Classic. 
+* EQ 5: Vocal.
