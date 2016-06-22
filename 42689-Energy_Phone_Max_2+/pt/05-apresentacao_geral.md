@@ -2,8 +2,8 @@
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
-1. Botão de volume "-"
-2. Botão de volume "+"
+1. Botão de volume -
+2. Botão de volume +
 3. Dupla flash traseiro
 4. Câmara traseira
 5. Câmara frontal

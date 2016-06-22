@@ -12,7 +12,7 @@ Description: Smartphone
 Brand: Energy Sistem
 Model: Energy#trade# Phone Max 2+
 Manufacturer: Energy Sistem Technology S.A.
-Manufacturing country:China
+Manufacturing country: China
 
 referred to in this declaration is in compliance with the essential norms and standards
 
@@ -21,7 +21,7 @@ XXXXX
 
 Is in compliance with the essential norms  and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
 
-Finestrat, 01 Septmeber 2016.
+Finestrat, 01 September 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 Daniel Havillio

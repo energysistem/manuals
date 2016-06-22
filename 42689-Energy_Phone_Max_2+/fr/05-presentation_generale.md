@@ -2,8 +2,8 @@
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
-1. Bouton de volume "-"
-2. Bouton de volume "+"
+1. Bouton de volume -
+2. Bouton de volume +
 3. Double flash arrière
 4. Appareil photo arrière
 5. Appareil photo frontal
