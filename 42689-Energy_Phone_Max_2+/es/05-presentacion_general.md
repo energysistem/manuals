@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen2]()
+![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
 1. Botón volumen -
 2. Botón volumen +
@@ -13,7 +13,7 @@
 9. Led de notificaciones
 10. Botón de encendido/apagado
 11. Ranura para extracción de carcasa trasera
-12. Botones táctiles: aplicaciones recientes, inicio, volver
+12. Botones táctiles en sistema: aplicaciones recientes, inicio, volver
 13. Entrada USB
 14. Micrófono
 15. Altavoz
