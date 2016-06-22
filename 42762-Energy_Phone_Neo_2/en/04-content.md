@@ -1,10 +1,11 @@
 <quick_guide>
 ## Product content
 
-* Energy Phone Max 4000
+* Energy Phone Neo 2
+* 2 interchangable color casings.
 * Quick guide
 * Screen protector
-* Quick charge USB cable
-* Quick charge AC/DC 5V 1.5A (Europlug) 100-240V AC 50-60Hz power adapter for quick charge
+* USB cable
+
 </quick_guide>
 
