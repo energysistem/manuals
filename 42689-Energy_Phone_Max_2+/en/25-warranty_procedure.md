@@ -3,11 +3,11 @@
 Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available, submit a query to the Technical Service or manage the warranty.
 
 1. You can check the availability of the user manual in your language at:
-   http://www.energysistem.com/guide/42499
+   http://www.energysistem.com/guide/42689
 
 2. Alternatively, you may prefer to contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
 
-**Important:** This warranty does not cover any damage or loss to any data stored in warranty products, therefore Energy Sistem's Technical Service will not assume any loss of the above mentioned information. It is recommended to make a backup of your data and remove them from its internal memory before you send the product, or to send it only with the original data. 
+**Important:** This warranty does not cover any damage or loss to any data stored in warranty products, therefore Energy Sistem's Technical Service will not assume any loss of the above mentioned information. It is recommended to make a backup of your data and remove them from its internal memory before you send the product, or to send it only with the original data.
 
 Specifications are subject to change without notice.
 

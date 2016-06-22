@@ -30,7 +30,7 @@ CONNECTIVITY
 CONNECTIONS
 - Dual microSIM
 - MicroUSB 2.0 connection
-- Audio Jack 3.5 mm with CTIA standard 
+- Audio Jack 3.5 mm with CTIA standard
 
 BATTERY
 - Battery capacity: 4000 mAh, Li-Po battery
