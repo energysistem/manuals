@@ -6,7 +6,7 @@ ECRÃ
 - Resolução HD (1280 x 720 pixels)
 
 PROCESSADOR
-- Processador Quad Core ARM Cortex A7 1.3 GHz 
+- Processador Quad Core ARM Cortex A7 1.3 GHz
 - Processador gráfico Mali-400 MP integrado
 
 SISTEMA OPERATIVO

@@ -1,7 +1,7 @@
 ## Caractéristiques principales
 
 ÉCRAN
-- Écran tactile de 5" avec revêtement anti-traces 
+- Écran tactile de 5" avec revêtement anti-traces
 - Technologie IPS
 - Résolution HD (1280x720 pixels)
 

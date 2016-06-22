@@ -1,23 +1,26 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42499/56de8f09a386b.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
-1. Câmara traseira
-2. Flash traseiro
-3. Saída para auscultadores
-4. Sensores de luminosidade e proximidade
-5. Receptor
-6. Câmara frontal
-7. Botão de volume
-8. Botão de ligar/desligar
-9. Slot para tirar a tampa traseira
-10. Microfone
-11. Botões tácteis: aplicações recentes, início, voltar
-12. Entrada USB
-13. Altifalante
-14. Slot do cartão microSIM 1
-15. Slot do cartão microSD
+1. Botão de volume "-"
+2. Botão de volume "+"
+3. Dupla flash traseiro
+4. Câmara traseira
+5. Câmara frontal
+6. Sensores de luminosidade e proximidade
+7. Receptor
+8. Saída para auscultadores
+9. Led de notificações
+10. Botão de ligar/desligar
+11. Slot para tirar a tampa traseira
+12. Botões tácteis no sistema: aplicações recentes, início, voltar
+13. Entrada USB
+14. Microfone
+15. Altifalante
 16. Slot do cartão microSIM 2
-17. Número de série e IMEI
- 
+17. Slot do cartão microSD
+18. Slot do cartão microSIM 1
+19. Número de série e IMEI
+
+
 </quick_guide>

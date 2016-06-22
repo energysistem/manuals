@@ -3,7 +3,7 @@
 
 Visite http://www.energysistem.com/pt/support e seleccione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as actualizações disponíveis. Também tem a possibilidade de contactar o apoio técnico ou solicitar a garantia.
 
-1. Pode consultar a disponibilidade do manual no seu idioma em http://www.energysistem.com/guide/42499
+1. Pode consultar a disponibilidade do manual no seu idioma em http://www.energysistem.com/guide/42689
 
 2. Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou factura.
 
