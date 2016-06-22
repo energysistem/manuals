@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/42499/56de8f09a386b.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42762/576aa003cde82.jpg)
 
 1. Cámara trasera
 2. Flash trasero
