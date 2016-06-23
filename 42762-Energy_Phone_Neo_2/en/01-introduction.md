@@ -6,6 +6,6 @@ Your new phone has an IPS HD 4.5" (854x480 pixels) touch display, a Quad Core AR
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you enjoy your device with maximum performance.
 
-## <unique> * Find the complete manual of the *Energy Phone Max 4000* in the following link  http://www.energysistem.com/guide/42499 </unique> </quick_guide>
+## <unique> * Find the complete manual of the *Energy Phone Neo 2* in the following link  http://www.energysistem.com/guide/42762 </unique> </quick_guide>
 
 

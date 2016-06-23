@@ -10,7 +10,7 @@ We declare under our own exclusive responsibility that the product
 
 Description: Smartphone
 Brand: Energy Sistem
-Model: Energy#trade# Phone Neo 2
+Model: Energy Phone Neo 2
 Manufacturer: Energy Sistem Technology S.A.
 Manufacturing country:China
 
