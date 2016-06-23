@@ -16,7 +16,7 @@
 11.	Back case extraction slot
 12.	Microphone
 13.	Touch buttons: Recent Apps, Home, Back
-14.	Speaker
+14.	Speaker Xtreme Sound
 15.	MicroSIM card slot 1
 16.	MicroSD card slot
 17.	MicroSIM card slot 2

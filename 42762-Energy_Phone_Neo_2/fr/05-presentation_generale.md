@@ -15,7 +15,7 @@
 11. Fente pour extraction de la coque arrière
 12. Microphone
 13. Boutons tactiles : Applications récentes, Démarrage, Retour
-14. Haut-parleur
+14. Haut-parleur Xtreme Sound
 15. Entrée cartes microSIM 1
 16. Entrée cartes microSD
 17. Entrée cartes microSIM 2

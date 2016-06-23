@@ -15,7 +15,7 @@
 11. Ranura para extracción de carcasa trasera
 12. Micrófono
 13. Botones táctiles: aplicaciones recientes, inicio, volver
-14. Altavoz
+14. Altavoz Xtreme Sound
 15. Ranura de tarjeta microSIM 1
 16. Ranura de tarjeta microSD
 17. Ranura de tarjeta microSIM 2
