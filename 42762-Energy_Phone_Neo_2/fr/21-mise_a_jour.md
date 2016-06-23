@@ -6,7 +6,7 @@ Vous pouvez aussi mettre à jour votre Energy Phone Max 4000 à travers votre or
 
 Suivez les pas suivants pour réaliser l'installation :
 
-1. Assurez-vous que la batterie de votre Energy Phone Max 4000 est totalement chargée. Sinon, connectez le smartphone à une alimentation externe en utilisant l'adaptateur AC/DC fourni et attendez jusqu'à ce que la batterie soit complètement chargée.
+1. Assurez-vous que la batterie de votre Energy Phone Neo 2 est totalement chargée. Sinon, connectez le smartphone à une alimentation externe en utilisant l'adaptateur AC/DC fourni et attendez jusqu'à ce que la batterie soit complètement chargée.
 
 2. Accédez au site web www.energysistem.com.
 
