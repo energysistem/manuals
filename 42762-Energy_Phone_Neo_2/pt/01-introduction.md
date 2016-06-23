@@ -2,7 +2,7 @@
 
 ## Introdução
 Agradecemos a sua confiança assim como a aquisição do seu novo Energy Phone Neo 2. Esperamos que desfrute do produto.
-O seu novo telefone dispõe de um ecrã táctil de 4.5"  IPS (854x480  píxels), processador Quad Core ARM Cortex A53 1.0 GHz, Bluetooth 4.0, Wi-Fi, GPS, conexão 4G/3G, câmara frontal, câmara traseira com flash e um alto-falante poderoso Xtreme Sound.
+O seu novo telefone dispõe de um ecrã táctil de 4.5"  IPS FWVGA (854x480  píxels), processador Quad Core ARM Cortex A53 1.0 GHz, Bluetooth 4.0, Wi-Fi, GPS, conexão 4G/3G, câmara frontal, câmara traseira com flash e um alto-falante poderoso Xtreme Sound.
 
 Antes de começar a utilizar o seu smartphone, aconselhamos ler a presente guia para familiarizar-se com o produto. Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
 

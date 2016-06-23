@@ -2,7 +2,7 @@
 
 ECRÃ
 - Ecrã táctil de 4.5" com revestimento oleofóbico
-- Tecnologia IPS
+- Tecnologia IPS FWVGA
 - Resolução (854x480  pixels)
 
 PROCESSADOR
