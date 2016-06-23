@@ -3,7 +3,7 @@
 DISPLAY
 - 4.5" anti-fingerprint touch screen
 - IPS technology
-- HD Resolution (854x480 pixels)
+- Resolution (854x480 pixels)
 
 PROCESSOR
 - Quad Core ARM Cortex A53 1.0 GHz processor
@@ -48,6 +48,6 @@ OTHER
 - Luminosity sensor
 - Integrated omni-directional microphone
 - FM Radio with presets with range from 87.5 to 108 MHz
-- SAR rate: 0.124 (W/Kg) at the head and 0.237 (W/Kg) at the body (10 mm distance)
+- SAR rate: 0.716 (W/Kg) at the head and 1.449 (W/Kg) at the body (10 mm distance)
 
 
