@@ -1,6 +1,6 @@
 <quick_guide>
 
-## Introduction.
+## Introduction
 Merci de votre confiance et de l'achat de votre nouveau Energy Phone Max 2+. Nous espérons que vous l’apprécierez.
 Votre nouveau téléphone inclut un écran IPS HD tactile de 5.5" (1280x720 píxeles), processeur Quad Core ARM Cortex A53 1.3 GHz, Bluetooth 4.0, Wi-Fi, GPS, connexion 4G/3G, appareil photo frontal, appareil photo arrière avec dual tone flash, une batterie d’une grande capacité de 3500 mAh et un puissant haut-parleur.
 
