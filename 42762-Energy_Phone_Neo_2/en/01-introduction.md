@@ -2,7 +2,7 @@
 
 ## Introduction
 Thank you for your trust in us and for buying the new Energy Phone Neo 2. We hope you enjoy it.
-Your new phone has an IPS FWVGA 4.5" (854x480 pixels) touch display, a Quad Core ARM Cortex A53 1.0 GHz processor, Bluetooth 4.0, Wi-Fi, GPS, 4G/3G connectivity, support micro SD up to 128GB, front camera and rear camera with flash, a Xtreme Sound speaker and two interchangeable back covers.
+Your new phone has an IPS FWVGA 4.5" (854x480 pixels) touch display, a Quad Core ARM Cortex A53 1.0 GHz processor, Bluetooth 4.0, Wi-Fi, GPS, 4G/3G connectivity, support micro SD up to 128GB, front camera and rear camera with flash, a powerful speaker Xtreme Sound and two interchangeable back covers.
 
 Before you start using your smartphone we recommend you to read this manual and familiarize yourself with it. It only takes a couple of minutes and it will help you enjoy your device with maximum performance.
 

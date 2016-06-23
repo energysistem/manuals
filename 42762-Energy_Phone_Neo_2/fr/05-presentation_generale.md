@@ -4,7 +4,7 @@
 
 1. Appareil photo arrière
 2. Flash arrière
-3. Notifications LED
+3. Notifications led
 4. Capteurs de luminosité et de proximité
 5. Sortie pour les écouteurs
 6. Entrée USB
