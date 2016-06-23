@@ -45,5 +45,5 @@ OTROS
 - Sensor de luminosidad
 - Micrófono omnidireccional integrado
 - Radio FM de 87.5 a 108 MHz con presintonías
-- Medición SAR: 0,124 (W/Kg) en cabeza y 0,237 (W/Kg) en cuerpo (a 10mm de distancia)
+- Medición SAR: 0,716 (W/Kg) en cabeza y 1,449 (W/Kg) en cuerpo (a 10mm de distancia)
 
