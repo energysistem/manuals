@@ -2,7 +2,7 @@
 
 DISPLAY
 - 4.5" anti-fingerprint touch screen
-- IPS technology
+- IPS FWVGA technology
 - Resolution (854x480 pixels)
 
 PROCESSOR
