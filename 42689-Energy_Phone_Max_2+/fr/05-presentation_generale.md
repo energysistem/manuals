@@ -16,7 +16,7 @@
 12. Boutons tactiles du système: Applications récentes, Démarrage, Retour
 13. Entrée USB
 14. Microphone
-15. Haut-parleur
+15. Haut-parleur Xtreme Sound
 16. Entrée cartes microSIM 2
 17. Entrée cartes microSD
 18. Entrée cartes microSIM 1

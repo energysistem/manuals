@@ -16,7 +16,7 @@
 12. Botões tácteis no sistema: aplicações recentes, início, voltar
 13. Entrada USB
 14. Microfone
-15. Altifalante
+15. Altifalante Xtreme Sound
 16. Slot do cartão microSIM 2
 17. Slot do cartão microSD
 18. Slot do cartão microSIM 1

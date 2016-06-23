@@ -16,7 +16,7 @@
 12. Botones táctiles en sistema: aplicaciones recientes, inicio, volver
 13. Entrada USB
 14. Micrófono
-15. Altavoz
+15. Altavoz Xtreme Sound
 16. Ranura de tarjeta microSIM 2
 17. Ranura de tarjeta microSD
 18. Ranura de tarjeta microSIM 1
