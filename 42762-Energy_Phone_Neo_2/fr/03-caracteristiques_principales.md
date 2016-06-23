@@ -46,4 +46,4 @@ AUTRES
 - Capteur de lumière
 - Microphone omnidirectionnel intégré
 - Radio FM 87,5 à 108 MHz avec des préréglages
-- Mesure SAR : 0,124 (W/Kg) en tête et 0,237 (W/Kg) en corps (à 10 mm de portée)
+- Mesure SAR : 0,716 (W/Kg) en tête et 1,449 (W/Kg) en corps (à 10 mm de portée)
