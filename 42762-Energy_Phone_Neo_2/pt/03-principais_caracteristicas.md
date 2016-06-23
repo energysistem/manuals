@@ -34,7 +34,7 @@ SISTEMAS DE LIGAÇÃO
 - Áudio Jack de 3,5 milímetros com padrão CTIA
 
 BATERIA:
-- Capacidade da bateria: Li-Po, 4000 mAh
+- Capacidade da bateria: Li-ion, 2000 mAh
 - Quick charge
 - Características recomendadas adaptador de energia (não incluído no produto) AC / DC (Europlug) de entrada: 100-240VAC 50-60Hz. Saída: 5V 1A..
 
@@ -46,4 +46,4 @@ OUTROS:
 - Sensor de luminosidade
 - Microfone omnidireccional integrado
 - Rádio FM de 87.5 até 108 MHz com estações prédefinidas
-- Exposição SAR: 0,124 (W/Kg) ao nível de cabeça e 0,237 (W/Kg) ao nível de corpo (a uma distância de 10 mm)
+- Exposição SAR: 0,716 (W/Kg) ao nível de cabeça e 1,449 (W/Kg) ao nível de corpo (a uma distância de 10 mm)
