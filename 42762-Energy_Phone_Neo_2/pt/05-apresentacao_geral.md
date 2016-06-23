@@ -15,7 +15,7 @@
 11. Slot para tirar a tampa traseira
 12. Microfone
 13. Botões tácteis: aplicações recentes, início, voltar
-14. Altifalante
+14. Altifalante Xtreme Sound
 15. Slot do cartão microSIM 1
 16. Slot do cartão microSD
 17. Slot do cartão microSIM 2
