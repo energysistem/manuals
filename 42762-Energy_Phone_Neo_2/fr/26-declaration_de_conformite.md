@@ -33,7 +33,7 @@ EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
 Est conforme aux normes ou documents normatifs de la Directive 1999/5/ EC du Parlement Européen et du Conseil du 09 mars 1999.
 
-Finestrat, 01 Septembre 2016.
+Finestrat, 01 September 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 Daniel Havillio
