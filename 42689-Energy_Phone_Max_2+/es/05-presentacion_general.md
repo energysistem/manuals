@@ -4,7 +4,7 @@
 
 1. Botón volumen -
 2. Botón volumen +
-3. Flash dual trasero
+3. Dual tone flash
 4. Cámara trasera
 5. Cámara frontal
 6. Sensores de luminosidad y de proximidad

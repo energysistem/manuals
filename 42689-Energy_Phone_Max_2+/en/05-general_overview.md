@@ -5,7 +5,7 @@
 
 1.	Volume button "-"
 2.	Volume button "+"
-3.	Rear dual flash
+3.	Dual tone flash
 4.	Rear camera
 5.	Front camera
 6.	Proximity and luminosity sensors

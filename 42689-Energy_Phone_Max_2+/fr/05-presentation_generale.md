@@ -4,7 +4,7 @@
 
 1. Bouton de volume -
 2. Bouton de volume +
-3. Double flash arrière
+3. Dual tone flash
 4. Appareil photo arrière
 5. Appareil photo frontal
 6. Capteurs de luminosité et de proximité
