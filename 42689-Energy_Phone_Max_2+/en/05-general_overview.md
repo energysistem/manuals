@@ -17,7 +17,7 @@
 12. System touch buttons: Recent Apps, Home, Back
 13. USB Input
 14. Microphone
-15. Speaker
+15. Xtreme Sound speaker
 16. MicroSIM card slot 2
 17. MicroSD card slot
 18. MicroSIM card slot 1
