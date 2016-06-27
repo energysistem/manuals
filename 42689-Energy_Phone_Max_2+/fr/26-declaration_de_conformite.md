@@ -2,19 +2,19 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
-Nom du déclarant: Energy Sistem Technology S.A. - CIF: A53107488
-Adresse: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
+Adresse : Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
+Tél : (+34) 902 388 388  / (+34) 966 813 257
 
-Déclarons sous notre seule responsabilité que le produit
+Nous déclarons sous notre seule responsabilité que le produit
 
-Description: Smartphone
-Marque: Energy Sistem
-Modèle: Energy Phone Max 2+
-Fabricant: Energy Sistem Technology S.A.
-Pays de fabrication: Chine
+Description : Smartphone
+Marque : Energy Sistem
+Modèle : Energy Phone Max 2+
+Fabricant : Energy Sistem Technology S.A.
+Pays de fabrication : Chine
 
-identifié dans cette déclaration est conforme aux normes ou documents normatifs
+visé par cette déclaration est conforme aux normes ou documents normatifs
 
 1999/5/EC-R&TTE
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
@@ -29,14 +29,16 @@ EN 61000-3-3:2013; EN 55024:2010
 EN 301 511 V9.0.2
 EN 300 328 V1.9.1
 EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
-EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
+EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
 
-Est conforme aux normes ou documents normatifs de la Directive 1999/5/EC du Parlement Européen et du Conseil du 09 mars 1999.
+conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
 
-Finestrat, 01 Septembre 2016.
+Finestrat, 1 septembre 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
 Daniel Havillio
 Product Management Director
+
 
 </quick_guide>
