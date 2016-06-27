@@ -4,16 +4,16 @@
 
 1. Botão de volume -
 2. Botão de volume +
-3. Dual tone flash
+3. Dual LED flash
 4. Câmara traseira
 5. Câmara frontal
 6. Sensores de luminosidade e proximidade
 7. Receptor
 8. Saída para auscultadores
-9. Led de notificações
+9. LED de notificações
 10. Botão de ligar/desligar
 11. Slot para tirar a tampa traseira
-12. Botões tácteis no sistema: aplicações recentes, início, voltar
+12. Botões tácteis: aplicações recentes, início, voltar
 13. Entrada USB
 14. Microfone
 15. Altifalante Xtreme Sound
