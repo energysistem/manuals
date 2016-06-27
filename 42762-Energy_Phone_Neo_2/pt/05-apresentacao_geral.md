@@ -4,7 +4,7 @@
 
 1. Câmara traseira
 2. Flash traseiro
-3. Notificações de led
+3. LED de notificações
 4. Sensores de luminosidade e proximidade
 5. Saída para auscultadores
 6. Entrada USB
