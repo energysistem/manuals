@@ -11,7 +11,7 @@
 6.	Proximity and luminosity sensors
 7.	Receiver
 8.	Earphones output
-9.	Notifications led
+9.	Notifications LED
 10.	Power button
 11.	Back case extraction slot
 12. System touch buttons: Recent Apps, Home, Back
