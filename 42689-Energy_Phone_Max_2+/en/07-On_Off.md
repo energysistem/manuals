@@ -1,6 +1,6 @@
 ## <quick_guide> Switch on and off
 
-Make sure that the microSIM cards are inserted in their corresponding slots before turning on your Energy Phone Max 2+. Afterwards, press the On / Off button (10) on the right of your device for one second. Once the operating system has loaded completely, please unlock the device to start using it. Proceed to enter the PIN number of your microSIM cards and then drag the padlock upwards.
+Make sure that the microSIM cards are inserted in their corresponding slots before turning on your Energy Phone Max 2+. Press the On / Off button (10) on the right of your device for one second. Once the operating system has loaded completely, please unlock the device to start using it. Proceed to enter the PIN number of your microSIM cards and then drag the padlock upwards.
 
 You will have to restart your device each time that you insert a microSIM card in order for the device to detect it.
 
