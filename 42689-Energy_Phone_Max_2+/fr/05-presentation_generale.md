@@ -1,4 +1,4 @@
-## <quick_guide> Présentation générale
+<quick_guide>## Présentation générale
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
@@ -10,10 +10,10 @@
 6. Capteurs de luminosité et de proximité
 7. Récepteur
 8. Sortie pour les écouteurs
-9. Led de notification
-10. Bouton de démarrage/éteint
+9. LED de notifications
+10. Bouton de marche/arrêt
 11. Fente pour extraction de la coque arrière
-12. Boutons tactiles du système: Applications récentes, Démarrage, Retour
+12. Boutons tactiles du système : Applications récentes, Démarrage, Retour
 13. Entrée USB
 14. Microphone
 15. Haut-parleur Xtreme Sound
