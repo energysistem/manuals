@@ -4,14 +4,14 @@
 
 1. Appareil photo arrière
 2. Flash arrière
-3. Notifications led
+3. LED de notifications
 4. Capteurs de luminosité et de proximité
 5. Sortie pour les écouteurs
 6. Entrée USB
 7. Récepteur
 8. Appareil photo frontal
 9. Bouton de volume
-10. Bouton de démarrage/éteint
+10. Bouton de marche/arrêt
 11. Fente pour extraction de la coque arrière
 12. Microphone
 13. Boutons tactiles : Applications récentes, Démarrage, Retour
