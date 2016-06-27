@@ -2,7 +2,7 @@
 ## Product content
 
 * Energy Phone Neo 2.
-* Two interchangable color casings.
+* Two back covers in different colours.
 * Quick guide.
 * Screen protector.
 * USB cable.
