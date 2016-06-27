@@ -1,4 +1,4 @@
-<quick_guide> ## Présentation générale
+## <quick_guide> Présentation générale
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
 
