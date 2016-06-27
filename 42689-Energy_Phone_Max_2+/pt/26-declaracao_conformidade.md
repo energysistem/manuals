@@ -3,15 +3,15 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
 Declarante: Energy Sistem Technology S.A. - CIF: A53107488
-Endereço: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Endereço: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos sob nossa exclusiva responsabilidade que o produto
 
 Descrição: Smartphone
 Marca: Energy Sistem
 Modelo: Energy Phone Max 2+
-Fabricante: Energy Sistem Technology S.A.
+Fabricante: Energy Sistem Technology, S.A.
 País de fabricação: China
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
