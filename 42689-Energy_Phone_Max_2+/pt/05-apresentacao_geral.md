@@ -13,7 +13,7 @@
 9. LED de notificações
 10. Botão de ligar/desligar
 11. Slot para tirar a tampa traseira
-12. Botões tácteis: aplicações recentes, início, voltar
+12. Botões tácteis no ecrã: aplicações recentes, início, voltar
 13. Entrada USB
 14. Microfone
 15. Altifalante Xtreme Sound
