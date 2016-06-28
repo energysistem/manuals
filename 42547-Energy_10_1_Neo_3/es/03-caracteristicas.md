@@ -1,7 +1,7 @@
 ﻿## Principales Características
 
 * Pantalla IPS 10.1" (1280x800 píxels).
-* Pantalla capacitiva multi-táctil de 5 puntos.
+* Pantalla capacitiva multi-táctil de 5 puntos con tratamiento antihuellas.
 * Procesador de ocho núcleos ARM Cortex A7 1.6GHz 
 * 2GB DDR3 RAM.
 * 16GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 64 GB).
