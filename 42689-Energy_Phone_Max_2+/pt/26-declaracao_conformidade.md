@@ -3,7 +3,7 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
 Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Endereço: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
 Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos sob nossa exclusiva responsabilidade que o produto
@@ -33,7 +33,7 @@ EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
 Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
-Finestrat, 01 Setembro 2016.
+Finestrat, 01 de setembro de 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 Daniel Havillio
