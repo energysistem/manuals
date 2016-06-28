@@ -10,7 +10,7 @@
 6. Sensores de luminosidad y de proximidad
 7. Receptor
 8. Salida de auriculares
-9. Led de notificaciones
+9. LED de notificaciones
 10. Botón de encendido/apagado
 11. Ranura para extracción de carcasa trasera
 12. Botones táctiles en sistema: aplicaciones recientes, inicio, volver
