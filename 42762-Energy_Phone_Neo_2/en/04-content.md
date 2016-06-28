@@ -6,7 +6,7 @@
 * Quick guide.
 * Screen protector.
 * USB cable.
-* Battery.
+* Rechargeable lithium battery.
 
 </quick_guide>
 

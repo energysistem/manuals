@@ -5,6 +5,6 @@
 * Guia Rápida.
 * Película de protecção de ecrã.
 * Cabo USB.
-* Bateria.
+* Bateria de lítio recarregável.
 
 </quick_guide>

@@ -2,7 +2,6 @@
 
 Antes de encender tu Energy Phone Neo 2, asegúrate de que las tarjetas microSIM están insertadas en sus respectivas ranuras. A continuación pulsa el botón de encendido / apagado (10) situado en el lateral derecho del dispositivo durante un segundo. Cuando el sistema operativo se haya cargado tendrás que desbloquear el dispositivo para empezar a utilizarlo. Para ello inserta el número PIN de tus tarjetas microSIM y luego arrastra con el dedo el icono del candado hacia arriba.
 
-Cada vez que insertes una tarjeta microSIM deberás reiniciar el dispositivo para que ésta sea detectada.
 
 Para apagar el dispositivo mantén pulsado el botón de encendido / apagado (10) hasta que aparezca el menú de apagado y a continuación escoge la opción “Apagar”.
 

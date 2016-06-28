@@ -5,6 +5,6 @@
 * Guía Rápida.
 * Protector de pantalla.
 * Cable USB.
-* Batería.
+* Batería de litio recargable.
 
 </quick_guide>
