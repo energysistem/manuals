@@ -1,4 +1,4 @@
-## <quick_guide> Précautions d'usage et SAR
+## <quick_guide>Précautions d'usage et SAR
 ### Précautions d’usage
 Dans certains lieux ou situations, tels que les avions, les hôpitaux, les stations-service et les garages professionnels, l'usage du téléphone est interdit.
 Pour diminuer la quantité de rayonnements reçus, utilisez un kit mains libres, le mode haut-parleur ou une oreillette bluetooth, ne téléphonez pas dans les lieux où le signal est faible, comme dans la voiture, dans le train ou dans le métro. Éloignez le téléphone de certaines zones sensibles telles que le ventre des femmes enceintes, plus particulièrement lors d'une communication. Si vous avez un implant électronique (stimulateurs cardiaques, pompes à insuline, neurostimulateurs...) placez le téléphone à 15 cm du corps au minimum lorsque vous téléphonez, sur le côté opposé à l'implant.
