@@ -6,6 +6,7 @@
 * Quick guide.
 * Screen protector.
 * USB cable.
+* Battery.
 
 </quick_guide>
 
