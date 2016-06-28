@@ -5,5 +5,6 @@
 * Guide rapide.
 * Protecteur d'écran.
 * Câble USB.
+* Batterie
 
 </quick_guide>

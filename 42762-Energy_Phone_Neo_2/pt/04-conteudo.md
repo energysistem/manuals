@@ -4,6 +4,7 @@
 * Tampa traseira disponível em duas cores.
 * Guia Rápida.
 * Película de protecção de ecrã.
-* Cabo para carregamento rápido.
+* Cabo USB.
+* Bateria.
 
 </quick_guide>
