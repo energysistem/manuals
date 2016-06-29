@@ -7,7 +7,4 @@
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
 * 
 
-## Intro 2
-### Intro 3
-#### Intro 4
-##### Intro 5
+
