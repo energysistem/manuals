@@ -4,10 +4,10 @@
 
 1. Cámara trasera
 2. Flash trasero
-3. Led de notificaciones
+3. LED de notificaciones
 4. Sensores de luminosidad y de proximidad
 5. Salida de auriculares
-6. Entrada USB
+6. Entrada MicroUSB
 7. Receptor
 8. Cámara frontal
 9. Botón de volumen
