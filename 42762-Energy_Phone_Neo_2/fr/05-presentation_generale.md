@@ -1,13 +1,13 @@
 ## <quick_guide> Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42762/576aa9453becd.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42762/577503fc1c422.jpg)
 
 1. Appareil photo arrière
 2. Flash arrière
 3. LED de notifications
 4. Capteurs de luminosité et de proximité
 5. Sortie pour les écouteurs
-6. Entrée USB
+6. Entrée MicroUSB
 7. Récepteur
 8. Appareil photo frontal
 9. Bouton de volume

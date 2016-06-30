@@ -1,13 +1,13 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42762/576aa9453becd.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42762/577503fc1c422.jpg)
 
 1. Câmara traseira
 2. Flash traseiro
 3. LED de notificações
 4. Sensores de luminosidade e proximidade
 5. Saída para auscultadores
-6. Entrada USB
+6. Entrada MicroUSB
 7. Receptor
 8. Câmara frontal
 9. Botão de volume
