@@ -1,6 +1,6 @@
 ## <quick_guide> Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42689/5774d31fa9899.jpg)
 
 1. Bouton de volume -
 2. Bouton de volume +
@@ -14,7 +14,7 @@
 10. Bouton de marche/arrêt
 11. Fente pour extraction de la coque arrière
 12. Boutons tactiles du système : Applications récentes, Démarrage, Retour
-13. Entrée USB
+13. Entrée microUSB
 14. Microphone
 15. Haut-parleur Xtreme Sound
 16. Entrée cartes microSIM 2

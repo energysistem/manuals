@@ -1,7 +1,7 @@
 <quick_guide>
 ## General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/5774d31fa9899.jpg)
 
 1.	Volume button "-"
 2.	Volume button "+"
@@ -15,7 +15,7 @@
 10.	Power button
 11.	Back case extraction slot
 12. System touch buttons: Recent Apps, Home, Back
-13. USB Input
+13. MicroUSB Input
 14. Microphone
 15. Xtreme Sound speaker
 16. MicroSIM card slot 2

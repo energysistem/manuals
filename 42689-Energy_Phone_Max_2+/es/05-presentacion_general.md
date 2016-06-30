@@ -1,6 +1,6 @@
 ## <quick_guide> Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/42689/576aa0190d178.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42689/5774d31fa9899.jpg)
 
 1. Botón volumen -
 2. Botón volumen +
@@ -14,7 +14,7 @@
 10. Botón de encendido/apagado
 11. Ranura para extracción de carcasa trasera
 12. Botones táctiles en sistema: aplicaciones recientes, inicio, volver
-13. Entrada USB
+13. Entrada microUSB
 14. Micrófono
 15. Altavoz Xtreme Sound
 16. Ranura de tarjeta microSIM 2
