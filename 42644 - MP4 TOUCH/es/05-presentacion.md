@@ -11,4 +11,4 @@
 9. VOLUME - : Bajar volumen.
 10. Interruptor de reinicio (Reset) / Micrófono.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39555/54883c339ffbc.jpg)
+![Imagen1](meter imagen DISEÑO)
