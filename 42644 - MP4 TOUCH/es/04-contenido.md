@@ -1,9 +1,11 @@
 ## Contenido del producto
 
 
-* Energy Sistem Energy MP3 Stick.
+*	Energy MP4 Touch.
+*	Auriculares intrauditivos Hi-Fi.
+*	Cable USB para cargar la batería y conexión a PC.
+*	Guía Rápida.
 
-* Auriculares intrauditivos Hi-Fi. 
 
 
 
