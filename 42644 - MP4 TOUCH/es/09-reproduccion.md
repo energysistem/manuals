@@ -8,7 +8,8 @@ Para empezar, reanudar o pausar la reproducción de música pulsa el botón *Rep
 
 Pulsando brevemente los botones *Retroceso (8)* y *Avance (5)*, cambias a la anterior/siguiente pista respectivamente. También puedes retroceder / avanzar dentro de la canción sosteniendo el botón *Retroceso (8)* / *Avance (5)* respectivamente.
 
-----imagen----
+![](PDTE IMAGEN DISEÑO)
+
 
 Puedes acceder a las diferentes opciones de configuración de reproducción pulsando el botón MENU (1). Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del menú de opciones, pulsa brevemente *MENU (1)*, o mantenlo apretado para volver al menú principal.
 
@@ -16,7 +17,8 @@ Puedes acceder a las diferentes opciones de configuración de reproducción puls
 
 Pulsando el botón *MENU(1)* mientras la reproducción de música está en marcha puedes acceder al submenú de ajustes de reproducción:
 
-----imagen----
+![](PDTE IMAGEN DISEÑO)
+
 
 **“Modo de Reproducción”:** 
 El orden de reproducción de las canciones depende del modo seleccionado. Por defecto, el modo es “Normal”. Puedes seleccionar tu modo preferido a través de esta opción: “Repetir 1” (Repite la pista actual), “Carpeta” (solo las pistas de la carpeta actual y para), “Repetir carpeta” (repite las pistas de la carpeta actual), “Repetir todas” (reproducción continua de todas las pistas), “Aleatorio” (reproduce las pistas en un orden no definido) e “Intro” (primeros 10 segundos y pasa a la siguiente pista).
@@ -46,7 +48,8 @@ Si la canción tiene letra (archivo LRC), esta se mostrara en pantalla, y si no,
 mostrara el ecualizador.
 Pulsando el botón MENU mientras la reproducción de música está en pausa, puedes acceder al submenú de navegación por tus carpetas así como seleccionar directamente la carpeta y el archivo de música que desees reproducir:
 
-----imagen----
+![](PDTE IMAGEN DISEÑO)
+
 
 **“Índice principal / Tarjeta”: **
 Con esta opción puedes explorar los directorios de la memporia interna de tu MP4 Touch o memoria externa microSD; y seleccionar el archivo de música que quieras, tal y como lo harías desde tu ordenador.
