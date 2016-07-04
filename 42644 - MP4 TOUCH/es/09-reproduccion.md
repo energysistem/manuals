@@ -1,18 +1,12 @@
 ## Reproducción de música.
 
-Tu *MP3 Energy* te permite disfrutar de audio codificado en los formatos MP3 / WMA gracias a su procesador de alta fidelidad de sonido.
+Tu MP4 Energy te permite disfrutar de audio codificado en los formatos MP3 / FLAC / WMA / WAV gracias a su procesador de alta fidelidad de sonido. 
 
-Para entrar al modo de reproducción de MP3 / WMA, pulsa PLAY sobre la opción MUSIC.
+Para entrar al menú de reproducción de música, pulsa Reproducción / Pausa (7) sobre la opción ‘MÚSICA’ del menú principal.
 
-Para empezar, reanudar o pausar la reproducción de música pulsa el botón PLAY. Pulsando brevemente los botones PREVIOUS/NEXT
-cambias a la anterior/siguiente pista.
+Para empezar, reanudar o pausar la reproducción de música pulsa el botón Reproducción / Pausa (7).
 
-También puedes retroceder/avanzar dentro de la canción sosteniendo el botón PREVIOUS/NEXT.
-
-Usa los botones VOLUME+/- para subir y bajar el volumen respectivamente.
-
-Con la música en modo pausado en la ventana de reproducción de música puedes acceder al submenú "Navegación" pulsando el botón
-MENU, para que se muestren las diferentes opciones disponibles.
+Pulsando brevemente los botones Retroceso (8) y Avance (5), cambias a la anterior/siguiente pista respectivamente. También puedes retroceder / avanzar dentro de la canción sosteniendo el botón Retroceso (8) / Avance (5) respectivamente.
 
 Desplázate entre las opciones con los botones PREVIOUS/NEXT y
 selecciona pulsando el botón PLAY:
