@@ -13,7 +13,7 @@ Pulsando brevemente los botones *Retroceso (8)* y *Avance (5)*, cambias a la ant
 
 Puedes acceder a las diferentes opciones de configuración de reproducción pulsando el botón MENU (1). Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del menú de opciones, pulsa brevemente *MENU (1)*, o mantenlo apretado para volver al menú principal.
 
-### Opciones del reproductor de música.
+### **Opciones del reproductor de música.**
 
 Pulsando el botón *MENU(1)* mientras la reproducción de música está en marcha puedes acceder al submenú de ajustes de reproducción:
 
