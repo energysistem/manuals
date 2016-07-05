@@ -1,25 +1,27 @@
 ## Radio FM
 
-Tu *MP3 Energy* dispone de una Radio FM integrada con 20 presintonías y posibilidad de grabación directa. Para escuchar la radio, estando en el menú principal, selecciona la opción RADIO. El reproductor se posicionará en la misma emisora en la que lo dejaste por última vez.
+Tu *MP4 Touch* dispone de una Radio FM integrada con presintonías y posibilidad de grabación directa. Para escuchar la radio, estando en el menú principal, selecciona la opción *Radio FM*. El reproductor se posicionará en la misma emisora en la que lo dejaste por última vez.
 
-Con los botones NEXT/PREVIOUS puedes desplazarte por el rango de frecuencias del dial. Con pulsaciones simples avanzas/retrocedes
-un paso, mientras que manteniendo pulsado el botón se realizan auto búsquedas. En caso de posicionar el dial en una emisora que está pregrabada, aparecerá su número en el centro de la pantalla.
+Con los botones *Avance (5)* / *Retroceso (8)* puedes desplazarte por el rango de frecuencias del dial. Con pulsaciones simples avanzas/ retrocedes un paso, mientras que manteniendo pulsado el botón se realizan auto búsquedas. 
 
-Pulsando el botón PLAY puedes navegar por las presintonías que tengas grabadas en la memoria. Pulsando VOLUME +/- subes o bajas el volumen respectivamente.
+Para pasar de una emisora almacenada a otra, simplemente pulsa el botón *Reproducción / Pausa (7)*. De esta forma puedes navegar por todas tus emisoras almacenadas.
 
-Accede al submenú de opciones de radio pulsando el botón MENU en la ventana del dial FM para que se muestren las diferentes opciones disponibles. Desplázate entre ellas con los botones NEXT/PREVIOUS y selecciona pulsando el botón PLAY:
 
-1. "Autobúsqueda": Realiza un escaneo del rango de frecuencias y guarda las 20 primeras emisoras encontradas en las presintonías.
+----imagen----
 
-2. "Guardar": Te permite guardar la emisora que estás escuchando en la próxima presintonía libre. Si las 20 presintonías están ocupadas se sobreescribirá la última.
+Accede al submenú de opciones de radio pulsando el botón *MENU (1)* en la ventana del dial FM para que se muestren las diferentes opciones disponibles. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)*y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del submenú de opciones, mantén pulsado el botón *MENU (1)*.
 
-3. "Borrar": Escoge esta opción para borrar la presintonía en la que te encuentres.
-4
-4. "Borrar todo": Elimina todas las presintonías grabadas actualmente.
+**Guardar emisora**: Esta opción te permite guardar la emisora que estas escuchando en la próxima presintonía libre. Si todas las presintonías están ocupadas, no se grabara. Se almacenará la emisora que estás escuchando en la memoria interna del dispositivo, como “01”. Repite este proceso para crear un listado de hasta 20 emisoras con el orden que tú elijas.
 
-5. "Grabar": Puedes grabar la emisión de radio FM en ficheros WAV de audio. Para ello pulsa el botón PLAY para comenzar a grabar. Puedes pausar la grabación pulsando brevemente PLAY y reanudarla más adelante pulsando PLAY de nuevo. Para terminar de grabar mantén pulsado el botón MENU. Para salir del modo de grabación FM y volver a la pantalla del dial, mantén pulsado el botón MENU.
+**Grabación FM**: Puedes grabar la emisión de radio FM en ficheros WAV de audio.
+Para ello selecciona esta opción con el botón *Reproducción / Pausa (7)* para comenzar a grabar. Puedes pausar la grabación pulsando brevemente *Reproducción / Pausa (7)* y reanudarla más adelante pulsando *Reproducción / Pausa (7)* de nuevo. Manteniendo pulsado el botón *MENU (1)* en la pantalla de **Grabación FM** accederás a las opciones de grabación: destino de tu grabación (memoria interna o memoria externa) y calidad de tu grabación. Para terminar de grabar mantén pulsado el botón *MENU (1)*.
 
-6. "Salir": Vuelve a la pantalla del dial de radio. También puedes regresar en cualquier momento pulsando el botón MENU.
-Para volver al menú principal del reproductor, sostén el botón MENU unos segundos. Volver al menú principal cerrará la recepción de radio
-FM.
+**Borrar emisora**: Escoge esta opción para borrar la presintonía en la que te encuentres.
+
+**Borrar todo**: Escoge esta opción para borrar todas las presintonías.
+
+**Búsqueda automática**: Realiza un escaneo del rango de frecuencias y guarda las
+20 primeras emisoras encontradas en las presintonías.
+
+Para volver al menú principal del reproductor, mantén pulsado el botón *MENU (1)* unos segundos. Al regresar al menú principal, terminará la recepción de radio FM.
 
