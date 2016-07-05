@@ -12,7 +12,7 @@ N I F: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem Energy MP3 Player Stick / Active Series**
+**Energy Sistem Energy MP4 Touch Series**
 
 *País de fabricación:* China
 
