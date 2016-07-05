@@ -35,7 +35,7 @@ Usa esta opción cuando grabes o borres canciones para que se vuelvan a crear la
 
 Nota: Al desconectar el reproductor del ordenador con la extracción segura de dispositivos, tu *MP4 Touch* hará un *Refrescar* automático y seguirá en modo de carga.
 
-**“Toda las canciones”: **
+**“Todas las canciones”:**
 Con esta opción veras todas las canciones que hayas grabado en tu MP4 Energy, ordenadas por orden alfabético según el nombre del archivo.
 
 **“Album”, “Artista” y “Género”:** 
@@ -66,7 +66,7 @@ Usa esta opción cuando grabes o borres canciones para que se vuelvan a crear la
 
 Nota: Al desconectar el reproductor del ordenador con la extracción segura de dispositivos, tu ‘MP4 Touch’ hará un ‘Refrescar’ automático y seguirá en modo de carga.
 
-**“Toda las canciones”: **
+**“Todas las canciones”:**
 Con esta opción veras todas las canciones que hayas grabado en tu MP4 Energy, ordenadas por orden alfabético según el nombre del archivo.
 
 **“Album”, “Artista” y “Género”:** Muestran la lista de tu música favorita ordenada por álbum/ artista/genero respectivamente.
