@@ -1,6 +1,6 @@
 ## Cuidado y mantenimiento
 
-No expongas tu MP4 Energy a golpes, polvo, luz solar directa, humedad o altas temperaturas.
+No expongas tu *MP4 Energy* a golpes, polvo, luz solar directa, humedad o altas temperaturas.
 
 No uses productos de limpieza corrosivos o abrasivos.
 
