@@ -1,4 +1,4 @@
-## Reproducción de música.
+## Reproducción de música
 
 Tu *MP4 Touch* te permite disfrutar de audio codificado en los formatos MP3 / FLAC / WMA / WAV gracias a su procesador de alta fidelidad de sonido. 
 
