@@ -1,4 +1,4 @@
-## Menú principal.
+## Menú principal
 
 
 ![](meter imagen DISEÑO)
