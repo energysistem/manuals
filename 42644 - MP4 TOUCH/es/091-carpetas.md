@@ -1,4 +1,4 @@
-## Navegación por carpetas.
+## Navegación por carpetas
 
 Esta función te permite seleccionar directamente la carpeta y el archivo de música / video / imagen que desees reproducir, y que previamente hayas organizado con tu ordenador.
 
