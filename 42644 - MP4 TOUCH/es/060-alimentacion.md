@@ -1,6 +1,6 @@
 ## Encendido, apagado y alimentación
 
-Enciende y apaga tu Energy MP4 Touch manteniendo el interruptor On/Off (4) hacia arriba durante 2 segundos. Para bloquear/desbloquear el dispositivo, sitúa el interruptor On/Off (4) en la posición inferior/superior, respectivamente.
+Enciende y apaga tu *Energy MP4* Touch manteniendo el interruptor On/Off (4) hacia arriba durante 2 segundos. Para bloquear/desbloquear el dispositivo, sitúa el interruptor On/Off (4) en la posición inferior/superior, respectivamente.
 Para cargar la batería conecta el cable micro-USB a la Conexión USB (11) y, a continuación, conecta el otro extremo a un ordenador u otro dispositivo con puerto de carga USB.
 
 Tu MP4 Energy lleva integrada una batería recargable de iones de litio. Para optimizar la vida de tu batería, realiza una carga completa antes del primer uso. Recarga la batería conectando el reproductor a un ordenador mediante el conector USB.
