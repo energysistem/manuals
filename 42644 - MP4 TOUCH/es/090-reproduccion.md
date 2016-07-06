@@ -8,9 +8,6 @@ Para empezar, reanudar o pausar la reproducción de música pulsa el botón *Rep
 
 Pulsando brevemente los botones *Retroceso (8)* y *Avance (5)*, cambias a la anterior/siguiente pista respectivamente. También puedes retroceder / avanzar dentro de la canción sosteniendo el botón *Retroceso (8)* / *Avance (5)* respectivamente.
 
-![](PDTE IMAGEN DISEÑO)
-
-
 Puedes acceder a las diferentes opciones de configuración de reproducción pulsando el botón MENU (1). Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del menú de opciones, pulsa brevemente *MENU (1)*, o mantenlo apretado para volver al menú principal.
 
 
@@ -45,8 +42,8 @@ Nota: Para que los ficheros de audio se muestren en dichas listas, su informaci�
 
 Nota: La letra de una canción es un archivo de texto con el mismo nombre que el archivo de música pero con la extensión LRC. Si algunas de tus canciones no tiene ese fichero LRC, no se mostrara la letra, pero podrás escucharla sin problemas.
 
-Si la canción tiene letra (archivo LRC), esta se mostrara en pantalla, y si no, se
-mostrara el ecualizador.
+Si la canción tiene letra (archivo LRC), esta se mostrara en pantalla, y si no, se mostrara el ecualizador.
+
 Pulsando el botón MENU mientras la reproducción de música está en pausa, puedes acceder al submenú de navegación por tus carpetas así como seleccionar directamente la carpeta y el archivo de música que desees reproducir:
 
 ![](PDTE IMAGEN DISEÑO)
