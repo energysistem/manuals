@@ -1,4 +1,4 @@
-## Grabadora de voz.
+## Grabadora de voz
 
 Tu *MP4 Touch* te permite grabar voz con su micrófono integrado. Para entrar en el modo de grabación, selecciona la opción *Grabador* del Menú principal con el botón Reproducción / Pausa (7)*.
 
