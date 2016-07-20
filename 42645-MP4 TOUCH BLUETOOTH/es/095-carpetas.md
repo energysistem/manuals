@@ -13,3 +13,4 @@ Mediante los botones *Volumen + (9)* y *Volumen – (6)* puedes seleccionar la a
 Para retroceder en el menú de navegación por carpetas, pulsa brevemente *MENU (1)*, o mantenlo apretado para volver al menú principal.
 
 
+
