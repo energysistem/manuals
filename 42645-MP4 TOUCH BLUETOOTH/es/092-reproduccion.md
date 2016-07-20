@@ -59,4 +59,4 @@ Con esta opción puedes aumentar o disminuir la velocidad de la canción que est
 
 **”Quitar de la lista de reproducción”**: Selecciona esta opción, para eliminar la canción de una de las listas de reproducción en la que se encuentra dicha canción. 
 
-“Borrar”: Escoge esta opción para borrar de la memoria interna la canción en la que te encuentres.
+**“Borrar”**: Escoge esta opción para borrar de la memoria interna la canción en la que te encuentres.
