@@ -20,7 +20,9 @@ Puedes seleccionar tu modo preferido a través de esta opción: “Repetir 1” 
 El orden de reproducción de las canciones se realiza en un orden no definido. Por defecto, el modo *’Aleatorio’* está desactivado. Por lo que deberás activarlo en el primer uso del *MP3 Energy*.
 
 **Ajustes de sonido**: Con esta opción puedes editar el límite de volumen de la salida de audio de tu *MP3 Clip*.
+
 **Tiempo de apagado**: Con esta opción puedes definir un tiempo de apagado para el reproductor, estando o no en reproducción. Escoge ‘0’ minutos si no quieres que el *MP3 clip* tenga un tiempo de apagado automático.
+
 **Ajustes de pantalla**: Podrás ajustar el tiempo hasta que la iluminación de la pantalla se auto apaga cuando no se presiona ningún botón. Escoge la opción ‘Siempre activo’ para que la pantalla esté siempre iluminada.
 
 **Idioma**: Puedes cambiar el idioma del interfaz de usuario entre Espanol, Ingles, Francés, etc.
