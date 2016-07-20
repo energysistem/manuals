@@ -12,4 +12,5 @@
 10. CONEXIÓN AURICULARES
 11. CONEXIÓN USB
 
+
 ![Imagen1](meter imagen DISEÑO)
