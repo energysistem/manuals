@@ -1,4 +1,4 @@
-## Conexión al PC.
+## Conexión al PC
 
 Para disfrutar del mejor sonido y de tu música favorita en tu *MP3 Energy*, debes copiar previamente los archivos desde tu PC a su memoria interna.
 
