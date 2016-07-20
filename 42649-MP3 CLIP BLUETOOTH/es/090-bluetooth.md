@@ -35,4 +35,4 @@ El orden de reproducción de las canciones se realiza en un orden no definido. P
 
 
 **“Modos de Ecualización”**:
-Con esta opción podrás seleccionar una ecualización de sonido acorde con tus preferencias. Entre los 7 modos predefinidos  disponibles: “Desactivado”(no se realizará ningún ajuste en la ecualización de la música que reproduzcas, “Rock”, “Funk”, “Hip Hop”, “Jazz”, “Clásica” o “Tecno. 
+Con esta opción podrás seleccionar una ecualización de sonido acorde con tus preferencias. Entre los 7 modos predefinidos  disponibles: “Desactivado”(no se realizará ningún ajuste en la ecualización de la música que reproduzcas, “Rock”, “Funk”, “Hip Hop”, “Jazz”, “Clásica” o “Tecno". 
