@@ -1,4 +1,4 @@
-## VISUALIZACIÓN DE IMÁGENES
+## Visualización de imágenes
 
 Visualiza y disfruta de tus imágenes y fotos BMP / JPG / GIF con la pantalla de alta resolución TFT de tu *MP4 Touch*.
 
