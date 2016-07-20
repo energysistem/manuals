@@ -1,4 +1,4 @@
-## REPRODUCCION DE VIDEOS
+## Reproducción de vídeos
 
 Con tu *MP4 Touch* la música cobra una nueva dimensión al disfrutar de tus videos musicales favoritos en cualquier momento y lugar.
 
