@@ -20,10 +20,6 @@ Try pressing the Reset button on the base using a very thin object such as a pap
 
 It is due to the format that has been digitized file. Many e-books are digitized and formatted automatically without review. Use only reliable content providers, quality content for the best user experience.
 
-**Can I listen to music while I'm reading an ebook?**
-
-Yes, the music application lets you listen to your music while you're reading all kinds of eBooks.
-
 **My battery lasts short.**
 
 If the battery of your eReader is short, make sure your Wi-Fi connection is off, also make sure you have selected "do not use the Wi-Fi while Stand by" at Wi-Fi Advanced Settings.
