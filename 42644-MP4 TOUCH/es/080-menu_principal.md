@@ -9,21 +9,21 @@
 ![](http://static.energysistem.com/images/manuals/42644/579f452711ce2.jpg)
 
 
-# RADIO FM
+### RADIO FM
 ![](http://static.energysistem.com/images/manuals/42644/579f45215427e.jpg)
 
 
-# GRABADOR
+### GRABADOR
 ![](http://static.energysistem.com/images/manuals/42644/579f45007eac2.jpg)
 
 
-# FOTOS
+### FOTOS
 ![](http://static.energysistem.com/images/manuals/42644/579f4506a9ed0.jpg)
 
 
-# CARPETAS
+### CARPETAS
 ![](http://static.energysistem.com/images/manuals/42644/579f44ec13108.jpg)
 
 
-# AJUSTES
+### AJUSTES
 ![](http://static.energysistem.com/images/manuals/42644/579f44e1b0de5.jpg)
