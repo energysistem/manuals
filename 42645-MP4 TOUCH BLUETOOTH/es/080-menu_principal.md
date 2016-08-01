@@ -9,9 +9,10 @@
 
 ![](http://static.energysistem.com/images/manuals/42645/579f2ba0d84b9.jpg)
 
-![](http://static.energysistem.com/images/manuals/42645/579f2b3368570.jpg)
-
 ![](http://static.energysistem.com/images/manuals/42645/579f2b2b204d5.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42645/579f2bcb6b2a2.jpg)
 
+![](http://static.energysistem.com/images/manuals/42645/579f2b91373c5.jpg)
+
+![](http://static.energysistem.com/images/manuals/42645/579f2b7e8f6a2.jpg)
