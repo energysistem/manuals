@@ -13,4 +13,4 @@
 11. CONEXIÓN USB
 
 
-![Imagen1](meter imagen DISEÑO)
+![](http://static.energysistem.com/images/manuals/42645/579f28311de1b.jpg)
