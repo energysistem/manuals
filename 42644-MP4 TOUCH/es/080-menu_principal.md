@@ -1,10 +1,10 @@
 ## Menú principal
 
 
-# MUSICA
+### MUSICA
 ![](http://static.energysistem.com/images/manuals/42644/579f45133f853.jpg)
 
-# VIDEO
+### VIDEO
 ![](http://static.energysistem.com/images/manuals/42644/579f452711ce2.jpg)
 
 # RADIO FM
