@@ -12,4 +12,5 @@
 10. CONEXIÓN AURICULARES
 11. CONEXIÓN USB
 
-![Imagen1](meter imagen DISEÑO)
+!(http://static.energysistem.com/images/manuals/42645/579f42b939649.jpg)
+
