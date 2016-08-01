@@ -1,7 +1,7 @@
 ## Menú principal
 
 
-![](http://static.energysistem.com/images/manuals/42645/579f30ac59b41.jpg) BLUETOOTH
+# BLUETOOTH![](http://static.energysistem.com/images/manuals/42645/579f30ac59b41.jpg) BLUETOOTH
 
 ![](http://static.energysistem.com/images/manuals/42645/579f30e766571.jpg) MUSICA
 
