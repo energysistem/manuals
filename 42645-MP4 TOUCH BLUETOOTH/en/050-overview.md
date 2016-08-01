@@ -11,3 +11,6 @@
 9. VOLUME +
 10. AUDIO OUTPUT 
 11. USB CONNECTION
+
+
+![](http://static.energysistem.com/images/manuals/42645/579f42b939649.jpg)
