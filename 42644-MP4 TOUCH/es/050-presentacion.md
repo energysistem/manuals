@@ -12,5 +12,5 @@
 10. CONEXIÓN AURICULARES
 11. CONEXIÓN USB
 
-!(http://static.energysistem.com/images/manuals/42645/579f42b939649.jpg)
+![](http://static.energysistem.com/images/manuals/42644/579f44f3e4c14.jpg)
 
