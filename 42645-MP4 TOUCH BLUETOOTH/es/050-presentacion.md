@@ -13,4 +13,4 @@
 11. CONEXIÓN USB
 
 
-![](http://static.energysistem.com/images/manuals/42645/579f28311de1b.jpg)
+![](http://static.energysistem.com/images/manuals/42645/579f42b939649.jpg)
