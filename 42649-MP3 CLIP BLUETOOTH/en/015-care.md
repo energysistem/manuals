@@ -1,4 +1,4 @@
-##Care and maintenance
+## Care and maintenance
 
 Do not expose your *Energy MP3* to impacts, dust, direct sunlight, moisture or high temperatures.
 
