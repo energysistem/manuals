@@ -10,14 +10,14 @@ Press briefly the *Back (8)* and *Next (5)*, buttons to change to the previous/n
 
 Access the option submenu by pressing the *MENU (1)* button. Move from one option to the next by using the *Volume + (9)* and *Volume - (6)* buttons and use the *Play / Pause (7)* button to select.
 
-*"Local folder"*: 
+**Local folder**: 
 This option allows you to browse the folders of your MP4 Touch internal memory or microSD external memory and select the video file you prefer, just like you would do from your computer.
 
-*"Delete file"*: This option allows you to delete the current video.
+**Delete file**: This option allows you to delete the current video.
 
-*"Delete all"*: This option allows you to delete all videos stored in the internal memory.
+**Delete all**: This option allows you to delete all videos stored in the internal memory.
 
-*"Repeat"*: This option enables you to set the playback order of videos (Repeat one, Repeat all, Random, Repeat folder, etc.).
+**Repeat**: This option enables you to set the playback order of videos (Repeat one, Repeat all, Random, Repeat folder, etc.).
 
 To return to the video you were watching, press briefly the *MENU (1)* button.
 
