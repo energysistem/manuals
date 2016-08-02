@@ -1,4 +1,4 @@
-## Declaración de conformidad.
+## Declaración de conformidad
 
 Nombre del suministrador: Energy Sistem Technology, S. A.
 
