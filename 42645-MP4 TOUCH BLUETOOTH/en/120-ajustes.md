@@ -1,7 +1,7 @@
 ## Settings
 
 You can configure many aspects of your MP4 'Touch' very easily.
-To do that, access *System setting* from the main menu. Move from one option to the next by using the *Volume + (9)* and *Volume - (6)* buttons and use the *Play / Pause (7)* button to select.
+To do that, access **System setting** from the main menu. Move from one option to the next by using the *Volume + (9)* and *Volume - (6)* buttons and use the *Play / Pause (7)* button to select.
 
 **Sound settings**: This option enables you to set the volume limit of your *MP4 Touch* audio output.
 
