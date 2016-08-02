@@ -37,22 +37,22 @@ You can access the playback settings submenu by pressing and holding the *MENU (
 
 **"Play mode"**: 
 
-1)	*Repeat*:
+1)	Repeat:
 
 You can choose your favourite mode through this option: "Repeat 1" (it repeats the current track) and "Repeat all" (it plays all tracks continuously) and "View Playing" (it plays the 10 first seconds and changes to next track).
 
-2)	*"Shuffle"*: 
+2)	Shuffle: 
 
 Songs are played in a random order. *'Shuffle'* mode is disabled by default so you will have to enable it when using your *Energy MP4* for the first time.
 
 
 **"Sound settings"**:
 
-1)	*Equalizer*:
+1)	Equalizer:
 
 This option will allow you to equalize the audio according to your preferences. Among the 7 predefined modes are: "Off" (any adjustment will be made in the equalization of played music), "Rock", "Funk", "Hip Hop", "Jazz", "Classic" or "Techno". 
 
-2)	*Variable Speed Playback* 
+2)	Variable Speed Playback: 
 
 This option allows you to increase or decrease the playback speed. In case you don't want to change the song speed, select the '+0' option in this submenu.
 
