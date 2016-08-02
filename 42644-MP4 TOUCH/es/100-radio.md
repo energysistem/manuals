@@ -7,7 +7,7 @@ Con los botones *Avance (5)* / *Retroceso (8)* puedes desplazarte por el rango d
 Para pasar de una emisora almacenada a otra, simplemente pulsa el botón *Reproducción / Pausa (7)*. De esta forma puedes navegar por todas tus emisoras almacenadas.
 
 
-Accede al submenú de opciones de radio pulsando el botón *MENU (1)* en la ventana del dial FM para que se muestren las diferentes opciones disponibles. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)*y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del submenú de opciones, mantén pulsado el botón *MENU (1)*.
+Accede al submenú de opciones de radio pulsando el botón *MENU (1)* en la ventana del dial FM para que se muestren las diferentes opciones disponibles. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*. Para salir del submenú de opciones, mantén pulsado el botón *MENU (1)*.
 
 **Guardar emisora**: Esta opción te permite guardar la emisora que estas escuchando en la próxima presintonía libre. Si todas las presintonías están ocupadas, no se grabara. Se almacenará la emisora que estás escuchando en la memoria interna del dispositivo, como “01”. Repite este proceso para crear un listado de hasta 20 emisoras con el orden que tú elijas.
 
@@ -18,8 +18,7 @@ Para ello selecciona esta opción con el botón *Reproducción / Pausa (7)* para
 
 **Borrar todo**: Escoge esta opción para borrar todas las presintonías.
 
-**Búsqueda automática**: Realiza un escaneo del rango de frecuencias y guarda las
-20 primeras emisoras encontradas en las presintonías.
+**Búsqueda automática**: Realiza un escaneo del rango de frecuencias y guarda las 20 primeras emisoras encontradas en las presintonías.
 
 Para volver al menú principal del reproductor, mantén pulsado el botón *MENU (1)* unos segundos. Al regresar al menú principal, terminará la recepción de radio FM.
 
