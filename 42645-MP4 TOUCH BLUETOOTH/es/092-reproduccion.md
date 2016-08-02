@@ -34,22 +34,22 @@ Manteniendo pulsado durante 2 segundos el botón *MENU (1)* mientras la reproduc
 
 **“Modo de reproducción”**: 
 
-1.	*Repetir*:
+1)	*Repetir*:
 
 Puedes seleccionar tu modo preferido a través de esta opción: “Repetir 1” (Repite la pista actual), “Repetir todo” (reproducción continua de todas las pistas), e “Intro” (primeros 10 segundos y pasa a la siguiente pista).
 
-2.	*‘Aleatorio”*: 
+2)	*‘Aleatorio”*: 
 
 El orden de reproducción de las canciones se realiza en un orden no definido. Por defecto, el modo *’Aleatorio’* está desactivado. Por lo que deberás activarlo en el primer uso del *MP4 Energy*.
 
 
 **“Ajustes de sonido”**:
 
-1.	*Ecualizador*:
+1)	*Ecualizador*:
 
 Con esta opción podrás seleccionar una ecualización de sonido acorde con tus preferencias. Entre los 7 modos predefinidos  disponibles: “Desactivado”(no se realizará ningún ajuste en la ecualización de la música que reproduzcas, “Rock”, “Funk”, “Hip Hop”, “Jazz”, “Clásica” o “Tecno”. Puedes ecualizar manualmente el sonido con la opción ‘Personalizado’. 
 
-2.	*Velocidad* 
+2)	*Velocidad* 
 
 Con esta opción puedes aumentar o disminuir la velocidad de la canción que estás reproduciendo. Si no deseas editar la velocidad de la canción, selecciona la opción ‘+0’ de este submenú.
 
