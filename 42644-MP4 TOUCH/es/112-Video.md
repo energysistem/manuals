@@ -10,14 +10,14 @@ Pulsa brevemente los botones *Retroceso (8)* y *Avance (5)*, para pasar a la ant
 
 Accede al submenú de opciones pulsando el botón *MENU (1)*. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*:
 
-*“Índice principal / Tarjeta”*: 
+**Índice principal / Tarjeta**: 
 Con esta opción puedes explorar los directorios de la memoria interna de tu MP4 Touch o memoria externa microSD; y seleccionar el archivo de video que quieras, tal y como lo harías desde tu ordenador.
 
-*“Borrar archivo”*: Escoge esta opción para borrar el vídeo en el que te encuentres.
+**Borrar archivo**: Escoge esta opción para borrar el vídeo en el que te encuentres.
 
-*“Borrar todo”*: Escoge esta opción para borrar todos los vídeos de la memoria interna.
+**Borrar todo**: Escoge esta opción para borrar todos los vídeos de la memoria interna.
 
-*“Modo de reproducción”*: Con esta opción podras definir el orden de reproduccion de los videos (Repetir una vez, Repetir todos, Aleatorio, Repetir carpeta, etc.).
+**Modo de reproducción**: Con esta opción podras definir el orden de reproduccion de los videos (Repetir una vez, Repetir todos, Aleatorio, Repetir carpeta, etc.).
 
 Para acceder de nuevo al vídeo que estabas reproduciendo, pulsa brevemente el botón *MENU (1)*.
 
