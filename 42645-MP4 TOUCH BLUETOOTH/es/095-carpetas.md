@@ -4,7 +4,7 @@ Esta función te permite seleccionar directamente la carpeta y el archivo de mú
 
 Puedes navegar por tus carpetas estando en el modo *Música / Video / Foto*. 
 
-Ten en cuenta que mientras navegas por las carpetas desde una sección concreta solo se muestran los archivos del tipo asociado a esa sección (música con *Música*, imágenes con *Foto*, etc.). 
+Ten en cuenta que mientras navegas por las carpetas desde una sección concreta solo se muestran los archivos del tipo asociado a esa sección (música con *Música*, imágenes con *Fotos*, etc.). 
 
 Para ver todos los archivos de la memoria a la vez, escoge la opción *Carpetas* del menú principal.
 
