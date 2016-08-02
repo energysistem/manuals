@@ -1,4 +1,4 @@
-##Radio mode
+## Radio mode
 
 Your *MP4 Touch* has an integrated FM Radio with some presets and direct recording option. To listen to the radio, select the *FM Radio* option in the main menu. 
 
@@ -6,7 +6,7 @@ Move from one option to the next by using the *Volume + (9)* and *Volume - (6)* 
 
 In order to create a first list of presets, you should use one of the available search options from the menu: manual or automatic.
 
-*Notice*: Make sure your earphones are properly connected to the audio output. Otherwise, the FM search won't be performed correctly.
+**Notice**: Make sure your earphones are properly connected to the audio output. Otherwise, the FM search won't be performed correctly.
 
 **Presets**: Through this option, you will access the list of presets previously saved in the MP4 memory. A list of up to 30 presets is available. When using your *MP4 Touch* for the first time, any preset will be saved. 
 
