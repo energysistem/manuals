@@ -1,4 +1,4 @@
-## Conexión al PC.
+## Conexión al PC
 
 Para disfrutar del mejor sonido y de tu música favorita en tu *MP3 Energy*, debes copiar previamente los archivos desde tu PC a su memoria interna.
 Conecta el reproductor al puerto USB del ordenador mediante el conector USB y será detectado por tu ordenador automáticamente sin necesidad de instalar ningún driver. 
