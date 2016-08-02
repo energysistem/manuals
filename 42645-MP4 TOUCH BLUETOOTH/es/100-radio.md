@@ -6,7 +6,7 @@ Desplázate entre las opciones con los botones *Volumen + (9) y Volumen - (6)* y
 
 Para hacer una primera lista de presintonías, deberás utilizar una de las opciones de búsqueda disponibles en el menú, dispones de la opción de búsqueda manual y de la opción de búsqueda automática.
 
-*Nota*: Asegúrate que tienes los auriculares conectados a la salida de audio. Si no están conectados, no se podrá realizar la búsqueda FM correctamente.
+**Nota**: Asegúrate que tienes los auriculares conectados a la salida de audio. Si no están conectados, no se podrá realizar la búsqueda FM correctamente.
 
 **Emisoras**: En esta opción, podrás acceder a la lista de emisoras previamente almacenadas en la memoria del MP4. Dispones de una lista de hasta 30 emisoras. Si es la primera vez que utilizas el *MP4 Touch*, no tendrá almacenada ninguna presintonía. 
 
