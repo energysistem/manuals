@@ -1,4 +1,4 @@
-## Reinstalación de firmware.
+## Reinstalación de firmware
 
 Tu *MP3 Energy* tiene un sistema operativo instalado, comúnmente denominado firmware, que en algunas ocasiones es necesario reinstalar. Si observas que el reproductor se bloquea, se reinicia solo, o tienes problemas para acceder al contenido de la memoria desde tu ordenador, prueba a pulsar el RESET (agujero de al lado del conector micro USB)  con un pequeño alfiler o aguja. Si el problema persiste, será signo de que el firmware se ha dañado y hay que reinstalarlo.
 
