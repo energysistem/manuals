@@ -6,7 +6,7 @@ To view your images, select *Photo* from the main menu. You will access directly
 
 Press briefly the *Back (8)* and *Next (5)*, buttons to change to the previous/next image respectively. Access the options submenu by pressing the *MENU (1)* button for a few seconds. 
 
-The *Slideshow settings* option from the submenu allows you to set the playback mode: Shuffle, repeat and thumbnail. You can also set the time per slide if you have selected the repeat option.
+The **Slideshow settings** option from the submenu allows you to set the playback mode: Shuffle, repeat and thumbnail. You can also set the time per slide if you have selected the repeat option.
 
 To return to the previous menu, press *MENU (1)*.
 
