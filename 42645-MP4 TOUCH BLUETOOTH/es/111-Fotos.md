@@ -6,7 +6,7 @@ Para ver tus imágenes, selecciona *Imágenes* en el menú principal. Accederás
 
 Pulsa brevemente los botones *Retroceso (8)* y *Avance (5)*, para pasar a la anterior/siguiente imagen respectivamente. Accede al submenú de opciones pulsando el botón *MENU (1)* durante unos segundos. 
 
-Con la opción *Ajustes de secuencia* del submenú  configuras el tipo de reproducción: Aleatoria, repetición y previo; así como el tiempo establecido por cada imagen, si hemos seleccionado la opción de repetición.
+Con la opción **Ajustes de secuencia** del submenú  configuras el tipo de reproducción: Aleatoria, repetición y previo; así como el tiempo establecido por cada imagen, si hemos seleccionado la opción de repetición.
 
 Para retroceder al menú anterior, pulsa el botón *MENU (1)*.
 
