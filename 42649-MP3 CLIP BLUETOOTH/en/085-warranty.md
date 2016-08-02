@@ -1,4 +1,4 @@
-## Warranty.
+## Warranty
 
 Energy Sistem Technolgy, SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months.
 
