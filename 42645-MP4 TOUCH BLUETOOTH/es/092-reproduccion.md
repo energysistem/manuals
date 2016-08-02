@@ -2,7 +2,7 @@
 
 Tu MP4 Energy te permite disfrutar de audio codificado en los formatos MP3 / FLAC / WMA / WAV gracias a su procesador de alta fidelidad de sonido. 
 
-Para entrar al menú de reproducción de música, pulsa *Reproducción / Pausa (7) sobre la opción *‘Música’* del menú principal.
+Para entrar al menú de reproducción de música, pulsa *Reproducción / Pausa (7)* sobre la opción ‘Música’ del menú principal.
 
 Accederás directamente a las diferentes opciones de reproducción de música. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*. Pulsa brevemente *MENU (1)* para retroceder, o mantenlo apretado para volver al menú principal.
 
@@ -57,6 +57,8 @@ Con esta opción puedes aumentar o disminuir la velocidad de la canción que est
 
 **”Añadir a la lista de reproducción”**: Con esta opción, podrás añadir una canción una de las listas de canciones disponibles en tu memoria interna.  Dispones de 3 Listas editables para incluir canciones: *Lista canc. [1]*, *Lista canc. [2]* y *Lista canc. [3]*. Selecciona esta opción para incluir la canción que estas reproduciendo a una de las 3 listas de reproducción disponibles.
 
+
 **”Quitar de la lista de reproducción”**: Selecciona esta opción, para eliminar la canción de una de las listas de reproducción en la que se encuentra dicha canción. 
+
 
 **“Borrar”**: Escoge esta opción para borrar de la memoria interna la canción en la que te encuentres.
