@@ -3,7 +3,7 @@
 
 ### BLUETOOTH
 ![](http://static.energysistem.com/images/manuals/42649/57a06e3f4e2d8.jpg) 
-
+<br>
 
 
 ### MUSIC
