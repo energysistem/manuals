@@ -6,6 +6,6 @@ Para ver tus imágenes, selecciona *Fotos* en el menú principal. Accederás dir
 
 Pulsa brevemente los botones *Retroceso (8)* y *Avance (5)*, para pasar a la anterior/siguiente imagen respectivamente. Accede al submenú de opciones pulsando el botón *MENU (1)*. 
 
-Con la opción *Conf. reproducción* del submenú  configuras el tipo de reproducción (reproducción automática o manual).
+Con la opción **Conf. reproducción** del submenú  configuras el tipo de reproducción (reproducción automática o manual).
 
 Para volver al menú principal del reproductor, mantén pulsado el botón *MENU (1)* unos segundos.
