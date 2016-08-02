@@ -6,6 +6,6 @@ To view your images, select *Picture* from the main menu. You will access direct
 
 Press briefly the *Back (8)* and *Next (5)*, buttons to change to the previous/next image respectively. Access the option submenu by pressing the *MENU (1)* button. 
 
-The *Playback set* option in the submenu allows you to set the playback mode (auto or manual play).
+The **Playback set** option in the submenu allows you to set the playback mode (auto or manual play).
 
 Press and hold the *MENU (1)* button for a few seconds to return to the main menu.
