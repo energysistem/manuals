@@ -17,7 +17,6 @@ Puedes acceder a las diferentes opciones de configuración de reproducción puls
 Pulsando el botón *MENU(1)* mientras la reproducción de música está en marcha puedes acceder al submenú de ajustes de reproducción:
 
 
-
 **“Modo de Reproducción”:** 
 El orden de reproducción de las canciones depende del modo seleccionado. Por defecto, el modo es “Normal”. Puedes seleccionar tu modo preferido a través de esta opción: “Repetir 1” (Repite la pista actual), “Carpeta” (solo las pistas de la carpeta actual y para), “Repetir carpeta” (repite las pistas de la carpeta actual), “Repetir todas” (reproducción continua de todas las pistas), “Aleatorio” (reproduce las pistas en un orden no definido) e “Intro” (primeros 10 segundos y pasa a la siguiente pista).
 
@@ -45,8 +44,6 @@ Nota: La letra de una canción es un archivo de texto con el mismo nombre que el
 Si la canción tiene letra (archivo LRC), esta se mostrara en pantalla, y si no, se mostrara el ecualizador.
 
 Pulsando el botón MENU mientras la reproducción de música está en pausa, puedes acceder al submenú de navegación por tus carpetas así como seleccionar directamente la carpeta y el archivo de música que desees reproducir:
-
-![](PDTE IMAGEN DISEÑO)
 
 
 **“Indice principal / Tarjeta”:**
