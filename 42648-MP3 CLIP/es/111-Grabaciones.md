@@ -1,4 +1,4 @@
-##Grabaciones de voz
+## Grabaciones de voz
 
 Accederás directamente las grabaciones que hayas realizado en el modo ‘GRABADOR DE VOZ’. Comenzarás en el interfaz de reproducción, con el primer archivo de grabación realizado ‘REC001.WAV’. 
 
