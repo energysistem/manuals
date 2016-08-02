@@ -16,7 +16,6 @@ Puedes acceder a las diferentes opciones de configuración de reproducción puls
 
 Pulsando el botón *MENU(1)* mientras la reproducción de música está en marcha puedes acceder al submenú de ajustes de reproducción:
 
-![](PDTE IMAGEN DISEÑO)
 
 
 **“Modo de Reproducción”:** 
