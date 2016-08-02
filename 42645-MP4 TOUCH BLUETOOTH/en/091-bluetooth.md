@@ -1,4 +1,4 @@
-##Bluetooth connection
+## Bluetooth connection
 
 Access the Bluetooth menu and select the *Bluetooth Status* option in the submenu in order to enable the Bluetooth function. In this option, make sure the Bluetooth is on by choosing *Enable Bluetooth*.
 
@@ -6,7 +6,7 @@ To pair a Bluetooth device for the first time, select the *Bluetooth Search* opt
 
 Once the device has been found, select it from the search list, then select the 'Bluetooth Pairing' option. 
 
-**Notice: ** If once you have selected the device, you see the *'Bluetooth Unpairing'* option, it means that it has been paired to your *Energy MP4* before and it will be available in the *'Bluetooth Device List'*.
+**Notice:** If once you have selected the device, you see the *'Bluetooth Unpairing'* option, it means that it has been paired to your *Energy MP4* before and it will be available in the *'Bluetooth Device List'*.
 
 Once the device has been paired, it will be saved in the memory and you will be able to connect it every time you use the *BLUETOOTH* mode of your *Energy MP4* from the *Bluetooth Devices List* option in the submenu. By choosing the *Bluetooth Devices Connected* option you can reactivate the connection with the device on the list. 
 
