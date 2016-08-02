@@ -1,4 +1,4 @@
-## Menú principal
+## Main menu
 
 ### BLUETOOTH
 ![](http://static.energysistem.com/images/manuals/42645/579f30ac59b41.jpg) 
