@@ -1,4 +1,4 @@
-##PC Connection
+## PC Connection
 
 In order to enjoy the best sound and your favourite music on your *Energy MP4*, you have to copy these files from your PC to its internal memory first.
 
