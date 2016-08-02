@@ -1,4 +1,4 @@
-##Image viewing
+## Image viewing
 
 View and enjoy your BMP / JPG / GIF images and photos thanks to the TFT high-resolution screen of your *MP4 Touch*.
 
