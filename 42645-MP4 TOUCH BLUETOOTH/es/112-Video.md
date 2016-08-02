@@ -12,9 +12,9 @@ Pulsa brevemente los botones *Retroceso (8)* y *Avance (5)*, para pasar a la ant
 
 Accede al submenú de opciones pulsando el botón *MENU (1)* durante unos segundos. Desplázate entre las opciones con los botones *Volumen + (9)* y *Volumen – (6)* y selecciona pulsando el botón *Reproducción / Pausa (7)*:
 
-*Repetir*: Con esta opción podrás definir el orden de reproducción de los videos (Repetir una vez o Repetir todos).
+**Repetir**: Con esta opción podrás definir el orden de reproducción de los videos (Repetir una vez o Repetir todos).
 
-*Borrar video*: Escoge esta opción para borrar el vídeo en el que te encuentres.
+**Borrar video**: Escoge esta opción para borrar el vídeo en el que te encuentres.
 
 Selecciona la opción ‘Crea lista de reproducción/ refrescar’: Usa esta opción cuando grabes o borres imágenes para que se vuelvan a crear las listas de ordenación en tu memoria o externa.
 
