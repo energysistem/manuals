@@ -10,3 +10,5 @@
 9. MICRO SD SLOT 
 10. AUDIO OUTPUT 
 
+![](http://static.energysistem.com/images/manuals/42649/57a06a856b7e6.jpg)
+
