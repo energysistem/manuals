@@ -1,4 +1,4 @@
-##Voice recorder
+## Voice recorder
 
 Your *MP4 Touch* enables you to perform voice recording thanks to its integrated microphone. To access the voice recording mode, select the *Recordings* option from the main Menu with the Play / Pause (7)* button.
 
