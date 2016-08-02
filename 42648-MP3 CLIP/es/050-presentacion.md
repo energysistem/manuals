@@ -11,5 +11,5 @@
 9. RANURA MICRO SD 
 10. CONEXIÓN AURICULARES
 
+![](http://static.energysistem.com/images/manuals/42648/57a06ab57b0b8.jpg)
 
-![Imagen1](meter imagen DISEÑO)
