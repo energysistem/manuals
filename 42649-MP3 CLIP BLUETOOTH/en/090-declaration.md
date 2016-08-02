@@ -1,4 +1,4 @@
-## Declaration of conformity.
+## Declaration of conformity
 
 Manufacturer name: Energy Sistem Technolgy, S.A.
 
