@@ -5,12 +5,15 @@
 ![](http://static.energysistem.com/images/manuals/42649/57a06e3f4e2d8.jpg) 
 
 
+
 ### MUSIC
 ![](http://static.energysistem.com/images/manuals/42649/57a06bc0c09c9.jpg) 
 
 
+
 ### RECORDINGS
 ![](http://static.energysistem.com/images/manuals/42649/57a06bb50502d.jpg) 
+
 
 
 ### FM RADIO
