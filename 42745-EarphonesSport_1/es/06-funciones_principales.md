@@ -2,7 +2,7 @@
 <quick_guide>
 ### Encendido y apagado del dispositivo
 
-Para encender el dispositivo mantén pulsado 2 segundos el *BOTÓN MULTIFUNCIÓN* (1) y verás que el indicador (4) se ilumina en azul. Al encender el dispositivo, escucharás un sonido de confirmación. Mientras el dispositivo esté encendido, el indicador (4) continuará parpadeando en azul. 
+Para encender el dispositivo mantén pulsado 2 segundos el *BOTÓN MULTIFUNCIÓN* (1) y verás que el *INDICADOR* (4) se ilumina en azul. Al encender el dispositivo, escucharás un sonido de confirmación. Mientras el dispositivo esté encendido, el *INDICADOR* (4) continuará parpadeando en azul. 
 
 Para apagar el dispositivo mantén pulsado 3 segundos el *BOTÓN MULTIFUNCIÓN* (1). Escucharás un sonido de apagado.
 
@@ -10,7 +10,7 @@ Para apagar el dispositivo mantén pulsado 3 segundos el *BOTÓN MULTIFUNCIÓN* 
 
 ### Carga de la batería
 
-Cuando la batería se encuentre por debajo del 10%, el *INDICADOR* (4) parpadeará en rojo y un sonido te avisará para que recargues la batería usando la conexión de carga (6). 
+Cuando la batería se encuentre por debajo del 10%, el *INDICADOR* (4) parpadeará en rojo y un sonido te avisará para que recargues la batería usando la *CONEXIÓN DE CARGA* (6). 
 
 Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la *CONEXIÓN DE CARGA* (6), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.).
 
