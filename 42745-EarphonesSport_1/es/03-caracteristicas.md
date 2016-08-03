@@ -1,6 +1,6 @@
 ## Especificaciones técnicas.
 
-### CONECTIVIDAD
+#### CONECTIVIDAD
 - Bluetooth v4.1, clase II
 - Alcance: Hasta 10 m.
  
