@@ -7,9 +7,13 @@ Tel: 902 388 388  / + 34 966 813 257
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Earphones
+
 Marca: Energy Sistem
+
 Modelo: Energy Earphones Sport 1 Bluetooth
+
 Fabricante: Energy Sistem Technology S.A.
+
 País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
