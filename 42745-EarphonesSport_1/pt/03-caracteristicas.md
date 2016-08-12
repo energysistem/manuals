@@ -1,31 +1,24 @@
-## Características
+## Especificaciones técnicas.
 
-### Características gerais
+#### CONECTIVIDAD
+- Bluetooth v4.1, clase II
+- Alcance: Hasta 10 m.
+ 
+#### DRIVERS
+- Respuesta en frecuencia: 20  Hz ~ 20 KHz
+- Diámetro: 6 mm
 
-* Auscultadores desportivos Bluetooth®.
-* Pode sincronizá-la facilmente com tablets, smartphones, computadores portáteis, MACs, PCs e qualquer outro dispositivo Bluetooth®.
-* Controlo de volume a partir dos próprios auscultadores.
-* Sincronização sem códigos.
-* Tecnologia Multiponto que permite ligar dois dispositivos Bluetooth® em simultâneo. 
-* Leves e confortáveis.
-* Recepção de chamadas. Sistema mãos livres.
-* Raio de utilização: até 10 m.
-* Bateria de lítio recarregável.
+#### MICRÓFONO
+- Sensibilidad: -42 dB±3 dB (@1 Khz)
 
-### Especificações técnicas
+#### BATERÍA
+- Capacidad: 100 mAh
+- Tipo: polímero de litio
+- Autonomía en uso: hasta 8 horas
+- Autonomía en stand by: 300 horas
+- Sistema de carga: microUSB
+- Tiempo de carga: 1,5 horas
 
-*	Bluetooth® V4.1, Classe II.
-*	Suporta protocolos HSP / HFP / A2DP /AVRCP.
-*	Indicador de carga para dispositivos iOS.
-*	Diâmetro do driver: 10 mm.
-* Resposta em frequência: 20 - 20.000 Hz.
-*	Raio de utilização: até 10 m.
-*	Sensibilidade do microfone: -42dB.
-
-### Características da bateria de lítio recarregável
-
-*	Capacidade: 100 mAh.
-*	Sistema de carregamento através de USB.
-*	Tempo de carregamento: 1,5 horas.
-*	Autonomia da bateria: 8 horas.
-*	Autonomia em stand by: 300 horas.
+#### OTROS
+- Indicador de carga en dispositivos iOS
+- Soporta protocolos HSP / HFP / A2DP /AVRCP 
