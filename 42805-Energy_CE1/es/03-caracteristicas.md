@@ -12,7 +12,7 @@
 - Sensibilidad: -42 dB±3 dB (@1 Khz)
 
 #### BATERÍA
-- Capacidad: 100 mAh
+- Capacidad: 75 mAh
 - Tipo: polímero de litio
 - Autonomía en uso: hasta 8 horas
 - Autonomía en stand by: 300 horas
@@ -20,5 +20,4 @@
 - Tiempo de carga: 1,5 horas
 
 #### OTROS
-- Indicador de carga en dispositivos iOS
 - Soporta protocolos HSP / HFP / A2DP /AVRCP 
