@@ -6,9 +6,9 @@ Tel: 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Earphones <br/>
+Descripción: Music Box <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
+Modelo: Energy Music Box 5 <br/>
 Fabricante: Energy Sistem Technology S.A. <br/>
 País de fabricación: China <br/>
 
@@ -33,6 +33,6 @@ Product Management Director
 
 </quick_guide>
 
-![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
 
 
