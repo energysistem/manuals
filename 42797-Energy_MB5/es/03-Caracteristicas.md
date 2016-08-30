@@ -25,7 +25,7 @@
 *	THD < 1%.
 
 ### Características de la batería recargable.
-*	Capacidad: 2050 mAh.
+*	Capacidad: 2000 mAh.
 *	Sistema de carga por USB.
 *	Tiempo de carga: 1,5 horas.
 *	Autonomía aproximada a volumen medio en modo Bluetooth: 8 horas*.
