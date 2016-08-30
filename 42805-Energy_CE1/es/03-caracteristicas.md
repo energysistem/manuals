@@ -14,8 +14,8 @@
 #### BATERÍA
 - Capacidad: 75 mAh
 - Tipo: polímero de litio
-- Autonomía en uso: hasta 8 horas
-- Autonomía en stand by: 300 horas
+- Autonomía en uso: hasta 6 horas
+- Autonomía en stand by: 160 horas
 - Sistema de carga: microUSB
 - Tiempo de carga: 1,5 horas
 
