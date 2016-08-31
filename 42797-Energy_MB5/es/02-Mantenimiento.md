@@ -8,4 +8,4 @@
 
 *	Apaga tu *Energy Music Box 5* cuando no esté en uso y no lo dejes durante un largo periodo de tiempo con la batería completamente descargada.
 
-*	Cuando recargues la batería de tu *Energy Music Box 5*, no interrumpas el proceso hasta que se haya recargado completamente.
+
