@@ -5,7 +5,7 @@ Uma vez ligados os seus *Energy Earphones CE1 Bluetooth* ao seu telemóvel, pode
 ### Atender chamadas
 Para atender uma chamada, prima uma vez qualquer destes botões: *MULTIFUNÇÃO* (1), *VOLUME -* (3) ou VOLUME + (2).
 
-### Terminar a chamada**
+### Terminar a chamada
 Para terminar a chamada, prima uma vez o botão *MULTIFUNÇÃO* (1).
 
 ### Ligar para o último número
