@@ -1,20 +1,20 @@
-## Funciones Principales
-<quick_guide>
-### Encendido y apagado del dispositivo
+## Main functions
+</quick_guide>
+### Switching the device on and off
 
-Para encender el dispositivo mantén pulsado 2 segundos el *BOTÓN MULTIFUNCIÓN* (1) y verás que el *INDICADOR* (4) se ilumina en azul. Al encender el dispositivo, escucharás un sonido de confirmación. Mientras el dispositivo esté encendido, el *INDICADOR* (4) continuará parpadeando en azul. 
+To turn your device on, press and hold the *MULTIFUNCTION BUTTON* (1) for 4 seconds and the *INDICATOR* (4) will light in blue. When switching on the device, you will hear a confirmation sound. When the device is on, the *INDICATOR* (4) will keep flashing blue. 
 
-Para apagar el dispositivo mantén pulsado 3 segundos el *BOTÓN MULTIFUNCIÓN* (1). Escucharás un sonido de apagado.
+To turn your device off, press and hold the *MULTIFUNCTION BUTTON* (1) for 3 seconds. You will hear a sound when turning off the device.
 
 </quick_guide>
 
-### Carga de la batería
+### Charging the battery
 
-Cuando la batería se encuentre por debajo del 10%, el *INDICADOR* (4) parpadeará en rojo y un sonido te avisará para que recargues la batería usando la *CONEXIÓN DE CARGA* (6). 
+When the battery level is below 10%, you will hear a sound to remind you to charge it through the *CHARGING CONNECTION* (6). 
 
-Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la *CONEXIÓN DE CARGA* (6), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.).
+To charge it, connect the mini USB end of the USB cable (included) to the *CHARGING PORT* (6) and the other USB end to any device with an USB charging port to provide energy (PC, USB wall charger, car charger, etc).
 
-Durante la carga, el *INDICADOR* (4) se iluminará en rojo y cuando la carga se complete cambiará a color azul.
+The *INDICATOR* (4) lights in red while charging the battery and turns blue once the charging process is completed.
 
 
-**Nota:** Te recomendamos que no dejes en desuso tus *Energy Earphones Sport 1 Bluetooth* durante un periodo largo de tiempo con la batería completamente descargada. Es aconsejable que cargues la batería de tus auriculares al menos una vez al mes.
+**Important:** We recommend neither to leave your *Energy CE1 Bluetooth* unused for long periods of time nor with an empty battery. We advise to charge your earphones' battery at least once a month.
