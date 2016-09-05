@@ -9,7 +9,7 @@ Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
 Descrição: Auscultadores <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
+Modelo: Energy Earphones CE1 Bluetooth <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricação:  China <br/>
 
