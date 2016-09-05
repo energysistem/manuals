@@ -8,6 +8,6 @@ As especificações estão sujeitas a alterações sem aviso prévio.
 
 *Marcas registadas* Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
-©2016 Energy Sistem Technology, S.A. Todos os direitos reservados.
+©2015 Energy Sistem®. Todos os direitos reservados.
 
 </quick_guide>
