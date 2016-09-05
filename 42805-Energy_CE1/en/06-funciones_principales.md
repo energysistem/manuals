@@ -17,4 +17,4 @@ To charge it, connect the mini USB end of the USB cable (included) to the *CHARG
 The *INDICATOR* (4) lights in red while charging the battery and turns blue once the charging process is completed.
 
 
-**Important:** We recommend neither to leave your *Energy CE1 Bluetooth* unused for long periods of time nor with an empty battery. We advise to charge your earphones' battery at least once a month.
+**Important:** We recommend not to leave your *Energy CE1 Bluetooth* unused for long periods of time with an empty battery. We advise to charge your earphones' battery at least once a month.
