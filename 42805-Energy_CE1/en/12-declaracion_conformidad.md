@@ -8,7 +8,7 @@ We declare under our own exclusive responsibility that the product:
 
 Description: Earphones <br/>
 Brand: Energy Sistem <br/>
-Model: * Energy Earphones Sport 1 Bluetooth <br/>
+Model: Energy Earphones Sport 1 Bluetooth <br/>
 Manufacturer: Energy Sistem Technology, S.A. <br/>
 Manufacturing Country:  China <br/>
 
