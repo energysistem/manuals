@@ -1,15 +1,17 @@
-## Control de llamadas
+## Controlo de chamadas
 
-Con los *Energy Earphones Sport 1 Bluetooth* sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular.
+Uma vez ligados os seus *Energy Earphones CE1 Bluetooth* ao seu telemóvel, pode controlar as suas chamadas a partir do próprio auscultador.
 
-### Contestar una llamada
-Para contestar una llamada puedes presionar cualquiera de los botones, ya sea el botón *MULTIFUNCIÓN* (2), el de *VOLUMEN -* (1) o el de *VOLUMEN  +* (3), una única vez.
+### Atender chamadas
+Para atender uma chamada, prima uma vez qualquer destes botões: *MULTIFUNÇÃO* (1), *VOLUME -* (3) ou VOLUME + (2).
 
-### Finalizar una llamada
-Para terminar una llamada pulsa el botón *MULTIFUNCIÓN* (2) una única vez.
+### Terminar a chamada**
+Para terminar a chamada, prima uma vez o botão *MULTIFUNÇÃO* (1).
 
-### Rellamada
-Pulsa dos veces seguidas el botón *MULTIFUNCIÓN* (2) para realizar una rellamada al último número de la lista de llamadas realizadas de tu Smartphone.
+### Ligar para o último número
+Prima duas vezes o botão *MULTIFUNÇÃO* (1) para ligar para o último número de telefone do registo de chamadas do seu smartphone.
 
-### Rechazar una llamada
-Para rechazar una llamada mantén pulsado el botón *MULTIFUNCIÓN* (2) durante aproximadamente 2 segundos.
+### Rejeitar a chamada
+Prima o botão *MULTIFUNÇÃO* (1) durante 2 segundos para rejeitar a chamada.
+
+
