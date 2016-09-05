@@ -1,6 +1,6 @@
 ## Main functions
 </quick_guide>
-### Switching the device on and off
+### Switching on and off the device
 
 To turn on your device, press and hold the *MULTIFUNCTION BUTTON* (1) for 4 seconds and the *INDICATOR* (4) will light in blue. When switching on the device, you will hear a confirmation sound. When the device is on, the *INDICATOR* (4) will keep flashing blue. 
 
