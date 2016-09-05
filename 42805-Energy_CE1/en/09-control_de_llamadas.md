@@ -1,6 +1,6 @@
 ## Call control
 
-You will be able to control your calls from one earphone if you pair your *Energy Earphones CE1 Bluetooth* with your mobile phone.
+You will be able to control your calls from your earphones if you pair your *Energy Earphones CE1 Bluetooth* with your mobile phone.
 
 ### Answer a call
 You can answer a call by pressing the *MULTIFUNCTION* (1), *VOLUME -* (3) or *VOLUME +* (2) button once.
