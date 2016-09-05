@@ -1,10 +1,9 @@
-## <quick_guide> Introducción
+## <quick_guide> Introdução
 
-*	Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones Sport 1 Bluetooth*. Esperamos que los disfrutes.
+*	Agradecemos-lhe a sua confiança e a aquisição dos seus novos *Energy Earphones CE1 Bluetooth*.  Esperamos que desfrute do produto.
 
-*	Auriculares Bluetooth para todos los amantes del deporte, gran sonido y funcionalidad. Puedes contestar tus llamadas y controlar tu música mientras sigues entrenando.  Todo esto con una sujeción segura gracias a su sistema Secure-fit.
+*	Auscultadores Bluetooth para todos os amantes do desporto. Som de qualidade e funcionalidade. Pode atender as suas chamadas e controlar a sua música enquanto pratica desporto.  E tudo isso com o ajuste perfeito que oferece o seu sistema Secure-Fit.
 
-*	Antes de comenzar a disfrutar de tus *Energy Earphones Sport 1 Bluetooth* te aconsejamos que leas esta guía para familiarizarte con ellos. 
+*	Antes de começar a utilizar os seus *Energy Earphones CE1 Bluetooth*, aconselhamos ler o presente manual para familiarizar-se com o produto. 
 
 </unique> </quick_guide>
-
