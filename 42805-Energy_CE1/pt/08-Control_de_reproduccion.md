@@ -1,9 +1,9 @@
-## Control de reproducción
+## Controlo da reprodução
 
-Para controlar el volumen de reproducción pulsa los botones *VOLUMEN +* (3) o *VOLUMEN -* (1). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+Prima os botões *VOLUME +* (2) ou *VOLUME -* (3) para ajustar o volume. Ouvirá um som quando atingir o volume máximo e mínimo.
 
-A través del botón *MULTIFUNCIÓN* (2) pausa o reanuda la reproducción.
+Pode parar ou continuar a reproduzir a música através do botão *MULTIFUNÇÃO* (1).
 
-Para cambiar de canción presiona el botón *AVANCE* (3) o *RETROCESO* (1) durante 2 segundos.
+Prima o botão *AVANÇAR* (2) ou *VOLTAR* (3) durante 2 segundos para escutar a música seguinte/anterior.
 
 
