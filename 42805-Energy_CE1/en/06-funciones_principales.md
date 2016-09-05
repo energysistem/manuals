@@ -12,7 +12,7 @@ To turn off your device, press and hold the *MULTIFUNCTION BUTTON* (1) for 3 sec
 
 When the battery level is below 10%, you will hear a sound to remind you to charge it through the *CHARGING CONNECTION* (6). 
 
-Connect the mini USB end of the included USB cable  to the *CHARGING PORT* (6) and the other USB end to any device with an USB charging port to provide energy (PC, USB wall charger, car charger, etc) to charge it.
+Connect the mini USB end of the included USB cable to the *CHARGING PORT* (6) and the other USB end to any device with an USB charging port to provide energy (PC, USB wall charger, car charger, etc) to charge the battery.
 
 The *INDICATOR* (4) lights in red while charging the battery and turns blue once the charging process is completed.
 
