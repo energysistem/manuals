@@ -1,10 +1,9 @@
-## Cuidado y mantenimiento
+## Cuidado e manutenção
 
-*	No expongas tus *Energy Earphones Sport 1 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
+*	Evite que os seus *Energy Earphones CE1 Bluetooth* sofram impactos fortes ou que entrem em contacto com altas temperaturas, pó e humidade. 
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
 
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
+* Não desmonte o dispositivo.  Qualquer reparação deve ser efectuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
 
-* Asegúrate de mantener tus *Energy Earphones Sport 1 Bluetooth* apagados cuando no estén en uso y no los dejes durante un largo periodo de tiempo con la batería completamente descargada.
-
+* É recomendável manter os seus *Energy Earphones CE1 Bluetooth* desligados se não va a utilizá-los durante muito tempo. Não deixe a bateria dos auscultadores completamente descarregada durante longos períodos de tempo.
