@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Earphones <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
+Modelo: Energy Earphones CE1 Bluetooth <br/>
 Fabricante: Energy Sistem Technology S.A. <br/>
 País de fabricación: China <br/>
 
