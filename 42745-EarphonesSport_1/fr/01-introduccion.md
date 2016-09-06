@@ -1,9 +1,9 @@
-## <quick_guide> Introduction
+## Soin et entretien
 
-*	Merci de votre confiance et d'avoir acheté vos nouveaux *Energy Earphones Sport 1 Bluetooth*. Nous espérons que vous les apprécierez.
+*	Ne pas exposer vos *Energy Earphones Sport 1 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
 
-*	Écouteurs Bluetooth pour les amateurs de sport, bon son et fonctionnalité. Vous pouvez répondre à vos appels et gérer la musique pendant que vous continuez à faire du sport.  Tout ceci avec une fixation solide grâce à son système Secure-fit.
+* Ne pas utiliser des produits corrosifs ou abrasifs.
 
-Avant de commencer à profiter de vos *Energy Earphones Sport 1 Bluetooth* nous vous conseillons de lire cette guide pour vous familiariser avec eux. 
+* Ne pas démonter l'appareil. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
 
-</unique> </quick_guide>
+* Vérifiez que vos *Energy Earphones Sport 1 Bluetooth* soient éteints lorsqu'il ne sont pas utilisés. Ne pas laisser vos écouteurs avec la batterie complètement déchargée pendant une longue période.
