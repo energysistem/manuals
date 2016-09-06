@@ -1,15 +1,15 @@
-## <quick_guide> Funcionamiento de la garantía
+## <quick_guide> Fonctionnement de la garantie
 
-Entre en http://www.energysistem.com/es/support y tras seleccionar su producto podrá encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, ainsi que la possibilité de poser vos questions au service technique ou de gérer la garantie.
 
-Puedes consultar la disponibilidad del manual en tu idioma en http://www.energysistem.com/es-es/support/manuals
-También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (Teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.  
-Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando tu Factura o Ticket de compra.  
-Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto el servicio técnico de Energy Sistem Technology, S.A. no se vera en la obligación de respaldar dicha información por lo que es recomendable entregar el equipo sin información en la memoria del mismo, o con la información original de fabrica.  
-Las especificaciones están sujetas a cambios sin previo aviso.  
+Vous pouvez vérifier la disponibilité du manuel dans votre langue sur : http://www.energysistem.com/fr-fr/support/manuals
 
-*Marcas comerciales* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.  
+Important : Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem Technology, S.A. ne sera pas obligé de stocker cette information et il est donc conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.  
+Les spécifications sont susceptibles d'être modifiées sans préavis.  
 
-©2015 por Energy Sistem®. Todos los derechos reservados.
+*Marques* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+
+©2015 par Energy Sistem®. Tous droits réservés. 
 
 </quick_guide>
