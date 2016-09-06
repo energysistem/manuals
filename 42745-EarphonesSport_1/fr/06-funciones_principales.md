@@ -1,20 +1,20 @@
-## Funciones Principales
+## Fonctions principales
 <quick_guide>
-### Encendido y apagado del dispositivo
+### Marche et arrêt de l'appareil
 
-Para encender el dispositivo mantén pulsado 2 segundos el *BOTÓN MULTIFUNCIÓN* (1) y verás que el *INDICADOR* (4) se ilumina en azul. Al encender el dispositivo, escucharás un sonido de confirmación. Mientras el dispositivo esté encendido, el *INDICADOR* (4) continuará parpadeando en azul. 
+Pour allumer l'appareil, appuyez sur le bouton *BOUTON MULTIFONCTION* (1) pendant 2 secondes et vérifiez que l'*INDICATEUR* (4) est allumé en bleu. Lors de l'allumage de l'appareil, vous entendrez un son de confirmation. Lorsque l'appareil sera allumé, l'*INDICATEUR* (4) clignotera en bleu. 
 
-Para apagar el dispositivo mantén pulsado 3 segundos el *BOTÓN MULTIFUNCIÓN* (1). Escucharás un sonido de apagado.
+Pour éteindre l'appareil, appuyez sur le *BOUTON MULTIFONCTION* (1) pendant 3 secondes. Vous entendrez un son de confirmation.
 
 </quick_guide>
 
-### Carga de la batería
+### Charge de la batterie
 
-Cuando la batería se encuentre por debajo del 10%, el *INDICADOR* (4) parpadeará en rojo y un sonido te avisará para que recargues la batería usando la *CONEXIÓN DE CARGA* (6). 
+Lorsque la batterie est en dessous de 10 %, l'*INDICATEUR* (4) clignotera en rouge et un son vous préviendra que la batterie doit être chargée en utilisant le *CONNECTEUR DE CHARGE* (6). 
 
-Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la *CONEXIÓN DE CARGA* (6), y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.).
+Pour le recharger, connectez l'extrémité mini USB du câble USB (fourni) au *CONNECTEUR DE CHARGE* (6) et l'autre extrémité à un appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.).
 
-Durante la carga, el *INDICADOR* (4) se iluminará en rojo y cuando la carga se complete cambiará a color azul.
+L'*INDICATEUR* (4) s'allume en rouge lorsque l'appareil est en train de charger et il deviendra bleu lorsque la charge sera complète.
 
 
-**Nota:** Te recomendamos que no dejes en desuso tus *Energy Earphones Sport 1 Bluetooth* durante un periodo largo de tiempo con la batería completamente descargada. Es aconsejable que cargues la batería de tus auriculares al menos una vez al mes.
+**Note :** Nous vous recommandons de ne pas stocker ou laisser vos *Energy Earphones Sport 1 Bluetooth* tomber en désuétude longtemps avec la batterie complètement déchargée. Il est recommandé de charger la batterie de vos écouteurs une fois par mois au minimum.
