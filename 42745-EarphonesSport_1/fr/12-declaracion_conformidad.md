@@ -1,6 +1,6 @@
 ## <quick_guide> Déclaration de conformité
 
-Nom du déclarant : Energy Sistem Technology S.A. - Numéro d'identification fiscale : A53107488
+Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
 Adresse : Pol. Ind. Finestrat C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
 Tél : (+34) 902 388 388  / (+34) 966 813 257
 
