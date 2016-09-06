@@ -8,7 +8,7 @@
 3. Intercambio de cámara.
 4. Previsualización de cámara.
 5. Disparo automático por gesto.
-6. Detección de Sonrrisa.
+6. Detección de Sonrisa.
 7. Modo vídeo.
 8. Botón de disparo.
 9. Acceso a galería.
