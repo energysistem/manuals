@@ -1,4 +1,4 @@
-## Caractéristiques techniques.
+## Caractéristiques techniques
 
 #### CONNECTIVITÉ
 - Bluetooth v4.1, classe II
