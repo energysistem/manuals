@@ -1,10 +1,9 @@
-## <quick_guide> Introducción
+## <quick_guide> Introduction
 
-*	Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones Sport 1 Bluetooth*. Esperamos que los disfrutes.
+*	Merci de votre confiance et d'avoir acheté vos nouveaux *Energy Earphones Sport 1 Bluetooth*. Nous espérons que vous les apprécierez.
 
-*	Auriculares Bluetooth para todos los amantes del deporte, gran sonido y funcionalidad. Puedes contestar tus llamadas y controlar tu música mientras sigues entrenando.  Todo esto con una sujeción segura gracias a su sistema Secure-fit.
+*	Écouteurs Bluetooth pour les amateurs de sport, bon son et fonctionnalité. Vous pouvez répondre à vos appels et gérer la musique pendant que vous continuez à faire du sport.  Tout ceci avec une fixation solide grâce à son système Secure-fit.
 
-*	Antes de comenzar a disfrutar de tus *Energy Earphones Sport 1 Bluetooth* te aconsejamos que leas esta guía para familiarizarte con ellos. 
+Avant de commencer à profiter de vos *Energy Earphones Sport 1 Bluetooth* nous vous conseillons de lire cette guide pour vous familiariser avec eux. 
 
 </unique> </quick_guide>
-
