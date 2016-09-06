@@ -1,9 +1,7 @@
-## Control de reproducción
+## Contrôle de lecture
 
-Para controlar el volumen de reproducción pulsa los botones *VOLUMEN +* (3) o *VOLUMEN -* (1). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+Pour contrôler le volume de lecture, appuyez sur les boutons *VOLUME +* (3) o *VOLUME -* (2). Vous entendrez un bip lorsque vous atteindrez le volume maximal et minimal.
 
-A través del botón *MULTIFUNCIÓN* (2) pausa o reanuda la reproducción.
+Mettez la lecture en pause ou reprenez-la en appuyant sur le bouton *MULTIFONCTION* (1).
 
-Para cambiar de canción presiona el botón *AVANCE* (3) o *RETROCESO* (1) durante 2 segundos.
-
-
+Pour changer la piste appuyez sur le bouton *SUIVANT* (3) ou *PRÉCÉDENT* (2) pendant 2 secondes.
