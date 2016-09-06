@@ -12,5 +12,5 @@
 8. **Menu:** Acceso al menú de aplicaciones y widgets.
 9. **Contactos:** Gestión de contactos.
 10. **Teléfono:** Llamadas y registro.
-11. **Galería:** Visualización de imágenes.
+11. **Fotos:** Visualización de imágenes.
 12. **Cámara:** Acceso a la cámara de fotos integrada.
