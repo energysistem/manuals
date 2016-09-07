@@ -14,8 +14,8 @@ País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 55022:2010+AC: 2011
-EN 55024:2010+A1: 2015
+EN 55022:2010+AC: 2011 <br/>
+EN 55024:2010+A1: 2015 <br/>
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
