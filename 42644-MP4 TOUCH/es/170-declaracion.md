@@ -1,24 +1,32 @@
-## Declaración de conformidad.
+## <quick_guide> Declaración de conformidad
 
-Nombre del suministrador: Energy Sistem Technology, S. A.
+Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
+Tel:+ 34 902 388 388  / + 34 966 813 257
 
-Fecha: 15/05/2013
+Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Dirección: Pol. Ind. Finestrat - C/. Calpe, 1 ,03509, Finestrat, Alicante (España)
+Descripción: MP4 <br/>
+Marca: Energy Sistem <br/>
+Modelo: Energy MP4 Touch  <br/>
+Fabricante: Energy Sistem Technology S.A. <br/>
+País de fabricación: China <br/>
 
-Tel: 902 388 388 F ax: 902 119 034
+Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-N I F: A53107488
+EN 55022:2010+AC: 2011
+EN 55024:2010+A1: 2015
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-**Energy Sistem Energy MP4 Touch Series**
+Finestrat, 01 de Septiembre de 2016.
 
-*País de fabricación:* China
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
-Al que se refiere esta declaración, con la(s) norma(s) u otros documento(s) normativo(s) de acuerdo con las disposiciones de la Directiva 2004/108/CE del
-Parlamento Europeo y del Consejo de 15 de diciembre de 2004.
-
-
+Daniel Havillio
+Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
+</quick_guide>
+
