@@ -13,3 +13,4 @@
 9. Preferencias de compartir.
 10. Tiempo reproducido.
 
+Para acceder al listado de carpetas > Pulsar en menú > Carpetas de dispositivos > Movies

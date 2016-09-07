@@ -14,7 +14,7 @@ SISTEMA OPERATIVO
 
 CÁMARAS
 - Cámara trasera 5 Mpx con autofocus y flash LED
-- Cámara frontal 2 Mpx
+- Cámara frontal 2 Mpx con ángulo FOV de 83,7º.
 
 MEMORIA
 - 1 GB RAM DDR3
@@ -35,10 +35,11 @@ CONEXIONES
 
 BATERÍA
 - Capacidad de batería: 2.000 mAh Li-ion
+- Autonomía: hasta 250 horas en standby y 10 horas de conversación.
 - Características recomendadas adaptador de corriente (no incluido en el producto) AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A.
 
 OTROS
-- Altavoz Xtreme Sound integrado
+- Altavoz Xtreme Sound integrado de 2W.
 - LED de notificaciones
 - Sensor de movimiento (acelerómetro)
 - Sensor de proximidad

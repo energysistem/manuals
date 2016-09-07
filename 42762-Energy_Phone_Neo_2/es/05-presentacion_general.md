@@ -7,7 +7,7 @@
 3. LED de notificaciones
 4. Sensores de luminosidad y de proximidad
 5. Salida de auriculares
-6. Entrada MicroUSB
+6. Entrada microUSB
 7. Receptor
 8. Cámara frontal
 9. Botón de volumen
