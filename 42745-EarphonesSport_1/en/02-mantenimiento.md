@@ -1,10 +1,10 @@
-## Cuidado y mantenimiento
+## Care and maintenance
 
-*	No expongas tus *Energy Earphones Sport 1 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
+*	Do not expose your *Energy Earphones Sport 1 Bluetooth* to impacts, dust, humidity or high temperatures.
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Do not use neither corrosive nor abrasive cleaning products.
 
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
+* Do not dismantle the device. All reparation works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A. 
 
-* Asegúrate de mantener tus *Energy Earphones Sport 1 Bluetooth* apagados cuando no estén en uso y no los dejes durante un largo periodo de tiempo con la batería completamente descargada.
+Please make sure that your *Energy Earphones Sport 1 Bluetooth* are turned off when you are not using them and do not store them with an empty battery for long periods of time.
 
