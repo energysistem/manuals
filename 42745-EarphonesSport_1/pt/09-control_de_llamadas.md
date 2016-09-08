@@ -5,7 +5,7 @@ Uma vez ligados os seus *Energy Earphones Sport 1 Bluetooth* ao seu telemóvel, 
 ### Atender chamadas
 Para atender uma chamada, prima uma vez qualquer destes botões: *MULTIFUNÇÃO* (1), *VOLUME -* (2) ou VOLUME + (3).
 
-### Terminar a chamada**
+### Terminar a chamada
 Para terminar a chamada, prima uma vez o botão *MULTIFUNÇÃO* (1).
 
 ### Ligar para o último número
