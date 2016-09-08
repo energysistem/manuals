@@ -1,13 +1,10 @@
-## <quick_guide> Condiciones de la garantía
+## <quick_guide> Garantia
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Technology S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del Bien, en los términos y bajo las condiciones establecidas en la citada norma. Quedan excluidas del periodo de 36 meses las baterías del producto, cuyo periodo de garantía será de 24 meses.  
+Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo consumidor durante um período de 36 meses. A garantia é aplicável a todas as funções do produto à excepção da bateria de lítio, a qual não está incluída porque para ela há uma garantia específica de 24 meses.  
 
-En el caso de que el bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución o, subsidiaria a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.  
+Esta garantia cobre defeitos de fabrico ou materiais e não se aplica se o defeito foi causado por pessoas não autorizadas devido a acidente, utilização indevida ou modificações do produto.  
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero debido a uso indebido, negligencia, uso o empleo del bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación.  
-
-Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.  
-La garantía especial de 36 meses es valida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+A garantia especial de 36 meses é válida para a União Europeia. Para outros países deve verificar a legislação em vigor ou consultar o seu distribuidor local.
 
 
 </quick_guide>
