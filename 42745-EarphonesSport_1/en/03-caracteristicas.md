@@ -2,7 +2,7 @@
 
 #### CONNECTIVITY
 - Bluetooth v4.1, class II
-- Range: up to 10 m.
+- Range: up to 10 m
  
 #### DRIVERS
 - Frequency response: 20 Hz ~ 20 KHz
