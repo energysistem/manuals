@@ -1,18 +1,18 @@
-## <quick_guide> Declaración de conformidad
+## <quick_guide> Declaration of conformity
 
-Nombre del declarante: Energy Sistem Technology S.A. - CIF: A53107488
-Dirección: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 902 388 388 / + 34 966 813 257
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
+We declare under our own exclusive responsibility that the product
 
-Descripción: Earphones <br/>
-Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
-Fabricante: Energy Sistem Technology S.A. <br/>
-País de fabricación: China <br/>
+Description: Earphones <br/>
+Brand: Energy Sistem <br/>
+Model: Energy Earphones Sport 1 Bluetooth <br/>
+Manufacturer: Energy Sistem Technology, S.A. <br/>
+Manufacturing Country: China <br/>
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos
+referred to in this declaration is in compliance with the essential norms and standards
 
 EN 300 328 V1.9.1 (2015-02) <br/>
 EN 301 489-1 V1.9.2 (2011-09) <br/>
@@ -20,9 +20,9 @@ EN 301 489-17 V2.2.1 (2012-09) <br/>
 EN 62479:2010 <br/>
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
-de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+is in compliance with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
-Finestrat, 01 de Septiembre de 2016.
+Finestrat, 01st September 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
