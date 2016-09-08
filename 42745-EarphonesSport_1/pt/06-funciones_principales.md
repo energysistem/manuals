@@ -4,7 +4,7 @@
 
 Para ligar o dispositivo, prima o botão *MULTIFUNÇÃO* (1) durante 2 segundos e vai ver o *INDICADOR* (4) tornar-se azul. Ouvirá um som de confirmação no momento que ligue o dispositivo. O *INDICADOR* (4) continua a piscar em azul enquanto o dispositivo está ligado. 
 
-Prima o *BOTÃO MULTIFUNÇÃO* (1) durante 3 segundos para desligar o dispositivo.  A seguir, vai escutar o som que indica que o dispositivo desligou correctamente.
+Prima o *BOTÃO MULTIFUNÇÃO* (1) durante 3 segundos para desligar o dispositivo. A seguir, vai escutar o som que indica que o dispositivo desligou correctamente.
 
 </quick_guide>
 
