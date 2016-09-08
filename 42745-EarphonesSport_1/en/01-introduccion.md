@@ -6,4 +6,5 @@
 
 *	We recommend you to read this manual and familiarize yourself with it before you start using your *Energy Earphones Sport 1 Bluetooth*.   
 
+</unique> </quick_guide>
 
