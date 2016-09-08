@@ -1,9 +1,7 @@
-## Control de reproducción
+## Playback control
 
-Para controlar el volumen de reproducción pulsa los botones *VOLUMEN +* (3) o *VOLUMEN -* (1). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+Press the *VOLUME +* (3) or *VOLUME -* (2) buttons to adjust the playback volume. You will hear a beep when reaching the maximum and minimum volume levels.
 
-A través del botón *MULTIFUNCIÓN* (2) pausa o reanuda la reproducción.
+Press the *MULTIFUNCTION* (1) button to pause or resume playback. 
 
-Para cambiar de canción presiona el botón *AVANCE* (3) o *RETROCESO* (1) durante 2 segundos.
-
-
+Press the *NEXT* (3) or *BACK* (2) buttons for 2 seconds in order to switch to the next or previous track.
