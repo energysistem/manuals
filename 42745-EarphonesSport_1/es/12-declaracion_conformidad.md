@@ -1,15 +1,15 @@
 ## <quick_guide> Declaración de conformidad
 
-Nombre del declarante: Energy Sistem Technology S.A. - CIF: A53107488
-Dirección: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
+Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Earphones <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Earphones Sport 1 Bluetooth <br/>
-Fabricante: Energy Sistem Technology S.A. <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
