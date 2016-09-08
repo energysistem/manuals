@@ -6,19 +6,19 @@ Tel: + 34 902 388 388  / + 34 966 813 257
 
 We declare under our own exclusive responsibility that the product:
 
-Description: Earphones <br/>
+Description: Music Box <br/>
 Brand: Energy Sistem <br/>
-Model: Energy Earphones CE1 Bluetooth <br/>
+Model: Energy Music Box B2 <br/>
 Manufacturer: Energy Sistem Technology, S.A. <br/>
 Manufacturing Country:  China <br/>
 
 referred to in this declaration is in compliance with the essential norms and standards
 
-EN 300 328 V1.9.1 (2015-02) <br/>
-EN 301 489-1 V1.9.2 (2011-09) <br/>
-EN 301 489-17 V2.2.1 (2012-09) <br/>
-EN 62479:2010 <br/>
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011  <br/>
+EN 62479:2010  <br/>
+ETSI EN 301 489-1 V1.9.2 (2011-09)  <br/>
+ETSI EN 301 489-17 V2.2.1 (2012-09)  <br/>
+ETSI EN 300 328 V1.7.1 (2006-10)  <br/>
 
 of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
