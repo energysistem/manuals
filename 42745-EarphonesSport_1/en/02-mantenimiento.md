@@ -6,5 +6,5 @@
 
 * Do not dismantle the device. All reparation works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A. 
 
-Please make sure that your *Energy Earphones Sport 1 Bluetooth* are turned off when you are not using them and do not store them with an empty battery for long periods of time.
+* Please make sure that your *Energy Earphones Sport 1 Bluetooth* are turned off when you are not using them and do not store them with an empty battery for long periods of time.
 
