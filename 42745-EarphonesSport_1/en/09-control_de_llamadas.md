@@ -1,15 +1,15 @@
-## Control de llamadas
+## Call control
 
-Con los *Energy Earphones Sport 1 Bluetooth* sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular.
+You will be able to control your calls from your earphones if you pair your *Energy Earphones Sport 1 Bluetooth* with your mobile phone.
 
-### Contestar una llamada
-Para contestar una llamada puedes presionar cualquiera de los botones, ya sea el botón *MULTIFUNCIÓN* (2), el de *VOLUMEN -* (1) o el de *VOLUMEN  +* (3), una única vez.
+### Answer a call
+You can answer a call by pressing the *MULTIFUNCTION* (1), *VOLUME -* (2) or *VOLUME +* (3) button once.
 
-### Finalizar una llamada
-Para terminar una llamada pulsa el botón *MULTIFUNCIÓN* (2) una única vez.
+### End a call
+Press the *MULTIFUNCTION* (1) button once to end a call.
 
-### Rellamada
-Pulsa dos veces seguidas el botón *MULTIFUNCIÓN* (2) para realizar una rellamada al último número de la lista de llamadas realizadas de tu Smartphone.
+### Redial a number
+Press twice the *MULTIFUNCTION* (1) button to dial the last telephone number in your smartphone's call log.
 
-### Rechazar una llamada
-Para rechazar una llamada mantén pulsado el botón *MULTIFUNCIÓN* (2) durante aproximadamente 2 segundos.
+### Reject a call
+Press the *MULTIFUNCTION* (1) button for approximately 2 seconds to reject an incoming call.
