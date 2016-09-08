@@ -1,6 +1,6 @@
-## <quick_guide> Sincronización Bluetooth
+## <quick_guide> Bluetooth pairing
 
-Con tus Energy Earphones Sport Bluetooth apagados, presiona el *BOTÓN MULTIFUNCIÓN* (1) durante aproximadamente 4 segundos hasta que el *INDICADOR* (4) empiece a parpadear en rojo y azul. En ese momento, tus auriculares estarán listos para sincronizarlos con tu smartphone o tablet. Una vez localizados tus Energy Sport en tu dispositivo, pulsa “conectar”. La conexión se realizará de forma inmediata y sin necesidad de códigos. Escucharás un sonido que confirma la sincronización entre ambos dispositivos.
+Turn off your *Energy Earphones Sport 1 Bluetooth* and press the *MULTIFUNCTION BUTTON* (1) for approximately 4 seconds, until the *INDICATOR* (4) starts flashing blue and red. At this point, you will be able to pair your earphones with your smartphone or tablet. Once your Energy CE1 earphones have been detected, press "connect". The devices will be connected immediately and without codes. You will hear a sound that confirms that both devices have been paired.
 
 
 </quick_guide>
