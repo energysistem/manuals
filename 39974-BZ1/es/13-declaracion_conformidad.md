@@ -2,7 +2,7 @@
 
 Nombre del declarante: Energy Sistem Soyntec, S.A. - CIF: A53107488
 Dirección: c/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Tel: +34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
