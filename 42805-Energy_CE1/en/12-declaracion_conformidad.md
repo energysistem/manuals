@@ -6,7 +6,7 @@ Tel: + 34 902 388 388  / + 34 966 813 257
 
 We declare under our own exclusive responsibility that the product:
 
-Description: Earphones <br/>
+Description: Auriculares intrauditivos inalámbricos <br/>
 Brand: Energy Sistem <br/>
 Model: Energy Earphones CE1 Bluetooth <br/>
 Manufacturer: Energy Sistem Technology, S.A. <br/>
