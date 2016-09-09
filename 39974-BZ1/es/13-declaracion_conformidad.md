@@ -1,15 +1,15 @@
 ## Declaración de conformidad
 
-Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Nombre del declarante: Energy Sistem Soyntec, S.A. - CIF: A53107488
 Dirección: c/. Calpe, 1 - 03509 Finestrat Alicante (España)
 Tel: 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Music Box <br/>
+Descripción: Altavoz portátil inalámbrico <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Music Box BZ1 <br/>
-Fabricante: Energy Sistem Technology, S.A. <br/>
+Fabricante: Energy Sistem Soyntec, S.A. <br/>
 País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
@@ -22,7 +22,7 @@ ETSI EN 300 328 V1.7.1 (2006-10)  <br/>
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-Finestrat, 01 de Septiembre de 2016.
+Finestrat, 01 de Julio de 2014.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
