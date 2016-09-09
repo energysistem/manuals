@@ -9,7 +9,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 Descripción: Auriculares intrauditivos inalámbricos <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Earphones CE1 Bluetooth <br/>
-Fabricante: Energy Sistem Technology S.A. <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
