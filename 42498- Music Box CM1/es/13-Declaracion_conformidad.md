@@ -1,18 +1,34 @@
 ## Declaración de conformidad
 
-_**Nombre del suministrador:**_ Energy Sistem Technology S.A.
-_**Dirección:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Dirección: c/. Calpe, 1 - 03509 Finestrat Alicante (España)
+Tel: + 34 902 388 388  / + 34 966 813 257
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
->**Energy Music Box CM1 Bluetooth**
+Descripción: Altavoz portátil inalámbrico <br/>
+Marca: Energy Sistem <br/>
+Modelo: Energy Music Box CM1 <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
+País de fabricación: China <br/>
 
-_**País de fabricación:**_ China
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011  <br/>
+EN 62479:2010  <br/>
+ETSI EN 301 489-1 V1.9.2 (2011-09)  <br/>
+ETSI EN 301 489-17 V2.2.1 (2012-09)  <br/>
+ETSI EN 300 328 V1.7.1 (2006-10)  <br/>
+
+de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+
+Finestrat, 01 de Septiembre de 2015.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
+</quick_guide>
