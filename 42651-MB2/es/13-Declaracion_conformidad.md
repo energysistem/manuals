@@ -6,7 +6,7 @@ Tel: 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Music Box <br/>
+Descripción: Altavoz portátil inalámbrico <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Music Box B2 <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
