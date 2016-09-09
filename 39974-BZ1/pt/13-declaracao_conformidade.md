@@ -1,19 +1,34 @@
 ## <quick_guide> Declaração de conformidade
 
-_**Nome do Fabricante:**_ Energy Sistem Soyntec S.A.  
-_**Endereço:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).  
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
+Issuer’s name: Energy Sistem Soyntec, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 902 388 388  / + 34 966 813 257
 
+We declare under our own exclusive responsibility that the product:
 
-Declaramos sob nossa exclusiva responsabilidade que o produto:
+Description: Portable speaker <br/>
+Brand: Energy Sistem <br/>
+Model: Energy Music Box BZ1 <br/>
+Manufacturer: Energy Sistem Soyntec, S.A. <br/>
+Manufacturing Country:  China <br/>
 
->*Energy Music Box BZ1 Bluetooth*
+referred to in this declaration is in compliance with the essential norms and standards
 
-_**País de fabricação:**_ China  
-Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+EN 300 328 V1.9.1 (2015-02) <br/>
+EN 301 489-1 V1.9.2 (2011-09) <br/>
+EN 301 489-17 V2.2.1 (2012-09) <br/>
+EN 62479:2010 <br/>
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo no produto ou nas instruções significa que seus aparelhos eléctricos e eletrônicos devem ser reciclados no final de sua vida separadamente dos seus resíduos domésticos.
+of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
+
+Finestrat, 1 July 2014.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 </quick_guide>
