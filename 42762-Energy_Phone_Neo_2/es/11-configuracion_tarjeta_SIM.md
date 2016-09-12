@@ -1,4 +1,4 @@
-### Configuración tarjeta SIM
+## Configuración tarjeta SIM
 
 ![Imagen](http://static.energysistem.com/images/manuals/42762/57cd3fc55f858.jpg)
 
