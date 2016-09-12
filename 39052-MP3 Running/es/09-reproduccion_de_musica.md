@@ -31,6 +31,6 @@ Dentro del menú MUSICA aparecerá un submenú con los siguientes apartados:
 
 9. Actualizar biblioteca: Refresca la memoria interna para actualizar las últimas modificaciones realizadas en ella.
 
-10. Parar reproducción.
+10. Parar reproducción: Con esta opción puedes retomar la anterior reproducción que tenías la última vez usaste el Mp3.  <br/>**Nota:** Para que el reproductor lo recuerde la última canción la siguiente vez que lo uses, deberás seleccionar esta opción antes de apagarlo.
 
 
