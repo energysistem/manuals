@@ -6,7 +6,7 @@ Tu Energy Phone también dispone de un puerto micro USB con función HOST. Basta
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd4c628e1e9.jpg)
 
-Adicionalmente tu Energy Phone dispone de dos opciones de configuracion de la SD: configuración de microSD como almacenamiento masivo y configuración de microSD como almacenamiento interno.
+Adicionalmente tu Energy Phone dispone de dos opciones de configuracion en la microSD: configuración de microSD como almacenamiento masivo y configuración de microSD como almacenamiento interno.
 
 La primera vez que instales tu microSD tendras que seguir los siguientes pasos:
 
