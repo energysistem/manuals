@@ -6,19 +6,16 @@ Tel.: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto:
 
-Descrição: Auscultadores <br/>
+Descrição: Mp4 <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones CE1 Bluetooth <br/>
+Modelo: Energy MP4 Touch Bluetooth <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricação:  China <br/>
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-EN 300 328 V1.9.1 (2015-02) <br/>
-EN 301 489-1 V1.9.2 (2011-09) <br/>
-EN 301 489-17 V2.2.1 (2012-09) <br/>
-EN 62479:2010 <br/>
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+EN 55022:2010+AC: 2011<br/>
+EN 55024:2010+A1: 2015<br/>
 
 e está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
