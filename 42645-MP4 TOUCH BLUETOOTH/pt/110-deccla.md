@@ -16,6 +16,12 @@ a que se refere a declaração cumpre com as normas e outros documentos normativ
 
 EN 55022:2010+AC: 2011<br/>
 EN 55024:2010+A1: 2015<br/>
+EN60950-1 :2006+A 11 :2009 <br/>
++A 1 :201 O+A 12:2011 +A2 :2013 <br/>
+EN 62479 :2010 <br/>
+EN 301 489-1 V1 .9.2: 2011-09 <br/>
+EN 301 489-17 V2.2.1: 2012-09 <br/>
+EN 300 328 V1 .9.1: 2015-02 <br/>
 
 e está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
