@@ -15,4 +15,9 @@ Manufacturing country: China
 Is in compliance with the essential norms and standards of the Directive 2004/108/EC of the European Parliament and of the Council of December 15th
 2004.
 
+EN 55022:2010+AC: 2011<br/>
+EN 55024:2010+A1: 2015<br/>
+EN60950-1 :2006+A 11 :2009 <br/>
+
+
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
