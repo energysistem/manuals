@@ -2,7 +2,7 @@
 
 Vous accéderez directement aux enregistrements réalisés dans le 'MODE D'ENREGISTREMENT'. Vous commencerez sur l'interface de lecture avec le premier fichier d'enregistrement réalisé 'REC001.WAV'. 
 
-*Note* : Si vous n'avez fait aucun enregistrement depuis le 'MODE D'ENREGISTREMENT', vous ne pourrez pas accéder à ce mode.
+**Note** : Si vous n'avez fait aucun enregistrement depuis le 'MODE D'ENREGISTREMENT', vous ne pourrez pas accéder à ce mode.
 
 Les enregistrements seront sauvegardés au format .WAV, avec les caractères 'RECxxx.WAV'. Pour démarrer, reprendre ou mettre la lecture en pause, appuyez sur *Lecture / Pause (4)*.
 
