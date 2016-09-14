@@ -1,4 +1,4 @@
-## ## Conditions de garantie
+## Conditions de garantie
 
 Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, conformément à RDL 1/2007, Energy Sistem Technology, S.A. répondra pour tout défaut de conformité existant au moment de la réception du bien, dans les termes et sous les conditions établies dans cette norme. Les batteries du produit, dont la période de garantie est de 24 mois, sont exclues.  
 
