@@ -1,6 +1,6 @@
 ## Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd440060364.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57daac1d07caa.jpg)
 
 
 1. Ajustes.
