@@ -1,4 +1,4 @@
-## COonnexion Bluetooth
+## Connexion Bluetooth
 
 Accédez au menu Bluetooth et appuyez sur l'option "Statut" dans le sous-menu pour activer la fonction Bluetooth. 
 
