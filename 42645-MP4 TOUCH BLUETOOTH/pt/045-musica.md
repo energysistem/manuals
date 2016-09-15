@@ -63,4 +63,4 @@ A opção permite-lhe incrementar o reduzir a velocidade da faixa que está a so
 
 **"Remover da lista"**: Seleccione a opção para remover a faixa seleccionada da lista de reprodução à qual pertenece. 
 
-"Eliminar": Escolha a opção para apagar a música seleccionada da memória interna.
+**"Eliminar"**: Escolha a opção para apagar a música seleccionada da memória interna.
