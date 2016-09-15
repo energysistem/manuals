@@ -1,4 +1,4 @@
-##Soin et entretien
+## Soin et entretien
 
 Ne pas exposer votre *Energy MP4* à des chocs, à la poussière, à la lumière directe du soleil, à l'humidité ou à hautes températures.
 
