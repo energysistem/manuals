@@ -38,22 +38,22 @@ Para aceder ao submenu de definições de reprodução enquanto o leitor está a
 
 **"Modo de Play"**: 
 
-1)	**Repetir**:
+1)	Repetir:
 
 Pode seleccionar o modo que quiser através da opção seguinte: "Repetir 1" (repete a faixa que está a soar), "Repetir tudo" (reproduz todas as faixas de modo contínuo).
 
-2)	**"Aleat."**: 
+2)	Aleat.: 
 
 A opção reproduz todas as faixas sem seguir uma ordem pré-estabelecida. O modo **'Aleatório'** não vem activado por defeito. É por isso que tem que activá-lo quando utilize o seu *Energy MP4* pela primeira vez.
 
 
 **"Definições de som"**:
 
-1)	**Equalizador**:
+1)	Equalizador:
 
 Através da opção pode seleccionar o modo de equalização que mais se ajusta às suas preferencias. Os 7 modos de equalização disponíveis são: “Desactivado”(não realiza ajuste nenhum no que corresponde a equalização da música que está a soar), “Rock”, “Funk”, “Hip Hop”, “Jazz”, “Clássico” ou “Tecno”. 
 
-2)	**Reprodução de velocidade**
+2)	Reprodução de velocidade:
 
 A opção permite-lhe incrementar o reduzir a velocidade da faixa que está a soar. Se não deseja modificar a velocidade da música, seleccione a opção '+0' no submenu.
 
