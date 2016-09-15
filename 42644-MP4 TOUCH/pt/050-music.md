@@ -47,7 +47,7 @@ A opção permite-lhe explorar os directórios da memória interna do seu MP4 To
 
 "Apagar tudo": Escolha a opção para apagar todas as músicas guardadas na memória interna.
 
- "Criar lista ?"
+ "Criar lista"
 Utilize a opção para criar as pastas de álbum, artista e género de novo após guardar ou apagar ficheiros de música.
 
 Importante: O seu 'MP4 Touch' actualiza automaticamente e fica no modo 'Carregar' enquanto desliga o leitor de música do computador através da remoção segura de dispositivos.
