@@ -38,22 +38,22 @@ Vous pouvez accéder aux options de réglage de lecture en maintenant la touche 
 
 **"Mode de lecture"** : 
 
-1.	*Répéter* :
+1)	*Répéter* :
 
 Cette option vous permet de sélectionner votre mode préféré : "Répéter 1" (répétition de la piste actuelle), "Répéter tout" (diffusion en continu de toutes les pistes) et "Intro" (diffusion des 10 premières secondes et puis il passe à la piste suivante).
 
-2.	*"Aléatoire"* : 
+2)	*"Aléatoire"* : 
 
 L'ordre de lecture des chansons n'est pas défini. Le mode *'Aléatoire'* est désactivé par défaut. Vous devrez donc l'activer lors de la première utilisation de l'*Energy MP4*.
 
 
 **"Réglages du son"** :
 
-1.	*Égaliseur* :
+1)	*Égaliseur* :
 
 Cette option vous permet de choisir l'égalisation la plus adaptée à vos préférences. Choisissez parmi les 7 modes prédéfinis disponibles : "Désactivé" (aucune modification ne sera faite sur l'égalisation de la musique lors de sa diffusion), "Rock", "Funk", "Hip Hop", "Jazz", "Classique" ou "Techno".
 
-2.	*Vitesse variable* 
+2)	*Vitesse variable* 
 
 Cette option vous permet d'augmenter ou diminuer la vitesse de la chanson en cours de lecture. Si vous ne souhaitez pas modifier la vitesse de la chanson, sélectionnez '+0' dans ce sous-menu.
 
