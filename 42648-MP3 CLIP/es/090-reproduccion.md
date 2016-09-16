@@ -1,6 +1,6 @@
 ## Reproducción de música
 
-Tu MP3 Energy te permite disfrutar de audio codificado en los formatos MP3 / FLAC / WMA / WAV gracias a su procesador de alta fidelidad de sonido. 
+Tu MP3 Energy te permite disfrutar de audio codificado en los formatos MP3 / WMA  gracias a su procesador de alta fidelidad de sonido. 
 
 Desde el menú principal, desplázate utilizando los botones *Avance (3)* y *Retroceso (1)*. Pulsa *Reproducción / Pausa (4)* sobre cada opción para seleccionar el modo de reproducción deseado. Para retroceder de nuevo al menú principal, mantén pulsado el botón *Menú (5)*.
 
