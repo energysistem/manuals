@@ -1,6 +1,6 @@
 ## Lecture de musique
 
-Votre Energy MP3 vous permet de jouir de votre audio encodé en MP3 / FLAC / WMA / WAV grâce à son processeur de haute fidélité sonore. 
+Votre Energy MP3 vous permet de jouir de votre audio encodé en MP3 / WMA  grâce à son processeur de haute fidélité sonore. 
 
 Dans le menu principal, utilisez les boutons *Suivant (3)* et *Précédent (1)* pour parcourir les options. Appuyez sur *Lecture / Pause (4)* pour sélectionner le mode de lecture souhaité parmi les options. Pour revenir au menu principal, maintenez le bouton *Menu (5)* enfoncé.
 
