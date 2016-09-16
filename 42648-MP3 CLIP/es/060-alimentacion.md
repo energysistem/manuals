@@ -10,7 +10,7 @@ Tu *MP3 Energy* lleva integrada una batería de Litio recargable. Para optimizar
 
 El tiempo de carga oscila entre 2 y 3 horas, dependiendo de si el reproductor está apagado o en funcionamiento. Para mantener la batería en excelentes condiciones, te recomendamos que durante la carga lo mantengas apagado, sin reproducir y no lo dejes cargando más de 8 horas.
 
-Para optimizar el uso de la batería de tu *MP3 Energy*, puedes desactivar la retro iluminación de la pantalla automáticamente tras unos segundos de inactividad, accediendo a la opción de  *AJUSTES -> Retroiluminación. Para volver a activar la iluminación de la pantalla, presiona cualquier botón.
+Para optimizar el uso de la batería de tu *MP3 Energy*, puedes desactivar la retro iluminación de la pantalla automáticamente tras unos segundos de inactividad, accediendo a la opción de  'AJUSTES' -> 'Retroiluminación'. Para volver a activar la iluminación de la pantalla, presiona cualquier botón.
 
 Nota: En el caso que selecciones ‘0’ segundos, la pantalla permanecerá siempre iluminada.
 
