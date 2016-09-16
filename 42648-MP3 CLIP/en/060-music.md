@@ -1,6 +1,6 @@
 ## Music playback
 
-Your Energy MP3 allows you to enjoy codified audio in MP3 / FLAC / WMA / WAV formats thanks to its high-fidelity sound processor. 
+Your Energy MP3 allows you to enjoy codified audio in MP3 / WMA formats thanks to its high-fidelity sound processor. 
 
 Move through the options of the main menu using the *Next (3)* and *Back (1)* buttons. Select the option you like and proceed to choose the preferred playback mode by pressing *Play / Pause (4)*. Press and hold the *Menu (5)* button to return to the main menu.
 
