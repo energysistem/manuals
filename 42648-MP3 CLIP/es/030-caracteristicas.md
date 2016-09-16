@@ -3,7 +3,7 @@
 -	Pantalla  LCD 128x64 píxels.
 -	Radio FM integrada con presintonías y grabación.
 -	Grabadora de voz digital con micrófono integrado.
--	Reproduce música MP3 / FLAC / WMA / WAV
+-	Reproduce música MP3 / WMA 
 -	7 modos de ecualización: Natural, Rock, Pop, Classic, Soft, Jazz, DBB-Bass.
 -	7 modos de reproducción y repetición (incluyendo modo aleatorio).
 -	Navegación por carpetas.
