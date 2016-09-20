@@ -5,14 +5,14 @@
 
 1.	Rear camera
 2.	Rear flash
-3.	Notifications LED
+3.	Notification LED
 4.	Proximity and luminosity sensors
 5.	Earphones output
-6.	MicroUSB Input
+6.	MicroUSB input
 7.	Receiver
 8.	Front camera
 9.	Volume button
-10.	Power button
+10.	On/Off button
 11.	Slot to remove rear case
 12.	Microphone
 13.	Touch buttons: Recent Apps, Home, Back
