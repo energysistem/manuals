@@ -1,11 +1,20 @@
 ## MicroSD / USB
 
-Your Energy Phone Max 4000 has a slot for microSD cards to expand your device's memory. To use it, turn off your device before inserting/extracting the card in order to avoid accidental data loss.  It supports High Capacity (microSD-HC) and Extended Capacity (microSD-XC) card formats.
+Your Energy Phone Neo 2 has a slot for microSD cards to expand your device memory. To use it, turn off your device before inserting/extracting the card in order to avoid accidental data loss.  It supports High Capacity (microSD-HC) and Extended Capacity (microSD-XC) card formats.
 
-Your Energy Phone also includes a microUSB port with HOST and OTG functions. You only need to connect the cable that comes with the product to establish the connection and enjoy all mode functions.
+Additionally, your Energy Phone offers you the possibility to choose between two possible microSD settings: microSD as massive storage unit and microSD as internal storage unit.
 
-OTG mode (requires a microUSB-USB female adapter that is not included): it allows to connect external devices like keyboards, mice, external drives, atc, and other devices with battery.
+Please follow these steps the first time that you install your microSD:
 
-HOST mode: It allows to connect your Energy Phone to the computer.
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57d6cd8fb4882.jpg)
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e920b381.jpg)
+1. Select this option if you want to use your microSD card as a massive storage unit.
+2. Select this option if you want to use your microSD card as an internal storage unit. Apps and multimedia content can be installed on your microSD unit but take into account that this won't be possible with all apps.
+3. Press "Next" once you have selected the preferred option.
+4. Erase and format MicroSD memory. At this point, all information stored in the MicroSD memory will be removed permanently.
+
+
+Your Energy Phone also includes a microUSB port with HOST function. You only need to connect the cable that comes with the product to establish the connection and enjoy all mode functions.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd4c628e1e9.jpg)
+
