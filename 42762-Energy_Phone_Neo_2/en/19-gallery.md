@@ -1,22 +1,24 @@
 ## Gallery
 
-You will be able to view the pictures and videos stored in the internal memory.
+You will be able to view the pictures and videos stored in the device's internal memory and your Google account.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e7f5d335.jpg) <br>
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd45e4d56a8.jpg) <br>
 
-1. Display options
-2. Camera shortcut
-3. Options
+1. Return.
+2. Options.
+3. Backup and synchronization.
 
+In order to access the folder list, press Device folders > Pictures on the menu.
 
-To view the previous / next image or album, slide your finger horizontally.
+To view the previous/next image or album, slide your finger horizontally.
 To return to the main desktop, press the Back or Home button.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e84185f6.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd45ebcc945.jpg)
 
-1. Back to image list
-2. Share
-3. Share options
-4. Options
-5. Image
-6. Edit mode
+1. Return to picture list.
+2. Options.
+3. Image.
+4. Image details.
+5. Image editor.
+6. Share.
+
