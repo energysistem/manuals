@@ -1,6 +1,6 @@
 ## Gallery
 
-You will be able to view the pictures and videos stored in the device internal memory and your Google account.
+You will be able to view the pictures and videos stored on the device internal memory and your Google account.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd45e4d56a8.jpg) <br>
 
