@@ -17,7 +17,7 @@ All company, brand and product names are trademarks or registered trademarks of 
 
 © 2016 by Energy Sistem Technology, S.A. All rights reserved.
 
-**NOTE**: The present device could contain links to other sites or websites operated by third parties not related to Energy Sistem Technology, S.A. These links are provided for your information or convenience; Energy Sistem is not responsible for their availability, content, update, adequacy or accuracy.  These external web sites might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All rights reserved are property of their respective owners and you are not granted any license or right related to those brand names, patents, industrial secrets, technologies, products, processes or other rights that are property of other companies or individuals. -
+**NOTE**: The present device could contain links to other sites or websites operated by third parties not related to Energy Sistem Technology, S.A. These links are provided for your information or convenience; Energy Sistem is not responsible for their availability, content, update, adequacy or accuracy.  These external web sites might contain or link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All rights reserved are property of their respective owners and you are not granted any license or right related to those brand names, patents, industrial secrets, technologies, products, processes or other rights that are property of other companies or individuals.
 
 </quick_guide>
 
