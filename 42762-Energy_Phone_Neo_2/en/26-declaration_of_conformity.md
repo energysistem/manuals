@@ -1,18 +1,18 @@
-## <quick_guide> Declaration of Conformity
+## <quick_guide> Declaration of conformity
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42762/576a9fff43474.jpg)
 
-Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
-Address: C/ Calpe, 1 - 03509 Finestrat Alicante (Spain)
+Issuer’s name: Energy Sistem Technology, S.A. CIF: A53107488
+Address:  C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
 Tel: + 34 902 388 388  / + 34 966 813 257
 
-We declare under our own exclusive responsibility that the product
+We declare under our own exclusive responsibility that the product:
 
 Description: Smartphone
 Brand: Energy Sistem
 Model: Energy Phone Neo 2
 Manufacturer: Energy Sistem Technology, S.A.
-Manufacturing country: China
+Manufacturing Country:  China
 
 referred to in this declaration is in compliance with the essential norms and standards
 
@@ -31,14 +31,14 @@ EN 300 328 V1.9.1
 EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
 EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
-Is in compliance with the essential norms  and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
+in conformity with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
 Finestrat, 01st September 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
 Daniel Havillio
 Product Management Director
 
+
 </quick_guide>
-
-
