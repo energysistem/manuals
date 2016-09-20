@@ -1,22 +1,17 @@
 ## Camera
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e6f27dff.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57daac1d07caa.jpg)
 
 
-1. Multi angle view mode
-2. Panorama mode
-3. Face beauty mode
-4. Motion capture mode
-5. Live Photo mode
-6. Normal mode
-7. Automatic gesture recognition
-8. HDR
-9. Flash
-10. Switch cameras
-11. Access to gallery
-12. Shutter button
-13. Video mode
-14. Settings
-15. Camera preview
-
+1. Settings.
+2. Flash.
+3. Switch cameras.
+4. Camera preview.
+5. Automatic gesture recognition.
+6. Smile capture.
+7. Video mode.
+8. Shutter button.
+9. Access to gallery.
+10. Settings.
+11. Return.
 
