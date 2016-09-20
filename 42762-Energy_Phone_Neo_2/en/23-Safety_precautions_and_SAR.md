@@ -3,7 +3,7 @@
 It is prohibited to use the phone in certain places such as airplanes, hospitals, service stations and garages.
 To reduce the amount of radiation, use a hands-free kit, the speaker mode, a Bluetooth headset and do not make calls in places where the signal is weak, in the car, train or subway. Keep the phone away from sensitive areas like the belly of pregnant women, especially when making a phone call.  If you have an electronic implant (pacemakers, insulin pumps, neurostimulators...) place the phone at least 15 cm from the body and on the opposite side to the implant when making a phone call.
 
-Sockets must be installed near the equipment and should be easily accessible.
+The power socket that you intend to use to charge the device battery should be easily accesible. You must place the device close to it.
 
 ### Exposure information (SAR)
 
