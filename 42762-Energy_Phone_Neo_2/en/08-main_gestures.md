@@ -39,4 +39,3 @@ Zoom in and out the image on screen
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
 
-
