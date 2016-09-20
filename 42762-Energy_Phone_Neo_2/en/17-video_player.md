@@ -1,17 +1,16 @@
-### Video Player
+## Video Player
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9ec82ccfd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd43dabb7e1.jpg)
 
-1. Back to video list
-2. Play / Pause
-3. Share
-4. Share options
-5. Options
-6. Now playing
-7. Length
-8. Full screen
-9. Progress bar
-10. Elapsed time
+1. Back to video list.
+2. Play / Pause.
+3. Options.
+4. Now playing.
+5. Length.
+6. Video details.
+7. Video editor.
+8. Progress bar.
+9. Share options.
+10. Elapsed time.
 
-
-
+In order to access the folder list, press Device folders > Movies on the menu.
