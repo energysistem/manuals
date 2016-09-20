@@ -1,8 +1,8 @@
-### Bluetooth settings
+## Bluetooth setup
 
-Your Energy Phone Max 4000 has Bluetooth 4.0 to connect your device to headphones, computers, tablets or any device that supports such communication protocol. You just need to go to Settings > Bluetooth and turn the switch to ON. Then, the device will start a search of all available devices and once it has finished, you will only have to select one of them to establish the connection.
+Your Energy Phone Neo 2 has Bluetooth 4.0 to connect your device to headphones, computers, tablets or any device that supports such communication protocol. You just need to go to Settings > Bluetooth and turn the switch ON. Then, the device will start a search of all available devices and once it has finished, you will only have to select one of them to establish the connection.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e66eba88.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57daac14b8515.jpg)
 
 1. Settings > Bluetooth.
 2. Enable the Bluetooth option.
