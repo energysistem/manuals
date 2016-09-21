@@ -14,7 +14,7 @@
 10. Botão de ligar/desligar
 11. Slot para tirar a tampa traseira
 12. Microfone
-13. Botões tácteis no ecrã: aplicações recentes, início, voltar
+13. Botões tácteis: aplicações recentes, início, voltar
 14. Altifalante Xtreme Sound
 15. Slot do cartão microSIM 1
 16. Slot do cartão microSD
