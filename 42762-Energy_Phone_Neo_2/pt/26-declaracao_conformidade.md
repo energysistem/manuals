@@ -31,7 +31,7 @@ EN 300 328 V1.9.1
 EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
 EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
-Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/ EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/ EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
 Finestrat, 01 de setembro de 2016.
 
