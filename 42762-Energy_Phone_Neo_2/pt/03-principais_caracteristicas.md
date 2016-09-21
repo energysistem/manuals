@@ -45,6 +45,6 @@ OUTROS:
 - Sensor de proximidade
 - Sensor de luminosidade
 - Microfone omnidireccional integrado
-- Rádio FM de 87.5 até 108 MHz com estações prédefinidas
+- Rádio FM de 87.5 até 108 MHz com estações predefinidas
 - Exposição SAR: 0,716 (W/Kg) ao nível de cabeça e 1,449 (W/Kg) ao nível de corpo (a uma distância de 10 mm)
 
