@@ -14,11 +14,11 @@ SISTEMA OPERATIVO
 
 CÂMARAS
 - Câmara traseira de 5 MP com auto foco e flash LED
-- Câmara frontal integrada de 2 MP com ângulo de visão (FOV) de 83,7º.
+- Câmara frontal integrada de 2 MP com ângulo de visão (FOV) de 83,7º
 
 MEMÓRIA
 - 1 GB de RAM DDR3
-- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais).
+- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais)
 
 CONECTIVIDADE
 - 4G: 800/900/1800/2600 MHz (FDD-LTE: BANDAS XX / VIII / III / VII)
@@ -35,8 +35,8 @@ SISTEMAS DE LIGAÇÃO
 
 BATERIA:
 - Capacidade da bateria: Li-ion, 2000 mAh
-- Autonomia: até 250 horas em standby e até 10 horas de conversa.
-- Características recomendadas do adaptador de corrente AC/DC (não fornecido), tensão de entrada: 100-240 VAC 50-60 Hz. Tensão de saída: 5 V 1 A
+- Autonomia: até 250 horas em standby e até 10 horas de conversa
+- Características recomendadas do adaptador de corrente AC/DC (não fornecido), tensão de entrada: 100-240 VAC 50-60 Hz e tensão de saída: 5 V 1 A
 
 OUTROS:
 - Altifalante integrado Xtreme Sound de 2 W
