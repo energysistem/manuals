@@ -1,15 +1,16 @@
-### Reprodução de vídeo
+## Leitura de vídeos
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9ec82ccfd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd43dabb7e1.jpg)
 
-1. Voltar para a lista de vídeos
-2. Reproduzir / Parar
-3. Partilhar
-4. Opções para partilhar
-5. Preferências
-6. A reproduzir filme
-7. Duração
-8. Ampliar o ecrã
-9. Barra de progresso
-10. Tempo decorrido
- 
+1. Voltar para a lista de vídeos.
+2. Reproduzir / Parar.
+3. Preferências.
+4. A reproduzir vídeo.
+5. Duração.
+6. Detalhes do vídeo.
+7. Editar vídeo.
+8. Barra de progresso.
+9. Opções para partilhar.
+10. Tempo decorrido.
+
+Prima "Pastas do dispositivo" > "Vídeos" no menu para aceder à lista de pastas.
