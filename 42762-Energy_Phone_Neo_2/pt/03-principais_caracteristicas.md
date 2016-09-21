@@ -3,25 +3,25 @@
 ECRÃ
 - Ecrã táctil de 4.5" com revestimento oleofóbico
 - Tecnologia IPS FWVGA
-- Resolução (854x480  pixels)
+- Resolução: 1280 x 800 pixels
 
 PROCESSADOR
-- Processador Quad Core ARM Cortex A53 1.0 GHz
-- Processador gráfico Mali-T720 MP1 integrado
+- Processador Quad Core ARM Cortex A53 1.0 GHz 
+- GPU Mali-T720 MP1
 
 SISTEMA OPERATIVO
 -  Android#trade# 6.0 Marshmallow
 
 CÂMARAS
 - Câmara traseira de 5 MP com auto foco e flash LED
-- Câmara frontal de 2 MP
+- Câmara frontal integrada de 2 MP com ângulo de visão (FOV) de 83,7º.
 
 MEMÓRIA
 - 1 GB de RAM DDR3
-- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais)
+- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais).
 
 CONECTIVIDADE
-- 4G: 800/900/1800/2600 MHz (BANDAS FDD-LTE XX / VIII / III / VII)
+- 4G: 800/900/1800/2600 MHz (FDD-LTE: BANDAS XX / VIII / III / VII)
 - 3G:  900/2100 MHz (BANDAS WCDMA VIII / I)
 - 2G: 850/900/1800/1900 MHz (BANDAS GSM)
 - Bluetooth® 4.0
@@ -35,15 +35,16 @@ SISTEMAS DE LIGAÇÃO
 
 BATERIA:
 - Capacidade da bateria: Li-ion, 2000 mAh
-- Quick charge
-- Características recomendadas adaptador de energia (não incluído no produto) AC / DC (Europlug) de entrada: 100-240VAC 50-60Hz. Saída: 5V 1A..
+- Autonomia: até 250 horas em standby e até 10 horas de conversa.
+- Características recomendadas do adaptador de corrente AC/DC (não fornecido), tensão de entrada: 100-240 VAC 50-60 Hz. Tensão de saída: 5 V 1 A
 
 OUTROS:
-- Xtreme Altifalante Integrated Som
-- Notificações de LED
+- Altifalante integrado Xtreme Sound de 2 W
+- LED de notificações
 - Sensor de movimento (acelerómetro)
 - Sensor de proximidade
 - Sensor de luminosidade
 - Microfone omnidireccional integrado
 - Rádio FM de 87.5 até 108 MHz com estações prédefinidas
 - Exposição SAR: 0,716 (W/Kg) ao nível de cabeça e 1,449 (W/Kg) ao nível de corpo (a uma distância de 10 mm)
+
