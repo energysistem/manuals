@@ -3,7 +3,7 @@
 * Energy Phone Neo 2.
 * Tampa traseira disponível em duas cores.
 * Guia Rápida.
-* Película de protecção de ecrã.
+* Película de proteção de ecrã.
 * Cabo USB.
 * Bateria de lítio recarregável.
 
