@@ -3,7 +3,7 @@
 ECRÃ
 - Ecrã táctil de 4.5" com revestimento oleofóbico
 - Tecnologia IPS FWVGA
-- Resolução: 1280 x 800 pixels
+- Resolução: 854 x 480 pixels
 
 PROCESSADOR
 - Processador Quad Core ARM Cortex A53 1.0 GHz 
