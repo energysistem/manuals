@@ -16,8 +16,7 @@
 *	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
-*	Potencia nominal: 20 W.
-*	Potencia RMS: 15 W.
+*	Potencia: 20 W.
 *	Sensibilidad del micrófono: -42 dB.
 *	Diámetro del altavoz: 50 mm.
 *	Respuesta en frecuencia: 20 - 20.000 Hz.
