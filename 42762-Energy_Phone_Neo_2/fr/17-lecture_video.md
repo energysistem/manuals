@@ -12,3 +12,5 @@
 8. Barre de progression.
 9. Préférences de partage.
 10. Temps de lecture.
+
+Pour accéder à la liste des dossiers > Appuyez sur Menu > Dossiers de périphériques > Movies
