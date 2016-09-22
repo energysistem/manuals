@@ -2,16 +2,16 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
-Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
-Adresse : Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
-Tél : (+34) 902 388 388  / (+34) 966 813 257
+Nom du déclarant : Energy Sistem Technology S.A. - Numéro d'identification fiscale : A53107488
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Tél. : (+34) 902 388 388  / (+34) 966 813 257
 
 Nous déclarons sous notre seule responsabilité que le produit
 
 Description : Smartphone
 Marque : Energy Sistem
 Modèle : Energy Phone Max 2+
-Fabricant : Energy Sistem Technology S.A.
+Fabricant : Energy Sistem Technology, S.A.
 Pays de fabrication : Chine
 
 visé par cette déclaration est conforme aux normes ou documents normatifs
@@ -29,7 +29,7 @@ EN 61000-3-3:2013; EN 55024:2010
 EN 301 511 V9.0.2
 EN 300 328 V1.9.1
 EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
-EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
+EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
 conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
 
