@@ -1,17 +1,17 @@
-## <quick_guide>Déclaration de conformité
+## <quick_guide> Déclaration de conformité
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42762/576a9fff43474.jpg)
 
 Nom du déclarant : Energy Sistem Technology S.A. - Numéro d'identification fiscale : A53107488
-Adresse : Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne)
-Tél : (+34) 902 388 388  / (+34) 966 813 257
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Tél. : (+34) 902 388 388  / (+34) 966 813 257
 
 Nous déclarons sous notre seule responsabilité que le produit
 
 Description : Smartphone
 Marque : Energy Sistem
 Modèle : Energy Phone Neo 2
-Fabricant : Energy Sistem Technology S.A.
+Fabricant : Energy Sistem Technology, S.A.
 Pays de fabrication : Chine
 
 visé par cette déclaration est conforme aux normes ou documents normatifs
@@ -42,4 +42,3 @@ Product Management Director
 
 
 </quick_guide>
-
