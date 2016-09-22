@@ -1,21 +1,21 @@
 ## Mise à jour
 
-Votre Energy Phone Max 4000 a un système d'exploitation installé basé sur Android#trade#, vous pouvez le réinstaller ou le mettre à jour s'il est nécessaire. Par défaut, les actualisations sont faites via OTA (Over-The-Air), votre Energy Phone se connectera automatiquement sur nos serveurs, il téléchargera et installera le nouveau software lorsqu'une une nouvelle mise à jour soit disponible.
+Le système d'exploitation installé dans votre Energy Phone Max 2+ est basé sur Android#trade#, vous pouvez le réinstaller ou le mettre à jour s'il est nécessaire. Par défaut, les mises à jour sont faites via OTA (Over-The-Air), votre Energy Phone se connectera automatiquement à nos serveurs, il téléchargera et installera le nouveau software lorsqu'une une nouvelle actualisation sera disponible.
 
-Vous pouvez aussi mettre à jour votre Energy Phone Max 4000 à travers votre ordinateur. Le processus est très simple mais il doit se réaliser avec attention et quand il soit nécessaire. Si l'appareil est bloqué, réinitié de manière imprévue ou vous avez des problèmes pour accéder au contenu de la mémoire, il est nécessaire de réinstaller le système d'exploitation ou de le mettre à jour avec la nouvelle version compatible, si elle est disponible.
+Vous pouvez aussi mettre à jour votre Energy Phone Max 2+ à travers votre ordinateur. Le processus est très simple mais il doit être réalisé avec soin et uniquement quand il sera vraiment nécessaire. Si l'appareil est bloqué, il redémarre de façon imprévue ou vous avez des problèmes pour accéder au contenu de la mémoire, il est nécessaire de réinstaller le système d'exploitation ou de le mettre à jour avec la nouvelle version compatible, si elle est disponible.
 
-Suivez les pas suivants pour réaliser l'installation :
+Suivez les étapes suivantes pour l'installation :
 
-1. Assurez-vous que la batterie de votre Energy Phone Max 4000 est totalement chargée. Sinon, connectez le smartphone à une alimentation externe en utilisant l'adaptateur AC/DC fourni et attendez jusqu'à ce que la batterie soit complètement chargée.
+1. Vérifiez que la batterie de votre Energy Phone Max 2+ est totalement chargée. Si ce n'est pas le cas, connectez le smartphone à une alimentation externe en utilisant l'adaptateur AC/DC fourni et attendez jusqu'à ce que la batterie soit complètement chargée.
 
-2. Accédez au site web www.energysistem.com.
+2. Accédez au site web www.energysistem.com depuis votre ordinateur.
 
-3. Entrez sur la section "Support" et choisissez le type de produit "Smartphone".
+3. Entrez dans la rubrique « Support » et choisissez le type de produit « Smartphone ».
 
-4. Choisissez votre modèle Energy Phone de la liste dépliant qui apparaitra, et tout de suite, déchargez la dernière version du système d'exploitation Android#trade# disponible dans la section Téléchargements/Firmwares.
+4. Sélectionnez votre modèle Energy Phone sur la liste déroulante qui s'affichera et téléchargez ensuite la dernière version du système d'exploitation Android#trade# disponible dans la section Téléchargements/Firmwares.
 **Important :**
-Assurez-vous que la version du système d'exploitation que vous êtes en train de décharger soit spécifique pour votre modèle et numéro de série, car au cas contraire, votre dispositif pourra être endommagé.
+Vérifiez que la version du système d'exploitation que vous êtes en train de télécharger soit spécifique pour votre modèle et numéro de série car autrement votre dispositif risque d'être endommagé.
 
-5. Décomprimez le fichier sur votre ordinateur.
+5. Décompressez le fichier dans votre ordinateur.
 
-6. Ouvrez le fichier de texte inclut dans la décharge et suivez les instructions pour l'installation du nouveau système d'exploitation dans votre Energy Phone Max 4000.
+6. Ouvrez le fichier texte parmi les fichiers téléchargés et suivez les instructions pour l'installation du nouveau système d'exploitation dans votre Energy Phone Max 2+.
