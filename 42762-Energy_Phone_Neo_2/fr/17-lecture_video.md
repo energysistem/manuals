@@ -1,15 +1,14 @@
-### Lecture de vidéo
+## Lecture de vidéo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9ec82ccfd.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd43dabb7e1.jpg)
 
-1. Retourner sur la liste des vidéos
-2. Play / Pause
-3. Partager
-4. Préférences de partage
-5. Options
-6. Film en cours
-7. Durée
-8. Plein écran
-9. Barre de progression
-10. Temps de lecture
-
+1. Revenir à la liste des vidéos.
+2. Play / Pause.
+3. Options.
+4. Film en cours.
+5. Durée.
+6. Détails sur le film.
+7. Modifier le film.
+8. Barre de progression.
+9. Préférences de partage.
+10. Temps de lecture.
