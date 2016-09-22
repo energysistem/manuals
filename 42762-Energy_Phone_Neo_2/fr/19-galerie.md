@@ -1,22 +1,23 @@
-## Galerie
+## Photos
 
-Vous pouvez visualiser vos photos et vidéos stockées dans la mémoire interne de l'appareil.
+Vous pouvez afficher vos photos et vidéos stockées dans la mémoire interne de l'appareil et dans votre compte Google.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e7f5d335.jpg) <br>
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd45e4d56a8.jpg) <br>
 
-1. Options d'organisation.
-2. Raccourci à l'appareil photo.
-3. Options.
+1. Retour arrière.
+2. Options.
+3. Sauvegarder et Synchroniser
 
+Pour accéder à la liste des dossiers > Appuyez sur Menu > Dossiers de périphériques > Pictures
 
-Pour regarder l'antérieure/suivante image, déplacez votre doigt par l'écran avec un mouvement horizontal.
+Pour regarder l'image ou l'album précédent/suivant, déplacez votre doigt sur l'écran avec un mouvement horizontal.
 Pour retourner au bureau principal, appuyez sur l'icône de retour ou Menu démarrer.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e84185f6.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42762/57cd45ebcc945.jpg)
 
-1. Retourner sur la liste des images.
-2. Partager
-3. Préférences de partage
-4. Options
-5. Image
-6. Mode édition
+1. Revenir à la liste des images.
+2. Options.
+3. Image.
+4. Détails sur l'image.
+5. Modifier l'image.
+6. Partager.
