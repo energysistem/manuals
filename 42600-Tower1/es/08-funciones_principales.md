@@ -4,14 +4,6 @@ Una vez enchufada a la toma de corriente, enciende tu Energy Tower 1 poniendo el
 
 Te recomendamos que cuando no vayas a utilizar la torre durante un periodo más largo de tiempo, además de apagar la torre desde el panel superior, pongas el interruptor trasero en la posición "OFF".
 
-## Display
-
-El *Energy Tower 8* está dotado de un display retroiluminado oculto (Hidden Display) en la parte frontal superior.
-Cuando se enciende el dispositivo se ilumina dicho display que indica el modo en el que se encuentra el *Energy Tower 8*.
-
-## Panel táctil
-
-El *Energy Tower 8* cuenta con un panel táctil en la parte superior desde el cual podrás controlar todas las funciones fácilmente. Para una correcta respuesta del panel táctil debes pulsarlo con la yema del dedo desnuda.
 
 
 
