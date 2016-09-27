@@ -4,4 +4,4 @@ Una vez sincronizado tu Energy Tower 1, puedes controlar el volumen de reproducc
 
 A través del botón *Play - Pausa (7)* inicia, pausa o reanuda la reproducción.
 
-Para cambiar de canción usa los botones Avance (9) y Retroceso (8).
+Para cambiar de canción usa los botones *Avance (9)* y *Retroceso (8)*.
