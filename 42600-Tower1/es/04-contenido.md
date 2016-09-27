@@ -1,6 +1,5 @@
 ## Contenido del producto
 
-- Energy Tower 8.
-- Mando a distancia.
-- Cable de audio (3,5mm).
+- Energy Tower 1.
+- Cable de audio jack 3.5mm/RCA.
 - Guía Rápida.
