@@ -6,11 +6,17 @@ Tel: 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Altavoz portátil inalámbrico <br/>
+Descripción: Sistema de sonido en torre <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Music Box B2 <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
+
+Descripción: Sistema de sonido en torre
+Marca: Energy Sistem
+Modelo: Energy Audio Tower 1
+Fabricante: Energy Sistem Technology S.A.
+País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
