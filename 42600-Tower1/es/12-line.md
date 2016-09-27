@@ -1,5 +1,13 @@
-## Entrada de Línea
+## Conexión de entrada de línea
 
-Para usar la función "Audio-In", conecta un extremo del cable de audio suministrado en la entrada AUDIO-IN (11), y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. En el momento que se conecte el cable a la entrada AUDIO-IN (11), el modo "Audio-In" se activará automáticamente y visualizarás "AUX" en la pantalla principal.
+Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar de 3.5 mm (2)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
-En el modo de reproducción "Audio-In", el *Energy Tower 8* se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen o ecualización, se escucharán en el *Energy Tower 8*.
+Esta función aparecerá en el panel superior como "Aux1". Para utilizarla, conecta un extremo de cable de audio jack 3.5mm - 3.5mm en la entrada (2); y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
+
+Con tu Energy Tower 1 encendida, presiona el botón *Cambio de modo(6)* y selecciona el modo "Aux1", que podrás visualizar en el *LED indicador de modo (1)* del panel superior.
+
+En el modo de reproducción "Aux1", el Energy Tower 1 se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen, ecualización o cambio de pista, se escucharán en el Energy Tower 1.
+
+Podrá utilizar el botón *Play - Pausa(7)* para  iniciar, pausar o reanudar la reproducción.
+
+Recuerda que en el modo de entrada auxiliar no podrás usar los botones *Avance (9)* y *Retroceso (8)* para cambiar de canción. Deberás hacerlo desde tu dispositivo de audio (reproductor externo) conectado.
