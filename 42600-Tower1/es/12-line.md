@@ -1,8 +1,8 @@
 ## Conexión de entrada auxiliar de 3.5mm
 
-Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar de 3.5 mm (2)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
+Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar de 3.5 mm (9)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
-Esta función aparecerá en el panel superior como "Aux1". Para utilizarla, conecta un extremo de cable de audio jack 3.5mm - 3.5mm en la entrada (2); y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
+Esta función aparecerá en el panel superior como "Aux1". Para utilizarla, conecta un extremo de cable de audio jack 3.5mm - 3.5mm en la entrada (9); y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
 
 Con tu Energy Tower 1 encendida, presiona el botón *Cambio de modo(6)* y selecciona el modo "Aux1", que podrás visualizar en el *LED indicador de modo (1)* del panel superior.
 
