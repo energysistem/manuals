@@ -1,4 +1,4 @@
-## Conexión de entrada de línea
+## Conexión de entrada auxiliar de 3.5mm
 
 Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar de 3.5 mm (2)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
