@@ -1,6 +1,6 @@
-## Entrada auxiliar RCA
+## Conexión de entrada auxiliar RCA
 
-Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar de 3.5 mm (2)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
+Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar RCA (8)*, en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
 Esta función aparecerá en el panel superior como "Aux1". Para utilizarla, conecta un extremo de cable de audio jack 3.5mm - 3.5mm en la entrada (2); y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
 
