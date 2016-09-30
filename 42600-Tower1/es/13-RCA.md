@@ -4,7 +4,7 @@ Tu Energy Tower 1 cuenta con una conexión de *entrada auxiliar RCA (8)*, en la 
 
 Esta conexión está ubicada en el panel superior, e identificada como "Aux1". Se trata de un conector tipo RCA estéreo. Esta entrada está ideada para que conectes de manera permanente tu televisión o equipo de música. Podrás habilitar y deshabilitar esta entrada mediante el botón *Cambio de modo(5)*.
 
-Para utiliza esta función, conecta el extremo RCA (L y R) en la entrada (8) estéreo (L y R respectivamente); y en el otro extremo jack 3.5mm la salida del dispositivo de audio que vayas a utilizar, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
+Para utiliza esta función, conecta el extremo RCA (L y R) en la entrada *(8)* estéreo (L y R respectivamente); y en el otro extremo jack 3.5mm la salida del dispositivo de audio que vayas a utilizar, como un reproductor MP3, un ordenador portátil, un smartphone, etc. 
 
 Con tu Energy Tower 1 encendida, presiona el botón *Cambio de modo(5)* y selecciona el modo "Aux1", que podrás visualizar en el *LED indicador de modo (1)* del panel superior.
 
