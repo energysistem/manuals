@@ -37,7 +37,7 @@ CONEXIONES
 BATERÍA
 - Capacidad de batería: 3.500 mAh Li-Po (Batería no extraíble)
 - Adaptador de corriente AC/DC (Europlug) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
-- Autonomía: hasta (cambiar)720 horas en standby y (cambiar)28 horas de conversación.
+- Autonomía: hasta (cambiar)620 horas en standby y (cambiar)28 horas de conversación.
 
 OTROS
 - Altavoz Xtreme Sound integrado
