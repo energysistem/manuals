@@ -2,7 +2,7 @@
 
 
 *	Energy MP4 Touch.
-*	Auriculares intrauditivos Hi-Fi.
+*	Auriculares intrauditivos.
 *	Cable USB para cargar la batería y conexión a PC.
 *	Guía Rápida.
 
