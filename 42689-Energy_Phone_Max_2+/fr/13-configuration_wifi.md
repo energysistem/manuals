@@ -2,7 +2,7 @@
 
 Votre Energy Phone Max 2+ dispose de connexion Wi-Fi 802.11 b/g/n. Pour connecter votre appareil à un réseau sans fil, allez sur Paramètres > Wi-Fi et déplacez le commutateur à la position ON. Ensuite, l'appareil commencera à faire une recherche de tous les réseaux disponibles et vous devrez en sélectionner un pour commencer la connexion.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9edb4099b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378ffa0468.jpg)
 
 1. Paramètres > Wi-Fi. 
 2. Activez la case Wi-Fi.

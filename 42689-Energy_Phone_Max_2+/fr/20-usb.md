@@ -8,4 +8,4 @@ Le mode OTG (besoin d'un adaptateur femelle micro USB-USB non inclus): Permet de
 
 Mode HOST: Permet la connexion de votre Energy Phone au PC.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e920b381.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378b28f4d2.jpg)

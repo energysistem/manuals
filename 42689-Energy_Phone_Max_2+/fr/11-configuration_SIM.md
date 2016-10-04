@@ -1,6 +1,6 @@
 ### Configuration de la carte SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42499/56dd9e778a993.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42689/57f3783f4a07c.jpg)
 
 Votre Energy Phone Max 2+ offre la possibilité d'utiliser deux cartes microSIM. Sur la section Paramètres > Cartes SIM, vous pourrez gérer les cartes.
 
