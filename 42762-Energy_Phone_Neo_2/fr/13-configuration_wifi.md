@@ -1,6 +1,6 @@
 ## Configuration Wi-Fi
 
-Votre Energy Phone Neo 2 dispose de connexion Wi-Fi 802.11 b/g/n. Pour connecter votre appareil à un réseau sans fil, allez sur Paramètres > Wi-Fi et déplacez le commutateur vers la position ON. Ensuite, l'appareil commencera à faire une recherche de tous les réseaux disponibles et vous devrez en sélectionner un pour commencer la connexion.
+Votre Energy Phone Neo 2 dispose de connexion Wi-Fi 802.11 b/g/n. Pour connecter votre appareil à un réseau sans fil, allez sur Paramètres > Wi-Fi et déplacez le commutateur vers la position ON. Ensuite, l'appareil commencera à faire une recherche de tous les réseaux disponibles et vous devrez en sélectionner un pour commencer la connexion. 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42762/57cfe4eb2299c.jpg)
 
