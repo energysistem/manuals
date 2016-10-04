@@ -8,4 +8,4 @@ Modo OTG (precisa de adaptador microUSB-USB (tipo A). Não fornecido):  Permite 
 
 Modo HOST: Permite ligar o seu Energy Phone ao computador.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9e920b381.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378b28f4d2.jpg)

@@ -1,6 +1,6 @@
 ### Definições cartão SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42499/56dd9e778a993.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42689/57f3783f4a07c.jpg)
 
 O seu Energy Phone Max 4000 oferece-lhe a possibilidade de utilizar dois cartões microSIM. Pode gerir a utilização dos cartões na secção Definições > Cartões SIM.
 

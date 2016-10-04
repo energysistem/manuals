@@ -2,7 +2,7 @@
 
 O seu Energy Phone Max 4000 dispõe de ligação Wi-Fi 802.11 b/g/n. Para ligar o dispositivo a qualquer rede sem fios, só tem que entrar em Definições > Wi-Fi e deslizar o interruptor para a posição ON.  A seguir, começa a pesquisa de todas as redes disponíveis e depois, só tem que seleccionar uma delas para estabelecer a ligação.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9edb4099b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378ffa0468.jpg)
 
 1. Definições > Wi-Fi.
 2. Habilite a opção Wi-Fi.
