@@ -12,10 +12,11 @@
 
 ### Características técnicas.
 
-*	Sistema de sonido 2.0.
+*	Sistema de sonido 2.0. Estéreo.
+* Altavoces: 2 dinámicos de rango completo.
+* Radiadores pasivos: 1 membrana.
 *	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
-*	Indicador de carga en dispositivos iOS.
 *	Potencia: 20 W.
 *	Sensibilidad del micrófono: -42 dB.
 *	Diámetro del altavoz: 50 mm.
@@ -26,9 +27,8 @@
 ### Características de la batería recargable.
 *	Capacidad: 2000 mAh.
 *	Sistema de carga por microUSB.
-*	Tiempo de carga: 2 horas.
-*	Autonomía aproximada a volumen medio en modo Bluetooth: 8 horas*.
-*	Autonomía aproximada a volumen medio en modo Line In: 10 horas*.
+*	Tiempo de carga: 2,5 horas.
+*	Autonomía aproximada a volumen medio: 9 horas*.
 
  *El cálculo de la autonomía es aproximado. Un mayor volumen supone un mayor consumo de la batería.
 
