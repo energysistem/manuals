@@ -13,6 +13,8 @@
 ### Características técnicas.
 
 *	Sistema de sonido 2.0.
+* Altavoces: 2 dinámicos de rango completo.
+* Radiadores pasivos: 2 membranas.
 *	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
