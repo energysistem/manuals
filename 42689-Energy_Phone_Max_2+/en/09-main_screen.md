@@ -1,6 +1,6 @@
 ## Main screen
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9eac98ef9.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378d2ed38d.jpg)
 
 1. **Search:** Direct access to Google's#trade# search engine.
 2. **Status Bar:** Displays information about the signal status, battery and clock. If you slide down your finger over this area twice, you will access the basic settings menu that manages notifications as well as the main settings menu.

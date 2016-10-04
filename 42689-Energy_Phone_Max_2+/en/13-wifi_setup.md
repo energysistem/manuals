@@ -2,7 +2,7 @@
 
 Your Energy Phone Max 4000 has Wi-Fi 802.11 b/g/n connectivity. To connect your device to any wireless network, please go to Settings > Wi-Fi and turn the switch to ON. Then, the device will start a search of all available networks and you will only have to select one of them to connect your device.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42499/56dd9edb4099b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378ffa0468.jpg)
 
 1. Settings > Wi-Fi
 2. Enable the Wi-Fi option
