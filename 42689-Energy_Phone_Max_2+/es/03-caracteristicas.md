@@ -4,7 +4,7 @@ PANTALLA
 
 * Pantalla táctil de 5,5" con tratamiento antihuellas
 * Tecnología IPS
-* Resolución HD \(1280x720 píxeles\)
+* Resolución HD (1280x720 píxeles)
 
 PROCESADOR
 
@@ -42,8 +42,8 @@ CONEXIONES
 
 BATERÍA
 
-* Capacidad de batería: 3.500 mAh Li-Po \(Batería no extraíble\)
-* Adaptador de corriente AC\/DC \(Europlug\) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
+* Capacidad de batería: 3.500 mAh Li-Po (Batería no extraíble)
+* Adaptador de corriente AC/DC \(Europlug\) Entrada: 100-240VAC 50-60Hz. Salida: 5V 1A
 * Autonomía: hasta 177 horas en standby y 17 horas de conversación.
 
 OTROS
