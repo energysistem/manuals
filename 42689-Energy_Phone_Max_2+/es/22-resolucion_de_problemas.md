@@ -25,12 +25,12 @@
   El sistema operativo Android\#trade\# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 6GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 16GB.
 
 9. ¿Qué debo hacer para que me deje instalar una aplicación fuera de Play Store\#trade\#?
-  En primer lugar asegúrate que el fichero tiene la extensión de instalación Android\#trade\# \(.APK\), en segundo lugar Android\#trade\# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes \/ Seguridad \/ Orígenes desconocidos \(activar\). Esta acción puede comprometer la seguridad del terminal, siendo recomendable el instalar aplicaciones que provengan de fuentes fiables.
+  En primer lugar asegúrate que el fichero tiene la extensión de instalación Android\#trade\# \(.APK\), en segundo lugar Android\#trade\# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos \(activar\). Esta acción puede comprometer la seguridad del terminal, siendo recomendable el instalar aplicaciones que provengan de fuentes fiables.
 
 10. ¿Cuál es la autonomía del dispositivo?
   Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM y 4G/3G. Aproximadamente la autonomía del Energy Phone Max 2+ es de hasta 177 horas en standby y 17 horas de conversación.
 
 11. ¿Cuales son las frecuencias operativas de mi dispositivo para 4G y 3G?
-  Tu Energy Phone Max 2+ está preparado para trabajar correctamente en modo 4G en las bandas FDD-LTE 800\/900\/1800\/2100\/2600 MHz y en modo 3G en las bandas WCDMA 900\/2100 MHz.
+  Tu Energy Phone Max 2+ está preparado para trabajar correctamente en modo 4G en las bandas FDD-LTE 800/900/1800/2100/2600 MHz y en modo 3G en las bandas WCDMA 900/2100 MHz.
 
 
