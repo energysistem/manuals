@@ -1,6 +1,6 @@
 ### Configuración Wi-Fi
 
-Tu Energy Phone Max 2+ dispone de conexión Wi-Fi 802.11 b\/g\/n. Para conectar tu dispositivo con cualquier red inalámbrica solo tienes que ir a Ajustes &gt; Wi-Fi y mover el interruptor a la posición ON. A continuación comenzará a realizar una búsqueda de todas las redes disponibles y solo tendrás que seleccionar una para comenzar a realizar la conexión.
+Tu Energy Phone Max 2+ dispone de conexión Wi-Fi 802.11 b/g/n. Para conectar tu dispositivo con cualquier red inalámbrica solo tienes que ir a Ajustes &gt; Wi-Fi y mover el interruptor a la posición ON. A continuación comenzará a realizar una búsqueda de todas las redes disponibles y solo tendrás que seleccionar una para comenzar a realizar la conexión.
 
 ![](http://static.energysistem.com/images/manuals/42689/57f378ffa0468.jpg)
 
