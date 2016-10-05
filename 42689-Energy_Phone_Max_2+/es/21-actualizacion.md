@@ -6,13 +6,13 @@ Tambien puedes actualizar tu Energy Phone Max 2+ a través de tu ordenador. El p
 
 Sigue los siguientes pasos para realizar la instalación:
 
-1. Asegúrate de que la batería de tu Energy Phone Max 2+ se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC\/DC proporcionado y espera a que la batería se cargue del todo.
+1. Asegúrate de que la batería de tu Energy Phone Max 2+ se encuentra totalmente cargada. En caso contrario conéctalo a la alimentación externa utilizando el adaptador de corriente AC/DC proporcionado y espera a que la batería se cargue del todo.
 
 2. Accede a la página web www.energysistem.com desde tu ordenador.
 
 3. Entra en la sección "Soporte" y elige el tipo de producto "Smartphone".
 
-4. Elige tu modelo de Energy Phone de la lista desplegable que aparecerá y a continuación descarga la última versión sistema operativo Android\#trade\# disponible en el apartado Descargas\/Firmwares.
+4. Elige tu modelo de Energy Phone de la lista desplegable que aparecerá y a continuación descarga la última versión sistema operativo Android\#trade\# disponible en el apartado Descargas/Firmwares.
   **Importante: **Asegúrate de que la versión de sistema operativo que estás descargando es específico para tu modelo y número de serie, ya que de lo contrario se podría dañar el dispositivo.
 
 5. Descomprime el archivo en tu ordenador.
