@@ -13,7 +13,7 @@ PROCESADOR
 
 SISTEMA OPERATIVO
 
-* Android#trade# 6.0 Marshmallow
+* Android#trade# 6.0 Marshmallow 
 
 CÁMARAS
 
