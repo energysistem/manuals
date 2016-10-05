@@ -1,4 +1,4 @@
-## MicroSD \/ USB
+## MicroSD / USB
 
 Tu Energy Phone Max 2+ dispone de una entrada para tarjetas de memoria microSD para ampliar la capacidad del dispositivo. Para usarla, apaga el dispositivo cuando insertes\/extraigas la tarjeta, de ese modo evitarás la pérdida accidental de datos. Admite los formatos en capacidad alta \(microSD-HC\) y capacidad extendida \(microSD-XC\).
 
