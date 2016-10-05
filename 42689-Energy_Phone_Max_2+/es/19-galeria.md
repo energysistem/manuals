@@ -12,8 +12,6 @@ Podrás visualizar tus imágenes y vídeos almacenados en la memoria interna del
 3. Copia de Seguridad y Sincronización
 
 
-Para acceder al listado de carpetas > Pulsar en menú > Carpetas de dispositivos > Pictures
-
 Para ver la anterior/siguiente imagen o álbum arrastra el dedo por la pantalla con un movimiento horizontal.
 
 Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
