@@ -17,7 +17,7 @@ Tocar rapidamente no ecrã duas vezes
 
 * Arrastar
 
-Deslizar o dedo sobre a superfície do ecrã sem interromper o contacto
+Deslizar o dedo sobre a superfície do ecrã sem interromper o contacto.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
@@ -29,7 +29,7 @@ Deslizar rapidamente o dedo sobre o ecrã
 
 * Premir
 
-Prima a superfície do ecrã durante um período longo de tempo
+Prima a superfície do ecrã durante um período longo de tempo.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aedbd1e1.jpg)
 
@@ -38,3 +38,4 @@ Prima a superfície do ecrã durante um período longo de tempo
 Aumentar e diminuir a imagem no ecrã
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
+
