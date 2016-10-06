@@ -9,5 +9,5 @@ A tomada de corrente deve estar perto do equipamento e ser facilmente acessível
 
 Este dispositivo cumpre as normas elaboradas pela ICNIRP sobre a exposição a ondas de rádio.   O dispositivo não excede os limites de exposição a ondas de rádio SAR. Esta unidade mede a quantidade de energia de frequência de rádio absorvida pelo corpo durante a utilização de um dispositivo. O limite SAR adoptado pela Europa é de 2,0 W/Kg em média sobre 10 gramas de tecido. O valor máximo SAR obtido neste dispositivo ao nível de ouvido/cabeça é de 0,124 W/Kg.
 
-</quick_guide>
+</quick_guide> 
 
