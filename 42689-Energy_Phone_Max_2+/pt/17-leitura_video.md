@@ -1,15 +1,14 @@
 ### Reprodução de vídeo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378e6ddff5.jpg)
+![](http://static.energysistem.com/images/manuals/42689/57f378e6ddff5.jpg)
 
-1. Voltar para a lista de vídeos
-2. Reproduzir / Parar
-3. Partilhar
-4. Opções para partilhar
-5. Preferências
-6. A reproduzir filme
-7. Duração
-8. Ampliar o ecrã
-9. Barra de progresso
-10. Tempo decorrido
- 
+1. Voltar à lista de vídeos.
+2. Reproduzir / Parar.
+3. Preferências.
+4. A reproduzir vídeo.
+5. Duração.
+6. Detalhes do vídeo.
+7. Editar vídeo.
+8. Barra de progresso.
+9. Opções para partilhar.
+10. Tempo decorrido.
