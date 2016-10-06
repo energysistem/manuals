@@ -8,6 +8,4 @@ Para sincronizar de nuevo con el último dispositivo que se ha emparejado basta 
 
 Si deseas sincronizar otro dispositivo Bluetooth®, mantén pulsado el botón BUSQUEDA BLUETOOTH (4). De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
 
-Si tienes tu *Energy Music Box 7* en modo Bluetooth y no lo sincronizas con ningún dispositivo, a los 5 minutos se apagará automáticamente.
-
 </quick_guide>
