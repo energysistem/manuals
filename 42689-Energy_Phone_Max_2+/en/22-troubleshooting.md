@@ -24,7 +24,7 @@ It is always better to restart the device through one of the available system op
 8. My Energy Phone Max 2+ has a 16 GB built-in memory but the available memory capacity is lower than that. Why?
 The Android\#trade\# operating system and the preinstalled applications need approximately 6 GB of internal memory to work properly. Therefore, the internal storage capacity available is less than 16 GB.
 
-9. What do I have to do to install an application that is not is not to be found in Play Store\#trade\#?
+9. What do I have to do to install an application that is not to be found in Play Store\#trade\#?
 First of all, make sure that the file has the Android\#trade\# application extension \(.APK\). Android\#trade\# will ask you then to activate the app installation from "Unknown sources", which has been disabled for security reasons. To enable the installation of apps, you only have to follow the instructions on screen the first time you try to install an application: Settings / Security / Unknown sources \(activate\). This action may compromise the device security. Therefore, we strongly recommend to install applications from reliable sources only.
 
 10. How long does the battery last?
