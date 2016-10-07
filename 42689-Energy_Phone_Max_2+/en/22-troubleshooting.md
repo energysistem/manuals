@@ -21,7 +21,7 @@ Many digital cameras and image editing software add hidden data to jpg files. Th
 7. Sometimes the screen turns black and the device does not respond.
 It is always better to restart the device through one of the available system options but if this is not possible, please restart it by pressing the power button for about 10 seconds.
 
-8. The Energy Phone Max 2+ has a 16 GB built-in memory but the available memory capacity is lower than that. Why?
+8. My Energy Phone Max 2+ has a 16 GB built-in memory but the available memory capacity is lower than that. Why?
 The Android\#trade\# operating system and the preinstalled applications need approximately 6 GB of internal memory to work properly. Therefore, the internal storage capacity available is less than 16 GB.
 
 9. What do I have to do to install an application that is not is not to be found in Play Store\#trade\#?
