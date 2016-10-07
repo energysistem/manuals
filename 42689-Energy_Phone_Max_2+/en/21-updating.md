@@ -13,7 +13,7 @@ Please follow these steps to install it:
 3. Access the "Support" section and choose "Smartphone" in type of product.
 
 4. Choose your Energy Phone model from the dropdown list that will appear and download the latest Android\#trade\# operating system version available in the Download/Firmware section.
-**Important:** **Please make sure the operating system version you are downloading is intended for your device model and serial number because otherwise the device could be damaged.
+**Important: **Please make sure the operating system version you are downloading is intended for your device model and serial number because otherwise the device could be damaged.
 
 5. Unzip the file on your computer.
 
