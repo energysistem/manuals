@@ -4,7 +4,7 @@
 
 1. Playlist.
 2. Display.
-3. Duration.
+3. Length.
 4. Random playback.
 5. Next song.
 6. Play / Pause.
