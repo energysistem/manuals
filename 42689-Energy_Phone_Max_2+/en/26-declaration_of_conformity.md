@@ -6,7 +6,7 @@ Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
 Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
 Tel: + 34 902 388 388 / + 34 966 813 257
 
-We declare under our own exclusive responsibility that the product:
+We declare under our own exclusive responsibility that the product
 
 Description: Smartphone
 Brand: Energy Sistem
