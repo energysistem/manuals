@@ -1,12 +1,11 @@
 ### E-mail settings
 
-**Note:** In order to get to know your account settings, please ask your e-mail service provider.
+**Note:** in order to get to know your account settings, please ask your e-mail service provider.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42689/57f378641ecc3.jpg)
+![](http://static.energysistem.com/images/manuals/42689/57f378641ecc3.jpg)
 
-1. Selected folder
-2. Search
-3. E-mails
-4. New e-mail
-5. Folders
-
+1. E-mail management/Select folder.
+2. Search.
+3. E-mails.
+4. New e-mail.
+5. Folders.
