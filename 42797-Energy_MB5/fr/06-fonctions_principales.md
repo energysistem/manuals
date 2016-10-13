@@ -1,17 +1,14 @@
 ## Fonctions principales
 
-### Allumage et éteint de l'appareil
+### Marche et arrêt de l'appareil
 
+Pour allumer l'appareil, appuyez sur la touche MARCHE/ARRÊT (5) pendant 2 secondes et vous verrez l'INDICATEUR LED DE FONCTION (8) s'allumer en bleu. Lorsque vous allumez l'appareil, vous écouterez un son de confirmation.
 
-Pour allumer l'appareil, appuyez sur le bouton ON/OFF (5) pendant 2 seconds. Le VOYANT (8) s'allumera, premièrement avec l'icone du coeur.
+Lorsque l'appareil sera allumé, l'INDICATEUR LED DE FONCTION (8) clignotera en bleu.
 
-Pour éteindre l'appareil, appuyez sur le bouton ON/OFF (5) pendant 2 seconds.
+Pour éteindre l'appareil, appuyez sur la touche MARCHE/ARRÊT (5) pendant 2 secondes. Vous entendrez un bip et l'INDICATEUR LED DE FONCTION (8) arrêtera de clignoter.
 
-Quand l'appareil soit allumé, le VOYANT (8) sera allumé en bleu avec l'icone du coeur.
+### Charge de la batterie
+Lorsque la batterie est en dessous de 10 %, une alerte vous préviendra. Pour la recharger, connectez l'extrémité mini USB du câble USB (fourni) au CONNECTEUR USB POUR CHARGER LA BATTERIE (10) de votre *Energy Music Box 5*, et l'autre extrémité à un appareil avec port USB capable de fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). LE LED DE CHARGEMENT (9) deviendra rouge et lorsque la charge sera complète, il s'éteindra.
 
-
-### Chargement de la batterie.
-
-Quand l'haut-parleur n'émet pas de son, c'est le moment de le charger, pour cela, connectez-le sur le bout du micro USB du câble USB (inclut) sur le même *Energy Music Box B2 Bluetooth* (10), et l'autre but sur un autre appareil avec entrée USB pour avoir de l'énergie sur votre (PC, chargeur USB mural, pour la voiture, etc.). La lumière LED (9) s'allume en rouge et quand la charge soit complète s'éteint.
-
-**Avis:** Il est recommandé de charger l'appareil avec le commutateur en OFF. Ne pas stocker ou laisser tomber en désuétude  avec la batterie complètement déchargée.
+**Avis :** Ne pas laisser la batterie de votre *Energy Music Box 5* complètement déchargée pendant une longue période. 
