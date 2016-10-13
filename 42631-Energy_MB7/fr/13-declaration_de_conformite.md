@@ -1,18 +1,34 @@
-# <quick_guide> Déclaration de conformité
+## Déclaration de conformité
 
-_**Nom du Fournisseur:**_ Energy Sistem Technology S.A.
-_**Adresse:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espagne).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Tél. : (+34) 902 388 388  / (+34) 966 813 257
 
+Nous déclarons sous notre seule responsabilité que le produit
 
-Déclarons sous notre seule responsabilité que le produit:
+Description : Haut-parleur portable sans fil <br/>
+Marque : Energy Sistem <br/>
+Modèle : Energy Music Box 7 <br/>
+Fabricant : Energy Sistem Technology, S.A. <br/>
+Pays de fabrication : Chine <br/>
 
->**Energy Music Box B2 Bluetooth**
+visé par cette déclaration est conforme aux normes ou documents normatifs
 
-_**Pays de fabrication:**_ Chine
-Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 1999/5/EC du Parlement Européen et du Conseil du 09 mars 1999.
+EN 300 328 V1.9.1 (2015-02) <br/>
+EN 301 489-1 V1.9.2 (2011-09) <br/>
+EN 301 489-17 V2.2.1 (2012-09) <br/>
+EN 62479:2010  <br/>
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Ce symbole sur le produit ou les instructions signifie que vos appareils électriques et électroniques devront être recyclés à la fin de la durée de sa vie par séparément des déchets.|
+conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
 
+Finestrat, 1 septembre 2016.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
+</quick_guide>
