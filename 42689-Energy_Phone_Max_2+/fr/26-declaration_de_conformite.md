@@ -3,7 +3,7 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
 Nom du déclarant : Energy Sistem Technology S.A. - Numéro d'identification fiscale : A53107488
-Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Adresse : . . C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
 Tél. : (+34) 902 388 388  / (+34) 966 813 257
 
 Nous déclarons sous notre seule responsabilité que le produit
@@ -33,12 +33,9 @@ EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
 conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
 
-Finestrat, 1 septembre 2016.
+Finestrat, 01 octobre 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
 Daniel Havillio
 Product Management Director
-
-
-</quick_guide>
