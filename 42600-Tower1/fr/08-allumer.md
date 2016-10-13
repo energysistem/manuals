@@ -1,13 +1,5 @@
-## Allumer et éteindre l'appareil. Mode veille 
+##Allumer et éteindre Mode veille
 
-Une fois branché, allumez votre *Energy Tower 8* mettez l'interrupteur à l'arrière de la tour sur «ON». À partir de ce moment, vous pouvez l'activer et la désactiver à partir de la touche PLAY sur le panneau supérieur, en appuyant pendant 2 secondes. 
+Une fois branchée à une prise, allumez votre Energy Tower 1 en plaçant l'interrupteur à l'arrière sur la position « ON ». À partir de ce moment-là, vous pouvez l'allumer et l'éteindre en maintenant enfoncé le bouton *Lecture - Pause (4)* sur le panneau supérieur pendant 2 secondes.
 
-Nous recommandons que lorsque vous n'utilisez pas la tour pour une longue période de temps,  en plus d’éteindre la tour du panneau supérieur, vous mettez l'interrupteur arrière en position «OFF». 
-
-## Affichage
-
-L'*Energy Tower 8* est équipée d'un écran rétroéclairé caché (Hidden Display) sur la partie supérieure avant. Lorsque l'appareil est sous tension, vous pouvez voir comment s’illumine l'affichage et indique le mode dans lequel se trouve l'Energy Tower 8.
-
-## Touchpad
-
-L'*Energy Tower 8* dispose d'un écran tactile dans la partie supérieure depuis laquelle vous pouvez facilement contrôler toutes les fonctions. Pour une réponse correcte de l'écran tactile vous devez appuyer sur le touchpad avec les doigts nus.
+Nous recommandons que lorsque vous n'utilisez pas la tour pour une longue période de temps, en plus d'éteindre la tour depuis le panneau supérieur, il est conseillé de mettre l'interrupteur à l'arrière en position « OFF ».
