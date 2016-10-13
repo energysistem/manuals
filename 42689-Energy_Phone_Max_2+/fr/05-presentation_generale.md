@@ -23,3 +23,4 @@
 19. Numéro de série et IMEI
 
 </quick_guide>
+ 
