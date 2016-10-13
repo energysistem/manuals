@@ -1,9 +1,7 @@
 ## Introduction
 
-* Energy Sistem® vous remercie l'achat de votre *Energy Music Box B2 Bluetooth*, profitez de l'appareil.
+*	Merci de votre confiance et de l'achat de votre nouvel *Energy Music Box 7*. Nous espérons que vous l’apprécierez.
 
-* Lecteur MP3 portable avec de la technologie Bluetooth®. Profitez de votre musique sans fils depuis n'importe quel appareil Bluetooth®, Audio-In et batterie rechargeable.
+*	Cette enceinte portable vous permet de profiter comme jamais auparavant de votre smartphone, tablette ou PC où que vous soyez, grâce à sa qualité sonore et ses dimensions réduites. En outre, sa fonction mains libres vous permet de répondre à vos appels et gérer la lecture depuis l'enceinte.
 
-* Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profitant toutes ses performances.
-<unique>
-
+*	Avant de commencer à profiter de votre *Energy Music Box 7* nous vous conseillons de lire ce manuel pour vous familiariser avec lui.
