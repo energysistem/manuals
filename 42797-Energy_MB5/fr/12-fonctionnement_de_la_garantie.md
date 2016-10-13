@@ -12,4 +12,4 @@ Les spécifications sont susceptibles d'être modifiées sans préavis.
 
 *Marques.* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
 
-©2015 par Energy Sistem Technology, S.A. Tous droits réservés.
+©2016 par Energy Sistem Technology, S.A. Tous droits réservés.
