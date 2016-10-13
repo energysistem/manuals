@@ -1,5 +1,5 @@
-## Côntrole d'appels
+## Contrôle des appels
 
-Si vous avez l'*Energy Music Box B2 Bluetooth* synchronisé avec votre téléphone portable ou smartphone, vous pourrez recevoir des appels et utiliser le MICROPHONE (1) pour parler depuis votre haut-parleur grâce à la fonction mains libres.
+Grâce à la synchronisation entre l'*Energy Music Box 7* et votre smartphone, vous pourrez gérer les appels depuis l'enceinte.
 
-Pour répondre à un appel, appuyez le bouton CONTRÔLE D'APPELS (5) et quand vous écoutez une chanson par l'haut-parleur, vous recevrez un appel à l'instant, celle-ci s'arrêtera quand la sonnerie commence. Pour finaliser l'appel, appuyez à nouveau sur le bouton de CONTRÔLE D'APPEL (5), la chanson sera reprise depuis le même moment de réception de l'appel.
+Lorsque vous recevrez un appel, la chanson en cours de lecture s'arrêtera et vous entendrez la sonnerie. Pour répondre à l'appel vous devez simplement appuyer sur la touche CONTRÔLE DES APPELS (5), puis appuyez encore sur la même touche pour finir l'appel. La lecture de la chanson sera automatiquement reprise.
