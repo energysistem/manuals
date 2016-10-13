@@ -3,7 +3,7 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/576aa00d857c9.jpg)
 
 Nom du déclarant : Energy Sistem Technology S.A. - Numéro d'identification fiscale : A53107488
-Adresse : . . C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
 Tél. : (+34) 902 388 388  / (+34) 966 813 257
 
 Nous déclarons sous notre seule responsabilité que le produit
