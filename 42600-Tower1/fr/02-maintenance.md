@@ -1,11 +1,11 @@
-## Soin et maintenance 
+## Soin et entretien
 
-* Ne pas exposer votre *Energy Tower 8* à des chocs, à la poussière, à l'humidité ou à des températures extrêmes.
+* Ne pas exposer votre *Energy Tower 1* à des chocs, à la poussière, à l'humidité ou à des températures élevées.
 
-* Ne pas utiliser des produits nettoyants corrosifs ou abrasifs. 
+* Ne pas utiliser des produits corrosifs ou abrasifs.
 
-* Gardez votre Energy Keyboard Case Pro 8 Windows propre et sans poussière; utilisez à cette fin un chiffon doux et sec lorsqu'il est déconnecté.
+* Gardez votre appareil propre et sans poussière; utilisez à cette fin un chiffon doux et sec.
 
-* Ne démontez pas votre appareil. Toutes les réparations doivent être effectuées uniquement par du personnel qualifié de Energy Sistem Soyntec S.A.
+* Ne pas démonter l'appareil. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology S.A.
 
-* Assurez-vous de garder votre *Energy Tower 8* hors tension lorsque vous ne l'utilisez pas. 
+* Vérifiez que votre *Energy Tower 1* est éteinte quand elle n'est pas en cours d'utilisation.
