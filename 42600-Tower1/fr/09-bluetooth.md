@@ -1,10 +1,13 @@
-## Synchronisation Bluetooth 
+## Synchronisation Bluetooth
 
-Appuyez sur la touche mode (5) pour sélectionner le mode Bluetooth, l'écran montrera les lettres "-bt-". À ce moment, vous pouvez faire la synchronisation avec votre périphérique Bluetooth. 
-Lorsque vous avez affiché sur votre périphérique Bluetooth le nom "Energy Tower 8" sélectionnez uniquement l'option connecter et attendez quelques secondes pour que  la connexion soit terminée. 
+Lorsque votre Energy Tower 1 est allumée, appuyez sur *Changement de mode (5)*, puis sélectionnez le mode Bluetooth. L'*Indicateur LED de mode (1)* sera allumé au panneau supérieur. Celui-ci est le mode par défaut lors du démarrage de la tour. 
 
-Au moment où la connexion est établie, vous pouvez maintenant commencer la lecture sans fil de votre liste entière de musique. 
+Lorsque l'*Indicateur LED de mode (1)* commence à clignoter en bleu, votre haut-parleur sera prêt à être synchronisé avec votre appareil Bluetooth.
 
-Si vous souhaitez arrêter la synchronisation actuelle et synchroniser tout autre appareil, vous devez appuyer sur le bouton (4) pendant 2 secondes pour lancer une nouvelle recherche, ou vous pouvez également quitter le mode Bluetooth et rentrer en appuyant sur le bouton mode (5). 
+Lorsque le nom « Energy Tower 1 » sera affiché sur votre appareil Bluetooth, appuyez sur « connecter ». La connexion sera réalisée immédiatement et sans besoin de codes. Votre Energy Tower 1 émettra un signal sonore qui confirmera la synchronisation entre les deux appareils. 
 
-En outre, *l'Energy Tower 8* intègre les profils Bluetooth A2DP (Audio Video Remote Control Profile) qui vous permettent d'écouter votre musique en stéréo et AVRCP (Audio Video Remote Control Profile) pour contrôler la lecture de votre musique à partir de l'*Energy Tower 8* ou de votre télécommande. 
+Quand la connexion est établie, vous pouvez commencer avec la reproduction sans fil de toute la liste de musique.
+
+Si vous voulez arrêter la synchronisation en cours et synchroniser d'autres appareils, appuyez sur *Changement de mode (5)* pendant 2 seconds pour lancer une nouvelle recherche. Vous pouvez aussi quitter le mode Bluetooth et y accéder à nouveau en appuyant brièvement sur le bouton *Changement de mode (5)* plusieurs fois.
+
+En outre, l'Energy Tower 1 intègre les profils Bluetooth A2DP (Advanced Audio Distribution Profile) qui vous permettent d'écouter votre musique en stéréo et AVRCP (Audio Video Remote Control Profile) pour contrôler la lecture de votre musique en utilisant les touches du panneau supérieur.
