@@ -1,7 +1,7 @@
 ## Introduction
 
-* Enery Sistem®* vous remercie d’avoir acquis *l’Energy Tower 8*, nous espérons que vous apprécierez notre produit.
+* Nous vous remercions de votre confiance et d'avoir acheté votre nouvelle Energy Tower 1. Nous espérons que vous l'apprécierez.
 
-* Éveillez vos sens avec ce système de son 2.1 en tour. Connectez facilement vos appareils Bluetooth e commencez à profiter des 100W RMS qu’elle offre. Elle compte également avec Radio FM, USB et lecteur de cartes SD/SDHC pour que vous ne manquiez jamais la musique.
+* Vous pourrez écouter et profiter pleinement de votre musique sans fil. Cette nouvelle tour audio intègre de la technologie Bluetooth 4.1, entrée ligne de 3.5 mm et RCA pour des appareils externes.
 
-* Nous vous conseillons de lire ce manuel d’utilisateur pour utiliser le produit en toute sécurité à fin d’exploiter au mieux ses performances.
+Nous vous conseillons de lire ce manuel de l'utilisateur afin de tirer le meilleur parti de votre produit en toute sécurité et profiter de toutes ses performances.
