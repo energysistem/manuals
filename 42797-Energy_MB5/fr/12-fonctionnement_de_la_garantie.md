@@ -1,12 +1,15 @@
-## Fonctionnement de la garantie
+## <quick_guide> Fonctionnement de la garantie
 
-1. Lorsque vous entrez sur : http://support.energysistem.com http://support.soyntec.com et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), guides d’utilisation, drivers et mises à jour, comme la possibilité d’envoyer une consultation au service technique ou de gérer la garantie.
-Vous pouvez vérifier la disponibilité du manuel dans votre langue sur http://www.energysistem.com/fr-fr/support/manuals
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, ainsi que la possibilité de poser vos questions au service technique ou de gérer la garantie.
 
-2. Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d’achat.
-Important : Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem ne sera pas obligé de stocker cette information et il est conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.
-Les spécifications sont sujettes à changement sans préavis
-Marques commerciales: Tous les autres noms de produits ou d’entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+Vous trouverez le manuel en anglais, français et portugais sur le lien suivant : https://www.energysistem.com/es/products/music_box/serie_music_box.
 
-©2015 par Energy Sistem Technology S.A. Tous droits réservés.
 
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
+
+**Important :** Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem ne sera pas obligé de stocker cette information et il est donc conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.
+Les spécifications sont susceptibles d'être modifiées sans préavis.
+
+*Marques.* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+
+©2015 par Energy Sistem Technology, S.A. Tous droits réservés.
