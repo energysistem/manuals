@@ -9,3 +9,4 @@ Pour éteindre l'appareil, appuyez sur le bouton marche / arrêt (10) jusqu'à c
 En appuyant brièvement le bouton marche / arrêt, on (10) verrouille / déverrouille l'appareil et on allume ou éteint l'écran.
 
 </quick_guide>
+ 
