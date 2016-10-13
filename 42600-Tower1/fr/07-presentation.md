@@ -1,7 +1,5 @@
-## Présentation générale  
+##Allumer et éteindre Mode veille
 
-*L'Energy Tower 8* est un système de son en tour avec lecture via Bluetooth®, mémoire externe (USB ou SD), entrée ligne et radio FM. Il se synchronise facilement avec des tablettes, des smartphones, des ordinateurs portables, MAC, PC et tout autre appareil Bluetooth. 
+Une fois branchée à une prise, allumez votre Energy Tower 1 en plaçant l'interrupteur à l'arrière sur la position « ON ». À partir de ce moment-là, vous pouvez l'allumer et l'éteindre en maintenant enfoncé le bouton *Lecture - Pause (4)* sur le panneau supérieur pendant 2 secondes.
 
-Pour changer entre les différentes fonctions, appuyez sur la touche mode (5), vous verrez sur l'écran la fonction sélectionnée. S'il n'y a rien connecté aux entrées USB et SD/MMC, la touche mode (5) commutera entre le mode radio FM, Bluetooth et Line-in (Aux). 
-
-Lorsque vous connectez un périphérique sur l'une des connexions,  *l'Energy Tower 8* passera automatiquement à cette fonction. Si vous avez raccordé un ou toutes les entrées, la touche mode (5) permet de changer entre tous ceux disponibles. 
+Nous recommandons que lorsque vous n'utilisez pas la tour pour une longue période de temps, en plus d'éteindre la tour depuis le panneau supérieur, il est conseillé de mettre l'interrupteur à l'arrière en position « OFF ».
