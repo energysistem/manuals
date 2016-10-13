@@ -1,8 +1,5 @@
-## Connexion d'entrée Audio.
+## Entrée ligne d'audio.
 
-Vous pouvez aussi profiter de votre *Energy Music Box B2 Bluetooth* sans besoin de le synchroniser avec un appareil bluetooth, car il inclut une entrée en ligne (11) dans laquelle vous pouvez connecter votre lecteur avec un câble audio jack de 3,5mm.
-Il est nécessaire d'avoir l'*Energy Music Box B2 Bluetooth* allumé pour utiliser cette fonction.
+Il est également possible de profiter de votre *Energy Music Box 5* sans le synchroniser avec un appareil Bluetooth, car il est équipé d'ENTRÉE LIGNE AUDIO (11) qui vous permet de connecter votre lecteur en utilisant un câble audio avec jack de 3.5 mm.
 
-**AVIS:** Lorsque vous utilisez l'haut-parleur en mode Audio-in, il n'est pas possible de contrôler la lecture ou le volume depuis l'haut-parleur, il faudra réaliser ces actions depuis le lecteur branché.
-
-
+**AVIS :** Lorsque vous utilisez le haut-parleur sur le mode Audio-In, vous ne pourrez pas contrôler la lecture ou le volume depuis le haut-parleur, mais depuis le lecteur connecté.
