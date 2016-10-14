@@ -13,7 +13,7 @@ Las especificaciones están sujetas a cambios sin previo aviso.
 
 *Marcas comerciales.* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-©2015 por Energy Sistem Technology, S.A. Todos los derechos reservados.
+©2016 por Energy Sistem Technology, S.A. Todos los derechos reservados.
 
 
 
