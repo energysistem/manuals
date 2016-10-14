@@ -7,3 +7,4 @@ Your new phone has a 5.5" IPS HD (1280x720 pixels) touch display with anti-finge
 Before you start using your smartphone, we recommend you to read this manual and familiarize yourself with it.  It will only take a few minutes and will help you enjoy your device with maximum performance.
 
 ## <unique> * Find the complete manual of the *Energy Phone Max 2+* in the following link  http://www.energysistem.com/guide/42689</unique> </quick_guide>
+ 
