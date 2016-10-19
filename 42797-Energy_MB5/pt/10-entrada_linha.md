@@ -1,8 +1,6 @@
-## Conexão de entrada Áudio.
+## Entrada Audio-In
 
-Também é possível desfrutar do seu *Energy Music Box B2 Bluetooth* sem necessidade de uma sincronização com o dispositivo bluetooth, já que conta com uma entrada em linha (11) na que pode ligar seu leitor através de um cabo audio com jack de 3,5mm.
-É preciso ter o *Energy Music Box B2 Bluetooth* ligado para utilizar esta função.
+Também pode desfrutar do seu *Energy Music Box 5* sem emparelhá-lo com dispositivos Bluetooth porque conta com uma ENTRADA DE ÁUDIO (11) que permite ligar o seu leitor de música com ajuda de um cabo de áudio jack de 3,5 mm.
 
-**AVISO:** Durante a utilização do altifalante em modo Audio-In, não é possível controlar a leitura ou volume desde o próprio altofalante, é necessário realizar estas acções desde o leitor conectado.
-
+**NOTA:** Não é possível controlar a reprodução a partir do próprio altifalante se está a utilizá-lo no modo Audio-In. Pode definir as funções de controlo através do dispositivo ligado.
 
