@@ -1,15 +1,15 @@
 ## Funções principais
 
-### Ligado e desligado do dispositivo
+### Ligar e desligar o dispositivo
 
-Para ligar o dispositivo, pressione o botão ON/OFF (5) durante 2 segundos. O DISPLAY (8) sera ligado, com o icone do coração. E depois a tela iniciará, indicando que o dispositivo está ligado.
+Para ligar o dispositivo, prima o botão LIGAR/DESLIGAR (5) durante 2 segundos e verá o INDICADOR LED DE MODO (8) acender em azul. Ouvirá um som de confirmação no momento que ligue o dispositivo.
 
-Para desligar o dispositivo, pressione o botão ON/OFF (5) durante 2 segundos.
+O INDICADOR LED DE MODO (8) continua a piscar em azul enquanto o dispositivo está ligado.
 
-Quando o dispositivo estiver ligado, o DISPLAY (8) permanece iluminado em cor azul com o ícone do coração e a informação do modo de leitura.
+Prima o botão LIGAR/DESLIGAR (5) durante 2 segundos para desligar o dispositivo. A seguir ouvirá um som e o INDICADOR LED DE MODO (8) parará de piscar.
 
-### Carga da bateria
+### Carregar a bateria
+Quando o nível da bateria é inferior a 10%, ouvirá um sinal acústico. Para carregá-la, só tem que ligar a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA USB PARA CARREGAR A BATERIA (10) do seu *Energy Music Box 5* e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O LED DE BATERIA (9) torna-se vermelho e desliga quando a carga está completa. 
 
-Quando o altifalante já não emite som ou começa a perceber que a curta distância emite interferências em modo bluetooth é o momento de recarregar-o, ligue a extremidade micro USB do cabo USB (incluido) no *Energy Music Box B3 Bluetooth* (10), e a outra extremidade na porta USB para fornecer energia (PC, carregador USB de parede, de carro, etc.). A luz LED (9) acende a vermelho e quando a carga esté completa será desligado.
+**Importante:**  não deixe a bateria do seu *Energy Music Box 5* completamente descarregada por longos períodos de tempo. 
 
-**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
