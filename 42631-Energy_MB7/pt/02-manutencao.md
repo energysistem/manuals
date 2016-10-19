@@ -8,4 +8,3 @@
 
 *	Desligue o seu *Energy Music Box 7* quando não estiver a utilizá-lo e não deixe a bateria completamente descarregada por longos períodos de tempo.
 
-## Características
