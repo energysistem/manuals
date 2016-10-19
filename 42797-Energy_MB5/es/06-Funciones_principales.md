@@ -2,7 +2,7 @@
 
 ### Encendido y apagado del dispositivo.
 
-Para encender el dispositivo mantén pulsado el botón ENCENDIDO/APAGADO (5) durante 2 segundo y verás que el LED INDICADOR DE FUNCIÓN (8) se ilumina en azul. Al encenderse el dispositivo, escucharás una alerta de confirmación.
+Para encender el dispositivo mantén pulsado el botón ENCENDIDO/APAGADO (5) durante 2 segundos y verás que el LED INDICADOR DE FUNCIÓN (8) se ilumina en azul. Al encenderse el dispositivo, escucharás una alerta de confirmación.
 
 Mientras el dispositivo esté encendido, el LED INDICADOR DE FUNCIÓN (8) continuará parpadeando en azul.
 
