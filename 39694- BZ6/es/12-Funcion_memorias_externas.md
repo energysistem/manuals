@@ -12,4 +12,4 @@ Se puede cambiar el modo de reproducción pulsando el botón MODO (3) durante 2 
 
 - ALL: reproducción normal de todo el contenido de la memoria.
 - ONE: reproducción en bucle de la pista que estás escuchando.
-- RAND: reprodución aleatoria de todo el contenido de la memoria.
+- RAND: reproducción aleatoria de todo el contenido de la memoria.
