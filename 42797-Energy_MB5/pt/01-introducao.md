@@ -1,8 +1,8 @@
-## <quick_guide> Introdução
+## Introdução
 
-* Energy Sistem® agradece-lhe a aquisição do *Energy Music Box B2 Bluetooth*, desejamos-lhe que o desfrute.
+*	Agradecemos a sua confiança assim como a aquisição do seu novo *Energy Music Box 5*. Esperamos que desfrute do produto.
 
-* Alto-falante MP3 portátil com tecnologia Bluetooth®. Desfruta da tua música sem fios desde qualquer dispositivo Bluetooth®, Audio-In e bateria recarregável.
+*	Altifalante portátil com tecnologia Bluetooth 4.1, 10 W de potência, entrada de áudio de 3,5 mm e bateria de longa duração para que possa desfrutar das suas músicas dentro ou fora de casa como quiser.
 
-* Aconselhamos-lhe que leia o presente manual do usuário para tirar o melhor partido possível o seu produto de um modo seguro, aproveite todas as suas prestações.
+*	Antes de começar a utilizar o seu *Energy Music Box 5*, aconselhamos ler o presente manual para familiarizar-se com o produto.
 
