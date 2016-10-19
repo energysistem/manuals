@@ -1,5 +1,6 @@
-## Controle de chamadas
+## Controlo de chamadas
 
-Se você tiver sincronizado o *Energy Music Box B2 Bluetooth* com seu telemóvel ou smartphone, poderá receber chamadas e utilizar o MICROFONE (1) para falar desde o altifalante com a função de mãos livres.
+Uma vez emparelhados o seu *Energy Music Box 7* e o seu smartphone, pode controlar as suas chamadas a partir do próprio altifalante.
 
-Para atender uma chamada, pressione o botão de CONTROLE DE CHAMADA (5) e em caso de estar escutando alguma canção pelo altifalante no momento de receber a chamada, esta parará-se nesse momento quando você escute o tom de chamada.  Para finalizar a chamada, pressione o botão de CONTROLE DE CHAMADA (5), a canção será retomada desde o mesmo momento em que recebeu a chamada.
+A música que está a escutar pára no momento que recebe uma chamada e em vez da música, ouvirá o toque do telemóvel. Prima apenas o botão CONTROLO DE CHAMADA (5) para atender a chamada e prima o mesmo botão mais uma vez para terminar a chamada. A reprodução continua automaticamente a partir do momento em que a música foi interrompida.
+
