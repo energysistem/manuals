@@ -2,6 +2,8 @@
 
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42600/57ee52237a177.jpg)| 1. Play / Pause <br>2. Retrocesso <br>3. Volume -<br>4. Mudar pasta / EQ<br>5. Modo<br>6. Repetir / Aleatório<br>7. Slot para dispositivos<br>8. Volume +<br>9. Porta USB de carregamento <br>10. Slot SD<br>11. Audio-In <br>12. Porta USB<br>13. Avanço<br>14. Display principal |
+|![Schema](http://static.energysistem.com/images/manuals/42600/57ee52237a177.jpg)| 1. LED indicador <br> 2. Avance <br> 3. Retroceso <br>4. Play - Pausa <br>5. Cambio de modo <br>6. Volumen + <br> 7. Volumen –<br>8. Entrada auxiliar RCA<br>9. Entrada línea 3,5 mm <br> |
+
+
 
 
