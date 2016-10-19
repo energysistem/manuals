@@ -20,7 +20,7 @@ ETSI EN 301 489-1 V1.9.2 (2011-09)  <br/>
 ETSI EN 301 489-17 V2.2.1 (2012-09)  <br/>
 ETSI EN 300 328 V1.7.1 (2006-10)  <br/>
 
-e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+e está em conformidade com as normas e padrões essenciais da Diretiva 99/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
 Finestrat, 01 de setembro de 2016.
 
