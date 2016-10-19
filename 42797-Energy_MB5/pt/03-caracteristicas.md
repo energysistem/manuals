@@ -15,7 +15,7 @@
 *	Sistema estéreo 2.0.
 *	Potência: 10 W.
 * Altifalantes: 2  altifalantes dinâmicos de gama total com 40 mm de diâmetro.
-* Radiadores passivos: 2 cones
+* Radiadores passivos: 2 cones.
 *	Resposta em frequência: 20 - 20.000 Hz.
 *	Bluetooth 4.1, classe II. Raio de utilização até 10 metros.
 *	Suporta protocolos HSP / HFP / A2DP /AVRCP.
