@@ -1,7 +1,8 @@
-## Controle de leitura
+## Controlo da reprodução
 
-Depois da sincronização do seu *Energy Music Box B2 Bluetooth* pode controlar o volume de leitura desde o altifalante. Para isso, pressione os botões "VOLUMEN - " (2) ou "VOLUMEN + " (3).
+Uma vez emparelhado o seu *Energy Music Box 7*, pode controlar o volume do ficheiro que está a reproduzir a partir do próprio altifalante. Para isso, prima os botões VOLUME + (3) ou VOLUME - (2). Ouvirá um som quando atingir o volume máximo e mínimo.
 
-Para parar ou recomeçar a leitura, pressione o botão PLAY/PAUSE (5) uma única vez.
+Prima o botão REPRODUZIR/PARAR (5) para iniciar, parar ou continuar a reproduzir o conteúdo.
 
-Para passar ou retroceder uma canção pressione os botões AVANÇO (7) o RECUO (6).
+Prima os botões AVANÇAR (7) ou VOLTAR (6) para mudar a faixa.
+
