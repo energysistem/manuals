@@ -4,7 +4,7 @@ Avec votre enceinte *Energy Music Box 5* allumée, appuyez sur la touche CHANGEM
 
 Une fois votre "Music Box 5" localisé sur votre appareil, appuyez sur « connecter ». La connexion sera réalisée immédiatement et sans besoin de codes. Vous écouterez le son qui confirmera la synchronisation entre les deux appareils. Lorsque vous allumerez à nouveau votre *Energy Music Box 5*, elle sera synchronisée automatiquement pourvu que la connexion Bluetooth soit activée sur votre smartphone ou tablette.
 
-Pour synchroniser à nouveau le dernier appareil qui a été synchronisé, il faut connecter l'Energy Music Box Pocket Bluetooth et la synchronisation sera automatique.
+Pour synchroniser à nouveau le dernier appareil qui a été synchronisé, il faut connecter *l'Energy Music Box 5* et la synchronisation sera automatique.
 
 Si vous voulez synchroniser un autre appareil Bluetooth®, il suffit de maintenir la touche RECHERCHE BLUETOOTH (4). De cette façon, la synchronisation actuelle s'arrêtera et commencera une nouvelle recherche d'appareils Bluetooth®.
 
