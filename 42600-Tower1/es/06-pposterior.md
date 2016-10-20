@@ -1,10 +1,11 @@
 ## Parte posterior
 
-En la parte posterior de la torre encontrarás:
+En la parte posterior de tu *Energy Tower 1* encontrarás:
 
-El interruptor principal de encendido - apagado 'ON' - 'OFF' de tu *Energy Tower 1* (indicado como 'ON' - 'OFF' respectivamente).
+- El interruptor principal de encendido - apagado (indicado como 'ON' - 'OFF' respectivamente).
+- Dos reguladores de potencia para las frecuencias altas y bajas (indicado como 'TREBLE' y 'BASS' respectivamente).
+- Cable de alimentación: 120-240 V / 50-60 Hz.
 
-dos reguladores de potencia para las frecuencias altas y bajas (indicado como 'TREBLE' y 'BASS').
 
 ![Portada](http://static.energysistem.com/images/manuals/42600/5808e0de9ad1f.jpg)
 
