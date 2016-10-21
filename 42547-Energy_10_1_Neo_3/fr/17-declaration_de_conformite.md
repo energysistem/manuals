@@ -10,7 +10,7 @@ Numéro d'identification fiscale (NIF) : A53107488
 
 Nous déclarons sous notre seule responsabilité que le produit :
 
-**Energy Sistem#trade# Energy Tablet 10.1" Neo 3**
+**Energy Sistem#trade# Energy Tablet Pro 10**
 
 Pays de fabrication : Chine
 
