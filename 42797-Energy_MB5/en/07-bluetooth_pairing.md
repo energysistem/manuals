@@ -1,8 +1,11 @@
-## Bluetooth Pairing
+## Bluetooth pairing
 
-Everytime you turn on your *Energy Music Box B2 Bluetooth*, pairing mode will start automatically; at the same time, the search and pairing process will start on your Bluetooth® device (smartphone, tablet, laptop, etc). Once you have identified the *Energy B2* on your device, select "Connect" and both devices will pair each other immediately with no need of pairing codes; the speaker will play a sound indicating that the connection has been established.
+Keep the MODE button (4) pressed for approximately 2 seconds until the LED MODE INDICATOR (8) starts flashing quickly in blue while your *Energy Music Box 5* is on. At this point, your speaker and your smartphone or tablet can be paired.
 
-To pair the speaker with the last device again, you only need to turn on the *Energy Music Box B2 Bluetooth* and the synchronization will start automatically.
+Once "Energy Music Box 5" appears on your device screen, press "connect". The devices will be connected immediately and without codes. You will hear a sound that confirms that both devices have been paired correctly. Your *Energy Music Box 5* will be automatically paired when you turn it on once again, provided that the Bluetooth connection of your smartphone smartphone or tablet is enabled.
 
-If you want to pair another Bluetooth® device, keep the CONTROL TALK button (5). The current pair will stop and the device will start another Bluetooth® synchronization.
+To pair the speaker with the last device once again, you only need to turn on the *Energy Music 5* and the synchronization will start automatically.
 
+If you want to synchronize another Bluetooth® device, press and hold the BLUETOOTH SEARCH (4) button. Doing so, the current synchronization will stop and the speaker will start a new search of  Bluetooth® devices.
+
+Your *Energy Music Box 5* will automatically turn off after 10 minutes if it is in Bluetooth mode and not synchronized with any device,.
