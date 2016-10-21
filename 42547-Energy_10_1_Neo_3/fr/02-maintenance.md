@@ -4,5 +4,4 @@
 * Ne pas utiliser des produits corrosifs ou abrasifs.
 * Gardez l'appareil propre et sans poussière avec un chiffon doux et sec.
 * Chargez la batterie lorsque l'icône de batterie faible apparaît sur l'écran. Chargez uniquement en utilisant l'adaptateur fourni avec votre tablette.
-* Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy
-Sistem Soyntec S.A.
+* Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Soyntec S.A.
