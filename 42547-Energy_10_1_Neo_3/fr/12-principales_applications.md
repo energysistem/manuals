@@ -66,4 +66,3 @@ Pour revenir au bureau principal, appuyez sur l'icône de retour ou Démarrer.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/559130764da2b.jpg)
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55913087e6593.jpg)
-
