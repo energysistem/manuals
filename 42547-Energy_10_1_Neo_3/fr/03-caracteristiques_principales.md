@@ -19,3 +19,4 @@
 * Adaptateur d'alimentation courant AC 100-240V 50-60Hz DC 5V/2A.
 
 <quick_guide> 
+ 
