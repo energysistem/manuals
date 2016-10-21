@@ -1,6 +1,6 @@
 ## Ligação Bluetooth
 
-Uma vez ligada a Energy Tower 1, prima o botão *Mudar modo (5)*  e seleccione o modo Bluetooth. O *indicador LED de modo (1)* do painel superior acende. (O modo Bluetooth é o modo seleccionado por defeito ao ligar a coluna). 
+Uma vez ligada a Energy Tower 1, prima o botão *Mudar modo (5)*  e seleccione o modo Bluetooth. O *indicador LED de modo (1)* do painel superior acende (O modo Bluetooth é o modo seleccionado por defeito ao ligar a coluna). 
 
 No momento que o *indicador LED de modo (1)* começa a piscar em azul pode emparelhar a coluna com o seu dispositivo bluetooth.
 
