@@ -1,3 +1,6 @@
-## Talk Control
+## Call control
 
-Once you have paired your *Energy Music Box B2 Bluetooth* with your mobile or smartphone, you can receive phone calls and use the built-in MICROPHONE (1) to talk from the speaker. To answer an incoming call, press the CONTROL TALK button (5) and when you finish, press the CONTROL TALK button (5) again to end the call. If you are listening to music when you receive a call, the music will be paused and when you end the call, the music will resume.
+Synchronizing your *Energy Music Box 5* with your smartphone allows you to control your calls from the speaker.
+
+When receiving a call, the track you are listening to will stop and the ringing tone will sound instead. In order to answer an incoming call you will only have to press the CALL CONTROL (5) button, and press it again to hang up. The track will automatically resume afterwards.
+
