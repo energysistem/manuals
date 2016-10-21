@@ -12,6 +12,6 @@ O modo de reprodução "Aux1"implica que o modo altifalante está ativo na Energ
 
 Pode premir o botão *Reproduzir - Parar (4)* para parar ou continuar a reproduzir o conteúdo.
 
-Lembre-se que não poderá utilizar os botões *Avançar (2)* ou *Voltar (3)* para mudar a faixa se tiver seleccionado o modo de entrada auxiliar. Para isso, deverá utilizar o dispositivo de áudio (leitor externo) ligado a sua coluna.
+Lembre-se que não poderá utilizar os botões *Avançar (2)* ou *Voltar (3)* para mudar a faixa se tiver seleccionado o modo de entrada auxiliar. Para isso, deverá utilizar o dispositivo de áudio (leitor externo) ligado a coluna.
 
 
