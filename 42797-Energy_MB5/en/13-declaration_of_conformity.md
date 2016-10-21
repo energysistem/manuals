@@ -29,6 +29,6 @@ Finestrat, 01st September 2016.
 Daniel Havillio
 Product Management Director
 
-![](http://static.energysistem.com/images/manuals/42689/57f3783201957.jpg)
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 </quick_guide>
