@@ -6,7 +6,7 @@
 - Conectividade sem fios: Bluetooth® V 4.1, classe II.
 - Protocolos Bluetooth®: A2DP; AVRCP.
 - Distância de utilização com dispositivos Bluetooth®: até 10 metros.
-- Potência nominal: 30 W
+- Potência nominal de 30 W:
   * Tweeter 3’’, 8 ohms
   * Full-Range 4’’, 8 ohms
   * Woofer 4’’, 4 ohms
