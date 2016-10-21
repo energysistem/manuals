@@ -35,3 +35,4 @@ Pantalla de ajustes
 AES. Una vez se haya completado el proceso de autentificación con éxito, tu Energy Tablet guardará los datos
 de acceso a la red Wi-Fi y estará listo para que puedas utilizar Internet. El dispositivo recordará la red y se
 conectará automáticamente a ella cuando ésta se encuentre disponible.
+
