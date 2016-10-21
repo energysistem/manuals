@@ -1,4 +1,4 @@
-﻿<quick_guide>
+<quick_guide>
 ## Declaración de Conformidad
 
 Nombre del fabricante:
@@ -10,7 +10,7 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-**Energy Sistem#trade# Energy Tablet 10.1" Neo 3**
+**Energy Sistem#trade# Energy Tablet Pro 10**
 
 País de fabricación: China
 
@@ -20,4 +20,3 @@ Usted puede solicitar una copia de la declaración de conformidad en: C/ Calpe, 
 Finestrat, 01 de marzo de 2016
 
 </quick_guide>
-
