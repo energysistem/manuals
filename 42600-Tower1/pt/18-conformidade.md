@@ -1,19 +1,34 @@
-## <quick_guide> Declaração de conformidade
+### Declaração de conformidade
 
-_**Nome do Fabricante:**_ Energy Sistem Soyntec S.A.  
-_**Endereço:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Espanha).  
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 902 388 388  / + 34 966 813 257
+
+Declaramos sob a nossa exclusiva responsabilidade que o produto
+
+Descrição: Coluna de som 2.1 <br/>
+Marca: Energy Sistem <br/>
+Modelo: Energy Tower 1 <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
+País de fabricação:  China <br/>
+
+a que se refere a declaração cumpre com as normas e outros documentos normativos
+
+EN 60065:2014  <br/>
+EN55013:2013  <br/>
+EN55020:2007+A11:2011  <br/>
+EN61000-3-2:2014  <br/>
+EN61000-3-3:2013  <br/>
+
+e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+
+Finestrat, 01 de setembro de 2016.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 
-Declaramos sob nossa exclusiva responsabilidade que o produto:
-
->*Energy Tower 8*
-
-_**País de fabricação:**_ China  
-Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
-
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Este símbolo no produto ou nas instruções significa que seus aparelhos eléctricos e electrónicos devem ser reciclados no final de sua vida separadamente dos seus resíduos domésticos. 
-
-</quick_guide>
