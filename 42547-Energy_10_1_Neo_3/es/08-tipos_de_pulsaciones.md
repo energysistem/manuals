@@ -38,5 +38,3 @@ Toque la superficie durante un período prolongado de tiempo
 Ampliar y reducir la imagen de pantalla
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
-
-
