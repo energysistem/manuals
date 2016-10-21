@@ -1,10 +1,9 @@
 ## Introduction
 
-* Thank you for purchasing this *Energy Music Box B2 Bluetooth*. We hope you will enjoy it.
+Thank you for your trust in our company and for buying the new *Energy Music Box 5*. We hope you enjoy it.
 
-* Portable MP3 player with Bluetooth® technology, Audio-In and rechargeable battery. Enjoy your music wirelessly from any Bluetooth®.
+*	This portable speaker has integrated Bluetooth 4.1 technology, 10 W power, 3.5 mm audio-in and long battery life in order to listen to your music your very own way inside or outside your house, no matter what comes.
 
-* We recommend you to read the following user manual in order to take the most advantage from your product, on a safely way and with the best performance.
-<unique> 
+*	Before starting to use your *Energy Music Box 5* it is advisable to read this manual in order to get used to it .
 
 
