@@ -1,4 +1,4 @@
-﻿## Principales Características
+## Principales Características
 
 * Pantalla IPS 10.1" (1280x800 píxels).
 * Pantalla capacitiva multi-táctil de 5 puntos con tratamiento antihuellas.
@@ -17,4 +17,3 @@
 * Capacidad de batería: 3.7v/7000mAh.
 * Autonomía: hasta 5 horas y media de navegación Wi-Fi.
 * Alimentación mediante adaptador AC 100-240v 50-60Hz DC 5v/2A.
-
