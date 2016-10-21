@@ -19,3 +19,4 @@ Asegúrate de que la versión de sistema operativo que estás descargando es esp
 5. Descomprime el archivo en tu ordenador.
 
 6. Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy Tablet.
+ 
