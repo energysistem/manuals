@@ -66,3 +66,4 @@ Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/559130764da2b.jpg)
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55913087e6593.jpg)
+ 
