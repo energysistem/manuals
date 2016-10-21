@@ -1,7 +1,9 @@
-## Play Control
+## Playback control
 
-Once you have paired your *Energy Music Box B2 Bluetooth*, you can control the volume from the speaker. In order to do that; press buttons "VOLUME - " (2) or "VOLUME + " (3).
+Once your *Energy Music Box 5* is synchronized, you can control the volume from the speaker itself. To do so, press the	VOLUME + (3) or VOLUME - (2) buttons. You will hear a beep when reaching the maximum and minimum volume levels.
 
-To pause or resume the playback, press PLAY/PAUSE button (5) once.
+To start, pause or resume playback, press the PLAY/PAUSE (5) button.
 
-To forward or backward one song, hold NEXT (7) or PREVIOUS (6) buttons.
+To move to the previous or the following track, press the NEXT (7) and BACK (6) buttons.
+
+
