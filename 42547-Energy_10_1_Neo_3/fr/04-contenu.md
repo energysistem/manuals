@@ -1,6 +1,6 @@
 ##Contenu du produit
 
-* Energy Tablet 10.1" Neo 3. 
+* Energy Tablet Pro 10. 
 * Guide rapide.
 * Câble USB-MicroUSB.
 * Câble USB-HOST pour connexion de périphériques USB externes.
