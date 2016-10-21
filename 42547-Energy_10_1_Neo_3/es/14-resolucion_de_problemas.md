@@ -25,7 +25,7 @@ Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles 
 El sistema operativo Android™ y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 1,5 GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es algo inferior a la especificada.
 
 9.	He actualizado el firmware y ya no tengo ningún archivo multimedia ni fondo de pantalla ¿Cómo puedo recuperar los contenidos que venían preinstalados?
-Antes de cualquier actualización del sistema recomendamos hacer una copia de seguridad de todo lo que quieras conservar. En energysistem.com encontrarás no sólo todos los contenidos que venían preinstalados en tu Energy Phone sino muchos más archivos multimedia y fondos de pantalla adicionales.
+Antes de cualquier actualización del sistema recomendamos hacer una copia de seguridad de todo lo que quieras conservar. En energysistem.com encontrarás no sólo todos los contenidos que venían preinstalados en tu Energy Tablet sino muchos más archivos multimedia y fondos de pantalla adicionales.
 
 10.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar asegúrate que el fichero tiene la extensión de instalación Android™ (.APK), en segundo lugar Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos", esta opción está desactivada por seguridad. Para autorizar la instalación de aplicaciones sólo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes / Seguridad / Orígenes desconocidos (activar).
