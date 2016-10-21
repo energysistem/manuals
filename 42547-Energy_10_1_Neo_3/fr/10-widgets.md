@@ -8,4 +8,3 @@ Avec le geste de tourner la page (3) vous verrez tous les Widgets installés. Ch
 Les Widgets peuvent être déplacés vers d'autres parties du bureau ou être effacés très simplement. Pour effacer un Widget depuis votre emplacement actuel, appuyez sur celui-ci et maintenez la sélection quelques secondes. Vous pourrez déplacer le Widget sur le bureau lorsque l'application sera en surbrillance.
 
 Pour supprimer le Widget, maintenez-le pendant quelques secondes sans le lâcher, l'icône X apparaîtra sur l'écran. Glissez le Widget jusqu'à l'icône et puis lâchez.
-
