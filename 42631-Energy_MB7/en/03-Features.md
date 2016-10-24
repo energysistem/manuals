@@ -1,36 +1,33 @@
 ## Features
 
-### General features
-
-- Transfer and enjoy your music through the wireless Bluetooth® technology.
-- Total compatibility with smartphones and tablets iOS, Android, Windows Mobile, BlackBerry, etc.
-- Freedom of sound: Listen and share your music anywhere.
-- Loudspeakers with acoustic enhancement system: Clear sound and rich bass.
-- Portable and compact design, allows you to take it anywhere and amplify your music.
-- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
-- Bluetooth® handsfree function.
-- Rechargeable battery.
-<br/><br/>
+## General features
+* Portable Bluetooth® speaker.
+* Connections: Bluetooth® and 3.5 mm audio line-in.
+* Easy synchronization with smartphones, tablets and any other Bluetooth device.
+* Volume control, track change and hands-free function can be set using the speaker.
+* Synchronization without codes.
+* Lightweight and small.
+* Up to 10 m distance range.
+* Rechargeable lithium battery.
 
 ### Technical features
 
-- Bidirectional Bluetooth®, 4.0 version. Up to 10 meter range.
-- Supports A2DP and AVRCP profiles.
-- 2.0 loudspeakers with acoustic enhancement system.
-- Output power: 6 W.
-- Frequency response: 80 Hz ~ 20 KHz.
-- S/N ratio: >80 dB.
-- Built-in microphone (handsfree function).
-- 3.5 mm "Audio-In" port.
-- Rechargeable lithium battery.
-- Audio output connection.
+*	2.0. Stereo system. 
+* Speakers:* 2 dynamic full range stereo speakers.
+* Passive radiators: 1 membrane.
+*	Bluetooth v4.1. Class II. Up to 10 m range.
+*	It supports HSP / HFP / A2DP /AVRCP protocols.
+*	Power: 20 W.
+*	Microphone sensitivity: - 42 dB.
+*	Speaker diameter: 50 mm.
+*	Frequency response:  20 - 20,000 Hz.
+*	S/N ratio >; 80 dB.
+*	THD <; 1%
 
 ### Battery specifications
-
-- Nominal capacity: 800 mAh.
-- Nominal voltage: 3.7V.
-- Autonomy in Bluetooth mode at medium volume: 9 hours*.
-- Autonomy in Line In mode at medium volume: 10 hours*.
-<br/><br/>
+*	Capacity: 2000 mAh.
+*	MicroUSB charging system.:
+*	Charging time: 2.5 hours.
+*	Approximate battery life at an average volume level: 9 hours*.
 
 *Approximate battery life. Higher volume means higher battery consumption.
