@@ -10,6 +10,7 @@ Descripción: Sistema de sonido en torre <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Tower 1 <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
+
 País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
