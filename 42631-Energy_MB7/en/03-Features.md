@@ -30,4 +30,4 @@
 *	Charging time: 2.5 hours.
 *	Approximate battery life at an average volume level: 9 hours*.
 
-  *Approximate battery life. Higher volume means higher battery consumption.
+ *Approximate battery life. Higher volume means higher battery consumption.
