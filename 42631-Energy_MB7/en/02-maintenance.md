@@ -1,6 +1,6 @@
 ## Care and maintenance
 
-*	Do not expose your *Energy Music Box 7* to humidity and heat.
+*	Do not expose your *Energy Music Box 7* to humidity or heat.
 
 *	Do not use neither corrosive nor abrasive cleaning products.
 
