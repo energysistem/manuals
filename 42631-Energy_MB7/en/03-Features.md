@@ -12,7 +12,7 @@
 
 ### Technical features
 
-*	2.0. Stereo system. 
+*	2.0. stereo system. 
 * Speakers: 2 dynamic full range stereo speakers.
 * Passive radiators: 1 membrane.
 *	Bluetooth v4.1. Class II. Up to 10 m range.
