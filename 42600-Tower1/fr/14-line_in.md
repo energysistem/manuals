@@ -1,8 +1,8 @@
-## Connexion entrée auxiliaire de 3.5 mm
+## Connexion entrée auxiliaire RCA de 3.5 mm
 
 Votre Energy Tower 1 est équipée de connexion *entrée auxiliaire RCA de 3.5 mm (9)* qui vous permet de connecter un lecteur en utilisant le câble audio jack de 3.5 mm.
 
-Cette connexion est placée sur le panneau supérieur, nommée « Aux 2 ». Pour l'utiliser, connectez une extrémité du câble audio jack 3.5 mm - 3.5 mm à l'entrée *(9)* et à l'autre extrémité la sortie de l'appareil audio, tel qu'un lecteur MP3, un ordinateur portable, un smartphone, etc.
+Cette connexion est placée sur le panneau supérieur, nommée « Aux 2 ». Pour l'utiliser, connectez une extrémité du câble audio jack 3.5 mm/3.5 mm à l'entrée *(9)* et l'autre extrémité à la sortie de l'appareil audio, tel qu'un lecteur MP3, un ordinateur portable, un smartphone, etc. 
 
 Lorsque votre Energy Tower 1 est allumée, appuyez sur *Changement de mode (5)*, puis sélectionnez le mode « Aux 2 », qui s'affichera sur l'*Indicateur LED de mode (1)* sur le panneau supérieur.
 
