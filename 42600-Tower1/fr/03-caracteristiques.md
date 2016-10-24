@@ -4,7 +4,7 @@
 
 - Système audio stéréo avec puissance nominale de 30 W.
 - Connectivité sans fil : Bluetooth V.4.1 Classe II.
-- Protocoles Bluetooth® : A2DP ; AVRCP.
+- Protocoles Bluetooth® : A2DP; AVRCP.
 - Distance d'utilisation avec des périphériques Bluetooth® jusqu'à 10 mètres.
 - Puissance nominale 30 W :
   - Tweeter 3", 8 Ohm
