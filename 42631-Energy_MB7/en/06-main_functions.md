@@ -1,13 +1,14 @@
-## Main Functions
+## Main functions
 
-### Turn on / off your device
+### Switching on and off the device
 
-To turn on your device, press and keep 2 seconds the ON/OFF button (5). The POWER INDICATOR (8) will turn on with the heart icon, meaning that the device is now turned on.
+Press and hold the ON/OFF button (5) for 2 seconds to turn on your Energy Music Box 7. You will see that the LED MODE INDICATOR (8) glows blue. When switching on the device, you will hear a confirmation sound.
 
-To turn off your device, press and keep 2 seconds the ON/OFF button (5).
+When the device is on, the LED MODE INDICATOR (8) will keep flashing blue.
+
+To turn off your device, press and hold the ON/OFF button (5) for 2 seconds. You will hear a warning sound and the LED MODE INDICATOR (8) will stop flashing.
 
 ### Charging the battery
+You will hear a warning sound whenever the battery charge is below 10%.  Connect the mini USB end of the included USB cable to the PORT TO CHARGE THE BATTERY (10) of your *Energy Music Box 7* and the other USB end to any device with an USB charging port to provide energy (PC, USB wall charger, car charger, etc) to charge the battery. The LED CHARGE INDICATOR (9) will turn red and will switch off once the charging process has been completed.
 
-When the speaker stop emit sound or not turn on, is the time to charge it. Connect the microUSB end of the included USB cable to your *Energy Music Box B2 Bluetooth* (10) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). The LED INDICATOR (9) will turn on in red color and when the charge is completed the LED will turn off.
-
-**Note:** It is recommended to turn off the device when charging. Do not store or leave unused for a long period of time with the battery completely discharged.
+**Warning:** Do not leave your *Energy Music Box 7* completely discharged for a long time.
