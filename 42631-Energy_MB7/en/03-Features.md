@@ -13,7 +13,7 @@
 ### Technical features
 
 *	2.0. Stereo system. 
-* Speakers:* 2 dynamic full range stereo speakers.
+* Speakers: 2 dynamic full range stereo speakers.
 * Passive radiators: 1 membrane.
 *	Bluetooth v4.1. Class II. Up to 10 m range.
 *	It supports HSP / HFP / A2DP /AVRCP protocols.
