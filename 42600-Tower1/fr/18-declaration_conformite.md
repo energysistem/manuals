@@ -8,7 +8,7 @@ Nous déclarons sous notre seule responsabilité que le produit
 
 Description : Système de son sous forme de tour <br/>
 Marque : Energy Sistem <br/>
-Modèle : Energy Audio Tower 1 <br/>
+Modèle : Energy Tower 1 <br/>
 Fabricant : Energy Sistem Technology, S.A. <br/>
 Pays de fabrication : Chine <br/>
 
@@ -22,7 +22,7 @@ EN61000-3-3:2013  <br/>
 
 conformément aux dispositions des directives 2014/30/EU et 2014/35/EU du Parlement européen et du Conseil du 9 mars 1999.
 
-Finestrat,1 septembre 2016.
+Finestrat, 1 septembre 2016.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
@@ -30,6 +30,3 @@ Daniel Havillio
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-
-
-
