@@ -12,9 +12,9 @@ Tu nuevo Energy Tablet dispone del navegador web de Google#trade# entre la lista
 4. Cerrar pestaña
 5. Crear pestaña
 6. Búsqueda en Google#trade# o dirección web
-7. Crear pestaña
-8. Cerrar pestaña
-9. Opciones
+7. Añadir a marcadores
+8. Búsqueda por voz
+9. Menú de opciones
 
 
 
