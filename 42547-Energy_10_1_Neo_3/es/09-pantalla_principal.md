@@ -2,7 +2,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f398979f.jpg)
 
-1. Buscador: acceso directo al motor de búsqueda WEB de Google#trade#.
+1. Buscador: acceso directo al motor de búsqueda web de Google#trade#.
 2. Búsqueda por voz: accede a la búsqueda por voz de Google#trade# y mucho más.
 3. Multitarea: muestra las aplicaciones usadas recientemente.
 4. Inicio: te devuelve a la pantalla principal.
