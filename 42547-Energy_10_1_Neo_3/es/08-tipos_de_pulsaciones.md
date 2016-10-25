@@ -29,12 +29,12 @@ Desliza el dedo rápidamente sobre la pantalla
 
 * Presionar
 
-Toque la superficie durante un período prolongado de tiempo
+Toca la superficie durante un período prolongado de tiempo
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aedbd1e1.jpg)
 
 * Zoom
 
-Ampliar y reducir la imagen de pantalla
+Toca la pantalla con 2 dedos y sepáralos para ampliar o júntalos para reducir el zoom
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
