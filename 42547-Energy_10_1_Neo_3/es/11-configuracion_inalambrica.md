@@ -2,19 +2,16 @@
 
 ### Bluetooth
 
-Tu Energy Tablet dispone de conexión Bluetooth. Para conectar tu dispositivo con auriculares, ordenadores, tablets, smartphones, etc. Solo tienes que ir a Ajustes >> Bluetooth y mover el interruptor a la posición ON. A continuación comenzará a
-realizar una búsqueda de todos los dispositivos disponibles y solo tendrás que seleccionar uno para comenzar a
-realizar la conexión.
-
-
-1. Bluetooth.
-2. Habilita la casilla Bluetooth.
-3. Selecciona el dispositivo al cual quieras conectarte.
-4. Acepta la solicitud de sincronización.
+Tu Energy Tablet dispone de conexión Bluetooth para conectarla con auriculares, ordenadores, tablets o cualquier otro dispositivo que permita dicho protocolo de comunicación. Sólo tienes que ir a Ajustes > Bluetooth y activar el interruptor situado en la parte superior. Una vez hecho esto irán apareciendo los dispositivos disponibles, que podrán seleccionarse para realizar la conexión.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
 ![Imagen2](http://static.energysistem.com/images/manuals/42238/55912f94323e5.jpg)
 ![Imagen3](http://static.energysistem.com/images/manuals/42238/55912fa819760.jpg)
+
+1. Bluetooth.
+2. Activa el interruptor.
+3. Selecciona el dispositivo al cual quieras conectarte.
+4. Acepta la solicitud de sincronización.
 
 ### Configuración Wi-Fi
 
