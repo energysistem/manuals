@@ -6,27 +6,23 @@
 
 1. Cámara delantera
 
-2. Flash delantero
+2. Pantalla táctil
 
-3. Pantalla táctil
+3. Altavoces
 
-4. Altavoces
+4. Cámara trasera 
 
-5. Flash trasero
+5. Ranura para microSD
 
-6. Cámara trasera 
+6. Botón de encendido
 
-7. Ranura para microSD
+7. Botones de control de volumen
 
-8. Botón de encendido
+8. Conector audio jack
 
-9. Botones de control de volumen
+9. Conector MiniHDMI
 
-10. Conector audio jack
-
-11. Conector MiniHDMI
-
-12. Conector MicroUSB
+10. Conector MicroUSB
 
 </quick_guide>
  
