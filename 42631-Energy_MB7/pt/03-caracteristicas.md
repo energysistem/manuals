@@ -26,7 +26,7 @@
 ### Características da bateria recarregável
 *	Capacidade: 2000 mAh.
 *	Sistema de carregamento através de USB.
-*	Tempo de carregamento: 2,5 horas.
+*	Tempo de carregamento: 3 horas.
 *	Autonomia de funcionamiento aproximada em volume médio: 9 horas*.
 
  *Autonomia de funcionamento aproximada. Quanto maior é o volume, maior é o consumo da bateria.
