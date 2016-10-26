@@ -6,7 +6,6 @@
 *	Fácil sincronización con smartphones, tablets y cualquier otro dispositivo Bluetooth.
 *	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
-*	Ligero y de reducidas dimensiones.
 *	Distancia de hasta 10 m de alcance.
 *	Batería de litio recargable.
 
@@ -17,7 +16,7 @@
 * Altavoces: 2 dinámicos de rango completo y 40 mm de diámetro.
 * Radiadores pasivos: 2 membranas.
 *	Respuesta en frecuencia: 20 - 20.000 Hz.
-*	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
+*	Bluetooth v4.1, Clase II. 
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Sensibilidad del micrófono: -42 dB.
 *	Relación señal/ruido > 80 dB.
