@@ -6,7 +6,6 @@
 *	Fácil sincronización con smartphones, tablets y cualquier otro dispositivo Bluetooth.
 *	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
-*	Ligero y de reducidas dimensiones.
 *	Distancia de hasta 10 m de alcance.
 *	Batería de litio recargable.
 
@@ -27,7 +26,7 @@
 ### Características de la batería recargable.
 *	Capacidad: 2000 mAh.
 *	Sistema de carga por microUSB.
-*	Tiempo de carga: 2,5 horas.
+*	Tiempo de carga: 3 horas.
 *	Autonomía aproximada a volumen medio: 9 horas*.
 
  *El cálculo de la autonomía es aproximado. Un mayor volumen supone un mayor consumo de la batería.
