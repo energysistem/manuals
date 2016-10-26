@@ -6,7 +6,6 @@
 *	Pode sincronizá-lo de modo simples com smartphones, tablets e outros dispositivos Bluetooth.
 *	Pode controlar o volume, mudar de faixa e ligar o modo mãos livres a partir do próprio altifalante.
 *	Sincronização sem códigos.
-*	Leve e de tamanho reduzido.
 *	Raio de utilização até 10 m.
 *	Bateria de lítio recarregável.
 
