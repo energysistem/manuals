@@ -8,9 +8,6 @@ In the rear panel of your *Energy Tower 1* you will find:
 - Product serial number.
 
 
-
-
-
 ![Portada](http://static.energysistem.com/images/manuals/42600/5808e0de9ad1f.jpg)
 
 
