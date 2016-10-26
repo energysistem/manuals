@@ -1,5 +1,5 @@
 
-## Conexión de entrada de Audio.
+## Conexión de entrada de audio
 
 También es posible disfrutar de tu *Energy Music Box 5* sin necesidad de sincronizarlo con un dispositivo Bluetooth, ya que cuenta con una CONEXIÓN DE ENTRADA DE AUDIO (11) en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
