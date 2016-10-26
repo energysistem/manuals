@@ -16,5 +16,5 @@
 - Backlit-LED top panel.
 - Audio-in for 3.5 mm jack (analog stereo input)
 - RCA audio-in (analog stereo input)
-- Power supply: - 120 - 240 V / 50 - 60 Hz
+- Power supply: 120 - 240 V / 50 - 60 Hz
 
