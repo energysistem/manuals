@@ -6,7 +6,6 @@
 * Easy synchronization with smartphones, tablets and any other Bluetooth device.
 * Volume control, track change and hands-free function can be set using the speaker.
 * Synchronization without codes.
-* Lightweight and small.
 * Up to 10 m distance range.
 * Rechargeable lithium battery.
 
@@ -27,7 +26,7 @@
 ### Battery specifications
 *	Capacity: 2000 mAh.
 *	MicroUSB charging system.:
-*	Charging time: 2.5 hours.
+*	Charging time: 3 hours.
 *	Approximate battery life at an average volume level: 9 hours*.
 
  *Approximate battery life. Higher volume means higher battery consumption.
