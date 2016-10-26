@@ -6,7 +6,7 @@
 - Wireless connectivity: Bluetooth V.4.1. Class II.
 - Bluetooth profiles®: A2DP; AVRCP
 - Up to 10 meters range for Bluetooth® devices connection
-30 W power:
+- 30 W power:
   -  Tweeter 3'', 8 ohms.
   -  Full-range 4'', 8 ohms
   -  Woofer 4'', 4 ohms
