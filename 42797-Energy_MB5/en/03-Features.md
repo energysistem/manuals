@@ -6,7 +6,6 @@
 *	Easy synchronization with smartphones, tablets and any other Bluetooth device.
 *	Volume control, track change and hands-free function can be set using the speaker.
 *	Synchronization without codes.
-*	Lightweight and small.
 *	Up to 10 m distance range.
 *	Rechargeable lithium battery.
 
