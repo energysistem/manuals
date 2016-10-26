@@ -1,17 +1,33 @@
-## Declaration of Conformity
+## Declaration of conformity
 
-_**Manufacturer Name:**_ Energy Sistem Soyntec S.A.
-_**Address:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 902 388 388  / + 34 966 813 257
 
-We declare under our own exclusive responsibility that the product:
+We declare under our own exclusive responsibility that the product
 
->*Energy Tower 8 Bluetooth*
+Description: Sound tower <br>
+Brand: Energy Sistem <br/>
+Model: Energy Tower 1 <br>
+Manufacturer: Energy Sistem Technology, S.A. <br/>
+Manufacturing Country: China <br/>
 
-_**Manufacturing Country:**_ China
-Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
+referred to in this declaration is in compliance with the essential norms and standards
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed, at the end of its life, separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
+EN 60065:2014  <br/>
+EN55013:2013  <br/>
+EN55020:2007+A11:2011  <br/>
+EN61000-3-2:2014  <br/>
+EN61000-3-3:2013  <br/>
 
+in conformity with the essential norms and standards of the Directives 2014/30/EU and 2014/35/EU of the European Parliament and the Council of 9th March 1999.
+ -
+
+Finestrat, 1st September 2016.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
