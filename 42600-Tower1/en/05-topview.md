@@ -1,10 +1,7 @@
-## Top view
-
+## Top panel
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42600/57ee52237a177.jpg)| 1. LED indicador <br> 2. Avance <br> 3. Retroceso <br>4. Play - Pausa <br>5. Cambio de modo <br>6. Volumen + <br> 7. Volumen –<br>8. Entrada auxiliar RCA<br>9. Entrada línea 3,5 mm <br> |
-
-
+![Schema](http://static.energysistem.com/images/manuals/42600/57ee52237a177.jpg)| 1. LED indicator <br> 2. Next <br> 3. Back <br> 4. Play - Pause <br> 5. Change mode <br> 6. VOLUME + <br> 7. VOLUME - <br> 8. RCA audio-in (AUX)<br> 9. 3.5 mm audio-in <br> 
 
 
 
