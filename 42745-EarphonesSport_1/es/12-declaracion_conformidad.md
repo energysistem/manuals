@@ -6,7 +6,7 @@ Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Earphones <br/>
+Descripción: Auriculares deportivos inalámbricos <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Earphones Sport 1 Bluetooth <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
