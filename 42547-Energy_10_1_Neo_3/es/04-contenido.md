@@ -2,9 +2,9 @@
 
 ##Contenido del producto
 
-* Energy Tablet Pro
-* Guía rápida
-* Cable USB-MicroUSB
-* Cable USB-HOST para conexión de dispositivos USB externos
-* Adaptador de corriente AC/DC (Europlug) 5V 2A
+* Energy Tablet Pro.
+* Guía rápida.
+* Cable USB.
+* Cable microUSB Host para conexión de dispositivos USB externos.
+* Adaptador de corriente AC/DC 5V 2A (Europlug)
 </quick_guide>
