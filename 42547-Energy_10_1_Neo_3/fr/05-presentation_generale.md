@@ -6,27 +6,26 @@
 
 1. Appareil photo frontal
 
-2. Flash avant
+2. Écran tactile
 
-3. Écran tactile
+3. Appareil photo arrière
 
 4. Haut-parleurs
 
-5. Flash arrière
+5. Bouton marche/arrêt
 
-6. Appareil photo arrière
+6. Boutons du contrôle du volume
 
-7. Entrée microSD
+7. Bouton reset
 
-8. Bouton marche/arrêt
+8. Sortie pour écouteurs
 
-9. Boutons du contrôle du volume
+9. Connecteur miniHDMI
 
-10. Connecteur audio jack
+10. Connecteur microUSB
 
-11. Connecteur MiniHDMI
+11. Entrée microSD
 
-12. Connecteur MicroUSB
+12. Microphone
 
 </quick_guide>
-
