@@ -1,13 +1,13 @@
 <quick_guide>
 
-## Introduction
+## Introducción
 
-Merci de votre confiance et de l'achat de votre nouvelle Energy Tablet Pro. Nous espérons que vous l’apprécierez.
+Gracias por confiar en nosotros y adquirir tu nuevo Energy Tablet Pro. Esperamos que lo disfrutes.
 
-Votre tablette inclut un écran IPS multi-tactile capacitif de 10.1" (1280 x 800 pixels) avec revêtement anti-traces, processeur Octa Core ARM Cortex A7 1.8 GHz, Bluetooth 4.0, Wi-Fi, deux haut-parleurs, appareil photo frontal de 2 Mpx et appareil photo arrière de 5 Mpx. 
+Tu tablet dispone de una pantalla IPS multi-táctil capacitiva de 10.1” (1280x800 píxeles) con tratamiento antihuellas, procesador de ocho núcleos ARM Cortex A7 1.8GHz, Bluetooth 4.0, Wi-Fi, doble altavoz, cámara frontal de 2Mpx y cámara trasera de 5Mpx. 
 
-Avant de commencer à profiter de votre tablette, nous vous conseillons de lire ce manuel pour vous familiariser avec elle. Il ne vous prendra que quelques minutes et vous aidera à tirer le meilleur parti de toutes ses caractéristiques.
+Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Trouvez le manuel complet de l'*Energy Tablet Pro* dans le lien suivant  https://www.energysistem.com/guide/42547 </unique>
+## <unique> * Encuentra el manual completo del *Energy Tablet Pro* en el siguiente enlace https://www.energysistem.com/guide/42547 </unique>
 
 </quick_guide>
