@@ -1,22 +1,31 @@
-CAMBIAR FOTO
-
 <quick_guide> 
 
-## General Overview
+## General overview
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
 
 1. Front camera
-2. Front Flash
-3. Touchscreen
-4. Speaker
-5. Rear Flash
-6. Rear camera
-7. MicroSD slot
-8. Power button
-9. Volume button +/-
-10. Earphones output
-11. MiniHDMI output
-12. MicroUSB connector
+
+2. Touch screen
+
+3. Rear camera
+
+4. Speakers
+
+5. On/Off button
+
+6. Volume buttons
+
+7. Reset button
+
+8. Earphones output
+
+9. Mini HDMI port
+
+10. MicroUSB port
+
+11. microSD slot
+
+12. Microphone
 
 </quick_guide>
