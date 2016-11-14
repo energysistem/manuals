@@ -2,7 +2,7 @@
 
 ##Contenido del producto
 
-* Energy Tablet Pro.
+* Energy Tablet Pro 3.
 * Guía rápida.
 * Cable USB.
 * Cable microUSB Host para conexión de dispositivos USB externos.
