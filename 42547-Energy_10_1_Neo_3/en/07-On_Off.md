@@ -1,7 +1,8 @@
-<quick_guide> 
+## <quick_guide> Switching on and off the device
 
-## Switch on and off
+Press the On/Off button (5) for a few seconds to switch on your Energy Tablet. Once the operating system is completely loaded, proceed to unlock the device by moving your finger upwards on the main screen. 
 
-To turn your Energy Tablet on, press the power button (8) for a few seconds. When the operating system has loaded, unlock the device to start using it. To do so, drag the icon with your finger. In order to turn off the device, hold the power button (8) until you see the power off menu, then select Switch off. Briefly pressing the power button (8) locks/unlocks the device, turning the screen on/off and activating the power saving mode.
+To turn off the device, press and hold the On/Off button (5) until the power off menu appears on screen and then select "Switch off". 
 
+Briefly press the On/Off button (5) to lock/unlock the device thus, turning the screen on/off.
 </quick_guide>
