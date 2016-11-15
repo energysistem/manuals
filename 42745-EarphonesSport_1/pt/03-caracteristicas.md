@@ -9,7 +9,7 @@
 - Diâmetro: 6 mm
 
 #### MICROFONE
-- Sensibilidade: -42 dB±3 dB (@1 Khz)
+- Sensibilidade: -42 dB±3 dB
 
 #### BATERIA:
 - Capacidade: 100 mAh
