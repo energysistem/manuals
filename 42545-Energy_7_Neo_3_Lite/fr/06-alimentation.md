@@ -1,12 +1,11 @@
-<quick_guide> 
+## <quick_guide> Alimentation/Première utilisation
 
-## Alimentation/Première utilisation
+Votre Energy Tablet a une batterie Li-Ion rechargeable. Elle a déjà été chargée à l'usine, mais nous vous recommandons de la recharger avant sa première utilisation. Rechargez la batterie en branchant uniquement l'adaptateur secteur AC/DC fourni avec le produit. Le temps de charge varie de 2 à 4 heures, selon si l'appareil est éteint ou allumé. Pour maintenir la batterie dans de bonnes conditions, nous vous recommandons d'étendre le lecteur lors du chargement et de ne pas le laisser charger plus de 8 heures.
 
-Votre Energy Tablet a une batterie Li-Ion rechargeable. Initialement, la batterie est chargée à l'usine, mais il est recommandé de réaliser une recharge complète avant d'utiliser l'appareil. Rechargez la batterie en branchant uniquement l'adaptateur secteur AC/DC inclut avec le produit. Le temps de charge varie de 2 à 4 heures, selon si l'appareil est éteint ou allumé. Pour garder la batterie en bon état, nous vous recommandons d'éteindre l'appareil lors du chargement et de ne pas le charger pendant plus de 8 heures.
+Vous avez plusieurs façons d'améliorer les performances et d'optimiser l'utilisation de la batterie de votre Energy Tablet :
 
-Vous avez plusieurs façons d'améliorer les performances et d'optimiser l'utilisation de la batterie de votre Energy Tablet:
+Allez sur Paramètres > Affichage > Veille pour que l'écran s'éteigne automatiquement après quelques secondes d'inactivité.
 
-Configurez l'arrêt automatique de l'écran après quelques seconds d'inactivité depuis Paramètres > Écran > Éteindre après.
-
+Choisissez un niveau de luminosité d'écran optimal sur le menu Paramètres > Écran > Luminosité.
 
 </quick_guide>
