@@ -1,22 +1,19 @@
-## Caractéristiques Principales
+## Caractéristiques principales
 
-* Écran TFT 9" 16:9 (1024x600 pixels).
-* Écran capacitif multi-touch de 5 points.
-* Processeur quad coeur ARM Cortex A7 1.3GHz avec GPU SGX544MP2 inclut.
-* 1 Go DDR3 RAM.
-* 8 Go de mémoire interne extensible avec des cartes microSD-/XC (jusqu'à 64 Go).
-* WI-FI N: module 802.11 b/g/n
-* Bluetooth 4.0
-* Caméra arrière 2Mpx.
-* Caméra frontale VGA
+* Écran TFT 7" 16:9 (1024 x 600 pixels).
+* Écran capacitif multi touch 5 points.
+* Processeur Quad Core ARM Cortex A7 1.3GHz.
+* 512MB DDR3 RAM.
+* 8 Go de mémoire extensible avec des cartes microSD-HC/XC (jusqu'à 64 Go).
+* Wi-Fi N : module 802.11 b/g/n.
+* Bluetooth 4.0.
+* Appareil photo arrière VGA avec flash.
+* Appareil photo frontal VGA avec flash.
 * Fonction USB-Host.
 * Fonction USB-OTG.
-* Haut-parleur inclut 1w.
-* Microphone omnidirectionnel inclut.
+* Haut-parleur 1 w intégré.
+* Microphone omnidirectionnel intégré.
 * Capteur de mouvement (accéléromètre).
-* Capacité de la batterie: 3.7v/ 4400mAh.
-* Autonomie: jusqu'à 5 heures et demie de navigation Wi-Fi.
-* Chargement avec adaptateur AC 100-240v 50-60Hz DC 5v/2A.
-
-
-
+* Capacité de la batterie : 3.7 v/2800 mAh.
+* Autonomie : jusqu'à 4 heures et demie de navigation Wi-Fi.
+* Adaptateur d'alimentation courant AC 100-240V 50-60Hz DC 5V/2A.
