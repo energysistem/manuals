@@ -8,4 +8,6 @@ Ligue o seu *Energy Music Box 7* para emparelhar o seu altifalante com o último
 
 Prima o botão PESQUISA BLUETOOTH (4) durante uns segundos para emparelhar o seu altifalante com outro dispositivo Bluetooth®. Deste modo, a sincronização é cancelada e começa uma nova pesquisa de dispositivos Bluetooth®.
 
+Se o seu Energy Music Box 5 estiver no modo Bluetooth e não o emparelha com dispositivo nenhum no prazo de 10 minutos, o dispositivo desliga automaticamente.
+
 </quick_guide>
