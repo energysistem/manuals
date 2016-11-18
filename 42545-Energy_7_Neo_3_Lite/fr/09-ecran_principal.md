@@ -1,18 +1,17 @@
-## Écran Principal
-
+## Écran principal
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f398979f.jpg)
 
-1.	**Chercheur:** accès direct au moteur de rechercheWEB de Google#trade#
-2.	**Arrière:** permet de reculer vers l'écran antérieure dans l'application qui soit en fonctionnement dans ce moment
-3.	**Home:** retourner à l'écran principal
-4.	**Tâches:** montrez les applications utilisées récemment
-5.	**Music:** lecture de fichiers de son
-6.	**Play Store:** Magasin d'applications de Google#trade#
-7.	**Gallery:**visualisation d'images
-8.	**Caméra:** accès à l'appareil photo inclut
-9.	**Email:** courrier électronique
-10.	Internet: navigateur web
-11.	**Barre d'état:** montre l'information sur l'état de la couverture, la batterie et l'heure. Si vous appuyez sur cette partie, une version du menu de configuration est déployée pour administrer la configuration Wi-Fi, le gyroscope, la luminosité de l'écran, les notifications et le menu de configuration complète
-12.	**Accès au menu d'applications et widgets**
-13.	**Recherche par voix**: accédez à la recherche par voix de Google#trade# et d'autres.
+1. Navigateur : Raccourci vers le moteur de recherche WEB de Google#trade#
+2. Arrière : permet de revenir à l'écran précédent sur l'application en cours d'exécution
+3. Home : vous permet de revenir à l'écran principal
+4. Tâches : vous montre les applications récemment utilisées
+5. Music : lecture de fichiers audio
+6. Play store : Boutique d'applications de Google#trade#
+7. Galerie : affichage d'images
+8. Appareil photo : accès à l'appareil photo intégré
+9. Email : courrier électronique
+10. Internet : navigateur Web
+11. Barre d'état : elle montre les informations concernant l'état du réseau, la batterie et l'heure. Appuyez ici pour accéder à une version déroulante du menu de configuration de base qui gère le réglage Wi-Fi, le gyroscope, la luminosité de l'écran, les notifications et le menu de configuration complète
+12. Accès au menu d'applications et widgets
+13. Recherche vocale : Accédez à la recherche vocale de Google#trade# et beaucoup plus.
