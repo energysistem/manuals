@@ -1,18 +1,14 @@
 ## Características
 
-
 ### Características generales
 
 - Auriculares con tecnología Bluetooth.
 - Fácil sincronización sin códigos.
 - Compatible con dispositivos iOS, ANDROID y PC.
-- Micrófono integrado. 
 - Función manos libres y control de llamadas.
 - Control de reproducción y volumen desde el propio auricular.
-- Distancia de uso hasta 10m.
-- Batería de litio recargable con 8h de autonomía en modo reproducción.
+- Batería de litio recargable.
 - Sistema de carga por cable USB.
-
 
 ### Características técnicas
 
@@ -24,10 +20,9 @@
 - SPL: 93 ±3dB.
 - Transductor dinámico.
 - Diámetro del diafragma: 40 mm.
-- Micrófono integrado.
 - Sensibilidad del micrófono: -38dB ±3dB.
-- Dimensiones: 167.5 x 59 x 144 mm.
-- Peso: 110 g.
+- Dimensiones: 180  x 170 x 54 mm.
+- Peso: 137 g.
 
 <br/>
 Características de la batería <br/>
@@ -35,5 +30,5 @@ Características de la batería <br/>
 - Batería de litio de 300 mAh.
 - Autonomía en modo reproducción: 8h
 - Autonomía en modo conversación: 8h
-- Tiempo de carga: 2h
+- Tiempo de carga: 1,5h
 - Sistema de carga a través de cable USB - micro USB.
