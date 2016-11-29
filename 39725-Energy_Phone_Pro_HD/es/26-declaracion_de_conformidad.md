@@ -33,7 +33,7 @@ EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-Finestrat, 23 de Febrero de 2015
+Finestrat, 25 de Febrero de 2015
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
