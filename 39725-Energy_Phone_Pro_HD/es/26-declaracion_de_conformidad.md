@@ -10,7 +10,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Smartphone
 Marca: Energy Sistem
-Modelo: Energy Phone Max 2+
+Modelo: Energy Phone Pro HD
 Fabricante: Energy Sistem Technology S.A.
 País de fabricación: China
 
