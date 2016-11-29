@@ -3,21 +3,43 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42499/565ffb700c41b.jpg)
 
-Nome do fabricante:
-Energy Sistem Technology, S.A.
-Morada: C/Calpe, 1.
-03509 Finestrat - Alicante (Espanha).
-Tel.: 902 388 388 // Fax: 902 119 034
-NIF: A53107488
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 902 388 388 / + 34 966 813 257
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto:
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-**Energy Sistem#trade# Energy Phone Max 4000**
+Descrição: Smartphone
+Marca: Energy Sistem
+Modelo: Energy Phone Max 4000
+Fabricante: Energy Sistem Technology, S.A.
 País de fabricação:  China
 
-Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 99/05/CE do Parlamento Europeu e do Conselho de 9 de Março de 1999.
-Pode solicitar uma cópia da declaração de conformidade em: C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha) Tel. +34 966 831 058
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-Finestrat, 01 de Abril de 2016
+1999/5/EC-R&TTE
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
+EN 50332-2:2013
+EN 50360:2001+A1:2012; EN 62209-1: 2006; IEC 62209-1: 2005;
+IEC 62209-2:2010; EN 62209-2:2010; EN 50566:2013; EN 62479:2010
+EN 301 489-1 V1.9.2; EN 301 489-3 V1.6.1
+EN 301 489-7 V1.3.1; EN 301 489-17 V2.2.1
+EN 301 489-24 V1.5.1
+EN 55022:2010/AC:2011; EN 61000-3-2:2014;
+EN 61000-3-3:2013; EN 55024:2010
+EN 301 511 V9.0.2
+EN 300 328 V1.9.1
+EN 301 908-1 V7.1.1; EN 301 908-2 V6.2.1
+EN 300 440-1 V1.6.1; EN 300 440-2 V1.4.1
+
+e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+
+Finestrat, 1 de Abril de 2016.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
 
 </quick_guide>
