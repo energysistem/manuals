@@ -3,6 +3,7 @@
 Dans certains lieux ou situations, tels que les avions, les hôpitaux, les stationsservice et les garages professionnels, l'usage du téléphone est interdit.
 Pour diminuer la quantité de rayonnements reçus, utiliser un kit mains libres, le mode haut parleur ou une oreillette bluetooth, ne pas téléphoner dans des lieux où le signal est faible, ne pas téléphoner en voiture, dans le train ou en métro. Éloigner le téléphone mobile de certaines zones sensibles telles que le ventre chez les femmes enceintes, plus particulièrement lors d'une communication. Si vous avez un implant électronique (stimulateurs cardiaques, pompes à insuline, neurostimulateurs...)  placez le téléphone à 15 cm du corps au minimum lorsque vous téléphonez, sur le côté opposé à l'implant.
 
+La prise doit être installée près de l'équipe et doit être aisément accessible.
 
 ### Information sur l'exposition SAR
 
