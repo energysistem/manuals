@@ -11,7 +11,7 @@ We declare under our own exclusive responsibility that the product
 
 Description: Smartphone
 Brand: Energy Sistem
-Model: Energy Phone Max 2+
+Model: Energy Phone Max 4G
 Manufacturer: Energy Sistem Technology, S.A.
 Manufacturing Country:  China
 
