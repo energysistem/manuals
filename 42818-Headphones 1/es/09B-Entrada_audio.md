@@ -1,6 +1,6 @@
 ## Entrada de audio
 
-Además de los modos descritos hasta ahora, si te quedas sin batería en los auriculares o simplemente no quieres utilizar una conexión inalámbrica tienes otra opción más para disfrutar de tus *Energy Headphones 1 Bluetooth*: conectarlos a tu reproductor mediante el cable de audio (incluido).
+Además de los modos descritos hasta ahora, si te quedas sin batería o simplemente no quieres utilizar la conexión inalámbrica tienes otra opción más para disfrutar de tus *Energy Headphones 1 Bluetooth*: conectarlos a tu reproductor mediante el cable de audio (incluido).
 
 Para usar este modo apaga tus *Energy Headphones 1 Bluetooth* y conecta  el cable a la *ENTRADA DE AUDIO (7)*.
 
