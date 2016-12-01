@@ -11,7 +11,7 @@ We declare under our own exclusive responsibility that the product
 
 Description: Smartphone
 Brand: Energy Sistem
-Model: Energy#trade# Phone Colors
+Model: Energy#trade# Phone Pro 4G Pearl
 Manufacturer: Energy Sistem Technology S.A.
 Manufacturing country:China
 
