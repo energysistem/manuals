@@ -8,7 +8,7 @@ To pair the speaker with the last device once again, you only need to turn on th
 
 If you want to synchronize another Bluetooth® device, press and hold the BLUETOOTH SEARCH (4) button. Doing so, the current synchronization will stop and the speaker will restart a new search of Bluetooth® devices.
 
-*Note:* Your Energy Music Box 5 will automatically turn off after 10 minutes if it is in Bluetooth mode and not synchronized with any device.
+*Note:* Your Energy Music Box 7 will automatically turn off after 10 minutes if it is in Bluetooth mode and not synchronized with any device.
 
 
 </quick_guide>
