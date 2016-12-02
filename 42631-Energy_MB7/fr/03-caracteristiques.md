@@ -26,7 +26,7 @@
 ### Caractéristiques de la batterie rechargeable.
 *	Capacité : 2000 mAh.
 *	Système de chargement par micro USB.
-*	Temps de charge : 3 heures.
+*	Temps de charge : 4 heures.
 *	Autonomie approximative volume moyen : 9 heures*.
 
  *Le calcul de l'autonomie est approximatif. Plus de volume se traduit par plus de consommation de la batterie.
