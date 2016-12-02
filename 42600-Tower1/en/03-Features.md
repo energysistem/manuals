@@ -2,7 +2,7 @@
 
 ### General features
 
-- 2.1 stereo sound system with 30 W power.
+- 2.0 stereo sound system with 30 W power.
 - Wireless connectivity: Bluetooth V.4.1. Class II.
 - Bluetooth profiles®: A2DP; AVRCP
 - Up to 10 meters range for Bluetooth® devices connection
