@@ -8,6 +8,6 @@ Pour synchroniser à nouveau le dernier appareil qui a été synchronisé, il fa
 
 Si vous voulez synchroniser un autre appareil Bluetooth®, il suffit de maintenir la touche RECHERCHE BLUETOOTH (4). De cette façon, la synchronisation actuelle s'arrêtera et commencera une nouvelle recherche d'appareils Bluetooth®.
 
-Si le mode Bluetooth est activé sur votre Energy Music Box 5 et vous ne le synchronisez pas avec d'autres appareils, il sera automatiquement désactive 10 minutes plus tard.
+Si le mode Bluetooth est activé sur votre Energy Music Box 7 et vous ne le synchronisez pas avec d'autres appareils, il sera automatiquement désactive 10 minutes plus tard.
 
 </quick_guide>
