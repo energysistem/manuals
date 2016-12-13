@@ -1,33 +1,31 @@
 ## Troubleshooting
-1.	Why can't I play some MP3 files?
-The MP3 file must follow the "layer 3" standard for MPEG1, MPEG2 and MPEG 2.5 formats. Otherwise, it must be converted using a specific software.
 
-2.	My Energy Tablet does not turn on, what can I do?
-Make sure that the battery is charged enough to power the device. If after leaving the device charging for at least 30 minutes the problem continues, there may be a problem with the installed operating system. Please, refer to the "Updating" section of this manual.
+1.	Why is not possible to play some MP3 files?
+The MP3 file must follow the Layer 3 Standard for MPEG-1, MPEG-2 or MPEG 2.5 formats. Otherwise, they have to be converted using specific software.
 
-3.	Why can't I play some WMA files?
-Make sure you are not trying to play WMA file with DRM.
+2.	My Energy Tablet does not start, what can I do?
+Make sure that the battery has enough charge when trying to turn it on. If the problem continues after charging the device for at least 30 minutes, there may be a problem with the installed operating system. Please refer to the "Updates" section of this manual.
 
-4.	Why can't I see my video, image or text files when using the music player?
-Generally, applications only display the files supported by the program. Therefore, while you browse the folders using a specific application, you can only see the files associated to that program (songs in the music player, videos in the movie player, etc).  In order to see all the files stored in the internal memory, start the FileXplorer application from the application menu.
+3.	Why is not possible to play some WMA files?
+Make sure you are not trying to play DRM-protected WMA files.
 
-5.	Which video formats are compatible with my Energy Tablet?
-Your Energy Tablet can play multiple video formats wihtout recoding.
+4.	Why is not possible to play video files, display images or text while using the music player?
+In general, applications only display the files that are compatible and that the programme is able to read. Therefore, you will only be able to display the files with the format that is compatible with that programme while you browse the folders from that specific application. In order to see all files stored on the internal memory at the same time, run the file explorer application from the application menu.
 
-6.	Why can't I display my .jpg images?
-Many digital cameras and image editing software add hidden data to .jpg files. This can prevent your Energy Tablet from loading the images. Try to delete them and save the image with another name.
+5.	Why is not possible to display my jpg images?
+Many digital cameras and image editing software add hidden data to jpg files. This can prevent your Energy Tablet from loading the images. Try deleting them by saving the images with other name.
 
-7.	Sometimes the screen turns black and the device does not respond.
-It is always better to reboot the device through one of the options available within the system, but if that is not possible, remove the battery, put it back again and press the power button.
+6.	Sometimes the screen turns black and the device does not respond.
+Keep the power button pressed for a few seconds to reboot your Energy Tablet.
 
-8.	The built-in memory of the Energy Tablet is lower than the specified in the specifications. Why?
-The Android#trade# operating system and the preinstalled applications need approximately 1.5GB to work. Therefore, the available memory for additional data is less than the specified.
+7.	The built-in memory of the Energy Tablet is lower than specified. Why?
+The Android operative system and the preinstalled apps of your device need approximately 1.5 GB of internal storage capacity to work properly. Therefore, the internal storage capacity available is a bit less than specified.
 
-9.	I updated the firmware but I no longer have any multimedia files nor wallpapers. How can I retrieve the contents that came preinstalled?
-Before any system update, we recommend making a backup of everything you want to keep. In www.energysistem.com, you will find not only all the content that came preinstalled in your Energy Tablet, but many more multimedia files and additional wallpapers.
+8.	I have upgraded the firmware and I no longer have any multimedia file nor wallpapers. How can I retrieve the contents that came preinstalled?
+Before carrying out any system upgrade, we recommend making a backup of everything you want to keep. In www.energysistem.com/en you will find not only all the content that came preinstalled in your Energy Tablet, but many more multimedia files and additional wallpapers.
 
-10.	What must I do to install an application?
-First, make sure that the file has the Android#trade# application extension (.APK). Android#trade# will ask you to activate the application installation from "Unknown sources", this option is disabled for safety. To authorize the installation of applications, you only have to follow the instructions on the screen the first time you try to install an application:  Settings / Security / Unknown sources (activate).
+9.	What do I have to do to install an application that is not in Google#trade# Play Store?
+First of all, make sure that the file has the Android#trade# installation extension (.APK). Then, Android#trade# will ask you to activate app installation through the "Unknown sources" option, which has been disabled for security reasons. To enable the installation of apps, please follow the instructions on screen the first time you try to install an application: Settings / Security / Unknown sources (activate). 
 
-11.	How long does the battery last?
-It depends largely on the use, such as the screen brightness, use of headphones or speaker, if the Wi-Fi connection is enabled or disabled and the power consumtion required by the apps, games, etc.
+10.	The battery life of my Energy Tablet does not match the one indicated in this manual. Why?
+Battery life depends largely on how you use the device, that is, how high you set the level of screen brightness, the use of headphones or its built-in speaker, the Wi-Fi settings or the power required for the apps and games that are running.
