@@ -8,7 +8,6 @@
 * WI-FI N: 802.11 b/g/n module.
 * Bluetooth 4.0.
 * 5 MP rear camera.
-
 * 2 MP front camera.
 * USB-Host function.
 * USB-OTG function.
