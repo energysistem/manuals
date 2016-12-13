@@ -1,19 +1,18 @@
-## Main Screen
+## Main screen
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f398979f.jpg)
 
-1. **Search:** direct access to Google’s#trade# search engine
-2. **Back:** allow you to come back to the previous screen
-3. **Home:** returns to the main screen
-4. **Tasks:** displays recently opened applications
-5. **Music:** music player.
-6. **Play store#trade#:** Google's#trade# app store
-7. **Gallery:** Pictures: images gallery
-8. **Camera:** access to the integrated camera
-9. **Email:** e-mail client
-10. **Internet:** web browser
-11. **Status bar:** displays information about the wi-fi signal status, battery and clock. Pressing this area displays a larger version showing the date. Pressing it again accesses a basic settings menu that manages the Wi-Fi configuration, gyroscope, screen brightness, notifications and the full settings menu
-12. **Main menu:** Button to access to the apps and widgets
-13. **Voice Search:** Access to Google’s™ voice search and
-much more
+1. Search: Direct access to Google's#trade# search engine.
+2. Voice Search: Access to Google's#trade# voice search and much more.
+3. Multitask: shows the recently used applications.
+4. Home: brings you back to the main screen.
+5. Back: allows you to go back to the previous screen shown by any application that is running.
+6. Status Bar: displays information about the signal status, battery and clock. If you slide down your finger over this area, you will access the notifications menu. The quick settings panel will be displayed if you slide down your finger once again. You can also access this panel by sliding down two fingers over the status bar on the main screen.
+7. Energy Music: music player.
+8. Google#trade# Photos: image display and backup on the cloud.
+9. Play Store: Google#trade# app store.
+10. Menu: Access to the app menu.
+11. Chrome#trade#: Google#trade# web browser.
+12. Camera: access to the built-in camera.
+13. Gmail#trade#: Google#trade# e-mail app.
 
