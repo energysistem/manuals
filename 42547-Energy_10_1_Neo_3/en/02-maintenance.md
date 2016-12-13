@@ -1,6 +1,7 @@
 ## Care and maintenance
 * Do not expose your Energy Tablet to impacts, dust, direct sunlight, humidity or high temperatures.
-* Do not use abrasive or corrosive cleaners.
-* Keep the device clean and dust free using a soft, dry cloth.
-* Charge the battery when the display shows the low battery icon. Only charge with the adapter included in your tablet.
-* Do not disassemble the device. Any repairs must be carried out by Energy Sistem Soyntec S.A. qualified personnel only.
+* Do not use neither corrosive nor abrasive cleaning products.
+* Keep the device clean and free of dust using a soft and dry cloth.
+* Charge the battery when the screen shows the low battery icon. To do that, use only the power adapter provided with your tablet.
+* Do not dismantle the device. All reparation works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A. <br/>
+
