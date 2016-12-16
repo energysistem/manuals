@@ -11,7 +11,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Tablet
 Marca: Energy Sistem
-Modelo: Energy Tablet Pro 3
+Modelo: Energy Tablet Max 3
 Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
