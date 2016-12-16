@@ -8,9 +8,9 @@
 
 2. Pantalla táctil
 
-3. Cámara trasera
+3. Altavoces
 
-4. Altavoces
+4. Cámara trasera
 
 5. Botón de encendido
 
@@ -20,13 +20,10 @@
 
 8. Salida para auriculares
 
-9. Conector miniHDMI
+9. Conector microUSB
 
-10. Conector microUSB
+10. Ranura para microSD
 
-11. Ranura para microSD
-
-12. Micrófono
+11. Micrófono
 
 </quick_guide>
- 
