@@ -2,12 +2,12 @@
 
 ## Introducción
 
-Gracias por confiar en nosotros y adquirir tu nuevo Energy Tablet Max 3. Esperamos que lo disfrutes.
+Gracias por confiar en nosotros y adquirir tu nueva Energy Tablet Max 3. Esperamos que la disfrutes.
 
-Tu tablet dispone de una pantalla IPS multi-táctil capacitiva de 10.1” (1280x800 píxeles), procesador de cuatro núcleos ARM Cortex A7 a 1.3GHz, Bluetooth 4.0, WiFi, doble altavoz frontal, cámara delantera de 0.3Mpx y trasera de 2Mpx.
+Tu tablet dispone de una pantalla IPS multi-táctil capacitiva de 10.1” (1280x800 píxeles), procesador de cuatro núcleos ARM Cortex A7 a 1.3GHz, Bluetooth 4.0, WiFi, soporte microSD de hasta 128 GB, cámara delantera de 0.3 Mpx, cámara trasera de 2 Mpx, una batería de 6000 mAh y 2 altavoces frontales con Xtreme Sound.
 
-Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con el dispositivo. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
+Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo de tu *Energy Tablet Max 3* en el siguiente enlace https://www.energysistem.com/guide/42800 </unique>
+## <unique> * Encuentra el manual completo de la *Energy Tablet Max 3* en el siguiente enlace https://www.energysistem.com/guide/42800 </unique>
 
 </quick_guide>
