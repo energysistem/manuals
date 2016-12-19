@@ -1,9 +1,14 @@
 ## Cuidado e manutenção
 
-* NNão exponha o seu *Energy Headphones BT3+ Bluetooth* a golpes, pó, humidade ou altas temperaturas.
-* Não use produtos de limpeza corrosivos ou abrasivos.
-* Não coloque o seu *Energy Wireless BT3+ Bluetooth* perto de dispositivos que emitem intensos campos electromagnéticos.
-* Manter os fones limpos e sem pó, para isso, utiliza um pano macio e seco.
-* Não desmonte os seus fones. Qualquer reparação deve fazê-la exclusivamente o pessoal qualificado de Energy Sistem Soyntec, S.A.
-* Assegure-se de manter seus *Energy Headphones BT3+ Bluetooth* desligados quando não está em uso.
-* Carregue a bateria quando a pilha seja descarregada para alongar a vida desta.
+* Evite que os seus *Energy Headphones BT1 Bluetooth* sofram impactos fortes ou que entrem em contacto com altas temperaturas, pó e humidade. 
+
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
+
+* Mantenha os auscultadores limpos e sem pó com ajuda de um pano suave e seco.
+
+* Não desmonte os auscultadores. Qualquer reparação deve ser efectuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
+
+* Verifique que os seus *Energy Headphones BT1 Bluetooth* estão desligados se não está a utilizá-los.
+
+* Não deixe a bateria completamente descarregada por longos períodos de tempo.
+
