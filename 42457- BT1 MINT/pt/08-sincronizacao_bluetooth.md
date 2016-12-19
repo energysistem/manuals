@@ -1,5 +1,9 @@
-## <quick_guide> Sincronização Bluetooth
+## Controlo da reprodução de músicas
 
-Com os seus *Energy Headphones BT1 Bluetooth* desligados, mantenha premido o botão LIGAR/DESLIGAR (2) durante 4 segundos e verá que o LED (4) começa a piscar (cores vermelha e azul). Neste momento, os *Energy Headphones BT1 Bluetooth* estão à procura de outro dispositivo Bluetooth para estabelecer a ligação. Ao mesmo tempo, o seu dispositivo Bluetooth: telemóvel, tablet, portátil, etc, começa também a pesquisa e sincronização de dispositivos. Uma vez o seu dispositivo tem identificado os *Energy Headphones BT1 Bluetooth*, selecione "ligar". A ligação será estabelecida imediatamente e sem necessidade de códigos. O LED começa a piscar apenas em azul para indicar que o dispositivo está ligado e emparelhado.
+Uma vez emparelhados os seus *Energy Headphones BT1 Bluetooth*, pode controlar as funções básicas de reprodução de músicas a partir dos próprios auscultadores como por exemplo, aumentar e diminuir o volume, ir ou voltar para a faixa seguinte/anterior e parar ou continuar a reproduzir a faixa.
 
-</unique> </quick_guide>
+Prima o botão AVANÇAR (1) para ir para a faixa seguinte. Também é possível voltar para a faixa anterior premindo o botão VOLTAR (3).
+
+Pode aumentar e diminuir o volume da música que está a ouvir através dos botões VOLUME + (1) e VOLUME - (3) respectivamente. Ouvirá um sinal sonoro ao atingir o volume máximo.
+
+Prima o botão REPRODUZIR/PARAR (2) uma vez para parar ou continuar a reproduzir uma música.
