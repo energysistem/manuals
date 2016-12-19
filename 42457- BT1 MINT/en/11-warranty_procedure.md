@@ -1,15 +1,13 @@
-<quick_guide>
-## Warranty Procedure
+## Warranty procedure
 
-Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available. 
-You can check the availability of the user manual in your language at http://www.energysistem.com/en/guide/42457
+Please visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), the user manual, the quick guide, the drivers and updates available, submit a query to Technical Support or manage the warranty.
 
-Alternatively, you may contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
+You can check the availability of the user manual in your language at https://www.energysistem.com/en/support
 
-Specifications are subject to change without notice.
+Alternatively, you may prefer to contact the distributor that sold the product by presenting the purchase receipt or invoice.  
+Important: This warranty does not cover any damage or loss of data stored in warranty products. Therefore, Energy Sistem Technology, S.A. Technical Service will not assume any loss of the above mentioned information. In this respect it is recommended that you make a backup of your data and remove any personal data from the product's internal memory before you send it or send it only with the original data.  
+Specifications are subject to change without notice.  
 
-### Trademarks. 
-All company, brand and product names are trademarks or registered trademarks of their respective companies.
+*Trademarks* All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-© 2015 by Energy Sistem Technology, S.A. All rights reserved
-</quick_guide>
+©2015 by Energy Sistem®. All rights reserved.
