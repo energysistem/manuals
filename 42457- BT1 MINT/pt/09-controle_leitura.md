@@ -1,9 +1,9 @@
-## Controle de leitura
+## Controlo de chamadas
 
-Depois da sua sincronização, os *Energy Headphones BT3+ Bluetooth* pode controlar as funções básicas de leitura desde o mesmo fone; como aumentar e diminuir o volume, avanço ou retrocesso da canção e reprodução ou pausa da canção.
+Emparelhe os seus *Energy Headphones BT1 Bluetooth* e poderá receber chamadas e utilizar o MICROFONE (6) para falar enquanto estiver a utilizá-los.
 
-Para avançar de canção aperte o botão de avanço (4) só uma vez, se o que precisa é avançar na mesma canção, aperte o mesmo botão até o momento da canção. De qualquer forma pode retroceder numa canção ou ir no ponto anterior numa mesma canção, apertando o botão retroceder (6).
+Prima o botão REPRODUZIR/PARAR (2) para atender uma chamada. No caso de receber uma chamada enquanto está a ouvir uma música, a música parará e em vez disso ouvirá uma mensagem de chamada. Prima este botão durante 2 segundos para rejeitar a chamada.
+Prima o botão REPRODUZIR/PARAR (2) para terminar a chamada e continuar a reproduzir a faixa no mesmo ponto em que estava quando recebeu a chamada.
 
-Poderá aumentar e diminuir o volume de leitura utilizando os botões 2 e 5 respectivamente. Você ouvirá um som com cada alteração de volume realizada e um som mais agudo quando alcance o máximo volume.
+Também pode ligar para o último número de telefone no histórico do seu smartphone enquanto ouve a sua música. Para isso, prima duas vezes o botão REPRODUZIR/PARAR (2).
 
-Para pausar ou retomar a leitura, aperte uma vez o botão de leitura / pausa (3).
