@@ -1,27 +1,19 @@
-<quick_guide>
-## Declaration of Conformity
+## Declaration of conformity
 
-Manufacturer Name:
-Energy Sistem Technology, S.A.
-
-Address: C/ Calpe, 1.
-03509 Finestrat - Alicante (España).
-
-Tel: +34 902 388 388 // Fax: +34 902 119 034 
-
-NIF: A53107488
-
+_**Manufacturer's name:**_ Energy Sistem Technology, S.A.  
+_**Address:** - C/ Calpe, 1 - 03509 Finestrat Alicante (España).  
+_**Tel:**_ +34 902 388 388 // _**Fax:**_ +34 902 119 034 // _**CIF:**_  A53107488  
 
 
 We declare under our own exclusive responsibility that the product:
 
 >*Energy Headphones BT1 Bluetooth*
 
-_**Manufacturing Country:**_ China
-Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
+_**Manufacturing Country:**_China  
+Is in compliance with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of 09 March 1999.
 
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed, at the end of its life, separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
+|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed separately from your household waste at the end of the product's life. For more information, please contact the local authorities or the distributor that sold the product.|
 
-</quick_guide>
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
