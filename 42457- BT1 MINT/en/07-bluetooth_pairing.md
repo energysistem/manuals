@@ -1,6 +1,5 @@
-<quick_guide>
-## Bluetooth Pairing
+## <quick_guide> Bluetooth pairing
 
-With your *Energy Headphones BT1 Bluetooth* turned off, press the ON/OFF button (2) for 4 seconds until the LED (4) will start flashing blue and red. Every time you turn on your *Energy Headphones BT1 Bluetooth*, the pairing mode will start automatically; at the same time, start the search and pairing process on your Bluetooth device (smartphone, tablet, laptop, etc).  Once you have found the Energy Headphones BT1 Bluetooth in your device, select connect and both devices will pair each other immediately with no need of pairing codes; then the LED will flash only blue which means that the connection has been successfully established.
+When your *Energy Headphones BT1 Bluetooth* are turned off, keep the ON / OFF button (2) pressed for 4 seconds and you will see the INDICATOR (4) flashing red and blue. At that moment, the *Energy Headphones BT1 Bluetooth* will start searching other Bluetooth devices for pairing; at the same time, start the search and pairing process on your Bluetooth device (smartphone, tablet, laptop, etc). Once you have found the *Energy Headphones BT1 Bluetooth* in your device, select connect and both devices will pair each other immediately with no need of codes; then the INDICATOR (4) will flash only blue which means that the connection has been successfully established.
 
-</quick_guide>
+</unique> </quick_guide>
