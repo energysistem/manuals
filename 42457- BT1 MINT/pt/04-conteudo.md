@@ -1,4 +1,4 @@
-## <quick_guide> Conteúdo do produto
+## <quick_guide>Conteúdo do produto
 
 * Energy Headphones BT1 Bluetooth
 * Cabo USB
