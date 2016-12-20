@@ -2,7 +2,7 @@
 
 ## Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/585958ad3aeb4.jpg)
 
 1. Cámara delantera
 
