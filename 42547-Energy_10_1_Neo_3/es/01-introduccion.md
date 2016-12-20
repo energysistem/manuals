@@ -1,5 +1,4 @@
 <quick_guide>
-
 ## Introducción
 
 Gracias por confiar en nosotros y adquirir tu nueva Energy Tablet Pro 3. Esperamos que la disfrutes.
