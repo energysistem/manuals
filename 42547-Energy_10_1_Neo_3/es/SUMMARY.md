@@ -18,4 +18,3 @@
 * [Condiciones de la garantia](15-condiciones_de_la_garantia.md)
 * [Funcionamiento de la garantia](16-funcionamiento_de_la_garantia.md)
 * [Declaracion de conformidad](17-declaracion_de_conformidad.md)
-
