@@ -37,10 +37,10 @@
 
 ### Características de la batería de litio recargable
 
-- Capacidad nominal: 3600 mAh.
+- Capacidad nominal: 3000 mAh.
 - Voltaje nominal: 3.7V.
-- Autonomía en modo radio: 15 horas.*
-- Autonomía en modo música: 12 horas.*
+- Autonomía en modo radio: 24 horas.*
+- Autonomía en modo música: 18 horas.*
 <br/><br/>
  **La duración de la batería es aproximada. Mayor volumen en los auriculares se traduce en un mayor consumo de la batería.
 
