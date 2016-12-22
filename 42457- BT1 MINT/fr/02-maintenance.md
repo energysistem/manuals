@@ -4,7 +4,7 @@
 
 * Ne pas utiliser des produits corrosifs ou abrasifs.
 
-* Conservez le casque propre et sans poussière poussière. Pour cela, utilisez un chiffon sec et doux.
+* Conservez le casque propre et sans poussière. Pour cela, utilisez un chiffon sec et doux.
 
 * Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Technology, S.A.
 
