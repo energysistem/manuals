@@ -36,10 +36,10 @@
 
 ### Battery specifications
 
-- Nominal capacity: 3600 mAh.
+- Nominal capacity: 3000 mAh.
 - Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
-- Autonomy in music player mode: 12 hours.*
+- Autonomy in radio mode: 24 hours.*
+- Autonomy in music player mode: 18 hours.*
 <br/><br/>
  **The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
 
