@@ -37,10 +37,10 @@
 
 ### Características da bateria de lítio recarregável
 
-- Capacidade nominal: 3600 mA.
+- Capacidade nominal: 3000 mA.
 - Voltagem nominal: 3.7V.
-- Autonomia em modo radio: 15 horas.*
-- Autonomia em modo música: 12 horas.*
-- Autonomia em modo Bluetooh: 10 horas.*
+- Autonomia em modo radio: 24 horas.*
+- Autonomia em modo música: 18 horas.*
+
 <br/><br/>
 **A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria.
