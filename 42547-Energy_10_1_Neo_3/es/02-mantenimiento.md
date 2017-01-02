@@ -1,9 +1,7 @@
 ## Cuidado y mantenimiento
 
-* No expongas tu Energy Tablet a golpes, polvo, luz solar directa, humedad o altas temperaturas.
+* No expongas tu tablet a golpes, polvo, luz solar directa, humedad o altas temperaturas.
 * No uses productos de limpieza corrosivos o abrasivos.
-* Mantén el aparato limpio y sin polvo, con un paño suave y seco.
-* Recarga la batería cuando en la pantalla se muestre el ícono de batería baja. Carga únicamente con el adaptador incluido en tu tablet.
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy
-Sistem Technology S.A.
-
+* Mantén el dispositivo limpio y sin polvo, con un paño suave y seco.
+* No agotes la batería por completo antes de cargarla ni almacenes el dispositivo prolongadamente con la batería descargada. Es recomendable mantener la capacidad de la batería por encima del 15% para alargar la vida útil de la misma. Utiliza únicamente el adaptador incluido con tu tablet.
+* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy Sistem Technology S.A.
