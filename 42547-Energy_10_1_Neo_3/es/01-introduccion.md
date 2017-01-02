@@ -6,4 +6,4 @@ Tu tablet dispone de una pantalla IPS multi-táctil capacitiva de 10.1” (1280x
 
 Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo de la *Energy Tablet Pro 3* en el siguiente enlace https://www.energysistem.com/guide/42547 </unique></quick_guide>
+<unique> * Encuentra el manual completo de la *Energy Tablet Pro 3* en el siguiente enlace https://www.energysistem.com/guide/42547 </unique></quick_guide>
