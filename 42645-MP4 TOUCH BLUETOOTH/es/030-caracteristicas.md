@@ -7,7 +7,6 @@
 -	7 modos de ecualización: Normal, Rock, Pop, Classic, Soft, Jazz, DBB-Bass.
 -	7 modos de reproducción y repetición (incluyendo modo aleatorio).
 -	Navegación por carpetas.
--	Modo de repetición A-B.
 -	Batería de litio recargable.
 -	Firmware actualizable.
 -	No necesita drivers.
