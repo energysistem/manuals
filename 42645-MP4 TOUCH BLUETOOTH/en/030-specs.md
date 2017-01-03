@@ -7,7 +7,6 @@
 -	7 EQ modes: Normal, Rock, Pop, Classic, Soft, Jazz, DBB-Bass.
 -	7 repeat and playback modes (including shuffle mode).
 -	Folder navigation.
--	A-B repeat mode.
 -	Rechargeable lithium battery.
 -	Updatable firmware.
 -	No drivers needed.
