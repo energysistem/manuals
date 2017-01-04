@@ -14,7 +14,7 @@ Sigue estos pasos para realizar la instalación:
 
 4. Elige tu modelo de Energy Tablet de la lista desplegable y a continuación descarga la última versión del firmware disponible.
 **Importante:**
-Asegúrate que la versión del firmware que estás descargando es específico para tu modelo y número de serie, ya que de lo contrario se podría dañar el dispositivo.
+Asegúrate que la versión del firmware que estás descargando es específica para tu modelo y número de serie, ya que de lo contrario se podría dañar el dispositivo.
 
 5. Descomprime el archivo en tu ordenador.
 
