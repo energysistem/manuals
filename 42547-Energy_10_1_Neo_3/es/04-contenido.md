@@ -5,5 +5,5 @@
 * Guía rápida
 * Cable de carga y datos microUSB
 * Cable microUSB host para conexión de dispositivos USB externos
-* Adaptador de corriente AC/DC 5V 2A (Europlug)
+* Adaptador de corriente AC/DC 5 V 2 A (Europlug)
 </quick_guide>
