@@ -25,7 +25,7 @@
 - Peso: 137 g.
 
 <br/>
-Características de la batería <br/>
+### Características de la batería <br/>
 
 - Batería de litio de 300 mAh.
 - Autonomía en modo reproducción: 8h
