@@ -1,4 +1,3 @@
-<quick_guide>
 ## Introducción
 Gracias por confiar en nosotros y adquirir tu nueva Energy Tablet Pro 3. Esperamos que la disfrutes.
 
@@ -6,4 +5,3 @@ Tu tablet dispone de una pantalla IPS multitáctil de 10,1” (1280 x 800 píxel
 
 Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-### <unique> * Encuentra el manual completo de la *Energy Tablet Pro 3* en el siguiente enlace https://www.energysistem.com/guide/42547 </unique></quick_guide>
