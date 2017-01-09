@@ -24,8 +24,8 @@
 - Dimensiones: 180  x 170 x 54 mm.
 - Peso: 137 g.
 
-<br/>
-### Características de la batería <br/>
+
+### Características de la batería 
 
 - Batería de litio de 300 mAh.
 - Autonomía en modo reproducción: 8h
