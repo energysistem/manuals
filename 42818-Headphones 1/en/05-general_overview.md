@@ -1,5 +1,7 @@
 ## <quick_guide> General Overview
+
 |  |  |
 |:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/42484/560d6a97331ea.jpg)|![Imagen1](http://static.energysistem.com/images/manuals/42484/560d6a927d352.jpg)|
+|1.	VOLUME + / NEXT <br> 2.	MULTIFUNCTION BUTTON <br> 3.	VOLUMEN - / BACK + <br> 4. CHARGING PORT <br> 5.	STATUS INDICATOR <br> 6.	MICROPHONE - <br> 7. AUDIO - IN	 <br>|![Imagen1](http://static.energysistem.com/images/manuals/42483/58737bb9c1e86.jpg)|
+
 </quick_guide>
