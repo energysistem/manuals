@@ -2,7 +2,7 @@
 
 ## Présentation générale
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/585958ad3aeb4.jpg)
 
 1. Appareil photo frontal
 
@@ -14,7 +14,7 @@
 
 5. Bouton marche/arrêt
 
-6. Boutons du contrôle du volume
+6. Boutons de volume
 
 7. Bouton reset
 
@@ -29,3 +29,4 @@
 12. Microphone
 
 </quick_guide>
+
