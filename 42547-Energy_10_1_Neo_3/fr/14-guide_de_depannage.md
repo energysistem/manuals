@@ -22,7 +22,7 @@ Maintenez enfoncé le bouton marche/arrêt pendant plusieurs secondes pour redé
 Le système d'exploitation et les applications préinstallées dans l'appareil ont besoin d'une partie de la mémoire interne pour fonctionner. Pour cette raison, la mémoire disponible pour stocker des données supplémentaires est inférieure à celle qui a été spécifiée.
 
 8.	J'ai mis à jour le firmware et je n'ai plus mes fichiers multimédia ni mon fond d'écran. Comment puis-je récupérer le contenu préinstallé ?
-Avant de mettre à jour le système, nous recommandons de sauvegarder tout-ce que vous souhaitez garder. Sur www.energysistem.com vous trouverez pas seulement tout le contenu préinstallé sur votre appareil, mais aussi beaucoup d'autres fichiers multimédia et fonds d'écran additionnels.
+Avant de mettre à jour le système, nous recommandons de sauvegarder tout-ce que vous souhaitez garder. Sur www.energysistem.com vous ne trouverez pas seulement tout le contenu préinstallé sur votre appareil, mais aussi beaucoup d'autres fichiers multimédia et fonds d'écran additionnels.
 
 9.	Qu'est-ce que je dois faire pour installer une application qui ne se trouve pas sur Google Play Store ?
 Premièrement, vérifiez que le fichier a l'extension d'installation Android (.APK). Lorsque vous l'ouvrez sur l'appareil, Android vous demandera d'activer l'installation d'applications depuis *Sources inconnues*. Cette option est désactivée par défaut pour des raisons de sécurité. Pour autoriser l'installation d'applications, vous devez suivre les instructions sur l'écran lors de la première fois que vous essaierez d'installer une application : *Paramètres > Sécurité > Sources inconnues (activer)*. 
