@@ -2,16 +2,16 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f398979f.jpg)
 
-1. Navigateur : Raccourci vers le moteur de recherche WEB de Google#trade#
-2. Arrière : permet de revenir à l'écran précédent sur l'application en cours d'exécution
-3. Home : vous permet de revenir à l'écran principal
-4. Tâches : vous montre les applications récemment utilisées
-5. Music : lecture de fichiers audio
-6. Play store : Boutique d'applications de Google#trade#
-7. Galerie : affichage d'images
-8. Appareil photo : accès à l'appareil photo intégré
-9. Email : courrier électronique
-10. Internet : navigateur Web
-11. Barre d'état : elle montre les informations concernant l'état du réseau, la batterie et l'heure. Appuyez ici pour accéder à une version déroulante du menu de configuration de base qui gère le réglage Wi-Fi, le gyroscope, la luminosité de l'écran, les notifications et le menu de configuration complète
-12. Accès au menu d'applications et widgets
-13. Recherche vocale : Accédez à la recherche vocale de Google#trade# et beaucoup plus.
+1. Navigateur : accès directe au moteur de recherche Web de Google.
+2. Recherche vocale : accédez sur la recherche vocale de Google et beaucoup plus.
+3. Multitâche : vous montre les applications récemment utilisées.
+4. Accueil : vous permet de revenir à l'écran principal.
+5. Arrière : permet de revenir à l'écran précédent sur l'application en cours d'exécution.
+6. Barre d'état : elle montre les informations concernant l'état du réseau, la batterie et l'heure. Faites glisser votre doigt vers le bas sur cette zone pour déplier le centre de notifications. Si vous le glissez encore une fois vous aurez accès au menu permettant de régler les paramètres rapides. Ce panneau est également accessible depuis l'écran d'accueil en glissant deux doigts sur la barre d'état.
+7. Energy Music : lecture de fichiers audio.
+8. Google Photos : affichage et copie de sauvegarde des images et vidéos dans le Cloud.
+9. Play Store : Boutique d'applications de Google.
+10. Menu : Accès au menu des applications.
+11. Chrome : navigateur Web de Google.
+12. Appareil photo : accès à l'appareil photo intégré.
+13. Gmail : application e-mail Google.
