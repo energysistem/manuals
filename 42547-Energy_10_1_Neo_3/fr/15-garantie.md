@@ -8,3 +8,4 @@ Cette garantie ne couvre pas les défauts ou détériorations résultant d'un ac
 
 La garantie de 36 mois est valable pour l'Union européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
 </quick_guide>
+ 
