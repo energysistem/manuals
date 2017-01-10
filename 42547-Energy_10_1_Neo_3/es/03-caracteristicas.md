@@ -2,7 +2,7 @@
 
 PANTALLA
 * Pantalla IPS de 10,1 pulgadas con resolución HD (1280 x 800 píxeles)
-* Pantalla multitáctil de 10 puntos con tratamiento antihuellas
+* Pantalla táctil de 10 puntos con tratamiento antihuellas
 
 PROCESADOR
 * Procesador de ocho núcleos ARM Cortex A7 a 1,8 GHz
