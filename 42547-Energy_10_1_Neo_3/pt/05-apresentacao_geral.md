@@ -1,8 +1,6 @@
-<quick_guide> 
-
 ## Apresentação geral
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/585958ad3aeb4.jpg)
 
 1. Câmara frontal
 
@@ -12,7 +10,7 @@
 
 4. Altifalantes
 
-5. Ligar/Desligar
+5. Botão ligar/desligar
 
 6. Botões de volume
 
@@ -22,11 +20,10 @@
 
 9. Porta mini HDMI
 
-10. Porta micro USB
+10. Porta microUSB
 
 11. Slot para microSD
 
 12. Microfone
 
 </quick_guide>
-
