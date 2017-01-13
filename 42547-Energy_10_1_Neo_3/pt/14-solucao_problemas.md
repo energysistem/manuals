@@ -30,4 +30,3 @@ Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação An
 10.	A autonomia do meu tablet não é a indicada no manual. Porque?
 A autonomia do dispositivo depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, das opções de conectividade ou da potência requerida pelas aplicações e jogos.
 
-<quick_guide>
