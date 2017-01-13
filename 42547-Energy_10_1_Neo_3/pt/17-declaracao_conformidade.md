@@ -1,10 +1,9 @@
-<quick_guide> 
 ## Declaração de conformidade
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Morada:  Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
 Tel.: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto
@@ -25,7 +24,7 @@ EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
 e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
-Finestrat, 01 de novembro de 2016
+Finestrat, 01 de janeiro de 2017
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
