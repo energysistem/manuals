@@ -4,9 +4,8 @@
 
 Tu tablet dispone de conexión Bluetooth para conectarla con auriculares, ordenadores, tablets o cualquier otro dispositivo que permita dicho protocolo de comunicación. Sólo tienes que ir a Ajustes > Bluetooth y activar el interruptor situado en la parte superior. Una vez hecho esto irán apareciendo los dispositivos disponibles, que podrán seleccionarse para realizar la conexión.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42238/55912f94323e5.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42238/55912fa819760.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf71c27aea.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7b353875.jpg)
 
 1. Ajustes > Bluetooth.
 2. Activa la casilla Bluetooth.
@@ -17,9 +16,9 @@ Tu tablet dispone de conexión Bluetooth para conectarla con auriculares, ordena
 
 Tu tablet dispone de conexión Wi-Fi. Para conectarla con una red inalámbrica sólo tienes que ir a Ajustes > Wi-Fi y activar el interruptor situado en la parte superior. Una vez hecho esto irán apareciendo las redes disponibles, que podrán seleccionarse para realizar la conexión.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42238/559130085b445.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42238/5591301d0ff15.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf7dc7cc46.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7e2e6954.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42547/587cf7e8ed7b9.jpg)
 
 1. Ajustes > Wi-Fi.
 2. Activa la casilla Wi-Fi.
