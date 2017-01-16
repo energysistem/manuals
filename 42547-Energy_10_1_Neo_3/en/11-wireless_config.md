@@ -4,9 +4,8 @@
 
 Your tablet features Bluetooth technology to connect it to headphones, computers, tablets or any device that supports such communication protocol. You just need to go to Settings > Bluetooth and turn on the switch on the top part of the screen. Once enabled, the screen will start to show a list of available devices among which you will be able to select one to establish the connection.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42238/55912f94323e5.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42238/55912fa819760.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf71c27aea.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7b353875.jpg)
 
 1. Settings > Bluetooth.
 2. Enable the Bluetooth option.
@@ -17,9 +16,9 @@ Your tablet features Bluetooth technology to connect it to headphones, computers
 
 Your tablet has Wi-Fi connection. In order to connect your device to any wireless network, please go to Settings > Wi-Fi and turn on the switch situated on the top part of the screen. Once enabled, the screen will start to show a list of available devices among which you will be able to select one to establish the connection.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f8c38a42.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42238/559130085b445.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42238/5591301d0ff15.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf7dc7cc46.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7e2e6954.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42547/587cf7e8ed7b9.jpg)
 
 1. Settings > Wi-Fi.
 2. Enable the Wi-Fi option.
