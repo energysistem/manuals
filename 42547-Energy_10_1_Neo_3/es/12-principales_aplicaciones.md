@@ -52,7 +52,6 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 1. Acceso a la galería
 2. Ajustes
 3. Botón de disparo
-4. Cambio de modo
 
 ### Galería
 
