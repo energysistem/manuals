@@ -13,7 +13,7 @@ Asegúrate que no estás codificando los WMA con DRM.
 Generalmente las aplicaciones sólo muestran los ficheros compatibles que puedan ser reproducidos por el programa. Por tanto, mientras navegas por las carpetas desde una aplicación en concreto sólo podrás visualizar los archivos del tipo asociado a ese programa. Para ver todos los archivos en memoria a la vez, accede al explorador de archivos desde el menú de ajustes del sistema o instala una aplicación compatible.
 
 5.	¿Por qué no consigo visualizar mis archivos de imágenes .jpg?
-Muchas cámaras fotográficas digitales y programas de edición de imagen añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu tablet no cargue las imágenes. Puedes probar a eliminarlos guardando la imagen con una aplicación diferente.
+Muchas cámaras fotográficas digitales y programas de edición de imagen añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu tablet no cargue las imágenes. Puedes probar a eliminar dichos datos ocultos guardando la imagen con una aplicación diferente.
 
 6.	La pantalla se ha quedado en negro y el dispositivo no responde.
 Reinicia tu tablet manteniendo pulsado el botón de encendido durante varios segundos.
