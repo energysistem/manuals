@@ -8,7 +8,6 @@ A principal vantagem deste tipo de ligação é que:
 - Não precisa de router.
 
 Limitações :
-- Não vai poder estabelecer uma ligação Multiroom. Só pode gerir um altifalante no modo APP.
 - Não vai poder aceder à Internet no dispositivo que está a utilizar nesse momento.
 
 
