@@ -8,5 +8,4 @@ Avantage principal de ce mode de connexion :
 - Vous n'avez pas besoin de router. 
 
 Limitations :
-- Vous ne pourrez pas réaliser une connexion Multiroom, vous ne pourrez gérer qu'un haut-parleur en mode APP.  
 - Vous n'aurez pas d'accès Internet avec l'appareil en cours d'utilisation.
