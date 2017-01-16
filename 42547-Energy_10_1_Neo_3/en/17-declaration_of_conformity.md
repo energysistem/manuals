@@ -25,7 +25,7 @@ EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
 in conformity with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of 09th March 1999.
 
-Finestrat, 01st November 2016
+Finestrat, 01st January 2017
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
@@ -34,3 +34,4 @@ Product Management Director
 
 
 </quick_guide>
+
