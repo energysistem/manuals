@@ -12,7 +12,8 @@ Tax code: A53107488
 
 We declare under our own exclusive responsibility that the product:
 
-Description: Smartphone Brand: Energy Sistem 
+Description: Smartphone 
+Brand: Energy Sistem 
 Model: Energy Phone Pro 4G Navy 
 Manufacturer: Energy Sistem Technology, S.A. 
 Manufacturing Country: China
