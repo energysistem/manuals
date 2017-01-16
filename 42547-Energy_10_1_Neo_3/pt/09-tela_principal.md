@@ -1,6 +1,6 @@
 ## Ecrã principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55912f398979f.jpg)
+![Image1](http://static.energysistem.com/images/manuals/42547/587cee8e0882c.jpg) 
 
 1. Pesquisa: atalho para o motor de pesquisa web da Google.
 2. Pesquisa por voz: permite aceder à pesquisa por voz da Google e muito mais.
