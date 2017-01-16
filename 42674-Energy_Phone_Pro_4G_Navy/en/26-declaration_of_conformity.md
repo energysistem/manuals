@@ -37,4 +37,8 @@ in conformity with the essential norms and standards of the Directive 99/05/CE o
 
 Finestrat, 01 April 2016
 
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
 </quick_guide>
