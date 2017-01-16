@@ -8,7 +8,6 @@ Principal ventaja de este modo de conexión:
 - Puedes prescindir del router.
 
 Limitaciones:
-- No podrás realizar una conexión Multiroom, sólo podrás manejar un 1 altavoz en modo APP.
 - No tendrás acceso a Internet con el dispositivo que estés usando. 
 
 
