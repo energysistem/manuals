@@ -45,7 +45,7 @@ Utilize a aplicação Energy Music para reproduzir a sua música favorita. A apl
 
 ### Câmara
 
-Com a câmara integrada do seu tablet pode tirar fotos e fazer vídeos de modo simples. Posicione o dedo no lado esquerdo e deslize para a direita para ver o menu lateral e alternar entre o modo foto e o modo vídeo. Prima o botão no canto superior direito para aceder às definições da cámara a partir deste ecrã.
+Com a câmara integrada do seu tablet pode tirar fotos e fazer vídeos de modo simples. Posicione o dedo no lado esquerdo e deslize para a direita para ver o menu lateral e alternar entre o modo foto e o modo vídeo. Prima o ícone de engranagem no canto superior direito para aceder às definições da cámara a partir deste ecrã.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42238/5591306c8424e.jpg)
 
