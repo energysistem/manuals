@@ -12,7 +12,8 @@ NIF: A53107488
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 
-Descripción: Smartphone Marca: Energy Sistem 
+Descripción: Smartphone
+Marca: Energy Sistem 
 Modelo: Energy Phone Pro 4G Navy 
 Fabricante: Energy Sistem Technology S.A. 
 País de fabricación: China
