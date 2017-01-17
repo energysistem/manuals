@@ -52,7 +52,6 @@ Com a câmara integrada do seu tablet pode tirar fotos e fazer vídeos de modo s
 1. Aceder à galeria
 2. Definições
 3. Botão de disparo
-4. Botão para mudar o modo
 
 ### Galeria
 
