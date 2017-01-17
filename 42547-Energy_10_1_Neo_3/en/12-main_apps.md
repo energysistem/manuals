@@ -4,7 +4,7 @@
 
 Your new tablet has the Google web browser among the list of installed default applications. You will be able to surf the Internet smoothly and easily with it. Once the device is connected to the Internet, press the Chrome icon on the desktop or in the application menu to start the browser.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55913026762db.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf874e3b05.jpg)
 
 1. Back
 2. Forward
@@ -20,7 +20,7 @@ Your new tablet has the Google web browser among the list of installed default a
 
 Gmail is the default e-mail client. This app allows you to access Google e-mail, as well as any other e-mail account with the correct settings. Note: In order to get to know your account settings, please ask your e-mail service provider.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/5591302e231f8.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf88c8069c.jpg)
 
 1. Accounts and folders
 2. Search
@@ -33,7 +33,7 @@ Gmail is the default e-mail client. This app allows you to access Google e-mail,
 
 Play your favourite music using the Energy Music app. Run the app and it will scan the memory of your device to search for all audio files available.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/559130364501f.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8a621b11.jpg)
 
 1. Playlist
 2. Repeat
@@ -47,7 +47,7 @@ Play your favourite music using the Energy Music app. Run the app and it will sc
 
 You will be able to take photos and record videos easily with the built-in camera of your tablet. In order to switch to photo or video modes, you just have to slide your finger from the left edge to the right to see the side menu. This screen will allow you to access the settings options by pressing the gear icon located on the upper-right corner.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/5591306c8424e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8d408863.jpg)
 
 1. Access to gallery
 2. Settings
@@ -58,7 +58,7 @@ You will be able to take photos and record videos easily with the built-in camer
 
 Your tablet has the Google Photos app installed by default. You will be able to watch all your photos and videos without worrying about your storage capacity, since this app automatically saves them to the cloud so that you will always have access to them anywhere. Note: You can enable the backup option automatically when starting the app or accessing the settings menu later on.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/559130764da2b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf90572c13.jpg)
 
 1. Settings and folders
 2. Search
