@@ -6,5 +6,5 @@ Your new tablet has a 10.1'' IPS (1280 x 800 pixels) screen with anti-fingerprin
 
 Before you start using your tablet, we recommend you to read this manual and familiarize yourself with it. It will only take a few minutes and will help you enjoy your device with maximum performance.
 
-## <unique> * Find the complete manual of the *Energy Tablet Pro 3* in the following link http://www.energysistem.com/en/guide/42547 </unique></quick_guide>
+### <unique> * Find the complete manual of the *Energy Tablet Pro 3* in the following link http://www.energysistem.com/en/guide/42547 </unique></quick_guide>
 
