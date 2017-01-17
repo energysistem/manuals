@@ -52,7 +52,6 @@ You will be able to take photos and record videos easily with the built-in camer
 1. Access to gallery
 2. Settings
 3. Shutter button
-4. Change mode
 
 ### Gallery
 
