@@ -6,4 +6,4 @@ O seu tablet dispõe de um ecrã IPS de 10.1"(1280 x 800 píxeis) com revestimen
 
 Antes de começar a utilizar o seu tablet, aconselhamos ler a presente guia para familiarizar-se com o produto. Só serão alguns minutos e o ajudará a aproveitar todas as prestações do mesmo.
 
-## <unique> * Encontrará o manual completo do *Energy Tablet Pro 3* no seguinte link: http://www.energysistem.com/guide/42547 </unique></quick_guide>
+### <unique> * Encontrará o manual completo do *Energy Tablet Pro 3* no seguinte link: http://www.energysistem.com/guide/42547 </unique></quick_guide>
