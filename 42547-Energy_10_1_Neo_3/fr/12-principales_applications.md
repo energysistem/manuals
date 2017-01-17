@@ -52,7 +52,6 @@ L'appareil photo intégré de votre tablette vous permettra de faire des photos 
 1. Accès à la galerie
 2. Réglages
 3. Déclencheur
-4. Changement de mode
 
 ### Galerie
 
