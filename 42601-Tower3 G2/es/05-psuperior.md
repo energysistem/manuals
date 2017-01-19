@@ -1,6 +1,6 @@
 ## Parte superior
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42260/5491bbd167090.jpg)| 1. Play / Pause <br>2. < / << <br>3. Volumen -<br>4. Cambio de carpeta<br>5. Modo<br>6. Random<br>7. Ranura para dispositivos<br>8. Puertos USB de carga<br>9. Volumen +<br>10. Line-in<br>11. Ranura para tarjeta SD<br>12. \> / >><br>13. Entrada USB<br>14. Display principal |
+|![Schema](xxxxxxxxxx)| 1. Pantalla LED <br> 2. Volumen – < / << <br>3. Volumen + <br>4. Cambio de función <br>5. Reproducción - Pausa <br>6. Retroceso <br>7. Avance <br>8. Entrada auxiliar RCA <br>9. Entrada auxiliar 3,5 mm <br>10. Ranura para tarjeta microSD <br>11. Conexión USB para reproducción <br> 12. Conexión USB de carga <br> |
 
 
