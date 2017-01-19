@@ -1,11 +1,11 @@
 ## Características
 
-- Sistema de sonido 2.0 en torre.
-- Conectividad sin cables: Bluetooth® v4.0 + EDR.
+- Sistema de sonido 2.1 en torre.
+- Conectividad sin cables: Bluetooth® v4.1.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia RMS: 40 W (15W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
+- Potencia: 45 W (15W * 2 + 5W *2).
+- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 64 GB.
 - Radio FM.
 - Rango de frecuencia (FM): 87,5-108MHz
 - Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
