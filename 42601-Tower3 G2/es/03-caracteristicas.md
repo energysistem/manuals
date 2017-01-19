@@ -4,20 +4,20 @@
 - Conectividad sin cables: Bluetooth® v4.1.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia: 45 W (15W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 64 GB.
+- Potencia: 45 W (10W * 2 + 20W + 5W).
+- Lectura de dispositivos USB y tarjetas MicroSD con capacidad de hasta 64 GB.
 - Radio FM.
-- Rango de frecuencia (FM): 87,5-108MHz
+- Rango de frecuencia (FM): 87.5-108MHz
 - Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
 - Salidas USB para cargar dispositivos externos. Corriente de salida: 5V, 2A.
 - Display LED retroiluminado.
 - Soporte para tablets y smartphones en la parte superior.
-- Panel superior con 8 botones para un uso más intuitivo de todas las funciones.
+- Panel superior con 6 botones para un uso más intuitivo de todas las funciones.
 - Mando a distancia con control total de funciones.
 - Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters).
-- Respuesta en frecuencia: 20Hz-20KHz
+- Reproduce archivos MP3 desde tarjetas MicroSD con capacidad de hasta 64 GB.
+- Formatos de reproducción de audio (USB / MicroSD) : WAV y MP3.
+- Altavoces: 3"× 2 (centrales) + 1,5'x 1 (agudos) + 4"× 1 (subgraves)
+- Respuesta en frecuencia: 40Hz-18KHz
 - Cuerpo de madera para una mejor calidad de sonido.
 - Alimentación: 120-240 V / 50-60 Hz.
