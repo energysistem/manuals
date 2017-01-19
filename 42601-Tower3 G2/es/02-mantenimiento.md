@@ -1,6 +1,6 @@
 ## Cuidado y Mantenimiento
 
-* No expongas tu *Energy Tower 3* a golpes, polvo, humedad o altas temperaturas.
+* No expongas tu *Energy Tower 3 g2* a golpes, polvo, humedad o altas temperaturas.
 
 * No uses productos de limpieza corrosivos o abrasivos.
 
