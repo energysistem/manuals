@@ -1,4 +1,4 @@
-## Entrada de Línea (AUX 2)
+## Conexión de entrada auxiliar de 3.5mm (AUX 2)
 
 Tu *Energy Tower 3 g2* cuenta con una conexión de 'entrada auxiliar de 3.5 mm (9)', en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
