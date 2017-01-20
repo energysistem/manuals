@@ -8,7 +8,7 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
 
 * Botón "Mute" (parte superior derecha):  para silenciar todos los modos, excepto el modo Bluetooh.
 
-* Botones para Control de volumen(VOL+ / VOL-), Reproducción - Pausa, avance y retroceso de pistas/sintonías FM.
+* Botones para control de volumen(VOL+ / VOL-), reproducción - Pausa, avance y retroceso de pistas/sintonías FM.
 
 * Ecualización (EQ predefinida) para los modos USB y SD.
     * EQ 0: Normal.
