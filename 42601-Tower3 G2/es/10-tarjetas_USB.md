@@ -4,7 +4,7 @@ Para reproducir archivos en formato MP3, inserta una tarjeta de memoria microSD 
 
 En ese momento el *Energy Tower 3 g2* reproducirá desde la memoria externa insertada automáticamente.
 
-Visualizarás en el display "USB" ó "SD" según el tipo de memoria que insertes.
+Visualizarás en el display "USB" o "SD" según el tipo de memoria que insertes.
 
 Si apagas el *Energy Tower 3 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
 
