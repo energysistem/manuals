@@ -13,6 +13,6 @@ Cuando la carga de la batería se encuentre por debajo del 10%, una alerta acús
 
 *Recomendaciones*:
 
-- Usar un adaptador de corriente de 5V 2A.
+- Usa un adaptador de corriente de 5V 2A.
 - No dejes tu *Energy Music Box 7* durante un periodo largo de tiempo con la batería completamente descargada. 
 
