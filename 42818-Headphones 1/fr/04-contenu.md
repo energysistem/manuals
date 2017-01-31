@@ -1,7 +1,7 @@
-<quick_guide> 
-## Contenu du produit
+## <quick_guide> Contenu du produit
 
-* Energy Headphones BT1 Bluetooth
-* Câble USB
+* Energy Headphones 1 Bluetooth.
+* Câble USB de charge.
+* Câble audio.
 
 </quick_guide>
