@@ -1,8 +1,9 @@
-<quick_guide>
+## <quick_guide> Introduction
 
-## Introduction
-* Merci de votre confiance et de l'achat de votre nouveau Energy Music Box BT1 Bluetooth, profitez de l'appareil.
-* Écouteurs stéréo Bluetooth® 3.0. Avec une conception moderne et très confortable.  Répondez à vos appels et contrôlez la lecture de votre musique depuis votre haut-parleur.
-* Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti à votre produit en toute sécurité et profiter toutes ses caractéristiques.
+*	Merci de votre confiance et d'avoir acheté vos nouveaux *Energy Headphones 1 Bluetooth*. Nous espérons que vous les apprécierez.
 
-</quick_guide>
+*	Casque Bluetooth qui combine une expérience sonore exceptionnelle et un design moderne aux couleurs fraîches et jeunes. Vous pouvez répondre à vos appels et contrôler la lecture de votre musique depuis votre haut-parleur.
+
+* Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti de votre produit en toute sécurité et profiter de toutes ses caractéristiques.
+
+</unique> </quick_guide>
