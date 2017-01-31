@@ -1,11 +1,19 @@
-<quick_guide>
-## Fonctions Principales
+## Fonctions principales
 
-### Allumer et éteindre
-Pour allumer l'appareil, appuyez sur la touche ON / OFF ET PLAY / PAUSE (2) pendant 3 secondes. Le LED (4) commencera à clignote en bleu. Vous écouterez sur l'appareil un son de bienvenue qu'indique que l'appareil est allumé.
+### <quick_guide> Marche et arrêt de l'appareil
 
-Pour éteindre l'appareil, appuyez à nouveau pendant 3 seconds le bouton ON / OFF ET PLAY / PAUSE (2), vous écouterez un son qu'indique que l'appareil est éteint.  La LED (4) arrêtera de clignoter.
+Pour allumer l'appareil, appuyez sur le bouton MULTIFONCTION (2) pendant 2 secondes et vous verrez l'INDICATEUR (5) clignoter en bleu. Vous entendrez un son de bienvenue qu'indique que l'appareil est allumé.
 
-Quand l'appareil soit allumé la lumière LED (1) indicateur clignotera.
+Pour éteindre l'appareil, appuyez à nouveau pendant 4 secondes sur le bouton MULTIFONCTION (2), vous écouterez un son qui indiquera que l'appareil est éteint. L'INDICATEUR (5) arrêtera de clignoter.
 
-</quick_guide>
+Lorsque l'appareil sera allumé, l'INDICATEUR (5) clignotera en bleu.
+
+### Charge de la batterie
+
+Lorsque la batterie du casque est faible, le haut-parleur émet un signal sonore d'avertissement. Ce signal sera répété toutes les quelques minutes jusqu'à ce que la batterie sera complètement épuisée. Pour le recharger, connectez l'extrémité miniUSB du câble USB (fourni) au CONNECTEUR DE CHARGE (4) et l'autre extrémité USB à un appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.). L'INDICATEUR (5) s'allumera en rouge et, lorsque la charge sera complète, il s'allumera en bleu.
+</unique> </quick_guide>
+
+**Considérations importantes :** 
+
+- Il est recommandé de charger l'appareil éteint. 
+- Ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
