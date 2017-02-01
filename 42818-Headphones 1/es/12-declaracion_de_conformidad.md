@@ -1,7 +1,7 @@
 ## <quick_guide> Declaración de conformidad
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Dirección: C/ Calpe, 1 - 03509 Finestrat Alicante (España)
+Dirección: C/ Calpe, 1 - 03509 Finestrat - Alicante (España)
 Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
