@@ -1,10 +1,7 @@
-<quick_guide>
-##  Warranty
+## Audio input
 
-Energy Sistem Soyntec SA is liable for any lack of conformity which exists at the time the goods were purchased during a period of 36 months. Batteries are excluded from the 36-month warranty, having a warranty period of 12 months.
+In addition to all modes explained so far, you can also connect your *Energy Headphones 1 Bluetooth* to your music player through the included audio cable if you run out of battery or simply do not want to use the wireless connection.
 
-This warranty covers any defects in workmanship or materials. This warranty does not cover any failure of the product due to accidents, misuse or alteration made by an unauthorized person.
+Turn off your *Energy Headphones 1 Bluetooth* and connect your cable to the AUDIO-IN (7) to use this mode.
 
-The special 36-months warranty is valid for the European Union. For other countries, please refer to your specific legislation or your local distributor.
-
-</quick_guide>
+**NOTE:** Playback control function is not supported in this mode. Therefore, you will have to use the player connected to your headphones.to turn up and down the volume, switch to another song or pause playback.
