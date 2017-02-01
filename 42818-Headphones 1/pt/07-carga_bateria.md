@@ -1,5 +1,8 @@
-### Carga da bateria
+## <quick_guide> Ligação Bluetooth
 
-Quando o fone não emite som ou começam a perceber que a curta distância o fone emite interferências, é o momento que seja recarregado, para isso, ligue a extremidade do cabo USB (incluído) no próprio *Energy Headphones BT3+ Bluetooth* (7), e o outro extremo no USB em qualquer outro aparelho com porta USB que possa fornecer energia (PC, carregador USB de parede, de carro, etc.).  A LED (1) se ilumina em cor vermelho e quando fica carregado completamente, será desligado.
+Prima o botão MULTIFUNÇÃO (2) durante 4 segundos após ter desligado os seus *Energy Headphones 1 Bluetooth* e o INDICADOR (5) irá piscar entre o vermelho e o azul. À seguir os seus *Energy Headphones 1 Bluetooth* pesquisam outros dispositivos Bluetooth para estabelecer a ligação enquanto o seu dispositivo Bluetooth (telemóvel, tablet, computador portátil, etc) começa a pesquisar dispositivos para emparelhar. Uma vez detectados os seus *Energy Headphones 1 Bluetooth* no seu dispositivo, seleccione a opção "ligar". Os seus auscultatores ligam imediatamente sem precisar de códigos e o INDICADOR (5) começa a piscar a azul, o qual indica que o dispositivo está ligado e emparelhado.
 
-**Advertência:** Recomendamos carregar o dispositivo na posição OFF. Não armazenar ou deixar de utilizar durante um longo período de tempo com a bateria descarregada.
+Se os seus *Energy Headphones 1 Bluetooth* estiverem no modo Bluetooth e não consegue emparelhá-los com dispositivo nenhum, o dispositivo desliga automaticamente após 10 minutos.
+
+</unique> </quick_guide>
+
