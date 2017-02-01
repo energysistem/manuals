@@ -1,15 +1,8 @@
-<quick_guide>
-## Warranty Procedure
+## Warranty
 
-Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available. 
-You can check the availability of the user manual in your language at http://www.energysistem.com/en/guide/42457
 
-Alternatively, you may contact the distributor from which you purchased the product, presenting the purchase receipt or invoice.
+Energy Sistem Technology, S.A. is liable for any lack of conformity that exists at the time the goods are purchased during a period of 36 months. Batteries are excluded from the 36 month warranty, having a warranty period of 12 months.
 
-Specifications are subject to change without notice.
+This warranty covers any defects in workmanship or materials. This warranty does not cover any product failure due to accidents, misuse or alteration made by an unauthorized person.
 
-### Trademarks. 
-All company, brand and product names are trademarks or registered trademarks of their respective companies.
-
-© 2015 by Energy Sistem Technology, S.A. All rights reserved
-</quick_guide>
+The special 36-month warranty is valid for the European Union. For other countries please refer to the specific legislation or your local distributor.
