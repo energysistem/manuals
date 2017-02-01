@@ -1,43 +1,34 @@
 ## Características
 
-
 ### Características gerais
 
-- Fones Bluetooth® 4.0.
+- Auscultadores com tecnologia Bluetooth.
 - Sincronização simples sem códigos.
-- Compatível com dispositivos iOS, ANDROID, PC e sistemas PlayStation.
-- Microfone integrado com cancelamento de eco e ruídos.
-- Função mãos livres e controle de chamadas.
-- Controle de leitura e volume desde o mesmo fone.
-- Distância de uso até 10mm de alcance.
-- Design moderno com acabamento de borracha de grande qualidade.
-- Protecções de pele muito confortáveis.
-- Bateria de lítio recarregável com 8h de autonomia em modo leitura.
-- Sistema de carregamento por cabo USB.
+- Compatível com dispositivos iOS, ANDROID e PC.
+- Função mãos livres e controlo de chamadas.
+- Controlo da reprodução e do volume a partir dos próprios auscultadores.
+- Bateria de lítio recarregável.
+- Cabo de carregamento USB.
 
+### Especificações técnicas
 
-### Características técnicas
-
-- Versão Bluetooth: Bluetooth 4.0
-- Suporta perfis A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6
-- Raio de alcance: 10m
-- Redução de ruído e eco. DSP: CVC6.0
-Resposta em frequência: 60HZ – 20 KHZ
+- Versão Bluetooth: Bluetooth 3.0, classe II.
+- Perfis suportados: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
+- Alcance: 10 m.
+- Resposta em frequência: 40 Hz – 20 KHz.
+- THD < 1%.
+- Sensibilidade (SPL): 93 ±3dB.
 - Transdutor dinâmico.
 - Diâmetro do diafragma: 40 mm.
-- Impedância: 32 Ohm.
-- Microfone integrado.
-- Sensibilidade do microfone: -42 dB.
-- Dimensões: 170 x 165 x 53 mm.
-- Peso: 126 g.
+- Sensibilidade do microfone: -38dB ±3dB.
+- Dimensões: 180 x 170 x 54 mm.
+- Peso: 137 g.
 
-<br/>
-Características da bateria<br/>
 
-- Bateria de lítio de 195 mAh.
-- Autonomia em modo leitura: 8h
-- Autonomia em modo conversação: 8h
-- Autonomia em standby: 20h
-- Ciclo de vida: 80% de capacidade remanescente depois de 300 ciclos.
-- Tempo de carregamento: 2h
-- Sistema de carregamento com cabo USB - micro USB.
+### Características da bateria <br/> 
+
+- Bateria de lítio com 300 mAh de capacidade.
+- Autonomia no modo de reprodução de música: 8 horas.
+- Autonomia no modo conversação: 8 horas.
+- Tempo de carregamento: 1,5 horas.
+- Carregamento através do cabo USB - Micro USB.
