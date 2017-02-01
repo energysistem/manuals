@@ -1,39 +1,34 @@
 ## Features
 
-### General Features
+### General features
 
-- Bluetooth® headphones.
-- Easy synchronization without any code.
-- Compatible with iOS, Android devices and PC.
-- Built-in microphone with echo and noise cancellation.
-- Handsfree function and phonecall control.
-- Playback and volume control from the headphones.
-- Range: up to 10m.
-- Rechargeable lithium battery with 8 hours of autonomy in playback mode.
+- Headphones with Bluetooth technology.
+- Easy synchronization without codes.
+- Compatible with iOS, ANDROID and PC devices.
+- Hands-free and call control functions.
+- Control playback and volume directly from the headphones.
+- Rechargeable lithium battery.
 - USB charging system.
 
-### Technical Features
+### Technical features
 
-- Bluetooth Version: Bluetooth 3.0
-- Supported profiles: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6
-- Wireless Range: 10m
-- Noise and Echo reduction DSP: CVC6.0
-- Speaker Frequency Response: 60HZ – 20KHZ
+- Bluetooth version: Bluetooth 3.0, class II.
+- Supported profiles: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
+- Distance range: 10 m.
+- Frequency response: 40 Hz – 20 KHz.
 - THD < 1%.
-- SPL: 93 ±3dB.
-- Driver Type: Dynamic
-- Speaker diameter: 40 mm
-- Built in microphone.
-- Microphone Sensitivity: -38dB ±3dB.
-- Dimensions: 167.5 x 59 x 144 mm
-- Weight:105g
+- SPL: 93 ± 3 dB.
+- Dynamic transducer.
+- Diaphragm diameter: 40 mm.
+- Microphone sensitivity: -38 dB ± 3 dB.
+- Size: 180 x 170 x 54 mm.
+- Weight: 137 g..
 
-### Rechargeable lithium battery specifications
 
-- Battery type: Li-ion battery 195 mAh.
-- Battery life in playback mode: 8 hours*.
-- Battery life in talking mode: 8 hours*.
-- Charging time:2 hours.
-- USB charging system.
-- 
-( * ) Approximate battery life. Higher volume means higher battery consumption.
+### Battery specifications 
+
+- 300 mAh lithium battery.
+- Battery life in playback mode: 8 h.
+- Battery life in talk mode: 8 h.
+- Charging time: 1.5 h.
+- USB - microUSB charging system.
