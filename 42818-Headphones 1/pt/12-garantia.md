@@ -1,8 +1,14 @@
-## <quick_guide> Condições de garantia
+## Aplicação da garantia
 
-é responsável por qualquer falta de conformidade que exista no momento que o produto seja adquirido pelo consumidor durante um período de 36 meses. As baterias não estão incluídas na garantia de 36 meses porque para elas há uma garantia específica de 12 meses.
+Visite http://www.energysistem.com/pt/support e seleccione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais de utilizador, os drivers e as atualizações disponíveis assim como a possibilidade de consultar o Apoio Técnico ou solicitar a garantia.
 
-Esta garantia cobre defeitos de fabricação ou materiais e não se aplica se o defeito foi causado por pessoas não autorizadas devido a acidente, utilização indebida ou modificações do produto.
+Pode consultar a disponibilidade do manual na sua língua em http://www.energysistem.com/pt-pt/support/manuals
 
-A garantia especial de 36 meses é válida para a União Europeia. Para outros países, deverá verificar a sua legislação específica ou o seu distribuidor local.
-</unique> </quick_guide>
+Também pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
+Importante: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Apoio Técnico da Energy Sistem Technology, S.A. não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou enviar o produto apenas com o conteúdo original de fábrica.
+As especificações estão sujeitas a alterações sem aviso prévio.
+
+*Marcas registadas* Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
+
+©2017 Energy Sistem®. Todos os direitos reservados.
+
