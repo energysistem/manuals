@@ -1,21 +1,21 @@
-<quick_guide>
-## Main Functions
+## Main functions
 
-### Turn ON / OFF your device.
+### <quick_guide> Switching on and off the device
 
-To turn on you device, press the ON/OFF AND PLAY/PAUSE button (2) for 3 seconds and you will see the LED indicator (4) flashing blue. You will hear a welcome sound, which means that it is turned on.
+To turn on your device, press and hold the MULTIFUNCTION BUTTON (2) for 2 seconds and the INDICATOR (5) will start flashing blue. You will hear a confirmation sound, which means that the device is on.
 
-To turn off your device, press ON/OFF AND PLAY/PAUSE button (2) again for 3 seconds and you will hear a goodbye sound in your device.  The LED indicator (4) will stop flashing.
+To turn off your device, press and hold the MULTIFUNCTION button (2) again for 4 seconds. You will hear a sound to confirm that the device is off. The INDICATOR (5) will stop flashing.
 
-As long as your device is turned on, the LED indicator (4) will keep flashing.
-
-</quick_guide>
+When the device is on, the INDICATOR (5) will keep flashing blue.
 
 ### Charging the battery
 
-When the battery is about to drain, the headphones will emit a sound warning about this situation. It will repeat this sound every several minutes until the battery gets completely drained.
+You will hear a warning sound when your headphones are about to run out of battery. This sound will be heard every few minutes until the battery is completely discharged. Connect the mini USB end of the included USB cable to the PORT TO CHARGE THE BATTERY (4) and the other USB end to any device with an USB port that can provide energy (PC, USB wall charger, car charger, etc) to charge the battery. The INDICATOR (5) will glow red. Once the battery is fully charged, the indicator will turn blue.
+</unique> </quick_guide>
 
-To charge it, connect the mini USB end of the included USB cable to your CHARGING USB PORT (5) and the other end to any USB port that can provide energy (PC, USB wall charger, car, etc). 
+**Important considerations.** 
 
-The LED (4) will turn on in red colour and when the charge is completed the LED will change to blue color.
+- We recommend turning off the device when charging. 
+- Do not store or leave your device unused for a long period of time with an empty battery.
+
 
