@@ -1,5 +1,7 @@
-<quick_guide>
-## Content
-- Energy Headphones BT1 Bluetooth.
-- USB cable.
+## <quick_guide> Product content
+
+* Energy Headphones 1 Bluetooth.
+* USB charging cable.
+* Audio cable.
+
 </quick_guide>
