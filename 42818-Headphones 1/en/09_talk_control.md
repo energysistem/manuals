@@ -1,10 +1,9 @@
-## Talk Control
+## Call control
 
-Having your *Energy Headphones BT1 Bluetooth* paired with your smartphone, you will be able to receive phone calls and use the built-in microphone (6) to talk from the own device.
+Once your *Energy Headphones 1 Bluetooth* and smartphone are synchronized, you will be able to receive calls and use the MICROPHONE (6) to talk while you wear them.
 
-To answer a phone call you only need to press the PLAY/PAUSE button (2) once. In case you were listening to a song at the moment you receive the phone call, the music playback will stop automatically and you will hear a ring tone.
+Use the MULTIFUNCTION button (2) to answer an incoming call. If you are listening to music when you receive a call, playback will pause and you will hear an incoming call sound. You can also press and hold this button for 2 seconds to reject an incoming call.
+Press the MULTIFUNCTION button (2) again to end a call. Playback will resume from the point it has been interrupted.
 
-To end the phone call, press the PLAY/PAUSE button (2) once, the playback will resume from the moment you received the phone call.
-
-
+You can also press twice the MULTIFUNCTION button (2) while you are listening to music to dial the last telephone number in your smartphone's call log.
 
