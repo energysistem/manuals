@@ -1,13 +1,11 @@
 ## Care and maintenance
 
-* Do not expose your *Energy Headphones BT1 Bluetooth* to shock, dust, humidity or high temperatures.
+* Do not expose your *Energy Headphones 1 Bluetooth* to impacts, dust, humidity or high temperatures.
 
-* Do not use abrasive or corrosive cleaning products.
+* Do not use neither corrosive nor abrasive cleaning products.
 
-* Keep your headphones clean and dust them with a soft dry cloth.
+* Keep the headphones clean and free of dust using a soft dry cloth.
 
-* Do not disassemble the device. Any repair must be done exlusively by qualified personnel of Energy Sistem Soyntec S.A.
+* Do not disassemble your headphones. All repair works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A.
 
-* Be sure to keep your *Energy Headphones BT1 Bluetooth*  turned off while not in use.
-
-* Charge the lithium battery when ran out to lengthen its life.
+* Do not leave the battery completely discharged for a long period of time.
