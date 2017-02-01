@@ -14,8 +14,8 @@
 
 - Versión Bluetooth: Bluetooth 3.0, clase II.
 - Soporta perfiles A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
-- Rango de alcance: 10m.
-- Respuesta en frecuencia: 40HZ – 20 KHZ.
+- Rango de alcance: 10 m.
+- Respuesta en frecuencia: 40 HZ – 20 KHZ.
 - THD < 1%.
 - SPL: 93 ±3dB.
 - Transductor dinámico.
@@ -28,7 +28,7 @@
 ### Características de la batería 
 
 - Batería de litio de 300 mAh.
-- Autonomía en modo reproducción: 8h.
-- Autonomía en modo conversación: 8h.
-- Tiempo de carga: 1,5h.
+- Autonomía en modo reproducción: 8 h.
+- Autonomía en modo conversación: 8 h.
+- Tiempo de carga: 1,5 h.
 - Sistema de carga a través de cable USB - micro USB.
