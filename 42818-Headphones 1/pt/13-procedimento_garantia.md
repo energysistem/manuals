@@ -1,9 +1,34 @@
-## <quick_guide>Funcionamento da garantia
+## <quick_guide> Declaração de conformidade
 
-Visite a secção de suporte neste link: http://support.energysistem.com e selecione o seu produto para ver as FAQ (Perguntas frequentes), os manuais do usuário, os drivers e as actualizações disponíveis. Também tem a possibilidade de consultar o apoio técnico ou solicitar a garantia. Pode verificar a disponibilidade do manual do usuário no seu idioma em : http://www.energysistem.com/pt-pt/support/manuals
-Alternativamente, pode entrar em contacto com o distribuidor onde foi adquirido o produto, apresentando o recibo da compra ou factura.
-As especificações estão sujeitas a alterações sem aviso prévio.
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 902 388 388 / + 34 966 813 257
 
-*Marcas Registadas.* Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
-© 2015 Energy Sistem Technology S.A. Todos os direitos reservados.
+Declaramos sob a nossa exclusiva responsabilidade que o produto
+
+Descrição: Auscultadores sem fios <br/>
+Marca: Energy Sistem <br/>
+Modelo: Energy Headphones 1 Bluetooth <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
+País de fabricação: China <br/>
+
+a que se refere a declaração cumpre com as normas e outros documentos normativos
+
+EN 300 328 V1.9.1 (2015-02) <br/>
+EN 301 489-1 V1.9.2 (2011-09) <br/>
+EN 301 489-17 V2.2.1 (2012-09) <br/>
+EN 62479:2010<br/>
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+
+e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+
+Finestrat, 01 de setembro de 2016.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
 </quick_guide>
