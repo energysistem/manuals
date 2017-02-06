@@ -1,6 +1,7 @@
-<quick_guide>
-## Synchronisation Bluetooth
+## <quick_guide> Synchronisation Bluetooth
 
-Avec les *Energy Headphones BT1 Bluetooth* éteints appuyez sur le bouton multifonction ON / OFF (3) pendant 4 seconds et vous verrez la LED (4) clignoter en rouge et bleu. Dans ce moment les *Energy Headphones BT1 Bluetooth* chercheront la synchronisation avec un outre appareil Bluetooth; au même temps depuis votre appareil Bluetooth: portable, tablette, ordinateur portable, etc. commencez la recherche et la synchronisation d'appareils. Quand vous aurez identifié les *Energy Headphones BT1 Bluetooth* dans votre appareil, sélectionnez l'option connecter. La connexion sera réalisée immédiatement et sans besoin de codes et le LED ne clignotera uniquement en bleu indiquant que le dispositif est activé et synchronisé.
+Lorsque votre casque *Energy Headphones 1 Bluetooth* sera éteint, maintenez enfoncé le bouton MULTIFONCTION (2) pendant 4 secondes et vous verrez l'INDICATEUR (5) clignoter en rouge et bleu. À ce moment-là, les *Energy Headphones 1 Bluetooth* chercheront la synchronisation avec autre appareil Bluetooth. En même temps, depuis votre appareil Bluetooth (portable, tablette, ordinateur portable, etc.) commencera la recherche et la synchronisation des appareils. Lorsque vos *Energy Headphones 1 Bluetooth* auront été identifiés sur votre appareil, sélectionnez l'option connecter. La connexion sera réalisée immédiatement et sans besoin de codes et l'INDICATEUR (5) clignotera uniquement en bleu, indiquant ainsi que l'appareil est allumé et synchronisé.
 
-</quick_guide>
+Si le mode Bluetooth est activé sur votre *Energy Headphones 1 Bluetooth* et que vous ne le synchronisez pas avec aucun appareil, il sera automatiquement désactive 10 minutes plus tard.
+
+</unique> </quick_guide>
