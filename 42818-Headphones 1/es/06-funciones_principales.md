@@ -6,7 +6,7 @@ Para encender el dispositivo, pulsa durante 2 segundos el botón MULTIFUNCIÓN (
 
 Para apagar el dispositivo vuelve a pulsar durante 4 segundos el botón MULTIFUNCIÓN (2),  y escucharás un sonido que indica que el dispositivo está apagado. El INDICADOR  (5) dejará de parpadear.
 
-Mientras esté encendido el dispositivo el INDICADOR (5) indicador se mantendrá parpadeando en color azul.
+Mientras esté encendido el dispositivo el INDICADOR (5) se mantendrá parpadeando en color azul.
 
 ### Carga de la batería
 
