@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Auriculares inalámbricos <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Headphones 1 Bluetooth <br/>
+Modelo: Energy Headphones 1 Bluetooth <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
@@ -22,7 +22,7 @@ EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-Finestrat, 01 de Septiembre de 2016.
+Finestrat, 01 de Febrero de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
