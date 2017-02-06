@@ -1,12 +1,8 @@
-# Contrôle d'appels
+## Contrôle des appels
 
-Si vous avez les *Energy Headphones 1* synchronisés avec votre téléphone portable ou smartphone, vous recevrez des appels et vous utiliserez le microphone (8) pour parler depuis l'écouteur.
-Pour répondre à un appel, appuyez sur le bouton de contrôle d'appels (3). Si vous êtes en train d'écouter une chanson quand vous recevez l'appel, celle-ci s'arrêtera dans ce moment-là pour écouter la sonnerie de l'appel.
+Si votre casque *Energy Headphones 1 Bluetooth* est synchronisé avec votre smartphone vous pourrez recevoir des appels et utiliser le MICROPHONE (6) pour parler lorsque vous êtes en train d'utiliser votre casque.
 
-Pour finaliser l'appel, appuyez une autre fois sur le bouton de contrôle d'appel (3), la chanson sera reprise au moment de la réception de l'appel.
+Appuyez sur le bouton MULTIFONCTION (2) pour répondre à un appel entrant. Si vous recevez un appel lorsque vous êtes en train d'écouter une chanson, celle-ci s'arrêtera et vous écouterez un signal d'appel entrant. Vous pouvez aussi décliner l'appel en maintenant enfoncé ce bouton pendant 2 secondes.
+Pour finir l'appel, appuyez à nouveau sur le bouton MULTIFONCTION (2), la chanson sera reprise depuis le moment de la réception de l'appel.
 
-Si vous préférez utiliser votre téléphone portable pendant votre appel, au lieu de parler avec le mains libres, appuyez deux fois de suite sur le bouton de contrôle d'appels (3) et l'appel sera transférée à votre téléphone.
-
-Si vous ne pouvez pas répondre un appel, rejetez-la en appuyant sur le bouton multifonction (3) pendant 2 seconds.
-
-Vos *Energy Headphones 1* vous permettent de poursuivre le dernier appel enregistré sur la liste d'appels de votre smartphone. Pour cela, appuyez deux fois sur le bouton de contrôle d'appel (1) et l'appel sera effectuée automatiquement.
+Lorsque vous écoutez la musique, vous pouvez aussi rappeler le dernier numéro de l'historique de votre smartphone en appuyant sur le bouton MULTIFONCTION (2) deux fois de suite.
