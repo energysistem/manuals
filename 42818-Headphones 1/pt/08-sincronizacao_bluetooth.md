@@ -1,10 +1,9 @@
-## Controlo da reprodução de música
 
-Uma vez emparelhados os seus *Energy Headphones 1 Bluetooth*, pode controlar as funções básicas de reprodução de música a partir dos próprios auscultadores como por exemplo aumentar e diminuir o volume, ir ou voltar para a faixa seguinte/anterior e parar ou continuar a reproduzir a música.
+## <quick_guide> Ligação Bluetooth
 
-Prima o botão AVANÇAR (1) para ir para a faixa seguinte. Também é possível voltar para a faixa anterior premindo o botão VOLTAR (3).
+Prima o botão MULTIFUNÇÃO (2) durante 4 segundos após ter desligado os seus *Energy Headphones 1 Bluetooth* e o INDICADOR (5) irá piscar entre o vermelho e o azul. À seguir os seus *Energy Headphones 1 Bluetooth* pesquisam outros dispositivos Bluetooth para estabelecer a ligação enquanto o seu dispositivo Bluetooth (telemóvel, tablet, computador portátil, etc) começa a pesquisar dispositivos para emparelhar. Uma vez detectados os seus *Energy Headphones 1 Bluetooth* no seu dispositivo, seleccione a opção "ligar". Os seus auscultatores ligam imediatamente sem precisar de códigos e o INDICADOR (5) começa a piscar a azul, o qual indica que o dispositivo está ligado e emparelhado.
 
-Pode aumentar e diminuir o volume da música que está a ouvir através dos botões VOLUME + (1) e VOLUME - (3) respectivamente. Ouvirá um sinal sonoro ao atingir o volume máximo.
+Se os seus *Energy Headphones 1 Bluetooth* estiverem no modo Bluetooth e não consegue emparelhá-los com dispositivo nenhum, o dispositivo desliga automaticamente após 10 minutos.
 
-Prima o botão MULTIFUNÇÃO (2) para parar ou continuar a reproduzir a música. Se a música que está a reproduzir fica em pausa mais de 10 minutos, os seus *Energy Headphones 1 Bluetooth* desligam automaticamente para poupar energia.
+</unique> </quick_guide>
 
