@@ -1,9 +1,9 @@
 ## Contrôle de lecture
 
-Quand les *Energy Headphones BT3+ Bluetooth* soient synchronisés, vous pouvez contrôler les fonctions basiques de lecture depuis l'haut parleur; comme monter et diminuer le volume, avancer ou reculer la chanson et écouter ou arrêter la chanson.
+Une fois synchronisés les *Energy Headphones 1 Bluetooth* vous pourrez gérer les fonctions basiques de lecture depuis le casque : augmenter ou baisser le volume, passer à la chanson suivante ou précédente et arrêter ou reprendre la lecture de la chanson.
 
-Pour avancer dans une chanson appuyez sur le avancer (4) une seule fois, si vous préférez avancer dans une même chanson appuyez jusqu'atteindre le moment exact de la chanson. Vous pouvez reculer dans la chanson ou aller dans un moment concret d'une chanson, appuyez une seule fois ou reculez (6).
+Pour passer à la chanson suivante maintenez enfoncé le bouton AVANCER (1). Vous pouvez également passer à la chanson précédente en maintenant enfoncé le bouton RECULER (3).
 
-Vous pourrez augmenter le volume de lecture avec les boutons 2 et 5 respectivement. Vous entendrez un son avec chaque changement de volume et un son plus sonore quand le volume maximal soit atteint.
+Vous pourrez augmenter et baisser le volume de la lecture en utilisant les boutons VOLUME + (1) et VOLUME - (3) respectivement. Vous entendrez un bip lorsque le volume maximum sera atteint.
 
-Pour arrêter ou recommencer le lecture, appuyez une seule fois sur le bouton play/ pause (3).
+Appuyez sur le bouton MULTIFONCTION (2) une seule fois pour arrêter ou reprendre la lecture. Si la lecture est arrêtée pendant plus de 10 minutes, votre casque *Energy Headphones 1 Bluetooth* s'éteindra automatiquement pour économiser l'énergie. 
