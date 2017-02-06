@@ -1,20 +1,34 @@
 ## <quick_guide> Declaração de conformidade
 
-_**Nome do Fabricante:**_ Energy Sistem Technology S.A.  
-_**Endereço:**_ C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha).  
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel: + 34 902 388 388 / + 34 966 813 257
 
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Declaramos sob nossa exclusiva responsabilidade que o produto 
+Descrição: Auscultadores sem fios <br/>
+Marca: Energy Sistem <br/>
+Modelo: Energy Headphones 1 Bluetooth <br/>
+Fabricante: Energy Sistem Technology, S.A. <br/>
+País de fabricação: China <br/>
 
-*Energy Sistem#trade# Stéreo Bluetooth® Earphone Energy Wireless BT3+*
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-**País de fabricação:** China
+EN 300 328 V1.9.1 (2015-02) <br/>
+EN 301 489-1 V1.9.2 (2011-09) <br/>
+EN 301 489-17 V2.2.1 (2012-09) <br/>
+EN 62479:2010<br/>
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
-Está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Este símbolo no produto ou nas instruções significa que deve reciclar os seus dispositivos elétricos e eletrónicos no final das suas vidas utéis e separadamente dos outros resíduos domésticos. Existem sistemas de recolha seletiva e reciclagem para esse fim. Para mais informações, contacte as autoridades locais ou o distribuidor que vendeu o produto. |
+Finestrat, 01 de fevereiro de 2017.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 </quick_guide>
