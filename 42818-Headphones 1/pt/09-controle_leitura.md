@@ -1,8 +1,9 @@
-## Controlo de chamadas
+## Controlo da reprodução de música
 
-Emparelhe os seus *Energy Headphones 1 Bluetooth* com o seu smartphone e poderá receber chamadas e utilizar o MICROFONE (6) para falar enquanto estiver a utilizá-los.
+Uma vez emparelhados os seus *Energy Headphones 1 Bluetooth*, pode controlar as funções básicas de reprodução de música a partir dos próprios auscultadores como por exemplo aumentar e diminuir o volume, ir ou voltar para a faixa seguinte/anterior e parar ou continuar a reproduzir a música.
 
-Prima o botão MULTIFUNÇÃO (2) para atender uma chamada. No caso de receber uma chamada enquanto está a ouvir uma música, a música parará e em vez disso ouvirá uma mensagem de chamada. Prima este botão durante 2 segundos para rejeitar a chamada.
-Prima o botão MULTIFUNÇÃO (2) para terminar a chamada e continuar a reproduzir a faixa no mesmo ponto em que estava quando recebeu a chamada.
+Prima o botão AVANÇAR (1) para ir para a faixa seguinte. Também é possível voltar para a faixa anterior premindo o botão VOLTAR (3).
 
-Também pode ligar para o último número de telefone do histórico do seu smartphone enquanto ouve a sua música. Para isso, prima duas vezes o botão MULTIFUNÇÃO (2).
+Pode aumentar e diminuir o volume da música que está a ouvir através dos botões VOLUME + (1) e VOLUME - (3) respectivamente. Ouvirá um sinal sonoro ao atingir o volume máximo.
+
+Prima o botão MULTIFUNÇÃO (2) para parar ou continuar a reproduzir a música. Se a música que está a reproduzir fica em pausa mais de 10 minutos, os seus *Energy Headphones 1 Bluetooth* desligam automaticamente para poupar energia.
