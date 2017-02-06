@@ -29,7 +29,7 @@
 
 - Batterie au lithium de 300 mAh.
 - Autonomie en mode lecture : 8 h.
-- Autonomie en mode conversation : 8 h.
+- Autonomie en mode mains libres : 8 h.
 - Temps de charge : 1h30.
 - Système de charge via câble USB - microUSB.
 
