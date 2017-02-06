@@ -29,6 +29,6 @@
 
 - Batería de litio de 300 mAh.
 - Autonomía en modo reproducción: 8 h.
-- Autonomía en modo conversación: 8 h.
+- Autonomía en modo manos libres: 8 h.
 - Tiempo de carga: 1,5 h.
 - Sistema de carga a través de cable USB - micro USB.
