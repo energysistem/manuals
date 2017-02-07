@@ -24,7 +24,7 @@ EN300328V1.9.1 : 2015-02  <br/>
 De acuerdo con las disposiciones de la Directivas 2014/30/EU y 2014/35/EU del Parlamento Europeo y del Consejo de 9 de marzo de
 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-Finestrat, Diciembre de 2016.
+Finestrat, 1 de Febrero de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
