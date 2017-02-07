@@ -29,6 +29,6 @@
 
 - 300 mAh lithium battery.
 - Battery life in playback mode: 8 h.
-- Battery life in talk mode: 8 h.
+- Battery life in hands-free mode: 8 h.
 - Charging time: 1.5 h.
 - USB - microUSB charging system.
