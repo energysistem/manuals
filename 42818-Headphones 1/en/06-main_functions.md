@@ -10,7 +10,7 @@ When the device is on, the INDICATOR (5) will keep flashing blue.
 
 ### Charging the battery
 
-You will hear a warning sound when your headphones are about to run out of battery. This sound will be heard every few minutes until the battery is completely discharged. Connect the mini USB end of the included USB cable to the PORT TO CHARGE THE BATTERY (4) and the other USB end to any device with an USB port that can provide energy (PC, USB wall charger, car charger, etc) to charge the battery. The INDICATOR (5) will glow red. Once the battery is fully charged, the indicator will turn blue.
+You will hear a warning sound when your headphones are about to run out of battery. This sound will be heard every few minutes until the battery is completely discharged. Connect the micro USB end of the included USB cable to the PORT TO CHARGE THE BATTERY (4) and the other USB end to any device with an USB port that can provide energy (PC, USB wall charger, car charger, etc) to charge the battery. The INDICATOR (5) will glow red. Once the battery is fully charged, the indicator will turn blue.
 </unique> </quick_guide>
 
 **Important considerations:** 
