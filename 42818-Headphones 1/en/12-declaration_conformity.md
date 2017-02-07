@@ -22,7 +22,7 @@ EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
 in conformity with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
-Finestrat, 01st September 2016.
+Finestrat, 01st February 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
