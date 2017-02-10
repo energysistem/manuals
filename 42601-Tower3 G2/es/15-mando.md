@@ -4,7 +4,7 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
 
 * Botón rojo (parte superior izquierda): Apagado y encendido del equipo.
 
-* Botón 'MODE': Selección de modo (USB, SD, AUX1, AUX2 radio FM, Bluetooth®) mediante el botón X.
+* Botón "MODE": Selección de modo (USB, SD, AUX1, AUX2 radio FM, Bluetooth®) mediante el botón X.
 
 * Botón "Mute" (parte superior derecha):  para silenciar todos los modos, excepto el modo Bluetooh.
 
@@ -19,7 +19,7 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
 
 * Botón 'BROWSE': Navegación por carpetas para los modos USB y SD.
 
-* Botón 'RPT': Modos de repetición para tarjetas externas USB/microSD. Cambian entre los modos: 'Repetir todo', 'Repetir uno' y 'Aleatorio'.
+* Botón 'RPT': Modos de repetición para tarjetas externas USB/microSD. Cambian entre los modos: "Repetir todo", "Repetir canción actual" y "Reproducción Aleatoria".
 
 * Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
 
