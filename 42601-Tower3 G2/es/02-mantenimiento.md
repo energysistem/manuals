@@ -6,6 +6,6 @@
 
 * Mantén el dispositivo limpio y sin polvo; utiliza para ello un paño suave y seco.
 
-* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology S.A.
+* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
 
 * Asegúrate de mantener tu *Energy Tower 3 g2* apagado cuando no esté en uso.
