@@ -18,5 +18,5 @@ Cuando conectes algún dispositivo en cualquiera de las conexiones, tu *Energy T
 
 ### Display
 
-El *Energy Tower 3* está dotado de un display retroiluminado oculto (Hidden Display) en la parte frontal superior.
+El *Energy Tower 3 g2* está dotado de un display retroiluminado oculto (Hidden Display) en la parte frontal superior.
 Cuando se enciende el dispositivo puedes ver cómo se ilumina el logo Energy Sistem#trade# en el panel superior. Además, en el display principal verás el modo en el que se encuentra el *Energy Tower 3 g2*.
