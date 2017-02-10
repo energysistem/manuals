@@ -19,7 +19,7 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
 
 * Botón 'BROWSE': Navegación por carpetas para los modos USB y SD.
 
-* Botón 'RPT': Modos de repetición para tarjetas externas USB/microSD. Cambian entre los modos: "Repetir todo", "Repetir canción actual" y "Reproducción Aleatoria".
+* Botón 'RPT': Modos de repetición para tarjetas externas USB/microSD. Cambian entre los modos: "Repetir todo", "Repetir uno" y "Aleatorio".
 
 * Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
 
