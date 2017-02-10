@@ -8,7 +8,7 @@ Para utilizar esta función, conecta el extremo RCA (L y R) en la entrada '(8)' 
 
 Con tu *Energy Tower 3 g2* encendida, presiona el botón 'Cambio de función (4)' y selecciona el modo "Aux1", que podrás visualizar en el LED indicador de modo '(1)' del panel superior.
 
-En el modo de reproducción "Aux1", el Energy Tower 1 se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen, ecualización o cambio de pista, se escucharán en el Energy Tower 1.
+En el modo de reproducción "Aux1", el Energy Tower 3 g2 se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen, ecualización o cambio de pista, se escucharán en el Energy Tower 3 g2.
 
 Podrá utilizar el botón 'Reproducción - Pausa (5)' para  iniciar, pausar o reanudar la reproducción.
 
