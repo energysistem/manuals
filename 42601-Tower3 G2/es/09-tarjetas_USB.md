@@ -20,7 +20,7 @@ Pulsando durante 2 segundos el botón 'Cambio de función (4)' o bien el botón 
 
 Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos en primer lugar la carpeta "B" y después la carpeta "A", la primera canción que se reproducirá será la primera canción por orden alfabético de la carpeta "B".
 
    A continuación se muestra un diagrama del orden de lectura:
 
