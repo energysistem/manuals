@@ -5,7 +5,7 @@ Con tus *Energy Headphones 1 Bluetooth* apagados mantén presionado el botón MU
 ### Función Auto apagado
 Con el fin de ahorrar batería, tu *Energy Headphones 1 Bluetooth* se apagará automaticamente en los siguientes casos:
 
-- A los 5 minutos de estar en modo busqueda y no haber sido sincronizado.
+- A los 5 minutos de estar en modo búsqueda y no haber sido sincronizado.
 - A los 8 minutos de estar sincronizado y con la reproducción pausada.
 
 
