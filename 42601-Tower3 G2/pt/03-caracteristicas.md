@@ -1,23 +1,24 @@
 ## Características
 
-- Sistema de sonido 2.0 en torre.
-- Conectividad sin cables: Bluetooth® v4.0 + EDR.
-- Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
-- Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia RMS: 40 W (15W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Radio FM.
-- Rango de frecuencia (FM): 87,5-108MHz
-- Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
-- Salidas USB para cargar dispositivos externos. Corriente de salida: 5V, 2A.
-- Display LED retroiluminado.
-- Soporte para tablets y smartphones en la parte superior.
-- Panel superior con 8 botones para un uso más intuitivo de todas las funciones.
-- Mando a distancia con control total de funciones.
-- Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters).
-- Respuesta en frecuencia: 20Hz-20KHz
-- Cuerpo de madera para una mejor calidad de sonido.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Coluna de som 2.1.
+- Conectividade sem fios: Bluetooth® v4.1.
+- Distância de utilização com dispositivos Bluetooth®: até 10 metros.
+- Protocolos Bluetooth®: A2DP; AVRCP.
+- Potência: 45 W (10 W * 2 + 20 W + 5 W).
+- Reprodução de ficheiros a partir de memórias USB e cartões microSD até 64 GB.
+- Rádio FM.
+- Banda de frequência (FM): 87,5 - 108 MHz.
+- Ligação de dispositivos de áudio através de cabo com conector jack de 3,5 mm (fornecido com o produto).
+- Saídas USB para carregar dispositivos externos. Corrente de saída: 5 V 2 A.
+- Display retroiluminado por LED.
+- Suporte na parte superior para tablets e smartphones.
+- Painel com 6 botões na parte superior para utilizar de forma intuitiva as funções.
+- Telecomando para controlar todas as funções.
+- Modos de equalização predefinidos com a possibilidade de regulá-los manualmente.
+- Reprodução de ficheiros MP3 a partir de cartões microSD até 64 GB.
+- Formatos de leitura de áudio (USB / MicroSD): WAV e MP3.
+- Altifalantes: 3"× 2 (centrais) + 1,5'" x 1 (agudos) + 4"× 1 (subgraves).
+- Resposta em frequência: 40 Hz - 18 KHz.
+- Corpo de madeira para oferecer uma melhor qualidade de som.
+- Alimentação eléctrica: 120 - 240 V / 50 - 60 Hz.
+
