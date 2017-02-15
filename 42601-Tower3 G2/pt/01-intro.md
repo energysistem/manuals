@@ -1,7 +1,7 @@
-## Introducción
+## Introdução
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Tower 3*, deseamos que la disfrutes.
+* Agradecemos a sua confiança assim como a aquisição da sua nova Energy Tower 3 g2. Esperamos que desfrute do produto.
 
-* Disfruta de un audio de alta calidad capaz de inundar cada rincón de tu hogar con este sistema de sonido 2.0 en torre. Con 40W RMS, conexión Bluetooth, Radio FM y reproducción MP3 desde USB y tarjetas SD/SDHC, es un completo complemento para tu música.
+* Esta coluna de som com potência de 45 W foi concebida para satisfazer as necessidades musicais de todos os utilizadores nas suas próprias casas. A coluna de som inclui tecnologia Bluetooth 4.1, rádio FM, reprodução de música a partir de dispositivos USB e cartões microSD assim como entradas de áudio de 3,5 mm e RCA para ligar dispositivos externos.
 
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+* Aconselhamos ler o presente manual para tirar o máximo partido do produto com segurança e aproveitando todas as suas prestações.
