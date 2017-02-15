@@ -1,8 +1,9 @@
-## Radio FM
+## Rádio FM
 
-Para utilizar esta función es necesario sintonizar los canales, los cuales quedarán almacenados para su posterior selección. No es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la sintonía de la emisora deseada.
+Para poder utilizar esta função, é preciso fazer uma sintonização de canais, os quais ficam armazenados no dispositivo para serem seleccionados posteriormente. Não precisa de repetir a pesquisa se alterar a posição da coluna ou modificar a frequência da estação de rádio preferida.
 
-Para realizar dicha sintonización debes mantener pulsado el botón modo (5) cuando el dispositivo esté en modo Radio FM.
-Esto almacenará todas las emisoras encontradas en la memoria interna del dispositivo. Esta operación puede tardar unos minutos.
+Prima o botão "Mudar função" (4) durante alguns segundos quando o dispositivo estiver no modo Rádio FM para começar a sintonizar.
+A memória interna do dispositivo armazena todas as estações de rádio encontradas. Isso pode levar alguns minutos.
 
-Después, para seleccionar entre las distintas emisoras, tan solo pulsa los botones Avance (13) y Retroceso (2), e irán cambiando las cadenas que se han almacenado en la memoria interna. Para seleccionar manualmente una emisora mantén pulsado los botones Avance (13) y Retroceso (2).
+Depois, só tem que premir os botões "Avançar" (7) e "Voltar" (6) para seleccionar a estação de rádio preferida entre as frequências que tem sido armazenadas na memória interna. Pode seleccionar uma estação de rádio manualmente se mantém premidos os botões "Avançar" (7) e "Voltar" (6).
+
