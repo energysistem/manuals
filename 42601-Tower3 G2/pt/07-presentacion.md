@@ -1,7 +1,6 @@
-## Presentación General
+## Apresentação geral
 
-El *Energy Tower 3* es un sistema de sonido en torre con reproducción a través de tecnología Bluetooth®, memorias externas (USB o tarjetas SD), entrada Line-in y además cuenta con Radio FM. Se sincroniza facilmente con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo con Bluetooth.
+A *Energy Tower 3 g2* é uma coluna de som que reproduz música através de tecnologia Bluetooth®, a partir de unidades externas (USB ou cartões microSD) e entradas Line-in e RCA adicionais. Dispõe também de Rádio FM. 
 
-Para cambiar entre las diferentes funciones, pulsa el botón modo (5), visualizarás en el display la función selecionada. En caso de no haber nada conectado a las entradas USB y SD/MMC, el botón modo (5) conmutará entre el modo Radio FM, Bluetooth, y Line-in (Aux).
+Pode emparelhá-la facilmente com tablets, smartphones, computadores portáteis, MACs, PCs e qualquer outro dispositivo Bluetooth.
 
-Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy Tower 3* cambiará automáticamente a dicha función. En el caso de tener conectadas alguna o todas las entradas, el botón modo (5) cambiará entre todas las disponibles.
