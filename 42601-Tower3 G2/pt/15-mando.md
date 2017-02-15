@@ -1,33 +1,27 @@
-## Mando a distancia
+## Telecomando
 
-Mediante el mando a distancia puedes controlar todas las funciones que ofrece el *Energy Tower 3*.
+Pode controlar todas as funções que oferece a *Energy Tower 3 g2* através do telecomando.
 
-* Apagado y encendido del equipo.
+* Botão vermelho (parte superior esquerda): Ligar e desligar o dispositivo.
 
-* Selección de modo (USB, SD, Line-in, radio FM, Bluetooth®) mediante el botón X.
+* Botão "MODE": Seleccionar o modo (USB, SD, AUX1, AUX2, Rádio FM, Bluetooth®) através do botão X.
 
-* Función "Mute" para silenciar todos los modos, excepto el modo Bluetooh.
+* Botão "Mute" (parte superior direita): silenciar todos os modos à excepção do modo Bluetooth.
 
-* Control de volumen, play/pause, avance y retroceso de pistas/sintonías FM.
+* Botões para ajustar o volume (VOL+ / VOL-), Reproduzir - Parar, Avançar e Voltar para a faixa/frequência FM seguinte/anterior.
 
-* Ecualización (EQ predefinida) para los modos USB y SD.
+* Equalização (EQ predefinida) em modo USB e SD.
     * EQ 0: Normal.
     * EQ 1: Pop.
     * EQ 2: Rock.
     * EQ 3: Jazz.
     * EQ 4: Classic.
 
-* Navegación por carpetas para los modos USB y SD.
+* Botão "BROWSE": * Navegar nas pastas em modo USB e SD.
 
-* Modos repeat y random.
+* Botão "RPT": Modos de repetição para memórias USB/cartões microSD externos. Pode alternar entre os modos: "Repetir tudo", "Repetir uma vez" e "Aleatório".
 
-* Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
-
-
-
-
-
-
+* Seleccionar o número de faixa ou frequência de rádio através dos botões numéricos (modos USB, SD e Rádio FM).
 
 
 
