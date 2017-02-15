@@ -1,12 +1,10 @@
-## Sincronización Bluetooth
+## Ligação Bluetooth
 
-Pulsando el botón modo (5) selecciona el modo Bluetooth, aparecerá en el display las letras "bt".
-En ese momento puedes realizar la sincronización con tu dispositivo Bluetooth.
+Seleccione o modo Bluetooth na sua *Energy Tower 3 g2* para emparelhá-la com um dispositivo Bluetooth. Para isso, prima o botão "Mudar função" (4) e as letras "bt" aparecerão no "ecrã LED" (1). A sincronização dos dispositivos comença imediatamente.
 
-Cuando tengas visualizado en tu dispositivo Bluetooth el nombre de "Energy Tower 3" solamente selecciona conectar y tras esperar unos segundos la conexión está finalizada.
+Procure o nome “Energy Tower 3 g2” no seu dispositivo Bluetooth e a seguir, prima “ligar”. A ligação estabelecer-se-á imediatamente. Ouvirá um som que indica que a ligação entre os dois dispositivos foi estabelecida correctamente.
 
-En el momento en el que se establece la conexión ya puedes comenzar con la reproducción inalámbrica de toda tu lista de música.
+Se deseja emparelhar  a coluna com outro dispositivo bluetooth, prima o botão "Mudar função" (4) durante 2 segundos para iniciar uma pesquisa nova.
 
-Si deseas quitar la sincronización actual y sincronizar cualquier otro dispositivo, tienes que presionar el botón browse (4) durante 2 segundos y comenzará una nueva búsqueda, ó también puedes salir del modo Bluetooth y volver a entrar con el botón (5).
+A sua *Energy Tower 3 g2* inclui também perfis Bluetooth A2DP (Advanced Audio Distribution Profile) e AVRCP (Audio Video Remote Control Profile), para escutar a sua música estéreo e controlar a reprodução, respectivamente.
 
-Además, el *Energy Tower 3* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) y AVRCP (Audio Video Remote Control Profile) para escuchar tu música en estéreo y controlar la reproducción respectivamente.
