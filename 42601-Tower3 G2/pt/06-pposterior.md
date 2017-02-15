@@ -8,4 +8,4 @@ Na parte posterior da sua *Energy Tower 3 g2* há:
 - Número de série do produto.
 
 
-![Portada](METER IMAGEN DESDE TOOLS)
+![Portada](http://static.energysistem.com/images/manuals/42260/58a4303997637.jpg)
