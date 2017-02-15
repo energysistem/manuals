@@ -1,7 +1,7 @@
 ## Introducción
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Tower 3 g2*, deseamos que la disfrutes.
+* Gracias por confiar en nosotros y adquirir tu nueva Energy Tower 3 g2. Esperamos que la disfrutes.
 
-* Disfruta de un audio de alta calidad capaz de inundar cada rincón de tu hogar con este sistema de sonido 2.1 en torre. Con 45W RMS, conexión Bluetooth, Radio FM y reproducción MP3/WAV desde USB y tarjetas SD/SDHC, es un completo complemento para tu música.
+* Esta torre de sonido cuenta con 45 W de potencia y está pensada para satisfacer las necesidades de todo usuario en el hogar. Dispone de tecnología Bluetooth 4.1, Radio FM, reproducción de música a través de memorias externas (USB y microSD), así como entradas de audio de 3,5 mm y RCA para conectar dispositivos externos.
 
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
