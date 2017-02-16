@@ -1,23 +1,23 @@
-## Características
+## Caractéristiques
 
-- Sistema de sonido 2.0 en torre.
-- Conectividad sin cables: Bluetooth® v4.0 + EDR.
-- Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
-- Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia RMS: 40 W (15W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
+- Système de son 2.1 sous forme de tour.
+- Connectivité sans fil : Bluetooth® v4.1.
+- Distance d'utilisation avec des périphériques Bluetooth® jusqu'à 10 mètres.
+- Protocoles Bluetooth® : A2DP ; AVRCP.
+- Puissance : 45 W (10 W * 2 + 20 W + 5 W).
+- Lecture de périphériques USB et cartes microSD avec capacité de stockage de jusqu'à 64 Go.
 - Radio FM.
-- Rango de frecuencia (FM): 87,5-108MHz
-- Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
-- Salidas USB para cargar dispositivos externos. Corriente de salida: 5V, 2A.
-- Display LED retroiluminado.
-- Soporte para tablets y smartphones en la parte superior.
-- Panel superior con 8 botones para un uso más intuitivo de todas las funciones.
-- Mando a distancia con control total de funciones.
-- Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters).
-- Respuesta en frecuencia: 20Hz-20KHz
-- Cuerpo de madera para una mejor calidad de sonido.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Plage de fréquence (FM) : 87,5 - 108 MHz.
+- Connexion avec appareils audio via câble jack de 3,5 mm (fourni).
+- Sorties USB pour la recharge des appareils externes. Courant de sortie : 5 V / 2 A.
+- Écran à rétro-éclairage LED.
+- Support pour des tablettes et des smartphones dans la partie supérieure.
+- Panneau supérieur avec 6 touches pour un usage plus intuitif des fonctions.
+- Télécommande avec contrôle complet desfonctions.
+- Égaliseurs prédéfinis avec option de réglage manuel.
+- Lecture de fichiers MP3 depuis des cartes microSD avec capacité de stockage de jusqu'à 64 Go.
+- Formats de lecture audio (USB / microSD) : WAV et MP3.
+- Enceintes : 3" × 2 (centrales) + 1,5" x 1 (tons aigus) + 4" × 1 (subwoofer).
+- Réponse en fréquence : 40 Hz - 18 KHz.
+- Boîtier en bois pour obtenir une meilleure qualité audio.
+- Alimentation : 120 - 240 V / 50 - 60 Hz.
