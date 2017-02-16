@@ -1,7 +1,22 @@
-## Presentación General
+## Présentation générale
 
-El *Energy Tower 3* es un sistema de sonido en torre con reproducción a través de tecnología Bluetooth®, memorias externas (USB o tarjetas SD), entrada Line-in y además cuenta con Radio FM. Se sincroniza facilmente con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo con Bluetooth.
+L'*Energy Tower 3 g2* est un système de son sous forme de tour avec lecture via Bluetooth®, mémoires externes (USB ou cartes microSD), entrées auxiliaires Line-In et RCA, ainsi que Radio FM. 
 
-Para cambiar entre las diferentes funciones, pulsa el botón modo (5), visualizarás en el display la función selecionada. En caso de no haber nada conectado a las entradas USB y SD/MMC, el botón modo (5) conmutará entre el modo Radio FM, Bluetooth, y Line-in (Aux).
+Elle peut être facilement synchronisée avec des tablettes, des smartphones, des ordinateurs portables, MAC, PC et tout autre périphérique Bluetooth.
 
-Cuando conectes algún dispositivo en cualquiera de las conexiones, el *Energy Tower 3* cambiará automáticamente a dicha función. En el caso de tener conectadas alguna o todas las entradas, el botón modo (5) cambiará entre todas las disponibles.
+### Marche et arrêt. Mode veille
+
+Une fois votre Energy Tower 3 g2 branchée à une prise, placez l'interrupteur à l'arrière en position « ON ». À partir de ce moment-là, vous pouvez l'allumer et l'éteindre depuis votre télécommande ou en maintenant appuyée la touche « Lecture - Pause (5) »  sur le panneau supérieur pendant 2 secondes.
+
+Lorsque vous n’utilisez pas la tour pour une longue période de temps, nous conseillons, en plus d'éteindre la tour depuis le panneau supérieur, de mettre l'interrupteur à l'arrière en position «OFF».
+
+### Fonctionnement général de l'appareil
+
+Pour changer la fonction, appuyez sur la touche « Changement de fonction (4) ». Vous verrez ensuite la fonction sélectionnée sur l'écran. S'il n'y a rien connecté aux entrées arrières « USB », « MicroSD », « AUX1 », ou « AUX2 », la touche « Changement de fonction » commutera entre les modes Radio FM, Bluetooth, RCA (AUX1) ou Line-In (AUX2).
+
+Lorsque vous connecterez un périphérique à une entrée, votre *Energy Tower 3 g2* passera à cette fonction de façon automatique. Si une ou plusieurs entrées sont connectées, la touche « Changement de fonction (4) » changera parmi toutes les fonctions disponibles.
+
+### Écran
+
+L'*Energy Tower 3 g2* est équipée d'un écran rétro-éclairé caché (Hidden Display) sur la partie avant supérieure.
+Lors du démarrage de l’appareil, vous verrez le logo d'Energy Sistem#trade# s’allumer sur le panneau supérieur. En outre, le mode activé sur votre *Energy Tower 3 g2* sera affiché sur l’écran principal.
