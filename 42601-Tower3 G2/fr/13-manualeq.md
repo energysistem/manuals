@@ -1,15 +1,15 @@
-## Ecualización del sonido.
+## Égalisation du son
 
-El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
+L'appareil dispose de deux régulateurs à l'arrière pour régler l'égalisation du son :
 
-* Ajuste de Medios/Agudos (Treble).
-* Ajuste de Graves (bass).
+* Réglage de Médium / Aigus (Treble).
+* Réglage des graves (Bass).
 
-También puedes seleccionar 1 de las 5 ecualizaciones predefinidas pulsando el botón (EQ) del mando:
+Vous pouvez également sélectionner 1 des 5 égalisations prédéfinies en appuyant sur le bouton (EQ) de la télécommande :
 
-* EQ 0: Normal.
-* EQ 1: Pop.
-* EQ 2: Rock.
-* EQ 3: Jazz.
-* EQ 4: Classic.
+* EQ 0 : Normal.
+* EQ 1 : Pop.
+* EQ 2 : Rock.
+* EQ 3 : Jazz.
+* EQ 4 : Classic.
 
