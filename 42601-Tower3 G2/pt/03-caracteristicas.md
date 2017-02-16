@@ -17,7 +17,7 @@
 - Modos de equalização predefinidos com a possibilidade de regulá-los manualmente.
 - Reprodução de ficheiros MP3 a partir de cartões microSD até 64 GB.
 - Formatos de leitura de áudio (USB / MicroSD): WAV e MP3.
-- Altifalantes: 3"× 2 (centrais) + 1,5'" x 1 (agudos) + 4"× 1 (subgraves).
+- Altifalantes: 3"× 2 (full range) + 1,5" x 1 (tweeter) + 4"× 1 (subwoofer).
 - Resposta em frequência: 40 Hz - 18 KHz.
 - Corpo de madeira para oferecer uma melhor qualidade de som.
 - Alimentação eléctrica: 120 - 240 V / 50 - 60 Hz.
