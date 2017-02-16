@@ -1,11 +1,11 @@
-## Cuidado y Mantenimiento
+## Soin et entretien
 
-* No expongas tu *Energy Tower 3* a golpes, polvo, humedad o altas temperaturas.
+* Ne pas exposer votre *Energy Tower 3 g2* à des chocs, à la poussière, à l'humidité ou à des températures élevées.
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Ne pas utiliser des produits corrosifs ou abrasifs.
 
-* Mantén el dispositivo limpio y sin polvo; utiliza para ello un paño suave y seco.
+* Gardez votre appareil propre et sans poussière ; utilisez à cette fin un chiffon doux et sec.
 
-* No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Soyntec S.A.
+* Ne pas démonter l'appareil. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
 
-* Asegúrate de mantener tu *Energy Tower 3* apagado cuando no esté en uso.
+* Vérifiez que votre *Energy Tower 3 g2* est éteinte quand elle n'est pas en cours d'utilisation.
