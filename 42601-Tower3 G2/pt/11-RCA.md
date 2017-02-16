@@ -6,7 +6,7 @@ Encontrará a entrada no painel superior com o nome "Aux1". É uma entrada para 
 
 Ligue a extremidade RCA (L e R) do cabo à entrada RCA adicional (áudio estéreo) (L e R, respectivamente) e a outra extremidade com conector jack 3,5 mm à saída de áudio do dispositivo que vai utilizar como por exemplo, um leitor MP3, um computador portátil, um smartphone, etc. 
 
-Prima o botão *Mudar modo (4)* e seleccione o modo "Aux1", o qual pode visualizar no *indicador LED de modo (1)* do painel superior enquanto a *Energy Tower 3 g2* está ligada.
+Prima o botão *Mudar modo (4)* e seleccione o modo "Aux1", o qual pode visualizar no *Ecrã LED (1)* do painel superior enquanto a *Energy Tower 3 g2* está ligada.
 
 O modo de reprodução "Aux1" implica que o modo altifalante está ativo na Energy Tower 3 g2. Desta forma, escutará a música que o dispositivo de áudio (leitor externo) está a reproduzir ou os ajustes de volume, equalização ou faixa na sua *Energy Tower 3 g2*.
 
