@@ -1,19 +1,33 @@
-## Declaración de conformidad
+## Déclaration de conformité
 
-_**Nombre del suministrador:**_ Energy Sistem Soyntec S.A.
-_**Dirección:**_ Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España).
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488
+Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
+Adresse : C/Calpe, 1 - 03509 Finestrat Alicante (Espagne).
+Tél. : +34 902 388 388  / +34 966 813 257
 
+Nous déclarons sous notre seule responsabilité que le produit
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
+Description : Système de son sous forme de tour <br/>
+Marque : Energy Sistem <br/>
+Modèle : Energy Tower 3 g2 <br/>
+Fabricant : Energy Sistem Technology, S.A. <br/>
 
->**Energy Tower 3 Bluetooth**
+Pays de fabrication : Chine <br/>
 
-_**País de fabricación:**_ China<br>
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+visé par cette déclaration est conforme aux normes ou documents normatifs
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo en el producto o en las instrucciones significa que sus aparatos eléctricos y electrónicos deben al final de su vida útil reciclarse por separado de sus residuos domésticos. Existen sistemas de recogida para reciclaje. Para obtener más información, póngase en contacto con la autoridad local o a su distribuidor donde adquirió el producto.|
+EN 60065:2014  <br/>
+EN62311 : 2008  <br/>
+EN301 489-1 V1.9.2 : 2011-09  <br/>
+EN301489-17 V2.2.1 : 2012-09  <br/>
+EN300328V1.9.1 : 2015-02  <br/>
 
+conformément aux dispositions des directives 2014/30/EU et 2014/35/EU du Parlement européen et du Conseil du 9 mars 1999.
 
+Finestrat, 1 février 2017.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Marco Antonio Velázquez Fierro
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
