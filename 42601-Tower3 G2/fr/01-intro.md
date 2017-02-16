@@ -1,7 +1,7 @@
-## Introducción
+## Introduction
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Tower 3*, deseamos que la disfrutes.
+* Energy Sistem vous remercie d'avoir acheté cette *Energy Tower 3 g2*. Nous espérons que vous en profiterez.
+	
+*Profitez de ce système de son 2.1 sous forme de tour qui fournit un son de haute qualité pour diffuser votre musique dans chaque coin de votre maison. Avec 45 W RMS, connexion Bluetooth, Radio FM, et lecture MP3/WAV depuis mémoire USB et cartes SD/SDHC, il s'agit du complément idéal pour votre musique. 
 
-* Disfruta de un audio de alta calidad capaz de inundar cada rincón de tu hogar con este sistema de sonido 2.0 en torre. Con 40W RMS, conexión Bluetooth, Radio FM y reproducción MP3 desde USB y tarjetas SD/SDHC, es un completo complemento para tu música.
-
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+* Nous vous conseillons de lire ce manuel de l'utilisateur pour tirer le meilleur parti de votre produit en toute sécurité et profiter de toutes ses performances.
