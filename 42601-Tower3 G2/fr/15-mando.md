@@ -1,27 +1,28 @@
-## Mando a distancia
+## Télécommande
 
-Mediante el mando a distancia puedes controlar todas las funciones que ofrece el *Energy Tower 3*.
+Vous pouvez contrôler toutes les fonctions de votre *Energy Tower 3 g2* avec la télécommande.
 
-* Apagado y encendido del equipo.
+* Bouton rouge (partie supérieure à gauche) : Allumer et éteindre l'appareil.
 
-* Selección de modo (USB, SD, Line-in, radio FM, Bluetooth®) mediante el botón X.
+* Bouton « MODE » : Appuyez sur le bouton X pour sélectionner le mode (USB, SD, AUX1, AUX2, radio FM, Bluetooth®).
 
-* Función "Mute" para silenciar todos los modos, excepto el modo Bluetooh.
+* Bouton « Mute » (partie supérieure à droite) : pourdésactiver le son de tous les modes, sauf le mode Bluetooth.
 
-* Control de volumen, play/pause, avance y retroceso de pistas/sintonías FM.
+* Boutons pour contrôler le volume (VOL + / VOL -), Lecture - Pause, avancer ou reculer les pistes / stations FM.
 
-* Ecualización (EQ predefinida) para los modos USB y SD.
-    * EQ 0: Normal.
-    * EQ 1: Pop.
-    * EQ 2: Rock.
-    * EQ 3: Jazz.
-    * EQ 4: Classic.
+* Égalisation (EQ prédéfinie) pour les modes USB et SD.
+    * EQ 0 : Normal.
+    * EQ 1 : Pop.
+    * EQ 2 : Rock.
+    * EQ 3 : Jazz.
+    * EQ 4 : Classic.
 
-* Navegación por carpetas para los modos USB y SD.
+* Bouton « BROWSE » : Navigation par dossier pour les modes USB et SD.
 
-* Modos repeat y random.
+* Bouton « RPT » : Mode répétition pour les cartes externes USB / microSD. Changer le mode parmi : « Répéter tous », « Répéter un » et « Aléatoire ».
 
-* Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
+* Sélection du numéro de piste ou stations (modes USB, SD et Radio FM) à l’aide des boutons numériques.
+
 
 
 
