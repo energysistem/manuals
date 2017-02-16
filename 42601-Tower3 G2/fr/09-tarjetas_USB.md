@@ -1,34 +1,16 @@
-## Reproducción desde tarjetas SD y USB
+## Lecture depuis cartes SD et mémoires USB
 
-Para reproducir archivos en formato MP3, inserta una tarjeta de memoria SD/MMC o una memoria externa USB en las ranuras correspondientes, (11) y (13) respectivamente.
+Pour lire des fichiers MP3, insérez une carte microSD ou mémoire externe USB dans les fentes appropriées, (10) et (11) respectivement.
 
-En ese momento el *Energy Tower 3* reproducirá desde la memoria externa insertada automáticamente.
-Visualizarás en el display "USB" ó "SD" según el tipo de memoria que insertes.
+À ce moment-là, votre *Energy Tower 3 g2* effectuera la lecture depuis la mémoire externe insérée de façon automatique.
 
-Si apagas el *Energy Tower 3* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
+Vous verrez sur l'écran le nom « USB » ou « SD » en fonction du type de mémoire que vous insérez.
 
-Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si vous éteignez votre *Energy Tower 3 g2* ou vous retirez une des mémoires, le moment où vous avez arrêté la lecture sera enregistré sur la mémoire interne de l'appareil.
 
-Para navegar entre canciones, utiliza los botones de AVANCE (12) y RETROCESO (2). También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (4).
+Lorsque vous reconnecterez la même mémoire, l'appareil continuera la lecture à partir du moment où vous l'avez arrêtée.
 
-## Modo de reproducción
-
-Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar una de estas 3 opciones:
-
-1) **ALL:**  Se repite todo el contenido de la memoria. 
-
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
-
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
-
-   A continuación se muestra un diagrama del orden de lectura:
-
-   ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
-
-2) **ONE:** Se repite la canción que estás escuchando.
-
-3) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
-
+Pour changer la piste, appuyez sur les touches « Avancer (7) » et « Reculer (6) ». Vous pouvez aussi changer le dossier en appuyant sur la touche « Changement de fonction (4) ».
 
 
 
