@@ -1,8 +1,8 @@
-## Conexión de entrada auxiliar de 3.5mm (AUX 2)
+## Conexión de entrada auxiliar de 3,5 mm (AUX 2)
 
-Tu *Energy Tower 3 g2* cuenta con una conexión de 'entrada auxiliar de 3.5 mm (9)', en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
+Tu *Energy Tower 3 g2* cuenta con una conexión de 'entrada auxiliar de 3,5 mm (9)', en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
-Para usar la reproducción "line-in", conecta un extermo del cable de audio suministrado en la 'entrada auxiliar de 3,5 mm (9)', y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. En el momento que se conecte el cable a la 'entrada auxiliar de 3,5 mm (9)', el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la pantalla LED '(1)' del panel superior.
+Para usar la reproducción "line-in", conecta un extermo del cable de audio suministrado en la 'entrada auxiliar de 3,5 mm (9)', y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. En el momento que se conecte el cable a la 'entrada auxiliar de 3,5 mm (9)', el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la 'Pantalla LED (1)' del panel superior.
 
 En el modo de reproducción "Line-in", el *Energy Tower 3 g2* se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen o ecualización, se escucharán en el *Energy Tower 3 g2*.
 
