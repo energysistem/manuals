@@ -25,7 +25,7 @@ está em conformidade com as normas e padrões essenciais da Diretiva 2014/30/EU
 
 Finestrat, 01 de Fevereiro de 2017.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
 Marco Antonio Velázquez Fierro
 Product Management Director
