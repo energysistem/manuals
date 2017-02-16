@@ -6,7 +6,7 @@ Tel.: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Descrição: Coluna de som 2.1 <br/>
+Descrição: Coluna de som <br/>
 Marca: Energy Sistem <br/>
 Modelo: Energy Tower 3 g2 <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
