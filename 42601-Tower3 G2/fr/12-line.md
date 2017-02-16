@@ -1,5 +1,11 @@
-## Entrada de Línea
+## Connexion de l'entrée auxiliaire de 3,5 mm (AUX 2)
 
-Para usar la reproducción "line-in", conecta un extermo del cable de audio suministrado en la entrada de línea (10), y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. En el momento que se conecte el cable a la línea de entrada (10), el modo "Line-in" se activará automáticamente y visualizarás "AUX" en el display.
+Votre *Energy Tower 3 g2* dispose d'une « entrée auxiliaire de 3,5 mm (9) » qui vous permet de connecter votre lecteur via un câble audio jack de 3,5 mm.
 
-En el modo de reproducción "Line-in", el *Energy Tower 3* se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen o ecualización, se escucharán en el *Energy Tower 3*.
+Pour activer la lecture « Line-In » connectez une extrémité du câble audio fourni à l'entrée auxiliaire de 3,5 mm (9), etl'autre extrémité à la sortie de l'appareil audio, tel qu'un lecteur MP3, un ordinateur portable, un smartphone, etc. Lorsque le câble sera connecté à l'entrée auxiliaire de 3,5 mm (9), le mode « Line-In » sera automatiquement activé et vous verrez le nom « AUX 2 » sur l'écran.
+
+Lorsque vous êtes en mode de lecture « Line-In », votre *Energy Tower 3 g2* est en mode haut-parleur, de sorte que ce qui est lu sur le périphérique audio (lecteur externe) ou les réglages concernant le volume ou l'égalisation, seront également sur votre *Energy Tower 3 g2*.
+
+Pour lancer, arrêter ou reprendre la lecture, appuyez sur la touche « Lecture - Pause (5) ».
+
+Rappelez-vous que, lorsque vous serez en mode entrée auxiliaire, vous ne pourrez pas utiliser les touches « Avancer (7) » et « Reculer (6) » pour changer la chanson. Vous devrez le faire depuis votre appareil audio (lecteur externe) connecté.
