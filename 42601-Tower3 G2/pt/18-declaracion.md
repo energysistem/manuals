@@ -21,7 +21,7 @@ EN301 489-1 V1.9.2 : 2011-09  <br/>
 EN301489-17 V2.2.1 : 2012-09  <br/>
 EN300328V1.9.1 : 2015-02  <br/>
 
-Está em conformidade com as normas e padrões essenciais da Diretiva 2014/30/EU e 2014/35/EU do Parlamento Europeu e do Conselho de 09 de março de 1999
+está em conformidade com as normas e padrões essenciais da Diretiva 2014/30/EU e 2014/35/EU do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
 Finestrat, 01 de Fevereiro de 2017.
 
