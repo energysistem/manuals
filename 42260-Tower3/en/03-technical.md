@@ -3,7 +3,7 @@
 - 2.0 tower sound system .
 - Wireless connectivity: Bluetooth® v4.0 + EDR.
 - Bluetooth protocols: A2DP; AVRCP.
-- RMS power: 40 W (15W + 5W * 2 * 2).
+- Out power: 40 W (15W + 5W * 2 * 2).
 - Range of use: up to 10m.
 - Compatible with USB pendrives and SD/SDHC/MMC cards  up to 32 GB of capacity.
 - FM Radio.
