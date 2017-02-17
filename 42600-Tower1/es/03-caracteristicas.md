@@ -2,7 +2,7 @@
 
 ### Características generales
 
-- Sistema de sonido estéreo con potencia de 30W.
+- Sistema de sonido con potencia de 30W.
 - Conectividad sin cables: Bluetooth V.4.1 Clase II.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
