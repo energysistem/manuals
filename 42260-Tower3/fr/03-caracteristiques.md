@@ -4,7 +4,7 @@
 - Connectivité sans fil: Bluetooth v4.0 + EDR. 
 - Distance d'utilisation avec des périphériques Bluetooth® jusqu'à 10 mètres. 
 - Protocoles Bluetooth® A2DP; AVRCP. 
-- Puissance: 30 W (10W *2 + 5W *2). 
+- Puissance: 40 W. 
 - Lecture de USB et des cartes SD/SDHC/MMC avec une capacité de jusqu'à 32 Go. 
 - Radio FM. 
 - Connexion à des appareils audio à travers câble jack de 3,5 mm (inclus). 
