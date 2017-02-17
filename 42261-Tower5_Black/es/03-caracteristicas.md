@@ -6,7 +6,7 @@
 - Conectividad sin cables: Bluetooth® v4.0 + EDR.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
-- Potencia RMS: 60 W (30W + 10W x 2 + 5W x 2).
+- Potencia: 60 W (30W + 10W x 2 + 5W x 2).
 - Radio FM.
 - Rango de frecuencia (FM): 87,5-108MHz
 - Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
