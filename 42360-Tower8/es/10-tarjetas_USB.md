@@ -30,7 +30,7 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
 3) **FOLD:** Se repite el contenido de la carpeta que estás escuchando.
 
-4) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
+4) **RAND:** Reproducción aleatoria de todo el contenido de la memoria
 
 
 
