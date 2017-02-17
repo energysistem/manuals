@@ -4,7 +4,7 @@
 - Conectividad sin cables: Bluetooth® v4.0 + EDR.
 - Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
 - Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia RMS: 40 W (15W * 2 + 5W *2).
+- Potencia: 40 W (15W * 2 + 5W *2).
 - Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
 - Radio FM.
 - Rango de frecuencia (FM): 87,5-108MHz
