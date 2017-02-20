@@ -1,15 +1,11 @@
-## Funcionamiento de la garantía
+## Warranty procedure
 
-Entre en http://www.energysistem.com/es/support y tras seleccionar su producto podrá encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Please visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, quick guide, drivers and updates available, submit a query to Technical Support Service or manage the warranty.
 
-Puedes consultar la disponibilidad del manual en tu idioma en http://www.energysistem.com/es-es/support/manuals
-También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (Teléfono de soporte técnico válido solo para España). Antes de efectuar la llamada telefónica ten a mano el Ticket o Factura de compra y el número de serie del producto.
-Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando tu Factura o Ticket de compra.
+You can check the availability of the user manual in your language at https://www.energysistem.com/en/support
+You can also contact the distributor that sold the product by presenting the purchase receipt or invoice.
+Important: This warranty does not cover any damage or loss of data stored in warranty products. Therefore, Technical Support of Energy Sistem Technology, S.A. will not assume any loss of the above mentioned information. In this respect it is recommended that you make a backup of your data and remove any personal data from the product's built-in memory before you send it or send the device with the original data only.
 
-Importante: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto el servicio técnico de Energy Sistem Soyntec S.A. no se vera en la obligación de respaldar dicha información por lo que es recomendable entregar el equipo sin información en la memoria del mismo, o con la información original de fabrica.
-Las especificaciones están sujetas a cambios sin previo aviso.
-*Marcas comerciales* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+Specifications are subject to change without notice.*Trademarks* All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-©2015 por Energy Sistem®. Todos los derechos reservados.
-
-
+©2017 by Energy Sistem®. All rights reserved.
