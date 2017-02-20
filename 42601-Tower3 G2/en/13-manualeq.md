@@ -1,15 +1,14 @@
-## Ecualización del sonido.
+## Sound equalizer
 
-El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
+This device has two controllers at the back to adjust equalization:
 
-* Ajuste de Medios/Agudos (Treble).
-* Ajuste de Graves (bass).
+* Adjust Mid/Treble.
+* Adjust Bass.
 
-También puedes seleccionar 1 de las 5 ecualizaciones predefinidas pulsando el botón (EQ) del mando:
+You can also select 1 of the 5 preset equalizers by pressing the (EQ) button on the remote control:
 
 * EQ 0: Normal.
 * EQ 1: Pop.
 * EQ 2: Rock.
 * EQ 3: Jazz.
 * EQ 4: Classic.
-
