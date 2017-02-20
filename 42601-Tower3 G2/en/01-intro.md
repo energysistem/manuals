@@ -1,7 +1,8 @@
-## Introducción
+## Introduction
 
-* Energy Sistem te agradece que hayas adquirido esta *Energy Tower 3*, deseamos que la disfrutes.
+* Energy Sistem would like to thank you for your trust and for buying this *Energy Tower 3 g2*. We hope you enjoy it.
 
-* Disfruta de un audio de alta calidad capaz de inundar cada rincón de tu hogar con este sistema de sonido 2.0 en torre. Con 40W RMS, conexión Bluetooth, Radio FM y reproducción MP3 desde USB y tarjetas SD/SDHC, es un completo complemento para tu música.
+* 2.1 tower system to enjoy high quality sound that will fill every corner of your home with music. This tower will become the best partner of your music thanks to its 45 W output power, Bluetooth connection, FM Radio, and MP3/WAV playback from USB units and SD/SDHC cards.
 
-* Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura y aprovechando todas sus prestaciones.
+* We recommend you to read this manual in order to enjoy your device safely and with maximum performance.
+
