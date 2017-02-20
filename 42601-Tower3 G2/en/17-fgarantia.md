@@ -1,35 +1,10 @@
-## Declaration of conformity
+## Warranty procedure
 
-Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
-Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
-Tel: + 34 902 388 388 / + 34 966 813 257
+Please visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, quick guide, drivers and updates available, submit a query to Technical Support Service or manage the warranty.
+You can check the availability of the user manual in your language at https://www.energysistem.com/en/support
+You can also contact the distributor that sold the product by presenting the purchase receipt or invoice.
+Important: This warranty does not cover any damage or loss of data stored in warranty products. Therefore, Technical Support of Energy Sistem Technology, S.A. will not assume any loss of the above mentioned information. In this respect it is recommended that you make a backup of your data and remove any personal data from the product's built-in memory before you send it or send the device with the original data only.
+Specifications are subject to change without notice.
+*Trademarks* All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-We declare under our own exclusive responsibility that the product
-
-Description: Sound tower <br/>
-Brand: Energy Sistem <br/>
-Model: Energy Tower 3 g2 <br/>
-Manufacturer: Energy Sistem Technology, S.A. <br/>
-
-Manufacturing Country: China <br/>
-
-referred to in this declaration is in compliance with the essential norms and standards
-
-EN 60065:2014  <br/>
-EN62311 : 2008  <br/>
-EN301 489-1 V1.9.2 : 2011-09  <br/>
-EN301489-17 V2.2.1 : 2012-09  <br/>
-EN300328V1.9.1 : 2015-02  <br/>
-
-in conformity with the essential norms and standards of the Directives 2014/30/EU and 2014/35/EU of the European Parliament and the Council of 9th March
-1999.
-
-Finestrat, 01st February 2017
-
-![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
-
-Marco Antonio Velázquez Fierro
-Product Management Director
-
-![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-
+©2017 by Energy Sistem®. All rights reserved.
