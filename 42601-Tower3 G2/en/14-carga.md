@@ -7,5 +7,6 @@ Your *Energy Tower 3 g2* includes two "DC OUT" (8) to connect an USB cable and c
 - Voltage = 5V
 - Current = 2A
 
-*Note:* Any device that requires more than 5 V voltage cannot be charged.
+Any device that requires more than 5 V voltage cannot be charged.
 
+*Note:* Keep a distance between the FM antenna and the charging cable to prevent interferences while charging devices and using the radio mode.
