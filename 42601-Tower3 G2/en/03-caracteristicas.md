@@ -20,4 +20,4 @@
 - Speakers: 3" x 2 (main speakers) + 1.5" x 1 (tweeters) + 4" x 1 (subwoofer).
 - Frequency response: 40 Hz - 18 KHz.
 - Wooden cabinet for better sound quality.
-- Power supply: - 120 - 240 V / 50 - 60 Hz.
+- Power supply: 120 - 240 V / 50 - 60 Hz.
