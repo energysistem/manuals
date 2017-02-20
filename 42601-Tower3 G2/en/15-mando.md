@@ -11,11 +11,11 @@ You can select all functions of your *Energy Tower 3 g2* using its remote contro
 * Buttons to control Volume, Play - Pause, Next and Previous songs/FM stations.
 
 * Equalization (preset EQ) for USB and SD modes.
-* EQ 0: Normal.
-* EQ 1: Pop.
-* EQ 2: Rock.
-* EQ 3: Jazz.
-* EQ 4: Classic.
+    * EQ 0: Normal.
+    * EQ 1: Pop.
+    * EQ 2: Rock.
+    * EQ 3: Jazz.
+    * EQ 4: Classic.
 
 * 'BROWSE' button: Browse through your folders in USB and SD modes.
 
