@@ -1,12 +1,9 @@
-## Sincronización Bluetooth
+## Bluetooth pairing
 
-Pulsando el botón modo (5) selecciona el modo Bluetooth, aparecerá en el display las letras "bt".
-En ese momento puedes realizar la sincronización con tu dispositivo Bluetooth.
+In order to pair any Bluetooth device to your *Energy Tower 3 g2*, you must activate Bluetooth mode first. To do so, press the 'Change mode (4)' button and the letters "bt" will appear on the LED screen (1). At this point you can start the pairing process.
 
-Cuando tengas visualizado en tu dispositivo Bluetooth el nombre de "Energy Tower 3" solamente selecciona conectar y tras esperar unos segundos la conexión está finalizada.
+Press "connect" when you see "Energy Tower 3 g2" on your Bluetooth device screen. The devices will be connected immediately. You will hear a sound that confirms that both devices have been paired correctly.
 
-En el momento en el que se establece la conexión ya puedes comenzar con la reproducción inalámbrica de toda tu lista de música.
+If you want to pair your tower to another Bluetooth device, press and hold the 'Change mode (4)' button for 2 seconds in order to carry out a new search.
 
-Si deseas quitar la sincronización actual y sincronizar cualquier otro dispositivo, tienes que presionar el botón browse (4) durante 2 segundos y comenzará una nueva búsqueda, ó también puedes salir del modo Bluetooth y volver a entrar con el botón (5).
-
-Además, el *Energy Tower 3* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) y AVRCP (Audio Video Remote Control Profile) para escuchar tu música en estéreo y controlar la reproducción respectivamente.
+Plus, your *Energy Tower 3 g2* features both Bluetooth A2DP (Advanced Audio Distribution Profile) and AVRCP (Audio Video Remote Control Profile) profiles. The former will let you listen to your music in stereo mode and the latter will allow you to control playback.
