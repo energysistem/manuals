@@ -1,31 +1,27 @@
-## Mando a distancia
+## Remote control
 
-Mediante el mando a distancia puedes controlar todas las funciones que ofrece el *Energy Tower 3*.
+You can select all functions of your *Energy Tower 3 g2* using its remote control.
 
-* Apagado y encendido del equipo.
+* Red button (top left): Turn the device on and off.
 
-* Selección de modo (USB, SD, Line-in, radio FM, Bluetooth®) mediante el botón X.
+* 'MODE' button: Change mode (USB, SD, AUX1, AUX2, FM radio, Bluetooth®) through the X button.
 
-* Función "Mute" para silenciar todos los modos, excepto el modo Bluetooh.
+* "Mute" button (top right): mute all modes, except Bluetooth mode.
 
-* Control de volumen, play/pause, avance y retroceso de pistas/sintonías FM.
+* Buttons to control Volume, Play - Pause, Next and Previous songs/FM stations.
 
-* Ecualización (EQ predefinida) para los modos USB y SD.
-    * EQ 0: Normal.
-    * EQ 1: Pop.
-    * EQ 2: Rock.
-    * EQ 3: Jazz.
-    * EQ 4: Classic.
+* Equalization (preset EQ) for USB and SD modes.
+* EQ 0: Normal.
+* EQ 1: Pop.
+* EQ 2: Rock.
+* EQ 3: Jazz.
+* EQ 4: Classic.
 
-* Navegación por carpetas para los modos USB y SD.
+* 'BROWSE' button: Browse through your folders in USB and SD modes.
 
-* Modos repeat y random.
+* 'RPT' button: Repeat modes for external USB units/microSD cards. Change between these modes: “repeat all”, “repeat one” or “random”.
 
-* Selección del número de canción o sintonía mediante los botones numéricos (modos USB, SD y radio FM).
-
-
-
-
+* Number buttons to select a song or station number (USB, SD and FM radio modes).
 
 
 
