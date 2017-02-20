@@ -1,8 +1,8 @@
-## Radio FM
+## FM radio
 
-Para utilizar esta función es necesario sintonizar los canales, los cuales quedarán almacenados para su posterior selección. No es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la sintonía de la emisora deseada.
+Before using the FM radio function, you have to tune in the radio stations. This way, they will be saved to the built-in memory and you will be able to select them later. It is not necessary to repeat this search unless you change location or  radio stations.
 
-Para realizar dicha sintonización debes mantener pulsado el botón modo (5) cuando el dispositivo esté en modo Radio FM.
-Esto almacenará todas las emisoras encontradas en la memoria interna del dispositivo. Esta operación puede tardar unos minutos.
+Keep the 'Change mode (4)' button pressed while the device is in FM radio mode to tune in the radio stations.
+All radio stations detected will be saved to the built-in memory of your device. The process can take a few minutes.
 
-Después, para seleccionar entre las distintas emisoras, tan solo pulsa los botones Avance (13) y Retroceso (2), e irán cambiando las cadenas que se han almacenado en la memoria interna. Para seleccionar manualmente una emisora mantén pulsado los botones Avance (13) y Retroceso (2).
+In order to select one stations form the ones stored in the built-in memory, you just have to press the 'Next (7)' and 'Back (6)' buttons. Keep the 'Next (7)' and 'Back (6)' buttons pressed to select a radio station manually.
