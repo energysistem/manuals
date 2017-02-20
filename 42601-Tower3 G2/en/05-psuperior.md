@@ -1,6 +1,4 @@
-## Parte superior
+## Top panel
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42260/5491bbd167090.jpg)| 1. Play / Pause <br>2. < / << <br>3. Volumen -<br>4. Cambio de carpeta<br>5. Modo<br>6. Random<br>7. Ranura para dispositivos<br>8. Puertos USB de carga<br>9. Volumen +<br>10. Line-in<br>11. Ranura para tarjeta SD<br>12. \> / >><br>13. Entrada USB<br>14. Display principal |
-
-
+|![Schema](xxxxxxxxxx)| 1. LED screen <br> 2. Volume –<br>3. Volume + <br> 7. Change mode <br>5. Play - Pause <br>6. Back <br> 7. Next <br> 8. RCA audio-in (AUX)<br>9. 3.5 mm Audio-In (AUX)<br>10. MicroSD card slot<br>11. USB port to play music from external devices<br>12 USB charging port<br>
