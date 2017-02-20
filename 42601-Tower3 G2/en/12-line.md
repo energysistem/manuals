@@ -1,5 +1,11 @@
-## Entrada de Línea
+## 3.5 mm Audio-In (AUX1)
 
-Para usar la reproducción "line-in", conecta un extermo del cable de audio suministrado en la entrada de línea (10), y en el otro extremo la salida del dispositivo de audio, como un reproductor MP3, un ordenador portátil, un smartphone, etc. En el momento que se conecte el cable a la línea de entrada (10), el modo "Line-in" se activará automáticamente y visualizarás "AUX" en el display.
+Your *Energy Tower 3 g2* features a '3.5 mm Audio-In (AUX) (9)' which allows you to connect your music player using a 3.5 mm jack audio cable.
 
-En el modo de reproducción "Line-in", el *Energy Tower 3* se encuentra en modo altavoz, de tal forma que lo que se reproduzca en el dispositivo de audio (reproductor externo) o las modificaciones que se realicen de volumen o ecualización, se escucharán en el *Energy Tower 3*.
+To use the "Line-In" function, connect one end of the provided audio cable to the '3.5 mm Audio-In (9)' and the other end to the device audio-out (Mp3 player, laptop, smartphone, etc.). Once you connect the cable to the '3.5 mm Audio-In (9)', the "Line-in" mode will be automatically enabled and "AUX2" will be displayed on the screen.
+
+When the "Line-in" playback mode is enabled, your *Energy Tower 3 g2* is in speaker mode. This means that the content played by your audio device (external player) as well as volume, equalizer or track changes will be heard through the *Energy Tower 3 g2*.
+
+To start, pause or resume playback use the 'Play - Pause (5)' button.
+
+Keep in mind that you will not be able to change the song with the 'Next (7)' and 'Back (6)' buttons while the auxiliary audio-in is in use. Instead, you must do it through the audio device (external player) connected.
