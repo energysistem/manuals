@@ -1,23 +1,23 @@
-## Características
+## Features
 
-- Sistema de sonido 2.0 en torre.
-- Conectividad sin cables: Bluetooth® v4.0 + EDR.
-- Distancia de uso con dispositivos Bluetooth®  hasta 10 metros.
-- Protocolos Bluetooth®: A2DP ; AVRCP.
-- Potencia RMS: 40 W (15W * 2 + 5W *2).
-- Lectura de dispositivos USB y tarjetas  SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Radio FM.
-- Rango de frecuencia (FM): 87,5-108MHz
-- Conexión a dispositivos de audio mediante cable con jack de 3,5 mm (incluido).
-- Salidas USB para cargar dispositivos externos. Corriente de salida: 5V, 2A.
-- Display LED retroiluminado.
-- Soporte para tablets y smartphones en la parte superior.
-- Panel superior con 8 botones para un uso más intuitivo de todas las funciones.
-- Mando a distancia con control total de funciones.
-- Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Formatos de reproducción de audio (USB / SD) : WAV y MP3.
-- Altavoces: 4"×2 (centrales) + 1,5''x 2 (twitters).
-- Respuesta en frecuencia: 20Hz-20KHz
-- Cuerpo de madera para una mejor calidad de sonido.
-- Alimentación: 120-240 V / 50-60 Hz.
+- Tower with 2.1 sound system.
+- Wireless connectivity: Bluetooth® v4.1.
+- Up to 10 metres range when using Bluetooth® devices.
+- Bluetooth profiles®: A2DP; AVRCP.
+- Power: 45 W (10 W * 2 + 20 W + 5 W).
+- Music playback from USB units and microSD cards (up to 64 GB). 
+## FM radio
+- Frequency range (FM): 87.5 – 108 MHz.
+- 3.5 mm jack cable to connect audio devices.
+- USB charging ports to charge external devices: Output power: 5 V, 2 A.
+- LED backlit screen.
+- Holder for tablets and smartphones on top part. 
+- Top panel consisting of 6 buttons for user-friendly functions.
+- Remote control to select all  functions.
+- Preset EQ modes with manual adjustments.
+- Play MP3 files from microSD cards (up to 64 GB).
+- Audio formats (USB / SD): WAV and MP3.
+- Speakers: 3" x 2 (main speakers) + 1.5" x 1 (tweeters) + 4" x 1 (subwoofer).
+- Frequency response: 40 Hz - 18 KHz.
+- Wooden cabinet for better sound quality.
+- Power supply: - 120 - 240 V / 50 - 60 Hz.
