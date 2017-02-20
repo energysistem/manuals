@@ -1,35 +1,33 @@
-## Reproducción desde tarjetas SD y USB
+## SD and USB playback
 
-Para reproducir archivos en formato MP3, inserta una tarjeta de memoria SD/MMC o una memoria externa USB en las ranuras correspondientes, (11) y (13) respectivamente.
+In order to play MP3 files, insert a microSD card or an external USB unit in the corresponding slots, (10) and (11) respectively.
 
-En ese momento el *Energy Tower 3* reproducirá desde la memoria externa insertada automáticamente.
-Visualizarás en el display "USB" ó "SD" según el tipo de memoria que insertes.
+At this point, the *Energy Tower 3 g2* will automatically play the contents from the inserted external memory.
 
-Si apagas el *Energy Tower 3* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
+Depending on the type of memory you are using, the words "USB" or "SD" will appear on screen.
 
-Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+If you turn off your *Energy Tower 3 g2* or remove any external memory, the built-in memory will save the moment when you paused playback.
 
-Para navegar entre canciones, utiliza los botones de AVANCE (12) y RETROCESO (2). También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (4).
+When you insert again the same external memory, playback will resume at the same moment you paused it.
 
-## Modo de reproducción
+To move to the previous or the following song, press the 'Next (7)' and 'Back (6)' buttons. Press the 'Change mode (4)' button to browse through folders.
 
-Pulsando el botón MODO DE REPRODUCCIÓN (6) puedes seleccionar una de estas 3 opciones:
+## Playback mode
 
-1) **ALL:**  Se repite todo el contenido de la memoria. 
+Keep the 'Change mode (4)' button pressed for 2 seconds or press the 'RPT' button on your remote control to select between these 3 options:
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
+1) **ALL:** All contents of your external memories will be repeated. 
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+The folders of your external memories will be read in chronological order and the songs included in your folders will be read in alphabetical order.
 
-   A continuación se muestra un diagrama del orden de lectura:
+For example: if you copy two music folders to an external memory, namely "A" and "B", and you first copy folder "B" and then folder "A", your device will play the first song in alphabetical order contained in folder "B" in the first place.
+   Here you have a diagram of the reading order:
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** Se repite la canción que estás escuchando.
+2) **ONE:**  The song you are listening to will be repeated.
 
-3) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
-
-
+3) **RAND:** Random playback of all the contents of your external memory.
 
 
 
