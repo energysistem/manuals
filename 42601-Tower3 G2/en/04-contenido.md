@@ -1,6 +1,6 @@
-## Contenido del producto
+## Product content
 
-- Energy Tower 3.
-- Mando a distancia.
-- Cable de audio (3,5mm).
-- Guía Rápida.
+- Energy Tower 3 g2
+- Remote control
+- Audio cable (3.5 mm)
+- Quick guide
