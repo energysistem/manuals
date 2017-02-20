@@ -1,12 +1,11 @@
-## Carga de Dispositivos
+## Charging devices
 
-El *Energy Tower 3* dispone de dos salidas "DC OUT" (8) para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+Your *Energy Tower 3 g2* includes two "DC OUT" (8) to connect an USB cable and charge other devices such as smartphones, tablets or MP3 players, even if you playing music from any of them.
 
-Especificaciones salida "DC OUT": <br>
+"DC OUT" technical specifications:  <br/>
 
-Tensión= 5V <br>
-Intensidad= 2A
+- Voltage = 5V
+- Current = 2A
 
-Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
+*Note:* Any device that requires more than 5 V voltage cannot be charged.
 
-*Nota:* Para evitar interferencias en modo radio durante la carga de dispositivos mantén separada la antena FM del cable de carga.
