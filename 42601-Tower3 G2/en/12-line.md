@@ -1,4 +1,4 @@
-## 3.5 mm audio-in (AUX1)
+## 3.5 mm audio-in (AUX 2)
 
 Your *Energy Tower 3 g2* features a '3.5 mm Audio-In (AUX) (9)' which allows you to connect your music player using a 3.5 mm jack audio cable.
 
