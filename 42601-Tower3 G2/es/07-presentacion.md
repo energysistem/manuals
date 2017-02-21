@@ -6,13 +6,8 @@ Una vez enchufada tu Energy Tower 3 g2 a la toma de corriente, coloca el interru
 
 Te recomendamos que cuando no vayas a utilizar la torre durante un periodo más largo de tiempo, además de apagar la torre desde el panel superior, pongas el interruptor trasero en la posición "OFF".
 
-### Funcionamiento general del dispositivo
+### Modos de reproducción
 
 Para cambiar entre las diferentes funciones pulsa el botón 'Cambio de función (4)', visualizarás en la pantalla LED frontal la función selecionada. En caso de no haber nada conectado a las entradas traseras 'USB', 'MicroSD', 'AUX 1' o 'AUX2' , el botón 'cambio de función (4)' conmutará entre los modos Radio FM, Bluetooth, RCA (AUX1) o Line-in (AUX2).
 
 Cuando conectes algún dispositivo en cualquiera de las conexiones, tu *Energy Tower 3 g2* cambiará automáticamente a dicha función. En el caso de tener conectadas alguna o todas las entradas, el botón 'cambio de función (4)' cambiará entre todas las disponibles.
-
-### Display
-
-El *Energy Tower 3 g2* está dotado de un display retroiluminado oculto (Hidden Display) en la parte frontal superior.
-Cuando se enciende el dispositivo puedes ver cómo se ilumina el logo Energy Sistem#trade# en el panel superior. Además, en el display principal verás el modo en el que se encuentra el *Energy Tower 3 g2*.
