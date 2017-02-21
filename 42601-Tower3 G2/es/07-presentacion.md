@@ -1,8 +1,4 @@
-## Presentación
-
-El *Energy Tower 3 g2* es un sistema de sonido en torre con reproducción a través de tecnología Bluetooth®, memorias externas (USB o tarjetas MicroSD), entradas auxiliares Line-in y RCA, así como Radio FM. 
-
-Se sincroniza facilmente con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo con Bluetooth.
+## Funciones principales
 
 ### Encendido y apagado. Modo stand-by
 
