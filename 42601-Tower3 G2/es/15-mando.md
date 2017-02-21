@@ -4,7 +4,7 @@ Mediante el mando a distancia puedes controlar todas las funciones que ofrece el
 
 * Botón rojo (parte superior izquierda): Apagado y encendido del equipo.
 
-* Botón "MODE": Selección de modo (USB, SD, AUX1, AUX2 radio FM, Bluetooth®) mediante el botón X.
+* Botón "MODE": Selección de modo (USB, SD, AUX1, AUX2 radio FM, Bluetooth®).
 
 * Botón "Mute" (parte superior derecha):  para silenciar todos los modos, excepto el modo Bluetooh.
 
