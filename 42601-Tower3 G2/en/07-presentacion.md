@@ -13,7 +13,7 @@ If you are not going to use the tower for a long period of time, we recommend, n
 
 In order to select different functions, press 'Change mode (4)'. You will be able to see the selected function on the front LED screen. If you are not using the rear 'USB' 'MicroSD' 'AUX1' or 'AUX2' inputs, the 'Change mode (4)' button will change between FM Radio, Bluetooth, RCA (AUX1) or Line-IN (AUX2).
 
-In case that you connect a device to any of these inputs, the *Energy Tower 3 g2* will change automatically to that function. If one or all inputs are being used, the 'Change mode (4)' button will change between all the available functions.
+In case that you connect a device to any of these inputs, the *Energy Tower 3 g2* will change automatically to that function. If one or all inputs are being used, the 'Change mode (4)' button will let you change between all the available functions.
 
 ### Screen
 
