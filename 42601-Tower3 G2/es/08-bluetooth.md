@@ -6,4 +6,3 @@ Cuando visualices en tu dispositivo Bluetooth el nombre “Energy Tower 3 g2”,
 
 Si deseas emparejar otro dispositivo Bluetooth, mantén pulsado el botón 'Cambio de función (4)' durante 2 segundos para realizar una nueva búsqueda.
 
-Tu *Energy Tower 3 g2* incluye los perfiles Bluetooth A2DP (Advanced Audio Distribution Profile) y AVRCP (Audio Video Remote Control Profile) para escuchar tu música en estéreo y controlar la reproducción respectivamente.
