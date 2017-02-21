@@ -3,7 +3,7 @@
 El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
 
 * Ajuste de Medios/Agudos (Treble).
-* Ajuste de Graves (bass).
+* Ajuste de Graves (Bass).
 
 También puedes seleccionar 1 de las 5 ecualizaciones predefinidas pulsando el botón (EQ) del mando:
 
