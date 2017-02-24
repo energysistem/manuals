@@ -1,6 +1,5 @@
 <quick_guide> 
-
-##Contenido del producto
+## Contenido del producto
 
 * Energy Tablet Max 3
 * Guía rápida
