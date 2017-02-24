@@ -21,7 +21,7 @@ MEMORIA
 
 CONECTIVIDAD
 * Wi-Fi 802.11 b/g/n
-* Bluetooth 4.0
+* Bluetooth 4.1
 
 CONEXIONES
 * Conexión microUSB con función OTG
