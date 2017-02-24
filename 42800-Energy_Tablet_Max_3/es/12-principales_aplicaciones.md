@@ -1,3 +1,25 @@
+## Principales aplicaciones
+
+### Navegador de Internet
+
+Tu nueva tablet dispone del navegador web de Google entre la lista de aplicaciones instaladas por defecto, con el que podrás navegar por Internet de una forma rápida y sencilla. Una vez el dispositivo esté conectado a Internet, pulsa sobre el icono de Chrome situado en el escritorio o en el menú de aplicaciones para iniciar el navegador.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf874e3b05.jpg)
+
+1. Retroceder
+2. Avanzar
+3. Recargar
+4. Cerrar pestaña
+5. Crear pestaña
+6. Búsqueda en Google o dirección web
+7. Añadir a marcadores
+8. Búsqueda por voz
+9. Menú de opciones
+
+### Gestión de Email
+
+Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
+
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf88c8069c.jpg)
 
 1. Carpetas y cuentas
