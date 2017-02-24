@@ -8,4 +8,4 @@ El sistema dispone de una pantalla multi-táctil capacitiva de 9" (1024x600 píx
 aprovechando al máximo sus prestaciones.
 
 
-## <unique> Encuentra el manual completo de tu *Energy Tablet Neo 9 * en el siguiente enlace  http://www.energysistem.com/guide/39935 </unique> </quick_guide>
+### <unique> Encuentra el manual completo de tu *Energy Tablet Neo 9 * en el siguiente enlace  http://www.energysistem.com/guide/39935 </unique> </quick_guide>
