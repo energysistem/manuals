@@ -1,54 +1,30 @@
-## Características
+## Características técnicas
 
-### Características generales
-
-- Transfer and enjoy your music through the wireless Bluetooth® technology.
-- Total compatibility with smartphones and tablets iOS, Android™, Windows Mobile, BlackBerry, etc.
-- MP3 Music Radio System.
-- Freedom of sound: Listen and share your music anywhere.
-- 2.1 loudspeakers with subwoofer: Clear sound and rich bass.
-- Handsfree function for you conference calls.
-- Total output power (RMS): 12 W.
-- View all the functions thanks to the backlit "Hidden Display".
-- Plays MP3/WAV files from MMC/SD/SDHC/SDXC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
-- Portable and compact design, allows you to take it anywhere and amplify your music.
-- FM radio function: listen your favourite radio programs and share them with your people.
-- 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
-- Bluetooth® handsfree function.
-- Rechargeable lithium battery up to 20 hours duration.*
-- USB port battery charger.
-<br/><br/>
-*The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
-
-### Características técnicas
-
-- Bidirectional Bluetooth®.
-- 3.0 version, class II.
-- Supports A2DP and AVRCP profiles.
-- Easy sync with tablets, smartphones, Laptops, Mac, PC any other devices with Bluetooth®.
-- Plays MP3/WAV files from SD/SDHC/MMC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
-- 2.1 loudspeakers with subwoofer.
-- Total output power (RMS): 12 W.
-- Frequency response: 60 Hz ~ 20 KHz.
-- S/N ratio: >80 dB.
-- FM radio function.
-- Built-in microphone (handsfree function).
-- Backlit display.
-- 3.5 mm "Audio-In" port.
-- Rechargeable lithium battery.
-- USB battery charger.
-- Headphones output.
-- Up to 10 meter range.
+- Bluetooth® bidireccional.
+- Versión 4.0, clase II.
+- Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
+- Reproduce archivos MP3/WAV desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
+- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
+- Altavoces 2.1 con subwoofer.
+- Potencia de salida total: 12 W.
+- Respuesta en frecuencia: 60 Hz ~ 20 KHz.
+- Relación señal/ruido: >80 dB.
+- Función radio FM.
+- Micrófono integrado (función manos libres).
+- Display retroiluminado.
+- Entrada "Audio-In" de 3.5 mm.
+- Batería de litio recargable.
+- Cargador de batería USB.
+- Salida para auriculares.
+- Distancia de uso hasta 10m de alcance.
 
 
 ### Características de la batería de litio recargable
 
-- Nominal capacity: 3600 mAh.
-- Nominal voltage: 3.7V.
-- Autonomy in radio mode: 15 hours.*
-- Autonomy in music player mode: 12 hours.*
-- Autonomy in Bluetooth mode: 10 hours.*
+- Capacidad nominal: 3600 mAh.
+- Tensión nominal: 3.7V.
+- Autonomía en modo radio: 15 hours.*
+- Autonomía en modo USB / SD: 12 hours.*
+- Autonomía en modo Bluetooth : 10 hours.*
 <br/><br/>
- **The battery life is approximated. An increase in the volume is translated in an increment in energy consumption.
+* La duración de la batería es aproximada. Mayor volumen en el altavoz se traduce en un mayor consumo de la batería.
