@@ -2,30 +2,30 @@
 
 ## Présentation générale
 
-![Imagen1](http://static.energysistem.com/images/manuals/42238/55d31624c5499.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42800/58b00f724b41e.jpg)
 
-1. Appareil photo frontal
+1. Haut-parleurs
 
-2. Écran tactile
+2. Bouton marche/arrêt
 
-3. Appareil photo arrière
+3. Bouton de volume +
 
-4. Haut-parleurs
+4. Bouton de volume -
 
-5. Bouton marche/arrêt
+5. Bouton reset
 
-6. Boutons du contrôle du volume
+6. Appareil photo frontal
 
-7. Bouton reset
+7. Écran tactile
 
-8. Sortie pour écouteurs
+8. Appareil photo arrière
 
-9. Connecteur miniHDMI
+9. Microphone
 
-10. Connecteur microUSB
+10. Entrée microSD
 
-11. Entrée microSD
+11. Connecteur microUSB
 
-12. Microphone
+12. Sortie pour écouteurs
 
 </quick_guide>
