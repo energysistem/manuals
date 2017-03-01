@@ -2,10 +2,6 @@
 
 ### Bluetooth
 
-## Configuration sans fil
-
-### Bluetooth
-
 Votre tablette est équipée de connexion Bluetooth pour connecter des écouteurs, des ordinateurs, des tablettes ou tout autre appareil permettant ce protocole de communication. Allez sur Paramètres > Bluetooth et activez l'interrupteur placé en haut. Une fois cela fait, les périphériques disponibles seront affichés au fur et à mesure et vous pourrez les sélectionner pour réaliser la connexion.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf71c27aea.jpg)
