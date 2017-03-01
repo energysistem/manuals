@@ -35,4 +35,4 @@ AUTRES
 * Deux haut-parleurs frontaux d'1 W
 * Microphone omnidirectionnel intégré
 * Capteur de mouvement (accéléromètre)
-<quick_guide> 
+ 
