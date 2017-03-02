@@ -61,7 +61,7 @@ O seu tablet inclui a aplicação Fotos da Google. Utilize a aplicação para ve
 
 1. Definições e pastas
 2. Pesquisa
-3. Desenho
+3. Desenho e edição
 4. Assistente
 5. Galeria
 6. Álbuns e pastas
