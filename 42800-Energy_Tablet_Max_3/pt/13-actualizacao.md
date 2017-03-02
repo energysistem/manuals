@@ -1,21 +1,21 @@
-## Actualização
+## Atualizações
 
-A sua Energy Tablet têm um sistema operacional instalado baseado em Android#trade#, que é possível de ser reinstalado ou actualizado se for necessário. O processo é simples mais deve realizar-se com cuidado e só quando for realmente preciso. Por padrão as actualizações serão feitas via OTA (Over-The-Air), por tanto, sua Energy Tablet ligara-se a nossos servidores automaticamente, baixará e instalará o novo software uma vez que tenhamos uma actualização para ser utilizada.  
+O seu Energy Tablet Max 3 tem um sistema operativo instalado baseado em Android, que pode ser reinstalado ou atualizado se for necessário.  Por predefinição, as atualizações são via OTA (Over-The-Air), o que significa que a ligação com os nossos servidores é estabelecida automaticamente. A seguir, a atualização é descarregada e instalada quando estiver disponível.
 
-Também pode actualizar/reinstalar seu dispositivo através do computador. Se observar que o dispositivo se bloqueia, se reinicia inesperadamente ou tem problemas para aceder ao conteúdo da memória, é conveniente reinstalar o sistema operativo ou actualizá-lo a uma nova versão compatível se estiver disponível.
+Também tem a possibilidade de atualizar o seu tablet através de um computador. O processo é muito simples mas tem que ser realizado com cuidado e apenas quando for necessário.  Se observa que o dispositivo fica bloqueado, reinicia inesperadamente ou tem problemas para aceder ao conteúdo da memória, é conveniente reinstalar o sistema operativo ou atualizá-lo a uma nova versão compatível, se estiver disponível.
 
-Siga os seguintes passos para realizar a instalação:
+Siga os passos seguintes para realizar a instalação:
 
-1. Assegure-se que a bateria da sua Energy Tablet se encontra totalmente carregada. Em caso contrário ligue a sua Energy Tablet à tomada eléctrica utilizando o adaptador de corrente AC/DC proporcionado e espere que a bateria se carregue completamente. 
+1. Verifique que o nível de carga da bateria é superior a 60%. Caso contrário, ligue o dispositivo na tomada elétrica através do adaptador de corrente fornecido com o produto.
 
-2. Acesso à página web www.energysistem.com desde o seu computador. 
+2. Aceda à página web www.energysistem.com no seu computador.
 
-3. Entre na secção "supporte" e escolha o tipo de produto "Tablet".
+3. Entre na secção *Suporte* e seleccione o tipo de produto *Tablet*.
 
-4. Escolha o seu modelo Energy Tablet da lista desdobrável que aparecerá, e à continuação descarregue a ultima versão do sistema operacional Android#trade# disponível.
-**Obs.:** 
-Assegure-se de que a versão do sistema operacional que está descarregando é específica para o seu modelo e número de série, já que em caso contrário o dispositivo pode ser danificado. 
+4. Seleccione o seu modelo de Energy Tablet da lista desdobrável e descarregue à seguir a ultima versão disponível do firmware.
+**Importante:**
+Verifique que a versão do firmware que está a descarregar é a específica para o seu modelo e número de série, já que caso contrário, o dispositivo pode resultar danificado.
 
-5. Descomprima o arquivo no seu computador.
+5. Descompacte o ficheiro no seu computador.
 
-6. Abra o arquivo de texto incluído na transferência e siga as instruções para instalar de novo o sistema operacional na sua Energy Tablet. 
+6. Abra o ficheiro de texto descarregado e siga as instruções para efetuar a instalação.
