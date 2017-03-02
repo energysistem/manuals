@@ -22,4 +22,4 @@
 
 * Zoom: Posicione 2 dedos no ecrã e afaste-os para aumentar ou junte-os para diminuir o zoom.
 
-![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg
+![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
