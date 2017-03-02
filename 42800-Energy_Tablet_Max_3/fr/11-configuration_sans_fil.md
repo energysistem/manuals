@@ -1,5 +1,3 @@
-## Configuration sans fil
-
 ### Bluetooth
 
 Votre tablette est équipée de connexion Bluetooth pour connecter des écouteurs, des ordinateurs, des tablettes ou tout autre appareil permettant ce protocole de communication. Allez sur Paramètres > Bluetooth et activez l'interrupteur placé en haut. Une fois cela fait, les périphériques disponibles seront affichés au fur et à mesure et vous pourrez les sélectionner pour réaliser la connexion.
@@ -27,3 +25,4 @@ Votre tablette est équipée de connexion Wi-Fi. Pour la connecter à un réseau
 
 **Avis :** Votre tablette est compatible avec les standards de sécurité et chiffrement WEP, WPA, WPA2, TKIP et
 AES. Une fois le processus d'authentification finalisé avec succès, les données d'accès au réseau Wi-Fi seront sauvegardées et vous pourrez commencer à utiliser l'Internet. L'appareil reconnaîtra le réseau et se connectera automatiquement quand il sera disponible.
+
