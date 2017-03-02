@@ -6,3 +6,4 @@ Slide your finger up or down to see all your installed widgets. Select the one y
 ![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf6e3211db.jpg)
 To relocate a widget that is already placed on the desktop, select it by pressing it for a few seconds and release it on a free area. Drag it and release it on the X on the top part of the screen if you want to delete it.
 
+ 
