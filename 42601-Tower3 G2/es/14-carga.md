@@ -1,6 +1,6 @@
 ## Carga de Dispositivos
 
-El *Energy Tower 3 g2* dispone de una *Conexión USB de carga (12)*  para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+El *Energy Tower 3 g2* dispone de una *Conexión USB de carga* (12)  para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
 Especificaciones salida "DC OUT": <br>
 
