@@ -1,4 +1,4 @@
-## Reproducción desde tarjetas SD y USB
+## Reproducción desde tarjetas microSD y USB
 
 Para reproducir archivos en formato MP3 o WAV, inserta una tarjeta de memoria microSD o una memoria externa USB en las ranuras (10) u (11), respectivamente.
 
