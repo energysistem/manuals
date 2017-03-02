@@ -6,25 +6,23 @@
 
 2. Botão ligar/desligar
 
-3. Botão de volume +
+3. Botões de volume
 
-4. Botão de volume -
+4. Botão de reset
 
-5. Botão de reset
+5. Câmara frontal
 
-6. Câmara frontal
+6. Ecrã táctil
 
-7. Ecrã táctil
+7. Câmara traseira
 
-8. Câmara traseira
+8. Microfone
 
-9. Microfone
+9. Slot para microSD
 
-10. Slot para microSD
+10. Porta microUSB
 
-11. Porta microUSB
-
-12. Saída para auscultadores
+11. Saída para auscultadores
 
 </quick_guide>
 
