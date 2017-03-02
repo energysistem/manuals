@@ -8,24 +8,22 @@
 
 2. Botón de encendido
 
-3. Botón volumen +
+3. Botones de volumen
 
-4. Botón volumen -
+4. Botón de reset
 
-5. Botón de reset
+5. Cámara delantera
 
-6. Cámara delantera
+6. Pantalla táctil
 
-7. Pantalla táctil
+7. Cámara trasera
 
-8. Cámara trasera
+8. Micrófono
 
-9. Micrófono
+9. Ranura para microSD
 
-10. Ranura para microSD
+10. Conector microUSB
 
-11. Conector microUSB
-
-12. Salida para auriculares
+11. Salida para auriculares
 
 </quick_guide>
