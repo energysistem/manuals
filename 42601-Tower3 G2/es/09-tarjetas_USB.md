@@ -1,20 +1,18 @@
 ## Reproducción desde tarjetas SD y USB
 
-Para reproducir archivos en formato MP3, inserta una tarjeta de memoria microSD o una memoria externa USB en las ranuras (10) y (11), respectivamente.
+Para reproducir archivos en formato MP3 o WAV, inserta una tarjeta de memoria microSD o una memoria externa USB en las ranuras (10) u (11), respectivamente.
 
-En ese momento el *Energy Tower 3 g2* reproducirá desde la memoria externa insertada automáticamente.
+En ese momento el *Energy Tower 3 g2* reproducirá automáticamente desde la memoria externa insertada.
 
-Visualizarás en el display "USB" o "SD" según el tipo de memoria que insertes.
+Visualizarás en la pantalla "USB" o "SD" según el tipo de memoria que insertes.
 
-Si apagas el *Energy Tower 3 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo.
+Si apagas tu *Energy Tower 3 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
-
-Para navegar entre canciones, utiliza los botones de 'Avance (7)' y 'Retroceso (6)'. También puedes cambiar de carpeta pulsando el botón 'Cambio de función (4)'.
+Para navegar entre canciones, utiliza los botones de *Avance* (7) y *Retroceso* (6). También puedes cambiar de carpeta pulsando el botón *Cambio de función* (4).
 
 ## Modo de reproducción
 
-Pulsando durante 2 segundos el botón 'Cambio de función (4)' o bien el botón 'RPT' del mando a distancia; puedes seleccionar una de estas 3 opciones:
+Pulsando durante 2 segundos el botón *Cambio de función* (4) o bien el botón "RPT" del mando a distancia; puedes seleccionar una de estas 3 modos de reproducción:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
@@ -26,7 +24,7 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** Se repite la canción que estás escuchando.
+2) **ONE:** Se repite de manera indefinida la canción que estás escuchando.
 
 3) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
 
