@@ -1,34 +1,32 @@
-## Solução de Problemas
+## Resolução de problemas
 
-1.	Por que não podem ser lidos alguns arquivos MP3?
-O arquivo MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. No caso contrario tem que recodificar mediante software.
+1.	Porque não é possível reproduzir alguns ficheiros MP3? 
+O ficheiro MP3 tem que respeitar as normas layer 3 de MPEG1, MPEG2 ou MPEG 2.5. Caso contrário, é necessário recodificar através do software.
 
-2.	Minha Energy Tablet não liga, que posso fazer? 
-Assegure-se que a bateria está suficientemente carregada antes de tentar ligar o dispositivo. Se mesmo carregando a bateria ao menos 30 minutos, o sistema continua sem ligar, é possível que exista um problema com o sistema operacional instalado. Por favor, leia a secção “ATUALIZAÇÃO” deste manual.
+2.	O meu tablet não liga. O que é que eu posso fazer?
+Verifique que o dispositivo tem bateria suficiente ao tentar ligar o dispositivo. Se após ter carregado a bateria pelo menos 30 minutos, o dispositivo ainda não liga, é provável que exista um problema com o sistema operativo instalado. Por favor, consulte a secção *Atualizações* neste manual.
 
-3.	Por que não se reproduzem alguns arquivos WMA? 
-Assegure-se que não estás codificando os WMA com DRM.
+3.	Porque não é possível reproduzir alguns ficheiros WMA?
+Verifique que não está a codificar os WMA com DRM.
 
-4.	Por que não posso ver os meus arquivos de vídeo, imagem ou texto quando utilizo o leitor de musica?  
-Geralmente, as aplicações só mostram os arquivos compatíveis que possam ser lidos pelo programa. Por tanto, enquanto navegue pelas pastas desde uma aplicação em concreto, só poderá visualizar os tipos de arquivos associados a este programa (canções com o leitor de musica, filmes com o leitor de vídeo, etc...). Para poder ver todos os arquivos salvos na memória, inicie a aplicação FileXplorer desde o menu de aplicações.
+4.	Porque não posso ver os meus ficheiros de vídeo, imagem ou texto quando estou a utilizar o leitor de música?
+Normalmente, as aplicações mostram apenas os ficheiros compatíveis que podem ser lidos pelo programa. Portanto, só pode visualizar os tipos de ficheiros associados a este programa enquanto está a navegar pelas pastas a partir de uma aplicação específica. Aceda ao explorador de ficheiros a partir do menu de definições do dispositivo ou instale uma aplicação compatível para ver todos os ficheiros guardados na memória ao mesmo tempo.
 
-5.	Quais são os formatos de vídeo compatíveis com minha Energy Tablet? 
-A minha Energy Tablet pode ler múltiplos formatos de vídeo sem recodificar.
+5.	Porque não consigo visualizar os meus ficheiros de imagens .jpg?
+Muitas câmaras fotográficas digitais e programas de edição de imagem adicionam dados ocultos aos ficheiros .jpg. Isso pode fazer com que o seu tablet não carregue as imagens. Pode tentar eliminar os dados ocultos guardando a imagem através de outra aplicação.
 
-6.	Por que não consigo visualizar os meus arquivos de imagens.jpg? 
-Muitas câmaras fotográficas digitais e programas de edição de imagens adicionam dados ocultos aos arquivos.jpg. Estes dados podem fazer com que a Energy Tablet não carregue as imagens. Tente eliminar o arquivo, renomeá-lo e voltar a salvá-lo na memória do dispositivo.
+6.	O ecrã ficou preto e o dispositivo não está a responder.
+Prima o botão ligar/desligar uns segundos para reiniciar o tablet.
 
-7.	Muitas vezes a tela fica em cor preto e o dispositivo não responde. Aperta ao botão Reset para reiniciar o dispositivo. É melhor reiniciar o dispositivos através das opções disponíveis no sistema, reinicie o dispositivo e ligue-o de novo.
+7.	A memória disponível do meu tablet é inferior à indicada nas especificações. Porque?
+O sistema operativo e as aplicações pré-instaladas no dispositivo precisam de espaço na memória interna para funcionar correctamente. Por isso, o espaço de memória disponível para guardar dados adicionais é inferior à indicada.
 
-8.	A capacidade de memória da Energy Tablet, mas a memória disponível é inferior. Por quê?
-O sistema operacional Android#trade# e as aplicações pré-instaladas no dispositivo necessitam aproximadamente 1,5 GB de memória interna para funcionar. Por isso, a memória disponível para guardar dados adicionais é inferior da especificada.
+8.	Atualizei o firmware mas agora não tenho ficheiros multimédia nem ambiente de trabalho. Como posso recuperar o conteúdo pré-instalado?
+Antes de atualizar o sistema, recomendamos fazer um backup de tudo o que deseja manter. No site www.energysistem.com vai encontrar não só todo o conteúdo pré-instalado no seu dispositivo, mas também muitos mais ficheiros multimédia e ambientes de trabalho adicionais.
 
-9.	Actualizei o sistema operacional, mas perdi os arquivos multimédia e fundos de tela salvos. Como posso recuperar os conteúdos pré-instalados? 
-Antes de qualquer actualização do sistema recomendamos fazer uma copia de segurança de todo o conteúdo que queira conservar.  Em energysistem.com encontrará todos os conteúdos pré-instalados na sua Energy Tablet e muito mais arquivos multimédia e fundos de tela adicionais.
+9.	Que devo fazer para que o dispositivo permita instalar uma aplicação que não está na Play Store da Google?
+Em primeiro lugar, assegure-se que o ficheiro tem a extensão de instalação Android (.APK). Ao abrir o ficheiro no dispositivo, Android lhe pedirá que habilite a instalação de aplicações a partir de *Fontes desconhecidas*. Esta opção está desativada por razões de segurança. Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão no ecrã a primeira vez que tente instalar uma aplicação: *Definições > Segurança >Fontes desconhecidas (ativar)*. 
 
-10.	Que devo fazer para que me deixe instalar uma aplicação? 
-Em primeiro lugar, assegure-se que o arquivo tem a extensão de instalação Android™ (.APK), em segundo lugar Android™ lhe pedirá que actives a instalação de aplicações desde "Fontes desconhecidas", esta opção está desactivado por segurança.
-Para autorizar a instalação de aplicações só tem que seguir as instruções que aparecerão na tela a primeira vez que tente instalar uma aplicação: Definições / Segurança / Fontes desconhecidas (activar).
+10.	A autonomia do meu tablet não é a indicada no manual. Porque?
+A autonomia do dispositivo depende em grande medida das condições de utilização como o nível de brilho do ecrã, da utilização de auscultadores ou altifalante, das opções de conectividade ou da potência requerida pelas aplicações e jogos.
 
-11.	Qual é a autonomia do dispositivo? 
-Depende em grande medida das condições de uso, como o nível de brilho da tela, o uso de fones ou do alto-falante, ou se a Wi-Fi está activada ou desactivada, a potência que exijam as aplicações e jogos, etc. 
