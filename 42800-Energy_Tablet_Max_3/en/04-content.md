@@ -1,7 +1,7 @@
 <quick_guide> 
 ## Product content
 
-* Energy Tablet Pro 3
+* Energy Tablet Max 3
 * Quick guide
 * USB cable to charge the battery and transfer data
 * MicroUSB cable to connect external USB devices
