@@ -6,9 +6,9 @@ Tel: 902 388 388  / 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Sistema de sonido en torre <br/>
-Marca: Energy Sistem <br/>
-Modelo: Energy Tower 3 g2 <br/>
+Descripción: Sistema de sonido en torre. <br/>
+Marca: Energy Sistem. <br/>
+Modelo: Energy Tower 3 g2. <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 
 País de fabricación: China <br/>
