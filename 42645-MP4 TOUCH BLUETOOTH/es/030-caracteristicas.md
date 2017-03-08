@@ -1,5 +1,6 @@
 ## Principales características
 
+- Tecnología Bluetooth v2.1. Protocolo A2DP. Tipo: Clase II. Distancia de alcance: 10 m
 -	Pantalla 128x32 píxels.
 -	Radio FM integrada con presintonías y grabación.
 -	Grabadora de voz digital con micrófono integrado.
