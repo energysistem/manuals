@@ -1,5 +1,5 @@
 ## Especificaciones técnicas. 
-### PANTALLA
+#### PANTALLA
 - Tipo: LCD
 - Tamaño: 1.8"
 - Resolución: 160x128 píxels
