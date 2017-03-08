@@ -25,7 +25,9 @@
 - Capacity: 300 mAh
 - Nominal voltage: 3,7 V DC
 - Battery life:<br/>
+
   More than 20 hours in Music mode 
+  
   More than 8 hours in Radio mode
 - Charging system: microUSB
 - Charging time: 1,5 hours
