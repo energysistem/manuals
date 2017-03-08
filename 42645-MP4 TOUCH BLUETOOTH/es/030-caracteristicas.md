@@ -8,7 +8,7 @@
 - Capacidad: 8 GB
 - MicroSD: hasta 64 GB
 
-#### CONECTITIVIDAD
+#### CONECTIVIDAD
 - Bluetooth v2.1. Protocolo A2DP 
 - Tipo: Clase II. Distancia de alcance: 10 m
 - Ranura para tarjetas microSD
