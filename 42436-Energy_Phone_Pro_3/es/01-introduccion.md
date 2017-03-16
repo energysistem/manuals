@@ -1,11 +1,9 @@
-<quick_guide>
 ## Introducción
 
 Gracias por confiar en nosotros y adquirir tu nuevo Energy Phone Pro 3. Esperamos que lo disfrutes.
 
-Tu nuevo teléfono dispone de una pantalla táctil de 5.5” IPS Full HD (1280x720 píxeles) con tratamiento antihuellas, procesador de ocho núcleos ARM Cortex A53 1.5 GHz, tarjeta Gráfica GPU Mali T860 MP2 integrada, Bluetooth 4.1, Wi-Fi, GPS, conexión 4G/3G, cámara frontal 5 Mpx con ángulo FOV de XX,Xº, cámara trasera doble (13 Mpx con sensor SONY PDAF + 5 Mpx AF) y flash LED dual tone .
+Tu nuevo teléfono dispone de una pantalla táctil de 5.5” IPS Full HD (1920x1080 píxeles) con tratamiento antihuellas, procesador de ocho núcleos, conexión 4G/LTE, cámara frontal de 5 Mpx con #selfiesystem, Dual Cam trasera de 13 Mpx PDAF + 5 Mpx AF con dual tone flash LED, 3 GB RAM, 32 GB de memoria interna (ampliable 256 GB más mediante tarjetas microSD-HC/XC), Bluetooth 4.1, batería de 3.000 mAh con carga rápida y sensor de huellas.
 
-Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas esta guía para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
+Antes de comenzar a disfrutar de tu Smartphone te aconsejamos que leas este manual para familiarizarte con él. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
-## <unique> * Encuentra el manual completo del *Energy Phone Pro 3 * en el siguiente enlace  http://www.energysistem.com/guide/42436 </unique> </quick_guide>
 
