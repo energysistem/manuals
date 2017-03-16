@@ -11,4 +11,4 @@ El sistema dispone de una pantalla multi-táctil capacitiva de 7" (1024x600 píx
 aprovechando al máximo sus prestaciones.
 
 
-## <unique> Encuentra el manual completo de tu *Energy Tablet Neo 7 * en el siguiente enlace  http://www.energysistem.com/guide/42027 </unique> </quick_guide>
+### <unique> Encuentra el manual completo de tu *Energy Tablet Neo 7 * en el siguiente enlace  http://www.energysistem.com/guide/42027 </unique> </quick_guide>
