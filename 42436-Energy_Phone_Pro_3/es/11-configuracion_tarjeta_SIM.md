@@ -1,8 +1,14 @@
 ### Configuración tarjeta SIM
 
-![Imagen](http://static.energysistem.com/images/manuals/42500/5710f3494744e.jpg)
-
-Tu Energy Phone Pro 4G Pearl tiene la posibilidad de utilizar una tarjeta microSIM y una tarjeta nanoSIM o una tarjeta microSIM y una tarjeta de almacenamiento microSD. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
+Tu Energy Phone Pro 3 tiene la posibilidad de utilizar una tarjeta microSIM y una tarjeta nanoSIM o una tarjeta microSIM y una tarjeta de almacenamiento microSD. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
 
 En este apartado podrás seleccionar la tarjeta predefinida para realizar o recibir llamadas, enviar y recibir mensajes de texto y la conexión de datos.
 
+![Imagen](http://static.energysistem.com/images/manuals/42500/5710f3494744e.jpg)
+
+Para colocar las tarjetas nanoSIM/microSD deberás extraer la bandeja (1) empleando exclusivamente la herramienta (19) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y/o de almacenamiento SD, como sigue:
+
+Opción A: Tarjeta nanoSIM1 + Tarjeta de almacenamiento microSD. 
+Opción B: Tarjeta nanoSIM1 + Tarjeta nanoSIM2.
+
+![Imagen](http://static.energysistem.com/images/manuals/42500/5710f3494744e.jpg)
