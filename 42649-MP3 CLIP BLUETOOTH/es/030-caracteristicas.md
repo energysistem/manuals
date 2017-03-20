@@ -28,7 +28,7 @@
 
 	Hasta 5 horas en modo Bluetooth
   
-	Hasta 11 horas en modo Música
+	Hasta 10 horas en modo Música
   
 	Hasta 5 horas en modo Radio
 	
