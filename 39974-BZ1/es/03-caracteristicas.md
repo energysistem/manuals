@@ -3,13 +3,11 @@
 ### Características generales
 
 * Transfiere y escucha tu música a través de conexión inalámbrica gracias a la tecnología Bluetooth®.
-* Fácil sincronización con tablets, smartphones, portátiles, MAC, PC, PlayStation y cualquier otro dispositivo Bluetooth® emisor.
-* Compatibilidad con iOS, ANDROID#trade#, Windows, Blackberry, MAC OS, etc.
+* Fácil sincronización con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo Bluetooth® emisor.
+* Compatibilidad con iOS, Android, Windows, Blackberry, MAC OS, etc.
 * Libertad de sonido: escucha y comparte tu música en cualquier lugar, sin cables.
-* Sonido limpio y claro, nitidez en todo el espectro acústico. 
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
 * Base de goma antideslizante para colocarlo en cualquier superficie y evitar caídas.
-* Diseño elegante con acabado en goma de gran calidad.
 * Función rellamada. Responde a tu última llamada desde el propio altavoz con sólo pulsar un botón.
 * Batería de litio de larga duración recargable a través de USB.
 * Entrada Audio-In de 3.5 mm para escuchar música de cualquier reproductor portátil u ordenador.
