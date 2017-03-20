@@ -26,8 +26,8 @@
 - Voltaje nominal: 3,7 V DC
 - Autonomía:
 
-         Más de 15 horas en modo Música*
-         Más de 8 horas en modo Radio*
+         Hasta 15 horas en modo Música*
+         Hasta 8 horas en modo Radio*
 
         *Consumos a volumen medio y pantalla apagada.
 
