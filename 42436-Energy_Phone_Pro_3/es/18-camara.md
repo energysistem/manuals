@@ -14,4 +14,12 @@
 9. Acceso a galería.
 
 
+## Dual Cam
+
+Para utilizar la Dual Cam has de realizar la fotografías con el modo "Dual Cam" (XXX) activado. Para utilizar las funcionalidades de la Dual Cam y editar las fotografías has de abrir estas fotos con la aplicación Galería.  
+
+
+
+
+
 
