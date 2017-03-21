@@ -21,7 +21,7 @@ Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 5. Modo edición.
 
 
-## Edición fotos Dual Cam
+### Edición fotos Dual Cam
 
 
 Tras visualizar la imagen en la app galería, accede al modo edición a través del icono XXX de la parte inferior de la pantalla. Entre otras opciones podrás cambiar el foco de la imagen, sustituir el fondo de la fotografía, copiar elementos y pegarlos en otra fotografía. Te animamos a experimentar para sacar todo el potencial de tu nueva Dual Cam.
