@@ -1,7 +1,5 @@
 ## Tipos de pulsaciones
 
-### Gestos elementales
-
 
 * Pulsación
 
