@@ -1,4 +1,4 @@
-### Configuración tarjeta SIM
+## Configuración tarjeta SIM
 
 Tu Energy Phone Pro 3 tiene la posibilidad de utilizar una tarjeta microSIM y una tarjeta nanoSIM o una tarjeta microSIM y una tarjeta de almacenamiento microSD. En el apartado Ajustes > Tarjetas SIM, podrás gestionar las tarjetas.
 
