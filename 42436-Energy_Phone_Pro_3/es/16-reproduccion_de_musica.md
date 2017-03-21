@@ -1,4 +1,4 @@
-### Reproducción de música
+## Reproducción de música
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f36d34614.jpg)
 
