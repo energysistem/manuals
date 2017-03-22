@@ -1,7 +1,5 @@
 ## Características
 
-### Características generales
-
 - Auriculares con tecnología Bluetooth.
 - Fácil sincronización sin códigos.
 - Compatible con dispositivos iOS, ANDROID y PC.
@@ -25,7 +23,7 @@
 - Peso: 137 g.
 
 
-### Características de la batería 
+#### Características de la batería 
 
 - Batería de litio de 300 mAh.
 - Autonomía en modo reproducción: 8 h.
