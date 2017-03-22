@@ -8,7 +8,7 @@ Para avanzar de canción mantén pulsado el botón AVANCE (1). Igualmente, puede
 
 Para pausar o reanudar la reproducción pulsa una única vez el botón MULTIFUNCIÓN (2). 
 
-*Nota*: Si mantienes la reproducción pausada durante más de 7 minutos, tus *Energy Headphones 1 Bluetooth* se apagarán automáticamente para ahorrar energía. 
+**Nota:** Si mantienes la reproducción pausada durante más de 7 minutos, tus *Energy Headphones 1 Bluetooth* se apagarán automáticamente para ahorrar energía. 
 
 
 
