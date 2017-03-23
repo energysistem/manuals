@@ -1,3 +1,4 @@
+<quick_guide>
 ## Encendido y apagado
 
 Antes de encender tu Energy Phone Pro 3, asegúrate de que las tarjetas nanoSIM/microSD están insertadas en sus respectivas ranuras como viene indicado en el siguiente subapartado “Colocación tarjeta nanoSIM1/nanoSIM2/microSD”. A continuación pulsa el botón de encendido/apagado (13) situado en el lateral derecho del dispositivo durante un segundo. Cuando el sistema operativo se haya cargado tendrás que desbloquear el dispositivo para empezar a utilizarlo. Para ello inserta el número PIN de tus tarjetas nanoSIM y luego arrastra el dedo hacia arriba en la pantalla principal.
@@ -9,5 +10,6 @@ Para apagar el dispositivo mantén pulsado el botón de encendido/apagado (13) h
 
 Para colocar las tarjetas nanoSIM/microSD deberás extraer la bandeja (1) empleando exclusivamente la herramienta (19) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y/o de almacenamiento SD, como sigue:
 
-Opción A: Tarjeta nanoSIM1 + Tarjeta de almacenamiento microSD. 
+Opción A: Tarjeta nanoSIM1 + Tarjeta de almacenamiento microSD.
 Opción B: Tarjeta nanoSIM1 + Tarjeta nanoSIM2.
+</quick_guide>
