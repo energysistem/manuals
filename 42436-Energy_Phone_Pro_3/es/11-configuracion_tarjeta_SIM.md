@@ -4,11 +4,11 @@ Tu Energy Phone Pro 3 tiene la posibilidad de utilizar una tarjeta microSIM y un
 
 En este apartado podrás seleccionar la tarjeta predefinida para realizar o recibir llamadas, enviar y recibir mensajes de texto y la conexión de datos.
 
-![Imagen](http://static.energysistem.com/images/manuals/42500/5710f3494744e.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42436/58d2ad55dbd2a.jpg)
 
 Para colocar las tarjetas nanoSIM/microSD deberás extraer la bandeja (1) empleando exclusivamente la herramienta (19) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y/o de almacenamiento SD, como sigue:
 
 Opción A: Tarjeta nanoSIM1 + Tarjeta de almacenamiento microSD. 
 Opción B: Tarjeta nanoSIM1 + Tarjeta nanoSIM2.
 
-![Imagen](http://static.energysistem.com/images/manuals/42500/5710f3494744e.jpg)
+![Imagen](http://static.energysistem.com/images/manuals/42436/58d3d5e7e9384.jpg)
