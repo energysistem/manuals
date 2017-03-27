@@ -1,6 +1,6 @@
 ## Main screen
 
-![Image1](http://static.energysistem.com/images/manuals/42547/587cee8e0882c.jpg) 
+![Image1](http://static.energysistem.com/images/manuals/42547/58d8d3cc3bf3a.jpg) 
 
 1. Search: Direct access to Google's search engine.
 2. Voice Search: Access to Google's voice search and much more.
