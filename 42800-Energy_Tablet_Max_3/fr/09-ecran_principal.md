@@ -1,6 +1,6 @@
 ## Écran principal
 
-![Image1](http://static.energysistem.com/images/manuals/42547/587cee8e0882c.jpg)  
+![Image1](http://static.energysistem.com/images/manuals/42800/58d8e1f177e1f.jpg)  
 
 1. Navigateur : accès directe au moteur de recherche Web de Google.
 2. Recherche vocale : accédez sur la recherche vocale de Google et beaucoup plus.
