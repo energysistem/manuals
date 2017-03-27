@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-![Image1](http://static.energysistem.com/images/manuals/42547/587cee8e0882c.jpg)  
+![Image1](http://static.energysistem.com/images/manuals/42800/58d8e1f177e1f.jpg)  
 
 1. Buscador: acceso directo al motor de búsqueda web de Google.
 2. Búsqueda por voz: accede a la búsqueda por voz de Google y mucho más.
