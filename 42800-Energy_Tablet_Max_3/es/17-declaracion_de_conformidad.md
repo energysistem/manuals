@@ -26,7 +26,6 @@ EN 300 328 V1.9.1 (2015-02)
 EN 301 489-1 V1.9.2 (2011-09)
 EN 301 489-17 V2.2.1 (2012-09)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
-EN 50332-1:2013, EN 50332-2:2013
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
