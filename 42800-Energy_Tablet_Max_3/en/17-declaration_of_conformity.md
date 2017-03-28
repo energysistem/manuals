@@ -26,7 +26,6 @@ EN 300 328 V1.9.1 (2015-02)
 EN 301 489-1 V1.9.2 (2011-09)
 EN 301 489-17 V2.2.1 (2012-09)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
-EN 50332-1:2013, EN 50332-2:2013
 
 in conformity with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
