@@ -1,4 +1,4 @@
-## Introducción
+### Introducción
 
 * Energy Sistem te agradece la compra de tu nuevo MP3 Energy. Deseamos que lo disfrutes.
 * Este compacto reproductor de música dispone de pantalla OLED, radio FM, podómetro y otras funciones que te sorprenderán.
