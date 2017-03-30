@@ -8,24 +8,22 @@
 
 2. Bouton marche/arrêt
 
-3. Bouton de volume +
+3. Boutons de volume
 
-4. Bouton de volume -
+4. Bouton reset
 
-5. Bouton reset
+5. Appareil photo frontal
 
-6. Appareil photo frontal
+6. Écran tactile
 
-7. Écran tactile
+7. Appareil photo arrière
 
-8. Appareil photo arrière
+8. Microphone
 
-9. Microphone
+9. Entrée microSD
 
-10. Entrée microSD
+10. Connecteur microUSB
 
-11. Connecteur microUSB
-
-12. Sortie pour écouteurs
+11. Sortie pour écouteurs
 
 </quick_guide>
