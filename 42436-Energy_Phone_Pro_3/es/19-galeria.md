@@ -2,7 +2,7 @@
 
 Podrás visualizar tus imágenes y vídeos almacenados en la memoria interna del dispositivo.
 
-![Imagen1]() 
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58dd24b7aaef9.jpg) 
 
 1. Opciones de organización.
 2. Acceso directo a la cámara.
@@ -16,7 +16,7 @@ Para volver al escritorio principal, pulsa sobre el botón de retorno o Inicio.
 
 ### Edición fotos Dual Cam
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58dd24c009811.jpg)
 
 1. Edición imágenes Dual Cam.
 2. Opciones de edición  3D.
