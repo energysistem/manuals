@@ -20,7 +20,7 @@
 
 ### Dual Cam
 
-Para utilizar la Dual Cam has de realizar la fotografías con el modo "Dual Cam" (3) activado. Para utilizar las funcionalidades de la Dual Cam y editar las fotografías abre dichas fotografías en la aplicación Galería.  
+Para utilizar la Dual Cam has de realizar las fotografías con el modo "Dual Cam" (3) activado. Para utilizar las funcionalidades de la Dual Cam y editar las fotografías abre dichas fotografías en la aplicación Galería.  
 
 
 
