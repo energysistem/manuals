@@ -7,12 +7,11 @@
 3. **Búsqueda por voz:** Accede a la búsqueda por voz de Google#trade# y mucho más.
 4. **YouTube#trade#:** Accede a tus videos favoritos a través de la plataforma de YouTube.
 5. **Energy Music:** Reproducción de archivos de sonido.
-6. **Energy Music:** Reproducción de archivos de sonido.
-7. **Internet:** Navegador web.
-8. **Email:** Correo electrónico.
-9. **Menu:** Acceso al menú de aplicaciones y widgets.
-10. **Contactos:** Gestión de contactos.
-11. **Teléfono:** Llamadas y registro.
-12. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
-13. **Cámara:** Acceso a la cámara de fotos integrada.
-14. **Galería:** Visualización de imágenes.
+6. **Internet:** Navegador web.
+7. **Email:** Correo electrónico.
+8. **Menu:** Acceso al menú de aplicaciones y widgets.
+9. **Contactos:** Gestión de contactos.
+10. **Teléfono:** Llamadas y registro.
+11. **Play Store#trade#:** Descargue las mejores y más famosas aplicaciones para tu sistema Android#trade#.
+12. **Cámara:** Acceso a la cámara de fotos integrada.
+13. **Galería:** Visualización de imágenes.
