@@ -16,11 +16,16 @@ País de fabricação:  China
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
+EN 55032:2012+AC:2013
+EN 61000-3-2:2014
+EN 61000-3-3:2013
+EN 55024:2010
+EN 62479:2010
 EN 300 328 V1.9.1 (2015-02)
 EN 301 489-1 V1.9.2 (2011-09)
 EN 301 489-17 V2.2.1 (2012-09)
-EN 62479:2010
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
+EN 50332-1:2013, EN 50332-2:2013
 
 e está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
 
