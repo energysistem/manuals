@@ -19,7 +19,7 @@ Tu Energy Phone puede reproducir múltiples formatos de video sin recodificar, c
 Muchas cámaras fotográficas digitales y programas de edición de imágenes añaden datos ocultos a los ficheros .jpg. Esto puede hacer que tu Energy Phone no cargue las imágenes. Prueba a eliminarlos y a volver a grabar las imagenes con otro nombre.
 
 7.	A veces la pantalla se queda en negro y el dispositivo no responde.
-Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo pulsando el botón de encendido y volumen menos al mismo tiempo durante 10 segundos.
+Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícielo pulsando el botón de encendido y volumen más al mismo tiempo durante 10 segundos.
 
 8.	La capacidad de memoria del Energy Phone Pro 3 es de 32GB, pero la memoria disponible es inferior ¿Por qué?
 El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 8GB de memoria interna para funcionar. Por ese motivo la memoria disponible para guardar datos adicionales es inferior a 32GB.
