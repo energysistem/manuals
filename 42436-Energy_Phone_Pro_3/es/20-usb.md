@@ -10,7 +10,7 @@ Podrás configurar tu tarjeta micro SD como almacenamiento portable o almacenami
 2. Configuración como memoria interna.
 
 
-Tu Energy Phone también dispone de un puerto micro USB para interactuar con tu PC de diversos modos. Basta con conectar el cable incluido con el producto al PC para establecer la conexión y poder disfrutar de sus funciones en diferentes modos.
+Tu Energy Phone también dispone de un puerto micro USB tipo C para interactuar con tu PC de diversos modos. Basta con conectar el cable incluido con el producto al PC para establecer la conexión y poder disfrutar de sus funciones en diferentes modos.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58dd24aa7b102.jpg)
 
