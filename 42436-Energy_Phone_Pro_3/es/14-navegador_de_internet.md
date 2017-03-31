@@ -5,8 +5,8 @@ Una vez el dispositivo esté conectado a una red Wi-Fi, 3G o 4G, pulsa sobre el 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad3180e33.jpg)
 
-1. Dirección UR.
-2. Ventanas aviertas.
+1. Dirección URL.
+2. Ventanas abiertas.
 3. Ajustes.
 
 
