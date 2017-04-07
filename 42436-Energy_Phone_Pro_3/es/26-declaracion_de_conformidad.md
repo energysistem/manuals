@@ -3,19 +3,19 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f31fe85a6.jpg)
 
-Nombre del declarante: Energy Sistem Technology S.A. - CIF: A53107488
-Dirección: Pol. Ind. Finestrat C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Dirección: C/Calpe, 1 - 03509 Finestrat, Alicante (España)
+Tel: +34 902 388 388  /  + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Smartphone
 Marca: Energy Sistem
 Modelo: Energy#trade# Phone Pro 3
-Fabricante: Energy Sistem Technology S.A.
+Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos
+al que se refiere esta declaración, con las normas u otros documentos normativos
 
 Directive RE (2014/53/UE)
 EMC Directive (2014/30/EU)
@@ -35,7 +35,7 @@ EN 55013:2013 /EN 55020:2007/A11:2011
 EN 301 511 V9.0.2 (2003-03)
 
 
-de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de noviembre de 2000.
 
 Finestrat, 01 de marzo de 2017 
 
