@@ -12,5 +12,4 @@ Para colocar las tarjetas nanoSIM/ microSD deberás extraer la bandeja (1) emple
 
 Opción A: Tarjeta nanoSIM 1 + Tarjeta de almacenamiento microSD.
 Opción B: Tarjeta nanoSIM 1 + Tarjeta nanoSIM 2.
-
 </quick_guide>
