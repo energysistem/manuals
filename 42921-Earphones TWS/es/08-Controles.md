@@ -1,9 +1,17 @@
-## Control de reproducción
+## Controles del dispositivo
 
-Para controlar el volumen de reproducción pulsa los botones *VOLUMEN +* (3) o *VOLUMEN -* (2). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+# Repoducción/pausa
+Pulsación corta del botón multifución (3).
 
-A través del *BOTÓN MULTIFUNCIÓN* (1) pausa o reanuda la reproducción.
+# Volumen +/ Volumen -
+Con la reproducción en marca, realiza una doble pulsación del botón multifución (3). El volumen irá incrementado. Al sobrepasar el máximo volumen pasará al nivel más bajo disponible. 
 
-Para cambiar de canción presiona el botón *AVANCE* (3) o *RETROCESO* (2) durante 2 segundos.
+# Avanzar pista
+Con la reproducción en marca, mantén pulsado el botón multifución (3) durante 2 segundos.
 
+# Contestar llamada entrante / finalizar llamada
+Pulsación corta del botón multifunción (3).
+
+# Rechazar llamada entrante
+Mantén pulsado el botón multifunción (3).
 
