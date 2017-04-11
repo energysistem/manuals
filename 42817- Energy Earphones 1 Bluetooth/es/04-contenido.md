@@ -1,8 +1,6 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Earphones Sport Bluetooth
+* Auriculares Energy Earphones 1 Bluetooth 
 * Cable USB de carga
-* Estuche de transporte
-* Almohadillas de repuesto
 
 </quick_guide>
