@@ -12,7 +12,7 @@ Para apagar el dispositivo vuelve a mantener pulsado el *botón multifunción* (
 
 ### Carga
 
-Cuando el dispositivo entre en nivel de batería bajo, escucharás un sonido de aviso y el *LED indicador* (5) parpadeará en rojo. Conecta entonces el *cable de carga* a la *conexión USB* (4).
+Cuando el dispositivo entre en nivel de batería bajo, escucharás un sonido de aviso y el *LED indicador* (5) parpadeará en rojo. Conecta entonces el cable de carga a la *conexión USB* (4).
 El *LED indicador* (5) se mantendrá en color rojo durante la carga y cambiará a color azul cuando se complete. El proceso de carga dura aproximadamente una hora y media.
 
 
