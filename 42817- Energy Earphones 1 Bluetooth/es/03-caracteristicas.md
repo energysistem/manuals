@@ -2,30 +2,31 @@
 
 ### Características generales
 
-* Auriculares deportivos Bluetooth.
-* Fácil sincronización con tablets, smartphones, portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
-* Control de volumen desde el propio auricular.
-* Sincronización sin códigos.
-* Tecnología multipunto con la que podrás conectar dos dispositivos Bluetooth® de forma simultánea.
-* Ligeros y cómodos.
-* Recepción de llamadas. Sistema manos libres. 
-* Distancia de uso de hasta 10 m de alcance.
-* Batería de litio recargable.
+* Auricular intraural para un resultado más ergonómico, que se adapta a tus orejas.
+* Diseño ultraligero apto para acompañarte en cualquier situación.
+* Sonido de calidad, potencia agudos y graves.
+* Botones para controlar la lista de reproducción, subir o bajar el volumen.
+* Función manos libres gracias a su micrófono integrado.
+* Hasta 5 horas de reproducción continuada.
+* Batería recargable.
 
 ### Características técnicas
 
 *	Bluetooth® V4.1, Clase II.
+* Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Distancia de uso de hasta 10 m de alcance.
-*	Soporta protocolos HSP / HFP / A2DP /AVRCP.
-*	Indicador de carga en dispositivos iOS.
-*	Diámetro del driver: 10 mm.
-*	Respuesta en frecuencia: 20 - 20.000 Hz.
-*	Sensibilidad del micrófono: -42 dB. 
+* Respuesta en frecuencia: 60Hz ~ 18 KHz.
+* Nivel presión sonora 115± 3 dB.
+* Diámetro de los auriculares 15 mm.
+* Sensibilidad del micrófino -42 dB±3 dB (@1 Khz)
+
 
 ### Características de la batería de litio recargable
 
 *	Capacidad: 100 mAh.
-*	Sistema de carga por USB.
+* Polímero de litio.
+*	Sistema de carga por microUSB.
 *	Tiempo de carga: 1,5 horas.
-*	Autonomía en uso: 8 horas.
-*	Autonomía en stand by: 300 horas.
+*	Autonomía en uso: 5 horas.
+
+**Nota:  Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería.** 
