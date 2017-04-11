@@ -24,4 +24,4 @@
 #### OTROS
 - Indicador de carga en dispositivos iOS
 
-*** Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería.
+** Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería.
