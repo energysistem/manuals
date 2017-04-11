@@ -1,9 +1,13 @@
 ## Control de reproducción
 
-Para controlar el volumen de reproducción pulsa los botones VOLUMEN + (3) o VOLUMEN - (1). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+### Reproducción/Pausa.
+Pulsa el *botón multifunción* (2) para reproducir o pausar una pista.
 
-A través del botón MULTIFUNCIÓN (2) pausa o reanuda la reproducción.
+### volumen + / Volumen -.
+Pulsa los botones *Vol +* (1) y *Vol -* (3) para subir o bajar el volumen. 
 
-Para cambiar de canción presiona el botón AVANCE (3) o RETROCESO (1) durante 2 segundos.
+### Avanzar/Retroceder de pista
+Con la reproducción en marcha, mantén pulsado el botón *Vol +* (1) o el botón *Vol -* (3) para avanzar o retroceder de pista, respectivamente.
+
 
 
