@@ -1,8 +1,8 @@
 ## <quick_guide> Introducción
 
-*	Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones Sport Bluetooth*. Esperamos que los disfrutes.
+*	Gracias por confiar en nosotros y adquirir tus nuevos Energy Earphones 1 Bluetooth. Esperamos que los disfrutes.
 
-*	Estos auriculares deportivos Bluetooth® con función manos libres están diseñados para ofrecerte comodidad y calidad de sonido mientras practicas deporte. Además, podrás responder tus llamadas desde los auriculares sin tocar tu smartphone o interrumpir tu entrenamiento.
+*	Estos auriculares Bluetooth tienen un diseño ergonómico que se adaptan a la forma de tu oído. Con botones multifunción, micrófono integrado y hasta 5 horas de autonomía. La mejor forma de combinar sonido, estilo y comodidad.
 
 *	Antes de comenzar a disfrutar de tus *Energy Earphones Sport Bluetooth* te aconsejamos que leas esta guía para familiarizarte con ellos. 
 
