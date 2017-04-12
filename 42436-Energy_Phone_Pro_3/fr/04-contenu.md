@@ -1,12 +1,8 @@
 ## Contenu du produit
 
-* Energy Phone Pro 4G Pearl.
-* Guide Rapide.
+* Energy Phone Pro 3.
+* Guide rapide.
 * Protecteur d'écran.
-* Câble USB.
-* Adaptateur d'alimentation courant AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz.
-* Outil d'extraction SIM/microSD.
-
-</quick_guide>
-
-
+* Câble USB type C.
+* Adaptateur d'alimentation courant AC/DC 5 V 2 A (Europlug) 100-240 V AC 50-60 Hz.
+* Outil d'extraction des cartes.
