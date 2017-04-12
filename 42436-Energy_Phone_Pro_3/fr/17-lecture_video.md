@@ -1,18 +1,13 @@
-### Lecture de vidéo
+## Lecture de vidéo
 
-![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f3b852845.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad4e6ff0f.jpg)
 
-1. Retourner sur la liste des vidéos.
-2. Play / Pause.
+1. Revenir à la liste des vidéos.
+2. Play/ Pause.
 3. Partager.
-4. Paramètres.
-5. Film en cours.
-6. Durée.
-7. Plein écran.
-8. Avancer.
-9. Arrêter.
-10. Revenir en arrière.
-11. Barre de progression.
-12. Temps de lecture.
-
-
+4. Partager via Bluetooth.
+5. Paramètres.
+6. Film en cours.
+7. Durée totale de la vidéo.
+8. Barre de progression.
+9. Temps de lecture.
