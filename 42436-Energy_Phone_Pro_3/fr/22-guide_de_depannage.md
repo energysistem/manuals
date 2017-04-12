@@ -32,4 +32,3 @@ Cela dépend notamment des conditions d'usage, comme le niveau de luminosité de
 
 11. Quelles sont les fréquences de fonctionnement de mon appareil pour 3G et 4G ?
 Votre Energy Phone Pro 3 est préparé pour fonctionner en mode 3G pour les bandes WCDMA 900/2100 MHz et en mode 4G pour les bandes FDD-LTE 800/1800/2600 MHz.
-<quick_guide>
