@@ -18,8 +18,7 @@
 * Respuesta en frecuencia: 60Hz ~ 18 KHz.
 * Nivel presión sonora 115± 3 dB.
 * Diámetro de los auriculares 15 mm.
-* Sensibilidad del micrófono -42 dB±3 dB (@1 Khz)
-
+* Sensibilidad del micrófono -42 dB±3 dB
 
 ### Características de la batería de litio recargable
 
@@ -29,4 +28,4 @@
 *	Tiempo de carga: 1,5 horas.
 *	Autonomía en uso: 5 horas.
 
-**Nota:  Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería.** 
+**Nota:**  Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería. 
