@@ -21,4 +21,3 @@
 17. Boutons tactiles : Applications récentes, Accueil, Retour
 18. Capteur d'empreintes
 19. Outil d'éjection du plateau des cartes
-<quick_guide>
