@@ -2,7 +2,7 @@
 <quick_guide>
 ### Encendido y apagado.
 
-Para encender el dispositivo mantén pulsado el botón *multifunción* (3) durante 3 segundos. El *LED indicador* (5) se iluminará en azul y el auricular maestro (izquierdo) buscará al derecho para emparejarse. Escucharás un sonido de confirmación que indica que el dispositivo se ha conectado entre sí y ha entrado en modo búsqueda. En este momento está listo para establecer la conexión bluetooth.
+Para encender el dispositivo mantén pulsado el botón *multifunción* (3) durante 3 segundos. El *LED indicador* (5) se iluminará en azul y el auricular maestro (izquierdo) buscará al derecho para emparejarse. Escucharás un sonido de confirmación que indica que tus  *Energy Earphones 6 True Wireless* se han conectado entre sí y ha entrado en modo búsqueda. En este momento está listo para establecer la conexión bluetooth.
 Mientras el dispositivo esté encendido, el *LED indicador* (4) continuará parpadeando en azul. 
 
 Para apagar el dispositivo mantén pulsado el botón  *multifunción* (3) durante 5 segundos. El *LED indicador* (5) se iluminará en rojo durante 2 segundos y escucharás un sonido de confirmación.
