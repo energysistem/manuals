@@ -1,7 +1,5 @@
 ## Types de pulsations
 
-### Gestes élémentaires
-
 
 * Pulsation
 
@@ -15,9 +13,9 @@ Appuyez deux fois rapidement sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg)
 
-* Glisser
+* Déplacer
 
-Glissez le doigt sur la surface sans perdre le contact
+Déplacez le doigt sur la surface sans perdre le contact
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
@@ -27,7 +25,7 @@ Glissez rapidement le doigt sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556aaed15c2.jpg)
 
-* Appuyez
+* Appuyer
 
 Touchez la surface pendant une période prolongée
 
@@ -35,7 +33,6 @@ Touchez la surface pendant une période prolongée
 
 * Zoom
 
-Agrandir ou réduire l'image de l'écran
+Faites un zoom avant et arrière sur l'image de l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
-
