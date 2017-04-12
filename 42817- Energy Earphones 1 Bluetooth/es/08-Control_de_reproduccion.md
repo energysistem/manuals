@@ -1,9 +1,9 @@
 ## Control de reproducción
 
-### Reproducción/Pausa.
+### Reproducción/Pausa
 Pulsa el *botón multifunción* (2) para reproducir o pausar una pista.
 
-### volumen + / Volumen -.
+### volumen + / Volumen -
 Pulsa los botones *Volumen +* (1) y *Volumen -* (3) para subir o bajar el volumen. 
 
 ### Avanzar/Retroceder de pista
