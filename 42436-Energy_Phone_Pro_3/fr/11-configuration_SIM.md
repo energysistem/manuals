@@ -1,6 +1,6 @@
 ## Configuration de la carte SIM
 
-Votre Energy Phone Pro 3 vous offre la possibilité d'utiliser deux cartes nanoSIM ou une carte microSIM et une carte de stockage microSD. Sur la section Paramètres > Cartes SIM, vous pourrez gérer les cartes.
+Votre Energy Phone Pro 3 vous offre la possibilité d'utiliser deux cartes nanoSIM ou une carte nanoSIM et une carte de stockage microSD. Sur la section Paramètres > Cartes SIM, vous pourrez gérer les cartes.
 
 Dans cette section, vous pourrez sélectionner la carte par défaut pour la connexion de données, passer ou recevoir des appels et envoyer ou recevoir des messages texte.
 
