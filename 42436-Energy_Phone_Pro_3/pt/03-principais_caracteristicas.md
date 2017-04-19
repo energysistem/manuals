@@ -11,13 +11,13 @@ PROCESSADOR
 
 DESIGN
 - Corpo de metal
-- Vidro Dragontrail de alta resistência para proteger o ecrã.
+- Vidro Dragontrail de alta resistência para proteger o ecrã
 
 SISTEMA OPERATIVO
 - Android#trade# 7.0 Nougat
 
 CÂMARAS
-- Duas câmaras traseiras (13 MP com sensor SONY IMX258 + 5 MP AF) com dual tone flash.
+- Duas câmaras traseiras (13 MP com sensor SONY IMX258 + 5 MP AF) com dual tone flash
 - Câmara frontal de 5 MP com ângulo de visão (FOV) de 85º
 
 MEMÓRIA
