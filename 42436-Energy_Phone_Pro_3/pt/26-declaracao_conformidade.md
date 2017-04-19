@@ -16,9 +16,9 @@ País de fabricação: China
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-Directive RE (2014/53/UE)
+RE Directive (2014/53/UE)
 EMC Directive (2014/30/EU)
-Directive RoHS (2011/65/UE)
+RoHS Directive (2011/65/UE)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 EN 50332-2:2013 EN 50360:2001+A1:2012; EN 62209-1: 2006; IEC 62209-1: 2005; IEC 62209-2:2010;
 EN 62209-2:2010;
