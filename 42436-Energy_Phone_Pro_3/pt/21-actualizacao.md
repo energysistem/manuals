@@ -12,7 +12,7 @@ Siga os passos seguintes para realizar a instalação:
 
 3. Entre na secção "Suporte" e seleccione o tipo de produto "Smartphone".
 
-4. Seleccione o seu modelo de Energy Phone da lista desdobrável que aparecerá e descarregue a seguir a ultima versão do sistema operativo Android#trade# disponível.**Importante:** Assegure-se de que a versão do sistema operativo que está a descarregar é a específica para o seu modelo e número de série, já que caso contrário, o dispositivo pode resultar danificado.
+4. Seleccione o seu modelo de Energy Phone da lista desdobrável que aparecerá e descarregue a seguir a ultima versão do sistema operativo Android#trade# disponível. **Importante:** Assegure-se de que a versão do sistema operativo que está a descarregar é a específica para o seu modelo e número de série, já que caso contrário, o dispositivo pode resultar danificado.
 
 5. Descompacte o ficheiro no seu computador.
 
