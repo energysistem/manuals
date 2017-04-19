@@ -6,7 +6,7 @@ ECRÃ
 - Resolução Full HD (1920 x 1080 píxeis)
 
 PROCESSADOR
-- Processador Octa Core ARM Cortex A53 a 1,8 GHz
+- Processador Octa Core ARM Cortex A53 a 1,5 GHz
 - GPU Mali T860 MP2
 
 DESIGN
