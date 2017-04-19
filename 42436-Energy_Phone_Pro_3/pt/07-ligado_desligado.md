@@ -1,17 +1,13 @@
-<quick_guide>
 ## Ligar e desligar
 
-Antes de ligar o seu Energy Phone Pro 4G Pearl é preciso controlar que os cartões SIM/microSD estão inseridos nos seus respectivos slots de acordo com as instrucções da secção "Colocar os cartões microSIM 1/nanoSIM 2/microSD". A seguir, prima o botão de ligar/desligar (1) situado no lado direito do dispositivo durante um segundo. Quando o sistema operativo estiver carregado, terá que desbloquear o dispositivo para começar a utilizá-lo. Para começar a utilização, deve inserir o número PIN dos seus cartões microSIM/nanoSIM e a seguir, passar o dedo para cima no ecrã principal.
+Verifique que os cartões nanoSIM/ microSD estão nos seus slots como indicado na secção "Inserir o cartão nanoSIM 1/ nanoSIM 2/ microSD" antes de ligar o seu Energy Phone Pro 3. A seguir, prima o botão ligar/desligar (13) no lado direito do dispositivo durante um segundo.  Quando o sistema operativo estiver carregado, deve desbloquear o dispositivo para começar a utilizá-lo. Para começar a utilização, deve inserir os números PIN dos seus cartões nanoSIM e a seguir, deslizar o dedo para cima no ecrã principal.
 
-Para desligar o dispositivo mantenha premido o botão de ligar/desligar (1) até que apareça o menu de desligamento. Depois, escolha a opção "Desligar".
+Para desligar o dispositivo prima o botão ligar/desligar (13) até que apareça o menu "Desligar". Depois, escolha a opção "Desligar". Prima brevemente o botão ligar/desligar (13) para bloquear/desbloquear o dispositivo ao mesmo tempo que desliga ou liga o ecrã. Uma vez configurado o sensor de impressões digitais (18), pode utilizá-lo para desbloquear o dispositivo (consulte a secção "Sensor de impressões digitais").
 
-Um breve toque no botão de ligar/desligar (1) bloqueia/desbloqueia o dispositivo ao mesmo tempo que liga ou desliga o ecrã.
 
-### Colocar os cartões microSIM 1/nanoSIM 2/microSD
+## Inserir cartões nanoSIM 1/nanoSIM 2/microSD
 
-Deve utilizar apenas a ferramenta de ejectar cartões SIM/microSD (17) que vai encontrar na parte exterior do envelope fornecido com o produto para extrair o slot (2) e colocar os cartões.  Insira a ferramenta no orifício do slot (2) referido. Uma vez extraído o slot, vai poder verificar as duas configurações possíveis de cartões SIM e/ou SD que oferece o dispositivo e que são referidas a seguir:
+Utilize apenas a ferramenta para ejectar cartões (19) que vai encontrar na parte exterior do envelope fornecido com o produto para extrair o suporte para cartões (1) e colocar os cartões nanoSIM/ microSD. Insira a ferramenta no orifício do suporte (1). Uma vez extraído o suporte, vai poder verificar as duas configurações possíveis de cartões SIM e SD que oferece o dispositivo:
 
-Option A: Cartão microSIM 1 + Cartão microSD.
-Option B: Cartão microSIM 1 + Cartão nanoSIM 2.
-
-</quick_guide>
+Opção A: Cartão nanoSIM 1 + cartão microSD.
+Opção B: Cartão nanoSIM 1 + cartão nanoSIM 2.
