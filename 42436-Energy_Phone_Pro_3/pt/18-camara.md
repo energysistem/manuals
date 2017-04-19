@@ -1,14 +1,20 @@
 ## Câmara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f342027f7.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad43ae485.jpg)
 
 
-1. Modos de imagem.
-2. Filtros de imagem.
-3. Mudar câmara.
-4. Flash.
-5. Definições.
-6. Pré-visualizar.
-7. Seleccionar modo.
-8. Botão de disparo.
-9. Aceder à galeria.
+1. Fotos panorâmicas.
+2. Fotos PIP.
+3. Dual Cam.
+4. Câmara normal.
+5. Pré-visualizar.
+6. Câmara lenta.
+7. Modo HDR.
+8. Modos do flash: Ligado, Desligado, Automático.
+9. Alternar entre a câmara frontal e a câmara traseira.
+10. Aceder à galeria.
+11. Botão de disparo.
+12. Aceder aos vídeos.
+13. Definições.
+
+
