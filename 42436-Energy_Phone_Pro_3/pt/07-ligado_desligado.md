@@ -5,7 +5,7 @@ Verifique que os cartões nanoSIM/ microSD estão nos seus slots como indicado n
 Para desligar o dispositivo prima o botão ligar/desligar (13) até que apareça o menu "Desligar". Depois, escolha a opção "Desligar". Prima brevemente o botão ligar/desligar (13) para bloquear/desbloquear o dispositivo ao mesmo tempo que desliga ou liga o ecrã. Uma vez configurado o sensor de impressões digitais (18), pode utilizá-lo para desbloquear o dispositivo (consulte a secção "Sensor de impressões digitais").
 
 
-## Inserir cartões nanoSIM 1/nanoSIM 2/microSD
+## Inserir cartões nanoSIM 1/ nanoSIM 2/ microSD
 
 Utilize apenas a ferramenta para ejectar cartões (19) que vai encontrar na parte exterior do envelope fornecido com o produto para extrair o suporte para cartões (1) e colocar os cartões nanoSIM/ microSD. Insira a ferramenta no orifício do suporte (1). Uma vez extraído o suporte, vai poder verificar as duas configurações possíveis de cartões SIM e SD que oferece o dispositivo:
 
