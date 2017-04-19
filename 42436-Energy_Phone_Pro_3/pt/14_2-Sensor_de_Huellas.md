@@ -4,3 +4,9 @@ Aceda ao menu Definições > Segurança > Impressão digital para digitalizar as
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad6111d4c.jpg)
 
+## Menu do navegador
+
+No menu de Navegação (1) pode desativar os botões tácteis no ecrã (2) e utilizar em vez disso o sensor de impressões digitais para navegar: voltar para atrás (toque breve), voltar para o ecrã de início (um clique) ou abrir a janela de aplicações utilizadas recentemente (duplo clique). Também pode alterar a ordem dos botões tácteis no ecrã (3).
+
+![Imagen2](http://static.energysistem.com/images/manuals/42436/58d2ad742a8b4.jpg)
+
