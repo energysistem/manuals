@@ -18,3 +18,6 @@
 13. Definições.
 
 
+### Dual Cam
+
+Para poder tirar fotografias no modo "Dual Cam" (3), habilite este modo. Abra as suas fotografias com a aplicação Galeria para utilizar as funções da Dual Cam e editar as suas imagens.
