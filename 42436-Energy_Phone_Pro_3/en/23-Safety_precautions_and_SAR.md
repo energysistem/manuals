@@ -8,4 +8,5 @@ The power socket that you intend to use to charge the device battery should be e
 
 ### Exposure information (SAR)
 This device complies with the guidelines developed by the ICNIRP for exposure to radio waves. The unit does not exceed the SAR radio wave exposure limits. This unit measures the amount of radio frequency energy absorbed by the body when using a device. The SAR limit adopted by Europe is 2.0 W/kg averaged over 10 grams of tissue. The test performed showed that the highest SAR value for this device when using it near the ear/head is 0.086 W/Kg.
+
 </quick_guide>
