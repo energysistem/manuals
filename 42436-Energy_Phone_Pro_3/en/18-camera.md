@@ -16,3 +16,7 @@
 11. Shutter button.
 12. Access to videos.
 13. Settings.
+
+### Dual Cam
+
+In order to take pictures with the Dual Cam, enable the "Dual Cam" mode (3) first. Access the Gallery app to open your photos and use all Dual Cam features as well as editing tools. 
