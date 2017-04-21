@@ -13,4 +13,5 @@ You can set your microSD card as portable storage or internal storage. If you se
 Your Energy Phone has also a microUSB Type-C port with HOST and OTG functions. Use the HOST mode to interact with your PC. You only need to connect the cable that comes with the product to the PC to establish the connection and enjoy all mode functions.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58dd24aa7b102.jpg)
+
 OTG mode allows you to connect external devices such as keyboards, mice, external memories, etc. and charge other devices. To use this mode, you will need a microUSB to USB female adapter (not included).
