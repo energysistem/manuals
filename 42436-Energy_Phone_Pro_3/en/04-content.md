@@ -1,11 +1,9 @@
-<quick_guide>
-## Product contents
+## Product content
 
-* Energy Phone Pro 4G Pearl.
+* Energy Phone Pro 3.
 * Quick guide.
 * Screen protector.
-* USB cable.
-* AC/DC 5V 1A (Europlug) 100-240V AC 50-60Hz power adapter.
-* SIM/microSD extraction tool.
+* USB Type-C cable.
+* AC/DC power adapter (EU plug): 100-240 V AC 50-60 Hz / 5 V 2 A.
+* Card eject tool.
 
-</quick_guide>
