@@ -12,5 +12,6 @@ To place the nanoSIM/ microSD cards you should remove the card tray (1) using th
 
 Option A: NanoSIM card 1 + microSD storage card.
 Option B: NanoSIM card 1 + nanoSIM card 2.
+
 </quick_guide>
 
