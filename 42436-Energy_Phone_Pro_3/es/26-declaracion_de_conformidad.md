@@ -17,7 +17,7 @@ País de fabricación: China
 
 al que se refiere esta declaración, con las normas u otros documentos normativos
 
-RE Directive (2014/53/EU)
+RED Directive (2014/53/EU)
 EMC Directive (2014/30/EU)
 RoHS Directive (2011/65/EU)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
