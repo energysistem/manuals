@@ -1,8 +1,5 @@
 ## Main gestures
 
-### Basic gestures
-
-
 * Tap
 
 Touch the screen briefly
@@ -35,9 +32,10 @@ Touch the screen for an extended period of time
 
 * Zoom
 
-Zoom in and out the image on screen
+Pinch the screen with two fingers to zoom in or out 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
+
 
 
 
