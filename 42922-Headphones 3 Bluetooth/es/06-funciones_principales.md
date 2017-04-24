@@ -2,11 +2,11 @@
 
 ### <quick_guide> Encendido y apagado del dispositivo
 
-Para encender el dispositivo, pulsa durante 2 segundos el botón MULTIFUNCIÓN (2) y verás que el INDICADOR (5) parpadea de color azul. Escucharás por el dispositivo un sonido de bienvenida que indica que el dispositivo está encendido.
+Para encender tus *Energy Headphones 3 bluetooth*, pulsa durante 2 segundos el botón MULTIFUNCIÓN (2) y verás que el INDICADOR (5) parpadea de color azul. Escucharás por los auriculares un sonido de bienvenida que indica que están encendidos.
 
-Para apagar el dispositivo vuelve a pulsar durante 4 segundos el botón MULTIFUNCIÓN (2),  y escucharás un sonido que indica que el dispositivo está apagado. El INDICADOR  (5) dejará de parpadear.
+Para apagar tus *Energy Headphones 3 bluetooth* vuelve a pulsar durante 4 segundos el botón MULTIFUNCIÓN (2),  y escucharás un sonido que indica que se han apagado. El INDICADOR (5) dejará de parpadear.
 
-Mientras esté encendido el dispositivo el INDICADOR (5) se mantendrá parpadeando en color azul.
+Mientras estén encendidos tus *Energy Headphones 3 bluetooth* el INDICADOR (5) se mantendrá parpadeando en color azul.
 
 ### Carga de la batería
 
