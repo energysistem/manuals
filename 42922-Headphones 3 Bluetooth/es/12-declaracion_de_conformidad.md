@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Auriculares inalámbricos 
 Marca: Energy Sistem 
-Modelo: Energy Headphones 1 Bluetooth 
+Modelo: Energy Headphones 3 Bluetooth 
 Fabricante: Energy Sistem Technology, S.A. 
 País de fabricación: China 
 
