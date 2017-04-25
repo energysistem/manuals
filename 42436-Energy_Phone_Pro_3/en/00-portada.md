@@ -1,3 +1,3 @@
 <quick_guide>
-![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f30f2d1a4.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad8d4ac00.jpg)
 </quick_guide>
