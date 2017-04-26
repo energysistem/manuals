@@ -13,5 +13,5 @@ Para optimizar el uso de la batería de tu *MP4 Energy* , puedes desactivar la r
 
 Para alargar la vida de la batería, es recomendable no deshabilitar este sistema de ahorro de energía.
 
-Nota: Te recomendamos que no almacenes el aparato ni lo dejes en desuso durante un periodo largo de tiempo con la batería completamente descargada.
+**Nota:** Te recomendamos que no almacenes el aparato ni lo dejes en desuso durante un periodo largo de tiempo con la batería completamente descargada.
 
