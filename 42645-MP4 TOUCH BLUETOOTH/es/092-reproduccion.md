@@ -6,7 +6,7 @@ Tu MP4 Energy te permite disfrutar de audio codificado en los formatos MP3 / FLA
 
 Para escuchar música a través de conexión Bluetooth, selecciona la opción *Todas las canciones* del submenú que se encuentra en la opción *Bluetooth* del menú principal. Esto te llevará a un listado de las canciones contenidas en tu reproductor, tanto en la memoria interna de tu MP4 Touch o memoria externa microSD. Puedes seleccionar el archivo de música que quieras, tal y como lo harías desde tu ordenador.
 
-#### Modo de reproducción.
+#### Modo de reproducción por bluetooth
 
 Pulsando el botón *MENU (1)* mientras la reproducción de música está en marcha o pausada, puedes acceder al submenú de ajustes de reproducción.
 
@@ -39,16 +39,14 @@ Con esta opción veras todas las canciones que hayas grabado en tu MP4 Energy, o
 
 **“Lista de reproducción”**: Con esta opción, tendrás acceso a una lista de canciones personalizada.  Dispones de 3 Listas editables para incluir canciones: *Lista canc. [1]*, *Lista canc. [2]* y *Lista canc. [3]*. Para añadir o quitar canciones a cada lista debes seguir las instrucciones que se indican en el apartado **“Ajustes en las listas de reproducción”**.
 
-((  **“Crear lista de reproducción”**: Usa esta opción cuando grabes o borres canciones para que se vuelvan a crear las listas de ordenación por álbum, artista o genero.  ))
-
 **“Índice principal / Tarjeta”**: 
 Con esta opción puedes explorar los directorios de la memoria interna de tu *MP4 Touch* o memoria externa microSD; y seleccionar el archivo de música que quieras, tal y como lo harías desde tu ordenador.
 
 Para comenzar con la reproducción de música, accede al archivo que desees reproducir seleccionando cualquiera de las opciones ya comentadas: ‘Todas las canciones’, ‘por álbum’, ‘por artista’, ‘género’ o por navegación por la memoria interna o tarjeta 
 
-#### Modo reproducción
+#### Modo reproducción por cable
 
-Manteniendo pulsado durante 2 segundos el botón *MENU (1)* mientras la reproducción de música está en pausa o en marcha, puedes acceder al submenú de ajustes de reproducción:
+Manteniendo pulsado durante 2 segundos el botón *MENU (1)* mientras la reproducción de música está en pausa o en marcha, puedes acceder al submenú de ajustes de reproducción.
 
 **“Ajustes de reproducción”**: 
 1)	Repetir:
