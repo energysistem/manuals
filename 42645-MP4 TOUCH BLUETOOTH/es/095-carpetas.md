@@ -8,7 +8,7 @@ Ten en cuenta que mientras navegas por las carpetas desde una sección concreta 
 
 Para ver todos los archivos de la memoria a la vez, escoge la opción *Carpetas* del menú principal.
 
-Mediante los botones *Volumen + (9)* y *Volumen – (6)* puedes seleccionar la anterior/siguiente carpeta o fichero. Con el botón *Reproducción / Pausa (7)*  puedes entrar en la carpeta o fichero seleccionado.
+Mediante los botones *Volumen + (9)* y *Volumen – (6)* puedes navegar hacia arriba y abajo a través de los archivos. Con el botón *Reproducción / Pausa (7)*  puedes entrar en la carpeta o fichero seleccionado.
 
 Para retroceder en el menú de navegación por carpetas, pulsa brevemente *MENU (1)*, o mantenlo apretado para volver al menú principal.
 
