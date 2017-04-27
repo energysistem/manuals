@@ -16,6 +16,6 @@ Accede al submenú de opciones pulsando el botón *MENU (1)* durante unos segund
 
 **Borrar video**: Escoge esta opción para borrar el vídeo en el que te encuentres.
 
-Selecciona la opción ‘Crea lista de reproducción/ refrescar’: Usa esta opción cuando grabes o borres imágenes para que se vuelvan a crear las listas de ordenación en tu memoria o externa.
+Selecciona la opción ‘Refrescar’ cuando grabes o borres imágenes para que se vuelvan a crear las listas de ordenación en tu memoria o externa.
 
 Para acceder de nuevo al vídeo que estabas reproduciendo, pulsa brevemente el botón *MENU (1)*.
