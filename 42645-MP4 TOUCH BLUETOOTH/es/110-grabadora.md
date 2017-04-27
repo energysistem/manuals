@@ -10,7 +10,5 @@ Para borrar el archivo de grabación seleccionado, mantén pulsado durante 2 seg
 
 Para retroceder al menú anterior pulsa brevemente el botón *MENU(1)*.
 
-**Almacenamiento**: Selecciona la preferencia de almacenamiento para tus grabaciones de voz: memoria interna o memoria externa.
-
 **Formato de grabación**: Selecciona el formato de grabación: ‘MP3’, ‘WAV’ o ACT’.
 
