@@ -8,7 +8,7 @@ Para escuchar música a través de conexión Bluetooth, selecciona la opción *T
 
 #### Modo de reproducción por bluetooth
 
-Pulsando el botón *MENU (1)* mientras la reproducción de música está en marcha o pausada, puedes acceder al submenú de ajustes de reproducción.
+Manteniendo pulsado durante 2 segundos el botón *MENU (1)* mientras la reproducción de música está en marcha o pausada, puedes acceder al submenú de ajustes de reproducción.
 
 **“Ajustes de reproducción”**: 
 1)	Repetir:
