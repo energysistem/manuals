@@ -20,7 +20,7 @@ EN 301 489-17 V2.2.1 (2012-09) <br/>
 EN 62479:2010 <br/>
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
 
-in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of March 09th 1999.
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of March 16th April 2014.
 
 Finestrat, 01st February 2017.
 
