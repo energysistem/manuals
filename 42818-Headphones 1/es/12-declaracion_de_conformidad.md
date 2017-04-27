@@ -28,7 +28,7 @@ EN 50332-1:2013
 
 EN 50332-2:2013
 
-de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
 
 Finestrat, 01 de Febrero de 2017.
 
