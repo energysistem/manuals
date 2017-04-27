@@ -19,7 +19,7 @@ Para salir del modo Grabador, mantén pulsado el botón *MENU (1)*.
 
 
 
-Una vez tengas una lista de emisoras almacenada. Desde la ventana del dial FM, mantén pulsado el botón *MENU (1)* y accede al submenú de opciones de radio para que se muestren las diferentes opciones disponibles. 
+Una vez tengas una lista de emisoras almacenada. Desde la ventana del dial FM mientras estás escuchando una emisora previamente seleccionada, mantén pulsado el botón *MENU (1)* y accede al submenú de opciones de radio para que se muestren las diferentes opciones disponibles. 
 
 **Iniciar grabación radio FM**: Puedes grabar la emisión de radio FM en ficheros WAV de audio. Para ello selecciona esta opción con el botón *Reproducción / Pausa (7)* para comenzar a grabar. Puedes pausar la grabación pulsando brevemente *Reproducción / Pausa (7)* y reanudarla más adelante pulsando *Reproducción / Pausa (7)* de nuevo. Para terminar de grabar pulsa el botón *MENU (1)*.
 
@@ -28,7 +28,9 @@ Una vez tengas una lista de emisoras almacenada. Desde la ventana del dial FM, m
 
 **Eliminar presintonía**: Escoge esta opción para borrar la presintonía en la lista de emisoras predefinida.
 
-**Búsqueda automática**: Realiza un escaneo del rango de frecuencias y guarda las
+**Sincronización automática**: Realiza un escaneo del rango de frecuencias y guarda las
 30 primeras emisoras encontradas en las presintonías.
+
+**Grabación de FM**: Escoge esta opción para escuchar las grabaciones de ráddio FM realizadas anteriormente. 
 
 Para retroceder al menú principal del reproductor, pulsa el botón *MENU (1)*. Al regresar al menú principal, terminará la recepción de radio FM.
