@@ -10,4 +10,4 @@ Con la opción **Ajustes de secuencia** del submenú  configuras el tipo de repr
 
 Para retroceder al menú anterior, pulsa el botón *MENU (1)*.
 
-Selecciona la opción ‘Crea lista de reproducción/ refrescar’: Usa esta opción cuando grabes o borres imágenes para que se vuelvan a crear las listas de ordenación en tu memoria o externa.
+Selecciona la opción ‘Refrescar’ cuando grabes o borres imágenes para que se vuelvan a crear las listas de ordenación en tu memoria o externa.
