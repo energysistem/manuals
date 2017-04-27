@@ -5,5 +5,5 @@
 * Screen protector.
 * USB Type-C cable.
 * AC/DC power adapter (EU plug): 100-240 V AC 50-60 Hz / 5 V 2 A.
-* Card eject tool.
+* Card tray eject tool.
 
