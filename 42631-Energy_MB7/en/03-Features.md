@@ -20,8 +20,8 @@
 *	Microphone sensitivity: - 42 dB.
 *	Speaker diameter: 50 mm.
 *	Frequency response:  20 - 20,000 Hz.
-*	S/N ratio >; 80 dB.
-*	THD <; 1%
+*	S/N ratio > 80 dB.
+*	THD < 1%
 
 ### Battery specifications
 *	Capacity: 2000 mAh.
