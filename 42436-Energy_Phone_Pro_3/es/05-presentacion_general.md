@@ -1,7 +1,7 @@
 
 ## Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/42436/58d2ad858107d.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42436/5902ee40c5131.jpg)
 
 1. Bandeja de tarjetas nanoSIM 1/ nanoSIM 2/ microSD
 2. Salida de auriculares
