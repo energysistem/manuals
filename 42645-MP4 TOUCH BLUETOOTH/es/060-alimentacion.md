@@ -1,6 +1,6 @@
 ## Encendido, apagado y alimentación
 
-Enciende y apaga tu *Energy MP4 Touch Bluetooth* manteniendo el interruptor *On/Off (4)* hacia arriba durante 2 segundos. Para bloquear/desbloquear el dispositivo, sitúa el interruptor *On/Off (4)* en la posición inferior/superior, respectivamente.
+Enciende y apaga tu *Energy MP4 Touch Bluetooth* manteniendo el interruptor *Encendido/Apagado/Bloqueo (4)* hacia arriba durante 2 segundos. Para bloquear/desbloquear el dispositivo, sitúa el interruptor *Encendido/Apagado/Bloqueo (4)* en la posición inferior/superior, respectivamente.
 
 Para cargar la batería conecta el cable micro-USB a la Conexión USB (11) y, a continuación, conecta el otro extremo a un ordenador u otro dispositivo con puerto de carga USB.
 
