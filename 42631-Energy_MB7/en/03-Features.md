@@ -26,7 +26,7 @@
 ### Battery specifications
 *	Capacity: 2000 mAh.
 *	MicroUSB charging system.
-*	Charging time: 4 hours.
+*	Charging time: 4.5 hours.
 *	Approximate battery life at an average volume level: 9 hours*.
 
  *Approximate battery life. Higher volume means higher battery consumption.
