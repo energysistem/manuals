@@ -1,6 +1,6 @@
 ## General overview
 
-![Imagen2](http://static.energysistem.com/images/manuals/42436/58d2ad858107d.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42436/5902ee40c5131.jpg)
 
 1. NanoSIM 1/nanoSIM 2/microSD card tray
 2. Headphones output
