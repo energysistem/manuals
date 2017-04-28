@@ -1,5 +1,5 @@
 ## <quick_guide> Presentación general
-
+<br><br>
 
 |  |  |
 |:-------|:-------|
