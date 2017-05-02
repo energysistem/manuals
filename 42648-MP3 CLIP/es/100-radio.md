@@ -10,7 +10,7 @@ Para sintonizar las emisoras de forma automática, accede al submenú de la radi
 
 Dispones de diferentes opciones en el submenú de Radio FM. Desplázate entre las opciones con los botones *Avance (3)* o *Retroceso (1)* y selecciona pulsando el botón *Reproducción / Pausa (4)*. Para salir del submenú de opciones, pulsa el botón *Menu (5)* de nuevo:
 
-**Guardar **: Esta opción te permite guardar la emisora que estas escuchando en la próxima presintonía libre. Si todas las presintonías están ocupadas, no se grabara. Se almacenará la emisora que estás escuchando en la memoria interna del dispositivo, como “01”. Repite este proceso para crear un listado de hasta 20 emisoras con el orden que tú elijas.
+**Guardar**: Esta opción te permite guardar la emisora que estas escuchando en la próxima presintonía libre. Si todas las presintonías están ocupadas, no se grabara. Se almacenará la emisora que estás escuchando en la memoria interna del dispositivo, como “01”. Repite este proceso para crear un listado de hasta 20 emisoras con el orden que tú elijas.
 
 **Grabar**: Puedes grabar la emisión de radio FM en ficheros WAV de audio.
 Para ello selecciona esta opción con el botón *Reproducción / Pausa (7)* para comenzar a grabar. Puedes pausar la grabación pulsando brevemente *Reproducción / Pausa (4)* y reanudarla más adelante pulsando *Reproducción / Pausa (4)* de nuevo. Para terminar de grabar mantén pulsado el botón *Menu (5)*. Accede a las grabaciones de radio realizadas, desde el menú principal, accediendo al modo ‘Grabaciones’.
