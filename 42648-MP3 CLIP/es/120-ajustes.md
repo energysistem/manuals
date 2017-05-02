@@ -16,6 +16,10 @@ Para ello entra en *Ajustes* desde menú principal. Desplázate entre las opcion
 
 **Contraste**: Con esta opción puedes editar el brillo de la pantalla.
 
+**Info de memoria**: Escoge esta opción para ver información sobre la memoria del dispositivo. Con esta opción podrás ver que capacidad de la memoria está siendo usada.
+
+**Firmware**: Escoge esta opción para ver todas la versión de firmware instalada en el dispositivo. Verás tanto la versión como la fecha de lanzamiento de la versión.
+
 **Restaurar**: Con esta opción puedes restablecer a los valores predeterminados del dispositivo.
 
 **Bloqueo**: Con esta opción puedes seleccionar un tiempo (en segundos) para que los botones del dispositivo se bloqueen automáticamente. Escoge ‘0’ segundos para que el dispositivo nunca se bloquee, aun estando en reposo.
