@@ -23,7 +23,7 @@ Escoge esta opción para borrar todas las canciones de la memoria interna.
 
 **“Lista de repr.”**: Usa esta opción cuando grabes o borres canciones para que se vuelvan a crear las listas de ordenación por álbum, artista o género:
 
-1.	**Crear lista / Refrescar**: Utiliza esta opción para vuelvan a crear las listas de ordenación por álbum, artista o género.
+1.	**Refrescar**: Utiliza esta opción para vuelvan a crear las listas de ordenación por álbum, artista o género.
 
 2.	**“Toda las canciones”**:  Con esta opción veras todas las canciones que hayas grabado en tu MP3 Energy, ordenadas por orden alfabético según el nombre del archivo.
 
@@ -53,7 +53,7 @@ Para cancelar la función, pulsa brevemente el botón *Reproducción / Pausa (4)
 
 **“Lista de repr.”**: Usa esta opción cuando grabes o borres canciones para que se vuelvan a crear las listas de ordenación por álbum, artista o genero:
 
-1.	**Crear lista / Refrescar**: Utiliza esta opción para vuelvan a crear las listas de ordenación por álbum, artista o género.
+1.	**Refrescar**: Utiliza esta opción para vuelvan a crear las listas de ordenación por álbum, artista o género.
 
 2.	**“Toda las canciones”**: Con esta opción veras todas las canciones que hayas grabado en tu MP3 Energy, ordenadas por orden alfabético según el nombre del archivo.
 
