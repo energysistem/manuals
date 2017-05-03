@@ -4,15 +4,17 @@ Tu *MP3 Clip* dispone de una Radio FM integrada con presintonías y posibilidad 
 
 Desplázate entre las opciones con los botones *Avance (3)* o *Retroceso (1)* y selecciona pulsando el botón *Reproducción / Pausa (4)*. Para al menú principal mantén pulsado el botón MENU (5).
 
-Para hacer una primera lista de presintonías, deberás utilizar una de las opciones de búsqueda disponibles en el menú, dispones de la opción de búsqueda manual y de la opción de búsqueda automática.
+En el menú de radio nos encontramos las siguientes opciones:
+
+**Presets**: En esta opción, podrás acceder a la lista de emisoras previamente almacenadas en la memoria del MP3. Dispones de una lista de hasta 30 emisoras. Si es la primera vez que utilizas el *MP3 Clip*, no tendrá almacenada ninguna presintonía.
+
+**Sintonizaciones:**Para hacer una primera lista de presintonías, deberás utilizar una de las opciones de búsqueda disponibles en el menú, dispones de la opción de búsqueda manual y de la opción de búsqueda automática.
 
 *Nota*: Asegúrate que tienes los auriculares conectados a la salida de audio. Si no están conectados, no se podrá realizar la búsqueda FM correctamente.
 
-**Presets**: En esta opción, podrás acceder a la lista de emisoras previamente almacenadas en la memoria del MP3. Dispones de una lista de hasta 30 emisoras. Si es la primera vez que utilizas el *MP3 Clip*, no tendrá almacenada ninguna presintonía. 
+***Sintonización manual***: Accederás directamente al navegador de frecuencias del dial. Con los botones *Avance (3)* o *Retroceso (1)*  puedes desplazarte por el rango de frecuencias del dial. Con pulsaciones simples avanzas/ retrocedes un paso, mientras que manteniendo pulsado el botón se realizan auto búsquedas.  Utiliza los botones *Volumen + (9)* y *Volumen – (6)* para subir o bajar el volumen respectivamente y selecciona la presintonía almacenada en la lista de favoritos, pulsando el botón *Reproducción / Pausa (4)*.
 
-**Sintonización manual**: Accederás directamente al navegador de frecuencias del dial. Con los botones *Avance (3)* o *Retroceso (1)*  puedes desplazarte por el rango de frecuencias del dial. Con pulsaciones simples avanzas/ retrocedes un paso, mientras que manteniendo pulsado el botón se realizan auto búsquedas.  Utiliza los botones *Volumen + (9)* y *Volumen – (6)* para subir o bajar el volumen respectivamente y selecciona la presintonía almacenada en la lista de favoritos, pulsando el botón *Reproducción / Pausa (4)*.
-
-**Sintonización automática**: Realiza un escaneo del rango de frecuencias y guarda las 30 primeras emisoras encontradas en las presintonías.
+***Sintonización automática***: Realiza un escaneo del rango de frecuencias y guarda las 30 primeras emisoras encontradas en las presintonías.
 
 **Grabación FM**: En esta opción podrás acceder a los archivos de audio que hayas grabado en la opción de grabación FM (ver información más adelante). Para escucharlos, accede a carpeta correspondiente (almacenada previamente en la memoria interna o externa) del menú principal o estando en el modo Carpetas, selecciona la carpeta RECORD mediante la navegación por carpetas y pulsa *Reproducción / Pausa (4)* sobre el fichero ‘FMRECXXX’ que desees escuchar.
 Para salir del modo Grabador, mantén pulsado el botón *MENU (5)*.
