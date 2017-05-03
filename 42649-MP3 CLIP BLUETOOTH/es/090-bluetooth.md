@@ -8,15 +8,7 @@ Una vez emparejado un dispositivo, quedará almacenado en la memoria, pudiéndol
 
 Para escuchar música a través de conexión Bluetooth, selecciona la opción “Todas las canciones” del submenú. Esto te llevará a un listado de las canciones contenidas tanto en la memoria de tu reproductor, como en la tarjeta MicroSd externa.
 
-**Nota**: Si queremos realizar una nueva búsqueda de, deberemos seleccionar la opción *Parar conexión* desde la lista de *Dispositivos Bluetooth* y repetir la misma operación accediendo a la opción *Búsqueda Bluetooth* del submenú.
-
 Podemos reanudar la conexión del dispositivo en nuestra lista de *Dispositivos Bluetooth* seleccionando la opción *Conexión al dispositivo* o eliminar el dispositivo de la lista seleccionando la opción *Cancelar emparejado*.
-
-Para escuchar música a través de conexión Bluetooth, selecciona la opción *Todas las canciones* del submenú. Esto te llevará a un listado de las canciones contenidas en tu reproductor, tanto en la memoria interna de tu MP3 o memoria externa microSD. Puedes seleccionar el archivo de música que quieras, tal y como lo harías desde tu ordenador.
-
-Mediante los botones *Avance (3)* y *Retroceso (1)* puedes seleccionar la anterior/siguiente carpeta o fichero. Con el botón *Reproducción / Pausa (4)*  puedes entrar en la carpeta o fichero seleccionado.
-
-Para retroceder en el menú de navegación por carpetas, pulsa brevemente *MENU (5)*.
 
 Selecciona la opción *Música* del submenú para entrar al menú de reproducción de música, pulsa *Reproducción / Pausa (4)* para acceder.
 
