@@ -1,6 +1,6 @@
 ## Control de llamadas
 
-Con los *Energy Earphones Sport 1 Bluetooth* sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular.
+Con los *Energy Earphones Sport 3 Bluetooth* sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular.
 
 ### Contestar una llamada
 Para contestar una llamada puedes presionar cualquiera de los botones, ya sea el *BOTÓN MULTIFUNCIÓN* (1), el de *VOLUMEN -* (2) o el de *VOLUMEN  +* (3), una única vez.
