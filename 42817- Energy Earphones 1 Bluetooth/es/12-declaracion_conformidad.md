@@ -14,19 +14,16 @@ País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 300 328 V2.1.1
+EN 60950-1-2006+A11:2009+A1:2011+A12:2013
 
-EN 301 489-17 V3.1.1
+EN 301 489-1 V1.9.2:2011-09 
 
-EN 301 489-1 V2.2.1 
+EN 301 489-17 V2.2.1: 2012-09
+
+ETSI EN 300 328 V1.7.1 (2006-10)
 
 EN 62479:2010 
 
-EN 60065:2014 
-
-EN 50332-1:2013
-
-EN 50332-2:2013
 
 de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
