@@ -1,6 +1,6 @@
 ## Fonctions principales
 <quick_guide>
-### Marche et arrêt.
+### Marche et arrêt
 
 Pour allumer l'appareil, maintenez enfoncé le bouton *multifonction* (3) pendant 3 secondes. L'*indicateur LED* (5) s'allumera en bleu et l'écouteur principal (gauche) se synchronisera avec l'écouteur droit. Vous entendrez son confirmant que vos *Energy Earphones 6 True Wireless* sont couplés entre eux et sont en mode recherche. À ce stade, ils seront prêts à établir une connexion Bluetooth.
 Lorsque l'appareil sera allumé, l'*indicateur LED* (5) clignotera en bleu. 
