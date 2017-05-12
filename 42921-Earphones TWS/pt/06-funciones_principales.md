@@ -1,20 +1,22 @@
 ## Funções principais
 <quick_guide>
-### Ligar e desligar o dispositivo
+### Ligar e desligar
 
-Para ligar o dispositivo, prima o botão *MULTIFUNÇÃO* (1) durante 2 segundos e vai ver o *INDICADOR* (4) tornar-se azul. Ouvirá um som de confirmação no momento que ligue o dispositivo. O *INDICADOR* (4) continua a piscar em azul enquanto o dispositivo está ligado. 
+Prima o botão *multifunção* (3) durante 3 segundos para ligar o dispositivo. O *indicador LED* (5) acende azul e o auscultador principal (esquerdo) inicia a pesquisa para estabelecer a ligação com o auscultador direito. Ouvirá o som que confirma que os seus *Energy Earphones 6 True Wireless* foram sincronizados e que o modo pesquisa foi iniciado. Nesse momento os seus auscultadores estão prontos para estabelecer a ligação Bluetooth com outros dispositivos.
+O *Indicador LED* (5) continua a piscar azul enquanto o dispositivo está ligado. 
 
-Prima o *BOTÃO MULTIFUNÇÃO* (1) durante 3 segundos para desligar o dispositivo. A seguir, vai escutar o som que indica que o dispositivo desligou correctamente.
+Prima o botão *multifunção* (3) durante 5 segundos para desligar o dispositivo. O *Indicador LED* (5) acende vermelho durante 2 segundos. Ouvirá o som que confirma que o dispositivo foi desligado.
 
 </quick_guide>
 
 ### Carregar a bateria
 
-No momento que o nível da bateria é inferior a 10%, o *INDICADOR* (4) torna-se vermelho, começa a piscar e o som avisa para que carregue a bateria através da *PORTA DE CARREGAMENTO* (6). 
+No momento que o nível da bateria é inferior a 10%, o *indicador LED* (5) pisca vermelho e o som avisa para que carregue a bateria através da *porta de carregamento* (2). 
 
-Para carregá-la, só tem que ligar a extremidade mini USB do cabo USB (fornecido com o produto) à *PORTA DE CARREGAMENTO* (6) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc).
+Para recarregar a bateria, remova os *suportes flexíveis e ajustáveis* (1) e ligue uma extremidade do cabo de carregamento fornecido à *porta microUSB* (2) dos auscultadores. Ligue a outra extremidade do cabo a qualquer outro dispositivo com porta USB que possa fornecer energia (computador, carregador USB de parede, de carro, etc).
 
-O *INDICADOR* (4) fica vermelho durante o processo de carregamento e torna-se azul quando a bateria está completamente carregada.
+O *indicador LED* (5) fica vermelho durante o carregamento e pisca azul quando a bateria estiver completamente carregada. O processo de carregamento leva cerca de uma hora e meia.
 
 
-**Importante:** Recomendamos não deixar a bateria dos *Energy Earphones Sport 1 Bluetooth* completamente descarregada durante longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+**Importante:** Recomendamos não deixar a bateria dos *Energy Earphones 6 True Wireless* completamente descarregada por longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+
