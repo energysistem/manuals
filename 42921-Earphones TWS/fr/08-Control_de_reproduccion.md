@@ -1,7 +1,16 @@
-## Contrôle de lecture
+## Commandes de l'appareil
 
-Pour contrôler le volume de lecture, appuyez sur les boutons *VOLUME +* (3) o *VOLUME -* (2). Vous entendrez un bip lorsque vous atteindrez le volume maximal et minimal.
+### Lecture/ Pause
+Appuyez brièvement sur le *bouton multifonction* (3).
 
-Mettez la lecture en pause ou reprenez-la en appuyant sur le bouton *MULTIFONCTION* (1).
+### Volume +/ Volume -
+Lorsque la lecture est en cours, appuyez deux fois sur le *bouton multifonction* (3). Le volume augmentera progressivement. Lorsque vous dépasserez le volume maximal, il retournera au niveau le plus bas disponible. 
 
-Pour changer la piste appuyez sur le bouton *SUIVANT* (3) ou *PRÉCÉDENT* (2) pendant 2 secondes.
+### Passer à la piste suivante
+Lorsque la lecture est en cours, maintenez enfoncé le *bouton multifonction* (3) pendant 2 secondes.
+
+### Répondre aux appels entrants/ raccrocher
+Appuyez brièvement sur le *bouton multifonction* (3).
+
+### Rejeter un appel entrant
+Maintenez enfoncé le *bouton multifonction* (3).
