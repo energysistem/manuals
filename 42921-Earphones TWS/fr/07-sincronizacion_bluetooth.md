@@ -1,6 +1,9 @@
-## <quick_guide> Synchronisation Bluetooth
+## <quick_guide> Synchronisation Bluetooth et Appairage
 
-Avec vos Energy Earphones Sport 1 Bluetooth éteints, appuyez sur le *BOUTON MULTIFONCTION* (1) pendant 4 secondes environ jusqu'à ce que l*INDICATEUR* (4) commencera à clignoter en rouge et bleu. À ce moment, vos écouteurs seront prêts pour la synchronisation avec votre smartphone ou tablette. Une fois vos Energy Sport seront localisés sur votre appareil, appuyez sur « connecter ». La connexion sera réalisée immédiatement et sans besoin de codes. Vous écouterez le son qui confirmera la synchronisation entre les deux appareils.
+Lorsque vos *Energy Earphones 6 True Wireless* sont éteints, appuyez sur le *bouton multifonction* (3) des deux pendant 3 secondes environ jusqu'à ce que les deux *indicateurs LED* (5) clignoteront en bleu. L'écouteur gauche (L) se mettra alors en mode de recherche et son *indicateur LED* (5) clignotera en bleu et rouge.
+Activez le signal Bluetooth sur votre lecteur et connectez vos « Energy Earphones 6 TWS ». Vous entendrez un son de confirmation.
 
+### Fonction Arrêt automatique
+Afin d'optimiser la batterie, vos *Energy Earphones 6 True Wireless* s'éteindront automatiquement après 5 minutes en mode recherche s'ils n'ont pas été synchronisés avec aucun périphérique.
 
 </quick_guide>
