@@ -24,7 +24,7 @@ is in compliance with the essential norms and standards of the Directive 99/05/C
 
 Finestrat, 01st September 2016.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
 Daniel Havillio
 Product Management Director
