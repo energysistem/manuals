@@ -1,15 +1,5 @@
-## Contrôle des appels
+## Restaurer les paramètres d'usine
 
-Grâce à la synchronisation entre les *Energy Earphones Sport 1 Bluetooth* et votre téléphone, vous pourrez gérer les appels depuis les écouteurs.
+Vous pouvez restaurer les paramètres d'usine de vos *Energy Earphones 6 True Wireless*. Pour cela faire, appuyez sur le *bouton multifonction* (3) et maintenez-le lorsque vous connectez vos *Energy Earphones 6 True Wireless* à votre ordinateur ou a une prise de courant.
 
-### Répondre aux appels
-Pour répondre à un appel, appuyez une seule fois sur n'importe quel bouton, que ce soit le bouton *MULTIFONCTION* (1), *VOLUME -* (2) ou *VOLUME +* (3) .
-
-### Mettre fin aux appels
-Pour mettre fin aux appels, appuyez une seule fois sur le bouton *MULTIFONCTION* (1).
-
-### Recomposer
-Appuyez deux fois de suite sur le bouton *MULTIFONCTION* (1) pour rappeler le dernier numéro de la liste des appels composés de votre smartphone.
-
-### Refuser les appels
-Maintenez enfoncé le bouton *MULTIFONCTION* (1) pendant 2 secondes environ pour refuser un appel.
+Appuyez brièvement plusieurs fois sur le *bouton multifonction* (3) jusqu'à ce que l'appareil s'allume. Les paramètres d'usine de vos *Energy Earphones 6 True Wireless* seront alors restaurés.
