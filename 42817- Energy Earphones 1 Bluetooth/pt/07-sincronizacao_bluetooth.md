@@ -1,6 +1,9 @@
-## Ligação Bluetooth
+## <quick_guide> Ligação Bluetooth
 
-Prima o BOTÃO MULTIFUNÇÃO (2) durante 5 segundos com os seus *Energy Earphones Sport Bluetooth* desligados até que o INDICADOR (4) comece a piscar, alternadamente, em vermelho e azul. Nesse momento, os seus auscultadores estão a pesquisar dispositivos para estabelecer a sincronização Bluetooth®. Inicie também a pesquisa de dispositivos no  seu smartphone ou tablet. Uma vez detectados os seus Energy Sport no seu dispositivo, seleccione "ligar". A ligação será estabelecida imediatamente e sem necessidade de códigos.  Através dos auscultadores ouvirá a mensagem "Connection Successful", a qual confirma que a ligação entre os dois dispositivos foi estabelecida correctamente.
+Prima o *botão multifunção* (2) durante 4 segundos com os seus *Energy Earphones 1 Bluetooth* desligados até que o *indicador LED* (5) comece a piscar em vermelho e azul. Nesse momento os seus auscultadores procuram dispositivos e pode emparelhá-los com o seu smartphone ou tablet. Quando o seu dispositivo reconheça os "Energy Headphones 1", prima "ligar". A ligação vai ser estabelecida imediatamente e sem necessidade de códigos. Ouvirá uma mensagem que indica que a ligação entre os dois dispositivos foi estabelecida correctamente.
+Se deseja ligar novamente os auscultadores e o mesmo dispositivo através de Bluetooth, não é preciso repetir todo o processo. Basta manter os seus *Energy Earphones 1 Bluetooth* e o Bluetooth do seu telemóvel, tablet, portátil, etc, ligados.
 
-Se deseja ligar novamente os auscultadores e o mesmo dispositivo através de Bluetooth, não é preciso repetir todo o processo. Só é necessário manter os seus *Energy Earphones Sport Bluetooth* e o Bluetooth do seu telemóvel, tablet, portátil, etc, ligados.
-Os *Energy Earphones Sport Bluetooth* têm tecnologia multiponto, a qual permite ligar dois dispositivos Bluetooth® em simultâneo. Para isso, só tem que seguir os mesmos passos que tem seguido para sincronizar um único dispositivo. Quando a ligação seja estabelecida correctamente, reinicie os auscultadores. Desta forma, os dois dispositivos ficam automaticamente ligados através de Bluetooth.  Neste caso, os auscultadores estabelecem a ligação com o último dispositivo ligado através de Bluetooth. Se desliga este último, os seus *Energy Earphones Sport Bluetooth* estabelecem automaticamente a ligação com o primeiro dos dois dispositivos.
+### Função de desligamento automático
+Os seus *Energy Earphones 1 Bluetooth" desligam automaticamente passados 5 minutos no modo pesquisa se não tiverem sido emparelhados com outros dispositivos para otimizar a utilização da bateria.
+
+</quick_guide>
