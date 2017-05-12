@@ -1,6 +1,7 @@
-## <quick_guide> Présentation générale.
+## <quick_guide> Présentation générale
+<br><br><br>
 
 |  |  | 
 |:-------|:-------|
-|1. BOUTON MULTIFONCTION. <br> 2.	VOLUME - / PRÉCÉDENT. <br> 3.	VOLUME + / SUIVANT. <br> 4.	INDICATEUR. <br> 5. MICROPHONE.	<br> 6.	CONNECTEUR DE CHARGE.	|![Imagen1](http://static.energysistem.com/images/manuals/42745/57ad872b90869.jpg)| 
+|1. CROCHETS AURICULAIRES FLEXIBLES. <br> 2.	CONNECTEUR DE CHARGE MICROUSB. <br> 3.	BOUTON MULTIFONCTION. <br> 4.	MICROPHONE. <br> 5. INDICATEUR LED.	|![Imagen1](http://static.energysistem.com/images/manuals/42776/590324a35c76b.jpg)| 
 </quick_guide>
