@@ -1,6 +1,9 @@
-## <quick_guide> Ligação Bluetooth
+## <quick_guide> Ligação Bluetooth e emparelhamento
 
-Prima o *BOTÃO MULTIFUNÇÃO* (1) durante 4 segundos com os seus Energy Earphones Sport 1 Bluetooth desligados até que o *INDICADOR* (4) comece a piscar em vermelho e azul. Nesse momento pode estabelecer a ligação entre os seus auscultadores e o seu smartphone ou tablet. Quando o seu dispositivo reconheça os Energy Sport, prima "Ligar". A ligação vai ser estabelecida imediatamente e sem necessidade de códigos. Ouvirá um som que indica que a ligação entre os dois dispositivos foi estabelecida correctamente.
+Prima o *botão multifunção* (3) dos auscultadores durante 3 segundos com os seus *Energy Earphones 6 True Wireless* desligados até que o *indicador LED* (5) comece a piscar vermelho e azul. Nesse momento o auscultador esquerdo (L) inicia o modo pesquisa e o *indicador LED* (5) pisca azul e vermelho.
+Ative o Bluetooth no seu leitor de música e ligue os seus "Energy Earphones Earphones 6 TWS". A seguir, vai ouvir o som que indica que os dispositivos estão emparelhados.
 
+### Função de desligamento automático
+Os seus *Energy Earphones 6 True Wireless" desligam automaticamente passados 5 minutos no modo pesquisa se não tiverem sido emparelhados com outros dispositivos para otimizar a utilização da bateria.
 
 </quick_guide>
