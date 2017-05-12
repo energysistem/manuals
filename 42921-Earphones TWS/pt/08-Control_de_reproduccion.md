@@ -1,8 +1,19 @@
-## Controlo da reprodução
+## Funções do dispositivo
 
-Prima os botões *VOLUME +* (3) ou *VOLUME -* (2) para ajustar o volume. Ouvirá um som quando atingir o volume máximo e mínimo.
+### Reproduzir / Parar
+Prima o *botão multifunção* (3) brevemente.
 
-Pode parar ou continuar a reproduzir a música através do botão *MULTIFUNÇÃO* (1).
+### Volume + / Volume -
+Prima duas vezes o *botão multifunção* (3) enquanto a música está a soar para aumentar o volume. Uma vez atingido o volume máximo, começa novamente o volume mínimo. 
 
-Prima o botão *AVANÇAR* (3) ou *VOLTAR* (2) durante 2 segundos para escutar a música seguinte/anterior.
+### Avançar para a faixa seguinte
+Prima o *botão multifunção* (3) durante 2 segundos enquanto a música está a soar.
+
+### Atender chamadas / terminar chamadas
+Prima o *botão multifunção* (3) brevemente.
+
+### Rejeitar chamadas
+Prima o *botão multifunção* (3) durante alguns segundos.
+
+
 
