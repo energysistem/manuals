@@ -1,7 +1,10 @@
 ## <quick_guide> Contenu du produit
 
-* Energy Earphones Sport 1 Bluetooth
-* Câble USB de charge
-* Coussinets de rechange
+* Energy Earphones 6 True Wireless
+* Câble microUSB de charge
+* Housse de transport et protection
+* Crochets auriculaires flexibles
+* Embouts interchangeables
+* Guide de l'utilisateur
 
 </quick_guide>
