@@ -1,22 +1,36 @@
-## Declaração de conformidade
+## <quick_guide> Declaração de conformidade
 
-_**Nome do fabricante:**_ Energy Sistem Technology, S.A.  
-_**Morada:**_ C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha).  
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_ A53107488  
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: Rua Calpe, 1 - 03509 Finestrat - Alicante (Espanha) 
+Tel.: + 34 902 388 388 / + 34 966 813 257
 
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto:
+Descrição: Auscultadores sem fios 
+Marca: Energy Sistem 
+Modelo: Energy Earphones 1 Bluetooth 
+Fabricante: Energy Sistem Technology, S.A. 
+País de fabricação:  China 
 
->*Energy Sistem#trade#Energy Earphones Sport Bluetooth* 
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-_**Pais de fabricação:**_ China
+EN 60950-1-2006+A11:2009+A1:2011+A12:2013
 
-Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 99/05/CE do Parlamento Europeu e do Conselho de 9 de Março de 1999. 
+EN 301 489-1 V1.9.2:2011-09 
 
-Finestrat, 01 de novembro de 2015
+EN 301 489-17 V2.2.1: 2012-09
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) | Este símbolo no produto ou nas instruções significa que debe reciclar os seus dispositivos eléctricos e electrónicos no fim da suas vidas utéis e separadamente dos outros resíduos domésticos. Existem sistemas de recolha seletiva e reciclagem para esse fim.  Para obter mais informações, contacte as autoridades locais ou o distribuidor que vendeu o produto.|
+ETSI EN 300 328 V1.7.1 (2006-10)
+
+EN 62479:2010
+
+está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
+
+Finestrat, 01 de maio de 2017.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+
+Daniel Havillio 
+Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
