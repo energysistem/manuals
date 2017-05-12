@@ -1,8 +1,10 @@
 ## Contrôle de lecture
 
-Pour contrôler le volume de lecture depuis les écouteurs appuyez  sur les boutons Volume + (3) ou Volume - (1). Vous entendrez un bip lorsque vous atteindrez le volume maximum.
+### Lecture/ Pause
+Appuyez sur le *bouton multifonction* (2) pour lire ou arrêter une chanson.
 
-En appuyant sur le bouton Avancer (3) pendant 2 secondes vous passez à la chanson suivante. Pour passer à la précédente, appuyez sur le bouton Reculer (1).
+### Volume +/ Volume -
+Appuyez sur les boutons *Volume +* (1) ou *Volume -* (3) pour augmenter ou diminuer le volume. 
 
-Pause / Reprend la lecture de contenu multimédia ou l'émission de TV  (nécessite un périphérique de stockage USB externe).
-
+### Passer à la piste suivante/ précédente
+Lorsque la musique sera en cours de lecture, maintenez enfoncé le bouton *Volume +* (1) ou *Volume -* (3) pour passer à la piste suivante ou précédente respectivement.
