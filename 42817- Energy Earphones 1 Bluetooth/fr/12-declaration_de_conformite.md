@@ -28,7 +28,7 @@ conformément aux dispositions de la Directive 2014/53/UE du Parlement européen
 
 Finestrat, 01 mai 2017.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
 Marco Antonio Velázquez Fierro
 Product Management Director
