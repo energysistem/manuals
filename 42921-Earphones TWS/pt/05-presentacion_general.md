@@ -1,6 +1,8 @@
 ## <quick_guide> Apresentação geral
+<br><br><br>
 
 |  |  | 
 |:-------|:-------|
-|1. BOTÃO MULTIFUNÇÃO <br> 2.	VOLUME - / VOLTAR <br> 3.	VOLUME + / AVANÇAR <br> 4.	INDICADOR <br> 5. MICROFONE	<br> 6.	PORTA DE CARREGAMENTO	|![Imagen1](http://static.energysistem.com/images/manuals/42745/57ad872b90869.jpg)| 
+|1. SUPORTES FLEXÍVEIS E AJUSTÁVEIS. <br> 2.	PORTA DE CARREGAMENTO MICROUSB. <br> 3.	BOTÃO MULTIFUNÇÃO. <br> 4.	MICROFONE. <br> 5. INDICADOR LED.	|![Imagen1](http://static.energysistem.com/images/manuals/42776/590324a35c76b.jpg)| 
 </quick_guide>
+
