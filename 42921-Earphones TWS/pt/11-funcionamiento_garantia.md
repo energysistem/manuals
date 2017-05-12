@@ -12,3 +12,4 @@ As especificações estão sujeitas a alterações sem aviso prévio.
 
 ©2017 Energy Sistem®. Todos os direitos reservados.
 
+</quick_guide>
