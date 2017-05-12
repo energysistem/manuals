@@ -1,17 +1,19 @@
-## Fonctions Principales
+## Fonctions principales
 <quick_guide>
-### Allumer et éteindre
+### Allumer
 
-Pour allumer l'appareil, appuyez sur la touche Multifonction (2) pendant 4 secondes et vous verrez l'Indicateur (4) en bleu. Vous écouterez « Power on » sur l'appareil, cela indique que l'appareil est allumé.
+Pour allumer l'appareil, maintenez enfoncé le *bouton multifonction* (2) pendant 2 secondes. L'*indicateur LED* (5) s'allumera en bleu et vous entendrez un bip confirmant que l'appareil est allumé.
 
-Pour éteindre l'appareil, appuyez à nouveau pendant 5 seconds le bouton Multifonction (2), vous écouterez « Power off », cela indique que l'appareil est éteint.  L'indicateur (4) arrêtera de clignoter.
 
-Alors que l'appareil est allumé, l'Indicateur (4) continue à clignoter.
+### Arrêter
+Pour arrêter l'appareil, maintenez enfoncé le *bouton multifonction* (2) pendant 3 secondes. L'*indicateur LED* (5) s'allumera en rouge pendant 2 secondes et vous entendrez un bip confirmant que l'appareil est arrêté.
 
 </quick_guide>
-### Chargement de la batterie
 
-Lorsque la charge de la batterie est faible, l'écouteur vous alerte par un message vocal disant « Batterie low ». Pour le recharger, connectez l'extrémité miniUSB du câble USB (fourni) à la Connexion de chargement* (6), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). L'Indicateur (4) s'allume en rouge et lorsque la charge est complète l'Indicateur passera au bleue.
+### Charger
+
+Lorsque la batterie de vos *Energy Earphones 1 Bluetooth* est faible, vous entendrez un avertissement sonore et l'*indicateur LED* (5) clignotera en rouge. Branchez alors le *câble de charge* au *connecteur microUSB de charge* (4).
+L'*indicateur LED* (5) restera rouge pendant la charge et deviendra bleu lorsque la charge soit complète. Le processus de chargement prend une heure et demie environ.
 
 
-**Avis:** Ne pas stocker ou laisser tomber en désuétude vos Energy Earphones Sport Bluetooth avec la batterie complètement déchargée.
+**Note :** Nous vous recommandons de ne pas stocker ou laisser vos *Energy Earphones 1 Bluetooth* tomber en désuétude longtemps avec la batterie complètement déchargée. Il est recommandé de charger la batterie de vos écouteurs une fois par mois au minimum.
