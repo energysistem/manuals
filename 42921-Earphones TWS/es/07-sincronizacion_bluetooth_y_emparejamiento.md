@@ -4,6 +4,6 @@ Con tus *Energy Earphones 6 True Wireless* apagados, presiona el *botón multifu
 Activa la señal Bluetooth de tu dispositivo reproductor y conecta tus “Energy Earphones 6 TWS”. Escucharás un sonido de confirmación.
 
 ### Función Auto apagado
-Con el fin de optimizar la batería, tus *Energy Earphones 6 TWS* se apagarán automaticamente a los 5 minutos de estar en modo búsqueda y no haber sido sincronizados con ningún otro dispositivo.
+Con el fin de optimizar la batería, tus *Energy Earphones 6 True Wireless* se apagarán automaticamente a los 5 minutos de estar en modo búsqueda y no haber sido sincronizados con ningún otro dispositivo.
 
 </quick_guide>
