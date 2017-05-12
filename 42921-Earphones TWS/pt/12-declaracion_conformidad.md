@@ -17,7 +17,7 @@ a que se refere a declaração cumpre com as normas e outros documentos normativ
 EN 300 328 V2.1.1 (2017-02) <br/>
 EN 301 489-1 V2.1.1 (2017-02) <br/>
 EN 301 489-17 V3.1.1 (2017-02) <br/>
-EN 62479:2010 <br/
+EN 62479:2010 <br/>
 
 está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 
