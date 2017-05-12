@@ -2,25 +2,24 @@
 
 Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
-Tel.: + 34 902 388 388  / + 34 966 813 257
+Tel.: + 34 902 388 388 / + 34 966 813 257
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Descrição: Auscultadores <br/>
+Descrição: Auscultadores desportivos sem fios <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
+Modelo: Energy Earphones 6 True Wireless <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
-País de fabricação: China <br/>
+País de fabricação:  China <br/>
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-EN 300 328 V1.9.1 (2015-02) <br/>
-EN 301 489-1 V1.9.2 (2011-09) <br/>
-EN 301 489-17 V2.2.1 (2012-09) <br/>
-EN 62479:2010 <br/>
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+EN 300 328 V2.1.1 (2017-02) <br/>
+EN 301 489-1 V2.1.1 (2017-02) <br/>
+EN 301 489-17 V3.1.1 (2017-02) <br/>
+EN 62479:2010 <br/
 
-e está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 
 Finestrat, 01 de setembro de 2016.
 
