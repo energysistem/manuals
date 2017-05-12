@@ -1,10 +1,9 @@
-## <quick_guide> Introducción
+## <quick_guide> Introdução
 
-*	Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones 6 True Wireless*. Esperamos que los disfrutes.
+* Agradecemos a sua confiança assim como a aquisição dos seus novos *Energy Earphones 6 True Wireless*. Esperamos que desfrute dos seus auscultadores.
 
-*	Auriculares inalámbricos con diseño intrauditivo para experimentar la sensación de moverte sin ataduras. Responde tus llamadas, controla la lista reproducción durante 5 horas y descubre cómo su gancho de sujeción flexible se fija a tu oreja. 
+* Auscultadores In-Ear sem fios para experimentar a verdadeira liberdade de movimento. Atenda as suas chamadas, controle a lista de músicas durante 5 horas e experimente a adaptação perfeita com ajuda dos suportes ajustáveis para os ouvidos. 
 
-*	Antes de comenzar a disfrutar de tus *Energy Earphones 6 True Wireless* te aconsejamos que leas este manual para familiarizarte con ellos. 
+* Antes de começar a utilizar os seus *Energy Earphones 6 True Wireless*, aconselhamos ler o presente manual para familiarizar-se com o produto. 
 
 </unique> </quick_guide>
-
