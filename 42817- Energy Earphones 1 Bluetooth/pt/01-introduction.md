@@ -1,7 +1,9 @@
-## Introdução
+## <quick_guide> Introdução
 
-* Agradecemos-lhe a sua confiança e a aquisição dos seus novos Energy Earphones Sport Bluetooth.  Esperamos que desfrute do produto.
+*	Agradecemos a sua confiança assim como a aquisição dos seus novos *Energy Earphones 1 Bluetooth*. Esperamos que desfrute dos seus auscultadores.
 
-* Estes auscultadores desportivos Bluetooth® com função mãos livres são concebidos para oferecer comodidade e qualidade de som enquanto pratica desporto.  Também poderá atender as suas chamadas através dos próprios auscultadores sem necessidade de interromper o seu treino.
+*	Estes auscultadores Bluetooth ergonómicos se adaptam na perfeição aos seus ouvidos. Incluem botões multifunção, microfone integrado e até 5 horas de autonomia. A ótima combinação de som, estilo e conforto.
 
-* Aconselhamos ler o presente manual do usuário para tirar o máximo partido do produto e aproveitando todas as suas prestações
+*	Antes de começar a utilizar os seus *Energy Earphones 1 Bluetooth*, aconselhamos ler o presente manual para familiarizar-se com o produto. 
+
+</unique> </quick_guide>
