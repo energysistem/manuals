@@ -1,9 +1,9 @@
-## Cuidado e manutenção
+## Cuidado y mantenimiento
 
-* Evite que os seus *Energy Earphones 6 True Wireless* sofram impactos fortes ou que entrem em contacto com altas temperaturas, pó e humidade.
+* No expongas tus *Energy Earphones 6 True Wireless* a golpes, polvo, humedad o altas temperaturas.
 
-* Não utilize produtos de limpeza corrosivos ou abrasivos.
+* No uses productos de limpieza corrosivos o abrasivos.
 
-* Não desmonte o dispositivo. Qualquer reparação deve ser efectuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
+* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
 
-* É recomendável manter os seus *Energy Earphones 6 True Wireless* desligados quando não estiver a utilizá-los e não deixar a bateria dos mesmos completamente descarregada por longos períodos de tempo.
+* Asegúrate de mantener tus *Energy Earphones 6 True Wireless* apagados cuando no estén en uso y no los dejes durante un largo periodo de tiempo con la batería completamente descargada.
