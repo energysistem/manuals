@@ -1,6 +1,7 @@
 ## <quick_guide> Présentation générale
+<br><br>
 
-|  |  |  |
-|:-------|:-------|:-------|
-|1.	VOLUME - / RECULER. <br> 2.	BOUTON DE MULTIFONCTION. <br> 3. VOLUME + / AVANCER. <br> 4.	INDICATEUR. <br> 5. MICROPHONE.	<br> 6.	CONNEXION POUR CHARGER LA BATTERIE.|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19aba1c67.jpg)|<br> <br> POSITION CORRECTE <br> ![Imagen1](http://static.energysistem.com/images/manuals/42556/561e76e3e2cbd.jpg)|
+|  |  |
+|:-------|:-------|
+|1. Volume + <br> 2.	Bouton multifonction <br> 3.	Volume - <br> 4.	Connecteur microUSB de charge <br> 5. Indicateur LED	<br> 6.	Microphone	| ![Imagen1](http://static.energysistem.com/images/manuals/42776/59031c0feb08c.jpg)|
 </quick_guide>
