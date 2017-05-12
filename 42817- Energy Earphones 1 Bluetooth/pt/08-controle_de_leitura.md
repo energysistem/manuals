@@ -1,8 +1,10 @@
-## Controlo da reprodução
+## Controlo da reprodução de músicas
 
-Prima os botões VOLUME + (3) ou  VOLUME - (1) para regular o volume a partir dos próprios auscultadores. Ouvirá um sinal sonoro ao atingir o volume máximo.
+### Reproduzir / Parar
+Prima o *botão multifunção* (2) para reproduzir ou parar a música.
 
-Prima o botão AVANÇAR (3) durante 2 segundos para escutar a canção seguinte. Para escutar a canção anterior, só tem que premir o botão VOLTAR (1).
+### Volume + / Volume -
+Prima os botões *Volume +* (1) e *Volume -* (3) para aumentar ou diminuir o volume. 
 
-Prima o botão MULTIFUNÇÃO (2) para parar o continuar com a reprodução da música.
-
+### Avançar / Voltar para a faixa seguinte/anterior
+Prima o botão *Volume +* (1) ou o botão *Volume -* (3) enquanto ouve a sua música para avançar ou voltar para a faixa seguinte/anterior.
