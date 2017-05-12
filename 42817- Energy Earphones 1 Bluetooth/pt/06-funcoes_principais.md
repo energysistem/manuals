@@ -1,19 +1,21 @@
 ## Funções principais
+<quick_guide>
+### Ligar o dispositivo
 
-### Ligar e desligar o dispositivo.
-
-
-Prima o botão MULTIFUNÇÃO (2) durante 4 segundos para ligar o dispositivo e poderá ver que o INDICADOR (4) torna-se azul. Ouvirá a confirmação "Power On" ao ligar o dispositivo, a qual indica que está ligado. 
-
-Prima o botão MULTIFUNÇÃO (2) novamente durante 5 segundos para desligar o dispositivo. Ouvirá a confirmação "Power Off", a qual indica que o dispositivo está desligado. O INDICADOR (4) deixa de piscar.
-
-O INDICADOR (4) continua a piscar enquanto o dispositivo está ligado.
+Prima o *botão multifunção* (2) durante 2 segundos para ligar o dispositivo. O *indicador LED* (5) acende azul. Ouvirá o som que confirma que o dispositivo foi ligado.
 
 
-### Carregar a bateria
+### Desligar o dispositivo
+Prima o *botão multifunção* (2) durante 3 segundos para desligar o dispositivo. O *indicador LED* (5) acende vermelho durante 2 segundos. Ouvirá o som que confirma que o dispositivo foi desligado.
 
-Quando a bateria está fraca, os auscultadores vão avisar-lhe por meio de uma mensagem falada que diz "Battery Low". Para carregá-lo, só tem que ligar a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA DE CARREGAMENTO* (6) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O INDICADOR (4) torna-se vermelho e quando a bateria está completamente carregada, torna-se azul.
+</quick_guide>
+
+### Carregar o dispositivo
+
+Quando a bateria dos seus *Energy Earphones 1 Bluetooth* está fraca, ouvirá um sinal sonoro para alertar do estado da mesma e o *indicador LED* (5) piscará vermelho. Ligue a seguir o *cabo de carregamento* à *porta microUSB* (4).
+O *indicador LED* (5) fica vermelho durante o carregamento e torna-se azul quando a bateria estiver completamente carregada.  O processo de carregamento leva cerca de uma hora e meia.
 
 
-**Importante:** Recomendamos não deixar a bateria dos *Energy Earphones Sport Bluetooth* completamente descarregada durante longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+**Importante:** Recomendamos não deixar a bateria dos *Energy Earphones 1 Bluetooth* completamente descarregada por longos períodos de tempo. É recomendável carregar a bateria dos auscultadores pelo menos uma vez por mês.
+
 
