@@ -28,9 +28,9 @@ está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE
 
 Finestrat, 01 de maio de 2017.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
-Daniel Havillio 
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
