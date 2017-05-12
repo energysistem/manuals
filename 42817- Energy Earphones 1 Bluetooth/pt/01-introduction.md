@@ -1,4 +1,4 @@
-## <quick_guide> Introdução
+<quick_guide>## Introdução
 
 *	Agradecemos a sua confiança assim como a aquisição dos seus novos *Energy Earphones 1 Bluetooth*. Esperamos que desfrute dos seus auscultadores.
 
