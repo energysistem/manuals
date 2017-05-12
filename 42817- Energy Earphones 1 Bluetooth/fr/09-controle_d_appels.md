@@ -1,15 +1,12 @@
-##Contrôle d'appels
+## Contrôle des appels
 
-Si vous avez vos Energy Earphones Sport Bluetooth synchronisés avec un smartphone, vous pourrez gérer vos appels depuis les écouteurs.
+Grâce à la synchronisation entre les *Energy Earphones 1 Bluetooth* et votre téléphone, vous pourrez gérer les appels depuis les écouteurs.
 
-**Répondre à un appel**
+### Répondre/ Mettre fin aux appels
+Appuyez sur le *bouton multifonction* (2) une seule fois pour répondre à un appel entrant ou mettre fin à un appel en cours.
 
-Pour répondre à un appel, vous pouvez appuyer sur les boutons de Multifonction (2), Volume - (1) ou Volume + (3) une seule fois.
+### Recomposer
+Lors que la lecture sera en pause, appuyez deux sur le *bouton multifonction* (2).
 
-**Terminer un appel**
-
-Appuyez sur le bouton de Multifonction (1) une seule fois pour finir terminer l'appel.
-
-**Fonction de rappel**
-
-Pour faire un appel au dernier numéro de l'historique des appels, appuyez deux fois sur la touche Multifonction (2). 
+### Refuser les appels
+Maintenez enfoncé le *bouton multifonction* (2) pendant 2 secondes.
