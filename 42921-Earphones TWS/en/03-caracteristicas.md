@@ -24,4 +24,4 @@
 #### OTHER FEATURES
 - Earphones' battery level on iOS devices
 
-* *Approximate battery life at an average volume level. Higher volume means higher battery consumption.
+*Approximate battery life at an average volume level. Higher volume means higher battery consumption.
