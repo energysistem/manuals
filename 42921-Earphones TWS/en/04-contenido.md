@@ -7,3 +7,4 @@
 * Interchangeable ear tips
 * Quick guide
 
+</quick_guide>
