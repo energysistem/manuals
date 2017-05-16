@@ -1,6 +1,8 @@
 ## <quick_guide> General overview
+<br><br><br>
 
 |  |  | 
 |:-------|:-------|
-|1. MULTIFUNCTION BUTTON <br> 2.	VOLUME - / BACK <br> 3.	VOLUME + / NEXT <br> 4.	INDICATOR <br> 5. MICROPHONE 	<br> 6.	CHARGING CONNECTION	|![Imagen1](http://static.energysistem.com/images/manuals/42745/57ad872b90869.jpg)| 
+|1. FLEXIBLE EAR HOOKS. <br> 2.	MICROUSB CHARGING PORT. <br> 3.	MULTIFUNCTION BUTTON. <br> 4.	MICROPHONE. <br> 5. LED INDICATOR.	|![Imagen1](http://static.energysistem.com/images/manuals/42776/590324a35c76b.jpg)| 
 </quick_guide>
+
