@@ -1,7 +1,11 @@
 ## Care and maintenance
 
-*	Do not expose your *Energy Earphones Sport Bluetooth* to impacts, dust, direct sunlight, humidity or high temperatures.
-*	Do not use corrosive nor abrasive cleaning products.
-*	Keep your earphones clean and dust free. Clean them with a soft and dry cloth.
-*	Do not disassemble the device. All reparation should be done exclusively Energy Sistem Technology, S.A. qualified staff.
-*	Be sure to keep your *Energy Earphones Sport Bluetooth* turned off while not in use. Do not leave battery completely discharged for a long period of time.
+*	Do not expose your *Energy Earphones 1 Bluetooth* to impacts, dust, humidity or high temperatures.
+
+* Do not use neither corrosive nor abrasive cleaning products.
+
+* Keep the earphones clean and free of dust using a soft dry cloth.
+
+* Do not dismantle the device. All repair works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A.
+
+* Please make sure that your *Energy Earphones 1 Bluetooth* are turned off when you are not using them and do not store them with an empty battery for long periods of time.
