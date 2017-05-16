@@ -1,9 +1,6 @@
-<quick_guide>
-## Product Content
+## <quick_guide> Product content
 
-*	Energy Earphones Sport Bluetooth
-*	USB charging cable
-*	Carrying bag
-*	Interchangeable ear cushions
+* Energy Earphones 1 Bluetooth 
+* USB charging cable
 
 </quick_guide>
