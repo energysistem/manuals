@@ -1,7 +1,9 @@
-## <quick_guide> General Overview
+## <quick_guide> General overview
+<br/><br/>
 
-|  |  |  |
-|:-------|:-------|:-------|
-|1.	VOLUME - / PREVIOUS. <br> 2.	MULTIFUNCTION BUTTON. <br> 3.	VOLUME + / NEXT. <br> 4.	INDICATOR. <br> 5. MICROPHONE	<br> 6.	CHARGING PORT	|![Imagen1](http://static.energysistem.com/images/manuals/42556/561d19aba1c67.jpg)|<br> <br> CORRECT PLACEMENT <br> ![Imagen1](http://static.energysistem.com/images/manuals/42556/561e76e3e2cbd.jpg)|
+|  |  |
+|:-------|:-------|
+|1. Volume + <br> 2.	Multifunction button <br> 3.	Volume - <br> 4.	MicroUSB charging port<br> 5. LED indicator <br> 6.	Microphone	| ![Imagen1](http://static.energysistem.com/images/manuals/42776/59031c0feb08c.jpg)|
 </quick_guide>
+
  
