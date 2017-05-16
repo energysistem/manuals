@@ -1,9 +1,19 @@
-## <quick_guide> Bluetooth pairing
+## Main functions
+<quick_guide>
+### Switching on the device
 
-Once your *Energy Earphones 1 Bluetooth* are off, press the *multifunction button* (2) for approximately 4 seconds, until the *LED indicator* (5) starts flashing blue and red. At this point, your earphones will be in search mode and you will be able to pair them with your smartphone or tablet. Once "Energy Earphones 1" appears on your device screen, press "connect". The devices will be connected immediately and without codes. You will hear a sound that confirms that both devices have been paired correctly.
-You do not need to repeat this whole process to pair both devices again, simply leave your *Energy Earphones 1 Bluetooth* on and enable the Bluetooth® connection on your smartphone, tablet, laptop, etc.
+To turn on your device, press and hold the *multifunction button* (2) for 2 seconds. The *LED indicator* (5) will glow blue and you will hear a confirmation sound when the device is on.
 
-### Auto Power off
-In order to save battery, your *Energy Earphones 1 Bluetooth* will automatically turn off if they are 5 minutes in search mode and not paired with any device. 
+
+### Switching off the device
+ To turn off your device, press and hold the *multifunction button* (2) for 3 seconds. The *LED indicator* (5) will glow red for 2 seconds and you will hear a confirmation sound when the device is off.
 
 </quick_guide>
+
+### Charging the battery
+
+You will hear a warning sound and the *LED indicator* (5) will flash red when your *Energy Earphones 1 Bluetooth* are about to run out of battery. Connect the *charging cable* to the *microUSB charging port* (4).
+The *LED indicator* (5) will glow red while charging the battery and will turn blue once the charging process is completed. The charging process takes about 1 hour and a half.
+
+
+**Important:** We recommend not to leave your *Energy Earphones 1 Bluetooth* unused for long periods of time with an empty battery. We advise to charge your earphones' battery at least once a month.
