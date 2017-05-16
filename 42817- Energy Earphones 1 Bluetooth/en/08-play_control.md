@@ -1,8 +1,22 @@
 ## Playback control
 
-To control the play volume from the earphones press the Volume + (3) or Volume - (1) buttons. You will hear a "beep" when maximum and minimum volume is reached.
+### Play/ Pause
+Press the *multifunction button* (2) to play or pause playback.
 
-To go to the next song press the Next (3) button for 2 seconds. To go to the previous song press the Previous (1) button.
+### Volume +/ Volume -
+Press the *Volume +* (1) or *Volume -* (3) buttons to adjust the volume. 
 
-Pause/Resume the playback with the Multifunction (2) button.
+### Next/ Previous track
+Press and hold the *Volume +* (1) or *Volume -* (3) buttons while listening to music to move to the next or the previous track respectively. 
 
+## Call control
+You will be able to control your calls from your earphones if you pair your *Energy Earphones 1 Bluetooth* with your mobile phone.
+
+### Answer an incoming call/ end a call
+Press the *multifunction button* (2) button once to answer or end a call.
+
+### Redial a number
+Stop playback and press the *multifunction button* (2) twice.
+
+### Reject an incoming call
+Press and hold the *multifunction button* (2) for 2 seconds.
