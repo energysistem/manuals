@@ -1,24 +1,39 @@
-<quick_guide>
-## Declaration of Conformity
+## <quick_guide> Declaration of conformity
 
-_**Manufacturer Name:**_ Energy Sistem Technology, S.A.  
-_**Address:**_ C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).  
-_**Tel:**_ 902 388 388 // _**Fax:**_ 902 119 034 // _**NIF:**_  A53107488  
+Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 902 388 388 / + 34 966 813 257
 
+We declare under our own exclusive responsibility that the product
 
-We declare under our own exclusive responsibility that the product:
+Descripción: Wireless earphones <br/>
+Brand: Energy Sistem
+Model: Energy Earphones 1 Bluetooth 
+Manufacturer: Energy Sistem Technology, S.A. 
+Manufacturing Country: China
 
->*Energy Sistem#trade# Earphones Sport Bluetooth*
+referred to in this declaration is in compliance with the essential norms and standards
 
-_**Manufacturing Country:**_ China  
-Is in compliance with the essential norms and standards of the Directive 1999/5/EC of the European Parliament and of the Council of March 09th 1999.
+EN 60950-1-2006+A11:2009+A1:2011+A12:2013
 
-Finestrat, 01 November 2015
+EN 301 489-1 V1.9.2:2011-09 
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |This symbol on the product or the instructions means that your electrical and electronic equipment should be disposed at the end of life separately from your household waste. For more information, please contact the local authority or dealer where you purchased the product.|
+EN 301 489-17 V2.2.1: 2012-09
+
+ETSI EN 300 328 V1.7.1 (2006-10)
+
+EN 62479:2010
+
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of April 16th 2014.
+
+Finestrat, 01st May 2017
+
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
+
+Marco Antonio Velázquez Fierro
+Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
 </quick_guide>
+
