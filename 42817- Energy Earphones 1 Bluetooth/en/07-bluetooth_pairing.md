@@ -1,9 +1,9 @@
-<quick_guide>
-## Bluetooth Pairing
+## <quick_guide> Bluetooth pairing
 
-With your *Energy Earphones Sport Bluetoot*h turned off, press the Multifunction button (2) for approximately 5 seconds, until the Indicator (4) starts flashing blue and red. The pairing mode will start automatically; at the same time, start the search and pairing process on your Bluetooth device (smartphone, tablet, laptop, etc). Once you have found the "Energy Sport" in your device, select "connect" and both devices will pair each other immediately with no need of pairing codes. You will hear "Connection Successful" in your device which means that the connection has been established successfully.
-To pair the same device again there is no need to repeat the whole process, just keep turned on your *Energy Earphones Sport Bluetooth* and select them from your smartphone, tablet, laptop, etc. 
+Once your *Energy Earphones 1 Bluetooth* are off, press the *multifunction button* (2) for approximately 4 seconds, until the *LED indicator* (5) starts flashing blue and red. At this point, your earphones will be in search mode and you will be able to pair them with your smartphone or tablet. Once "Energy Earphones 1" appears on your device screen, press "connect". The devices will be connected immediately and without codes. You will hear a sound that confirms that both devices have been paired correctly.
+You do not need to repeat this whole process to pair both devices again, simply leave your *Energy Earphones 1 Bluetooth* on and enable the Bluetooth® connection on your smartphone, tablet, laptop, etc.
 
-Your *Energy Earphones Sport Bluetooth* implement the multipoint technology which allows you to simultaneously pair them with two Bluetooth® devices. In order to do so, repeat the same steps as pairing one single device and once the new device is paired, restart the earphones to get both devices paired automatically. In this case, the earphones will connect to the last of the two paired devices and if the latter is disconnected, your Energy Earphones Sport Bluetoothwill automatically connect to the first of the two devices.
+### Auto Power off
+In order to save battery, your *Energy Earphones 1 Bluetooth* will automatically turn off if they are 5 minutes in search mode and not paired with any device. 
 
 </quick_guide>
