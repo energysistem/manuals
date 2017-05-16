@@ -1,7 +1,16 @@
-## Playback control
+## Controls
 
-Press the *VOLUME +* (3) or *VOLUME -* (2) buttons to adjust the playback volume. You will hear a beep when reaching the maximum and minimum volume levels.
+### Play/ pause
+Press the *multifunction button* (3) briefly.
 
-Press the *MULTIFUNCTION* (1) button to pause or resume playback. 
+### Volume +/ Volume -
+Press the *multifunction button* (3) twice while listening to music. Doing so, the volume level will increase. Once you have reached the maximum volume level, you will go back to the lowest volume level. 
 
-Press the *NEXT* (3) or *BACK* (2) buttons for 2 seconds in order to switch to the next or previous track.
+### Next track
+Press and hold the *multifunction button* (3) for 2 seconds while listening to music.
+
+### Answer an incoming call/ end a call
+Press the *multifunction button* (3) briefly.
+
+### Reject an incoming call
+Press and hold the *multifunction button* (3).
