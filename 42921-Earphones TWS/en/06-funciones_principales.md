@@ -1,6 +1,6 @@
 ## Main functions
 <quick_guide>
-## Switching on and off the device
+### Switching on and off the device
 
 To turn on your device, press and hold the *multifunction button* (3) for 3 seconds. The *LED indicator* (5) will glow blue and the main earphone (left) will start searching the right earphone to establish the connection . You will hear a confirmation sound informing that both earphones of your *Energy Earphones 6 True Wireless* are successfully paired and  in search mode. At this point, your earphones can be paired with a Bluetooth device.
 When the device is on, the *LED indicator* (5) will keep flashing blue. 
