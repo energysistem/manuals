@@ -1,35 +1,32 @@
 ## Features
 
-### Main features
+### General features
 
-*	Sports Bluetooth earphones.
-*	Easy pairing with tablets, smartphones, laptops, MAC, PC and any other Bluetooth® device.
-*	Volume control from the earphones.
-*	Pairing without codes.
-*	Multipoint technology to connect two Bluetooth devices at the same time.
-*	Lightweight and comfortable.
-*	Automatic call reception.
-*	Use range up to 10 m.
-*	Rechargeable lithium battery.
-
+* Intra-aural earphones for better ergonomics, as it adapts to your ears.
+* Ultra-lightweight design suitable for any situation.
+* Sound quality, bass and treble boost.
+* Buttons to control your playlist, turn the volume up or down.
+* Hands-free function thanks to its built-in microphone.
+* Up to 5 hours of continuous playback.
+* Rechargeable battery.
 
 ### Technical features
 
-*	Bluetooth® v4.1 Class II.
-*	HSP / HFP / A2DP /AVRCP profiles.
-*	Charge indicator on iOS devices.
-*	Driver diameter: 10 mm.
-*	Frequency response: 20 - 20.000 Hz.
-*	Use range up to 10 m.
-*	Microphone sensitivity: -42 dB.
+*	Bluetooth® V4.1, Class II.
+* It supports HSP/ HFP/ A2DP/ AVRCP protocols.
+*	Distance range: up to 10 m.
+* Frequency response: 60 Hz ~ 18 KHz.
+* Sound pressure level: 115 ± 3 dB.
+* Earphones' diameter: 15 mm.
+* Microphone sensitivity: -42 dB ± 3 dB.
 
-
-### Rechargeable lithium battery specifications
+### Rechargeable lithium battery features
 
 *	Capacity: 100 mAh.
-*	USB charging system.
-*	Charging time: 1,5 hours*.
-*	In use battery life: 8 hours*.
-*	Standby battery life: 300 hours*.
+* Lithium polymer.
+*	MicroUSB charging system.
+*	Charging time: 1.5 hours.
+*	Battery life in playback mode: 5 hours.
 
-( * ) Approximate battery life. Higher volume means higher battery consumption.
+**Important:** Approximate battery life at an average volume level. Higher volume means higher battery consumption.
+
