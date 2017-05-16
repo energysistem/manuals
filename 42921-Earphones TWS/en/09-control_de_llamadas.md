@@ -1,15 +1,5 @@
-## Call control
+## Restore defaults
 
-You will be able to control your calls from your earphones if you pair your *Energy Earphones Sport 1 Bluetooth* with your mobile phone.
+You can restore your *Energy Earphones 6 True Wireless* to factory default settings. To do so, press and hold the *multifunction button* (3) while connecting your *Energy Earphones 6 True Wireless* to your computer or power socket.
 
-### Answer a call
-You can answer a call by pressing the *MULTIFUNCTION* (1), *VOLUME -* (2) or *VOLUME +* (3) button once.
-
-### End a call
-Press the *MULTIFUNCTION* (1) button once to end a call.
-
-### Redial a number
-Press twice the *MULTIFUNCTION* (1) button to dial the last telephone number in your smartphone's call log.
-
-### Reject a call
-Press the *MULTIFUNCTION* (1) button for approximately 2 seconds to reject an incoming call.
+Press the *multifunction button* (3) briefly and repeatedly until the device turns on. Once completed, you will have restored your *Energy Earphones 6 True Wireless* to its default settings.
