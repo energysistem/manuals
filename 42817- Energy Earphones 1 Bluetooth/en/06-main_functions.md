@@ -1,17 +1,19 @@
+## Main functions
 <quick_guide>
-## Main Functions
+### Switching on the device
 
-### Turn on / off your device
+To turn on your device, press and hold the *multifunction button* (2) for 2 seconds. The *LED indicator* (5) will glow blue and you will hear a confirmation sound when the device is on.
 
-To turn on you device, press the Multifunction button (2) for 4 seconds and you will see the Indicator (4) flashing blue. You will hear "Power on", which means that it is turned on.
 
-To turn on you device, press the Multifunction button (2) for 5 seconds and you will hear "Power off" in your device, which means that it is turned off. The Indicator (4) will stop flashing.
-
-When the device is on, the Indicator (4) will be keep flashing.
+### Switching off the device
+ To turn off your device, press and hold the *multifunction button* (2) for 3 seconds. The *LED indicator* (5) will glow red for 2 seconds and you will hear a confirmation sound when the device is off.
 
 </quick_guide>
+
 ### Charging the battery
 
-When the charge of the battery is low, you will hear "Battery low". To charge it, connect the miniUSB end of the included USB cable to your Charging connection* (6) and the other end to any USB port that can provide energy (PC, USB wall or car charger, etc). The Indicator (4) turns red and when the charge is completed the Indicator will change to blue.
+You will hear a warning sound and the *LED indicator* (5) will flash red when your *Energy Earphones 1 Bluetooth* are about to run out of battery. Connect the *charging cable* to the *microUSB charging port* (4).
+The *LED indicator* (5) will glow red while charging the battery and will turn blue once the charging process is completed. The charging process takes about 1 hour and a half.
 
-**Note:** Do not store or leave your Energy Earphones Sport Bluetooth disused for a long period of time with the battery completely discharged. We recommend to charge the battery of your earphones at least once a month.
+
+**Important:** We recommend not to leave your *Energy Earphones 1 Bluetooth* unused for long periods of time with an empty battery. We advise to charge your earphones' battery at least once a month.
