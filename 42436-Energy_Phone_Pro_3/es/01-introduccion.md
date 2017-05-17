@@ -6,3 +6,4 @@ Tu nuevo teléfono dispone de una pantalla táctil de 5,5” IPS Full HD (1920 x
 
 Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas este manual para familiarizarte con él. Solo te llevará unos minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
+
