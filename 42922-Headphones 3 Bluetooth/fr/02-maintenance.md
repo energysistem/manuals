@@ -1,6 +1,6 @@
 ## Soin et entretien
 
-* Ne pas exposer vos *Energy Headphones 1 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
+* N'exposez pas votre *Energy Headphones 3 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
 
 * Ne pas utiliser des produits corrosifs ou abrasifs.
 
@@ -8,4 +8,5 @@
 
 * Ne pas démonter le casque. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
 
-* Ne pas laisser la batterie complètement déchargée pendant une longue période.
+Ne pas laisser la batterie complètement déchargée pendant une longue période.
+
