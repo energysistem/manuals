@@ -1,8 +1,13 @@
-## Conditions de la garantie
+## Fonctionnement de la garantie
 
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, ainsi que la possibilité de poser vos questions au service technique ou de gérer la garantie.
 
-Pendant la période de 36 mois à partir de la date du premier achat du produit par le consommateur, Energy Sistem Technology, S.A. répondra pour tout défaut de conformité existant au moment de la réception du bien. Les batteries du produit, dont la période de garantie est de 12 mois, sont exclues.
+Vous pouvez vérifier la disponibilité du manuel dans votre langue sur : http://www.energysistem.com/fr-fr/support/manuals
 
-Cette garantie ne couvre pas les défauts ou détériorations résultant d'un accident, d'une utilisation inadéquate ou d'une manipulation du produit effectuée ou tentée par des personnes autres que celles de l'équipe d'Energy Sistem.
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.  
+Important : Les données ou les informations contenues dans les produits ne sont en aucun cas couvertes par aucune garantie, par conséquent, le service technique d'Energy Sistem Technology, S.A. ne sera pas obligé de stocker cette information et il est donc conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.  
+Les spécifications sont susceptibles d'être modifiées sans préavis.  
 
-La garantie de 36 mois est valable pour l'Union européenne. Pour les autres pays, veuillez consulter la législation en vigueur ou votre distributeur local.
+*Marques* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+
+©2017 par Energy Sistem®. Tous droits réservés.
