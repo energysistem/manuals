@@ -1,13 +1,41 @@
-## Fonctionnement de la garantie
+## <quick_guide> Déclaration de conformité
 
-Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, ainsi que la possibilité de poser vos questions au service technique ou de gérer la garantie.
+Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Tél. : + 34 902 388 388  / + 34 966 813 257
 
-Vous pouvez vérifier la disponibilité du manuel dans votre langue sur : http://www.energysistem.com/fr-fr/support/manuals
+Nous déclarons sous notre seule responsabilité que le produit
 
-Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.  
-Important : Les données ou les informations contenues dans les produits ne sont en aucun cas couvertes par aucune garantie, par conséquent, le service technique d'Energy Sistem Technology, S.A. ne sera pas obligé de stocker cette information et il est donc conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec l'information d'origine.  
-Les spécifications sont susceptibles d'être modifiées sans préavis.  
+Description : Casque sans fil <br/>
+Marque : Energy Sistem
+Modèle : Energy Headphones 3 Bluetooth 
+Fabricant : Energy Sistem Technology, S.A. 
+Pays de fabrication : Chine
 
-*Marques* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes.
+visé par cette déclaration est conforme aux normes ou documents normatifs
 
-©2017 par Energy Sistem®. Tous droits réservés.
+ EN 60950 
+
+ EN 55032 
+
+ EN 55024  
+
+ EN 301 489-1 V1.9.2: 2011-09  
+
+ EN 301 489-1 V1.9.2: 2011-09  
+
+ EN 301 489-17 V2.1.1: 2012-09 
+
+ EN 300 328 V1.7.1: 2006-10 EN 300 328 V1.7.1: 2006-10 
+
+conformément aux dispositions de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014.
+
+Finestrat, 01 février 2017
+
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
+Marco Antonio Velázquez Fierro
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
+</quick_guide>
