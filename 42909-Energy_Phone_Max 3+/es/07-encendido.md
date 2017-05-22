@@ -1,9 +1,9 @@
 <quick_guide>
 ## Encendido y apagado
 
-Antes de encender tu Energy Phone Pro 3, asegúrate de que las tarjetas nanoSIM/ microSD están insertadas en sus respectivas ranuras como viene indicado en el siguiente subapartado “Colocación tarjeta nanoSIM 1/ nanoSIM 2/ microSD”. A continuación, pulsa el botón de encendido/ apagado (13) situado en el lateral derecho del dispositivo durante un segundo. Cuando el sistema operativo se haya cargado tendrás que desbloquear el dispositivo para empezar a utilizarlo. Para ello, inserta el número PIN de tus tarjetas nanoSIM y luego arrastra el dedo hacia arriba en la pantalla principal.
+Antes de encender tu Energy Phone Max 3+, asegúrate de que las tarjetas nanoSIM/ microSD están insertadas en sus respectivas ranuras como viene indicado en el siguiente subapartado “Colocación tarjeta nanoSIM 1/ nanoSIM 2/ microSD”. A continuación, pulsa el botón de encendido/ apagado (11) situado en el lateral derecho del dispositivo durante un segundo. Cuando el sistema operativo se haya cargado tendrás que desbloquear el dispositivo para empezar a utilizarlo. Para ello, inserta el número PIN de tus tarjetas nanoSIM y luego arrastra el dedo hacia arriba en la pantalla principal.
 
-Para apagar el dispositivo mantén pulsado el botón de encendido/ apagado (13) hasta que aparezca el menú de apagado y a continuación escoge la opción “Apagar”. Una pulsación breve del botón de encendido/ apagado (13) bloquea/ desbloquea el dispositivo apagando o encendiendo la pantalla. También podrás desbloquear el dispositivo utilizando el sensor de huellas (18) una vez que lo hayas configurado (ver apartado: Sensor de huellas).
+Para apagar el dispositivo mantén pulsado el botón de encendido/ apagado (11) hasta que aparezca el menú de apagado y a continuación escoge la opción “Apagar”. Una pulsación breve del botón de encendido/ apagado (11) bloquea/ desbloquea el dispositivo apagando o encendiendo la pantalla. También podrás desbloquear el dispositivo utilizando el sensor de huellas (16) una vez que lo hayas configurado (ver apartado: Sensor de huellas).
 
 
 ## Colocación tarjeta nanoSIM 1/ nanoSIM 2/ microSD
