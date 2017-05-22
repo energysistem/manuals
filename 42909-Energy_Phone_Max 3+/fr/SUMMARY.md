@@ -8,6 +8,7 @@
 * [Vue principale](05-presentation_generale.md)
 * [Alimentation/Première utilisation](06-alimentation.md)
 * [Allumer et éteindre](07-allumer.md)
+* [Capteur d'empreintes](Capteur d'empreintes.md)
 * [Type de pulsations](08-type_de_pulsations.md)
 * [Écran principal](09-ecran_principal.md)
 * [Widgets](10-widgets.md)
