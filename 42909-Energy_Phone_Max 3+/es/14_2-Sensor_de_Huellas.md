@@ -4,7 +4,7 @@
 
 En el menú Ajustes > Seguridad > Huella digital podrás escanear tus huellas dactilares para desbloquear el dispositivo o configurar accesos rápidos a aplicaciones/ contactos.
 </quick_guide>
-
+<quick_guide>
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad6111d4c.jpg)
 
 <quick_guide>
