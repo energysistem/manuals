@@ -15,7 +15,7 @@ You will hear a warning sound when your headphones are about to run out of batte
 
 **Important considerations:** 
 
-- We recommend turning off the device when charging. 
+- We recommend turning off the device while charging it. 
 - Do not store or leave your device unused for a long period of time with an empty battery.
 
 
