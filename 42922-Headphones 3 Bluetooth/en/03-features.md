@@ -6,7 +6,7 @@
 - Hands-free and call control functions
 - Control playback and volume directly from the headphones
 - Rechargeable lithium battery
-- USB charging system
+- USB charging cable
 
 ### Technical features
 
