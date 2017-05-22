@@ -1,4 +1,4 @@
-
+<quick_guide>
 ## Presentación general
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42436/5902ee40c5131.jpg)
@@ -22,7 +22,7 @@
 16. Altavoz
 17. Herramienta de extracción de la bandeja de tarjetas
 
-
+</quick_guide>
 
 
 

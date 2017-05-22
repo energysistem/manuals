@@ -1,3 +1,5 @@
+<quick_guide>
+
 ## Introducción
 
 Gracias por confiar en nosotros y adquirir tu nuevo Energy Phone Max 3+. Esperamos que lo disfrutes.
@@ -7,3 +9,4 @@ Tu nuevo teléfono dispone de una pantalla táctil de 5,2” IPS HD (1280 x 720 
 Antes de comenzar a disfrutar de tu smartphone te aconsejamos que leas este manual para familiarizarte con él. Solo te llevará unos minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
 
+</quick_guide>
