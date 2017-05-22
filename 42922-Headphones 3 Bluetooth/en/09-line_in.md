@@ -1,7 +1,9 @@
-## Audio input
+## Call control
 
-In addition to all modes explained so far, you can also connect your *Energy Headphones 1 Bluetooth* to your music player through the included audio cable if you run out of battery or simply do not want to use the wireless connection.
+Once your *Energy Headphones 3 Bluetooth* and smartphone are synchronized, you will be able to receive calls and use the MICROPHONE (6) to talk while wearing your headphones.
 
-Turn off your *Energy Headphones 1 Bluetooth* and connect your cable to the AUDIO-IN (7) to use this mode.
+Use the MULTIFUNCTION button (2) to answer an incoming call. If you are listening to music when you receive a call, playback will pause and you will hear an incoming call sound. You can also press and hold this button for 2 seconds to reject an incoming call.
 
-**NOTE:** Playback control function is not supported in this mode. Therefore, you will have to use the player connected to your headphones to turn up and down the volume, switch to another song or pause playback.
+Press the MULTIFUNCTION button (2) again to end a call. Playback will resume from the point when the music stopped.
+
+You can also press twice the MULTIFUNCTION button (2) while you are listening to music to dial the last telephone number in your smartphone's call log.
