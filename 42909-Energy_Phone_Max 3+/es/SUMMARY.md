@@ -8,6 +8,7 @@
 * [Contenido del producto](04-contenido.md)
 * [Presentacion general](05-presentacion_general.md)
 * [Alimentación/Primer uso](06-alimentacion.md)
+* [14_2-Sensor_de_Huellas](14_2-Sensor_de_Huellas.md)
 * [Encendido y apagado](07-encendido.md)
 * [Tipos de pulsaciones](08-tipos_de_pulsaciones.md)
 * [Pantalla principal](09-pantalla_principal.md)
