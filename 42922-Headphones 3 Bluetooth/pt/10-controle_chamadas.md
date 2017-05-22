@@ -1,8 +1,7 @@
-## Controlo de chamadas
+## Entrada de áudio
 
-Emparelhe os seus *Energy Headphones 1 Bluetooth* com o seu smartphone e poderá receber chamadas e utilizar o MICROFONE (6) para falar enquanto estiver a utilizá-los.
+Além dos modos descritos até agora, se fica sem bateria ou se simplesmente não quer usar a ligação sem fios, tem ainda outra possibilidade para desfrutar dos seus *Energy Headphones 3 Bluetooth*: ligue-os ao seu leitor de músicas através do cabo de áudio (fornecido com o produto).
 
-Prima o botão MULTIFUNÇÃO (2) para atender uma chamada. No caso de receber uma chamada enquanto está a ouvir uma música, a música parará e em vez disso ouvirá uma mensagem de chamada. Prima este botão durante 2 segundos para rejeitar a chamada.
-Prima o botão MULTIFUNÇÃO (2) para terminar a chamada e continuar a reproduzir a faixa no mesmo ponto em que estava quando recebeu a chamada.
+Para ativar este modo, só tem que ligar o cabo fornecido com o produto à ENTRADA DE ÁUDIO (7).
 
-Também pode ligar para o último número de telefone do histórico do seu smartphone enquanto ouve a sua música. Para isso, prima duas vezes o botão MULTIFUNÇÃO (2).
+**Importante:** Os botões de controlo dos auscultadores não funcionam com este modo ativado. É por isso que deverá utilizar o leitor de músicas ligado aos auscultadores para aumentar ou diminuir o volume, mudar de faixa ou parar a música.
