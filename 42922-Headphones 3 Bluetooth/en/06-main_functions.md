@@ -4,7 +4,7 @@
 
 To turn on your *Energy Headphones 3 Bluetooth* press and hold the MULTIFUNCTION BUTTON (2) for 2 seconds and the INDICATOR (5) will start flashing blue. You will hear a confirmation sound, which means that your headphones are on.
 
-To turn off your *Energy Headphones 3 Bluetooth* press and hold the MULTIFUNCTION button (2) again for 4 seconds and you will hear a sound that indicates that your headphones are off. The INDICATOR (5) will stop flashing.
+To turn off your *Energy Headphones 3 Bluetooth* press and hold the MULTIFUNCTION button (2) again for 4 seconds and you will hear a sound, which means that your headphones are off. The INDICATOR (5) will stop flashing.
 
 The INDICATOR (5) will keep flashing blue while your *Energy Headphones 3 Bluetooth* are on.
 
