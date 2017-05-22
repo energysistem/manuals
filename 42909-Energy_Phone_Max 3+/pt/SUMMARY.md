@@ -8,6 +8,7 @@
 * [Apresentação geral](05-apresentacao_geral.md)
 * [Alimentação](06-alimentacao.md)
 * [Ligar e desligar](07-ligado_desligado.md)
+* [Sensor de impressões digitais](Sensor de impressões digitais.md)
 * [Main gestures](08-tipos_toques.md)
 * [Pantalla principal](09-tela_principal.md)
 * [Widgets](10-widgets.md)
