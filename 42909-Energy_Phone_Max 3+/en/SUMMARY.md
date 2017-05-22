@@ -8,6 +8,7 @@
 * [General overview](05-general_overview.md)
 * [Power/First use](06-power_management.md)
 * [Switching On and Off](07-On_Off.md)
+* [Finger Print Sensor](Finger Print Sensor.md)
 * [Main gestures](08-main_gestures.md)
 * [Main screen](09-main_screen.md)
 * [Widgets](10-widgets.md)
