@@ -20,7 +20,7 @@
 - Diaphragm diameter: 40 mm
 - Microphone sensitivity: -42 dB.
 - Size: 180  x 170 x 54 mm
-- Weight: - 137 g
+- Weight: 137 g
 
 
 #### Battery specifications 
