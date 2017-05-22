@@ -11,7 +11,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Smartphone
 Marca: Energy Sistem
-Modelo: Energy#trade# Phone Pro 3
+Modelo: Energy#trade# Phone Max 3+
 Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
@@ -37,11 +37,11 @@ EN 301 511 V9.0.2 (2003-03)
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de noviembre de 2000.
 
-Finestrat, 01 de marzo de 2017 
+Finestrat, 15 de Agosto de 2017
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
-Marco Antonio Velázquez Fierro 
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 
