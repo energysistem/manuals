@@ -3,8 +3,9 @@
 
 Entra en www.energysistem.com/es/support y, tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto.
 
-1. Puedes consultar el manual de usuario en tu idioma en: www.energysistem.com/guide/42909
-2. Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+1. Puedes consultar el manual de usuario en tu idioma de tu Energy Phone Max 3+ en: www.energysistem.com/guide/42909
+2. Pata tu Energy Earphones 1 Bluetooth visita: www.energysistem.com/guide/42817
+3. Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
 
 **Importante**: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem no se verá en la obligación de respaldar dicha información, por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica.
 Las especificaciones están sujetas a cambios sin previo aviso.

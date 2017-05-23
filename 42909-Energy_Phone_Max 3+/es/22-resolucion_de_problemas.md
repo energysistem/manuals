@@ -21,14 +21,14 @@ Muchas cámaras fotográficas digitales y programas de edición de imágenes añ
 7.	A veces la pantalla se queda en negro y el dispositivo no responde.
 Siempre es mejor reiniciar el dispositivo a través de las opciones disponibles en el sistema pero si eso no es posible, reinícialo pulsando el botón de encendido y volumen + al mismo tiempo durante 10 segundos.
 
-8.	La capacidad de memoria del Energy Phone Pro 3 es de 32 GB, pero la memoria disponible es inferior. ¿Por qué?
-El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 8 GB de memoria interna para funcionar. Por ese motivo, la memoria disponible para guardar datos adicionales es inferior a 32 GB.
+8.	La capacidad de memoria del Energy Phone Max 3+ es de 16 GB, pero la memoria disponible es inferior. ¿Por qué?
+El sistema operativo Android#trade# y las aplicaciones preinstaladas en el dispositivo necesitan aproximadamente 8 GB de memoria interna para funcionar. Por ese motivo, la memoria disponible para guardar datos adicionales es inferior a 16 GB.
 
 9.	¿Qué debo hacer para que me deje instalar una aplicación?
 En primer lugar, asegúrate de que el fichero tiene la extensión de instalación Android#trade# (.APK). En segundo lugar, Android#trade# te pedirá que actives la instalación de aplicaciones desde "Orígenes desconocidos". Esta opción está desactivada por seguridad; para autorizar la instalación de aplicaciones solo tienes que seguir las instrucciones que aparecerán en pantalla la primera vez que intentas instalar una aplicación: Ajustes > Seguridad > Orígenes desconocidos (activar). Esta acción puede comprometer la seguridad del terminal, por lo que es recomendable instalar aplicaciones que provengan de fuentes fiables.
 
 10.	¿Cuál es la autonomía del dispositivo?
-Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM, 3G y 4G. Aproximadamente la autonomía del Energy Phone Pro 3 es de hasta 165 horas en standby y 15 horas de conversación.
+Depende en gran medida de las condiciones de uso, como el nivel de brillo de la pantalla, el uso de auriculares o del altavoz, si el Wi-Fi está activado o desactivado y el uso de las redes GSM, 3G y 4G. Aproximadamente la autonomía del Energy Phone Max 3+ es de hasta xxx horas en standby y xx horas de conversación.
 
 11. ¿Cuáles son las frecuencias operativas de mi dispositivo para 3G y 4G?
-Tu Energy Phone Pro 3 está preparado para trabajar correctamente en modo 3G en las bandas WCDMA 900/2100 MHz y en modo 4G en las bandas FDD-LTE 800/1800/2100/2600 MHz.
+Tu Energy Phone Max 3+ está preparado para trabajar correctamente en modo 3G en las bandas WCDMA 900/2100 MHz y en modo 4G en las bandas FDD-LTE 800/1800/2600 MHz.
