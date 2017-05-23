@@ -1,6 +1,6 @@
 ## <quick_guide> Bluetooth pairing
 
-When your *Energy Headphones 3 Bluetooth* are off, press and hold the MULTIFUNCTION button (2) for 4 seconds and the INDICATOR (5) will start flashing blue and red. At this point, your *Energy Headphones 3 Bluetooth* will be trying to pair with another Bluetooth device. Start then the search and pairing process from your Bluetooth device (smartphone, tablet, laptop, etc). Once your *Energy Headphones 3 Bluetooth* appear on your device screen, select "connect". The devices will be synchronized immediately without codes. You will hear a confirmation sound and the INDICATOR (5) will flash blue.
+When your *Energy Headphones 3 Bluetooth* are off, press and hold the MULTIFUNCTION button (2) for 4 seconds and the INDICATOR (4) will start flashing blue and red. At this point, your *Energy Headphones 3 Bluetooth* will be trying to pair with another Bluetooth device. Start then the search and pairing process from your Bluetooth device (smartphone, tablet, laptop, etc). Once your *Energy Headphones 3 Bluetooth* appear on your device screen, select "connect". The devices will be synchronized immediately without codes. You will hear a confirmation sound and the INDICATOR (4) will flash blue.
 
 ### Auto power off 
 Your *Energy Headphones 3 Bluetooth* will automatically turn off in the following situations:
