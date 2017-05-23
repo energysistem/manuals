@@ -26,7 +26,7 @@ EN 301 489-17 V2.1.1: 2012-09
 
 EN 300 328 V1.7.1: 2006-10
 
-in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of March 09th 1999.
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of April 16th 2014.
 
 Finestrat, 01st February 2017.
 
