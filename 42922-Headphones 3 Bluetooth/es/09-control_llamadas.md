@@ -6,5 +6,5 @@ Para contestar una llamada entrante pulsa el botón MULTIFUNCIÓN (2). En caso d
 
 Para finalizar la llamada pulsa nuevamente el botón MULTIFUNCIÓN (2), la canción se reanudará desde el mismo momento en el que se recibió la llamada.
 
-Mientras escuchas música, también puedes hacer una rellamada al último número del historial de su Smartphone pulsando dos veces seguidas el botón MULTIFUNCIÓN (2).
+Mientras escuchas música, también puedes hacer una rellamada al último número del historial de su smartphone pulsando dos veces seguidas el botón MULTIFUNCIÓN (2).
 
