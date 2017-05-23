@@ -9,6 +9,8 @@
 * [Presentacion general](05-presentacion_general.md)
 * [Alimentación/Primer uso](06-alimentacion.md)
 * [Sensor de Huellas](14_2-Sensor_de_Huellas.md)
+* [Sincronización Auriculares](14_3-Sincronización Bluetooth)
+* [Controles Auriculares](14_4-Controles Auriculares)
 * [Encendido y apagado](07-encendido.md)
 * [Tipos de pulsaciones](08-tipos_de_pulsaciones.md)
 * [Pantalla principal](09-pantalla_principal.md)

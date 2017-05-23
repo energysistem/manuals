@@ -23,10 +23,10 @@
 17. Herramienta de extracción de la bandeja de tarjetas
 18. Botón volumen +
 19. Botón multifunción
-19. Botón volumen -
-20. Entrada microUSB
-21. LED indicador
-22. Micrófono
+20. Botón volumen -
+21. Entrada microUSB
+22. LED indicador
+23. Micrófono
 
 </quick_guide>
 
