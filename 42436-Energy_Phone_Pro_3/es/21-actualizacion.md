@@ -2,7 +2,7 @@
 
 Tu Energy Phone Pro 3 tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son vía OTA (Over-The-Air), con lo que tu Energy Phone se conectará automáticamente con nuestros servidores, hará la descarga e instalará el nuevo software en cuanto tengamos una nueva actualización lista para usar.
 
-También puedes actualizar tu Energy Phone 3 a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o actualizarlo a una nueva versión compatible si esta se encuentra disponible.
+También puedes actualizar tu Energy Phone Pro 3 a través de tu ordenador. El proceso es sencillo pero ha de realizarse con cuidado y solamente cuando sea realmente necesario. Si observas que el dispositivo se bloquea, se reinicia inesperadamente o tienes problemas para acceder al contenido de la memoria, es conveniente reinstalar el sistema operativo o actualizarlo a una nueva versión compatible si esta se encuentra disponible.
 
 Sigue los siguientes pasos para realizar la instalación:
 
