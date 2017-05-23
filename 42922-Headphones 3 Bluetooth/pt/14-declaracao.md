@@ -26,7 +26,7 @@ EN 301 489-17 V2.1.1: 2012-09
 
 EN 300 328 V1.7.1: 2006-10
 
-está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 09 de março de 1999.
+  está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
 
 Finestrat, 01 de Fevereiro de 2017.
 
