@@ -7,26 +7,34 @@ Tél. : + 34 902 388 388  / + 34 966 813 257
 Nous déclarons sous notre seule responsabilité que le produit
 
 Description : Casque sans fil <br/>
-Marque : Energy Sistem <br/>
-Modèle : Energy Headphones 1 Bluetooth <br/>
-Fabricant : Energy Sistem Technology, S.A. <br/>
-Pays de fabrication : Chine <br/>
+Marque : Energy Sistem
+Modèle : Energy Headphones 3 Bluetooth 
+Fabricant : Energy Sistem Technology, S.A. 
+Pays de fabrication : Chine
 
 visé par cette déclaration est conforme aux normes ou documents normatifs
 
-EN 300 328 V1.9.1 (2015-02) <br/>
-EN 301 489-1 V1.9.2 (2011-09) <br/>
-EN 301 489-17 V2.2.1 (2012-09) <br/>
-EN 62479:2010  <br/>
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+ EN 60950 
 
-conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
+ EN 55032 
 
-Finestrat, 1 février 2017.
+ EN 55024  
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+ EN 301 489-1 V1.9.2: 2011-09  
 
-Daniel Havillio
+ EN 301 489-1 V1.9.2: 2011-09  
+
+ EN 301 489-17 V2.1.1: 2012-09 
+
+ EN 300 328 V1.7.1: 2006-10 EN 300 328 V1.7.1: 2006-10 
+
+conformément aux dispositions de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014.
+
+Finestrat, 01 février 2017
+
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
+
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
