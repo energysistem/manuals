@@ -1,3 +1,4 @@
+<quick_guide> 
 ## Declaración de Conformidad
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
@@ -8,15 +9,14 @@ Tel: 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: eReader
+Descripción: Tablet
 Marca: Energy Sistem
-Modelo: Energy eReader Max
+Modelo: Energy Tablet 8 Max 3
 Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
------Pendiente
 EN 55032:2012+AC:2013
 EN 61000-3-2:2014
 EN 61000-3-3:2013
@@ -28,11 +28,13 @@ EN 301 489-17 V2.2.1 (2012-09)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
-Pendiente------------
 
-Finestrat, 01 de Agosto de 2017.
+Finestrat, 01 de Enero de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
 Marco Antonio Velázquez Fierro
 Product Management Director
+
+
+</quick_guide>

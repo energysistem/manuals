@@ -17,8 +17,6 @@
 - En ocasiones, encontrarás el icono de opciones adicionales ![](http://static.energysistem.com/images/manuals/42535/569d0b104612e.jpg). Pulsa
 este icono para acceder a opciones avanzadas.
 
-- *Luz:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Te permite ajustar el nivel de luz para iluminar la pantalla de tu eReader
-
 - *Wi-Fi* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Te indica la recepción de tu señal Wi-Fi
 
 - *Batería* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Te indica el nivel de batería que dispone tu eReader

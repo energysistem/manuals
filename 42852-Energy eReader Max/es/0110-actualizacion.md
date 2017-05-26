@@ -1,6 +1,6 @@
 ## Actualización
 
-Tu Energy eReader Max tiene un sistema operativo instalado basado en Android#trade#, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy eReader se conectará automáticamente con nuestros servidores mientras se encuentre conectado a una red Wi-Fi conectada a Internet para avisarte en caso que una actualización sea encontrada. Si lo deseas, puedes instalar la actualización dentro de el menú de Ajustes.
+Tu Energy eReader Max tiene un sistema operativo instalado basado en Android, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy eReader se conectará automáticamente con nuestros servidores mientras se encuentre conectado a una red Wi-Fi conectada a Internet para avisarte en caso que una actualización sea encontrada. Si lo deseas, puedes instalar la actualización dentro de el menú de Ajustes.
 
 ![] (http://static.energysistem.com/images/manuals/42535/56a6535292bff.jpg)
 
@@ -20,7 +20,7 @@ Accede a la página web www.energysistem.com desde el navegador web de tu ordena
 
 Entra en la sección "Soporte" y elige el tipo de producto "eReader".
 
-Elige tu modelo de Energy eReader de la lista desplegable que aparecerá y a continuación descarga la última versión del sistema operativo Android#trade# disponible.
+Elige tu modelo de Energy eReader de la lista desplegable que aparecerá y a continuación descarga la última versión del sistema operativo Android disponible.
 
 *Importante:*
 Asegúrate de que la versión de sistema operativo que estás descargando es específico para tu modelo, ya que de lo contrario se podría dañar el dispositivo.

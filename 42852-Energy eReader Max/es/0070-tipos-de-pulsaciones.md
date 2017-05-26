@@ -13,7 +13,7 @@ Toca la superficie durante un período prolongado de tiempo.
 
 
 - Zoom:
-Ampliar y reducir la imagen de pantalla
+Toca la pantalla con 2 dedos y sepáralos para ampliar o júntalos para reducir el zoom
 
 ![](https://camo.githubusercontent.com/123d08d94943648cf48946d49af9f88b12d17de1/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661666334383930302e6a7067)
 

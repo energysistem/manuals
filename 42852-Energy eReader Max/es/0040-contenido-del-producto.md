@@ -3,3 +3,4 @@
 - Energy eReader Max
 - Cable microUSB
 - Guía rápida
+- Toallita para la pantalla
