@@ -1,6 +1,5 @@
 ## Contenido del producto
 
 - Energy eReader Max
-- Cable microUSB
-- Guía rápida
+- Cable de carga y datos USB
 - Toallita para la pantalla
