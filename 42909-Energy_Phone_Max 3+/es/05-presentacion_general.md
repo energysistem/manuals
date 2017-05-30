@@ -4,10 +4,10 @@
 ![Imagen2](http://static.energysistem.com/images/manuals/42909/592d3ef2b1f5c.jpg)
 
 
-1. Bandeja de tarjetas nanoSIM 1/ nanoSIM 2/ microSD
-2. Flash trasero
+1. Bandeja de tarjetas microSIM 1/ nanoSIM 2/ microSD
+2. Salida de auriculares
 3. Cámara trasera
-4. Salida de auriculares
+4. Flash trasero
 5. Sensores de luminosidad y de proximidad
 6. Receptor
 7. LED de notificaciones
