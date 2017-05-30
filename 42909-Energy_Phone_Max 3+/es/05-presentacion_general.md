@@ -5,8 +5,8 @@
 
 
 1. Bandeja de tarjetas nanoSIM 1/ nanoSIM 2/ microSD
-2. Cámara trasera
-3. Flash trasero
+2. Flash trasero
+3. Cámara trasera
 4. Salida de auriculares
 5. Sensores de luminosidad y de proximidad
 6. Receptor
