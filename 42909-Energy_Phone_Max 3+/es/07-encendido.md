@@ -10,9 +10,9 @@ Para encender tu Energy Earphones 1 Bluetooth mantén pulsado el botón multifun
 Mantén pulsado el botón multifunción (19) durante 3 segundos. El LED indicador (22) se iluminará en rojo durante 2 segundos y escucharás un
 sonido de confirmación.
 
-## Colocación tarjeta nanoSIM 1/ nanoSIM 2/ microSD
+## Colocación tarjeta microSIM 1/ nanoSIM 2/ microSD
 
-Para colocar las tarjetas nanoSIM/ microSD deberás extraer la bandeja (1) empleando exclusivamente la herramienta (17) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y de almacenamiento SD, como sigue:
+Para colocar las tarjetas microSIM/ microSD deberás extraer la bandeja (1) empleando exclusivamente la herramienta (17) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y de almacenamiento SD, como sigue:
 
 Opción A: Tarjeta nanoSIM 1 + Tarjeta de almacenamiento microSD.
 Opción B: Tarjeta nanoSIM 1 + Tarjeta nanoSIM 2.

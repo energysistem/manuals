@@ -21,6 +21,9 @@
 15. Sensor de huellas
 16. Altavoz
 17. Herramienta de extracción de la bandeja de tarjetas
+
+Auriculares
+
 18. Botón volumen +
 19. Botón multifunción
 20. Botón volumen -
