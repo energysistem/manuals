@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Auriculares deportivos inalámbricos <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
+Modelo: Energy Earphones Sport 3 Bluetooth <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
