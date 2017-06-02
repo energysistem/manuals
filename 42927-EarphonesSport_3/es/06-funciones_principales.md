@@ -18,6 +18,6 @@ Durante la carga, el *INDICADOR* (4) se iluminará en rojo y cuando la carga se 
 
 ### Responde a tus llamadas
 
-Con los Energy Earphones Sport 1 Bluetooth sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular. Ver más información en el apartado 'Control de llamadas.' de este manual.
+Con los Energy Earphones Sport 3 Bluetooth sincronizados con el teléfono podrás controlar tus llamadas desde el propio auricular. Ver más información en el apartado 'Control de llamadas.' de este manual.
 
 **Nota:** Te recomendamos que no dejes en desuso tus *Energy Earphones Sport 3 Bluetooth* durante un periodo largo de tiempo con la batería completamente descargada. Es aconsejable que cargues la batería de tus auriculares al menos una vez al mes.
