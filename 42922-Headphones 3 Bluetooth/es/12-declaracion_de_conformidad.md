@@ -14,17 +14,11 @@ País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 60950
+EN60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
+EN50332-1:2013
+EN50332-2:2013
+EN301 489-1 V2.2.0
 
-EN 55032 
-
-EN 55024 
-
-EN 301 489-1 V1.9.2: 2011-09
-
-EN 301 489-17 V2.1.1: 2012-09
-
-EN 300 328 V1.7.1: 2006-10
 
 de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
