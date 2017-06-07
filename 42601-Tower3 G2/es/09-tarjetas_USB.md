@@ -8,7 +8,7 @@ Visualizarás en la pantalla "USB" o "SD" según el tipo de memoria que insertes
 
 Si apagas tu *Energy Tower 3 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de *Avance* (7) y *Retroceso* (6). También puedes cambiar de carpeta pulsando el botón *Cambio de función* (4).
+Para navegar entre canciones, utiliza los botones de *Avance* (7) y *Retroceso* (6). También puedes cambiar de carpeta pulsando el botón folder del mando a distancia.
 
 ## Modo de reproducción
 
