@@ -5,9 +5,7 @@ Antes de encender tu Energy Phone Max 3+, asegúrate de que las tarjetas nano/mi
 
 Para apagar tu Energy Phone Max 3+ mantén pulsado el botón de encendido/ apagado (11) hasta que aparezca el menú de apagado y a continuación escoge la opción “Apagar”. Una pulsación breve del botón de encendido/ apagado (11) bloquea/ desbloquea el dispositivo apagando o encendiendo la pantalla. También podrás desbloquear el dispositivo utilizando el sensor de huellas (15) una vez que lo hayas configurado (ver apartado: Sensor de huellas).
 
-Para encender tu Energy Earphones 1 Bluetooth mantén pulsado el botón multifunción (19) durante 2 segundos. El LED indicador (22) se iluminará en azul y escucharás un sonido de confirmación.
-
-Mantén pulsado el botón multifunción (19) durante 3 segundos. El LED indicador (22) se iluminará en rojo durante 2 segundos y escucharás un
+Para encender tu Energy Earphones 1 Bluetooth mantén pulsado el botón multifunción (19) durante 2 segundos. El LED indicador (22) se iluminará en azul y escucharás un sonido de confirmación. Mantén pulsado el botón multifunción (19) durante 3 segundos. El LED indicador (22) se iluminará en rojo durante 2 segundos y escucharás un
 sonido de confirmación.
 
 ## Colocación tarjeta microSIM 1/ nanoSIM 2/ microSD
