@@ -4,7 +4,7 @@ Para reproducir archivos en formato MP3 o WAV, inserta una tarjeta de memoria mi
 
 En ese momento el *Energy Tower 3 g2* reproducirá automáticamente desde la memoria externa insertada.
 
-Visualizarás en la pantalla "USB" o "SD" según el tipo de memoria que insertes.
+Visualizarás en la *Pantalla* (1) "USB" o "SD" según el tipo de memoria que insertes.
 
 Si apagas tu *Energy Tower 3 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
