@@ -1,7 +1,7 @@
 <quick_guide>
 ## Presentación general
 
-![Imagen2](http://static.energysistem.com/images/manuals/42909/592d3ef2b1f5c.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
 
 
 1. Bandeja de tarjetas microSIM 1/ nanoSIM 2/ microSD
