@@ -2,7 +2,7 @@
 
 Tu *Energy Tower 3 g2* cuenta también con *Entrada auxiliar de 3,5 mm (9)*, a la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3,5 mm.
 
-En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la *Pantalla LED (1)* del panel superior.
+En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la *Pantalla  (1)* del panel superior.
 
 Podrá utilizar el botón *Play - Pausa (5)* para  iniciar, pausar o reanudar la reproducción.
 
