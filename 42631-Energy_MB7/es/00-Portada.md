@@ -1,4 +1,1 @@
-
-
-![Imagen](http://static.energysistem.com/images/manuals/42631/57f68522adaae.jpg) 
-
+![Imagen1](http://static.energysistem.com/images/manuals/42797/57f68429e7b67.jpg)
