@@ -22,7 +22,7 @@ EN301 489-1 V2.2.0
 
   está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
 
-Finestrat, 01 de Fevereiro de 2017.
+Finestrat, 01 de Julhio de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
