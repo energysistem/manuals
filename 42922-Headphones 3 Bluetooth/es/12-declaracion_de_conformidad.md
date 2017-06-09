@@ -22,7 +22,7 @@ EN301 489-1 V2.2.0
 
 de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
-Finestrat, 01 de Febrero de 2017.
+Finestrat, 01 de Julio de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
