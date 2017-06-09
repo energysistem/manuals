@@ -6,11 +6,11 @@ Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Altavoz portátil inalámbrico <br/>
-Marca: Energy Sistem <br/>
-Modelo: Energy Music Box 5 <br/>
-Fabricante: Energy Sistem Technology, S.A. <br/>
-País de fabricación: China <br/>
+Descripción: Altavoz portátil inalámbrico
+Marca: Energy Sistem 
+Modelo: Energy Music Box 5 
+Fabricante: Energy Sistem Technology, S.A. 
+País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
