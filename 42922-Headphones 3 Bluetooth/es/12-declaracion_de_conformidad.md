@@ -15,8 +15,11 @@ País de fabricación: China
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
 EN60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
+
 EN50332-1:2013
+
 EN50332-2:2013
+
 EN301 489-1 V2.2.0
 
 
