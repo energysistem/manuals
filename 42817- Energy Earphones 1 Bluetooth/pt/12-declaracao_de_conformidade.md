@@ -26,7 +26,7 @@ EN 62479:2010
 
 está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 
-Finestrat, 01 de maio de 2017.
+Finestrat, 01 de Julhio de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
