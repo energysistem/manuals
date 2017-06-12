@@ -1,8 +1,8 @@
 ## <quick_guide> Introducción
 
-* Gracias por confiar en nosotros y adquirir tus nuevos *Energy Tower 8 g2*. Esperamos que los disfrutes.
+* Gracias por confiar en nosotros y adquirir tu nueva *Energy Tower 8 g2*. Esperamos que la disfrutes.
 
-* Antes de comenzar a disfrutar de tus *Energy Tower 8 g2* te aconsejamos que leas este manual para familiarizarte con ellos. 
+* Antes de comenzar a disfrutar de tu *Energy Tower 8 g2* te invitamos a que leas este manual para familiarizarte con el producto. 
 
 </unique> </quick_guide>
 
