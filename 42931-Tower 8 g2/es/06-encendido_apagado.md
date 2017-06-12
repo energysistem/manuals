@@ -1,5 +1,5 @@
-## Encendido y apagado del dispositivo. Modo stand-by
+## Encendido y apagado del dispositivo.
 
-Una vez enchufada a la toma de corriente, enciende tu *Energy Tower 8* poniendo el interruptor de la parte posterior de la torre en "ON". A partir de entonces, podrás encenderla y apagarla desde el botón PLAY/PAUSE (1) del panel superior,manteniendolo pulsado durante 2 segundos.
+Una vez enchufada a la toma de corriente, enciende tu *Energy Tower 8 g2* poniendo el interruptor de la parte posterior en posición "ON". A partir de entonces, podrás encenderla y apagarla desde el botón Encendido/apagado ( ) del panel superior, manteniendolo pulsado durante 2 segundos.
 
-Te recomendamos que cuando no vayas a utilizar la torre durante un periodo más largo de tiempo, además de apagar la torre desde el panel superior, pongas el interruptor trasero en la posición "OFF".
+Te recomendamos que cuando no vayas a utilizar la torre durante un periodo largo de tiempo, además de apagarla desde el panel superior, pongas el interruptor trasero en la posición "OFF".
