@@ -1,7 +1,12 @@
-## Presentación general
-<br><br>
+## Conexiones y comandos
 
-|  |  | 
-|:-------|:-------|
-|1. GANCHOS DE SUJECIÓN FLEXIBLES. <br> 2.	CONECTOR USB DE CARGA. <br> 3.	BOTÓN MULTIFUNCIÓN. <br> 4.	MICRÓFONO. <br> 5. LED INDICADOR.	|![Imagen1](http://static.energysistem.com/images/manuals/42776/590324a35c76b.jpg)| 
+Para cambiar entre las diferentes funciones, pulsa el botón CAMBIO DE FUNCIÓN (4), visualizarás en la pantalla la función selecionada. 
+
+
+![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)
+
+![Schema](http://static.energysistem.com/images/manuals/42677/56e82b9d45965.jpg)
+
+
+
 
