@@ -1,4 +1,4 @@
-## Entradas analógicas RCA y miniJack.
+## Entradas analógicas miniJack y RCA.
 
 Tu *Energy Tower 8 g2* dispone de dos entradas analógicas estéreo para conectar dispositivos externos. Una es de tipo miniJack (cable incluido) y la otra tipo RCA. 
 
