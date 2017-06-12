@@ -1,0 +1,1 @@
+## Salida analógica RCA.
