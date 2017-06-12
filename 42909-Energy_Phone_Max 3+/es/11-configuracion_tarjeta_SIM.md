@@ -6,7 +6,7 @@ En este apartado podrás seleccionar la tarjeta predefinida para la conexión de
 
 ![Imagen](http://static.energysistem.com/images/manuals/42436/58d2ad55dbd2a.jpg)
 
-Para colocar las tarjetas nanoSIM/ microSD deberás extraer la bandeja (1 en el esquema general) empleando exclusivamente la herramienta (17 en el esquema general) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1 en el esquema general). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y de almacenamiento SD, como sigue:
+Para colocar las tarjetas nanoSIM/ microSD deberás extraer la bandeja (1 en el esquema general) empleando exclusivamente la herramienta (17 en el esquema general) ubicada en la parte exterior del sobre incluido junto al producto. Inserta dicha herramienta en el orificio de la bandeja (1 en el esquema general). Una vez extraída podrás comprobar que este dispositivo ofrece dos configuraciones posibles para el uso de las tarjetas SIM y de almacenamiento SD externo, como sigue:
 
 Opción A: Tarjeta nanoSIM 1 + Tarjeta de almacenamiento microSD.
 Opción B: Tarjeta nanoSIM 1 + Tarjeta MicroSIM 2.
