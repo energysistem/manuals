@@ -1,4 +1,4 @@
 <quick_guide>
-![Imagen1](http://static.energysistem.com/images/manuals/42776/5903243121154.jpg)
+![Imagen1](   )
 
 </quick_guide>
