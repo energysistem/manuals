@@ -1,5 +1,3 @@
-<quick_guide> 
-
 ## Presentación general
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42800/58b00f724b41e.jpg)
@@ -21,5 +19,3 @@
 8. Conector microUSB
 
 9. Salida para auriculares
-
-</quick_guide>
