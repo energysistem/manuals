@@ -1,5 +1,3 @@
-<quick_guide>
-
 ## Introducción
 
 Gracias por confiar en nosotros y adquirir tu nueva Energy Tablet 8" Max 3. Esperamos que la disfrutes.
@@ -9,5 +7,3 @@ Tu tablet dispone de una pantalla IPS de 8” (1280x800 píxeles), procesador de
 Antes de comenzar a disfrutar de tu tablet te aconsejamos que leas esta guía para familiarizarte con ella. Sólo te llevará un par de minutos y te ayudará a aprovechar al máximo sus prestaciones.
 
 ### <unique> * Encuentra el manual completo de la *Energy Tablet 8" Max 3* en el siguiente enlace https://www.energysistem.com/guide/42799 </unique>
-
-</quick_guide>
