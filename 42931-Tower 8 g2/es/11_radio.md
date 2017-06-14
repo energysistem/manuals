@@ -6,8 +6,12 @@ Después, para seleccionar entre las distintas emisoras usa los botones de Avanc
 
 Puedes utilizar el cable de radio que viene con el contenido del producto de las siguientes formas:
 
-•	Conectá la torre a toma de radio de tu casa usando un cable de radio IEC macho-hembra. De esta forma estarás utilizando la antena de tu vivienda para la recepción de ondas de radio.
+•	Conectá la torre a toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. 
+
+    (imagen toma de casa)
 
 •	Utiliza el cable de antena incluido. 
+
+   (imagen antena accesorio)
 
 **Nota:** Te recomendamos la primera opción para conseguir mejor recepción de ondas de radio.
