@@ -1,7 +1,8 @@
 ## <quick_guide> Contenido del producto
 
-* Energy Headphones 1 Bluetooth.
-* Cable USB de carga.
+* Energy Headphones 7 Bluetooth ANC.
+* Cable microUSB de carga.
 * Cable de audio.
+* Estuche de transporte
 
 </quick_guide>
