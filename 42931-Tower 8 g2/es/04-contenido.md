@@ -1,10 +1,9 @@
-## <quick_guide> Contenido del producto
+## Contenido del producto
 
-* Energy Earphones 6 True Wireless
-* Cable microUSB de carga
-* Funda de transporte y protección
-* Ganchos de sujeción flexible
-* Almohadillas intercambiables
-* Guía de usuario
-
-</quick_guide>
+* Energy Tower 8 g2.
+* Mando a distancia.
+* 2 pilas AAA.
+* Cable de alimentación.
+* Cable de audio 3.5 mm.
+* Antena de radio.
+* Guía rápida de uso.

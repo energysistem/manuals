@@ -1,10 +1,7 @@
-## <quick_guide> Introducción
+## Introducción
 
-* Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones 6 True Wireless*. Esperamos que los disfrutes.
+* Gracias por confiar en nosotros y adquirir tu nueva *Energy Tower 8 g2*. Esperamos que la disfrutes.
 
-* Auriculares inalámbricos con diseño intrauditivo para experimentar la sensación de moverte sin ataduras. Responde tus llamadas, controla la lista reproducción durante 5 horas y descubre cómo su gancho de sujeción flexible se fija a tu oreja. 
+* Antes de comenzar a disfrutar de tu *Energy Tower 8 g2* te invitamos a que leas este manual para familiarizarte con el producto. 
 
-* Antes de comenzar a disfrutar de tus *Energy Earphones 6 True Wireless* te aconsejamos que leas este manual para familiarizarte con ellos. 
-
-</unique> </quick_guide>
 
