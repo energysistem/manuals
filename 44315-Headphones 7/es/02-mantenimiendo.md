@@ -1,6 +1,6 @@
 ## Cuidado y mantenimiento
 
-* No expongas tus *Energy Headphones 1 Bluetooth* a golpes, polvo, humedad o altas temperaturas.
+* No expongas tus *Energy Headphones 7 Bluetooth ANC* a golpes, polvo, humedad o altas temperaturas.
 
 * No uses productos de limpieza corrosivos o abrasivos.
 
