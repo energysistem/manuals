@@ -1,6 +1,6 @@
 ## Control de reproducción
 
-Una vez sincronizados los *Energy Headphones 1 Bluetooth* puedes controlar las funciones básicas de reproducción desde los auriculares; como el volumen y la reproducción. 
+Una vez sincronizados los *Energy Headphones 7 Bluetooth ANC* puedes controlar las funciones básicas de reproducción desde los auriculares; como el volumen y la reproducción. 
 
 Podrás subir y bajar el volumen de reproducción utilizando los botones VOLUMEN +  (1) y VOLUMEN - (3) respectivamente. Oirás un bip cuando alcances el volumen máximo.
 
