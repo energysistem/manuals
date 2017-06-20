@@ -27,6 +27,9 @@
 #### Características de la batería 
 
 - Batería de litio de 400 mAh.
-- Autonomía hasta 50 horas de uso.
+- Autonomía hasta 50 horas de uso*.
 - Tiempo de carga: 1,5 h.
 - Sistema de carga a través de cable USB - micro USB.
+
+
+*Nota:* Para más información visite el apartado de *Autonomía*.
