@@ -1,4 +1,4 @@
-## <quick_guide> Declaración de conformidad
+## Declaración de conformidad
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
@@ -30,4 +30,4 @@ Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-</quick_guide>
+
