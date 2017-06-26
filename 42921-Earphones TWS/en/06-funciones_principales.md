@@ -15,7 +15,7 @@ When the battery level is below 10%, the *LED indicator* (5) will flash red and 
 
 Detach the *ear hooks* (1) and then connect the charging cable to the earphones’*microUSB port* (2) to charge the battery. Connect the other cable end to the USB port of any device to provide energy (PC, USB wall charger, car charger, etc.).
 
-The *LED indicator* (5) will glow red while charging the battery and will flash in blue once the charging process is completed. The charging process takes about 1 hour and a half.
+The *LED indicator* (5) will glow red while charging the battery and will change to blue once the charging process is completed. The charging process takes about 1 hour and a half.
 
 
 **Important:** We recommend not to leave your *Energy Earphones 6 True Wireless* unused for long periods of time with an empty battery. We advise to charge your earphones' battery at least once a month.
