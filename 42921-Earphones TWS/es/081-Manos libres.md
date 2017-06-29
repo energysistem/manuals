@@ -10,4 +10,4 @@ Pulsación corta del botón multifunción (3).
 
 Mantén pulsado el botón multifunción (3).
 
-### IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo. Esto es debido a que es el auricular maestro y este tipo de señal no puede ser transmitido al auricular derecho (esclavo). 
+### IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo (auricular maestro).
