@@ -1,5 +1,13 @@
 ## Manos libres
 
-Podrás atender llamadas entrantes mientras usas tus "Energy Earphones 6 True Wireless". 
+Podrás atender llamadas entrantes mientras usas tus "Energy Earphones 6 True Wireless". Para eso usa estos controles:
 
-IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo. Esto es debido a que es el auricular maestro y este tipo de señal no puede ser transmitido al auricular derecho (esclavo). 
+### Contestar llamada entrante / finalizar llamada
+
+Pulsación corta del botón multifunción (3).
+
+### Rechazar llamada entrante
+
+Mantén pulsado el botón multifunción (3).
+
+### IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo. Esto es debido a que es el auricular maestro y este tipo de señal no puede ser transmitido al auricular derecho (esclavo). 
