@@ -8,7 +8,8 @@ Puedes utilizar el cable de radio que viene con el contenido del producto de las
 
 •	Conectá la torre a toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. 
 
-   http://static.energysistem.com/images/manuals/42360/59563a9fec5c3.jpg
+   ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563a9fec5c3.jpg)
+   
 
 •	Utiliza el cable de antena incluido. 
 
