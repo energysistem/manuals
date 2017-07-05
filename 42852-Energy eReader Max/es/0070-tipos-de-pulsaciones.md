@@ -1,8 +1,7 @@
 ## Gestos táctiles
 
-**Gestos elementales**
 - Pulsación:
-Pulsa brevemente la pantalla
+Pulsa brevemente la pantalla.
 
 ![](https://camo.githubusercontent.com/8a1a605385ab4126116678757bd133fca34ea6c9/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353639623262356233352e6a7067)
 
@@ -13,15 +12,12 @@ Toca la superficie durante un período prolongado de tiempo.
 
 
 - Zoom:
-Toca la pantalla con 2 dedos y sepáralos para ampliar o júntalos para reducir el zoom
+Toca la pantalla con 2 dedos y sepáralos para ampliar o júntalos para reducir el zoom.
 
 ![](https://camo.githubusercontent.com/123d08d94943648cf48946d49af9f88b12d17de1/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661666334383930302e6a7067)
 
 
-**2 maneras para cambiar de página**
-- Desliza el dedo rápidamente sobre la pantalla
+- Paso de página:
+Desliza el dedo rápidamente sobre la pantalla. También puedes utilizar los botones laterales.
 
 ![](https://camo.githubusercontent.com/19a82089a6bd24bb4557d05e1b706dc668d6865b/687474703a2f2f7374617469632e656e6572677973697374656d2e636f6d2f696d616765732f6d616e75616c732f33393533302f353335353661616564313563322e6a7067)
-
-
-- Utilizar los botones laterales para avanzar / retroceder de página.
