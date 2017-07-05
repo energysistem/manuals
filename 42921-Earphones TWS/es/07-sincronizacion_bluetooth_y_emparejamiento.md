@@ -7,4 +7,7 @@ Activa la señal Bluetooth de tu dispositivo reproductor y conecta tus “Energy
 ### Función Auto apagado
 Con el fin de optimizar la batería, tus *Energy Earphones 6 True Wireless* se apagarán automaticamente a los 5 minutos de estar en modo búsqueda y no haber sido sincronizados con ningún otro dispositivo.
 
+## Hard reset
+En caso de que tengas problemas de emparejamiento y necesites reiniciar de fábrica tus Energy Earphones 6 True Wireless puedes hacerlo manteniendo pulsado el *Boton multifuncion* de ambos durante 30 segundos. Con esto tus auriculares eliminarán la información que tienen en memoria quedando con la configuración tal y como vinieron de fábrica.
+
 </quick_guide>
