@@ -1,8 +1,8 @@
 ## Actualización
 
-Tu Energy eReader Max tiene un sistema operativo instalado basado en Android, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), con lo que tu Energy eReader se conectará automáticamente con nuestros servidores mientras se encuentre conectado a una red Wi-Fi conectada a Internet para avisarte en caso que una actualización sea encontrada. Si lo deseas, puedes instalar la actualización dentro de el menú de Ajustes.
+Tu Energy eReader Max cuenta con un sistema operativo basado en Android, que es posible reinstalar o actualizar si es necesario. Por defecto las actualizaciones son via OTA (Over-The-Air), por lo que tu Energy eReader verificará de forma automática si hay nuevas actualizaciones cuando esté conectado a Internet y te avisará para instalarla. También puedes buscar de forma manual desde el menú de Ajustes.
 
-![](http://static.energysistem.com/images/manuals/42535/56a6535292bff.jpg)
+![](http://static.energysistem.com/images/manuals/42535/596394b6af3b8.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42091/5499b46baa793.jpg)
 
@@ -10,21 +10,16 @@ Tu Energy eReader Max tiene un sistema operativo instalado basado en Android, qu
 
 ![](http://static.energysistem.com/images/manuals/42091/5499b6cfbb499.jpg)
 
-También puedes actualizar tu Energy eReader a través de tu ordenador. El proceso es sencillo pero ha de realizarse únicamente cuando sea realmente necesario.
+También puedes actualizar el dispositivo a través de un ordenador. El proceso es sencillo pero es recomendable realizarlo únicamente cuando sea realmente necesario. Sigue estos pasos para realizar la instalación:
 
-Sigue los siguientes pasos para realizar la instalación:
+1) Asegúrate de que la batería de tu Energy eReader se encuentra totalmente cargada. En caso contrario conéctalo a un cargador o al puerto USB de tu ordenador y espera a que la batería se cargue del todo.
 
-Asegúrate de que la batería de tu Energy eReader se encuentra totalmente cargada. En caso contrario conecta tu Energy eReader a la alimentación externa utilizando un cargador USB (5V / 1Ah max.) o el puerto USB de tu ordenador y espera a que la batería se cargue del todo.
+2) Accede a la página web www.energysistem.com/es/support desde el navegador web de tu ordenador.
 
-Accede a la página web www.energysistem.com desde el navegador web de tu ordenador.
+3) Elige el tipo de producto *eReader* y tu modelo.
 
-Entra en la sección "Soporte" y elige el tipo de producto "eReader".
+4) Descarga la última versión del firmware disponible. **Importante:** Asegúrate de que la versión de firmware que estás descargando es específica para tu modelo, ya que de lo contrario se podría dañar el dispositivo.
 
-Elige tu modelo de Energy eReader de la lista desplegable que aparecerá y a continuación descarga la última versión del sistema operativo Android disponible.
+5) Descomprime el archivo en tu ordenador.
 
-*Importante:*
-Asegúrate de que la versión de sistema operativo que estás descargando es específico para tu modelo, ya que de lo contrario se podría dañar el dispositivo.
-
-Descomprime el archivo en tu ordenador.
-
-Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del nuevo sistema operativo en tu Energy eReader.
+6) Abre el archivo de texto incluido en la descarga y sigue las instrucciones para la instalación del firmware en tu Energy eReader.
