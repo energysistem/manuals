@@ -6,13 +6,13 @@
 
 Tu Energy eReader Max tiene acceso a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono *Navegador* situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube y acceder a ellos a través de la aplicación *Descargas*.
 
-**Gmail:**
+### Gmail:
 
 ![](http://static.energysistem.com/images/manuals/42535/56a63a5cde8e2.jpg)
 
 Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-**Libros:**
+### Libros:
 
 ![](http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
@@ -23,7 +23,7 @@ Puedes seleccionar el modo de visualización en el explorador de ebooks pulsando
 
 *Nota:* Si el fichero está almacenado en una tarjeta micro SD/SDHC se mostrará en la lista pero no podrá ser abierto si la tarjeta micro SD/SDHC ha sido extraída.
 
-Funciones avanzadas de lectura
+*Funciones avanzadas de lectura*
 
 Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el centro del texto en la vista lectura para acceder al menú:
 
@@ -42,7 +42,8 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 -	*Abrir / eliminar marcadores:* ![](http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
 -	*Búsqueda de palabras:* ![](http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
 
-### Función diccionario
+*Función diccionario*
+
 Tu Energy eReader Max incorpora una función de diccionario que te permite instalar cualquier base de datos compatible *StarDict*, uno de los formatos de diccionario electrónico más extendidos, creados con herramientas gratuitas de licencia GNU GPL.
 
 Podrás usar tanto los diccionarios comerciales de prestigiosas editoriales como aquellos gratuitos creados por la comunidad, o incluso crear los tuyos propios.
@@ -60,14 +61,10 @@ Una vez instalados los diccionarios y reiniciado tu eReader podrás hacer uso de
 
 Nota: Las bases de datos de diccionarios son propiedad de terceros. Energy Sistem Technology S.A. no se responsabiliza de su contenido.
 
-**Bloc de Notas:**
+### Bloc de Notas:
 
 ![](http://static.energysistem.com/images/manuals/42535/56a6503a232ae.jpg)
 
-Esta aplicación permite anotar todo tipo de comentario o notas que más tarde puedes eliminar de un simple toque. También, puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y arrastrando para seleccionar la parte deseada.
+Esta aplicación permite anotar todo tipo de comentarios o notas que más tarde puedes consultar y exportar a otro dispositivo. También puedes añadir notas manteniendo una pulsación larga sobre el texto del libro que estés leyendo y seleccionando la opción *Anotar*.
 
 ![](http://static.energysistem.com/images/manuals/42091/5499a32f0cc93.jpg)
-
-![](http://static.energysistem.com/images/manuals/42091/5499a33534ae6.jpg)
-
-
