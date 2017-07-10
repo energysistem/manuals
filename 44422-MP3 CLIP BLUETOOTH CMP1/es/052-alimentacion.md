@@ -1,8 +1,8 @@
 ## Encendido, apagado y alimentación
 
-Enciende y apaga tu *Energy MP3 Clip* presionando durante 3 segundos el botón de Reproducción / Pausa (4). Si deseas bloquear los botones mientras disfrutas de tu música, mantén pulsado el botón Volumen - / Bloqueo (6) durante 2 segundos. Para desbloquear el dispositivo pulsa el botón Volumen - / Bloqueo (6) brevemente y cuando aparezca el icono del candado vuelve a pulsar el botón Volumen - / Bloqueo (6) durante 2 segundos. 
+Enciende y apaga tu *Energy MP3 Clip CMP1* presionando durante 3 segundos el botón de *Reproducción / Pausa* (4). Si deseas bloquear los botones mientras disfrutas de tu música, mantén pulsado el botón *Volumen - / Bloqueo* (6) durante 2 segundos. Para desbloquear el dispositivo pulsa el botón *Volumen - / Bloqueo* (6) brevemente y cuando aparezca el icono del candado vuelve a pulsar el botón *Volumen - / Bloqueo* (6) durante 2 segundos. 
 
-Para cargar la batería conecta el cable micro-USB a la Conexión USB (8) y, a continuación, conecta el otro extremo a un ordenador u otro dispositivo con puerto de carga USB.
+Para cargar la batería conecta el cable micro-USB a la *Conexión USB* (8) y, a continuación, conecta el otro extremo a un ordenador u otro dispositivo con puerto de carga USB.
 
 Al conectar tu MP3 Energy al PC o Tablet, podrás seleccionar entre la opción *Cargar y reproducir* para utilizar el dispositivo durante la carga; o la opción *Cargar y transferir* para transferencia de archivos.
 
