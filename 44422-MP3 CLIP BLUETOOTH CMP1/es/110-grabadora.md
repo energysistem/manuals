@@ -1,6 +1,6 @@
 ## Grabadora de voz
 
-Tu *MP3 Clip* te permite grabar voz con su micrófono integrado. Para entrar en el modo de grabación, selecciona la opción *Grabaciones* del Menú principal con el botón Reproducción / Pausa (4)*.
+Tu *MP3 Clip* te permite grabar voz con su micrófono integrado. Para entrar en el modo de grabación, selecciona la opción *Grabaciones* del Menú principal con el botón *Reproducción / Pausa (4)*.
 
 **Iniciar grabación de voz**: Accederás directamente al menú de opciones de grabación de voz. Selecciona esta opción para comenzar a grabar. Puedes pausar la grabación pulsando brevemente *Reproducción / Pausa (4)*,  presiona otra vez para reanudar la grabación. Para terminar de grabar y almacenar en la memoria del MP3, pulsa el botón *MENU (5)*. 
 
