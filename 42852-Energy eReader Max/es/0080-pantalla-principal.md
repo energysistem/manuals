@@ -14,8 +14,7 @@
 
 - Atrás: ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). Permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
 
-- En ocasiones, encontrarás el icono de opciones adicionales ![](http://static.energysistem.com/images/manuals/42535/569d0b104612e.jpg). Pulsa
-este icono para acceder a opciones avanzadas.
+- En ocasiones, encontrarás el icono de opciones adicionales formado por 3 puntos. Pulsa este icono para acceder a opciones avanzadas.
 
 - Wi-Fi ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Te indica la recepción de tu señal Wi-Fi
 
@@ -23,4 +22,4 @@ este icono para acceder a opciones avanzadas.
 
 - Hora: ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
 
-*Puedes configurar los accesos directos a aplicaciones que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes / General / Aplicaciones mostradas en el escritorio.
+*Puedes configurar los accesos directos a aplicaciones que quieres tener en la página principal. Para cambiarlos tienes que seguir estos pasos: Ajustes > General > Aplicaciones mostradas en el escritorio.
