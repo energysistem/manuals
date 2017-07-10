@@ -4,17 +4,13 @@
 
 ![](http://static.energysistem.com/images/manuals/42535/569d0d81e5567.jpg)
 
-Tu Energy eReader Max tiene un acceso directo a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono "Navegador" situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube. Podrás encontrar tu contenido descargado en la aplicación "Descargas".
+Tu Energy eReader Max tiene acceso a Internet a través su conexión inalámbrica. Una vez que el dispositivo esté conectado a una red Wi-Fi, pulsa sobre el icono *Navegador* situado en el menú principal o en el menú de aplicaciones para iniciar el programa. El sistema cargará la página de inicio establecida por defecto y la mostrará en pantalla. Puedes utilizar el navegador para descargar tus contenidos en la nube y acceder a ellos a través de la aplicación *Descargas*.
 
-**Correo (Gmail):**
+**Gmail:**
 
 ![](http://static.energysistem.com/images/manuals/42535/56a63a5cde8e2.jpg)
 
-La aplicación de Correo te permite recibir, enviar y consultar tus correos mediante su interfaz configurada con tu cuenta electrónica.
-Durante el primer uso de la aplicación, tendrás que configurar esa aplicación entrando tu cuenta de correo electrónico y tu contraseña. Una vez tu cuenta registrada en la aplicación, podrás navegar en su interfaz para consultar tus correos.
-Otra opción de esa aplicación es la posibilidad de configurar varias cuentas electrónicas para estar activo en todas tus cuentas en una única interfaz.
-
-![](http://static.energysistem.com/images/manuals/42091/54999ab245c55.jpg)
+Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
 **Libros:**
 
@@ -42,7 +38,7 @@ Diferentes funciones son posibles durante la lectura de un libro. Pulsa sobre el
 -	*Rotación de pantalla:* ![](http://static.energysistem.com/images/manuals/42535/56a64cf449c6b.jpg). Para rotar la pantalla de modo vertical y horizontal. Puedes elegir entre las funciones de rotación pulsando en la posición que más te conviene.
 -	*Información del libro*: ![](http://static.energysistem.com/images/manuals/42535/56a64dad28cc3.jpg). Permite visualizar toda la información referente al libro que estas leyendo. Es posible que algunos libros no contengan alguno o todos los datos, dependerá del publicador del libro.
 -	*Añadir marcador:* ![](http://static.energysistem.com/images/manuals/42535/56a64e2b8d44a.jpg). Para facilitar la lectura puedes definir marcadores. Los marcadores quedan ordenados y accesibles cuando lo requieras.
--	*Menú opciones:* ![](http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
+-	*Menú opciones:* ![](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg). Permite abrir el menú donde puedes visualizar, abrir o eliminar tus anotaciones, marcadores y comentarios.
 -	*Abrir / eliminar marcadores:* ![](http://static.energysistem.com/images/manuals/42535/56a64f8906d54.jpg). Para abrir un marcador, pulsa en el marcador que quieres visualizar. Para eliminar un marcador, mantiene pulsado el marcador que quieres suprimir y la opción aparecerá.
 -	*Búsqueda de palabras:* ![](http://static.energysistem.com/images/manuals/42535/56a64eaa7b53e.jpg). Para visualizar donde se encuentra la palabra buscada en el libro y poder acceder a esa página de un simple toque.
 
