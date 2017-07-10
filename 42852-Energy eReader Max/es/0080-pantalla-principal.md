@@ -6,7 +6,7 @@
 
 - Carrusel de los últimos libros añadidos.
 
-![](http://static.energysistem.com/images/manuals/42091/5499ad1396a0b.jpg)
+![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
 - Iconos de aplicaciones principales. Puedes configurar los accesos directos a aplicaciones que quieres tener en la página principal desde Ajustes, General, Aplicaciones mostradas en el escritorio.
 
