@@ -20,15 +20,15 @@ ETSI EN 301 489-1 V1.9.2 (2011-09)  <br/>
 ETSI EN 301 489-17 V2.2.1 (2012-09)  <br/>
 ETSI EN 300 328 V1.7.1 (2006-10)  <br/>
 
-de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
-Finestrat, 01 de Septiembre de 2015.
+Finestrat, 01 de Agosto de 2017.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
-Daniel Havillio
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-</quick_guide>
+
