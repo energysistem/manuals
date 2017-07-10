@@ -1,4 +1,4 @@
-## <quick_guide> Funciones Principales
+## Funciones Principales
 
 ### Encendido y apagado del dispositivo
 
@@ -11,9 +11,9 @@ Mientras el dispositivo esté encendido, el INDICADOR DE ENCENDIDO (11) se mante
 
 ### Cambio de modo de reproducción
 
-Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In basta con conectar el cable de audio (incluido) a la CONEXIÓN DE ENTRADA DE AUDIO (12).
+Al encender el dispositivo, automáticamente se inicia la búsqueda de dispositivos bluetooth. Para cambiar a modo Audio-In o USB basta con conectar el cable de audio (incluido) o la memoria USB a la CONEXIÓN DE ENTRADA DE AUDIO (12) o CONEXIÓN DEL LECTOR DE MEMORIAS (10).
 
-### <quick_guide> Carga de la batería
+### Carga de la batería
 
 Cuando el altavoz ya no emite sonido o no enciende es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido) a la CONEXIÓN microUSB PARA CARGAR LA BATERÍA (8), y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El INDICADOR DE CARGA (9) se ilumina en rojo y cuando la carga sea completa se apagará.
 </unique> </quick_guide>
