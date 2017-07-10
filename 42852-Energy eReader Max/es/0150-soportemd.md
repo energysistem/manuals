@@ -1,13 +1,14 @@
-## Funcionamiento de la garantía
+## Garantía y soporte
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar tu producto podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. También ponemos a tu disposición los teléfonos para la gestión de garantía. Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto.
+A través de http://www.energysistem.com/es/support, y tras indicar cuál es tu producto, puedes encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
 
-Opcionalmente puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+Puedes ponerte en contacto con nosotros a través de email o teléfono. En ambos casos debes tener a mano el ticket o factura de compra y el número de serie del producto.
 
-**Importante**: Los datos o información contenidos en los productos no están cubiertos en ningún caso por ninguna garantía, por lo tanto, el servicio técnico de Energy Sistem no se verá en la obligación de respaldar dicha información, por lo que es recomendable entregar el equipo sin información en la memoria del mismo o con los valores por defecto de fábrica.
+Si lo prefieres también puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+
+**Importante:** en caso de reparación del dispositivo te aconsejamos enviarlo sin información en la memoria o con los valores por defecto de fábrica. De lo contrario podrías perder la información, por reparación o cambio del dispositivo.
 
 Las especificaciones están sujetas a cambios sin previo aviso.
-
 
 ## Marcas comerciales
 
