@@ -8,7 +8,7 @@ Una vez emparejado un dispositivo, quedará almacenado en la memoria, pudiéndol
 
 Para escuchar música a través de conexión Bluetooth, selecciona la opción “Todas las canciones” del submenú. Esto te llevará a un listado de las canciones contenidas tanto en la memoria de tu reproductor, como en la tarjeta MicroSd externa.
 
-**Nota**: Si queremos realizar una nueva búsqueda de, deberemos seleccionar la opción *Parar conexión* desde la lista de *Dispositivos Bluetooth* y repetir la misma operación accediendo a la opción *Búsqueda Bluetooth* del submenú.
+**Nota**: Si queremos realizar una nueva búsqueda de dispositivos bluetooth, deberemos seleccionar la opción *Parar conexión* desde la lista de *Dispositivos Bluetooth* y repetir la misma operación accediendo a la opción *Búsqueda Bluetooth* del submenú.
 
 Podemos reanudar la conexión del dispositivo en nuestra lista de *Dispositivos Bluetooth* seleccionando la opción *Conexión al dispositivo* o eliminar el dispositivo de la lista seleccionando la opción *Cancelar emparejado*.
 
@@ -31,7 +31,7 @@ Puedes seleccionar tu modo preferido a través de esta opción: “Repetir 1” 
 
 
 **“Aleatorio”**: 
-El orden de reproducción de las canciones se realiza en un orden no definido. Por defecto, el modo *’Aleatorio’* está desactivado. Por lo que deberás activarlo en el primer uso del *MP3 Energy*.
+La reproducción de las canciones se realiza en un orden no definido. Por defecto, el modo *’Aleatorio’* está desactivado. Por lo que deberás activarlo en el primer uso del *MP3 Energy CMP1*.
 
 
 **“Modos de Ecualización”**:
