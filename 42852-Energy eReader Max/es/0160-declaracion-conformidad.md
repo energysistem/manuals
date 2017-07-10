@@ -4,7 +4,7 @@
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Dirección: C/ Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Tel: + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
@@ -16,19 +16,17 @@ País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
------Pendiente
-EN 55032:2012+AC:2013
+EN 300 328 V2.1.1 (2016-11)
+EN 301 489-1 V2.2.0 (2017-03)
+EN 301 489-17 V3.2.0 (2017-03)
+EN 55032:2015
+EN 55024:2010+A1:2015
 EN 61000-3-2:2014
 EN 61000-3-3:2013
-EN 55024:2010
 EN 62479:2010
-EN 300 328 V1.9.1 (2015-02)
-EN 301 489-1 V1.9.2 (2011-09)
-EN 301 489-17 V2.2.1 (2012-09)
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
-de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
-Pendiente------------
+de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
 Finestrat, 01 de Agosto de 2017.
 
