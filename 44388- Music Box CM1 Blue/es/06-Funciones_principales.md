@@ -16,7 +16,10 @@ Para volver a cambiar el modo de reproducción tan solo tienes que pulsar el bot
 
 ### Carga de la batería
 
-Cuando el altavoz ya no emite sonido o no enciende es el momento de recargarlo, conectando para ello el extremo micro USB del cable USB (incluido en el paquete del producto) a la *CONEXIÓN MICROUSB PARA CARGAR LA BATERÍA (8)*, y el otro extremo a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El *INDICADOR DE CARGA (9)* se ilumina en rojo y cuando la carga sea completa se apagará.
+Cuando la carga de la batería se encuentre por debajo del 10%, una alerta acústica te avisará de manera periódica para que recargues la batería.
+
+Conecta el extremo mini USB del cable USB (incluido en el contenido del paquete) a la *CONEXIÓN MICRO USB PARA CARGAR LA BATERÍA (8)* de tu Energy Music Box CM1 Bluetooth, y el otro extremo USB a cualquier otro dispositivo con puerto USB que pueda proporcionar energía. El *INDICADOR DE CARGA (9)* se iluminará en rojo y cuando la carga se complete, se apagará.
+
 
 
 **Nota:** Se recomienda cargar el dispositivo apagado. No almacenes ni dejes el dispositivo en desuso durante un período largo de tiempo con la batería completamente descargada.
