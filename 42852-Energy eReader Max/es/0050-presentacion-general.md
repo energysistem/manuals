@@ -1,6 +1,6 @@
 ## Presentación general
 
-![](http://static.energysistem.com/images/manuals/42535/56a73aafdcabb.jpg)
+![](http://static.energysistem.com/images/manuals/42535/59639b011093e.jpg)
 
 1. Ranura para tarjeta microSD
 2. Conector microUSB
