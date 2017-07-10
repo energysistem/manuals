@@ -16,7 +16,7 @@
 
 - Atrás: ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). Permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
 
-- En ocasiones, encontrarás el icono de opciones adicionales formado por 3 puntos. Pulsa este icono para acceder a opciones avanzadas.
+- En ocasiones, encontrarás el icono de opciones adicionales: ![](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg). Pulsa este icono para acceder a opciones avanzadas.
 
 - Wi-Fi ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Te indica la recepción de tu señal Wi-Fi.
 
