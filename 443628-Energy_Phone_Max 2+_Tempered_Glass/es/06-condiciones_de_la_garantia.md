@@ -12,4 +12,3 @@ La garantía especial de 36 meses es válida para la Unión Europea. Para otros 
 
 
 </quick_guide>
-
