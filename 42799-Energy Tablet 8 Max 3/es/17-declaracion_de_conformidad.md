@@ -4,7 +4,7 @@
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Dirección: C/ Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: 902 388 388  / + 34 966 813 257
+Tel: + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
@@ -19,8 +19,10 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 EN 300 328 V2.1.1 (2016-11)
 ETSI EN 301 489-1 V2.2.0 (2017-03)
 ETSI EN 301 489-17 V3.2.0 (2017-03)
-EN 55032:2015 EN 55024:2010+A1:2015
-EN 61000-3-2:2014 EN 61000-3-3:2013
+EN 55032:2015 
+EN 55024:2010+A1:2015
+EN 61000-3-2:2014 
+EN 61000-3-3:2013
 EN 62479:2010
 EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 
 
