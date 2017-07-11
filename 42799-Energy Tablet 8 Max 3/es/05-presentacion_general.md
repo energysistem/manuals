@@ -2,20 +2,22 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42800/58b00f724b41e.jpg)
 
-1. Altavoces
+1. Salida de auriculares
 
-2. Botón de encendido
+2. Conector microUSB
 
-3. Botones de volumen
+3. Cámara delantera
 
-4. Cámara delantera
+4. Botón de encendido / apagado
 
-5. Cámara trasera
+5. Botón de volumen +
 
-6. Micrófono
+6. Botón de volumen -
 
-7. Ranura para microSD
+7. Altavoces
 
-8. Conector microUSB
+8. Micrófono
 
-9. Salida para auriculares
+9. Ranura para tarjeta microSD
+
+10. Cámara trasera
