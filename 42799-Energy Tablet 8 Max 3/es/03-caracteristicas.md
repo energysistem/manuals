@@ -20,14 +20,13 @@ MEMORIA
 * 16 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 256 GB)
 
 CONECTIVIDAD
-* Wi-Fi 802.11 b/g/n/ac
-* Bluetooth 4.1
+* Wi-Fi 802.11 b/g/n
+* Bluetooth 4.0
 * GPS integrado
 
 CONEXIONES
 * Conexión microUSB con función OTG
 * Audio Jack 3,5 mm con estándar CTIA
-* Conexión microHDMI
 
 BATERÍA
 * Capacidad de batería: 3500 mAh
