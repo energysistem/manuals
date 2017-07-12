@@ -3,7 +3,7 @@
 
 1. Limpia completamente la pantalla del teléfono      con la toallita húmeda.(1)
 2. Seca la pantalla con la toallita seca.(2)
-3. Retira cualquier mota de polvo haciendo uso de     la pegatina incluida en el pack.
+3. Retira cualquier mota de polvo haciendo uso de     la pegatina incluida en el pack.(3)
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42909/593a4e929f02a.jpg)
 
