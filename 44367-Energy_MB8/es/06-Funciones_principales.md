@@ -2,17 +2,15 @@
 
 ### Encendido y apagado del dispositivo.
 
-Para encender el dispositivo mantén pulsado el botón ENCENDIDO/APAGADO (5) durante 2 segundos y verás que el LED INDICADOR DE FUNCIÓN (8) se ilumina en azul. Al encenderse el dispositivo, escucharás un sonido de confirmación.
+Para encender el dispositivo mantén pulsado el botón *Encendido/Apagado* () durante 2 segundos y verás que los botones se iluminarán. Al encenderse el dispositivo, escucharás un sonido de confirmación. Mientras el dispositivo esté encendido, el botón *Encendido/Apagado* () continuará iluminado.
 
-Mientras el dispositivo esté encendido, el LED INDICADOR DE FUNCIÓN (8) continuará parpadeando en azul.
-
-Para apagar el dispositivo mantén pulsado 2 segundos el botón ENCENDIDO/APAGADO (5). Escucharás un sonido de aviso y el LED INDICADOR DE FUNCIÓN (8) dejará de parpadear.
+Para apagar el dispositivo mantén pulsado 2 segundos el botón *Encendido/Apagado*(). Escucharás un sonido de aviso acústico y los botones se apagarán.
 
 ### Carga de la batería.
-Cuando la carga de la batería se encuentre por debajo del 10%, una alerta acústica te avisará. Para recargarlo, conecta el extremo mini USB del cable USB (incluido) a la CONEXIÓN USB PARA CARGAR LA BATERÍA (10) de tu *Energy Music Box 7*, y el otro extremo USB a cualquier otro dispositivo con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El LED DE CARGA (9) se iluminará en rojo y cuando la carga se complete, se apagará.
+Cuando la carga de la batería se encuentre por debajo del 10%, una alerta acústica te avisará. Para recargarlo, conecta el del cable de carga (incluido) a la *Conexión de carga de la batería* () de tu *Energy Music Box 8*, y el otro extremo a la red eléctrica. El LED DE CARGA () se iluminará en rojo y cuando la carga se complete, se apagará.
 
 *Recomendaciones*:
 
-- Usa un adaptador de corriente de 5V 2A.
-- No dejes tu *Energy Music Box 7* durante un periodo largo de tiempo con la batería completamente descargada. 
+- Usa el adaptador DC de corriente de 9V 2A que viene incluido en el paquete.
+- No dejes tu *Energy Music Box 8* durante un periodo largo de tiempo con la batería completamente descargada. 
 
