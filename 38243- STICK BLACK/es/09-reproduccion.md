@@ -32,7 +32,7 @@ Desplázate entre las opciones con los botones PREVIOUS/NEXT y selecciona pulsan
 
 2. "Ecualizador": Aquí podrás escoger la ecualización que más se ajuste a tus preferencias. Escoge entre las 7 distintas posibilidades predefinidas: Normal, Rock, Pop, Classic, Soft, Jazz y DBB-Bass.
 
-3. "Repetición": Este modo es la repetición A-B, que te permite repetir un tramo específico de audio indefinidamente. Una vez lo hayas seleccionado, marca el punto de inicio (A) pulsando el botón NEXT. Seguidamente en el momento que quieras marcar el final (B), vuelve a pulsar el botón NEXT. La repetición continuará hasta que pulses nuevamente el botón MENU.
+3. "Repetición": Este modo es la repetición A-B, que te permite repetir un tramo específico de audio hasta 5 veces. Una vez lo hayas seleccionado, marca el punto de inicio (A) pulsando el botón NEXT. Seguidamente en el momento que quieras marcar el final (B), vuelve a pulsar el botón NEXT. La repetición continuará hasta que pulses nuevamente el botón MENU.
 
 4. "Salir": Vuelve a la pantalla de reproducción de música. También puedes regresar en cualquier momento pulsando el botón MENU.
 
