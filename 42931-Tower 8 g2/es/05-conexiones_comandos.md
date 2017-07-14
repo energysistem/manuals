@@ -6,7 +6,7 @@
 
 | | |
 |:-------|:-------|
-| 10. Entrada analógica RCA <br>11. Salida analógica RCA <br>12. Puerto USB de carga <br>13. Puerto USB de reproducción <br>14. Ranura microSD de reproducción <br>15. Entrada analógica jack 3.5mm <br>16. Entrada óptica digital <br>17. Conector antena de radio FM <br>18. Ajuste de graves <br>19. Ajuste de agudos| (Imagen trasera panel, conectores y potenciómetros) ![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)|
+| 10. Entrada analógica RCA <br>11. Salida analógica RCA <br>12. Conexión USB de carga <br>13. Conexión USB de reproducción <br>14. Ranura microSD de reproducción <br>15. Entrada analógica jack 3.5mm <br>16. Entrada óptica digital <br>17. Conector antena de radio FM <br>18. Ajuste de graves <br>19. Ajuste de agudos| (Imagen trasera panel, conectores y potenciómetros) ![Schema](http://static.energysistem.com/images/manuals/42677/56e82ab30f03f.jpg)|
 
 | | |
 |:-------|:-------|
