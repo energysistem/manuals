@@ -3,8 +3,8 @@
 |  |  |  |
 |:-------|:-------|:-------|
 | Volumen máximo | ANC OFF | ANC ON| <br>
-| Bluetooth ON | 14 horas | 10 horas | <br>
-| Line in | inf  | 20 horas |<br>
+| Bluetooth ON | 16 horas | 12 horas | <br>
+| Line in | inf  | 22 horas |<br>
 
 <br><br>
 
