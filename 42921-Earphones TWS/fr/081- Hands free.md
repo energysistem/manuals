@@ -1,14 +1,14 @@
+## Mains libres
 
-## Manos libres
+Vous pourrez répondre à vos appels entrants lorsque vous utilisez vos « Energy Earphones 6 True Wireless ». Pour cela faire, utilisez les commandes suivants :
 
-Podrás atender llamadas entrantes mientras usas tus "Energy Earphones 6 True Wireless". Para eso usa estos controles:
+### Répondre aux appels entrants/ raccrocher
 
-### Contestar llamada entrante / finalizar llamada
+Appuyez brièvement sur le bouton multifonction (3).
 
-Pulsación corta del botón multifunción (3).
+### Rejeter un appel entrant
 
-### Rechazar llamada entrante
+Maintenez enfoncé le bouton multifonction (3).
 
-Mantén pulsado el botón multifunción (3).
+#### IMPORTANT : Lors de l'appel téléphonique le son sera disponible uniquement sur l'écouteur gauche (écouteur principal).
 
-### IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo (auricular maestro).
