@@ -4,6 +4,6 @@
 * Mando a distancia.
 * 2 pilas AAA.
 * Cable de alimentación.
-* Cable de audio 3.5 mm.
+* Cable de audio jack 3.5 mm.
 * Antena de radio.
 * Guía rápida de uso.
