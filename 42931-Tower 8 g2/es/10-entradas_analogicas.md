@@ -17,6 +17,7 @@ Podrás habilitar y deshabilitar esta entrada mediante el botón *Cambio de func
 
 Se recomienda su uso para conectar equipos de sonido externos de manera permanente como mini-cadenas, televisores o mesas de mezclas. 
 
+
 **Nota:** En ambos casos, el control de la música (cambio de canción, volumen de entrada y ecualización) dependerá del dispositivo reproductor externo al que conectes tu *Energy Tower 8 g2*.
 
 
