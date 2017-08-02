@@ -8,12 +8,12 @@ Recuerda que si deseas cambiar de modo de reproducción puedes hacerlo pulsando 
 
 Si apagas el *Energy Tower 8* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de AVANCE (3) y RETROCESO (9). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de AVANCE (3) y RETROCESO(9), respectivamente.
+Para navegar entre canciones, utiliza los botones de AVANCE (3) y RETROCESO (9) del panel o del mando a distancia (13)(19). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de AVANCE (3) y RETROCESO(9) del panel o del mando a distancia (13)(19), respectivamente.
 También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (17) del mando a distancia.
 
 ## Modo de reproducción
 
-Pulsando el botón Cambio de función (2) puedes seleccionar una de estas 4 opciones:
+Pulsando el botón Cambio de modo de reproducción (15) puedes seleccionar una de estas 4 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
