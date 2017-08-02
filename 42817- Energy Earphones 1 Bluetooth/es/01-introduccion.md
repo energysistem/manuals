@@ -6,5 +6,5 @@
 
 *	Antes de comenzar a disfrutar de tus *Energy Earphones 1 Bluetooth* te aconsejamos que leas esta guía para familiarizarte con ellos. 
 
-</unique> </quick_guide>
+
 
