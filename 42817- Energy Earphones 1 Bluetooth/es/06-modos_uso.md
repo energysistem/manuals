@@ -1,5 +1,5 @@
 ## Funciones Principales
-<quick_guide>
+
 ### Encendido
 
 Para encender el dispositivo mantén pulsado el *botón multifunción* (2) durante 2 segundos. El *LED indicador* (5) se iluminará en azul y escucharás un sonido de confirmación que indica que el dispositivo está encendido.
@@ -8,7 +8,6 @@ Para encender el dispositivo mantén pulsado el *botón multifunción* (2) duran
 ### Apagado
 Para apagar el dispositivo vuelve a mantener pulsado el *botón multifunción* (2) durante 3 segundos. El *LED indicador* (5) se iluminará en rojo durante 2 segundos y escucharás un sonido de confirmación que indica que el dispositivo se a apagado.
 
-</quick_guide>
 
 ### Carga
 
