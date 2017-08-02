@@ -1,6 +1,6 @@
 ## Conexión Bluetooth
 
-Para sincronizar un dispositivo Bluetooth con tu *Energy Tower 8 g2* selecciona este modo presionando el botón *Cambio de función* (2) del panel y visualizarás "Bluetooth" en la *Pantalla* (6). En ese momento puedes comenzar con la sincronización.
+Para sincronizar un dispositivo Bluetooth con tu *Energy Tower 8 g2* selecciona este modo presionando el botón *Cambio de función* (2) del panel o del mando a distancia (11) y visualizarás "Bluetooth" en la *Pantalla* (6). En ese momento puedes comenzar con la sincronización.
 
 Cuando visualices en tu dispositivo Bluetooth el nombre “Energy Tower 8”, pulsa “conectar”. La conexión se realizará de forma inmediata. Escucharás un sonido que confirma la sincronización entre ambos dispositivos.
 
