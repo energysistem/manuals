@@ -7,13 +7,13 @@ Tu Energy *Tower 8 g2* cuenta también con *Entrada analógica jack 3,5 mm* (24)
 
 En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX" en la *Pantalla* (6). Podrás cambiar de función aunque este cable se encuentre conectado.
 
-Utiliza el botón *Inicio / Pausa (6)* para iniciar, pausar o reanudar la reproducción.
+Utiliza el botón *Inicio / Pausa * del panel (6) o del mando a distancia (18) para iniciar, pausar o reanudar la reproducción.
 Se recomienda su uso para conectar pequeños dispositivos como reproductores mp3 o Smartphones. 
 
 #### Entrada RCA
 Esta conexión está ubicada en la parte superior trasera e identificada como "INPUT", la cual está pensada para que conectes de manera permanente tu televisión o equipo de música. 
 
-Podrás habilitar y deshabilitar esta entrada mediante el botón *Cambio de función* (2).
+Podrás habilitar y deshabilitar esta entrada mediante el botón *Cambio de función* del panel (2) o del mando a distancia (11).
 
 Se recomienda su uso para conectar equipos de sonido externos de manera permanente como mini-cadenas, televisores o mesas de mezclas. 
 
