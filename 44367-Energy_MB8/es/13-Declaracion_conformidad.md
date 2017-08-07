@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Altavoz portátil inalámbrico <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Music Box 7 <br/>
+Modelo: Energy Music Box 9 <br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
