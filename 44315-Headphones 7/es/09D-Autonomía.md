@@ -1,5 +1,7 @@
 ## Autonomía
 
+La autonomía depende del modo de uso. En la siguiente tabla puedes ver la relación entre modos de uso y tiempos de autonomía:
+
 |  |  |  |
 |:-------|:-------|:-------|
 | Volumen máximo | ANC OFF | ANC ON| <br>
