@@ -26,9 +26,13 @@
 
 #### Características de la batería 
 
-- Batería de litio de 400 mAh.
-- Autonomía hasta 50 horas de uso*.
-- Tiempo de carga: 1,5 h.
+- Batería de litio de 800 mAh.
+- Autonomía: <br/>
+    Bluetooth ON + ANC OFF: 18 horas. 
+	  Bluetooth ON + ANC ON: 14 horas. 
+	  Bluetooth OFF + ANC ON: 24 horas.
+	  ANC ON (SIN MUSICA): 100 horas. 
+- Tiempo de carga: 4 h.
 - Sistema de carga a través de cable USB - micro USB.
 
 
