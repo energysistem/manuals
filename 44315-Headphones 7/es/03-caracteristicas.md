@@ -28,10 +28,10 @@
 
 - Batería de litio de 800 mAh.
 - Autonomía: <br/>
-    Bluetooth ON + ANC OFF: 18 horas. 
-	  Bluetooth ON + ANC ON: 14 horas. 
-	  Bluetooth OFF + ANC ON: 24 horas.
-	  ANC ON (SIN MUSICA): 100 horas. 
+    Bluetooth ON + ANC OFF: 18 horas. <br/>
+	  Bluetooth ON + ANC ON: 14 horas. <br/>
+	  Bluetooth OFF + ANC ON: 24 horas. <br/>
+	  ANC ON (SIN MUSICA): 100 horas. <br/>
 - Tiempo de carga: 4 h.
 - Sistema de carga a través de cable USB - micro USB.
 
