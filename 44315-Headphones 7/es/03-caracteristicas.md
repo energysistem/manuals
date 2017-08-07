@@ -4,7 +4,7 @@
 - Bluetooth 4.0 para reproducir tu música de manera inalámbrica. 
 - Diadema extensible y diseño estilizado, con almohadillas que cubren y se adaptan perfectamente a la forma de tus orejas.
 - Controla la reproducción: sube o baja el volumen, avanza o retrocede la pista y responde tus llamadas con su micrófono integrado.
-- Versatilidad de transporte: sistema de plegado, almohadillas con rotación de 90 grados y estuche para guardarlos en cualquier lugar.
+- Versatilidad de transporte: sistema de plegado y estuche para guardarlos en cualquier lugar.
 - Batería de polímero de litio.
 - Cable de audio extraíble para conectar tus auriculares a cualquier dispositivo.
 
