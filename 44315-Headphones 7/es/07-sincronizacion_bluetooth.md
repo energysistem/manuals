@@ -6,7 +6,7 @@ Con tus *Energy Headphones 7 Bluetooth ANC* apagados mantén presionado el botó
 Con el fin de optimizar la batería, tus *Energy Headphones 7 Bluetooth ANC* se apagarán automaticamente en los siguientes casos:
 
 - A los 5 minutos de estar en modo búsqueda y no haber sido sincronizados con ningún otro dispositivo.
-- A los 7 minutos de estar sincronizados y con la reproducción pausada.
+- A los 30 minutos de estar sincronizados y con la reproducción pausada.
 
 
 </unique> </quick_guide>
