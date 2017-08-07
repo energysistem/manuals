@@ -8,23 +8,17 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Altavoz portátil inalámbrico <br/>
 Marca: Energy Sistem <br/>
-Modelo: Energy Music Box CM1 <br/>
+Modelo: Energy Music Box CM1 Blue<br/>
 Fabricante: Energy Sistem Technology, S.A. <br/>
 País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011 +A2:2013
-EN 62479:2010
-EN 62311:2008 
-EN 301 489-01 V2.1.1: 2017-02 
-EN 301 489-17 V3.1.1: 2017-02 
-EN 300 328 V2.1.1: 2016-11 
-
+EN 60065:2014 <br>EN 62479:2010 <br>ETSI EN 301 489-01 V2.1.1: 2017-02  <br>ETSI EN 301 489-17 V3.1.1: 2017-02  <br>EN 300 328 V2.1.1: 2016-11 
 
 de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
-Finestrat, 01 de Agosto de 2017.
+Finestrat, 01 de Septiembre de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
