@@ -1,6 +1,6 @@
 ## Autonomía
 
-La autonomía depende del modo de uso. En la siguiente tabla puedes ver la relación entre los modos de uso y los tiempos de autonomía:
+La autonomía de los auriculares depende del modo de uso y del volumen seleccionado. En la siguiente tabla puedes ver la relación entre los modos de uso, el volumen seleccionado y los tiempos de autonomía:
 
 |  |  |  |
 |:-------|:-------|:-------|
