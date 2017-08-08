@@ -1,4 +1,4 @@
-## <quick_guide> Declaración de conformidad
+## Declaración de conformidad
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488 
 Dirección: C/ Calpe, 1 - 03509 Finestrat - Alicante (España) 
@@ -14,30 +14,25 @@ País de fabricación: China
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 300 328 V2.1.1
+EN60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
-EN 301 489-17 V3.1.1
+EN50332-1:2013
 
-EN 301 489-1 V2.2.1 
+EN50332-2:2013
 
-EN 62479:2010 
+EN301 489-1 V2.2.0
 
-EN 60065:2014 
 
-EN 50332-1:2013
+de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
-EN 50332-2:2013
+Finestrat, 01 de Julio de 2017.
 
-de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
-Finestrat, 01 de Febrero de 2017.
-
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
-
-Daniel Havillio 
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-</quick_guide>
+
 
