@@ -1,9 +1,11 @@
 ## Contenido del producto
 
-* Energy Tower 8 g2.
+* Energy Party 7.
 * Mando a distancia.
 * 2 pilas AAA.
 * Cable de alimentación.
-* Cable de audio 3.5 mm.
+* Cable de audio miniJack.
 * Antena de radio.
+* Micrófono.
+* Cable de micrófono.
 * Guía rápida de uso.
