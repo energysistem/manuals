@@ -6,4 +6,4 @@ A fim de reduzir a quantidade de radiação recebida, utilize um kit mãos livre
 Coloque o dispositivo perto de uma tomada acessível quando quiser carregar a bateria.
 
 ### Informação sobre exposição (SAR)
-Este dispositivo cumpre com as normas elaboradas pela ICNIRP sobre a exposição a ondas de rádio. O dispositivo não excede os limites de exposição a ondas de rádio SAR. Esta unidade mede a quantidade de energia de frequência de rádio absorvida pelo corpo durante a utilização de um dispositivo. O limite SAR adoptado pela Europa é de 2,0 W/Kg em média sobre 10 gramas de tecido. O valor máximo SAR obtido neste dispositivo ao nível de ouvido/cabeça é de 0,086 W/Kg.
+Este dispositivo cumpre com as normas elaboradas pela ICNIRP sobre a exposição a ondas de rádio. O dispositivo não excede os limites de exposição a ondas de rádio SAR. Esta unidade mede a quantidade de energia de frequência de rádio absorvida pelo corpo durante a utilização de um dispositivo. O limite SAR adoptado pela Europa é de 2,0 W/Kg em média sobre 10 gramas de tecido. O valor máximo SAR obtido neste dispositivo ao nível de ouvido/cabeça é de 0,877 W/Kg.

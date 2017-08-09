@@ -7,5 +7,5 @@ Pour diminuer la quantité de rayonnements reçus, veuillez utiliser un kit main
 La prise doit être installée près de l'équipe et doit être aisément accessible.
 
 ### Information sur l'exposition SAR
-Cet appareil répond aux directives développées par l'ICNIRP sur l'exposition aux ondes radio. L'appareil ne dépasse pas les limites d'exposition aux ondes radio SAR. Cette unité mesure la quantité d'énergie par radiofréquence absorbée par le corps pendant l'utilisation d'un appareil. La limite SAR ou DAS adoptée en Europe est de 2,0 W/Kg en moyenne pour 10 grammes de tissu. Dans les tests réalisés la valeur SAR plus haute obtenue pour cet appareil au niveau de l'oreille/ tête est de 0,086 W/Kg.
+Cet appareil répond aux directives développées par l'ICNIRP sur l'exposition aux ondes radio. L'appareil ne dépasse pas les limites d'exposition aux ondes radio SAR. Cette unité mesure la quantité d'énergie par radiofréquence absorbée par le corps pendant l'utilisation d'un appareil. La limite SAR ou DAS adoptée en Europe est de 2,0 W/Kg en moyenne pour 10 grammes de tissu. Dans les tests réalisés la valeur SAR plus haute obtenue pour cet appareil au niveau de l'oreille/ tête est de 0,877 W/Kg.
 </quick_guide>
