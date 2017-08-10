@@ -3,8 +3,8 @@
 Tu *Energy Party 7* cuenta con dos opciones de ecualización para que puedas ajustar el sonido como más te gusta:
 
 ### EQ predefinidos.
-Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón EQ digital predefinidos () para cambiar entre las disponibles.
-- FLAT
+Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón EQ digital predefinidos () para cambiar entre las disponibles:
+- FLAT (respuesta plana)
 - CLASSIC
 - VOCAL
 - POP
