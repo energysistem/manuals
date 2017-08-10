@@ -1,4 +1,4 @@
-﻿## Restauración de fábrica
+## Restauración de fábrica
 Puedes realizar una restauración de fábrica de tus *Energy Earphones 6 True Wireless*, para ello tan solo tienes que  realizar estos 4 sencillos pasos:
 
 1) Apaga los auriculares manteniendo pulsado el botón multifunción durante unos 6 segundos.
