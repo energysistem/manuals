@@ -11,7 +11,7 @@
 - Diámetro: 13 mm
 
 #### MICRÓFONO
-- Sensibilidad: -42 dB±3 dB (@1 Khz)
+- Sensibilidad: -42 dB±3 dB (1 Khz)
 - Sistema con reducción de ruido.
 
 #### BATERÍA
