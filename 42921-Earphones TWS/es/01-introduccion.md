@@ -1,4 +1,4 @@
-## <quick_guide> Introducción
+## Introducción
 
 * Gracias por confiar en nosotros y adquirir tus nuevos *Energy Earphones 6 True Wireless*. Esperamos que los disfrutes.
 
@@ -6,5 +6,5 @@
 
 * Antes de comenzar a disfrutar de tus *Energy Earphones 6 True Wireless* te aconsejamos que leas este manual para familiarizarte con ellos. 
 
-</unique> </quick_guide>
+
 
