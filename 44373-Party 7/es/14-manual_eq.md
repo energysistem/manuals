@@ -1,8 +1,11 @@
-## EQ manual.
+## Ecualización (EQ).
 
-El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
+Tu *Energy Party 7* cuenta con dos opciones de ecualización para que puedas ajustar el sonido como más te gusta:
 
-* Ajuste de Medios/Agudos (Indicado como Treble).
-* Ajuste de Graves (Indicado como Bass).
+### EQ predefinidos.
+Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón EQ digital predefinidos () para cambiar entre las disponibles.
 
-Te recomendamos modificar esta regulación en caso de conectar varias *Energy Tower 8 g2* utilizando el RCA de salida. Para estos casos te recomendamos bajar el "Treble" a la mitad de lo que estén los "Bass"
+### EQ manual.
+También puedes personalizar el sonido usando el ecualizador analógico de 5 bandas. Para ello, pulsa el botón de Habilitar EQ analógico () para habilitar esta opción y después usa los 5 reguladores para  ajustar cada una de las bandas de frecuencia disponibles.
+
+
