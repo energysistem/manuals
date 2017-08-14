@@ -1,3 +1,4 @@
+<quick_guide>
 ## Declaração de conformidade
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42909/59391fdcd6d6d.jpg)
@@ -42,3 +43,4 @@ Finestrat, 01 de março de 2017
 
 Marco Antonio Velázquez Fierro
 Product Management Director
+</quick_guide>

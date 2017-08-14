@@ -1,3 +1,4 @@
+<quick_guide>
 ## Ligar e desligar
 
 Verifique que os cartões nanoSIM/ microSD estão nos seus slots como indicado na secção "Inserir o cartão nanoSIM 1/ nanoSIM 2/ microSD" antes de ligar o seu Energy Phone Pro 3. A seguir, prima o botão ligar/desligar (13) no lado direito do dispositivo durante um segundo.  Quando o sistema operativo estiver carregado, deve desbloquear o dispositivo para começar a utilizá-lo. Para começar a utilização, deve inserir os números PIN dos seus cartões nanoSIM e a seguir, deslizar o dedo para cima no ecrã principal.
@@ -11,3 +12,4 @@ Utilize apenas a ferramenta para ejectar cartões (19) que vai encontrar na part
 
 Opção A: Cartão nanoSIM 1 + cartão microSD.
 Opção B: Cartão nanoSIM 1 + cartão nanoSIM 2.
+</quick_guide>

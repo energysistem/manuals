@@ -1,3 +1,4 @@
+<quick_guide>
 ## General overview
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
@@ -23,5 +24,6 @@
 18. Fingerprint sensor
 19. Card eject tool
 
+</quick_guide>
 
 

@@ -1,3 +1,4 @@
+<quick_guide>
 ## Présentation générale
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
@@ -22,3 +23,5 @@
 17. Boutons tactiles : Applications récentes, Accueil, Retour
 18. Capteur d'empreintes
 19. Outil d'éjection du plateau des cartes
+
+</quick_guide>
