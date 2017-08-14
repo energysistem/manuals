@@ -1,6 +1,6 @@
 ## Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42436/5902ee40c5131.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
 
 1. Suporte para cartões nanoSIM 1/ nanoSIM 2/ microSD
 2. Saída para auscultadores

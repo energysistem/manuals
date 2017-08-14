@@ -1,7 +1,7 @@
 <quick_guide>
 ## Déclaration de conformité
 
-![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f31fe85a6.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42909/59391fdcd6d6d.jpg)
 
 Nom du déclarant : Energy Sistem Technology, S.A. - Numéro d'identification fiscale : A53107488
 Adresse : C/ Calpe, 1 - 03509 Finestrat, Alicante (Espagne)
@@ -37,11 +37,11 @@ EN 301 511 V9.0.2 (2003-03)
 
 conformément aux dispositions de la Directive 99/05/CE du Parlement européen et du Conseil du 9 mars 1999.
 
-Finestrat, 01 mars 2017 
+Finestrat, 01 mars 2017
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
-Marco Antonio Velázquez Fierro 
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 

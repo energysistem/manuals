@@ -1,6 +1,7 @@
 ## Présentation générale
 
-![Imagen2](http://static.energysistem.com/images/manuals/42436/5902ee40c5131.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
+
 
 1. Plateau pour cartes nanoSIM 1/ nanoSIM 2/ microSD
 2. Sortie pour les écouteurs

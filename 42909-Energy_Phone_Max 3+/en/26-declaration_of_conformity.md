@@ -1,7 +1,8 @@
 <quick_guide>
 ## Declaration of conformity
 
-![Imagen1](http://static.energysistem.com/images/manuals/42500/5710f31fe85a6.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42909/59391fdcd6d6d.jpg)
+
 
 Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
 Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
@@ -36,11 +37,11 @@ EN 301 511 V9.0.2 (2003-03)
 
 in conformity with the essential norms and standards of the Directive 99/05/CE of the European Parliament and of the Council of March 09th 1999.
 
-Finestrat, 01st March 2017 
+Finestrat, 01st March 2017
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
-Marco Antonio Velázquez Fierro 
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 
