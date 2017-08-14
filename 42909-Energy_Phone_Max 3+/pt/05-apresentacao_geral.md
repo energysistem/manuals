@@ -1,3 +1,4 @@
+<quick_guide>
 ## Apresentação geral
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42909/59391ea9bd5c5.jpg)
@@ -21,3 +22,5 @@
 17. Botões tácteis: aplicações recentes, início, voltar
 18. Sensor de impressões digitais
 19. Ferramenta para ejectar cartões no suporte
+
+</quick_guide>
