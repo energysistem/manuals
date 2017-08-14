@@ -3,6 +3,9 @@
 ### Précautions d'usage
 Dans certains lieux ou situations, tels que les avions, les hôpitaux et les stations-service parmi d'autres, l'usage du téléphone est interdit.
 Pour diminuer la quantité de rayonnements reçus, veuillez utiliser un kit mains libres, le mode haut parleur ou une oreillette Bluetooth, ne pas téléphoner dans des lieux où le signal est faible, ne pas téléphoner dans la voiture, dans le train ou dans le métro. Éloignez le téléphone de certaines zones sensibles telles que le ventre des femmes enceintes, plus particulièrement lors d'un appel. Si vous avez un implant électronique (stimulateurs cardiaques, pompes à insuline, neurostimulateurs, etc.) veuillez placer le téléphone à 15 cm du corps au minimum sur le côté opposé à l'implant lorsque vous téléphonez.
+Ne pas exposer votre Energy Phone Max 3+ à des conditions de température et humidité au-delà de celles recommandées.
+* Température de fonctionnement : -20 à 45 degrés.
+* Humidité de fonctionnement : 65+/ -20 % RH
 
 La prise doit être installée près de l'équipe et doit être aisément accessible.
 
