@@ -7,9 +7,9 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/5965eef1eecfd.jpg)
 
-4. Retira el plastico protector del cristal y         alinea correctamente con el altavoz frontal y      los bordes del smartphone.
+4. Sitúa una “Guide sticker” en la parte superior del cristal y otra en la parte inferior. Posteriormente, retira el plástico protector del cristal. Coge el cristal desde las “Guide stickers” y sitúalo de manera centrada en la pantalla del dispositivo. (4)
 
-![Imagen1](http://static.energysistem.com/images/manuals/42689/5965eef9f2035.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44362/599573bf63a54.jpg)
 
 5. Presiona desde el centro del cristal hasta que     quede completamente fijado.
 
