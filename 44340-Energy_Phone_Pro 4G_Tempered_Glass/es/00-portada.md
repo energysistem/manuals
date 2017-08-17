@@ -1,3 +1,1 @@
-# Energy Phone Pro 4G Tempered Glass
-
-![Imagen1](http://static.energysistem.com/images/manuals/42595/5965efdd4b575.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44340/5995a8f35d9a5.jpg)
