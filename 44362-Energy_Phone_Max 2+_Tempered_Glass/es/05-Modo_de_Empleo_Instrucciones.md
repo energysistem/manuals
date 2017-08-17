@@ -1,4 +1,4 @@
-## Modo de Empleo/Instrucciones
+## Instrucciones
 
 1. Limpia completamente la pantalla del teléfono con la toallita húmeda.
 2. Seca la pantalla con la toallita seca.
