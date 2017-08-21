@@ -1,8 +1,7 @@
-## <quick_guide> Apresentação geral
-<br><br><br>
+## Apresentação geral
 
-![Schema](http://static.energysistem.com/images/manuals/42360/598182e902d88.jpg) 
-![Schema](http://static.energysistem.com/images/manuals/42360/5981833d10901.jpg)
-![Schema](http://static.energysistem.com/images/manuals/42360/598183722ed38.jpg)
-![Schema](http://static.energysistem.com/images/manuals/42360/5981a6ce97aec.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42360/599add06be949.jpg) 
+![Schema](http://static.energysistem.com/images/manuals/42360/599adeabbd50b.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42360/599adeb089a6b.jpg) 
+![Schema](http://static.energysistem.com/images/manuals/42360/599aeb064fa7e.jpg)
 
