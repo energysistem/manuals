@@ -8,7 +8,7 @@ Recuerda que si deseas cambiar de modo de reproducción puedes hacerlo pulsando 
 
 Si apagas el *Energy Tower 8 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia (13)(19). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia (13)(19), respectivamente.
+Para navegar entre canciones, utiliza los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia *(13) y (19)*. Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia *(13) y (19)*, respectivamente.
 También puedes cambiar de carpeta pulsando el botón *Cambio de carpeta (17)* del mando a distancia.
 
 ## Modo de reproducción
