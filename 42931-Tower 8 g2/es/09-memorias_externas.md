@@ -4,16 +4,16 @@ Con tu *Energy Tower 8 g2* también puedes reproducir archivos en formato .mp3 y
 
 Inserta la memoria en la ranura correspondiente y tu *Energy Tower 8 g2* cambiará automáticamente a modo USB o microSD para reproducir el contenido de la memoria que acabas de insertar.
 
-Recuerda que si deseas cambiar de modo de reproducción puedes hacerlo pulsando el botón *Cambio de función* (2). 
+Recuerda que si deseas cambiar de modo de reproducción puedes hacerlo pulsando el botón *Cambio de función (2) o (11)*. 
 
-Si apagas el *Energy Tower 8* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si apagas el *Energy Tower 8 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de AVANCE (3) y RETROCESO (9) del panel o del mando a distancia (13)(19). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de AVANCE (3) y RETROCESO(9) del panel o del mando a distancia (13)(19), respectivamente.
-También puedes cambiar de carpeta pulsando el botón CAMBIO DE CARPETA (17) del mando a distancia.
+Para navegar entre canciones, utiliza los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia (13)(19). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de *Avance (3)* y *Retroceso (9)* del panel o del mando a distancia (13)(19), respectivamente.
+También puedes cambiar de carpeta pulsando el botón *Cambio de carpeta (17)* del mando a distancia.
 
 ## Modo de reproducción
 
-Pulsando el botón Cambio de modo de reproducción (15) puedes seleccionar una de estas 4 opciones:
+Pulsando el botón *Cambio de modo de repetición (15)* puedes seleccionar una de estas 4 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
