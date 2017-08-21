@@ -1,8 +1,8 @@
 ## Conexiones y comandos
 
 
-![Schema](http://static.energysistem.com/images/manuals/42360/598182e902d88.jpg) 
-![Schema](http://static.energysistem.com/images/manuals/42360/5981833d10901.jpg)
-![Schema](http://static.energysistem.com/images/manuals/42360/598183722ed38.jpg) 
-![Schema](http://static.energysistem.com/images/manuals/42360/59818e1f1b328.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42360/599add06be949.jpg) 
+![Schema](http://static.energysistem.com/images/manuals/42360/599add0d445a4.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42360/599add12d2448.jpg) 
+![Schema](http://static.energysistem.com/images/manuals/42360/599add1a45b47.jpg)
 
