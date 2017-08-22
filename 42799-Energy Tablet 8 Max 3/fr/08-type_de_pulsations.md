@@ -23,4 +23,3 @@
 * Zoom : Touchez l'écran en utilisant 2 doigts et séparez-les ou rapprochez-les pour faire zoom avant ou arrière respectivement
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
-
