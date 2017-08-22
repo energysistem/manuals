@@ -6,11 +6,11 @@ Tel: + 34 902 388 388  / + 34 966 813 257
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Auriculares deportivos inalámbricos
-Marca: Energy Sistem 
-Modelo: Energy Earphones 6 True Wireless 
+Descripción: Sistema de altavoces en columna.
+Marca: Energy Sistem. 
+Modelo: Energy Tower 8 g2.
 Fabricante: Energy Sistem Technology, S.A. 
-País de fabricación: China 
+País de fabricación: China.
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
