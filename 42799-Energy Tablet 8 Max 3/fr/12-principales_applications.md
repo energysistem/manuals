@@ -38,14 +38,14 @@ Diffusez votre musique préférée avec l'application Energy Music. Lorsque vous
 1. Liste de lecture
 2. Répétition
 3. Morceau précédent
-4. Lecture/Pause
+4. Lecture/ Pause
 5. Chanson suivante
 6. Lecture aléatoire
 7. Barre de progression
 
 ### Appareil photo
 
-L'appareil photo intégré de votre tablette vous permettra de faire des photos et des vidéos de la façon la plus simple. Pour passer du mode photo au mode vidéo, glissez votre doigt depuis le bord gauche vers la droite pour afficher le menu déroulant. Depuis cette écran vous pouvez accéder aux options de réglage en appuyant sur l'engrenage au coin supérieur droit.
+L'appareil photo intégré de votre tablette vous permettra de faire des photos et des vidéos de la façon la plus simple. Pour passer du mode photo au mode vidéo, glissez votre doigt depuis le bord gauche vers la droite pour afficher le menu latéral. Depuis cette écran vous pouvez accéder aux options de réglage en appuyant sur l'engrenage au coin supérieur droit.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8d408863.jpg)
 
