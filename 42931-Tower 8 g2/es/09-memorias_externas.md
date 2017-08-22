@@ -27,9 +27,9 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
 2) **ONE:** Se repite la canción que estás escuchando.
 
-3) **FOLD:** Se repite el contenido de la carpeta que estás escuchando.
+3) **FOLDER:** Se repite el contenido de la carpeta que estás escuchando.
 
-4) **RAND:** Reproducción aleatoria de todo el contenido de la memoria.
+4) **RANDOM:** Reproducción aleatoria de todo el contenido de la memoria.
 
 
 
