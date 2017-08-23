@@ -25,7 +25,7 @@
 
 #### Battery specifications 
 
-- 195 mAh lithium battery.
+- 200 mAh lithium battery.
 - Battery life in playback mode: 10 hours
 - Battery life in hands-free mode: 10 hours
 - Charging time: 2 hours
