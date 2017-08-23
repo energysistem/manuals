@@ -6,4 +6,3 @@ When your *Energy Headphones 3 Bluetooth* are off, press and hold the MULTIFUNCT
 Your *Energy Headphones 3 Bluetooth* will automatically turn off in the following situations:
 
 - After 5 minutes in search mode, if they are not synchronized with another device.
-- After 10 minutes, if they are synchronized and music is paused.
