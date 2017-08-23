@@ -3,5 +3,5 @@
 * Energy Headphones 7 Bluetooth ANC.
 * Cable microUSB de carga.
 * Cable de audio.
-* Estuche de transporte
+* Estuche de transporte.
 
