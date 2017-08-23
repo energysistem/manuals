@@ -1,6 +1,6 @@
-## <quick_guide> Présentation générale
+## Botones y conectores.
 
 |  |  |
 |:-------|:-------|
-|1.	VOLUME + / AVANCER <br> 2.	BOUTON MULTIFONCTION <br> 3.	VOLUME - / RECULER <br> 4. CONNECTEUR DE CHARGE <br> 5.	INDICATEUR BATTERIE <br> 6.	MICROPHONE <br> 7. ENTRÉE AUDIO	 <br>|![Imagen1](http://static.energysistem.com/images/manuals/42483/58737bb9c1e86.jpg)|
-</quick_guide>
+|1.	VOLUMEN + / AVANZAR <br> 2.	VOLUMEN - / RETROCESO <br> 3.	 BOTÓN MULTIFUNCIÓN <br> 4. INDICADOR ANC <br> 5. BOTÓN ANC <br> 6.	CONECTOR DE CARGA <br> 7. INDICADOR DE ESTADO  <br> 8. ENTRADA DE AUDIO	 <br> 9.	MICRÓFONO|![Imagen1](http://static.energysistem.com/images/manuals/39317/599da2e864270.jpg)|
+
