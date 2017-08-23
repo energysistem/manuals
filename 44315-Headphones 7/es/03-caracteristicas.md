@@ -32,4 +32,4 @@
 - Sistema de carga a través de cable USB - micro USB.
 
 
-**Nota:* Para más información visite el apartado de *Autonomía*.
+**Nota:** Para más información visite el apartado de *Autonomía*.
