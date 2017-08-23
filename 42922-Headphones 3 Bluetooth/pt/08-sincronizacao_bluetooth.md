@@ -6,8 +6,4 @@ Prima o botão MULTIFUNÇÃO (2) durante 4 segundos após ter desligado os seus 
 Os seus *Energy Headphones 3 Bluetooth* desligam automaticamente nas seguintes situações para poupar energia:
 
 - Decorridos 5 minutos no modo pesquisa se não tiverem sido emparelhados com outros dispositivos.
-- Decorridos 10 minutos após o emparelhamento e com a música em pausa.
-
-
-</unique> </quick_guide>
 
