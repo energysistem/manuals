@@ -25,7 +25,7 @@
 
 #### Características de la batería 
 
-- Batería de litio de 195 mAh.
+- Batería de litio de 200 mAh.
 - Autonomía en modo reproducción: 10 h.
 - Autonomía en modo manos libres: 10 h.
 - Tiempo de carga: 2 h.
