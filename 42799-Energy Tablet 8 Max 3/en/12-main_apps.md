@@ -2,7 +2,7 @@
 
 ### Internet browser
 
-Your new tablet has the Google web browser among the list of installed default applications. You will be able to surf the Internet smoothly and easily with it. Once the device is connected to the Internet, press the Chrome icon on the desktop or in the application menu to start the browser.
+Your new tablet has the Google web browser among the list of installed default applications. You will be able to surf the Internet smoothly and easily with it.  Once the device is connected to the Internet, press the Chrome icon on the desktop or in the application menu to start the browser.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf874e3b05.jpg)
 
@@ -43,9 +43,9 @@ Play your favourite music using the Energy Music app. Run the app and it will sc
 6. Random playback
 7. Progress bar
 
-### Camera
+## # Camera
 
-You will be able to take photos and record videos easily with the built-in camera of your tablet. In order to switch to photo or video modes, you just have to slide your finger from the left edge to the right to see the dropdown menu. This screen will allow you to access the settings options by pressing the gear icon located on the upper-right corner.
+You will be able to take photos and record videos easily with the built-in camera of your tablet. In order to switch between photo mode and video mode, you just have to slide your finger from the left edge to the right to see the dropdown menu. This screen will allow you to access the settings by pressing the gear icon located on the upper-right corner.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8d408863.jpg)
 
@@ -65,4 +65,5 @@ Your tablet has the Google Photos app installed by default. You will be able to 
 4. Assistant
 5. Gallery
 6. Albums and folders
+
 
