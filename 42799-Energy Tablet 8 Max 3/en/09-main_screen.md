@@ -15,3 +15,4 @@
 11. Multitask: shows the recently used applications.
 12. Home: brings you back to the main screen.
 13. Back: allows you to go back to the previous screen shown by any application that is running.
+
