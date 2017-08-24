@@ -1,4 +1,4 @@
-<quick_guide>
+
 
 ## Introduction
 
@@ -10,5 +10,4 @@ We strongly recommend to read this manual in order to familiarize yourself with 
 
 ### <unique> * Find the complete manual of the *Energy Tablet 8" Max 3* in the following link: http://www.energysistem.com/en/guide/42799</unique>
 
-</quick_guide>
 
