@@ -6,3 +6,4 @@ Deslize o dedo para baixo para ver todos os widgets instalados. Para adicionar u
 ![Imagen2](http://static.energysistem.com/images/manuals/42800/58d8e2790def5.jpg)
 Prima o widget já posicionado no ambiente de trabalho uns segundos a arraste-o para uma nova localização. Para eliminá-lo só tem que arrastá-lo para a X na parte superior do ecrã e soltá-lo.
 
+ 
