@@ -8,9 +8,9 @@ Para avanzar de canción mantén pulsado el botón AVANCE (1). Igualmente, puede
 
 Para pausar o reanudar la reproducción pulsa una única vez el botón MULTIFUNCIÓN (2). 
 
-**Nota:** Si mantienes la reproducción pausada durante más de 30 minutos, tus *Energy Headphones 7 ANC* se apagarán automáticamente para ahorrar energía. 
+**Nota:** *Si mantienes la reproducción pausada durante más de 30 minutos, tus *Energy Headphones 7 ANC* se apagarán automáticamente para ahorrar energía.*
 
-**Nota 2:** Si usas el cable de audio en lugar de la conexión inalambrica Bluetooth, el control de reproducción tendrás que hacerlo a través de tu reproductor, no desde los auriculares.
+**Nota 2:** *Si usas el cable de audio en lugar de la conexión inalambrica Bluetooth, el control de reproducción tendrás que hacerlo a través de tu reproductor, no desde los auriculares.*
 
 
 
