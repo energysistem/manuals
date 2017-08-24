@@ -4,4 +4,4 @@ Si te quedas sin batería o simplemente no quieres utilizar la conexión inalám
 
 Para usar este modo simplemente tienes que conectar el cable incluido a la ENTRADA DE AUDIO (7).
 
-**Nota:** En este modo de uso el control de reproducción  (volumen y cambio de canción) tendrás que hacerlo desde el reproductor al que se encuentren conectados los auriculares.
+**Nota:** *En este modo de uso el control de reproducción  (volumen y cambio de canción) tendrás que hacerlo desde el reproductor al que se encuentren conectados los auriculares.*
