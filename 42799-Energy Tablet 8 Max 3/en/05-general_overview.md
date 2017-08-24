@@ -1,31 +1,23 @@
-<quick_guide> 
-
 ## General overview
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42800/58b00f724b41e.jpg)
 
-1. Speakers
+1. Headphones output
 
-2. Power button
+2. MicroUSB port
 
-3. Volume buttons
+3. Front camera
 
-4. Reset button
+4. Power button
 
-5. Front camera
+5. Volume + 
 
-6. Touchscreen
+6. Volume - 
 
-7. Rear camera
+7. Speakers
 
 8. Microphone
 
-9. MicroSD slot
+9. MicroSD card slot
 
-10. MicroUSB port
-
-11. Headphones output
-
-</quick_guide>
-
-
+10. Rear camera
