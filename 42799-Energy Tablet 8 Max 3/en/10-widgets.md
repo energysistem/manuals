@@ -7,3 +7,4 @@ Slide your finger up or down to see all your installed widgets. Select the one y
 To relocate a widget that is already placed on the desktop, select it by pressing it for a few seconds and release it on a free area. Drag it and release it on the X on the top part of the screen if you want to delete it.
 
  
+ 
