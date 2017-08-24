@@ -25,4 +25,6 @@ Your tablet has Wi-Fi connection. In order to connect your device to any wireles
 3. Select your Wi-Fi network.
 4. Connect.
 
-**Note:** Your tablet is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your tablet will save the Wi-Fi access data and your device will be ready to access the Internet. The device will remember the network and will automatically connect to it whenever is available.
+**Note:** Your tablet is compatible with the following security and encryption standards: WEP, WPA, WPA2, TKIP and AES. Once you have completed the authentication process successfully, your tablet will save the Wi-Fi access data
+and your device will be ready to access the Internet. The device will remember the network and will automatically connect to it whenever is available.
+
