@@ -8,7 +8,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569bdd9805.jpg)
 
-* Drag: Move your finger over the screen while maintaining continuous contact
+* Drag: Move your finger over the screen while maintaining continuous contact 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
@@ -23,3 +23,5 @@
 * Zoom: Pinch the screen with two fingers to zoom in or out
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
+
+
