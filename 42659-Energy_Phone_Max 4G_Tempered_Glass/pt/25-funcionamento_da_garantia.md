@@ -2,10 +2,10 @@
 
 Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as atualizações disponíveis. Também tem a possibilidade de contactar o Apoio Técnico ou solicitar a garantia.
 
-1. Pode ver o manual completo no seguinte link: www.energysistem.com/pt/guide/42436
-2. Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
+Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
 
 **Importante**: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Apoio Técnico da Energy Sistem não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou apenas com o conteúdo original de fábrica.
+
 As especificações estão sujeitas a alterações sem aviso prévio.
 
 
