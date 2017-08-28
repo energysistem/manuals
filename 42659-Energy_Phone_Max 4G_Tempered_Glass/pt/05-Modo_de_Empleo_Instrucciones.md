@@ -6,7 +6,7 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/5965eef1eecfd.jpg)
 
-4. Coloque um adesivo guia na parte supérior da película de vidro e a outra na parte inferior da mesma. Tire a seguir a película de plástico que está a proteger o vidro. Agarre a película de vidro pelos adesivos guia, ajuste a posição e coloque-a no ecrã do dispositivo.
+4. Coloque um adesivo guia na parte superior da película de vidro e a outra na parte inferior da mesma. Tire a seguir a película de plástico que está a proteger o vidro. Agarre a película de vidro pelos adesivos guia, ajuste a posição e coloque-a no ecrã do dispositivo.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/44362/599573bf63a54.jpg)
 
