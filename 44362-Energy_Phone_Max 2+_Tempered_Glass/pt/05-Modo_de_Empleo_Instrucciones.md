@@ -1,22 +1,20 @@
-<quick_guide>
-## Modo de Empleo/Instrucciones
+## Instruções
 
-1. Limpia completamente la pantalla del teléfono      con la toallita húmeda.(1)
-2. Seca la pantalla con la toallita seca.(2)
-3. Retira cualquier mota de polvo haciendo uso de     la pegatina incluida en el pack.(3)
+1.  Limpe o ecrã do seu telemóvel com o pano húmido.
+2.  Utilize a seguir um pano seco para secar o ecrã.
+3. Retire as partículas de pó com o adesivo fornecido no pack.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/5965eef1eecfd.jpg)
 
-4. Retira el plastico protector del cristal y         alinea correctamente con el altavoz frontal y      los bordes del smartphone.
+4. Coloque um adesivo guia na parte supérior da película de vidro e a outra na parte inferior da mesma. Tire a seguir a película de plástico que está a proteger o vidro. Agarre a película de vidro pelos adesivos guia, ajuste a posição e coloque-a no ecrã do dispositivo.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42689/5965eef9f2035.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44362/599573bf63a54.jpg)
 
-5. Presiona desde el centro del cristal hasta que     quede completamente fijado.
+5. Pressione no meio da película de vidro e deslize os dedos para os cantos até esta ficar bem colada.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/5965ef00d03b6.jpg)
 
-6. Pasa el paño seco para terminar de pegar los       bordes si fuera necesario
+6. Utilize um pano seco para colar a película nos cantos, caso for necessário.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42689/5965ef0655283.jpg)
 
-</quick_guide>
