@@ -10,5 +10,6 @@ Con los True Wireless emparejados, tus *Energy Music Box 9* permiten una separac
 
 Hecho esto ya tienes listo tu sistema de audio en estéreo para reproducir tus canciones favoritas.
 
-**Nota1**: La función True Wireless solo funciona si estás utilizando la función de bluetooth.
-**Nota2**: La cantidad de altavoces a emparejar debe ser par.
+**Nota 1**: La función True Wireless solo funciona si estás utilizando la función de bluetooth.
+
+**Nota 2**: La cantidad de altavoces a emparejar debe ser par.
