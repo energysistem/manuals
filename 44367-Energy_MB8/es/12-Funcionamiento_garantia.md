@@ -10,7 +10,7 @@ Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentand
 
 *Marcas comerciales.* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-©2016 por Energy Sistem Technology, S.A. Todos los derechos reservados.
+©2017 por Energy Sistem Technology, S.A. Todos los derechos reservados.
 
 
 
