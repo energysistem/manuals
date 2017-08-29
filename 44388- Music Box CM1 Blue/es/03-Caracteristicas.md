@@ -28,9 +28,9 @@
 
 ### Características de la batería de litio recargable
 
-* Capacidad nominal: 1600 mAh.
-* Voltaje nominal: 3.7V.
-* Autonomía en modo música: 12 horas.*
-* Autonomía en modo Bluetooth: 10 horas.*
+* Capacidad nominal: 2000 mAh.
+* Voltaje nominal: 3.7 V.
+* Autonomía: 12 horas.*
+* Tiempo de carga: 1 hora y media. 
 <br/><br/>
- * La duración de la batería es aproximada. Mayor volumen en los altavoces se traduce en un mayor consumo de la batería.
+ * Valor calculado a volumen medio. Mayor volumen en los altavoces se traduce en un mayor consumo de la batería.
