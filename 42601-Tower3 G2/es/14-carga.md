@@ -4,9 +4,9 @@ El *Energy Tower 3 g2* dispone de una *Conexión USB de carga* (12)  para poder 
 
 Especificaciones salida "DC OUT": <br>
 
-Tensión= 5V <br>
+Tensión= 5V
 Intensidad= 2A
 
 Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
 
-*Nota:* Para evitar interferencias en modo radio durante la carga de dispositivos mantén separada la antena de la radio del cable de carga.
+**Nota:** Para evitar interferencias en modo radio durante la carga de dispositivos mantén separada la antena de la radio del cable de carga.
