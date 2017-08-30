@@ -15,7 +15,7 @@
 - Rango de alcance: 10 m.
 - Respuesta en frecuencia: 20 HZ – 20 KHZ.
 - THD < 1%.
-- SPL: 97±3dB.
+- SPL: 94±3dB.
 - Transductor dinámico.
 - Diámetro del diafragma: 40 mm.
 - Sensibilidad del micrófono: -42dB.
