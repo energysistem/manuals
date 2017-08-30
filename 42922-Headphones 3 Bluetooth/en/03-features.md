@@ -10,7 +10,7 @@
 
 ### Technical features
 
-- Bluetooth version: Bluetooth 4.0, class II.
+- Bluetooth version: Bluetooth 4.1, class II.
 - Supports following profiles: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
 - Distance range: 10 m.
 - Frequency response: 20 Hz - 20 KHz.
