@@ -10,17 +10,17 @@
 
 ### Technical features
 
-- Bluetooth version: Bluetooth 4.0, class II
+- Bluetooth version: Bluetooth 4.0, class II.
 - Supports following profiles: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
 - Distance range: 10 m.
-- Frequency response: 20 Hz - 20 KHz
-- THD < 1%
-- SPL: 97±3dB
-- Dynamic transducer
-- Diaphragm diameter: 40 mm
+- Frequency response: 20 Hz - 20 KHz.
+- THD < 1%.
+- SPL: 94 ± 3dB.
+- Dynamic transducer.
+- Diaphragm diameter: 40 mm.
 - Microphone sensitivity: -42 dB.
-- Size: 180  x 170 x 54 mm
-- Weight: 137 g
+- Size: 180  x 170 x 54 mm.
+- Weight: 137 g.
 
 
 #### Battery specifications 
