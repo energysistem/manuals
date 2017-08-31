@@ -1,4 +1,3 @@
-<quick_guide>
 ## Features
 
 ## Main features
@@ -28,10 +27,8 @@
 ### Battery specifications
 * Nominal capacity: 1500 mAh.
 * Nominal voltage: 3.7V.
-* Autonomy in radio mode: 12 hours.*
-* Battery life in radio mode: 10 hours.* 
-
+* Battery life: 12 hours.*
 
 ( * ) Approximate battery life. Higher volume means higher battery consumption.
 
-</quick_guide>
+
