@@ -28,7 +28,7 @@
 
 ### Características de la batería de litio recargable
 
-* Capacidad nominal: 2000 mAh.
+* Capacidad nominal: 1500 mAh.
 * Voltaje nominal: 3.7 V.
 * Autonomía: 12 horas.*
 * Tiempo de carga: 1 hora y media. 
