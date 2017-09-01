@@ -1,4 +1,4 @@
-## Boutons et connecteurs.
+## Boutons et connecteurs
 
 |  |  |
 |:-------|:-------|
