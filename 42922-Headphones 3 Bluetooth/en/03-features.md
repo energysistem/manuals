@@ -19,8 +19,8 @@
 - Dynamic transducer.
 - Diaphragm diameter: 40 mm.
 - Microphone sensitivity: -42 dB.
-- Size: 180  x 170 x 54 mm.
-- Weight: 137 g.
+- Size: 182  x 173 x 55 mm.
+- Weight: 134 g.
 
 
 #### Battery specifications 
