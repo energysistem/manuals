@@ -19,8 +19,8 @@
 - Transdutor dinâmico
 - Diâmetro do diafragma: 40 mm
 - Sensibilidade do microfone: -42 dB
-- Dimensões: 180 x 170 x 54 mm
-- Peso: 137 g
+- Dimensões: 182  x 173 x 55 mm.
+- Peso: 134 g
 
 
 ### # Características da bateria 
