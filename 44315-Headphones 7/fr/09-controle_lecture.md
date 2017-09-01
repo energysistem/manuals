@@ -1,9 +1,13 @@
-## Contrôle de lecture
+## Contrôle de lecture et Bluetooth
 
-Une fois synchronisés les *Energy Headphones 1 Bluetooth* vous pourrez gérer les fonctions basiques de lecture depuis le casque : augmenter ou baisser le volume, passer à la chanson suivante ou précédente et arrêter ou reprendre la lecture de la chanson.
+Une fois l'*Energy Headphones 7 Bluetooth ANC* synchronisé, vous pourrez gérer les fonctions basiques de lecture depuis le casque, telles que le volume et le changement de chanson.
+
+Vous pourrez augmenter et baisser le volume en utilisant les boutons VOLUME + (1) et VOLUME - (3) respectivement. Vous entendrez un bip lorsque le volume maximum sera atteint.
 
 Pour passer à la chanson suivante maintenez enfoncé le bouton AVANCER (1). Vous pouvez également passer à la chanson précédente en maintenant enfoncé le bouton RECULER (3).
 
-Vous pourrez augmenter et baisser le volume de la lecture en utilisant les boutons VOLUME + (1) et VOLUME - (3) respectivement. Vous entendrez un bip lorsque le volume maximum sera atteint.
+Appuyez sur le bouton MULTIFONCTION (2) une seule fois pour arrêter ou reprendre la lecture. 
 
-Appuyez sur le bouton MULTIFONCTION (2) une seule fois pour arrêter ou reprendre la lecture. Si la lecture est arrêtée pendant plus de 10 minutes, votre casque *Energy Headphones 1 Bluetooth* s'éteindra automatiquement pour économiser l'énergie. 
+**Note :** *Si la lecture est arrêtée pendant plus de 10 minutes, votre *Energy Headphones 7 Bluetooth ANC* s'éteindra automatiquement pour économiser l'énergie.
+
+**Note 2 :** *Si vous utilisez le câble audio au lieu de la connexion sans fil Bluetooth, vous devrez gérer la lecture avec le lecteur au lieu du casque.*
