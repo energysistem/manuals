@@ -19,8 +19,8 @@
 - Transductor dinámico.
 - Diámetro del diafragma: 40 mm.
 - Sensibilidad del micrófono: -42dB.
-- Dimensiones: 180  x 170 x 54 mm.
-- Peso: 137 g.
+- Dimensiones: 182  x 173 x 55 mm.
+- Peso: 134 g.
 
 
 #### Características de la batería 
