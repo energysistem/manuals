@@ -1,23 +1,4 @@
-## Turning the device On and Off
+## Switching the eReader on and off
 
-To turn on your eReader Pro HD, hold the on / off button / standby (3) until the startup image appears.
+To turn on your eReader press and hold the *power button (3)* until the startup image appears. You will have to press the very same button to turn off the device. Press and hold this button until the shutdown menu appears on screen and select *OK*. You can also turn on the standby mode by pressing this button once. While the device is in this low-power mode, you will be able to return to the previous screen by pressing the same button again.
 
-![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
-
-![](http://static.energysistem.com/images/manuals/42535/569cd7667ffea.jpg)
-
-To turn off the eReader, hold the button (3) until a warning window appears and push "OK" on the screen. A short press of this button (3)  will put your eReader on standby mode, which is a special low-power mode that lets you instantly return to the last screen by just pushing the button again.
-
-![](http://static.energysistem.com/images/manuals/42535/569cd41cba188.jpg)
-
-![](http://static.energysistem.com/images/manuals/42091/549944d0977d4.jpg)
-
-When your eReader is in standby mode or switched off, it will display an image on the screen indicating their status. Do not worry, this image does not consume energy.
-
-*Standby Mode:*
-
-![](http://static.energysistem.com/images/manuals/42535/569cd4963732d.jpg)
-
-*Turned Off:*
-
-![](http://static.energysistem.com/images/manuals/42535/569cd44fd07a3.jpg)
