@@ -1,6 +1,6 @@
-## Contenido del producto
+## Product content
 
-- Energy eReader Pro HD
-- MicroUSB cable
+- Energy eReader Max
+- USB cable to charge the battery and transfer data
+- Screen cleaning cloth
 - Quick guide
-
