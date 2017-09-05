@@ -1,7 +1,8 @@
 ## Introduction
-Thank you for trusting us and buy your new Energy eReader Pro HD. We hope you enjoy it! Your new e-book reader has a 6" E-Ink Carta#trade# HD display with touch panel, and its integrated light with anti-reflection system allows you to read in low-light. The access to thousands of applications on your system Android operating#trade# is possible thanks to its integrated Wi-Fi. 
 
-These features, combined with its advanced reading features, and its 8GB of internal memory, make this device the ideal companion for your reading days.
+Thank you for your trust in us and for buying the new Energy eReader Max. We hope you enjoy it.
 
-Before you start enjoying your Energy eReader Pro HD advise you to read this quick guide to get familiar with it. It only takes a couple of minutes and help you make the most of all their benefits.
+Your new e-book reader features a 6" E-Ink Carta touchscreen with anti-glare system to avoid glare and reflection while reading in the sunshine and from different viewing angles. Thanks to the Wi-Fi connection and Android operating system you will be able to open thousands of apps. All these features, the advanced reading settings and the 8 GB internal memory turn your device into the perfect partner for your reading sessions.
+
+We strongly recommend to read this manual in order to familiarize yourself with your eReader before you start using it. It will only take a few minutes and it will help you to make the most of all its features.
 
