@@ -1,17 +1,17 @@
 ## Configuration sans fil
 
-Votre Energy eReader Pro HD a une connexion Wi-Fi. Pour connecter votre appareil à un réseau sans fil, il suffit d'aller sur  ![](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres >> ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi et changer le commutateur à la position OUI  ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). À continuation, l'appareil fera une recherche de tous les réseaux disponibles et vous devrez sélectionner un pour commencer la connexion.
+Votre Energy eReader Max est équipée d'une connexion Wi-Fi. Pour connecter votre appareil à un réseau sans fil, allez sur ![1](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres, ![](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi et déplacez l'interrupteur vers la position OUI ![3](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). L'appareil commencera ensuite à rechercher des réseaux sans fil et vous devrez en sélectionner un pour établir la connexion.
 
-- ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi 
-- Activez l'interrupteur Wi-Fi en le déplacent à la position OUI ![] (http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
-- Sélectionner le réseau dans lequel vous voulez vous connecter
+- ![4](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi 
+- Déplacez l'interrupteur Wi-Fi vers la position OUI ![5](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
+- Sélectionnez le réseau auquel vous souhaitez vous connecter.
 
-![] (http://static.energysistem.com/images/manuals/42535/569d1480c2fc5.jpg)
+![6](http://static.energysistem.com/images/manuals/42535/569d1480c2fc5.jpg)
 
-- Établissez la connexion avec le mot de passe réseau.
+- Saisissez le mot de passe du réseau pour établir la connexion.
 
-![] (http://static.energysistem.com/images/manuals/42535/569d13874ab30.jpg)
+![7](http://static.energysistem.com/images/manuals/42535/569d13874ab30.jpg)
 
-*Avis:* Une fois le processus d'authentification est finalisé avec succès, votre Energy Phone gardera les données d'accès au réseau Wi-Fi et vous pouvez commencer à utiliser l'Internet. L'appareil rappellera le réseau et se connectera automatiquement à ce réseau quand il est disponible. 
+*Note :* Une fois le processus d'authentification finalisé avec succès, votre Energy eReader enregistrera les données d'accès au réseau Wi-Fi et vous pourrez commencer à utiliser l'Internet. L'appareil reconnaîtra le réseau et se connectera automatiquement dès qu'il sera disponible. 
 
-Votre réseau Wi-Fi peut être programmé pour s'éteindre automatiquement lorsque vous quittez votre eReader en mode veille sans l'utiliser dans le menu  ![](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres / ![] (http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi / ![] (http://static.energysistem.com/images/manuals/42535/569d161207adb.jpg) Options complémentaires  / ![](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres avancés).
+Votre connexion Wi-Fi peut être programmée de manière que votre eReader s'éteigne automatiquement lors que vous la laissez en mode veille. Allez sur le menu ![8](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres, ![9](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi, ![10](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg) Options avancées, ![11](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Paramètres avancés.
