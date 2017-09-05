@@ -1,9 +1,5 @@
 ## Alimentation 
 
-![](http://static.energysistem.com/images/manuals/42535/569cd48e49506.jpg)
+Votre Energy eReader Max intègre une batterie au lithium-ion rechargeable. Pour la recharger, vous pouvez la connecter à un chargeur USB type A ou à votre ordinateur via le câble microUSB fourni et le *connecteur microUSB (2)* que vous trouverez sur la partie inférieure de l'appareil.
 
-Votre Energy eReader Pro HD intègre une batterie rechargeable de Li-Ion pré-chargée. Une fois déchargée, vous pouvez la recharger à nouveau en connectant votre liseuse à un chargeur USB Type A avec connecteur microUSB. Vous trouverez le connecteur microUSB (2) dans la partie supérieure de votre eReader Pro HD.
-
-![](http://static.energysistem.com/images/manuals/42535/569cdfc148428.jpg)
-
-Le temps de charge peut varier entre 3 et 5 heures selon le chargeur utilisé.
+Le temps de charge peut varier de 3 à 5 heures, selon le type de chargeur utilisé.
