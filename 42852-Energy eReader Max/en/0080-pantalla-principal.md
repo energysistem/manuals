@@ -1,28 +1,25 @@
-## Main Screen
+## Main screen
 
-- *Recently read section*
-- 
-![](http://static.energysistem.com/images/manuals/42091/5499ad09ad922.jpg)
+- Recently read books
 
-- *Recently added section*
+![](http://static.energysistem.com/images/manuals/42535/59637602e6557.jpg)
 
-![](http://static.energysistem.com/images/manuals/42091/5499ad1396a0b.jpg)
+- Recently added books
 
-- *Main app icons**: ![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
+![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
-- *Home:* ![](http://static.energysistem.com/images/manuals/42535/569cd041a4f72.jpg). Brings you back to main screen.
+- Main apps icons: You will be able to set up the app shortcuts that you would like to see on the main screen by clicking on Settings, General settings, Apps on desktop.
 
-- *Back:* ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). It allows you to go back to the previous page, or exit the app.
+![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
 
-- In several menus, you could find additional menu options icon ![](http://static.energysistem.com/images/manuals/42535/569d0b104612e.jpg). Press here to access to advanced options.
+- Home: ![](http://static.energysistem.com/images/manuals/42535/569cd041a4f72.jpg). You will return to the main screen.
 
-- *Screenlight:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). It allows you to regulate the back light level of your eReader screen.
+- Back: ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). This option allows you to go back to the previous screen shown by the application that is running.
 
-- *Wi-Fi:* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Wi-Fi reception signal and status.
+- Sometimes, you will also find the icon of additional settings: ![](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg). Press this icon to access the advanced settings.
 
-- *Battery:* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Indicates the eReader battery level and status.
+- Wi-Fi ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). This option shows the intensity of the Wi-Fi signal.
 
-- *Time:* ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
+- Battery ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). It shows that the battery level of your e-book reader.
 
-*You can configure the application shortcuts you want on the home screen. To change you have to follow these steps: Settings / User defined / Customize desktop apps.
-
+- Hour: ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg) Indica la hora actual.
