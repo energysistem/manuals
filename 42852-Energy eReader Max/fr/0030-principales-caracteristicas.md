@@ -1,15 +1,11 @@
 ## Caractéristiques principales
 
--	Votre lecture en haute définition avec son d'écran électronique E-Ink™ Carta HD de 6", système antireflet et qualité de visualisation optimale sous tous les angles.
--	Écran plat tactile pour améliorer l'expérience de l'utilisation de votre liseuse.
--	Lumière intégrée réglable pour lire dans toutes les conditions d'éclairage.
--	Connectivité Wi-Fi N haute vitesse intégrée.
--	Processeur Dual Core Cortex A9 haute performance.
--	Android OS pour profiter des applications de dictionnaire, le courriel, le téléchargement de contenu dans le cloud, etc.
--	Design ultra-mince et ergonomique, idéal pour organiser des heures de lecture.
--	Batterie au lithium rechargeable de grande capacité avec 2800 mAh, ce qui permet un maximum de deux mois d'utilisation sur une seule charge.*
--	Fonctions de lecture spéciales: différentes tailles, polices, signets, notes, soulignent ...
--	Unique en son genre avec 8 Go de mémoire interne et port microSD extensible jusqu'à 64 Go pour stocker des milliers de livres.
--	Avec 1500 classiques de la littérature universelle.
-
-#### *Basé sur le temps de lecture quotidienne moyenne avec un niveau d'éclairage minimum "Screenlight" et la connectivité Wi-Fi désactivé.
+- Liseuse avec écran E-Ink Carta™ de 6". Elle est munie de 16 niveaux de gris et traitement anti-reflet pour éviter les reflets lorsque vous lisez sous la lumière du soleil et sous différents angles de vue et positions.
+- Conçue pour obtenir un ebook léger et ergonomique. Elle se distingue par ses boutons latéraux et le confort d'utilisation qui permet de tourner les pages facilement, que vous soyez droitier ou gaucher.
+- Écran tactile pour améliorer l'expérience d'utilisation de l'eReader.
+- Connexion Wi-Fi et système d'exploitation Android 4.2.2 pour télécharger toutes les applications sur Google Play ou accéder à votre contenu stocké dans le cloud.
+- Processeur Dual Core.
+- 8 Go de mémoire interne extensible jusqu'à 64 Go via cartes microSD/SDHC/SDXC.
+- Batterie au lithium rechargeable qui permet jusqu'à 6 semaines d'utilisation avec une seule charge (calcul basé sur une demi-heure de lecture quotidienne avec la connexion Wi-Fi désactivée).
+- Fonctions avancées de lecture pour modifier la taille ou la police ou ajouter des signets à vos livres.
+- 1500 livres de littérature universelle fournis.
