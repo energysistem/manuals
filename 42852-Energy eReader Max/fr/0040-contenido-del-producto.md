@@ -1,6 +1,6 @@
-## Contenudu produit
+## Contenu du produit
 
-- Energy eReader Pro HD
-- Câble microUSB
+- Energy eReader Max
+- Câble de chargement et de données USB
+- Essuie-écran
 - Guide rapide
-
