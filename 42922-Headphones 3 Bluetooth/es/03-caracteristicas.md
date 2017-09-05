@@ -10,7 +10,7 @@
 
 ### Características técnicas
 
-- Versión Bluetooth: Bluetooth 4.0, clase II.
+- Versión Bluetooth: Bluetooth 4.1, clase II.
 - Soporta perfiles A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
 - Rango de alcance: 10 m.
 - Respuesta en frecuencia: 20 HZ – 20 KHZ.
