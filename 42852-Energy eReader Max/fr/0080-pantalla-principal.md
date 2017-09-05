@@ -1,29 +1,25 @@
 ## Écran principal
 
-- *Carrousel livres récents lus*
+- Liste des derniers livres lus.
 
-![](http://static.energysistem.com/images/manuals/42091/5499ad09ad922.jpg)
+![](http://static.energysistem.com/images/manuals/42535/59637602e6557.jpg)
 
-- *Carrousel des derniers livres ajoutés*
+- Liste des derniers livres ajoutés.
 
-![](http://static.energysistem.com/images/manuals/42091/5499ad1396a0b.jpg)
+![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
-- *Icônes des principales applications**: ![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
+- Icônes des applications principales. Vous pouvez configurer les raccourcis vers les applications que vous souhaitez avoir sur l'écran principal depuis Paramètres, Général, Applications sur la page d'accueil.
 
-- *Home:* ![](http://static.energysistem.com/images/manuals/42535/569cd041a4f72.jpg). Revenir à l'écran principal
+![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
 
-- *Retour:* ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). Permet de revenir à l'écran précédent dans l'application à ce moment est en cours d'exécution.
+- Accueil : ![](http://static.energysistem.com/images/manuals/42535/569cd041a4f72.jpg). Retournez sur l'écran principal.
 
-- Parfois, vous trouverez l'icône pour des options supplémentaires.  
- ![](http://static.energysistem.com/images/manuals/42535/569d0b104612e.jpg). Appuyez
-cette icône pour accéder aux options avancées.
+- Retour : ![](http://static.energysistem.com/images/manuals/42535/569cd03b1ef8f.jpg). Permet de revenir à l'écran précédent sur l'application en cours d'exécution.
 
-- *Lumière:* ![](http://static.energysistem.com/images/manuals/42535/569cd0472bd65.jpg). Il vous permet de régler le niveau de lumière pour éclairer l'écran de votre liseuse
+- Vous trouverez parfois l'icône des options supplémentaires : ![](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg). Appuyez sur cette icône pour accéder aux options avancées.
 
-- *Wi-Fi* ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Montre la signal Wi-Fi
+- Wi-Fi ![](http://static.energysistem.com/images/manuals/42535/569cd05f2844c.jpg). Vous indique la réception du signal Wi-Fi.
 
-- *Batería* ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Il vous indique le niveau de la batterie de votre liseuse.
+- Batterie ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Vous indique le niveau de batterie disponible sur votre eReader.
 
-- *Heure:* ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg)
-
-*Vous pouvez configurer les raccourcis d'applications que vous voulez sur la page d'accueil.  Pour changer, vous devez suivre ces étapes:  Réglages / Général / Applications présentées sur le bureau.
+- Heure : ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg) Indique l'heure actuelle.
