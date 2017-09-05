@@ -1,21 +1,36 @@
 ## Declaration of conformity
 
-**Manufacturer Name:** Energy Sistem Soyntec S.A.
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-**Date:** 01/01/2016
+Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 966 813 257
 
-**Address:** C/. Calpe, 1 - 03509 Finestrat Alicante (Spain).
+We declare under our own exclusive responsibility that the product
 
-**Tel:** 902 388 388
+Description: e-book reader
+Brand: Energy Sistem
+Model: Energy eReader Max
+Manufacturer: Energy Sistem Technology, S.A.
+Manufacturing Country:  China
 
-**Fax:** 902 119 034
+referred to in this declaration is in compliance with the essential norms and standards
 
-**NIF:** A53107488
+EN 300 328 V2.1.1 (2016-11)
+EN 301 489-1 V2.2.0 (2017-03)
+EN 301 489-17 V3.2.0 (2017-03)
+EN 55032:2015
+EN 55024:2010+A1:2015
+EN 61000-3-2:2014
+EN 61000-3-3:2013
+EN 62479:2010
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
-We declare under our own exclusive responsibility that the product:
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of April 16th 2014.
 
-**Energy Sistem#trade# - Energy eReader Pro HD**
+Finestrat, 01st August 2017.
 
-**Manufacturing Country:** China
+![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
-Is in compliance with the essential norms and standards of the Directive 2004/08/CE of the European Parliament and of the Council of December 15th 2004.
+Marco Antonio Velázquez Fierro
+Product Management Director
