@@ -12,7 +12,7 @@ También puedes cambiar de carpeta pulsando el botón AVANZAR DE CARPETA () y RE
 
 ## Modo de reproducción
 
-Pulsando el botón Cambio de modo de reproducción (15) puedes seleccionar una de estas 4 opciones:
+Pulsando el botón Cambio de modo de reproducción (15) puedes seleccionar una de estas 5 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
@@ -30,7 +30,7 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
 
 4) **RANDOM:** Reproducción aleatoria de todo el contenido de la memoria.
 
-
+5) **OFF:** Se reproduce todo el contenido de la memoria con el mismo orden que con el modo ALL pero sin repetir ninguna pista.
 
 
 
