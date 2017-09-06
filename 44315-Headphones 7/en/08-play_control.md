@@ -8,7 +8,7 @@ Press and hold the NEXT button (1) to switch to the next song. You can also pres
 
 Press the MULTIFUNCTION button (2) once to pause or resume playback. 
 
-**Note:** Your *Energy Headphones 7 Bluetooth ANC* will automatically turn off if music is paused for more than 30 minutes in order to save battery.
+**Note:** Your *Energy Headphones 7 Bluetooth ANC* will automatically turn off if music is paused for more than 30 minutes in order to save battery.*
 
 **Note 2:** *If you are using the audio cable instead of the Bluetooth connection, you will have to control music playback from your music player and not from the headphones.*
 
