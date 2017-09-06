@@ -1,6 +1,6 @@
 ## Battery life
 
-Your headphones' battery life depends on the mode enabled and the selected volume. See following table for the ratio between selected volume and battery life:
+Your headphones' battery life depends on the mode enabled and the selected volume. See the following table for the ratio between selected volume and battery life:
 
 |  |  |  |
 |:-------|:-------|:-------|
