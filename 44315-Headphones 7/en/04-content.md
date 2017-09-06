@@ -1,7 +1,6 @@
-## <quick_guide> Product content
+## Product content
 
-* Energy Headphones 1 Bluetooth.
-* USB charging cable.
-* Audio cable.
-
-</quick_guide>
+* Energy Headphones 7 Bluetooth ANC
+* MicroUSB charging cable.
+* Audio cable
+* Carrying case
