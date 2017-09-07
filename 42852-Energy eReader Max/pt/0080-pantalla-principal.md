@@ -8,7 +8,7 @@
 
 ![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
-- Ícones de apps principais Pode definir os atalhos das aplicações que quer ter no ecrã principal em Definições, Geral, Aplicações do ambiente de trabalho.
+- Ícones de apps principais: Pode definir os atalhos das aplicações que quer ter no ecrã principal em Definições, Geral, Aplicações do ambiente de trabalho.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
 
@@ -22,4 +22,4 @@
 
 - Bateria ![](http://static.energysistem.com/images/manuals/42091/549940f9ab6fb.jpg). Mostra o nível da bateria do seu leitor de e-books
 
-- Hora: ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg) Indica la hora actual.
+- Hora: ![](http://static.energysistem.com/images/manuals/42091/54994195c2d3e.jpg) Indica a hora actual.
