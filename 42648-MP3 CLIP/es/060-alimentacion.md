@@ -16,5 +16,7 @@ Nota: En el caso que selecciones ‘0’ segundos, la pantalla permanecerá siem
 
 Para alargar la vida de la batería, es recomendable no deshabilitar este sistema de ahorro de energía.
 
-Nota: Te recomendamos que no almacenes el aparato ni lo dejes en desuso durante un periodo largo de tiempo con la batería completamente descargada.
+**Nota:** Te recomendamos que no almacenes el aparato ni lo dejes en desuso durante un periodo largo de tiempo con la batería completamente descargada.
+
+**Nota 2:** En caso de que tu *Energy MP3* Clip no responda a tus órdenes o tu ordenador no lo detecte siempre puedes reiniciar el sistema introduciendo un objeto puntiagudo por el orificio de *reset*.
 
