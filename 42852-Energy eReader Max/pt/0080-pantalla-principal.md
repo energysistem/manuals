@@ -2,7 +2,7 @@
 
 - *Visualização/Lista das últimas leituras*
 
-![](http://static.energysistem.com/images/manuals/42677/56ebd56037e20.jpg)
+![](http://static.energysistem.com/images/manuals/42535/59637602e6557.jpg)
 
 - *Visualização/Lista dos últimos livros adicionados*
 
