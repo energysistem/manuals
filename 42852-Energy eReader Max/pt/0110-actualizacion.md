@@ -4,7 +4,7 @@ O seu Energy Tablet Max tem um sistema operativo baseado em Android, que pode se
 
 ![](http://static.energysistem.com/images/manuals/42535/596394b6af3b8.jpg)
 
-![] (http://static.energysistem.com/images/manuals/42091/5499b46baa793.jpg)
+![](http://static.energysistem.com/images/manuals/42091/5499b46baa793.jpg)
 
 ![](http://static.energysistem.com/images/manuals/42091/5499b471ca8db.jpg)
 
