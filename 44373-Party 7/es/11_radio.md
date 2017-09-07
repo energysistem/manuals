@@ -4,7 +4,7 @@ Para utilizar esta función es necesario sintonizar previamente las emisoras de 
 
 Después, para seleccionar entre las distintas emisoras usa de nuevo el botón *Inicio/Pausa ()*, mediante pulsaciones cortas podrás cambiar de emisora entre que se han almacenado en la memoria interna.
 
-Puedes utilizar la antena de radio que viene con el contenido del producto o también puedes conectar la torre a la toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. De esta manera conseguirás mejor recepción de la señal.
+Puedes utilizar la antena de radio que viene con el contenido del producto o también puedes conectar el altavoz a la toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. De esta manera conseguirás mejor recepción de la señal.
 
    ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563b1c48efa.jpg)
    
