@@ -1,14 +1,32 @@
-## Aplicação da garantia
+## Declaração de conformidade
 
-Visite http://www.energysistem.com/pt/support e seleccione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais de utilizador, os drivers e as atualizações disponíveis assim como a possibilidade de consultar o Apoio Técnico ou solicitar a garantia.
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 902 388 388 / + 34 966 813 257
 
-Pode consultar a disponibilidade do manual na sua língua em http://www.energysistem.com/pt-pt/support/manuals
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Também pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
-Importante: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Apoio Técnico da Energy Sistem Technology, S.A. não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou enviar o produto apenas com o conteúdo original de fábrica.
-As especificações estão sujeitas a alterações sem aviso prévio.
+Descrição: Auscultadores sem fios com sistema de cancelamento de ruído
+Marca: Energy Sistem 
+Modelo: Energy Headphones 7 Bluetooth ANC
+Fabricante: Energy Sistem Technology, S.A. 
+País de fabricação:  China
 
-*Marcas registadas* Todas os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-©2017 Energy Sistem®. Todos os direitos reservados.
+EN 300 328 V2.1.1 (2016-11) 
+EN 301 489-1 V2.1.1 (2017-02) 
+EN 301 489-17 V3.1.1 (2017-02) 
+EN 62479:2010 
+EN 60065:2014
 
+está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
+
+Finestrat, 01 de setembro de 2017.
+
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
+
+Marco Antonio Velázquez Fierro
+Product Management Director
+
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
