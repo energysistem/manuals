@@ -13,7 +13,7 @@ L'autonomie du casque dépend du mode d'utilisation et du volume sélectionné. 
 |  |  |  |
 |:-------|:-------|:-------|
 | Volume moyen | ANC OFF | ANC ON| <br>
-| Bluetooth ON | 18 heures | 14 heures | <br>
+| Bluetooth ON | 18 heures | 15 heures | <br>
 | Line in | -  | 24 heures |<br>
 
 <br><br>
