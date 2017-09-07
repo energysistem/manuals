@@ -31,7 +31,7 @@ Várias funções possíveis durante a leitura de um livro. Prima na parte centr
 
 -	*Ir para a página:* ![](http://static.energysistem.com/images/manuals/42535/56a644cce8932.jpg). Pode inserir o número de página exato que deseja visualizar premindo o número de página e alterando-o.
 -	*Alterar o tamanho da fonte:* ![](http://static.energysistem.com/images/manuals/42091/5499689c9e6ef.jpg). Pode utilizar os dois ícones no ecrã para aumentar ou diminuir o tamanho de letra até atingir o tamanho que quiser.
--	*Alterar a fonte:* ![] (http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Pode seleccionar a fonte mais adequada entre uma variedade de fontes propostas.
+-	*Alterar a fonte:* ![](http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Pode seleccionar a fonte mais adequada entre uma variedade de fontes propostas.
 -	*Alterar o espaço entrelinhas:* ![](http://static.energysistem.com/images/manuals/42091/549968a56ca94.jpg). Pode escolher o espaço entrelinhas que goste para desfrutar de uma leitura mais confortável.
 -	*Alterar as margens de página:* ![](http://static.energysistem.com/images/manuals/42091/549968678806f.jpg). Permite definir as margens que goste para desfrutar de uma leitura mais confortável.
 -	*Ir automáticamente para a página:* ![](http://static.energysistem.com/images/manuals/42535/56a649ee7b275.jpg). Para começar a leitura automática tem que ativar o modo automático para virar página a partir do botão "ON". Tem a possibilidade de estabelecer diferentes intervalos de tempo para virar as páginas segundo a velocidade de leitura que prefira.
