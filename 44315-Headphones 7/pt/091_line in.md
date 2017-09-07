@@ -1,8 +1,7 @@
-## Entrada de áudio
+## Controlo de chamadas
 
-Além dos modos descritos até agora, se fica sem bateria ou se simplesmente não quer usar uma conexão sem fios, tem ainda outra possibilidade para desfrutar dos seus *Energy Headphones 1 Bluetooth*: ligue-os ao seu leitor de música através do cabo de áudio (fornecido com o produto).
+Emparelhe os seus *Energy Headphones 7 Bluetooth ANC* com o seu smartphone e poderá atender chamadas através do microfone integrado enquanto estiver a utilizá-los.
 
-Para ativar este modo, só tem que desligar os seus *Energy Headphones 1 Bluetooth* e ligar o cabo à ENTRADA DE ÁUDIO (7).
+Prima o botão MULTIFUNÇÃO (2) para atender uma chamada. No caso de receber uma chamada enquanto está a ouvir música, a música parará e em vez disso ouvirá o som de chamada. Prima esse botão durante 2 segundos para rejeitar a chamada.
 
-**IMPORTANTE:** O painel de controlo dos auscultadores não funciona com este modo ativado. É por isso que deverá utilizar o leitor ligado aos auscultadores para aumentar ou diminuir o volume e pausar, parar ou mudar de faixa.
-
+Prima mais uma vez o botão MULTIFUNÇÃO (2) para terminar a chamada e continuar a reproduzir a música no mesmo ponto em que estava quando recebeu a chamada.
