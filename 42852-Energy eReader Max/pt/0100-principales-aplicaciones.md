@@ -17,7 +17,7 @@ Gmail é o serviço de correio eletrónico por predefinição. A aplicação per
 ![](http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
 Aqui pode visualizar todos os livros guardados na memória interna ou no cartão microSD.
-Para seleccionar o modo de visualização no explorador de e-books prima o ícone de modos de visualização: ![](http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![](http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 o ![](http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (pré-visualização das capas dos seus e-books) Prima na capa do livro que quer ler para abri-lo.
+Para seleccionar o modo de visualização no explorador de e-books prima o ícone de modos de visualização: ![](http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) modo lista, ![](http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) miniaturas 1 ou ![](http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) miniaturas 2 (pré-visualização das capas dos seus e-books) Prima na capa do livro que quer ler para abri-lo.
 
 ![](http://static.energysistem.com/images/manuals/42535/59637912a7edb.jpg)
 
