@@ -6,7 +6,7 @@
 
 * Mantenha os auscultadores limpos e sem pó com ajuda de um pano suave e seco.
 
-* Não desmonte os auscultadores. Qualquer reparação deve ser efectuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
+* Não desmonte os auscultadores. Qualquer reparação deve ser efetuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
 
 * Não deixe a bateria completamente descarregada por longos períodos de tempo.
 
