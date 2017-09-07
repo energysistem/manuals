@@ -1,21 +1,36 @@
 ## Declaração de conformidade
 
-Nome do fabricante: Energy Sistem Technology, S.A.
+![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-Data: 01/01/2016
-
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: +34 966 813 257
 
-Tel.: 902 388 388
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Fax: 902 119 034
+Descripción comercial: eReader
+Marca: Energy Sistem
+Modelo: Energy eReader Max
+Fabricante: Energy Sistem Technology, S.A.
+País de fabricação:  China
 
-NIF: A53107488
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto:
+EN 300 328 V2.1.1 (2016-11)
+EN 301 489-1 V2.2.0 (2017-03)
+EN 301 489-17 V3.2.0 (2017-03)
+EN 55032:2015
+EN 55024:2010+A1:2015
+EN 61000-3-2:2014
+EN 61000-3-3:2013
+EN 62479:2010
+EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
-**Energy Sistem#trade# - Energy eReader Pro HD**
+está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
 
-**País de fabricação**:  China
+Finestrat, 01 de agosto de 2017.
 
-Cumpre com as normas e outros documentos normativos de conformidade com a Diretiva 2004/08/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 2004. 
+![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
+
+Marco Antonio Velázquez Fierro
+Product Management Director
