@@ -8,7 +8,7 @@ Prima o botão AVANÇAR (1) uns segundos para ir para a faixa seguinte. Também 
 
 Prima uma vez o botão MULTIFUNÇÃO (2) para parar ou continuar a reproduzir a música. 
 
-**Nota 1:** Se a música que está a reproduzir fica em pausa mais de 30 minutos, os seus *Energy Headphones 7 ANC* desligam automaticamente para poupar energia.
+**Nota 1:** *Se a música que está a reproduzir fica em pausa mais de 30 minutos, os seus *Energy Headphones 7 ANC* desligam automaticamente para poupar energia.*
 
-*Nota 2:** Se está a utilizar o cabo de áudio em vez da ligação sem fios Bluetooth, tem que controlar a reprodução de músicas no seu leitor de música e não a partir dos auscultadores.
+**Nota 2:** *Se está a utilizar o cabo de áudio em vez da ligação sem fios Bluetooth, tem que controlar a reprodução de músicas no seu leitor de música e não a partir dos auscultadores.*
 
