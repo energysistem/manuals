@@ -14,5 +14,5 @@ O seu Energy eReader Max dispõe de ligação Wi-Fi. Para ligar o seu dispositiv
 
 *Nota:* Uma vez finalizado o processo de verificação com sucesso, o seu Energy eReader guarda os dados de acesso à rede wi-fi e está pronto para que possa utilizar a Internet. O dispositivo guarda a rede e estabelece a ligação automaticamente se a rede estiver disponível. 
 
-A ligação Wi-Fi pode ser programada para que desligue automáticamente quando o seu eReader estiver no estado de suspensão através do menu ![8](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições, !![9](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi, ![10](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg) Outras definições, ![11](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições avançadas).
+A ligação Wi-Fi pode ser programada para que desligue automáticamente quando o seu eReader estiver no estado de suspensão através do menu ![8](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições, ![9](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi, ![10](http://static.energysistem.com/images/manuals/42535/59638e1a4f148.jpg) Outras definições, ![11](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições avançadas).
 
