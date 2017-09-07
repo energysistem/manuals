@@ -13,7 +13,7 @@
 
 - Versão Bluetooth: Bluetooth 4.0, classe II
 - Perfis suportados: A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6
-- Alcance: 10 m.
+- Alcance: 10 m
 - ANC: redução de ruído até -20 dB entre 20 e 300 Hz
 - Resposta em frequência: 20 Hz ~ 20 KHz
 - THD < 1%
@@ -27,7 +27,7 @@
 #### Características da bateria 
 
 - Bateria de lítio com 800 mAh de capacidade
-- Autonomia: Até 100 horas de autonomia*.
+- Autonomia: Até 100 horas de autonomia*
 - Tempo de carregamento: 4 horas
 - Carregamento através do cabo microUSB - USB
 
