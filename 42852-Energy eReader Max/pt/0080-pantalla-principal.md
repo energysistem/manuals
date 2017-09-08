@@ -8,7 +8,7 @@
 
 ![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
-- Ícones de apps principais: Pode definir os atalhos das aplicações que quer ter no ecrã principal em Definições, Geral, Aplicações do ambiente de trabalho.
+- Ícones de apps principais: Pode definir os atalhos das aplicações que quer ter no ecrã principal em Definições, Outras definições, Aplicações do ambiente de trabalho.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
 
