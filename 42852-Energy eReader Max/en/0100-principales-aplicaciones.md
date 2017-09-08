@@ -17,7 +17,7 @@ Gmail is the default e-mail client. This app allows you to access Google e-mail,
 ![](http://static.energysistem.com/images/manuals/42535/569d0d71c4bd7.jpg)
 
 Here you will be able to see all books stored on the internal memory or microSD card.
-You can select the way in which books are displayed by pressing the view mode icon in the e-book explorer: ![](http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) list mode, ![](http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) thumbnail view 1 o ![](http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) thumbnail view 2 (preview of your e-book covers). Click on the chosen book cover to open the book you want to read.
+You can select the way in which books are displayed by pressing the view mode icon in the e-book explorer: ![](http://static.energysistem.com/images/manuals/42091/5499987716ed1.jpg) list mode, ![](http://static.energysistem.com/images/manuals/42091/549998890fa82.jpg) thumbnail view 1 or ![](http://static.energysistem.com/images/manuals/42091/5499989947e7a.jpg) thumbnail view 2 (preview of your e-book covers). Click on the chosen book cover to open the book you want to read.
 
 ![](http://static.energysistem.com/images/manuals/42535/59637912a7edb.jpg)
 
