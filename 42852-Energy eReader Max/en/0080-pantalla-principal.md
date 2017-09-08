@@ -8,7 +8,7 @@
 
 ![](http://static.energysistem.com/images/manuals/42535/596375f51c360.jpg)
 
-- Main apps icons: You will be able to set up the app shortcuts that you would like to see on the main screen by clicking on Settings, General settings, Apps on desktop.
+- Main apps icons: You will be able to set up the app shortcuts that you would like to see on the main screen by clicking on Settings, Other settings, desktop apps.
 
 ![](http://static.energysistem.com/images/manuals/42535/569cd034301b6.jpg)
 
