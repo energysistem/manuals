@@ -1,6 +1,6 @@
 ## Updates
 
-Your Energy eReader Max 3 has an Android based operating system that can be reinstalled or updated if necessary. Updates will be carried out via OTA (Over-The-Air) by default, so your Energy eReader will verify automatically if there are any updates available when it is connected to the Internet and will ask you to install it. You can also search for updates manually from the Settings menu.
+Your Energy eReader Max 3 has an Android based operating system that can be reinstalled or updated if necessary. Updates will be carried out via OTA (Over-The-Air) by default, so your Energy eReader will verify automatically if there are any updates available when it is connected to the Internet and will ask you to install them. You can also search for updates manually from the Settings menu.
 
 ![](http://static.energysistem.com/images/manuals/42535/596394b6af3b8.jpg)
 
