@@ -1,9 +1,9 @@
 ## Wi-Fi settings
 
-Your Energy eReader Max has a Wi-Fi connection. In order to connect your device to a wireless network, you just have to go to [1](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Settings, ![](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi and select YES ![3](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). The device will start then a search of all available networks and you will only have to select one of them to connect it.
+Your Energy eReader Max has a Wi-Fi connection. In order to connect your device to a wireless network, you just have to go to [1](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Settings, ![](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi and select ON ![3](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). The device will start then a search of all available networks and you will only have to select one of them to connect it.
 
 - ![4](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi 
-- Select YES ![5](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
+- Select ON ![5](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
 - Select the network you want to connect to
 
 ![6](http://static.energysistem.com/images/manuals/42535/569d1480c2fc5.jpg)
