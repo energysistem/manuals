@@ -1,9 +1,9 @@
 ## Definições Wi-Fi
 
-O seu Energy eReader Max dispõe de ligação Wi-Fi. Para ligar o seu dispositivo à rede sem fios, só tem que visitar  ![1](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições, ![](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi e mudar o interruptor para a posição SIM ![3](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). A pesquisa de redes sem fios começa a seguir. Só tem que escolher uma rede para iniciar o processo de ligação.
+O seu Energy eReader Max dispõe de ligação Wi-Fi. Para ligar o seu dispositivo à rede sem fios, só tem que visitar  ![1](http://static.energysistem.com/images/manuals/42535/569d0d8721035.jpg) Definições, ![](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi e mudar o interruptor para a posição LIG ![3](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg). A pesquisa de redes sem fios começa a seguir. Só tem que escolher uma rede para iniciar o processo de ligação.
 
 - ![4](http://static.energysistem.com/images/manuals/42535/569cd10f940dd.jpg) Wi-Fi 
-- Ative o interruptor wi-fi mudando-o para a posição SIM ![5](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
+- Ative o interruptor wi-fi mudando-o para a posição LIG ![5](http://static.energysistem.com/images/manuals/42091/54995472af5d9.jpg)
 - Seleccione a rede no dispositivo
 
 ![6](http://static.energysistem.com/images/manuals/42535/569d1480c2fc5.jpg)
