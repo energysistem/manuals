@@ -1,6 +1,6 @@
 ## Cuidado y mantenimiento
 
-* No expongas tu *Energy Party 7* a golpes, humedad o altas temperaturas.
+* No expongas tu *Energy Party 6* a golpes, humedad o altas temperaturas.
 
 * No uses productos de limpieza corrosivos o abrasivos.
 
