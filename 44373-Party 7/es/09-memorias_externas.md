@@ -1,10 +1,10 @@
 ## Memorias externas USB.
 
-Con tu *Energy Party 7* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 128 Gb de capacidad.
+Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 128 Gb de capacidad.
 
-Inserta la memoria en CONNECTOR USB DE REPRODUCCIÓN () y tu *Energy Party 7* cambiará automáticamente a modo USB o microSD para reproducir el contenido de la memoria que acabas de insertar.
+Inserta la memoria en CONNECTOR USB DE REPRODUCCIÓN () y tu *Energy Party 6* cambiará automáticamente a modo USB o microSD para reproducir el contenido de la memoria que acabas de insertar.
 
-Si apagas el *Energy Party 7* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si apagas el *Energy Party 6* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
 Para navegar entre canciones, utiliza los botones de AVANCE () y RETROCESO () del panel o del mando a distancia ()(). Para avanzar y retroceder en una canción, pulsa mantén pulsado durante 4 segundos los botones de AVANCE () y RETROCESO() del panel o del mando a distancia ()(), respectivamente.
 
