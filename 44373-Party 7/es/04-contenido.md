@@ -1,6 +1,6 @@
 ## Contenido del producto
 
-* Energy Party 7.
+* Energy Party 6.
 * Mando a distancia.
 * 2 pilas AAA.
 * Cable de alimentación.
