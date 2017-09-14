@@ -22,7 +22,7 @@
 16. Altavoz
 17. Herramienta de extracción de la bandeja de tarjetas
 
-Auriculares
+### Auriculares
 
 18. Botón volumen +
 19. Botón multifunción
