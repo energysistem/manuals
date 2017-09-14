@@ -5,5 +5,5 @@
 * Mantén el aparato limpio y sin polvo, con un paño suave y seco.
 * No desmontes el dispositivo. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy Sistem Technology, S.A.
 * No expongas tu Energy Phone Max 3+ a Temperatura y Humedad diferentes a las recomendadas.
-* Temperatura de Trabajo: -20 a 45 grados
-* Humedad de trabajo: 65+/-20%RH
+* Temperatura de Trabajo: -20 a 45 grados.
+* Humedad de trabajo: 65+/-20%RH.
