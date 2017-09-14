@@ -11,7 +11,7 @@ PROCESADOR
 
 DISEÑO
 - Cuerpo de metal
-- Pantalla protegida con cristal de alta resistencia.
+- Pantalla protegida con cristal de alta resistencia
 
 SISTEMA OPERATIVO
 -  Android#trade# 7.0 Nougat
