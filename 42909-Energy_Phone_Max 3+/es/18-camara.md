@@ -3,25 +3,13 @@
 ![Imagen1](http://static.energysistem.com/images/manuals/42909/59ba6a325af43.jpg)
 
 
-1. Fotos panorámicas.
-2. Fotos PIP.
-3. Dual Cam.
-4. Cámara normal.
-5. Previsualización de cámara.
-6. Cámara lenta.
-7. Modo HDR.
-8. Modos Flash: Activado, Desactivado, Automático.
-9. Cambio entre cámara frontal y cámara trasera.
-10. Acceso a galería.
-11. Botón de disparo.
-12. Acceso a vídeo.
-13. Ajustes.
-
-
-
-
-
-
-
-
-
+1. Modo noche.
+2. Modo belleza.
+3. Modo normal.
+4. Modo HDR.
+5. Modos Flash: Activado, Desactivado, Automático.
+6. Cambio entre cámara frontal y cámara trasera.
+7. Previsualización de cámara.
+8. Botón de disparo.
+9. Botón de grabación.
+10. Acceso a ajustes.
