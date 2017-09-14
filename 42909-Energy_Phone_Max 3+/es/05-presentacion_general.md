@@ -9,7 +9,7 @@
 3. Cámara trasera
 4. Flash trasero
 5. Sensores de luminosidad y de proximidad
-6. Receptor
+6. Auricular
 7. LED de notificaciones
 8. Cámara frontal
 9. Botón volumen +
