@@ -1,6 +1,6 @@
 ## Pantalla principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2acf01a5e0.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42909/59ba672a9a758.jpg)
 
 1. **Buscador:** Acceso directo al motor de búsqueda WEB de Google#trade#.
 2. **Barra de estado:** Muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando el dedo dos veces hacia abajo en esta zona se despliega una versión del menú de configuración básica que gestiona las notificaciones y el menú de configuración.
