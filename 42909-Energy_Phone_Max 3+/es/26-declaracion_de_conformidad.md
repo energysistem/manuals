@@ -11,7 +11,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad de los producto
 
 Descripción: Smartphone y Auriculares inalámbricos
 Marca: Energy Sistem
-Modelos: Energy#trade# Phone Max 3+ y Energy Earphones 1 Bluetooth
+Modelos: Energy Phone Max 3+ y Energy Earphones 1 Bluetooth
 Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
@@ -29,7 +29,7 @@ EN 303 345 V1.1.7 (2017-03);
 EN 301 893 V2.1.0 (2017-03);
 ETSI EN 300 328 V2.1.1 (2016-11);
 EN 300 440 V2.1.1 (2017-03);
-EN 301 511 V12.5.1 (2017-03);
+EN 301 511 V9.0.2 (2003-03);
 ETSI EN 301 908-1 V11.1.1 (2016-07);
 ETSI EN 301 908-2 V11.1.1 (2016-07);
 ETSI EN 301 908-13 V11.1.1 (2016-07);
@@ -38,11 +38,15 @@ EN 62479:2010;
 EN 62209-1:2006;
 EN 62209-2:2010;
 EN 50360:2001+A1:2012;
-EN 50566:2013/AC:2014;
-
-ETSI EN 300 328 V1.7.1 (2006-10)
-
-
+EN 50566:2013;
+ETSI EN 301 489-3 V2.1.1 (2017-03)
+EN 62471:2008
+IEC 62133:2012
+EN 50332-1:2013
+EN 50332-2:2013
+EN 55020:2007+A12:2016
+EN 61000-3-2:2014
+EN 61000-3-3:2013
 
 de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016
 
