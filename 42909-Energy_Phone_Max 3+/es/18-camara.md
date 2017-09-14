@@ -1,6 +1,6 @@
 ## Cámara
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad43ae485.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42909/59ba6a325af43.jpg)
 
 
 1. Fotos panorámicas.
