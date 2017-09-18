@@ -4,10 +4,10 @@ La autonomía de tu Energy Music Box 9 puede variar según su modo de empleo y n
 
 |  |  |  |  |  |
 |:-------|:-------|:-------|:-------|:-------|
-|  | STANDBY | VOLUMEN MÍNIMO | VOLUMEN MEDIO | VOLUMEN MÁXIMO | <br>
-| BLUETOOTH | 40 horas | 35 horas | 25 horas | 4 horas | <br>
-| LINE IN | 39 horas | 25 horas | 20 horas | 4 horas |<br>
-| USB / MICRO SD | 40 horas | 25 horas | 20 horas | 4 horas |<br>
+|  | VOLUMEN MÍNIMO | VOLUMEN MEDIO | VOLUMEN MÁXIMO | <br>
+| BLUETOOTH | 35 horas | 25 horas | 4 horas | <br>
+| LINE IN  | 25 horas | 20 horas | 4 horas |<br>
+| USB / MICRO SD | 25 horas | 20 horas | 4 horas |<br>
 
 <br><br>
 
