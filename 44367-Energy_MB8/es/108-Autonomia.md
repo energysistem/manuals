@@ -1,6 +1,6 @@
 ## Autonomía
 
-La autonomía de tu Energy Music Box 9 puede variar según su modo de empleo y nivel de sonido que estées utilizando. Para poder orientarte sobre cuanto te va a durar la batería puedes echar un vistazo a la siguiente tabla comparativa:
+La autonomía de tu Energy Music Box 9 puede variar según su modo de empleo y nivel de sonido que tengas seleccionado. Para poder orientarte sobre cuanto te va a durar la batería puedes echar un vistazo a la siguiente tabla comparativa:
 
 |  |  |  |  |  |
 |:-------|:-------|:-------|:-------|:-------|
