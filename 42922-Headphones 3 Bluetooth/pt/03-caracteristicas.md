@@ -26,9 +26,9 @@
 ### # Características da bateria 
 
 - Bateria de lítio com 200 mAh de capacidade
-- Autonomia no modo de reprodução de música: 9 horas
-- Autonomia no modo mãos livres: 9 horas
-- Tempo de carregamento: 2 horas
+- Autonomia no modo de reprodução de música: 12 horas
+- Autonomia no modo mãos livres: 12 horas
+- Tempo de carregamento: 1,5 horas
 - Carregamento através do cabo microUSB - USB
 
 
