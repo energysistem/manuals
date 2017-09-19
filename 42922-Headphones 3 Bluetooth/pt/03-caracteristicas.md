@@ -23,7 +23,7 @@
 - Peso: 134 g
 
 
-### # Características da bateria 
+### Características da bateria 
 
 - Bateria de lítio com 200 mAh de capacidade
 - Autonomia no modo de reprodução de música: 12 horas
