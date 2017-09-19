@@ -26,8 +26,8 @@
 ### Caractéristiques de la batterie 
 
 - Batterie au lithium de 200 mAh.
-- Autonomie en mode lecture : 9 h.
-- Autonomie en mode mains libres : 9 h.
-- Temps de charge : 2 h.
+- Autonomie en mode lecture : 12 h.
+- Autonomie en mode mains libres : 12 h.
+- Temps de charge : 1,5 h.
 - Système de charge via câble USB - microUSB
 
