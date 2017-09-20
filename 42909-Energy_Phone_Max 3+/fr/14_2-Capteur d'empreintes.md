@@ -1,11 +1,17 @@
+<quick_guide>
 ## Capteur d'empreintes
 
-Allez sur ParamËtres > SÈcuritÈ > Empreinte digitale pour capter votre empreinte et dÈverrouiller votre appareil ou configurer les raccourcis vers les applications/ contacts.
+Allez sur Param√®tres > S√©curit√© > Empreinte digitale pour capter votre empreinte et d√©verrouiller votre appareil ou configurer les raccourcis vers les applications/ contacts.
+</quick_guide>
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad6111d4c.jpg)
 
+
+
+<quick_guide>
 ## Menu de navigation
 
-Dans le menu ParamËtres > Navigation (1) vous pouvez dÈsactiver les boutons sur l'Ècran (2) et utiliser le capteur d'empreintes digitales pour naviguer : retour (touche lÈgËre), retour ‡ l'accueil (un clic) ou accËs ‡ l'Ècran des applications rÈcentes (double clic). Vous pouvez Ègalement modifier l'ordre des boutons tactiles sur l'Ècran (3).
+Dans le menu Param√®tres > Navigation vous pouvez d√©sactiver les boutons sur l'√©cran et utiliser le capteur d'empreintes digitales pour naviguer : retour (touche l√©g√®re), retour √† l'accueil (un clic) ou acc√®s √† l'√©cran des applications r√©centes (double clic). Vous pouvez √©galement modifier l'ordre des boutons tactiles sur l'√©cran.
+</quick_guide>
 
 ![Imagen2](http://static.energysistem.com/images/manuals/42436/58d2ad742a8b4.jpg)
