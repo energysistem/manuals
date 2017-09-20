@@ -1,6 +1,6 @@
 ## Écran principal
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2acf01a5e0.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42909/59ba672a9a758.jpg)
 
 1. **Navigateur :** Raccourci vers le moteur de recherche WEB de Google#trade#.
 2. **Barre d'état :** Montre les informations sur l'état du réseau, la batterie et l'heure. Glissez deux fois votre doigt vers le bas sur cette zone pour déplier une version du menu de configuration de base qui gère les notifications et le menu de configuration.
