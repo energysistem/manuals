@@ -6,4 +6,4 @@ Incluso puedes conectar un segundo *Energy Party 6*, para ello conéctandolos me
 
 Para este modo de reproducción te recomendamos mantener el nivel de volumen del altavoz secundario al máximo en todo momento y ajustar el volumen requerido mediante el altavoz principal. 
 
-Además, te recomendamos ajustar *Regulador EQ manual* (25) del altavoz principal para encontrar un sonido equilibrado, para obtener más información al respecto visita el apartado **Equialización** de este manual.
+Además, te recomendamos ajustar *Regulador EQ manual* (25) del altavoz principal para encontrar un sonido equilibrado, para obtener más información al respecto visita el apartado **Ecualización** de este manual.
