@@ -32,4 +32,3 @@ CONNECTIVITÉ
 - WI-FI 802.11 a/b/g/n
 - A-GPS
 
-<quick_guide>
