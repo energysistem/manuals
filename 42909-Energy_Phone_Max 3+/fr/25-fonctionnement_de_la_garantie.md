@@ -1,10 +1,9 @@
 <quick_guide>
 ## Fonctionnement de la garantie
 
-Lorsque vous entrez sur www.energysistem.com/fr/support et sélectionnez votre produit, vous pouvez trouver les FAQ (réponses aux questions les plus fréquentes), les manuels, les guides d'utilisation, les drivers et les mises à jour, tout comme la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
+Lorsque vous entrez sur www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les manuels, les guides d'utilisation, les drivers et les mises à jour et vous aurez également la possibilité d'envoyer vos questions au service technique ou de gérer la garantie.
 
-1. Vous pouvez consulter le manuel de l'utilisateur dans votre langue sur : www.energysistem.com/fr/guide/42436
-2. Vous pouvez éventuellement vous adresser à votre vendeur avec votre facture d'achat.
+Vous pouvez éventuellement vous adresser à votre vendeur avec votre facture d'achat.
 
 **Important** : Les données ou les informations contenues dans les produits ne sont couvertes dans aucun cas par aucune garantie, par conséquent, le service technique d'Energy Sistem ne sera pas obligé de stocker cette information et il est donc conseillé d'effacer le contenu de la mémoire de l'appareil ou de l'envoyer avec les valeurs par défaut.
 Les spécifications sont susceptibles d'être modifiées sans préavis.
