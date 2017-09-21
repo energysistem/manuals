@@ -1,13 +1,11 @@
-## Video Player
+## E-mail settings
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad4e6ff0f.jpg)
+**Note:** in order to get to know your account settings, please ask your e-mail service provider.
 
-1. Back to video list.
-2. Play/ Pause.
-3. Share.
-4. Share via Bluetooth.
-5. Settings.
-6. Now playing.
-7. Total video length.
-8. Progress bar.
-9. Elapsed time.
+![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad379f638.jpg)
+
+1. Selected folder.
+2. Search.
+3. E-mails.
+4. New e-mail.
+5. Folders.
