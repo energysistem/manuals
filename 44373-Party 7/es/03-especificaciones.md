@@ -1,4 +1,4 @@
-## Especificaciones técnicas
+## Especificaciones técnicas.
 
 #### AUDIO
 - Sistema de sonido 2.1.
