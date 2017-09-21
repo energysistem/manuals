@@ -1,20 +1,10 @@
 <quick_guide>
-## Aplicação da garantia
+## Condições da garantia
+Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo consumidor durante um período de 36 meses. A garantia é aplicável a todas as funções do produto à excepção da bateria, a qual não está incluída porque para ela há uma garantia específica de 24 meses.
 
-Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as atualizações disponíveis. Também tem a possibilidade de contactar o Apoio Técnico ou solicitar a garantia.
+Esta garantia cobre defeitos de fabrico ou materiais e não se aplica se o defeito foi causado por pessoas não autorizadas devido a acidente, utilização indevida ou modificações do produto.
 
-1. Pode ver o manual completo no seguinte link: www.energysistem.com/pt/guide/42436
-2. Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
-
-**Importante**: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Apoio Técnico da Energy Sistem não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou apenas com o conteúdo original de fábrica.
-As especificações estão sujeitas a alterações sem aviso prévio.
+A garantia especial de 36 meses é válida para a União Europeia.  Para outros países deve verificar a legislação em vigor ou consultar o seu distribuidor local.
 
 
-## Marcas registadas
-
-Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
-
-© 2017 Energy Sistem Technology, S.A. Todos os direitos reservados.
-
-IMPORTANTE: O presente dispositivo pode conter links a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Technology, S.A. Estes links são facilitados para a sua informação ou comodidade; Energy Sistem não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude. As páginas externas referidas podem conter ou fazer referência a marcas, patentes, informação registada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas. Todos os direitos reservados são propriedade dos respectivos proprietários.
 </quick_guide>
