@@ -4,9 +4,9 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad379f638.jpg)
 
-1.  Pasta seleccionada.
-2.  Pesquisar.
-3. E-mails.
-4. Nova mensagem.
-5. Pastas.
+1. Pasta seleccionada
+2. Pesquisar
+3. E-mails
+4. Nova mensagem
+5. Pastas
 
