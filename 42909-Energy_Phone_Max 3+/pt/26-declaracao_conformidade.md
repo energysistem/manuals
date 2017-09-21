@@ -1,46 +1,21 @@
 <quick_guide>
-## Declaração de conformidade
+## Aplicação da garantia
 
-![Imagen1](http://static.energysistem.com/images/manuals/42909/59391fdcd6d6d.jpg)
+Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (perguntas mais frequentes), os manuais do utilizador, os drivers e as atualizações disponíveis. Também tem a possibilidade de contactar o Apoio Técnico ou solicitar a garantia. -
 
-Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
-Tel.: + 34 902 388 388 / + 34 966 813 257
+Alternativamente, pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
 
-Declaramos sob a nossa exclusiva responsabilidade que o produto
-
-Descrição: Smartphone
-Marca: Energy Sistem
-Modelo: Energy#trade# Phone Pro 3
-Fabricante: Energy Sistem Technology, S.A.
-País de fabricação: China
-
-a que se refere a declaração cumpre com as normas e outros documentos normativos
-
-RE Directive (2014/53/UE)
-EMC Directive (2014/30/EU)
-RoHS Directive (2011/65/UE)
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
-EN 50332-2:2013 EN 50360:2001+A1:2012; EN 62209-1: 2006; IEC 62209-1: 2005; IEC 62209-2:2010;
-EN 62209-2:2010;
-EN 50566:2013;
-EN 62479:2010 EN 301 489-1 V1.9.2;
-EN 301 489-3 V1.6.1 EN 301 489-7 V1.3.1;
-EN 301 489-17 V2.2.1 EN 301 489-24 V1.5.1
-EN 55032:2013;
-EN 300 328 V2.1.1 EN 301 908-1 V7.1.1;
-EN 301 908-2 V6.2.1 EN 300 440-1 V1.6.1;
-EN 300 440-2 V1.4.1
-EN 55013:2013 /EN 55020:2007/A11:2011
-EN 301 511 V9.0.2 (2003-03)
+**Importante**: Os dados ou a informação armazenada pelo comprador nos produtos não fazem parte da garantia, portanto, o Apoio Técnico da Energy Sistem não estará na obrigação de recuperar esta informação. É, portanto, recomendável entregar o produto sem informação na memória do mesmo ou apenas com o conteúdo original de fábrica.
+As especificações estão sujeitas a alterações sem aviso prévio.
 
 
-está em conformidade com as normas e padrões essenciais da Diretiva 1999/05/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+## Marcas registadas
 
-Finestrat, 01 de março de 2017
+Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
+© 2017 Energy Sistem Technology, S.A. Todos os direitos reservados.
 
-Marco Antonio Velázquez Fierro
-Product Management Director
+IMPORTANTE: O presente dispositivo pode conter links a sítios ou páginas web operadas por terceiros alheios a Energy Sistem Technology, S.A. Estes links são facilitados para a sua informação ou comodidade; Energy Sistem não é responsável pela sua disponibilidade, conteúdo, adequação ou exactitude. As páginas externas referidas podem conter ou fazer referência a marcas, patentes, informação registada, tecnologias, produtos, processos ou outros direitos de propriedade pertencentes a outras pessoas.  Todos os direitos reservados são propriedade dos respectivos proprietários.
+
 </quick_guide>
+
