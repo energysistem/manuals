@@ -8,7 +8,7 @@ Siga os passos seguintes para realizar a instalação:
 
 1. Assegure-se que a bateria do seu Energy Phone Max 3+ está totalmente carregada. Caso contrário, ligue o seu Energy Phone na tomada eléctrica através do adaptador de corrente AC/DC fornecido e espere a que a bateria carregue completamente.
 
-2.  Aceda à página web www.energysistem.com no seu computador.
+2.  Aceda à página web www.energysistem.com/pt no seu computador.
 
 3. Entre na secção "Suporte" e seleccione o tipo de produto "Smartphone".
 
