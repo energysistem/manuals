@@ -1,11 +1,8 @@
-## E-mail settings
+<quick_guide>
+##  Pairing your Earphones
 
-**Note:** in order to get to know your account settings, please ask your e-mail service provider.
+1. When your earphones are off, press and hold the multifunction button (19) for 4 seconds and the LED indicator (22) will start flashing blue and red.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad379f638.jpg)
+2. Enable Bluetooth mode on your Energy Phone Max 3+ or device and connect your "Energy Earphones 1 Bluetooth". You will hear a confirmation sound.
 
-1. Selected folder.
-2. Search.
-3. E-mails.
-4. New e-mail.
-5. Folders.
+</quick_guide>
