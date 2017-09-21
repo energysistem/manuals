@@ -1,4 +1,4 @@
-## Cuidado y mantenimiento
+## Cuidado y mantenimiento.
 
 * No expongas tu *Energy Party 6* a golpes, humedad o altas temperaturas.
 
