@@ -1,5 +1,6 @@
 ## Main gestures
 
+
 * Tap
 
 Touch the screen briefly
@@ -14,7 +15,7 @@ Touch the screen twice quickly
 
 * Drag
 
-Move your finger over the screen while maintaining continuous contact
+Move your finger over the screen while maintaining continuous contact 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569cfdb51d.jpg)
 
@@ -32,12 +33,7 @@ Touch the screen for an extended period of time
 
 * Zoom
 
-Pinch the screen with two fingers to zoom in or out 
+Zoom in and out the image on screen
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
-
-
-
-
-
 
