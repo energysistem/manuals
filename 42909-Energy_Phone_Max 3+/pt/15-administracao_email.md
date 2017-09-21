@@ -1,11 +1,9 @@
-## Gestão de e-mail
+<quick_guide>
+## Ligação Bluetooth
 
-**Importante:** Para conhecer os parâmetros de configuração da sua conta consulte o seu provedor de e-mail.
+1.  Prima o botão multifunção (19) durante 4 segundos após ter desligado os auscultadores e o indicador LED (22) começa a piscar entre o vermelho e o azul.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad379f638.jpg)
+2.  Ative a opção Bluetooth do seu Energy Phone Max 3+ e emparelhe os seus "Energy Earphones 1 Bluetooth". A seguir, vai ouvir o som que indica que os dispositivos estão emparelhados.
 
-1. Pasta seleccionada.
-2. Pesquisar.
-3. E-mails.
-4. Nova mensagem.
-5. Pastas.
+</quick_guide>
+
