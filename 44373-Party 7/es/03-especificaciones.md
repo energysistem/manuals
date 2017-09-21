@@ -36,7 +36,7 @@
 - Luces LED con 4 modos diferentes.
 - Pantalla de segmentos LED de 2.4”.
 - Mando a distancia de hasta 10 metros de alcance.
-- Botón Extra bass
+- Botón ENERGY MUSIC POWER 600.
 - Efecto regulable de reverberación para la entrada de micrófono. 
 - Puerto USB de carga: 5V, 2A.
 - Alimentación. 200-240V , 50Hz.
