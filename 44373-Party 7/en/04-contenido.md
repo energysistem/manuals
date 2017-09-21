@@ -1,10 +1,11 @@
-## <quick_guide> Product content
+## Contenido del producto
 
-* Energy Earphones 6 True Wireless
-* MicroUSB charging cable
-* Carrying and protection case 
-* Flexible ear hooks
-* Interchangeable ear tips
-* Quick guide
-
-</quick_guide>
+* Energy Party 6.
+* Mando a distancia.
+* 2 pilas AAA.
+* Cable de alimentación.
+* Cable de audio miniJack.
+* Antena de radio.
+* Micrófono.
+* Cable de micrófono.
+* Guía rápida de uso.

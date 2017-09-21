@@ -1,9 +1,7 @@
-## <quick_guide> Introduction
+## Introducción.
 
-*	Merci de votre confiance et d'avoir acheté vos nouveaux *Energy Earphones 6 True Wireless*. Nous espérons que vous les apprécierez.
+* Gracias por confiar en nosotros y adquirir tu nuevo *Energy Party 6*. Esperamos que lo disfrutes.
 
-*	Écouteurs sans fil au design intra-auriculaire pour éprouver la sensation de bouger sans contrainte. Répondez à vos appels, profitez de jusqu'à 5 heures de lecture et découvrez leurs crochets auriculaires flexibles qui s'adaptent à vos oreilles. 
+* Antes de comenzar a disfrutar de tu *Energy Party 6* te invitamos a que leas este manual para familiarizarte con el producto y puedas sacarle el máximo partido.
 
-Avant de commencer à profiter de vos *Energy Earphones 6 True Wireless* nous vous conseillons de lire cette guide pour vous familiariser avec eux. 
 
-</unique> </quick_guide>

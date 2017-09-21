@@ -1,9 +1,8 @@
-## Soin et entretien
+## Cuidado y mantenimiento.
 
-*	Ne pas exposer vos *Energy Earphones 6 True Wireless* à des coups, à la poussière, à l'humidité ou à hautes températures.
+* No expongas tu *Energy Party 6* a golpes, humedad o altas temperaturas.
 
-* Ne pas utiliser des produits corrosifs ou abrasifs.
+* No uses productos de limpieza corrosivos o abrasivos.
 
-* Ne pas démonter l'appareil. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
+* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
 
-* Vérifiez que vos *Energy Earphones 6 True Wireless* soient éteints lorsqu'il ne sont pas utilisés. Ne pas laisser vos écouteurs avec la batterie complètement déchargée pendant une longue période.
