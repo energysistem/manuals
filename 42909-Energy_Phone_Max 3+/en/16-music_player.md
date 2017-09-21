@@ -1,15 +1,13 @@
-## Music player
+<quick_guide>
+## Earphones functions
 
-![Imagen1](http://static.energysistem.com/images/manuals/42436/58d2ad3d9655c.jpg)
+1. Play/Pause: Press the multifunction button (19).
+2. Volume +/Volume -: Press Volume + (18) or Volume - (20) to turn up and down the volume respectively.
+3. Next/Previous track: Press and hold Volume + (18) or
+Volume - (20) while music playback is on in order to hear the next or previous track.
+4. Answer an incoming call/end a call: Press the multifunction button (19).
+5. Reject an incoming call: Press and hold the multifunction button (19) for 2 seconds.
+6. Redial a number: Press the multifunction button (19) twice while playback is paused.
 
-1. Playlist.
-2. Display.
-3. Length.
-4. Shuffle.
-5. Next song.
-6. Play/ Pause.
-7. Previous song.
-8. Repeat.
-9. Elapsed time.
-10. Progress bar.
+</quick_guide>
 
