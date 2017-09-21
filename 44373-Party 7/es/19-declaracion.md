@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Sistema de altavoces en columna.
 Marca: Energy Sistem. 
-Modelo: Energy Party 7.
+Modelo: Energy Party 6.
 Fabricante: Energy Sistem Technology, S.A. 
 País de fabricación: China.
 
