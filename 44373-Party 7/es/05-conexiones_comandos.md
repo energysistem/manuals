@@ -2,7 +2,7 @@
 
 
 
-![Schema](http://static.energysistem.com/images/manuals/42360/59c36b66dd1aa.jpg) <br> <br> <br>
+![Schema](http://static.energysistem.com/images/manuals/42360/59c36d97f1ac2.jpg) <br> <br> <br>
 
 ![Schema](http://static.energysistem.com/images/manuals/42360/59c36be0631ad.jpg) <br> <br> <br>
 
