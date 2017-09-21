@@ -1,3 +1,4 @@
+
 ## Tipos de toques
 
 
@@ -36,3 +37,4 @@ Prima a superfície do ecrã durante um período longo de tempo
 Aumentar e diminuir a imagem no ecrã
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
+
