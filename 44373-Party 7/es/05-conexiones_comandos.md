@@ -5,8 +5,7 @@
 
 |  |  |
 |:-------|:-------|
-
-|![Schema](http://static.energysistem.com/images/manuals/42360/59c36e1f28f30.jpg)|![Schema](http://static.energysistem.com/images/manuals/42360/59c375cb14b60.jpg)| <br> <br> <br>
+|![Schema](http://static.energysistem.com/images/manuals/42360/59c36e1f28f30.jpg)|![Schema](http://static.energysistem.com/images/manuals/42360/59c375cb14b60.jpg)|
 
 |  |  |
 |:-------|:-------|
