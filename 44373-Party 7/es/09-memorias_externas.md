@@ -2,17 +2,17 @@
 
 Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 128 Gb de capacidad.
 
-Inserta la memoria en el *Conector USB de datos (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
+Inserta la memoria en el *Conector USB de reproducción (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
 
 Si apagas el *Energy Party 6* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
-Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del panel (20) y (21) o del mando a distancia (38) y (46) respectivamente. Para avanzar y retroceder en una canción, mantén pulsado durante 4 segundos los botones de *Avance* y *Retroceso* del panel (20) y (21) o del mando a distancia (38) y (46) respectivamente.
+Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente. Para avanzar y retroceder en una canción, mantén pulsado durante 4 segundos los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente.
 
-También puedes cambiar de carpeta pulsando el botón *Navegar arriba* y *Navegar debajo* desde el panel superior (23) y (19) o desde el mando a distancia (37) y (39) respectivamente.
+También puedes cambiar de carpeta pulsando el botón *Ajuste + frecuencia FM / Avanzar de carpeta (USB)* y *Ajuste - frecuencia FM / Retroceder de carpeta (USB)* desde el panel superior *(23)* y *(19)* o desde el mando a distancia *(37)* y *(39)* respectivamente.
 
 ## Modo de reproducción
 
-Pulsando el *Botón multifunción* (7) puedes seleccionar una de estas 5 opciones:
+Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
