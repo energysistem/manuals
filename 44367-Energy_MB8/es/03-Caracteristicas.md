@@ -29,8 +29,8 @@
 
 ### Características de la batería recargable.
 *	Capacidad: 4000 mAh.
-*	Sistema de carga por conector DC.
-*	Tiempo de carga: 2 horas.
+*	Adaptador de 12V 1.5A con sistema de carga por conector DC.
+*	Tiempo de carga: 2.5 horas.
 *	Autonomía aproximada a volumen medio: 12 horas*.
 
  *El cálculo de la autonomía es aproximado. Un mayor volumen supone un mayor consumo de la batería.
