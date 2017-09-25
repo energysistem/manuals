@@ -1,4 +1,4 @@
-## Salida analógica RCA.
+## Salida analógica RCA
 
 Tu *Energy Tower 8 g2* cuenta con una conexión de *Salida analógica RCA (29)* para poder compartir la música que estás reproduciendo con otros altavoces autoamplificados que dispongan de entrada analógica.
 
