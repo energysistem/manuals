@@ -22,7 +22,6 @@
 *	Diámetro de los drivers:
   - Rango completo: 60 mm.
   - Alta frecuencia 36 mm.
-  
 *	Respuesta en frecuencia: 20 - 20.000 Hz.
 *	Relación señal/ruido > 80 dB.
 *	THD < 1%.
