@@ -1,6 +1,6 @@
-## Memorias externas USB y microSD.
+## Memorias externas USB y microSD
 
-Con tu *Energy Tower 8 g2* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB y microSD de hasta 128 Gb de capacidad.
+Con tu *Energy Tower 8 g2* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB y microSD de hasta 128 GB de capacidad.
 
 Inserta la memoria en la ranura correspondiente y tu *Energy Tower 8 g2* cambiará automáticamente a modo USB o microSD para reproducir el contenido de la memoria que acabas de insertar.
 
@@ -19,7 +19,7 @@ Pulsando el botón *Cambio de modo de repetición (15)* puedes seleccionar una d
 
 Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en la carpeta "B" y después en la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
 
    A continuación se muestra un diagrama del orden de lectura:
 
