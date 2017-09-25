@@ -1,4 +1,4 @@
-## Salida USB para carga de dispositivos.
+## Salida USB para carga de dispositivos
 
 Tu *Energy Tower 8 g2* dispone de un *Puerto USB de carga (21)* para poder conectar un cable USB y cargar otro dispositivo como un Smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
