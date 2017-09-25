@@ -9,4 +9,4 @@ Intensidad= 2A
 
 Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
 
-**Nota:** En caso de que estés usando la antena de radio incluída manténla separada del cable de carga para evitar interferencias en modo radio durante la carga de dispositivos.
+**Nota:** En caso de que estés usando la antena de radio incluida mantenla separada del cable de carga para evitar interferencias en modo radio durante la carga de dispositivos.
