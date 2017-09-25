@@ -1,4 +1,4 @@
-## Radio FM.
+## Radio FM
 
 Para utilizar esta función es necesario sintonizar previamente las emisoras de radio disponibles, para ello conecta la antena de radio en la parte posterior del panel superior y manten pulsado el botón *Inicio/Pausa (4)*  o del mando a distancia *(18)* durante dos segundos cuando el dispositivo esté en modo radio. Esta operación tardará unos minutos. Estas emisoras quedarán almacenadas en la memoria de tu *Energy Tower 8 g2* por lo que no es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la frecuencia de la emisora deseada.
 
