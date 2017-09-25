@@ -2,6 +2,6 @@
 
 *	*Energy Music Box 9*.
 *	Cable de audio.
-*	Cable DC para carga.
+*	Adaptador DC para carga.
 
 
