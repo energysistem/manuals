@@ -1,4 +1,4 @@
-## EQ manual.
+## EQ manual
 
 El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
 
