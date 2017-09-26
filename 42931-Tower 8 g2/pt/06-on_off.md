@@ -12,4 +12,4 @@ Caso de não ter dispositivo nenhum ligado às entradas na parte traseira: "USB"
 
 No caso de ter ligados dispositivos a uma ou todas as entradas, o botão *Mudar função (2) ou (11)* alternará entre todas as opções disponíveis na ordem especificada:
 
- USB -> microSD -> Bluetooth -> Aux -> RCA -> Óptica -> Rádio FM
+ USB -> microSD -> Bluetooth -> Aux -> RCA -> Optical -> Rádio FM
