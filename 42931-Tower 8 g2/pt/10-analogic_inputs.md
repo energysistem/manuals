@@ -18,6 +18,6 @@ Pode ativar e desativar essa entrada através do botão *Mudar função (2) ou (
 É recomendável utilizar essa entrada para ligar de modo permanente dispositivos de aúdio externos como mini aparelhagens, televisões ou mesas de mistura. 
 
 
-**Importante:** Em ambos os casos, tem que utilizar o leitor externo ao que ligue a sua *Energy Tower 8 g2* para controlar as funções de reprodução (mudar faixa, ajustar o volume e equalização).
+**Importante:** Em ambos os casos, tem que utilizar o leitor externo ao que ligue a sua *Energy Tower 8 g2* para controlar as funções de reprodução (mudar faixa, ajustar volume e equalização).
 
 
