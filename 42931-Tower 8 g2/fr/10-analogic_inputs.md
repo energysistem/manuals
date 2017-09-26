@@ -1,19 +1,21 @@
-## Mode de lecture
+## Entrées analogiques mini jack et RCA
 
-En appuyant sur la touche *Changement du mode de répétition (15)* vous pouvez choisir parmi 4 options :
+Votre *Energy Tower 8 g2* est munie de deux entrées stéréo analogiques pour connecter des appareils externes. Une entrée est de type mini jack (câble fourni) et l'autre de type RCA. 
 
-1) **ALL :** Votre appareil répétera la lecture de tout le contenu de votre mémoire. 
+#### Entrée mini jack
+Votre *Energy Tower 8 g2* est équipée d'*Entrée analogique jack 3,5 mm (24)* qui vous permet de connecter un lecteur en utilisant un câble audio jack de 3,5 mm.
 
-Les dossiers de mémoires externes sont lus dans l'ordre chronologique d'écriture et les chansons dans le dossier sont lues dans l'ordre alphabétique.
+Dès que le câble sera branché à cette entrée, le mode « Line-in » sera automatiquement activé et « AUX » s'affichera sur l'écran *Affichage (6)*. Vous pourrez changer la fonction même si ce câble est connecté.
 
-Par exemple: si vous copiez deux dossiers de musique 'A' et 'B', premièrement il faut copier le dossier 'B' et puis, après le dossier 'A'. De cette façon, la chanson qui sonne avant les autres sera la première chanson par ordre alphabétique dans le dossier 'B'.
+Pour lancer, arrêter ou reprendre la lecture, appuyez sur la touche *Lecture/ Pause (4)* sur le panneau ou sur la télécommande *(18)*.
+Son usage est recommandé pour de petits appareils tels que les lecteurs mp3 ou smartphones. 
 
-   Vous trouverez ci-après un schéma de l'ordre de lecture :
+#### Entrée RCA
+Cette connexion est placée sur la partie supérieure arrière nommée « INPUT », qui est conçue pour connecter de façon permanente votre téléviseur ou chaîne stéréo. 
 
-   ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
+Vous pourrez activer et désactiver cette entrée grâce à la touche *Mode (2) ou (11)*.
 
-2) **ONE :** Votre appareil répétera la chanson en cours de lecture.
+Son usage est recommandé pour connecter des systèmes audio externes de façon permanente tels que des chaînes Hi-Fi, téléviseurs ou tables de mixage. 
 
-3) **FOLDER :** Votre appareil répétera le contenu du dossier en cours de lecture.
 
-4) **RANDOM :** Lecture aléatoire de tout le contenu de votre mémoire.
+**Note :** Dans les deux cas, le contrôle de la musique (changement de chanson, volume d'entrée et égalisation) dépendra de l'appareil de lecture externe auquel vous connecterez votre *Energy Tower 8 g2*.
