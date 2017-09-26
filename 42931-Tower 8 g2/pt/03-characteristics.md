@@ -27,7 +27,7 @@
 #### SAÍDAS ANALÓGICAS
 - Saída RCA (analógica e estéreo)
 
-#### Rádio FM
+#### RÁDIO FM
 - Conexão para antena IEC
 - Banda de frequências (FM): 87,5 ~ 108 MHz
 - Função de pesquisa automática
