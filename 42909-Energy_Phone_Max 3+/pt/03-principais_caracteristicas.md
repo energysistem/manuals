@@ -18,14 +18,14 @@ SISTEMA OPERATIVO
 
 CÂMARAS
 - Câmara traseira de 13 MP com sensor Samsung S5K3L8XXM3 AF e flash LED
-- Câmara frontal integrada de 5 MP com ângulo de visão (FOV) de 84,3º
+- Câmara frontal integrada de 5 MP com ângulo de visão (FOV) de 84º
 
 MEMÓRIA
 - 2 GB de RAM DDR3
-- Memória interna de 16 GB, expansível através de cartões microSD-HC/XC (até 128 GB mais)
+- Memória interna de 16 GB, expansível através de cartões microSD-HC/XC (até 256 GB mais)
 
 CONECTIVIDADE
-- 4G: 800/900/1800/2100/2600 MHz (FDD-LTE: BANDAS III / VII / XX)
+- 4G: 800/1800/2600 MHz (FDD-LTE: BANDAS III / VII / XX)
 - 3G:  900/2100 MHz (BANDAS WCDMA VIII / I)
 - 2G: 850/900/1800/1900 MHz (BANDAS GSM)
 - Bluetooth® 4.1
