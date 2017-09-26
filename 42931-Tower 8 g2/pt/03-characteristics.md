@@ -1,27 +1,41 @@
 ## Especificações técnicas
 
-#### CONECTIVIDADE
-- Bluetooth 4.1, classe II
-- Suporta protocolos HSP / HFP / A2DP / AVRCP 
-- Raio de alcance: Até 10 m
- 
-#### DRIVERS
-- Resposta em frequência: 40 Hz ~ 20 KHz
-- Sensibilidade (SPL): 115 ± 3 dB
-- Diâmetro: 13 mm
+#### ÁUDIO:
+- Sistema de som 2.1
+- Potência: 120 W 
+- Processador digital de som (DSP) de 24 bits / 96 kHz
+- Tweeter de 1,5" com cúpula em seda
+- Altifalantes frontais bullet de 4" de gama total
+- Subwoofer de 6,5"
+- Resposta em frequência: 20 Hz ~ 20 KHz
+- Equalizador de 2 bandas (analógico)
+- Corpo dos altifalantes em madeira
 
-#### MICROFONE
-- Sensibilidade: -42 dB ± 3 dB (@1 Khz)
-- Tecnologia de redução de ruído
+#### LIGAÇÃO BLUETOOTH
+- Protocolos A2DP; AVRCP
+- Bluetooth 4.1 Classe II 
+- Raio de alcance até 10 m
 
-#### BATERIA:
-- Capacidade: 80 mAh
-- Tipo: polímero de lítio
-- Autonomia: até 5 horas *
-- Porta de carregamento: microUSB
-- Tempo de carregamento: 1,5 horas
+#### ENTRADAS DIGITAIS
+- Entrada de áudio óptica (S/PDIF)
+- Decodificador de cartões microSD e memórias USB até 64 GB Formatos suportados: WAV e MP3
+
+#### ENTRADAS ANALÓGICAS
+- Entrada para mini Jack de 3,5 mm (analógica estéreo)
+- Entrada RCA (analógica e estéreo) 
+
+#### SAÍDAS ANALÓGICAS
+- Saída RCA (analógica e estéreo)
+
+#### Rádio FM
+- Conexão para antena IEC
+- Banda de frequências (FM): 87,5 ~ 108 MHz
+- Função de pesquisa automática
+- Função RDS
 
 #### OUTROS:
-- Indicador do nível da bateria dos auscultadores em dispositivos iOS
-
-** Autonomia de funcionamiento aproximada em volume médio. Quanto maior é o volume, maior é o consumo da bateria.
+- Ecrã LCD de 2,2"
+- Telecomando com raio de alcance até 10 metros
+- Porta USB de carregamento: 5 V, 2 A
+- Alimentação eléctrica: 100 - 240 V / 50 - 60 Hz
+- Cabo IEC de 150 cm
