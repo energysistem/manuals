@@ -6,7 +6,7 @@ Aconselhamos deslizar o interruptor na parte traseira para a posição "OFF" se 
 
 
 ## Mudar função
-Prima o botão *Mudar função" (2) ou (11)* para mudar de uma função para outra e poderá ver a função escolhida no *ecrã (6)*. 
+Prima o botão *Mudar função (2) ou (11)* para mudar de uma função para outra e poderá ver a função escolhida no *ecrã (6)*. 
 
 Caso de não ter dispositivo nenhum ligado às entradas na parte traseira: "USB", "microSD", "AUX 1" ou "AUX2", o botão *Mudar função (2) ou (11)* mudará alternadamente para os modos de rádio FM, Bluetooth, Aux (line-in) ou RCA.
 
