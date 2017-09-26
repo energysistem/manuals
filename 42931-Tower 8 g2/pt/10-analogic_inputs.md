@@ -7,7 +7,7 @@ A sua *Energy Tower 8 g2* dispõe de uma *entrada analógica jack 3,5 mm (24)* p
 
 Quando liga o cabo à entrada, o modo "Line-in" é ativado automaticamente e verá aparecer a palavra "AUX" no *ecrã (6)*. Pode mudar a função, mesmo se o cabo está ligado.
 
-Prima o botão *Reproduzir / Parar (4)* no painel ou o mesmo botão no telecomando *(18)* para começar, parar ou continuar a reproduzir o conteúdo.
+Prima o botão *Início / Parar (4)* no painel ou o mesmo botão no telecomando *(18)* para começar, parar ou continuar a reproduzir o conteúdo.
 É recomendável utilizar essa entrada de áudio para ligar dispositivos pequenos como leitores MP3 ou smartphones. 
 
 #### Entrada RCA
