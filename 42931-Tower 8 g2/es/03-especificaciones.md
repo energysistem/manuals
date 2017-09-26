@@ -34,7 +34,7 @@
 - Función RDS.
 
 #### OTROS
-- Pantalla LCD de 2.4”.
+- Pantalla LCD de 2.2”.
 - Mando a distancia de hasta 10 metros de alcance.
 - Puerto USB de carga: 5V, 2A.
 - Alimentación: 100-240 V / 50-60 Hz.
