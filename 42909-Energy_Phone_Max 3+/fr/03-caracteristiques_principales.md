@@ -18,15 +18,15 @@ SYSTÈME D'EXPLOITATION
 
 APPAREILS PHOTO
 - Appareil photo arrière 13 Mpx avec capteur Samsung S5K3L8XXM3 AF et flash LED
-- Appareil photo frontal de 5 Mpx avec angle FOV de 84,3º
+- Appareil photo frontal de 5 Mpx avec angle FOV de 84º
 
 MÉMOIRE
 - 2 Go RAM DDR3
-- 16 Go de mémoire interne extensible avec des cartes microSD-HC/XC (jusqu'à 128 Go)
+- 16 Go de mémoire interne extensible avec des cartes microSD-HC/XC (jusqu'à 256 Go)
 
 CONNECTIVITÉ
-- 4G : 800/900/1800/2100/2600 MHz (BANDES FDD-LTE III / VII / XX)
-- 3G : 900/2100 MHz (BANDES WCDMA VIII / I )
+- 4G : 800/1800/2600 MHz (BANDES FDD-LTE III / VII / XX)
+- 3G : 900/2100 MHz (BANDES WCDMA VIII / I)
 - 2G : 850/900/1800/1900 MHz (BANDES GSM)
 - Bluetooth® 4.1
 - WI-FI 802.11 a/b/g/n
