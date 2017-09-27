@@ -1,10 +1,10 @@
-## <quick_guide> Product content
+## Product content
 
-* Energy Earphones 6 True Wireless
-* MicroUSB charging cable
-* Carrying and protection case 
-* Flexible ear hooks
-* Interchangeable ear tips
+* Energy Tower 8 g2
+* Remote control
+* Two AAA batteries
+* Power cable
+* 3.5 mm jack audio cable
+* Radio antenna
 * Quick guide
 
-</quick_guide>
