@@ -4,7 +4,7 @@ In order to synchronize a Bluetooth device with your *Energy Tower 8 g2*, select
 
 Press "connect" when you see "Energy Tower 8 g2" on your Bluetooth device screen.  The devices will be connected immediately. You will hear a sound that confirms that both devices have been paired correctly.
 
-From that moment on, you *Energy Tower 8 g2* will synchronize automatically with that Bluetooth device whenever it is within a distance range of 10 metres.
+From that moment on, your *Energy Tower 8 g2* will synchronize automatically with that Bluetooth device whenever it is within a distance range of 10 metres.
 
 If you would like to synchronize another Bluetooth device, press and hold the *Start/ Pause (4)* button for 2 seconds in order to carry out a new search.
 
