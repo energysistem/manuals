@@ -1,6 +1,6 @@
 ## USB port to charge external devices
 
-Your *Energy Tower 8 g2* includes an USB charging port (21)* to connect an USB cable and charge other devices such as smartphones, tablets or MP3 players, even if the tower is playing music.
+Your *Energy Tower 8 g2* includes an *USB charging port (21)* to connect an USB cable and charge other devices such as smartphones, tablets or MP3 players, even if the tower is playing music.
 
 "DC OUT" technical specifications: 
 
