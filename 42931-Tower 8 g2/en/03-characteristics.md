@@ -13,7 +13,7 @@
 
 #### BLUETOOTH CONNECTION
 - A2DP; AVRCP protocols
-- Bluetooth 4.1 Class II. 
+- Bluetooth 4.1 Class II
 - Distance range up to 10 m
 
 #### DIGITAL INPUTS
@@ -35,7 +35,7 @@
 
 #### OTHER FEATURES
 - 2.2" LCD screen
-- Remote control with up to 10 meters range.
+- Remote control with up to 10 meters range
 - USB charging port: 5 V, 2 A
 - Power supply: 100-240 V / 50-60 Hz
 - IEC power cable (150 cm)
