@@ -8,4 +8,4 @@ You can use either the antenna provided with the product or connect the tower to
 
    ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563b1c48efa.jpg)
    
-
+The radio of your Energy Tower 8 g2 has RDS function, which allows you to see the name of the selected radio station on screen. It may take a few minutes for the information to appear on screen since it depends on the received radio signal.
