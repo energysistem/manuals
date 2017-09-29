@@ -8,7 +8,7 @@ Lembre-se de que pode mudar o modo de reprodução premindo o botão *Mudar fun�
 
 Se desliga a *Energy Tower 8 g2* ou extrai uma das memórias, o momento em que a reprodução dos ficheiros é interrompida fica armazenado na memória interna do dispositivo. Se liga a mesma unidade de memória outra vez, a coluna começa a reproduzir o conteúdo a partir do momento no que a reprodução foi interrompida.
 
-Utilize os botões *Avançar (3)* e *Voltar (9)* no painel ou os mesmos botões no telecomando *(13) e (19)* para mudar de faixa. Prima durante 4 segundos os botões *Avançar (3)* e *Voltar (9)* no painel ou os mesmos botões no telecomando *(13) e (19)* para avançar ou retroceder na faixa que está a reproduzir.
+Utilize os botões *Avançar (3)* e *Voltar (9)* no painel ou os mesmos botões no telecomando *(13) e (19)* para mudar de faixa. Prima uns segundos os botões *Avançar (3)* e *Voltar (9)* no painel ou os mesmos botões no telecomando *(13) e (19)* para avançar ou retroceder na faixa que está a reproduzir.
 Também pode mudar a pasta premindo o botão *Mudar pasta (17)* no telecomando.
 
 ## Modo de reprodução
