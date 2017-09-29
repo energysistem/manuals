@@ -1,15 +1,17 @@
 ## Especificaciones técnicas
 
-#### AUDIO
+#### GENERAL
 - Sistema de sonido 2.1.
 - Potencia: 120 W. 
 - Procesador de audio digital (DSP) de 24 bits / 96 kHz.
-- Altavoz de agudos de cúpula de seda de 1,5 “.
-- Altavoces frontales bullet de rango completo de 4”.
-- Altavoz subwoofer de 6,5”.
 - Respuesta en frecuencia: 20 Hz ~ 20 KHz.
 - Ecualizador analógico de 2 bandas.
 - Caja acústica de madera.
+
+#### ALTAVOCES
+- 1 Altavoz de agudos de cúpula de seda de 1,5“ y 10 W.
+- 2 Altavoces de rango completo tipo bullet de 4” y 30 W.
+- 1 Altavoz subgraves de 6,5” y 50 W.
 
 #### CONEXIÓN BLUETOOTH
 - Protocolos A2DP; AVRCP.
