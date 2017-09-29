@@ -8,4 +8,4 @@ Pode utilizar a antena de rádio fornecida com o produto ou pode ligar a coluna 
 
    ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563b1c48efa.jpg)
    
-A rádio da sua Energy Tower 8 g2 incorpora a função RDS, a qual permite ver no ecrã o nome da estação de rádio. A informação pode demorar vários minutos a aparecer no ecrã. Isso vai depender das ondas de rádio.
+A rádio da sua *Energy Tower 8 g2* incorpora a função RDS, a qual permite ver no ecrã o nome da estação de rádio. A informação pode demorar vários minutos a aparecer no ecrã. Isso vai depender das ondas de rádio.
