@@ -17,7 +17,8 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 EN 300 328 V2.1.1 (2016-11) 
 EN 301 489-1 V2.1.1 (2017-02) 
 EN 301 489-17 V3.1.1 (2017-02) 
-EN 62479:2010 
+EN 62479:2010
+EN 60065:2014 
 
 de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
 
