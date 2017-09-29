@@ -8,7 +8,7 @@ Bear in mind that you will be able to switch the playback mode by pressing the *
 
 If you turn off the *Energy Tower 8 g2* or remove any storage card or USB stick, the internal memory will save the moment when you paused playback. If you insert the same removable card or stick once again, playback will resume from the point at which it stopped.
 
-To browse songs, press the *Next (3)* and *Back (9)* buttons on the display or the same buttons *(13) and (19)* on the remote control. To move to the next or the previous track, press the *Next (3)* and *Back (9)* buttons on the display or the same buttons *(13) and (19)* on the remote control for 4 seconds.
+To browse songs, press the *Next (3)* and *Back (9)* buttons on the display or the same buttons *(13) and (19)* on the remote control. To move to the next or the previous track, press and hold the *Next (3)* and *Back (9)* buttons on the display or the same buttons *(13) and (19)* on the remote control.
 You will be able to browse through another folder by pressing the *Change folder (17)* button on the remote control.
 
 ## Playback mode
