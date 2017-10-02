@@ -17,7 +17,7 @@ Pulsando el botón *Cambio de modo de repetición (15)* puedes seleccionar una d
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
+Las carpetas y archivos contenidos en la raíz de las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
 Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en la carpeta "B" y después en la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
 
