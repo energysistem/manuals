@@ -18,11 +18,11 @@ Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes sel
 
 Las carpetas y las canciones contenidas en las memorias externas se leen por orden alfabético.
 
-Se leen primero las canciones contenidas en la raíz de la memoria en orden alfabético y luego las canciones contenidas en carpetas. Se empieza por la primera carpeta ordenada alfabeticamente y, dentro de esta carpeta, se leen las canciones también en orden alfabético.
+Se leen primero las canciones contenidas en la raíz de la memoria en orden alfabético y luego las canciones contenidas en carpetas. El orden de lectura de las carpetas es por orden de creación de la misma. Una vez dentro de la carpeta se realiza el mismo proceso y se leen las canciones por orden alfabético.
 
    A continuación se muestra un diagrama del orden de lectura:
 
-   ![Esquema](http://static.energysistem.com/images/manuals/42360/59d21fc312fe6.jpg)
+   ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
 2) **ONE:** Se repite la canción que estás escuchando infinitas veces.
 
