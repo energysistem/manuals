@@ -1,6 +1,6 @@
 ## Micrófono.
 
-Tu *Energy Party 6* dispone de una *Entrada JACK para micrófono* (33) a la que puedes conectar el micrófono incluido. Está opción estará habilitada en todos los modos de uso. 
+Tu *Energy Party 6* dispone de una *Entrada JACK para micrófono* (33) a la que puedes conectar el micrófono incluido. Está opción estará habilitada en todos los modos de uso. El micrófono dispone de un interruptor de encendido en la empuñadura para conectar y desconectar la señal
 
 Puedes modificar la intensidad de la señal del micrófono gracias al *Volumen micrófono* (12); y el eco del mismo micrófono mediante el *Efecto eco del micrófono* (17). Ambos controles se encuentran en el panel superior.
 
