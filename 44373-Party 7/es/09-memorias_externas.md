@@ -16,13 +16,13 @@ Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes sel
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
+Las carpetas y las canciones contenidas en las memorias externas se leen por orden alfabético.
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+Se leen primero las canciones contenidas en la raíz de la memoria en orden alfabético y luego las canciones contenidas en carpetas. Se empieza por la primera carpeta ordenada alfabeticamente y, dentro de esta carpeta, se leen las canciones también en orden alfabético.
 
    A continuación se muestra un diagrama del orden de lectura:
 
-   ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
+   ![Esquema](http://static.energysistem.com/images/manuals/42360/59d21fc312fe6.jpg)
 
 2) **ONE:** Se repite la canción que estás escuchando infinitas veces.
 
