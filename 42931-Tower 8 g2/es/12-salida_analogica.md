@@ -12,6 +12,6 @@ Para realizar este montaje necesitarás o bien un par de cables RCA spliter o bi
 
 |  |  |  |
 |:-------|:-------|:-------|
-|Cable spliter RCA hembra - RCA macho|Cable spliter RCA macho - RCA macho|Adaptador RCA mono RCA estéreo|
+|Cable spliter RCA hembra - RCA macho|Cable spliter RCA macho - RCA macho|Adaptador RCA mono - RCA estéreo|
 |  |  |  |
 |![Schema](http://static.energysistem.com/images/manuals/42931/59d1fe06a9ac9.jpg)|![Schema](http://static.energysistem.com/images/manuals/42931/59d205e756cb3.jpg)|![Schema](http://static.energysistem.com/images/manuals/42931/59d20173ddef7.jpg)|
