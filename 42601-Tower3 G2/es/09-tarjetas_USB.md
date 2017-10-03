@@ -12,7 +12,7 @@ Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del 
 
 ## Modo de reproducción
 
-Pulsando durante 2 segundos el botón *Cambio de función* (4) o bien el botón *RPT (23) del mando a distancia; puedes seleccionar una de estas 3 modos de reproducción:
+Pulsando durante 2 segundos el botón *Cambio de función* (4) o bien el botón *Cambio de modo de reproducción (23)* del mando a distancia; puedes seleccionar una de estas 3 modos de reproducción:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
