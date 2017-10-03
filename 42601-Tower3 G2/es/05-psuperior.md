@@ -5,5 +5,5 @@
 
 | | |
 |:-------|:-------|
-|![Schema](http://static.energysistem.com/images/manuals/42601/59d33ec305c0f.jpg)|13. Encendido / Apagado <br> 14. Silenciar <br>15. Cambio de función <br>16. Búsqueda FM <br>17. Volumen + <br>18. Avance <br>19. Volumen - <br>20. Retroceso <br>21. Pausa / Reproducción <br>22. Equalización predefinida <br>23. Cambio de modo de reproducción <br>|
+|![Schema](http://static.energysistem.com/images/manuals/42601/59d33ec305c0f.jpg)|13. Encendido / Apagado <br> 14. Silenciar <br>15. Cambio de función <br>16. Búsqueda FM <br>17. Volumen + <br>18. Avance <br>19. Volumen - <br>20. Retroceso <br>21. Pausa / Reproducción <br>22. Equalizaciones predefinidas <br>23. Cambio de modo de reproducción <br>|
 
