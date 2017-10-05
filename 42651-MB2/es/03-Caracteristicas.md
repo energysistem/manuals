@@ -7,13 +7,13 @@
 *	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
 *	Ligero y de reducidas dimensiones.
-*	Distancia de hasta 10 m de alcance.
+*	Distancia Bluetooth de hasta 10 metros de alcance.
 *	Batería de litio recargable.
 
 ### Características técnicas.
 
 *	Sistema de sonido 2.0.
-*	Bluetooth v4.0, Clase II. Alcance hasta 10 m.
+*	Bluetooth v4.0, Clase II. Alcance hasta 10 metros.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Indicador de carga en dispositivos iOS.
 *	Potencia: 6 W.
