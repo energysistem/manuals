@@ -6,7 +6,7 @@
 *	Fácil sincronización con smartphones, tablets y cualquier otro dispositivo Bluetooth.
 *	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
-*	Distancia de hasta 10 m de alcance.
+*	Alcance Bluetooth: hasta 10 metros.
 *	Batería de litio recargable.
 
 ### Características técnicas.
@@ -14,7 +14,7 @@
 *	Sistema de sonido 2.0. Estéreo.
 * Altavoces: 2 dinámicos de rango completo.
 * Radiadores pasivos: 1 membrana.
-*	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
+*	Bluetooth v4.1, Clase II. Alcance hasta 10 metros.
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Potencia: 20 W.
 *	Sensibilidad del micrófono: -42 dB.
