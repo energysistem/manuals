@@ -3,10 +3,10 @@
 ### Características generales.
 *	Altavoz portátil Bluetooth®.
 *	Conexiones: Bluetooth® y entrada de audio line-in de 3,5 mm.
-*	Fácil sincronización con smartphones, tablets y cualquier otro dispositivo Bluetooth.
+*	Fácil sincronización con Smartphones, tablets y cualquier otro dispositivo Bluetooth.
 *	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
 *	Sincronización sin códigos.
-*	Distancia de hasta 10 m de alcance.
+*	Alcance Bluetooth: hasta 10 metros.
 *	Batería de litio recargable.
 
 ### Características técnicas.
