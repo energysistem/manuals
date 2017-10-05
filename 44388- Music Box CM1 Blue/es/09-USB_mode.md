@@ -14,4 +14,4 @@ Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos
   
   
   
-**Nota:** Se recomienda no interrumpir el proceso de lectura, no extraigas la memoria mientras el altavoz está leyendo el contenido.
+**Nota:** Se recomienda no interrumpir el proceso de lectura, por favor, no extraigas la memoria mientras el altavoz está leyendo el contenido.
