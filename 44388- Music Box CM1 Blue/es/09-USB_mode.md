@@ -2,7 +2,7 @@
 
 Si lo prefieres también puedes reproducir música utilizando una memoria USB. 
 
-Conectar una memoria USB y espera unos segundos hasta que el altavoz lea el contenido de la memoria * e inicie la reproducción de manera automática.Para cambiar nuevamente de modo de reproducción tan solo tienes que pulsar el botón *CAMBIO DE MODO* (3).
+Conectar una memoria USB y espera unos segundos hasta que el altavoz lea el contenido de la memoria* (ver nota) e inicie la reproducción de manera automática. Para cambiar nuevamente de modo de reproducción tan solo tienes que pulsar el botón *CAMBIO DE MODO* (3).
 
 Puedes navegar por las carpetas de tu memoria USB utilizando el botón *CAMBIO DE CARPETA* (5). Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
 
