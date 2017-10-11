@@ -14,7 +14,7 @@ País de fabricación: China.
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos:
 
-EN 300 328 V2.1.1 (2016-11) 
+EN 300 328 V2.1.1 (2016-11)
 EN 301 489-1 V2.1.1 (2017-02) 
 EN 301 489-17 V3.1.1 (2017-02) 
 EN 62479:2010
