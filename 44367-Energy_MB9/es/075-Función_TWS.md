@@ -1,15 +1,6 @@
-## Función EDS
+## Función TWS (True Wireless Stereo)
 
-Adicionalmente a la función Bluetooth, tu *Energy Music Box 9* dispone de una función extra que te permite sincronizar varios *Energy Music Box 9* a la misma reproducción. Para ello se utiliza la conexión EDS en la que uno de los *Energy Music Box 9* es el maestro y el que sincroniza y transmite la señal al resto de *Energy Music Box 9* que actúan como exclavos de este.
+Esta opción te permite conectar de manera inalámbrica con una distancia máxima de 10 metros otro Energy Music Box 9 para duplicar la potencia y realizar un sistema estéreo separando los canales izquierdo y derecho. 
 
-El dispositivo maestro será aquel al que te conectes por bluetooth desde tu reproductor de música (smartphone, tablet, mp3, etc). 
+Enciende tus dos Energy Music Box 9, se emparejarán automáticamente y reproducirán el mismo contenido de manera sincronizada. Pulsa el botón TWS (13) para seleccionar el canal deseado en cada altavoz. Para desactivar y volver a activar la conexión TWS, mantén pulsado de nuevo el botón TWS (13).
 
-Para realizar la conexión EDS debes encender tus *Energy Music Box 9* y ponerlos con la función bluetooth tal y como se ha explicado anteriormente en este manual. Después mantén pulsados los botones *Sincronización TWS* (13) de ambos dispositivos y estos se enlazarán automáticamente. Escucharás un sonido de confirmación que verificará el emparejamiento.
-
-Con los True Wireless emparejados, tus *Energy Music Box 9* permiten una separación de canales (L y R) de la pista en reproducción. Para seleccionar el canal que debe sonar por cada altavoz debes pulsar el botón *Sincronización TWS* (13). Los leds *Indicadores TWS* (16) te indicarán que canal está seleccionado en cada *Energy Music Box 9*. 
-
-Hecho esto ya tienes listo tu sistema de audio en estéreo para reproducir tus canciones favoritas.
-
-**Nota 1**: La función True Wireless solo funciona si estás utilizando la función de bluetooth.
-
-**Nota 2**: La cantidad de altavoces a emparejar debe ser par.
