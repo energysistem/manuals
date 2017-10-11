@@ -28,10 +28,10 @@ Finestrat, 01 de Julio de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
-Daniel Havillio
+Marco Antonio Velázquez Fierro
 Product Management Director
 
-![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+![](http://static.energysistem.com/images/manuals/44367/59ddd4d012ae7.jpg)
 
 
 
