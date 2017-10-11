@@ -6,8 +6,7 @@ La autonomía de tu Energy Music Box 9 puede variar según su modo de empleo y n
 |:-------|:-------|:-------|
 | VOLUMEN MÍNIMO | VOLUMEN MEDIO | VOLUMEN MÁXIMO | <br>
 | 25 horas | 20 horas | 4 horas | <br>
-| 25 horas | 20 horas | 4 horas |<br>
-| 25 horas | 20 horas | 4 horas |<br>
+
 
 <br><br>
 
