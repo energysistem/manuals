@@ -1,6 +1,6 @@
 ## Control de reproducción
 
-Una vez sincronizado tu *Energy Music Box 9* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones *Volumen +* (3) o *Volumen -* (2). Escucharás un pitido cuando alcances el volumen máximo y el mínimo.
+Una vez sincronizado tu *Energy Music Box 9* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones *Volumen +* (3) o *Volumen -* (2). Escucharás un sonido de aviso cuando alcances el volumen máximo ó mínimo.
 
 A través del botón *Inicio/Pausa y Control de llamada* (5) inicia, pausa o reanuda la reproducción.
 
