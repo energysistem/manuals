@@ -19,7 +19,7 @@
 *	Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Potencia: 40 W.
 *	Diámetro de los altavoces:
-    - Rango completo: 2,5"
+    - Rango completo: 2.5"
     - Alta frecuencia 1".
 *	Respuesta en frecuencia: 20 - 20.000 Hz.
 *	Relación señal/ruido > 80 dB.
