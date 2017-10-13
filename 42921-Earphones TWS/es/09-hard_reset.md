@@ -7,4 +7,4 @@ Puedes realizar una restauración de fábrica de tus *Energy Earphones 6 True Wi
 
 3) Apaga los auriculares de nuevo.
 
-4) Enciende de nuevos los auriculares y  entrarán en modo búsqueda (el LED indicador del auricular izquierdo parpadeará en color Azul-Rojo).
+4) Enciende de nuevo los auriculares y  entrarán en modo búsqueda (el LED indicador del auricular izquierdo parpadeará en color Azul-Rojo).
