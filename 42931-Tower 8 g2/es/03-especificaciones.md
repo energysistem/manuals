@@ -37,7 +37,7 @@
 
 #### OTROS
 - Pantalla LCD de 2.2”.
-- Mando a distancia de hasta 6 metros de alcance.
+- Mando a distancia de hasta 7 metros de alcance.
 - Puerto USB de carga: 5V, 2A.
 - Alimentación: 100-240 V / 50-60 Hz.
 - Cable de alimentación IEC de 150 cm.
