@@ -10,7 +10,7 @@ Mientras esté encendido el dispositivo el INDICADOR DE ESTADO (7) se mantendrá
 
 ### Carga de la batería
 
-Cuando la batería esté a punto de agotarse, los auriculares emitirán un pitido avisando de esta situación. Repetirá el aviso cada varios minutos hasta que la batería se agote completamente. Para recargarla conecta el extremo microUSB del cable USB (incluido) a la CONEXIÓN DE CARGA (6) de los auriculares, y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El INDICADOR DE ESTADO (7) se iluminará en rojo y cuando la carga sea completa cambiará a color azul. El tiempo aproximado de carga es de 4 horas.
+Cuando la batería esté a punto de agotarse, los auriculares emitirán un pitido avisando de esta situación. Repetirá el aviso cada varios minutos hasta que la batería se agote completamente. Para recargarla conecta el extremo microUSB del cable USB (incluido) a la CONEXIÓN DE CARGA (6) de los auriculares, y el otro extremo USB a cualquier otro aparato con puerto USB que pueda proporcionar energía (PC, cargador USB de pared, de coche, etc.). El INDICADOR DE ESTADO (7) se mantendrá iluminado en rojo hasta que la carga se complete. El tiempo aproximado de carga es de 4 horas.
 
 
 **Consideraciones importantes:** 
