@@ -12,23 +12,23 @@
 
 ### Características técnicas.
 
-#### SISTEMA DE SONIDO
+#### Sistema de sonido.
 * Sistema: 2.0.
 * Altavoces: 2 dinámicos de rango completo y 2 de alta frecuencia.
 * Radiador pasivo: 1 membrana.
 * THD < 1%.
 * Relación Señal / Ruido: > 90 dB.
 
-#### POTENCIA
+#### Potencia.
 * 40 W.
 
-#### CONECTIVIDAD
+#### Conectividad.
 * Bluetooth v4.2, clase II.
 * Conexión True Wireless Stereo.
 * Entrada auxiliar de 3,5 mm.
 * Función radio FM de 87.5 a 108 MHz con presintonías.
 
-#### REPRODUCCIÓN USB/microSD
+#### Reproducción USB/microSD
 * Decodificador USB/microSD: reproduce archivos MP3 / WAV desde memorias externas de hasta 128 GB de capacidad en formato FAT / FAT32.
 
 
