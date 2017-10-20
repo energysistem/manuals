@@ -12,19 +12,25 @@
 
 ### Características técnicas.
 
-*	Sistema de sonido 2.0. 
-*   Altavoces: 2 dinámicos de rango completo y 2 de alta frecuencia.
-*   Radiadores pasivos: 1 membrana trasera.
-*	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
-*	Soporta protocolos HSP / HFP / A2DP /AVRCP.
-*	Potencia: 40 W.
-*	Diámetro de los altavoces:
-    - Rango completo: 2.5"
-    - Alta frecuencia 1".
-*	Respuesta en frecuencia: 20 - 20.000 Hz.
-*	Relación señal/ruido > 80 dB.
-*	THD < 1%.
-*	Sensibilidad del micrófono manos libres: -42 dB.
+#### SISTEMA DE SONIDO
+* Sistema: 2.0.
+* Altavoces: 2 dinámicos de rango completo y 2 de alta frecuencia.
+* Radiador pasivo: 1 membrana.
+* THD < 1%.
+* Relación Señal / Ruido: > 90 dB.
+
+#### POTENCIA
+* 40 W.
+
+#### CONECTIVIDAD
+* Bluetooth v4.2, clase II.
+* Conexión True Wireless Stereo.
+* Entrada auxiliar de 3,5 mm.
+* Función radio FM de 87.5 a 108 MHz con presintonías.
+
+#### REPRODUCCIÓN USB/microSD
+* Decodificador USB/microSD: reproduce archivos MP3 / WAV desde memorias externas de hasta 128 GB de capacidad en formato FAT / FAT32.
+
 
 ### Características de la batería recargable.
 *	Capacidad: 4000 mAh.
