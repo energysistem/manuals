@@ -10,7 +10,7 @@ Lorsque l'appareil sera allumé, l'INDICATEUR (5) clignotera en bleu.
 
 ### Charge de la batterie
 
-Lorsque la batterie est faible, le casque émet un signal sonore d'avertissement. Ce signal sera répété toutes les quelques minutes jusqu'à ce que la batterie sera complètement épuisée. Pour la recharger, connectez l'extrémité microUSB du câble USB (fourni) au CONNECTEUR DE CHARGE (4) du casque et l'autre extrémité USB à un appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.). L'INDICATEUR (5) s'allumera en rouge jusqu'à  la charge sera complète. Le temps de charge approximatif est de 4 heures.
+Lorsque la batterie est faible, le casque émet un signal sonore d'avertissement. Ce signal sera répété toutes les quelques minutes jusqu'à ce que la batterie sera complètement épuisée. Pour la recharger, connectez l'extrémité microUSB du câble USB (fourni) au CONNECTEUR DE CHARGE (4) du casque et l'autre extrémité USB à un appareil avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, de voiture, etc.). L'INDICATEUR (5) s'allumera en rouge jusqu'à ce que la charge sera complète. Le temps de charge approximatif est de 4 heures.
 
 
 **Considérations importantes :** 
