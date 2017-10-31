@@ -1,17 +1,16 @@
-## Funciones Principales.
+## Fonctions principales
 
-### Encendido y apagado del dispositivo.
+### Allumer et éteindre
 
-Para encender el dispositivo mantén pulsado el botón *Encendido/Apagado* (1) durante 2 segundos y verás que los botones se iluminarán. Al encenderse el dispositivo, escucharás un sonido de bienvenida. Mientras el dispositivo esté encendido, el botón *Encendido/Apagado* (1) continuará iluminado.
+Pour allumer l'appareil, maintenez enfoncée la touche *Allumer/ Éteindre* (1) pendant 2 secondes et vous verrez les touches s'allumer. Lorsque vous allumez l'appareil, vous écouterez un son de bienvenue. Le bouton *Marche/ Arrêt* (1) restera allumé lorsque l'appareil sera allumée.
 
-Para apagar el dispositivo mantén pulsado 2 segundos el botón *Encendido/Apagado* (1). Escucharás un sonido de despedida y los botones se apagarán.
+Pour éteindre l'appareil, appuyez sur la touche *Marche/ Arrêt* (1) pendant 2 secondes. Vous entendrez un son et les boutons s'éteindront.
 
-### Carga de la batería.
+### Charge de la batterie
 
-Cuando la carga de la batería se encuentre por debajo del 10%, un el botón *Encendido/Apagado* (1) se iluminará en rojo. Por debajo del 5% empezará a parpadear en rojo y a emitir un sonido de aviso de manera periódica. Para recargarlo, conecta el adaptador de carga (incluido) a la *Conexión de carga* (7) de tu *Energy Music Box 9*, y el otro extremo a la red eléctrica. El *Indicador de carga* (12) se iluminará en rojo y cuando la carga se complete, se apagará. El tiempo aproximado de carga es de 2 horas y media.
+Lorsque la batterie sera en dessous de 10 %, le bouton *Marche/ Arrêt* (1) s'allumera en rouge. En dessous de 5 %, il commencera à clignoter et émettra un son d'avertissement périodiquement. Pour la recharger, connectez l'adaptateur de charge (fourni) au *Connecteur de charge* (7) de votre *Energy Music Box 9*, et l'autre extrémité au réseau électrique. L'*Indicateur de charge* (12) deviendra rouge et lorsque la charge sera complète, il s'éteindra. Le temps de charge approximatif est de 2 heures et demie.
 
-*Recomendaciones*:
+*Recommandations* :
 
-- Usa el adaptador DC de corriente de 12V 1.5A que viene incluido en el paquete.
-- No dejes tu *Energy Music Box 9* durante un periodo largo de tiempo con la batería completamente descargada. 
-
+- Utilisez l'adaptateur secteur DC de 12 V 1,5 A fourni avec le produit.
+- Ne pas laisser la batterie de votre *Energy Music Box 9* complètement déchargée pendant une longue période. 
