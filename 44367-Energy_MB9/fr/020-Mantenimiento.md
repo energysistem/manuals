@@ -1,12 +1,12 @@
-## Cuidado y mantenimiento
+## Soin et entretien
 
-*	No expongas tu *Energy Music Box 9* a humedad o altas temperaturas.
+*	Ne pas exposer votre *Energy Music Box 9* à l'humidité ou à des températures élevées.
 
-*	No uses productos de limpieza corrosivos o abrasivos.
+*	Ne pas utiliser des produits de nettoyage corrosifs ou abrasifs.
 
-*	No lo desmontes. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
+*	Ne pas démonter. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
 
-* No situes tu *Energy Music Box 9* al borde de una mesa o estantería para evitar caídas. El altavoz puede desplazarse cuando se está usando a volumen máximo debido a la vibración de la carcasa. 
+* Ne placez pas votre *Energy Music Box 9* au bord d'une table ou étagère afin d'éviter des chutes. L'enceinte peut être déplacée lorsqu'elle est au niveau maximum du volume suite à la vibration du boîtier. 
 
-*	Apaga tu *Energy Music Box 9* cuando no esté en uso y no lo dejes durante un largo periodo de tiempo con la batería completamente descargada.
+*	 Vérifiez que votre *Energy Music Box 9* est éteinte lorsqu'elle n'est pas en cours d'utilisation et ne laissez pas la batterie complètement déchargée pendant une longue période.
 
