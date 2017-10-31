@@ -1,8 +1,5 @@
+## Entrée ligne d'audio
 
-## Conexión de entrada de Audio.
+Il est également possible de profiter de votre *Energy Music Box 9* via l'*Entrée ligne d'audio* (8) qui vous permet de connecter votre lecteur en utilisant un câble audio avec jack de 3,5 mm (fourni). Cette fonction est indiquée sur le côté comme « BT ». 
 
-También es posible disfrutar de tu *Energy Music Box 9* utilizando la *Conexión de entrada de audio* (8) en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3.5 mm (incluido). Este modo está indicado en el lateral como "AUX". 
-
-**NOTA:** Mientras se utiliza el altavoz en modo "AUX", no es posible controlar la reproducción desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
-
-
+**NOTE :** Lorsque vous utilisez l'enceinte en mode « AUX », vous ne pourrez pas contrôler la lecture ou le volume depuis l'enceinte, mais depuis le lecteur connecté.
