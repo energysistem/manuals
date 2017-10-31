@@ -1,6 +1,8 @@
-## Función TWS (True Wireless Stereo)
+## Fonction TWS (True Wireless Stereo)
 
-Esta opción te permite conectar de manera inalámbrica con una distancia máxima de 10 metros otro Energy Music Box 9 para duplicar la potencia y realizar un sistema estéreo separando los canales izquierdo y derecho. 
+Cette option vous permet de connecter sans fil et à une distance maximale de 10 mètres un autre Energy Music Box 9 pour doubler la puissance et créer un système stéréo qui sépare les canaux gauche et droit. 
 
-Enciende tus dos Energy Music Box 9, se emparejarán automáticamente y reproducirán el mismo contenido de manera sincronizada. Pulsa el botón TWS (13) para seleccionar el canal deseado en cada altavoz. Para desactivar y volver a activar la conexión TWS, mantén pulsado de nuevo el botón TWS (13).
+Allumez vos deux Energy Music Box 9, appuyez sur le bouton TWS (13) sur chaque enceinte et elles seront automatiquement couplées. Elles diffuseront alors le même contenu simultanément. Appuyez encore une fois sur le bouton TWS (13) de l'appareil esclave pour sélectionner la chaîne souhaitée sur chaque enceinte. Pour désactiver ou réactiver la connexion TWS, maintenez enfoncé de nouveau le bouton TWS (13) pendant quelques secondes sur l'enceinte esclave.
+
+Lorsque la fonction True Wireless est activée, la lecture pourra être gérée sur l'appareil maître. Sur l'appareil esclave vous pourrez gérer le volume uniquement. Ces contrôles seront appliqués sur les deux enceintes, c'est-à-dire, si vous augmentez le volume sur l'une des deux, le volume des deux appareils augmentera.
 
