@@ -1,16 +1,11 @@
-## Funcionamiento de la garantía
+## Fonctionnement de la garantie
 
-Entra en http://www.energysistem.com/es/support y tras seleccionar el producto podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
+Lorsque vous entrez sur http://www.energysistem.com/fr/support et sélectionnez votre produit, vous trouverez les FAQ (réponses aux questions les plus fréquentes), les guides d'utilisation, les drivers et les mises à jour, ainsi que la possibilité de poser vos questions au service technique ou de gérer la garantie.
 
-Puedes consultar el manual en inglés, francés y portugués en el siguiente enlace web: https://www.energysistem.com/es/products/music_box/serie_music_box.
+Vous trouverez le manuel en anglais, français et portugais sur le lien suivant : https://www.energysistem.com/es/products/music_box/serie_music_box.
 
-También ponemos a tu disposición el teléfono para la gestión de garantía 902 294 294 (Teléfono de soporte técnico válido sólo para España). Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto.
+Autrement, vous pouvez vous adresser à votre vendeur avec votre facture d'achat.
 
-Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando tu factura o ticket de compra.
+*Marques.* Tous les autres noms de produits ou d'entreprises sont des marques de commerce ou marques déposées de leurs entreprises correspondantes. Les spécifications sont susceptibles d'être modifiées sans préavis. 
 
-*Marcas comerciales.* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías. Las especificaciones están sujetas a cambios sin previo aviso. 
-
-©2017 por Energy Sistem Technology, S.A. Todos los derechos reservados.
-
-
-
+©2017 par Energy Sistem Technology, S.A. Tous droits réservés.
