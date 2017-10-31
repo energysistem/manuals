@@ -10,19 +10,19 @@
 *	Jusqu'à 10 m de portée.
 *	Batterie rechargeable au lithium.
 
-### Spécifications techniques.
+### Spécifications techniques
 
-#### Système de son.
+#### Système de son
 * Système : 2.0.
 * Haut-parleurs : 2 dynamiques large bande et 2 haute fréquence
 * Radiateur passif : 1 membrane.
 * THD < 1 %.
 * Rapport signal/ bruit : > 90 dB.
 
-#### Puissance.
+#### Puissance
 * 40 W.
 
-#### Connectivité.
+#### Connectivité
 * Bluetooth v4.2, classe II.
 * Connexion True Wireless Stereo.
 * Entrée auxiliaire 3,5 mm.
@@ -32,7 +32,7 @@
 * Décodeur USB/ microSD : lecture de fichiers MP3/ WAV via mémoires amovibles avec capacité jusqu'à 128 Go au format FAT/ FAT32.
 
 
-### Caractéristiques de la batterie rechargeable.
+### Caractéristiques de la batterie rechargeable
 *	Capacité : 4000 mAh.
 *	Adaptateur de 12 V 1,5 A avec système de charge par connecteur DC.
 *	Temps de charge : 2,5 heures.
