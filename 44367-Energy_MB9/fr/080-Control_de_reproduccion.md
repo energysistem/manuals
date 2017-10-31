@@ -1,9 +1,9 @@
-## Control de reproducción
+## Contrôle de lecture
 
-Una vez sincronizado tu *Energy Music Box 9* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones *Volumen +* (3) o *Volumen -* (2). Escucharás un sonido de aviso cuando alcances el volumen máximo ó mínimo.
+Une fois la synchronisation de l'*Energy Music Box 9* soit établie, vous pourrez contrôler le volume de lecture depuis l'enceinte. Pour cela faire, appuyez sur les boutons *Volume +* (3) ou *Volume -* (2). Vous entendrez un bip lorsque vous atteindrez le volume maximal et minimal.
 
-A través del botón *Inicio/Pausa y Control de llamada* (5) inicia, pausa o reanuda la reproducción.
+Pour lancer, arrêter ou reprendre la lecture, appuyez sur le bouton *Lecture/ Pause et Contrôle d'appels* (5).
 
-Para cambiar de canción usa los botones *Avance* (6) y *Retroceso* (4).
+Pour changer la piste, utilisez les boutons *Avant* (6) et *Arrière* (4).
 
-**Nota:** Recuerda que en el modo de reproducción AUX solo podrás controlar la reproducción desde tu reproductor.
+**Note :** Rappelez-vous que lorsque vous serez sur la fonction de lecture AUX, vous pourrez gérer la lecture sur votre lecteur seulement.
