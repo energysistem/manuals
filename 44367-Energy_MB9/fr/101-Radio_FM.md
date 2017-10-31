@@ -1,9 +1,9 @@
-## Función radio  
+## Mode radio  
 
-Para usar la función radio FM, en primer lugar es necesario realizar una sintonización de las emisoras disponibles que quedará almacenada en la memoria del altavoz. No será necesario repetir esta búsqueda a menos que se cambie de localización, o se modifique la frecuencia de la emisora deseada. 
+Pour utiliser le mode radio FM, il est d'abord nécessaire d'effectuer une syntonisation des stations disponibles qui seront stockées dans la mémoire de l'enceinte. Il ne sera pas nécessaire de répéter cette recherche, sauf s'il y existe une modification de la localisation ou de la station désirée. 
 
-Para realizar dicha sintonización de emisoras de radio pulsa el botón *Cambio de función* (14) hasta llegar al modo FM, el LED FM de los *Indicadores de función* (15) se iluminará cuando estés en función radio. Una vez aquí mantén pulsado el botón *Cambio de función* (14) durante 2 segundos. El LED FM de los *Indicadores de función* (15) parpadeará mientras se esté realizando la búsqueda de canales de radio, cuando finalice el proceso el LED se mantendrá fijo. Este proceso puede tardar unos minutos. 
+Pour syntoniser les stations de radio, appuyez sur le bouton *Changement de mode* (14) jusqu'à ce que vous trouverez le mode FM, le LED FM des *Indicateurs de mode* (15) s'allumera lorsque le mode radio sera activé. À ce moment-là, maintenez enfoncé le bouton « Changement de mode (14) » pendant 2 secondes. Le LED FM des *Indicateurs de mode* (15) clignotera lors de la recherche des stations de radio. Lorsque le processus sera terminé, le LED restera fixe. Ce processus peut prendre quelques minutes. 
 
-Para mejorar la recepción de la señal de radio puedes utilizar el cable de audio Jack que viene incluido en el producto como cable de antena. Para ello, conecta dicho cable a la conexión AUX, vuelve al modo FM y realiza de nuevo el proceso de sintonización indicado anteriormente.
+Vous pouvez utiliser le câble audio jack fourni avec le produit en tant que câble d'antenne pour améliorer la réception du signal de radio. Pour ce faire, connectez ce câble à la connexion AUX, retournez au mode FM et recommencez le processus de syntonisation indiqué ci-dessous.
 
-Para seleccionar entre las distintas emisoras, mantén pulsado los botones de *Avance* (6) o *Retroceso* (4). Las emisoras irán apareciendo en el mismo orden en el que fueron almacenadas. Para un ajuste fino de la frecuencia seleccionada pulsa los botones *Avance* (6) o *Retroceso* (4).
+Pour sélectionner une station, maintenez les boutons *Avant* (6) ou *Arrière* (4) enfoncés. Les stations apparaîtront dans le même ordre dans lequel elles ont été sauvegardées. Pour un réglage précis de la fréquence sélectionnée, appuyez sur les boutons *Avant* (6) ou *Arrière* (4).
