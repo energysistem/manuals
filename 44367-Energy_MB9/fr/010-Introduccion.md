@@ -1,7 +1,7 @@
-## Introducción
+## Introduction
 
-*	Gracias por confiar en nosotros y adquirir tu nuevo *Energy Music Box 9*. Esperamos que lo disfrutes.
+*	Merci de votre confiance et de l'achat de votre nouvel *Energy Music Box 9*. Nous espérons que vous l'apprécierez.
 
-*	Este altavoz portátil te permitirá disfrutar como nunca antes de la música a través de Bluetooth, USB, microSD o radio FM. Además, con la función TWS (True Wireless System), podrás sincronizar dos altavoces para crear un sistema estéreo y duplicar la potencia.
+*	Cette enceinte portable vous permettra de profiter de votre musique comme jamais auparavant via Bluetooth, USB, microSD ou Radio FM. En plus, la fonction TWS (True Wireless System) vous permettra de coupler deux enceintes pour créer un système stéréo et doubler la puissance.
 
-*	Antes de comenzar a disfrutar de tu *Energy Music Box 9* te aconsejamos que leas el presente manual para familiarizarte con él.
+*	Avant de commencer à profiter de votre *Energy Music Box 9* nous vous conseillons de lire ce manuel pour vous familiariser avec lui.
