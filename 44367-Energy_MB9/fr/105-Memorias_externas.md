@@ -1,13 +1,13 @@
-## Utilización de memorias externas
+## Utilisation de mémoires externes
 
-Para reproducir archivos en formato MP3 o WAV, inserta una memoria externa USB o una tarjeta de memoria microSD en las ranuras correspondientes (9) y (10) respectivamente. *Energy Music Box 9* cambiará automáticamente a este modo de reproducción. La reproducción se iniciará en unos segundos, tras la lectura de la memoria externa. No extraigas la memoria durante este proceso de lectura.
+Pour lire des fichiers au format MP3 ou WAV, insérez une mémoire externe USB ou une carte de mémoire microSD dans les fentes appropriées, (9) et (10) respectivement. *Energy Music Box 9* changera automatiquement à ce mode de lecture. La lecture démarrera quelques secondes après la lecture de la mémoire externe. Ne retirez pas la mémoire pendant ce processus de lecture.
 
-Si apagas el *Energy Music Box 9* durante la reproducción de la memoria externa, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si vous éteignez votre *Energy Music Box 9* lors de la lecture de la mémoire externe, le moment où vous avez arrêté la lecture sera enregistré sur la mémoire interne de l'appareil. Lorsque vous reconnecterez la même mémoire, l'appareil continuera la lecture à partir du moment où vous l'avez arrêtée.
 
-Para cambiar de canción, pulsa los botones de *Avance* (6) o *Retroceso* (4). 
+Pour changer la piste, appuyez sur les boutons *Avant* (6) ou *Arrière* (4). 
 
-Para avanzar o retroceder rápido dentro de una misma canción, mantén pulsados los botones de *Avance* (6) y *Retroceso* (4). Cuando sueltes el botón, se reanudará la reproducción.
+Pour avancer ou revenir en arrière vite dans une chanson, maintenez les boutons *Avant* (6) et *Arrière* (4) enfoncés. Lorsque vous relâcherez la lecture, la lecture sera reprise.
 
-**Nota:** Se recomienda no extraer la memoria externa durante la lectura de la misma. Cambia de modo antes o apaga el altavoz antes.
+**Note :** Il est recommandé de ne pas retirer la mémoire externe lors de la lecture. Changez le mode ou éteignez l'enceinte avant.
 
 
