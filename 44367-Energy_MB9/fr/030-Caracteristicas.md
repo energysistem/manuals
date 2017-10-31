@@ -1,36 +1,41 @@
-## Características.
+## Caractéristiques
 
-### Características generales.
-*	Altavoz portátil Bluetooth®.
-*	Modos de reproducción: Bluetooth®, USB, microSD, entrada de audio line-in de 3,5 mm, Radio FM.
-*	Fácil sincronización con Smartphones, tablets y cualquier otro dispositivo Bluetooth.
-*   Tecnología de conexión True Wireless.
-*	Control de volumen, cambio de canción y manos libres desde el propio altavoz.
-*	Sincronización Bluetooth sin códigos.
-*	Distancia de hasta 10 m de alcance.
-*	Batería de litio recargable.
+### Caractéristiques générales
+*	Enceinte portable Bluetooth®.
+*	Modes de lecture : Bluetooth®, USB, microSD, entrée audio, line-in de 3,5 mm, Radio FM.
+*	Synchronisation facile avec des smartphones, des tablettes et tout autre appareil Bluetooth.
+*   Technologie de connexion True Wireless.
+*	Contrôle du volume, titre et mains libres depuis l'enceinte.
+*	Synchronisation Bluetooth sans codes.
+*	Jusqu'à 10 m de portée.
+*	Batterie rechargeable au lithium.
 
-### Características técnicas.
+### Spécifications techniques.
 
-*	Sistema de sonido 2.0. 
-*   Altavoces: 2 dinámicos de rango completo y 2 de alta frecuencia.
-*   Radiadores pasivos: 1 membrana trasera.
-*	Bluetooth v4.1, Clase II. Alcance hasta 10 m.
-*	Soporta protocolos HSP / HFP / A2DP /AVRCP.
-*	Potencia: 40 W.
-*	Diámetro de los altavoces:
-    - Rango completo: 2.5"
-    - Alta frecuencia 1".
-*	Respuesta en frecuencia: 20 - 20.000 Hz.
-*	Relación señal/ruido > 80 dB.
-*	THD < 1%.
-*	Sensibilidad del micrófono manos libres: -42 dB.
+#### Système de son.
+* Système : 2.0.
+* Haut-parleurs : 2 dynamiques large bande et 2 haute fréquence
+* Radiateur passif : 1 membrane.
+* THD < 1 %.
+* Rapport signal/ bruit : > 90 dB.
 
-### Características de la batería recargable.
-*	Capacidad: 4000 mAh.
-*	Adaptador de 12V 1.5A con sistema de carga por conector DC.
-*	Tiempo de carga: 2.5 horas.
-*	Autonomía aproximada a volumen medio: 20 horas*.
+#### Puissance.
+* 40 W.
 
- *El cálculo de la autonomía es aproximado. Un mayor volumen supone un mayor consumo de la batería. Para más información consultar el apartado de "autonomía".
+#### Connectivité.
+* Bluetooth v4.2, classe II.
+* Connexion True Wireless Stereo.
+* Entrée auxiliaire 3,5 mm.
+* Fonction Radio FM de 87.5 à 108 MHz avec présélections.
 
+#### Lecture USB/ microSD
+* Décodeur USB/ microSD : lecture de fichiers MP3/ WAV via mémoires amovibles avec capacité jusqu'à 128 Go au format FAT/ FAT32.
+
+
+### Caractéristiques de la batterie rechargeable.
+*	Capacité : 4000 mAh.
+*	Adaptateur de 12 V 1,5 A avec système de charge par connecteur DC.
+*	Temps de charge : 2,5 heures.
+*	Autonomie approximative volume moyen : 20 heures*.
+
+ *Le calcul de l'autonomie est approximatif. Plus de volume se traduit par plus de consommation de la batterie. Pour plus d'information veuillez consulter la rubrique *Autonomie*.
