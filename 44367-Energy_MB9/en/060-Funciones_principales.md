@@ -1,17 +1,17 @@
-## Funciones Principales.
+## Main functions
 
-### Encendido y apagado del dispositivo.
+### Switching on and off the device
 
-Para encender el dispositivo mantén pulsado el botón *Encendido/Apagado* (1) durante 2 segundos y verás que los botones se iluminarán. Al encenderse el dispositivo, escucharás un sonido de bienvenida. Mientras el dispositivo esté encendido, el botón *Encendido/Apagado* (1) continuará iluminado.
+Press and hold the *On/ Off* button (1) for 2 seconds to turn on your device and you will see that the buttons light up. When switching on the device, you will hear a confirmation sound. The *On/ Off* button (1) will glow while the device is on.
 
-Para apagar el dispositivo mantén pulsado 2 segundos el botón *Encendido/Apagado* (1). Escucharás un sonido de despedida y los botones se apagarán.
+Press and hold the *On/ Off button* (1) for 2 seconds to turn off your device. You will hear a confirmation sound and the buttons will stop glowing.
 
-### Carga de la batería.
+### Charging the battery
 
-Cuando la carga de la batería se encuentre por debajo del 10%, un el botón *Encendido/Apagado* (1) se iluminará en rojo. Por debajo del 5% empezará a parpadear en rojo y a emitir un sonido de aviso de manera periódica. Para recargarlo, conecta el adaptador de carga (incluido) a la *Conexión de carga* (7) de tu *Energy Music Box 9*, y el otro extremo a la red eléctrica. El *Indicador de carga* (12) se iluminará en rojo y cuando la carga se complete, se apagará. El tiempo aproximado de carga es de 2 horas y media.
+The *On/ Off* button will light up red whenever the battery charge is below 10%. When the battery level is below 5%, the button light will start flashing and you will hear a warning sound from time to time. Please connect the cable of the provided power adapter to the *Charging port* (7) of your *Energy Music 9*. Plug then the power adapter  into the power socket. The *Charge indicator* (12) will light up red and will switch off once the charging process has been completed. The charging time is approximately 2 and a half hours.
 
-*Recomendaciones*:
+*Warning:* 
 
-- Usa el adaptador DC de corriente de 12V 1.5A que viene incluido en el paquete.
-- No dejes tu *Energy Music Box 9* durante un periodo largo de tiempo con la batería completamente descargada. 
+- Only use the provided 12 V 1.5 A DC power adapter.
+- Do not leave your *Energy Music Box 9* completely discharged for a long time.
 
