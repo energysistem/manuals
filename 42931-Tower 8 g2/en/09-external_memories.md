@@ -1,6 +1,6 @@
 ## Removable USB sticks and microSD cards
 
-Your *Energy Tower 8 g2* allows you to play .mp3 and .wav files from USB sticks and microSD cards (up to 128 GB).
+Your *Energy Tower 8 g2* allows you to play .mp3 and .wav files from USB sticks and microSD cards (up to 64 GB).
 
 Connect the USB stick into the corresponding port or insert the microSD card into the corresponding slot. Your *Energy Tower 8 g2* will switch automatically to USB or microSD mode to play the content of the inserted storage card or USB stick.
 
