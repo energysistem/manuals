@@ -1,7 +1,5 @@
-## Contenido del producto
+## Product content
 
-*	*Energy Music Box 9*.
-*	Cable de audio.
-*	Adaptador DC para carga.
-
-
+*	*Energy Music Box 9*
+*	Audio cable
+*	DC charging adapter
