@@ -1,6 +1,6 @@
 ## Memorias externas USB y microSD
 
-Con tu *Energy Tower 8 g2* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB y microSD de hasta 128 GB de capacidad.
+Con tu *Energy Tower 8 g2* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB y microSD de hasta 64 GB de capacidad con formato fat/fat32.
 
 Inserta la memoria en la ranura correspondiente y tu *Energy Tower 8 g2* cambiará automáticamente a modo USB o microSD para reproducir el contenido de la memoria que acabas de insertar.
 
