@@ -1,9 +1,9 @@
-## Función radio  
+## FM radio function  
 
-Para usar la función radio FM, en primer lugar es necesario realizar una sintonización de las emisoras disponibles que quedará almacenada en la memoria del altavoz. No será necesario repetir esta búsqueda a menos que se cambie de localización, o se modifique la frecuencia de la emisora deseada. 
+In order to use the FM radio function, it is necessary that you first carry out a search of all stations available. The radio stations will be saved to the speaker internal memory. Therefore it is not necessary to carry out a new search each time you switch it on. You will only have to carry out a new search if you place the device in a new location or if you change the frequency of the saved radio station. 
 
-Para realizar dicha sintonización de emisoras de radio pulsa el botón *Cambio de función* (14) hasta llegar al modo FM, el LED FM de los *Indicadores de función* (15) se iluminará cuando estés en función radio. Una vez aquí mantén pulsado el botón *Cambio de función* (14) durante 2 segundos. El LED FM de los *Indicadores de función* (15) parpadeará mientras se esté realizando la búsqueda de canales de radio, cuando finalice el proceso el LED se mantendrá fijo. Este proceso puede tardar unos minutos. 
+In order to tune in to all radio stations, press the *Change function* (14) button until the FM mode appears on screen. The "FM" LED *function indicator* (15) will light up when the radio funtion is selected. Press and hold the *Change function* button (14) for 2 seconds. The "FM" LED *function indicator* (15) will flash while carrying out a search of all radio stations available. Once the process is completed, the LED will glow as usual. The process can take a few minutes. 
 
-Para mejorar la recepción de la señal de radio puedes utilizar el cable de audio Jack que viene incluido en el producto como cable de antena. Para ello, conecta dicho cable a la conexión AUX, vuelve al modo FM y realiza de nuevo el proceso de sintonización indicado anteriormente.
+You can use the provided audio cable with jack connector as an antnena cable to improve signal. In order to do so, connect the above mentioned cable to the AUX port, return to FM mode and carry out a new seach of radio stations following the steps that have been expained before.
 
-Para seleccionar entre las distintas emisoras, mantén pulsado los botones de *Avance* (6) o *Retroceso* (4). Las emisoras irán apareciendo en el mismo orden en el que fueron almacenadas. Para un ajuste fino de la frecuencia seleccionada pulsa los botones *Avance* (6) o *Retroceso* (4).
+Press and hold *Next* (6) or *Back* (4) to select the radio station that you prefer. Radio stations will appear in the order in which they were saved. Press *Next* (6) or *Back* (4) to tune the selected frequency.
