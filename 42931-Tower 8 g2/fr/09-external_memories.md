@@ -1,6 +1,6 @@
 ## Mémoires amovibles USB et SD
 
-Votre *Energy Tower 8 g2* peut également lire des fichiers au format .mp3 et .wav via des mémoires USB et microSD jusqu'à 128 Go.
+Votre *Energy Tower 8 g2* peut également lire des fichiers au format .mp3 et .wav via des mémoires USB et microSD jusqu'à 64 Go.
 
 Insérez la mémoire dans la fente qui correspond et votre *Energy Tower 8 g2* changera automatiquement au mode USB ou microSD pour lire le contenu de la mémoire que vous avez insérée.
 
