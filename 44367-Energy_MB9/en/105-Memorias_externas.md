@@ -1,13 +1,11 @@
-## Utilización de memorias externas
+## External storage
 
-Para reproducir archivos en formato MP3 o WAV, inserta una memoria externa USB o una tarjeta de memoria microSD en las ranuras correspondientes (9) y (10) respectivamente. *Energy Music Box 9* cambiará automáticamente a este modo de reproducción. La reproducción se iniciará en unos segundos, tras la lectura de la memoria externa. No extraigas la memoria durante este proceso de lectura.
+Insert an USB unit or a microSD card into the corresponding slots, (9) and (10), to play MP3 or WAV files. Your *Energy Music Box 9* will switch to that playback mode automatically. Music playback will start in a few seconds once the external storage unit has been read. Do not remove the storage unit while the reading process is in progress.
 
-Si apagas el *Energy Music Box 9* durante la reproducción de la memoria externa, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+If you turn off the *Energy Music Box 9* while the device is playing the files of the external storage unit, the internal memory will save the moment when you paused playback. If you insert the same removable card or stick once again, playback will resume from the point at which it stopped.
 
-Para cambiar de canción, pulsa los botones de *Avance* (6) o *Retroceso* (4). 
+To move to the previous or the following track, press *Next (6)* or *Back (4)*.  
 
-Para avanzar o retroceder rápido dentro de una misma canción, mantén pulsados los botones de *Avance* (6) y *Retroceso* (4). Cuando sueltes el botón, se reanudará la reproducción.
+Press and hold *Next (6)* or *Back (4)* while the device is playing a song to fast forward through it or to rewind it. Playback will resume when you release the button.
 
-**Nota:** Se recomienda no extraer la memoria externa durante la lectura de la misma. Cambia de modo antes o apaga el altavoz antes.
-
-
+**Important:** We recommend not to remove the external storage unit while the reading process is in progress. Before doing that, please change mode or turn off the speaker.
