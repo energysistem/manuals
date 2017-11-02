@@ -1,6 +1,6 @@
 ## Warranty procedure
 
-Please visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, quick guide, drivers and updates available, available as well as to submit a query to our Technical Support or manage the warranty.
+Please visit http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, quick guide, drivers and updates available as well as to submit a query to our Technical Support or manage the warranty.
 
 Follow this link to check the availability of the product manual in English, French and Portuguese:  https://www.energysistem.com/en/products/music_box/serie_music_box.
 
