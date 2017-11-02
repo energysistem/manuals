@@ -1,12 +1,11 @@
-## Cuidado y mantenimiento
+## Care and maintenance
 
-*	No expongas tu *Energy Music Box 9* a humedad o altas temperaturas.
+*	 Do not expose your *Energy Music Box 9* to humidity or heat.
 
-*	No uses productos de limpieza corrosivos o abrasivos.
+*	 Do not use neither corrosive nor abrasive cleaning products.
 
-*	No lo desmontes. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
+*	Do not disassemble the device. All reparation works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A. 
 
-* No situes tu *Energy Music Box 9* al borde de una mesa o estantería para evitar caídas. El altavoz puede desplazarse cuando se está usando a volumen máximo debido a la vibración de la carcasa. 
+* Do not place your *Energy Music Box 9* on a table edge or bookshelf in order to prevent falls. The speaker may move over the surface when used at maximum volume due to the housing vibration. 
 
-*	Apaga tu *Energy Music Box 9* cuando no esté en uso y no lo dejes durante un largo periodo de tiempo con la batería completamente descargada.
-
+*	Turn off your *Energy Music Box 9* when you are not using it and do not let it completely discharged for a long time.
