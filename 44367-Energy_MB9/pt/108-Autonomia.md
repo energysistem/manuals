@@ -1,14 +1,11 @@
-## Autonomía
+## Autonomia
 
-La autonomía de tu Energy Music Box 9 puede variar según el tipo de música y nivel de sonido que tengas seleccionado. Para poder orientarte acerca de la duración de la batería puedes consultar la siguiente tabla comparativa con tiempos aproximados:
+A autonomia do seu Energy Music Box 9 pode váriar dependendo do tipo de música e o volume selecionado. Consulte a tabela comparativa a seguir para ter uma ideia aproximada da autonomia da bateria:
 
-|  |  |  |
-|:-------|:-------|:-------|
-| VOLUMEN MÍNIMO | VOLUMEN MEDIO | VOLUMEN MÁXIMO | <br>
-| 25 horas | 20 horas | 4 horas | <br>
+|  |  |  |  |
+|:-------|:-------|:-------|:-------|
+| VOLUME BAIXO (20%) | VOLUME MÉDIO (50%) | VOLUME ELEVADO (70%) | VOLUME MÁXIMO (100%) | <br>
+| 25 horas | 20 horas | 14 horas | 4 horas | <br>
 
 
 <br><br>
-
-
-
