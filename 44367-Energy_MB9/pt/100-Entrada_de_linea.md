@@ -1,8 +1,6 @@
+## Entrada Audio-In
 
-## Conexión de entrada de Audio.
+Também pode desfrutar da melhor música no seu *Energy Music Box 9* ligando o seu leitor de músicas com ajuda de um cabo de áudio jack de 3,5 mm à *Porta Audio-In* (8). Este modo é mostrado em um lado do dispositivo com o nome “AUX”. 
 
-También es posible disfrutar de tu *Energy Music Box 9* utilizando la *Conexión de entrada de audio* (8) en la cual puedes conectar tu reproductor a través de un cable de audio con jack de 3.5 mm (incluido). Este modo está indicado en el lateral como "AUX". 
-
-**NOTA:** Mientras se utiliza el altavoz en modo "AUX", no es posible controlar la reproducción desde el propio altavoz, siendo necesario realizar estas acciones desde el reproductor conectado.
-
+**NOTA:** Não é possível controlar a reprodução a partir do próprio altifalante se está a utilizá-lo no modo "AUX". Pode controlar as funções através do dispositivo ligado.
 
