@@ -1,8 +1,7 @@
-## Control de llamadas
+## Controlo de chamadas
 
-Con el *Energy Music Box 9* sincronizado con tu smartphone podrás controlar tus llamadas desde el propio altavoz.
+Uma vez emparelhados o seu *Energy Music Box 9* e o seu smartphone, pode controlar as suas chamadas a partir do próprio altifalante.
 
-Al recibir una llamada, la canción que estés escuchando se detendrá y sonará el tono de llamada. Para contestar la llamada pulsa el botón *Inicio/Pausa y Control de llamada* (5), y para finalizarla pulsa nuevamente dicho botón. La canción se reanudará automáticamente.
+A música que está a ouvir pára no momento que recebe uma chamada e em vez da música, ouvirá o toque do telemóvel. Prima apenas o botão *Reproduzir/Parar e Controlo de chamada* (5) para atender a chamada e prima esse botão mais uma vez para terminar a chamada. A reprodução continua automaticamente a partir do momento em que a música foi interrompida.
 
-También podrás rechazar la llamada manteniendo pulsado el botón *Inicio/Pausa y Control de llamada* (5).
-
+Prima botão *Reproduzir/Parar e Controlo de chamada* (5) durante uns segundos para rejeitar a chamada.
