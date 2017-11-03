@@ -1,13 +1,16 @@
-## Utilización de memorias externas
+## Reprodução a partir de memórias externas
 
-Para reproducir archivos en formato MP3 o WAV, inserta una memoria externa USB o una tarjeta de memoria microSD en las ranuras correspondientes (9) y (10) respectivamente. *Energy Music Box 9* cambiará automáticamente a este modo de reproducción. La reproducción se iniciará en unos segundos, tras la lectura de la memoria externa. No extraigas la memoria durante este proceso de lectura.
+Para reproduzir ficheiros em formato MP3 ou WAV, deve inserir uma memória USB ou um cartão de memória microSD na porta ou slot correspondente, (9) e (10), respectivamente. O *Energy Music Box 9* muda automaticamente para esse modo de reprodução. A reproduçao de músicas começa em apenas uns segundos, uma vez que o altifalante reconhece a memória externa. Por favor, não remova a memória enquanto o dispositivo está a reconhecê-lo.
 
-Si apagas el *Energy Music Box 9* durante la reproducción de la memoria externa, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Se desligar o *Energy Music Box 9* enquanto o dispositivo está a reproduzir músicas da memória externa, o momento em que a reprodução dos ficheiros é interrompida fica armazenado na memória interna do dispositivo. Se ligar ou inserir a mesma unidade de memória de novo, o altifalante começa a reproduzir o conteúdo a partir do momento no que a reprodução foi interrompida.
 
-Para cambiar de canción, pulsa los botones de *Avance* (6) o *Retroceso* (4). 
+Prima o botão *Avançar (6)* ou *Voltar (4)* para mudar a faixa. 
 
-Para avanzar o retroceder rápido dentro de una misma canción, mantén pulsados los botones de *Avance* (6) y *Retroceso* (4). Cuando sueltes el botón, se reanudará la reproducción.
+Prima o botão *Avançar (6)* ou *Voltar (4)* uns segundos para avançar ou retroceder dentro da própria faixa. Ao soltar o botão, o dispositivo continua com a reprodução da música.
 
-**Nota:** Se recomienda no extraer la memoria externa durante la lectura de la misma. Cambia de modo antes o apaga el altavoz antes.
+**Importante:**Recomendamos não remover a memória externa enquanto está a ser reconhecida pelo altifalante.  Por favor, mude o modo ou desligue o dispositivo antes de removê-la.
+
+
+
 
 
