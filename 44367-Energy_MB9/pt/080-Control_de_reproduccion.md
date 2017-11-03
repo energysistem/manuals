@@ -1,9 +1,9 @@
-## Control de reproducción
+## Controlo da reprodução de músicas
 
-Una vez sincronizado tu *Energy Music Box 9* puedes controlar el volumen de reproducción desde el propio altavoz. Para ello, pulsa los botones *Volumen +* (3) o *Volumen -* (2). Escucharás un sonido de aviso cuando alcances el volumen máximo ó mínimo.
+Uma vez emparelhado o seu *Energy Music Box 9*, pode controlar o volume do ficheiro que está a reproduzir a partir do próprio altifalante. Para isso, prima os botões *Volume + (3)* ou *Volume - (2)*. Ouvirá um som quando atingir o volume máximo ou mínimo.
 
-A través del botón *Inicio/Pausa y Control de llamada* (5) inicia, pausa o reanuda la reproducción.
+Prima o botão *Reproduzir/Parar e Controlo de chamada* (5) para iniciar, parar ou continuar a reproduzir o conteúdo.
 
-Para cambiar de canción usa los botones *Avance* (6) y *Retroceso* (4).
+Prima os botões *Avançar (6)* e *Voltar (4)* para mudar a faixa.
 
-**Nota:** Recuerda que en el modo de reproducción AUX solo podrás controlar la reproducción desde tu reproductor.
+**Importante:** Lembre-se de que com o modo AUX ativado só é possível controlar as funções a partir do leitor de músicas.
