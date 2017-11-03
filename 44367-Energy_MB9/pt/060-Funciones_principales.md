@@ -1,17 +1,17 @@
-## Funciones Principales.
+## Funções principais
 
-### Encendido y apagado del dispositivo.
+### Ligar e desligar o dispositivo
 
-Para encender el dispositivo mantén pulsado el botón *Encendido/Apagado* (1) durante 2 segundos y verás que los botones se iluminarán. Al encenderse el dispositivo, escucharás un sonido de bienvenida. Mientras el dispositivo esté encendido, el botón *Encendido/Apagado* (1) continuará iluminado.
+Para ligar o dispositivo, mantenha premido o botão *Ligar/Desligar* (1) durante 2 segundos e verá os botões acender. Ouvirá um som de confirmação no momento que ligue o dispositivo. O botão *Ligar/Desligar* (1) fica iluminado enquanto o dispositivo estiver ligado.
 
-Para apagar el dispositivo mantén pulsado 2 segundos el botón *Encendido/Apagado* (1). Escucharás un sonido de despedida y los botones se apagarán.
+Prima o botão *Ligar/Desligar* (1) durante 2 segundos para desligar o dispositivo. Ouvirá um som que confirma que o dispositivo foi desligado e a luz dos botões apaga.
 
-### Carga de la batería.
+### Carregar a bateria
 
-Cuando la carga de la batería se encuentre por debajo del 10%, un el botón *Encendido/Apagado* (1) se iluminará en rojo. Por debajo del 5% empezará a parpadear en rojo y a emitir un sonido de aviso de manera periódica. Para recargarlo, conecta el adaptador de carga (incluido) a la *Conexión de carga* (7) de tu *Energy Music Box 9*, y el otro extremo a la red eléctrica. El *Indicador de carga* (12) se iluminará en rojo y cuando la carga se complete, se apagará. El tiempo aproximado de carga es de 2 horas y media.
+Quando o nível da bateria é inferior a 10%, o botão *Ligar/Desligar* torna-se vermelho. Quando o nível é inferior a 5%, o botão começa a piscar vermelho e um sinal acústico toca de modo periódico. Ligue o adaptador de corrente fornecido com o produto à *Porta de carregamento* (7) do seu *Energy Music Box 9* e a extremidade do cabo à tomada de corrente para carregar a bateria. O *Indicador do nível da bateria* (12) torna-se vermelho e desliga quando a bateria estiver completamente carregada. O tempo de carregamento é de aproximadamente 2 horas e meia.
 
-*Recomendaciones*:
+*Recomendações*:
 
-- Usa el adaptador DC de corriente de 12V 1.5A que viene incluido en el paquete.
-- No dejes tu *Energy Music Box 9* durante un periodo largo de tiempo con la batería completamente descargada. 
+- Utilize o adaptador de corrente DC de 12 V 1,5 A fornecido com o produto.
+- Não deixe a bateria do seu *Energy Music Box 9* completamente descarregada por longos períodos de tempo.
 
