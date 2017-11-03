@@ -1,10 +1,11 @@
-## Sincronización Bluetooth
+## Ligação Bluetooth
 
-Con tu altavoz *Energy Music Box 9* encendido, selecciona el modo BT usando el botón *Cambio de función* (14). Después, mantén pulsado durante 2 segundos dicho botón hasta que el LED "BT" de los *Indicadores de función* (15) empiece a parpadear. En ese momento, el altavoz estará listo para que lo sincronices con tu Smartphone o tablet.
+Ligue o seu *Energy Music Box 9* e prima o botão *Mudar função* (14) até chegar ao modo BT. Prima depois esse botão durante 2 segundos até que o LED "BT" dos *Indicadores de função* (15) comece a piscar. Nesse momento o altifalante está pronto para ser emparelhado com o seu smartphone ou tablet.
 
-Una vez localizado tu "Energy Music Box 9" en tu dispositivo, pulsa “conectar”. La conexión se realizará de forma inmediata y sin necesidad de códigos. Escucharás una sonido que confirma la sincronización entre ambos dispositivos y el LED "BT" de los *Indicadores de función* (15) dejará de parpadear y se mantendrá iluminado. Cuando enciendas de nuevo tu *Energy Music Box 9* se sincronizará de forma automática, siempre y cuando tengas la conexión Bluetooth de tu Smartphone o tablet activada.
+Uma vez identificado o "Energy Music Box 9" no seu dispositivo, selecione "ligar". A ligação vai ser estabelecida imediatamente e sem necessidade de códigos. Ouvirá um som que indica que a ligação entre os dois dispositivos foi estabelecida correctamente e o LED "BT" dos *indicadores de função* (15) pára de piscar e fica iluminado. Ao ligar o seu *Energy Music Box 9* de novo, o altifalante estabelece a ligação com o último dispositivo emparelhado de modo automático. Para isso acontecer é imprescindível ativar a ligação Bluetooth no seu smartphone ou tablet.
 
-Si deseas sincronizar otro dispositivo Bluetooth, mantén pulsado el botón *Cambio de función* (14) hasta que el LED "BT" de los *Indicadores de función* (15) empiece a parpadear. También escucharas una señal acústica. De esta forma, se detendrá la sincronización actual y realizará una nueva búsqueda de dispositivos Bluetooth®.
+Se quiser emparelhar outro dispositivo Bluetooth, prima o botã* Mudar função* (14) até que o LED "BT" dos *Indicadores de função* (15) comece a piscar. Ouvirá também um sinal acústico. Desse modo, a sincronização é cancelada e começa uma nova pesquisa de dispositivos Bluetooth®.
 
-**Nota:** Si tienes tu *Energy Music Box 9* en modo Bluetooth® y no lo sincronizas con ningún dispositivo, a los 5 minutos se apagará automáticamente.
+**Importante:** Se o seu *Energy Music Box 9* estiver no modo Bluetooth® e não o emparelha com dispositivo nenhum no prazo de 5 minutos, o dispositivo desliga automaticamente.
+
 
