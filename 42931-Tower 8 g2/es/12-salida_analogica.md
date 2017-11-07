@@ -4,7 +4,7 @@ Tu *Energy Tower 8 g2* cuenta con una conexión de *Salida analógica RCA (29)* 
 
 Incluso puedes conectar una segunda *Energy Tower 8 g2* conectándolas mediante un cable RCA-RCA estéreo macho-macho desde la salida OUTPUT de la torre principal a la entrada INPUT de la torre secundaria, independientemente del modo de reproducción seleccionado en la torre principal (BT, Optical, USB, microSD, AUX o Radio) la señal será compartida con la torre secundaria y sonarán al unísono.
 
-Esta salida analógica también te permite crear un sistema estéreo. Si conectas las salida RCA analógica R de tu altavoz principal con la entrada analógica L y R de una torre secundaria, esta torre secundaria reproducirá tan solo el canal R del altavoz principal. Puedes hacer lo mismo con el canal L de tu altavoz y montar así un sistema de sonido estéreo con dos Energy Tower 8 g2.
+Esta salida analógica también te permite crear un sistema estéreo para tu televisión, conectando la pareja de towers de la siguiente manera:
 
 ![Schema](http://static.energysistem.com/images/manuals/42931/59d1fd0ebd740.jpg)
 
