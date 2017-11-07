@@ -1,6 +1,6 @@
 ## EQ manual
 
-El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
+El dispositivo tiene dos reguladores en la parte trasera para ecualizar el sonido:
 
 * Regulador de agudos (Indicado como Treble).
 * Regulador de graves (Indicado como Bass).
