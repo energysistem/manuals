@@ -8,7 +8,7 @@ Esta salida analógica también te permite crear un sistema estéreo. Si conecta
 
 ![Schema](http://static.energysistem.com/images/manuals/42931/59d1fd0ebd740.jpg)
 
-Para realizar este montaje necesitarás o bien un par de cables RCA spliter o bien dos adaptadores RCA de mono a estéreo para duplicar la señal de los canales de tu reproductor principal. Conectando tu cable RCA a tu altavoz principal y luego a uno de estos dos adaptadores tendrías todo lo necesario para montar tu propio sistema de sonido estéreo.
+Para realizar este montaje necesitarás un par de cables RCA spliter o bien dos adaptadores RCA de mono a estéreo. Conectando tu cable RCA a tu altavoz principal y luego a uno de estos dos adaptadores tendrías todo lo necesario para montar tu sistema de sonido estéreo.
 
 |  |  |  |
 |:-------|:-------|:-------|
