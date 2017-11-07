@@ -2,7 +2,7 @@
 
 El dispositivo tiene dos reguladores en la parte trasera para ajustar la ecualización del sonido:
 
-* Ajuste de Agudos (Indicado como Treble).
-* Ajuste de Graves (Indicado como Bass).
+* Regulador de agudos (Indicado como Treble).
+* Regulador de graves (Indicado como Bass).
 
-**Nota**: Reduce los agudos conforme subes el volumen de la Tower para conseguir un sonido equilibrado. Te recomendamos colocar el ajuste de agudos por debajo del 50% para un volumen superior a 20 puntos. 
+**Nota**: Reduce el regulador de agudos conforme subes el volumen de la Tower para conseguir un sonido equilibrado. Te recomendamos colocar el regulador de agudos por debajo del 50% para un volumen superior a 20 puntos. 
