@@ -6,7 +6,7 @@ Incluso puedes conectar una segunda *Energy Tower 8 g2* conectándolas mediante 
 
 Esta salida analógica también te permite crear un sistema estéreo para tu televisión, conectando la pareja de towers de la siguiente manera:
 
-![Schema](http://static.energysistem.com/images/manuals/42931/59d1fd0ebd740.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42931/5a02bdbcd7586.jpg)
 
 Para realizar este montaje necesitarás un par de cables RCA spliter de macho a macho.
 
