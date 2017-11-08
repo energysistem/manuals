@@ -10,4 +10,4 @@ Esta salida analógica también te permite crear un sistema estéreo para tu tel
 
 Para realizar este montaje necesitarás un par de cables RCA spliter de macho a macho.
 
-![Schema](http://static.energysistem.com/images/manuals/42931/5a02bbb93f968.jpg)
+![Schema](http://static.energysistem.com/images/manuals/42931/5a02bc0b5b667.jpg)
