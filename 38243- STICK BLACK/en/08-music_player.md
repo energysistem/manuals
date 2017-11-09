@@ -24,7 +24,7 @@ You can access the play settings submenu by pressing the MENU button while the p
 
 2. "Equalizer": You can choose the equalization that best fits your likings. You can find seven different preset options: Normal, Rock, Pop, Classic, Soft, Jazz and DBB-Bass.
 
-3. "Replay": This is the A-B replay mode, which allows you to repeat a part of a song indefinitely. Once you select the option, mark the start point (A) pressing the NEXT button. Once the song reaches your desired end point, press NEXT again to mark the ending point (B). The selection will loop endlessly until you press once again the MENU button.
+3. "Replay": This is the A-B replay mode, which allows you to repeat a certain part of a song  five times. Once you select the option, mark the start point (A) pressing the NEXT button. Once the song reaches your desired end point, press NEXT again to mark the ending point (B). The selection will loop endlessly until you press once again the MENU button.
 
 4. "Exit": Brings you back to the music player screen. Alternatively you can go back at any time pressing MENU.
 You can watch the lyrics of a song while it is being played by holding the MENU button a couple seconds. The lyrics are text files with the same name as the music file but with the LRC file extension. If your songs do not have this LRC files, the lyrics will not be shown, but the music will playback with no problems.
