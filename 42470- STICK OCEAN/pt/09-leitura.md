@@ -2,7 +2,7 @@
 
 O seu Energy MP3 permite-lhe desfrutar de áudio codificado em MP3 / WMA com o seu processador de som de alta fidelidade. 
 
-Para entrar no modo de leitura MP3 / WMA, clique "PLAY" na opção "MUSIC".
+Para entrar no modo de leitura MP3 / WMA, selecione "PLAY" na opção "MUSIC".
 
 Para começar, continuar ou interromper a leitura de músicas pressione o botão "PLAY". Pressione brevemente os botões "PREVIOUS" /
 "NEXT" para ir para a faixa anterior / seguinte. 
