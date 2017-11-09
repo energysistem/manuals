@@ -1,11 +1,21 @@
 
 ## LEITURA DE MUSICA MP3/WMA
 
-O seu Energy MP3 permite-lhe desfrutar de áudio codificado em MP3 / WMA com o seu processador de som de alta fidelidade. Para
-entrar no modo de leitura MP3 / WMA, clique "PLAY" na opção "MUSIC".
+O seu Energy MP3 permite-lhe desfrutar de áudio codificado em MP3 / WMA com o seu processador de som de alta fidelidade. 
+
+Para entrar no modo de leitura MP3 / WMA, clique "PLAY" na opção "MUSIC".
+
 Para começar, continuar ou interromper a leitura de música pressione o botão "PLAY". Pressionando brevemente os botões "PREVIOUS" /
-"NEXT" é possível mudar para a faixa anterior / seguinte. Também você pode retroceder / avançar a música, segurando o botão "PREVIOUS" / "NEXT".
-Use os botões "VOLUME +" / "VOLUME -" para aumentar e diminuir o volume respectivamente. Com a música no modo de pausa na janela de reprodução pode acessar o submenu "Navegação" pressionando o botão "MENU", para exibir as diferentes opções disponíveis. Percorra as opções com os botões "VOLUME +" / "VOLUME -" e para selecionar pressione o botão "PLAY":
+"NEXT" é possível mudar para a faixa anterior / seguinte. 
+
+Também pode retroceder / avançar a música, premindo durante uns segundos o botão "PREVIOUS" / "NEXT".
+
+Use os botões "VOLUME +" / "VOLUME -" para aumentar e diminuir o volume respectivamente. 
+
+Com a música no modo de pausa na janela de reprodução pode aceder o submenu "Navegação" pressionando o botão "MENU", para ver as 
+opções disponíveis. 
+
+Percorra as opções com os botões "PREVIOUS" / "NEXT" e para selecionar pressione o botão "PLAY":
 
 1. "Navegador": Mostra as músicas existentes na memória do leitor. Use o botão central para encontrar a música que quer ouvir e prima o
 botão "PLAY" para selecioná-la.Pressione "PLAY" para entrar nas pastas e pressione "MENU" para voltar.
