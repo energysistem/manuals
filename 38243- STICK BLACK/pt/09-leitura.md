@@ -24,7 +24,7 @@ Percorra as opções com os botões "PREVIOUS" / "NEXT" e pressione o botão "PL
 
 ### Opções do leitor de músicas
 
-Para aceder ao submenu de definições de reprodução enquanto está a ouvir a música, prima o botão "MENU". Prima os botões PREVIOUS/NEXT para mudar de uma opção para outra e pressione o botão "PLAY" para selecionar uma delas:
+Para aceder ao submenu de definições de reprodução enquanto está a ouvir a música, prima o botão "MENU". Prima os botões "PREVIOUS"/"NEXT" para mudar de uma opção para outra e pressione o botão "PLAY" para selecionar uma delas:
 1.	"Repetir": Permite selecionar um dos modos de reprodução e repetição disponíveis: Intro, Normal, Repetir 1, Pasta, Repetir pasta, Repetir tudo, Aleatório.
 2.	"Equalizador": Permite escolher o modo de equalização que mais gosta. Selecione uma dos 7 modos predefinidos: Normal, Rock, Pop, Classic, Soft, Jazz e DBB-Bass.
 3.	"Repetição": Este modo é o modo de repetição A-B, o qual permite repetir uma parte da canção até 5 vezes. Após ter selecionada a parte da canção que quiser, prima o botão "NEXT" para selecionar o início (A). Prima o botão "NEXT" de novo para selecionar o fim (B). A repetição continua até premir de novo o botão "MENU".
