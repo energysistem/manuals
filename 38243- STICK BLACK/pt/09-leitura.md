@@ -1,23 +1,23 @@
 
 ## Reprodução de músicas
 
-O seu Energy MP3 permite-lhe desfrutar de áudio codificado em MP3 / WMA com o seu processador de som de alta fidelidade. 
+O seu Energy MP3 permite-lhe desfrutar de áudio codificado em MP3/WMA com o seu processador de som de alta fidelidade. 
 
-Para entrar no modo de leitura MP3 / WMA, selecione "PLAY" na opção "MUSIC".
+Para entrar no modo de leitura MP3/WMA, selecione "PLAY" na opção "MUSIC".
 
 Para começar, continuar ou interromper a leitura de músicas pressione o botão "PLAY". Pressione brevemente os botões "PREVIOUS" /
-"NEXT" para ir para a faixa anterior / seguinte. 
+"NEXT" para ir para a faixa anterior/seguinte. 
 
-Também pode voltar / avançar a música, premindo durante uns segundos o botão "PREVIOUS" / "NEXT".
+Também pode voltar/avançar a música, premindo durante uns segundos o botão "PREVIOUS" / "NEXT".
 
-Utilize os botões "VOLUME +" / "VOLUME -" para aumentar e diminuir o volume respectivamente. 
+Utilize os botões "VOLUME +"/"VOLUME -" para aumentar e diminuir o volume respectivamente. 
 
 Com a música em pausa na janela de reprodução pode aceder ao submenu "Navegação". Para isso, pressione o botão "MENU" e verá as 
 opções disponíveis. 
 
-Percorra as opções com os botões "PREVIOUS" / "NEXT" e pressione o botão "PLAY" para seleccionar uma delas:
+Percorra as opções com os botões "PREVIOUS"/"NEXT" e pressione o botão "PLAY" para seleccionar uma delas:
 
-1. "Navegador": Mostra as músicas existentes na memória do leitor. Utilize os botões  "PREVIOUS" / "NEXT" para encontrar a música que quer ouvir e prima o botão "PLAY" para selecioná-la. Pressione "PLAY" para abrir as pastas e pressione "MENU" para voltar.
+1. "Navegador": Mostra as músicas existentes na memória do leitor. Utilize os botões  "PREVIOUS"/"NEXT" para encontrar a música que quer ouvir e prima o botão "PLAY" para selecioná-la. Pressione "PLAY" para abrir as pastas e pressione "MENU" para voltar.
 2. "Borrar fich." Permite eliminar o ficheiro selecionado.
 3. "Borrar todo": Elimina todos os ficheiros MP3 e WMA existentes na memória interna.
 4. "Exit": Voltar para o ecrã de leitura de música. Também pode voltar em qualquer momento pressionando o botão "MENU".
