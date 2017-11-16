@@ -1,6 +1,6 @@
 ## Control de reproducción
 
-Una vez que tu *Energy Music Box 9* esté reproduciendo en cualquier modo puedes controlar la reproducción desde el propio altavoz. Pulsa los botones *Volumen +* (3) o *Volumen -* (2), *Avance* (6) o *Retroceso* (4) y *Inicio/Pausa y Control de llamada* (5) para realizar acciones sobre la reproducción de música. Escucharás un sonido de aviso cuando alcances el volumen máximo ó mínimo.
+Una vez que tu *Energy Music Box 9* esté reproduciendo puedes controlar la reproducción desde el propio altavoz. Pulsa los botones *Volumen +* (3) o *Volumen -* (2), *Avance* (6) o *Retroceso* (4) y *Inicio/Pausa y Control de llamada* (5) para realizar acciones sobre la reproducción de música. Escucharás un sonido de aviso cuando alcances el volumen máximo ó mínimo.
 
 A través del botón *Inicio/Pausa y Control de llamada* (5) inicia, pausa o reanuda la reproducción.
 Para cambiar de canción usa los botones *Avance* (6) y *Retroceso* (4).
