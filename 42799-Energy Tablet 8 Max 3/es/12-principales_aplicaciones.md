@@ -20,7 +20,7 @@ Tu nueva tablet dispone del navegador web de Google entre la lista de aplicacion
 
 Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c175cbe88.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf88c8069c.jpg)
 
 1. Carpetas y cuentas
 2. Funciones y menú de opciones
