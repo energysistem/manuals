@@ -13,7 +13,7 @@ Tu nueva tablet dispone del navegador web de Google entre la lista de aplicacion
 5. Crear pestaña
 6. Búsqueda en Google o dirección web
 7. Añadir a marcadores
-8. Búsqueda por voz
+8. Gestión de descargas
 9. Menú de opciones
 
 ### Gestión de Email
