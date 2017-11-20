@@ -4,7 +4,7 @@
 
 Tu nueva tablet dispone del navegador web de Google entre la lista de aplicaciones instaladas por defecto, con el que podrás navegar por Internet de una forma rápida y sencilla. Una vez el dispositivo esté conectado a Internet, pulsa sobre el icono de Chrome situado en el escritorio o en el menú de aplicaciones para iniciar el navegador.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf874e3b05.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c147a1607.jpg)
 
 1. Retroceder
 2. Avanzar
@@ -20,7 +20,7 @@ Tu nueva tablet dispone del navegador web de Google entre la lista de aplicacion
 
 Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf88c8069c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c175cbe88.jpg)
 
 1. Carpetas y cuentas
 2. Búsqueda
@@ -33,7 +33,7 @@ Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta
 
 Reproduce tu música favorita con la aplicación Energy Music. Al abrirla, escaneará la memoria del dispositivo para buscar todos los archivos de audio disponibles para su reproducción.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8a621b11.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c20c26153.jpg)
 
 1. Lista de reproducción
 2. Repetición
@@ -57,7 +57,7 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 
 Tu tablet lleva integrada la aplicación Fotos de Google. Con ella podrás ver todas tus fotos y vídeos sin preocuparte del almacenamiento, ya que se guardan automáticamente en la nube para tenerlas siempre disponibles en cualquier sitio. Nota: Puedes configurar la copia de seguridad automática al iniciar la aplicación o posteriormente desde el menú de ajustes.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf90572c13.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c2f1e0251.jpg)
 
 1. Ajustes y carpetas
 2. Búsqueda
