@@ -12,6 +12,6 @@
 8. Play Store: Tienda de aplicaciones de Google.
 9. Google Fotos: visualización y copia de seguridad en la nube de imágenes y vídeos.
 10. Energy Music: reproducción de archivos de sonido.
-11. Multitarea: muestra las aplicaciones usadas recientemente.
+11. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
 12. Inicio: te devuelve a la pantalla principal.
-13. Atrás: permite retroceder a la pantalla anterior en la aplicación que en ese momento se esté ejecutando.
+13. Multitarea: muestra las aplicaciones usadas recientemente.
