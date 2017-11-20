@@ -47,7 +47,7 @@ Reproduce tu música favorita con la aplicación Energy Music. Al abrirla, escan
 
 Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma más sencilla. Para cambiar entre el modo fotografía y el modo vídeo, desliza desde el borde izquierdo hacia la derecha para mostrar el menú desplegable. Desde esta misma pantalla puedes entrar en las opciones de configuración pulsando el engranaje de la esquina superior derecha.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf8d408863.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c2f1e0251.jpg)
 
 1. Acceso a la galería
 2. Ajustes
@@ -57,7 +57,7 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 
 Tu tablet lleva integrada la aplicación Fotos de Google. Con ella podrás ver todas tus fotos y vídeos sin preocuparte del almacenamiento, ya que se guardan automáticamente en la nube para tenerlas siempre disponibles en cualquier sitio. Nota: Puedes configurar la copia de seguridad automática al iniciar la aplicación o posteriormente desde el menú de ajustes.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c2f1e0251.jpg)
+![Imagen1]()
 
 1. Ajustes y carpetas
 2. Búsqueda
