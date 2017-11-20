@@ -23,8 +23,8 @@ Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta
 ![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c175cbe88.jpg)
 
 1. Carpetas y cuentas
-2. Búsqueda
-3. Funciones y menú de opciones
+2. Funciones y menú de opciones
+3. Búsqueda
 4. Lista de correos
 5. Nuevo correo
 6. Panel de lectura
