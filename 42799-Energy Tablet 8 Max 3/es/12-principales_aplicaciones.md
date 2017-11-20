@@ -37,11 +37,11 @@ Reproduce tu música favorita con la aplicación Energy Music. Al abrirla, escan
 
 1. Lista de reproducción
 2. Repetición
-3. Canción anterior
-4. Reproducir / Pausar
-5. Siguiente canción
-6. Reproducción aleatoria
-7. Barra de progreso
+3. Barra de progreso
+4. Canción anterior
+5. Reproducir / Pausar
+6. Siguiente canción
+7. Reproducción aleatoria
 
 ### Cámara
 
