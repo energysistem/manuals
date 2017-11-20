@@ -20,7 +20,7 @@ MEMORIA
 * 16 GB de memoria interna ampliable mediante tarjetas microSD-HC/XC (hasta 256 GB)
 
 CONECTIVIDAD
-* Wi-Fi 802.11 b/g/n
+* Wi-Fi 802.11 a/b/g/n
 * Bluetooth 4.0
 * GPS integrado
 
