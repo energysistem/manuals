@@ -4,7 +4,7 @@
 
 Tu tablet dispone de conexión Bluetooth para conectarla con auriculares, ordenadores, tablets o cualquier otro dispositivo que permita dicho protocolo de comunicación. Sólo tienes que ir a Ajustes > Bluetooth y activar el interruptor situado en la parte superior. Una vez hecho esto irán apareciendo los dispositivos disponibles, que podrán seleccionarse para realizar la conexión.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12b9d1ae6e9.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12ba39bda49.jpg)
 ![Imagen2](http://static.energysistem.com/images/manuals/42799/5a12ba684f4c5.jpg)
 
 1. Ajustes > Bluetooth.
