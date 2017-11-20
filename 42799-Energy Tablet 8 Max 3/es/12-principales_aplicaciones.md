@@ -49,9 +49,16 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c2f1e0251.jpg)
 
-1. Acceso a la galería
-2. Ajustes
-3. Botón de disparo
+1. Opciones de cámara
+2. Modo panorámico
+3. Modo belleza
+4. Modo normal
+5. HDR
+6. Cambio cámaras frontal/trasera
+7. Galería de fotos
+8. Botón de disparo
+9. Botón de grabación
+10. Ajustes
 
 ### Galería
 
