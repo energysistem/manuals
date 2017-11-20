@@ -1,6 +1,6 @@
 ## Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12a1501ae0a.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
 
 1. Salida de auriculares
 
