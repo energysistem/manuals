@@ -16,9 +16,9 @@ Tu tablet dispone de conexión Bluetooth para conectarla con auriculares, ordena
 
 Tu tablet dispone de conexión Wi-Fi. Para conectarla con una red inalámbrica sólo tienes que ir a Ajustes > Wi-Fi y activar el interruptor situado en la parte superior. Una vez hecho esto irán apareciendo las redes disponibles, que podrán seleccionarse para realizar la conexión.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf7dc7cc46.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7e2e6954.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42547/587cf7e8ed7b9.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12baebaf89c.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42799/5a12bb68c8d48.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42799/5a12bb92f2c9d.jpg)
 
 1. Ajustes > Wi-Fi.
 2. Activa la casilla Wi-Fi.
