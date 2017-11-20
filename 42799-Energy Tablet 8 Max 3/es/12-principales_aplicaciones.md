@@ -57,7 +57,7 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 
 Tu tablet lleva integrada la aplicación Fotos de Google. Con ella podrás ver todas tus fotos y vídeos sin preocuparte del almacenamiento, ya que se guardan automáticamente en la nube para tenerlas siempre disponibles en cualquier sitio. Nota: Puedes configurar la copia de seguridad automática al iniciar la aplicación o posteriormente desde el menú de ajustes.
 
-![Imagen1]()
+![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf90572c13.jpg)
 
 1. Ajustes y carpetas
 2. Búsqueda
