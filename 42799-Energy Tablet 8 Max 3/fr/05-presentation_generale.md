@@ -1,6 +1,6 @@
 ## Présentation générale
 
-![Imagen1](http://static.energysistem.com/images/manuals/42800/58b00f724b41e.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
 
 1. Sortie pour les écouteurs
 
