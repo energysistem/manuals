@@ -20,7 +20,7 @@ Tu nueva tablet dispone del navegador web de Google entre la lista de aplicacion
 
 Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta aplicación podrás acceder al correo de Google, así como a cuentas de otros proveedores configurándolas según los parámetros correspondientes. Nota: Para conocer los parámetros de configuración de tu cuenta consulta a tu proveedor de correo electrónico.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf88c8069c.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a1400907fa56.jpg)
 
 1. Carpetas y cuentas
 2. Funciones y menú de opciones
@@ -47,7 +47,7 @@ Reproduce tu música favorita con la aplicación Energy Music. Al abrirla, escan
 
 Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma más sencilla. Para cambiar entre el modo fotografía y el modo vídeo, desliza desde el borde izquierdo hacia la derecha para mostrar el menú desplegable. Desde esta misma pantalla puedes entrar en las opciones de configuración pulsando el engranaje de la esquina superior derecha.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12c2f1e0251.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a1400fb89f0c.jpg)
 
 1. Opciones de cámara
 2. Modo panorámico
@@ -64,7 +64,7 @@ Con la cámara integrada de tu tablet podrás hacer fotos y vídeos de la forma 
 
 Tu tablet lleva integrada la aplicación Fotos de Google. Con ella podrás ver todas tus fotos y vídeos sin preocuparte del almacenamiento, ya que se guardan automáticamente en la nube para tenerlas siempre disponibles en cualquier sitio. Nota: Puedes configurar la copia de seguridad automática al iniciar la aplicación o posteriormente desde el menú de ajustes.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf90572c13.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a1400cc0a6ef.jpg)
 
 1. Ajustes y carpetas
 2. Búsqueda
