@@ -27,7 +27,6 @@ Gmail viene incluido como el gestor de correo electrónico por defecto. Con esta
 3. Búsqueda
 4. Lista de correos
 5. Nuevo correo
-6. Panel de lectura
 
 ### Reproducción de Música
 
@@ -72,3 +71,4 @@ Tu tablet lleva integrada la aplicación Fotos de Google. Con ella podrás ver t
 4. Asistente
 5. Galería
 6. Álbumes y carpetas
+7. Comparte
