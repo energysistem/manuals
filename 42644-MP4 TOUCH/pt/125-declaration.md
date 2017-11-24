@@ -20,7 +20,7 @@ EN 55024:2010+A1: 2015 <br/>
 EN 55020:2007 + A12:2016 <br/>
 
 
-e está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de april de 2014.
+e está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
 
 Finestrat, 01 de setembro de 2016.
 
