@@ -17,7 +17,7 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 EN 303 345 V1.1.7 (2017-03) <br/>
 EN 55032:2015 <br/>
 EN 55024:2010+A1: 2015 <br/>
-EN 55020:2007 + A12:2016
+EN 55020:2007 + A12:2016 <br/>
 
 de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
 
