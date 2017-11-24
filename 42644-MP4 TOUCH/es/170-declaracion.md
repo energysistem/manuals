@@ -14,10 +14,12 @@ País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 55022:2010+AC: 2011 <br/>
+EN 303 345 V1.1.7 (2017-03) <br/>
+EN 55032:2015 <br/>
 EN 55024:2010+A1: 2015 <br/>
+EN 55020:2007 + A12:2016
 
-de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
 
 Finestrat, 01 de Septiembre de 2016.
 
