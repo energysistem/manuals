@@ -22,7 +22,7 @@ EN 62479:2010<br/>
 
 
 
-conformément aux dispositions de la Directive 2014/53/EU Directive  du Parlement européen et du Conseil du 9 mars 1999.
+conformément aux dispositions de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014.
 
 Finestrat, 1 septembre 2016.
 
