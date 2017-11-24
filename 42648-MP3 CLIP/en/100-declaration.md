@@ -20,8 +20,7 @@ EN 301 489-1 V1.9.2 (2011-09)<br/>
 EN 301 489-17 V1.2.2.1 (2012-09)<br/>
 EN 62479:2010<br/>
 
-
-of the Directive -	2014/53/EU Directive of the European Parliament and of the Council of March 09th 1999.
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of April 16th 2014.
 
 Finestrat, 01st September 2016.
 
