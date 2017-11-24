@@ -14,12 +14,13 @@ País de fabricação:  China <br/>
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-EN 55022:2010+AC: 2011<br/>
-EN 55024:2010+A1: 2015<br/>
-EN60950-1 :2006+A 11 :2009 <br/>
+EN 303 345 V1.1.7 (2017-03) <br/>
+EN 55032:2015 <br/>
+EN 55024:2010+A1: 2015 <br/>
+EN 55020:2007 + A12:2016 <br/>
 
 
-e está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+e está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de april de 2014.
 
 Finestrat, 01 de setembro de 2016.
 
