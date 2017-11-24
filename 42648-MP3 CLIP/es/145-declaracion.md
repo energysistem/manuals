@@ -15,12 +15,12 @@ País de fabricación: China <br/>
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
 EN 60065<br/>
-EN 300 328 V1.9.1 (2015-04)<br/>
-EN 301 489-1 V1.9.2 (2011-09)<br/>
-EN 301 489-17 V1.2.2.1 (2012-09)<br/>
 EN 62479:2010 <br/>
+EN 55032:2015<br/>
+EN 55020:2007+A11:2011+A12:2016<br/>
+EN 303 345 V1.1.7 (2017-03)<br/>
 
-de acuerdo con las disposiciones de la Directiva 2014/53/EU Directive del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
+de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo de 2016.
 
 Finestrat, 01 de Septiembre de 2016.
 
