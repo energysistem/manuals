@@ -5,16 +5,16 @@ Your headphones' battery life depends on the mode enabled and the selected volum
 |  |  |  |
 |:-------|:-------|:-------|
 | Maximum volume | ANC OFF | ANC ON| <br>
-| Bluetooth ON | 16 hours | 12 hours | <br>
-| Line in | -  | 22 hours |<br>
+| Bluetooth ON | 14 hours | 13 hours | <br>
+| Line in | -  | 24 hours |<br>
 
 <br><br/>
 
 |  |  |  |
 |:-------|:-------|:-------|
 | Medium volume | ANC OFF | ANC ON| <br>
-| Bluetooth ON | 18 hours | 15 hours | <br>
-| Line in | -  | 24 hours |<br>
+| Bluetooth ON | 19 hours | 16 hours | <br>
+| Line in | -  | 70 hours |<br>
 
 <br><br/>
 
