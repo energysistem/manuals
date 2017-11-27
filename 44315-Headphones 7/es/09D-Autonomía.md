@@ -14,7 +14,7 @@ La autonomía de los auriculares depende del modo de uso y del volumen seleccion
 |:-------|:-------|:-------|
 | Volumen medio | ANC OFF | ANC ON| <br>
 | Bluetooth ON | 19 horas | 16 horas | <br>
-| Line in | -  | 11 horas |<br>
+| Line in | -  | 70 horas |<br>
 
 <br><br>
 
