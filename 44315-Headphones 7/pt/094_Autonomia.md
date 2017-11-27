@@ -5,16 +5,16 @@ A autonomia dos auscultadores depende do modo e volume seleccionados. Na tabela 
 |  |  |  |
 |:-------|:-------|:-------|
 | Volume máximo | ANC desligado | ANC ligado| <br>
-| Bluetooth ligado | 16 horas | 12 horas | <br>
-| Line in | -  | 22 horas |<br>
+| Bluetooth ligado | 14 horas | 13 horas | <br>
+| Line in | -  | 24 horas |<br>
 
 <br><br>
 
 |  |  |  |
 |:-------|:-------|:-------|
 | Volume médio | ANC desligado| ANC ligado| <br>
-| Bluetooth ON | 18 horas | 15 horas | <br>
-| Line in | -  | 24 horas |<br>
+| Bluetooth ON | 19 horas | 16 horas | <br>
+| Line in | -  | 70 horas |<br>
 
 <br><br>
 
