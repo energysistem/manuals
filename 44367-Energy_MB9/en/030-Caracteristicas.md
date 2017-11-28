@@ -36,7 +36,7 @@
 *	Capacity: 4000 mAh
 *	12 V 1.5 A power adapter with DC charging system.
 *	Charging time: 2.5 hours
-*	Approximate battery life at an average volume level: 20 hours* 
+*	Approximate battery life at an average at 70% of volume level: 14 hours* 
 
  *Approximate battery life. Higher volume means higher battery consumption. Please see the "Battery life" section for more information.
 
