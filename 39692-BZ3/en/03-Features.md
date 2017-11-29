@@ -10,8 +10,8 @@
 - Handsfree function for you conference calls.
 - Total output power (RMS): 6W.
 - View all the functions thanks to the backlit "Hidden Display".
-- Plays MP3/WAV files from MMC/SD/SDHC/SDXC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
+- Plays MP3/WAV files from MMC/SD/SDHC/SDXC cards with capacity up to 64 GB.
+- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 64 GB.
 - Portable and compact design, allows you to take it anywhere and amplify your music.
 - FM radio function: listen your favourite radio programs and share them with your people.
 - 3.5 mm "Audio-In" port: listen music with any portable player or even computer.
@@ -27,8 +27,8 @@
 - 4.0 version, class II.
 - Supports A2DP and AVRCP profiles.
 - Easy sync with tablets, smartphones, Laptops, Mac, PC any other devices with Bluetooth®.
-- Plays MP3/WAV files from SD/SDHC/MMC cards with capacity up to 32 GB.
-- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 32 GB.
+- Plays MP3/WAV files from SD/SDHC/MMC cards with capacity up to 64 GB.
+- USB memory decoder: plays MP3/WAV files from USB memory drives with capacity up to 64 GB.
 - 2.0 loudspeakers with acoustic enhancement system.
 - Total output power (RMS): 6 W.
 - Frequency response: 90 Hz ~ 20 KHz.
