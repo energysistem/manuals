@@ -16,7 +16,7 @@
 - Hasta 10 metros de alcance.
 
 #### ENTRADAS DIGITALES
-- Decodificador de memoria externa USB con capacidad de hasta 64 GB. Formatos compatibles: WAV y MP3.
+- Decodificador de memoria externa USB con capacidad de hasta 64 GB en sistema de archivos FAT/FAT32. Formatos de audio compatibles: WAV y MP3.
 
 #### ENTRADAS ANALÓGICAS
 - Entrada analógica estéreo minijack de 3,5 mm.
