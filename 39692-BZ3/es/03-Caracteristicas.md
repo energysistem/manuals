@@ -10,8 +10,8 @@
 * Función manos libres para conferencias telefónicas.
 * Potencia de salida total (RMS): 6 W.
 * Visualiza todas las funciones gracias a su "Hidden Display"  retroiluminado.
-* Reproduce archivos MP3 desde tarjetas MMC/SD/SDHC/SDXC con capacidad de hasta 32 GB.
-* Decodificador de memorias USB: reproduce archivos MP3 desde memoria flash USB con capacidad de hasta 32 GB.
+* Reproduce archivos MP3 desde tarjetas MMC/SD/SDHC/SDXC con capacidad de hasta 64 GB en formato FAT/FAT32.
+* Decodificador de memorias USB: reproduce archivos MP3 desde memoria flash USB con capacidad de hasta 64 GB en formato FAT/FAT32.
 * Diseño compacto y portátil, te permitirá llevarlo contigo a todas partes y amplificar tu música.
 * Función radio FM: Escucha tu programa de radio favorito y compártelo con los tuyos.
 * Entrada "Audio-In" de 3.5 mm: para escuchar música con cualquier reproductor portátil u ordenador.
@@ -25,8 +25,8 @@
 * Versión 4.0, clase II.
 * Soporta archivos A2DP y AVRCP.
 * Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
-* Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-* Decodificador USB: reproduce archivos MP3 desde memoria flash USB con capacidad de hasta 32 GB.
+* Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 64 GB.
+* Decodificador USB: reproduce archivos MP3 desde memoria flash USB con capacidad de hasta 64 GB.
 * Altavoces 2.0 con sistema de realce acústico.
 * Potencia de salida total (RMS):6 W.
 * Respuesta en frecuencia: 90 Hz ~ 20 KHz.
