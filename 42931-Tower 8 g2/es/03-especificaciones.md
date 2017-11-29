@@ -20,7 +20,7 @@
 
 #### ENTRADAS DIGITALES
 - Entrada óptica digital S/PDIF.
-- Decodificador de memoria externa microSD  y USB con capacidad de hasta 64 GB. Formatos compatibles: WAV y MP3.
+- Decodificador de memoria externa microSD  y USB con capacidad de hasta 64 GB en sistema de archivos FAT/FAT32. Formatos compatibles: WAV y MP3.
 
 #### ENTRADAS ANALÓGICAS
 - Entrada analógica estéreo minijack de 3,5 mm.
