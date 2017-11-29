@@ -28,7 +28,7 @@
 - Salida analógica estéreo RCA.
 
 #### RADIO FM
-- Conexión de antena IEC.
+- Conexión de antena IEC macho.
 - Rango de frecuencia (FM): 87,5 ~ 108MHz.
 - Función de auto búsqueda.
 
