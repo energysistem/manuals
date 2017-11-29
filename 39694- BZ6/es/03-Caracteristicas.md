@@ -3,8 +3,8 @@
 - Bluetooth® bidireccional.
 - Versión 4.0, clase II.
 - Fácil sincronización con tablets, Smartphones, Portátiles, MAC, PC y cualquier otro dispositivo Bluetooth®.
-- Reproduce archivos MP3/WAV desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 32 GB.
+- Reproduce archivos MP3/WAV desde tarjetas SD/SDHC/MMC con capacidad de hasta 64 GB en formato FAT/FAT32.
+- Decodificador USB: reproduce archivos MP3/WAV desde memoria flash USB con capacidad de hasta 64 GB en formato FAT/FAT32.
 - Altavoces 2.1 con subwoofer.
 - Potencia de salida total: 12 W.
 - Respuesta en frecuencia: 60 Hz ~ 20 KHz.
