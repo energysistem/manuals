@@ -28,7 +28,7 @@
 - RCA audio-out (analogue stereo output)
 
 #### FM RADIO
-- IEC antenna connection
+- IEC male antenna connection
 - Frequency range (FM): 87.5 - 108 MHz
 - Auto search function
 - RDS function
