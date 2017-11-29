@@ -17,8 +17,8 @@
 - Cuerpo en madera para una acústica perfecta.
 - Mando a distancia con control total de funciones.
 - Ecualizaciones predefinidas con opción de ajuste manual.
-- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 32 GB.
-- Decodificador de memorias USB de hasta 32 GB.
+- Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC con capacidad de hasta 64 GB.
+- Decodificador de memorias USB de hasta 64 GB.
 - Formatos de reproducción de audio (USB / SD) : WAV y MP3.
 - Altavoces: 4" x 2 (centrales) + 1,5''x 2 (twitters) + 4" x 1 (subwoofer).
 - Respuesta en frecuencia: 20Hz-20KHz
