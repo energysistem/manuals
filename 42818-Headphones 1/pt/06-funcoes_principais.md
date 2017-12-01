@@ -10,7 +10,7 @@ O INDICADOR (5) continua a piscar a azul enquanto o dispositivo estiver ligado.
 
 ### Carregar a bateria
 
-Quando a bateria dos auscultadores está a acabar, os auscultadores emitem um sinal sonoro para alertar ao utilizador do estado da bateria. Ouvirá o sinal sonoro várias vezes até a bateria descarregar completamente. Para carregá-la, tem que ligar apenas a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA DE CARREGAMENTO (4) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O INDICADOR (5) fica vermelho e torna-se azul quando a bateria estiver completamente carregada.
+Quando a bateria dos auscultadores está a acabar, os auscultadores emitem um sinal sonoro para alertar ao utilizador do estado da bateria. Ouvirá o sinal sonoro várias vezes até a bateria descarregar completamente. Para carregá-la, tem que ligar apenas a extremidade mini USB do cabo USB (fornecido com o produto) à PORTA DE CARREGAMENTO (4) e a outra extremidade USB a qualquer outro dispositivo com porta USB que possa fornecer energia (por exemplo, um computador, carregador USB de parede, de carro, etc). O INDICADOR (5) fica vermelho e desliga-se quando a bateria está totalmente carregada.
 </unique> </quick_guide>
 
 **Informação importante:**
