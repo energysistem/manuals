@@ -6,7 +6,7 @@ Se desligar o *Energy Music Box 9* enquanto o dispositivo está a reproduzir mú
 
 Prima o botão *Avançar* (6) ou *Voltar* (4) para mudar a faixa. Prima o botão *Mudar função* (14) durante dois segundos para mudar para a seguinte pasta disponível no cartão microSD / USB.
 
-Prima o botão *Avançar* (6) ou *Voltar* (4) uns segundos para avançar ou retroceder dentro da própria faixa. Ao soltar o botão, o dispositivo continua com a reprodução da música. Também é possivel ativar o modo de reprodução aleatória de músicas. Para isso, prima o *Botão Início / Parar e Controlo de chamadas* (5) durante uns segundos. O *indicador de função SD / SD* (15) pisca enquanto o modo de reprodução aleatória está ativo.
+Prima o botão *Avançar* (6) ou *Voltar* (4) uns segundos para avançar ou retroceder dentro da própria faixa. Ao soltar o botão, o dispositivo continua com a reprodução da música. Também é possivel ativar o modo de reprodução aleatória de músicas. Para isso, prima o *Botão Reproduzir / Parar e Controlo de chamadas* (5) durante uns segundos. O *indicador de função SD / SD* (15) pisca enquanto o modo de reprodução aleatória está ativo.
 
 **Importante:** Recomendamos não remover a memória externa enquanto está a ser reconhecida pelo altifalante. Por favor, mude o modo ou desligue o dispositivo antes de removê-la.
 
