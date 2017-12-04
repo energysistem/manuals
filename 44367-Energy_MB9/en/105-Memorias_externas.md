@@ -6,6 +6,6 @@ If you turn off the *Energy Music Box 9* while the device is playing the files o
 
 To move to the previous or the following track, press *Next (6)* or *Back (4)*.  You can also move to the next folder of your microSD card / USB stick. To do so, press and hold the *Change function (14)* button for a few seconds.
 
-Press and hold *Next (6)* or *Back (4)* while the device is playing a song to fast forward through it or to rewind it. Playback will resume when you release the button. You can enable shuffle mode. To do so, press and hold *Start / Pause and Call Control (5)* for a few seconds. The *SD / USB indicator (15)* blinks while shuffle mode is enabled.
+Press and hold *Next (6)* or *Back (4)* while the device is playing a song to fast forward through it or to rewind it. Playback will resume when you release the button. You can enable shuffle mode. To do so, press and hold *Play / Pause and Call Control (5)* for a few seconds. The *SD / USB indicator (15)* blinks while shuffle mode is enabled.
 
 **Important:** We recommend not to remove the external storage unit while the reading process is in progress. Before doing that, please change mode or turn off the speaker.
