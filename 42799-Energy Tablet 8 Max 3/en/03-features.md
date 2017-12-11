@@ -20,7 +20,7 @@ MEMORY
 * 16 GB internal memory expandable by a further 256 GB via microSD-HC/XC cards
 
 CONNECTIVITY
-* Wi-Fi 802.11 b/g/n
+* WI-FI 802.11 a/b/g/n
 * Bluetooth 4.0
 * Built-in GPS
 
