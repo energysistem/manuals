@@ -1,6 +1,9 @@
 ## Types de pulsations
 
 * Pulsation : Appuyez brièvement sur l'écran
+## Types de pulsations
+
+* Pulsation : Appuyez brièvement sur l'écran
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/535569b2b5b35.jpg)
 
