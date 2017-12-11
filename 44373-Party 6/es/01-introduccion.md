@@ -1,4 +1,4 @@
-## Introducción.
+## Introducción
 
 * Gracias por confiar en nosotros y adquirir tu nuevo *Energy Party 6*. Esperamos que lo disfrutes.
 
