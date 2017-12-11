@@ -2,22 +2,22 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
 
-1. Headphones output
+1. MicroUSB port
 
-2. MicroUSB port
+2. MicroSD card slot
 
-3. Front camera
+3. Headphones output
 
-4. Power button
+4. Front camera
 
-5. Volume + 
+5. Power button
 
-6. Volume - 
+6. Volume + 
 
-7. Speakers
+7. Volume - 
 
 8. Microphone
 
-9. MicroSD card slot
+9. Speakers
 
 10. Rear camera
