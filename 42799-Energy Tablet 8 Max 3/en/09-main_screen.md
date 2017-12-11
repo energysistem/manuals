@@ -1,6 +1,6 @@
 ## Main screen
 
-![Image1](http://static.energysistem.com/images/manuals/42800/58d8e1f177e1f.jpg)  
+![Image1](http://static.energysistem.com/images/manuals/42799/5a12a1501ae0a.jpg)  
 
 1. Search: Direct access to Google's search engine.
 2. Voice Search: Access to Google's voice search and much more.
@@ -12,7 +12,7 @@
 8. Play Store: Google app store.
 9. Google Photos: image and video display and backup on the cloud.
 10. Energy Music: music player.
-11. Multitask: shows the recently used applications.
+11. Back: allows you to go back to the previous screen shown by any application that is running.
 12. Home: brings you back to the main screen.
-13. Back: allows you to go back to the previous screen shown by any application that is running.
+13. Multitask: shows the recently used applications.
 
