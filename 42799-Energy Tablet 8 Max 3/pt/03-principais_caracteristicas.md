@@ -17,10 +17,10 @@ CÂMARAS
 
 MEMÓRIA
 * 1 GB de RAM DDR3
-* 16 GB de memória interna expansível através de cartões microSD-HC/XC (até 256 GB).
+* 16 GB de memória interna expansível através de cartões microSD-HC/XC (até 256 GB)
 
 CONECTIVIDADE
-* Wi-Fi 802.11 b/g/n
+* WI-FI 802.11 a/b/g/n
 * Bluetooth 4.0
 * GPS integrado
 
