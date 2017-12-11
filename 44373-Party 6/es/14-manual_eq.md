@@ -17,6 +17,6 @@ También puedes personalizar el sonido usando el ecualizador analógico de 5 ban
 #### EQ manual conectando dos Energy Party 6
 Como ya se ha comentado en el apartado **Salidas analógicas**, puedes conectar dos *Energy Party 6* utilizando un cable "RCA-RCA" para reproducir por ambos dispositivos a la vez.
 
-Nuestra propuesta para encontrar el mejor sonido es que mantengas todos los *Regulador EQ manual* (25) del altavoz secundario en el centro y ajustes los *Regulador EQ manual* (25) del altavoz principal reduciendo en dos puntos la banda de los 10 KHz y en un punto el la banda de los 3 KHz y mantengas el resto de reguladores en el centro.
+Nuestra propuesta para encontrar el mejor sonido es que mantengas todos los *Regulador EQ manual* (25) del altavoz secundario en el centro y ajustes los *Regulador EQ manual* (25) del altavoz principal reduciendo en dos puntos la banda de los 10 KHz y en un punto la banda de los 3 KHz y mantengas el resto de reguladores en el centro.
 
 
