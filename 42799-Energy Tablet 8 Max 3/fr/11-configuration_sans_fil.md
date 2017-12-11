@@ -4,8 +4,8 @@
 
 Votre tablette est équipée de connexion Bluetooth pour connecter des écouteurs, des ordinateurs, des tablettes ou tout autre appareil permettant ce protocole de communication. Allez sur Paramètres > Bluetooth et activez l'interrupteur placé en haut. Une fois cela fait, les périphériques disponibles seront affichés au fur et à mesure et vous pourrez les sélectionner pour réaliser la connexion.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf71c27aea.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7b353875.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12ba39bda49.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42799/5a12ba684f4c5.jpg)
 
 1. Paramètres > Bluetooth.
 2. Activez la case Bluetooth.
@@ -16,9 +16,9 @@ Votre tablette est équipée de connexion Bluetooth pour connecter des écouteur
 
 Votre tablette est équipée de connexion Wi-Fi. Pour la connecter à un réseau sans fil allez sur Paramètres > Wi-Fi et activez l'interrupteur placé en haut. Une fois cela fait, les périphériques disponibles seront affichés au fur et à mesure et vous pourrez les sélectionner pour réaliser la connexion.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42547/587cf7dc7cc46.jpg)
-![Imagen2](http://static.energysistem.com/images/manuals/42547/587cf7e2e6954.jpg)
-![Imagen3](http://static.energysistem.com/images/manuals/42547/587cf7e8ed7b9.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12baebaf89c.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42799/5a12bb68c8d48.jpg)
+![Imagen3](http://static.energysistem.com/images/manuals/42799/5a12bb92f2c9d.jpg)
 
 1. Paramètres > Wi-Fi.
 2. Activez la case Wi-Fi.
