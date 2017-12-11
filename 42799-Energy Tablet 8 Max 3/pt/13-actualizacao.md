@@ -8,7 +8,7 @@ Siga estes passos para realizar a instalação:
 
 1.  Verifique que o nível de carga da bateria é superior a 60%.  Caso contrário, ligue o dispositivo na tomada elétrica através do adaptador de corrente fornecido com o produto.
 
-2. Aceda à página web www.energysistem.com no seu computador.
+2. Aceda à página web www.energysistem.com/pt/ no seu computador.
 
 3. Entre na secção *Suporte* e seleccione o tipo de produto *Tablet*.
 
