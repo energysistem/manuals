@@ -1,6 +1,6 @@
 ## Warranty and support
 
-Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manuals, drivers and updates available. You will also have the possibility to submit a query to our Technical Support or manage the warranty.
+Visit the Support section at http://www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions), user manual, quick guide, drivers and updates available. You will also have the possibility to submit a query to our Technical Support or manage the warranty.
 
 You may also contact the distributor that sold the product by presenting the purchase receipt or invoice.
 
@@ -15,3 +15,4 @@ All company, brand and product names are trademarks or registered trademarks of 
 © 2017 by Energy Sistem Technology, S.A. All rights reserved.
 
 IMPORTANT: The present device could contain links to other sites or websites operated by third parties not related to Energy Sistem Technology, S.A. These links are provided for your information or convenience; Energy Sistem is not responsible for their availability, content, update, adequacy or accuracy.  These external web sites might contain link references to trademarks, patents, registered information, technologies, products, processes or rights property of other companies or individuals. All rights reserved are property of their respective owners.
+
