@@ -1,4 +1,4 @@
-## Memorias externas USB.
+## Memorias externas USB
 
 Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 64 Gb de capacidad.
 
@@ -10,7 +10,7 @@ Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del 
 
 También puedes cambiar de carpeta pulsando el botón *Ajuste + frecuencia FM / Avanzar de carpeta (USB)* y *Ajuste - frecuencia FM / Retroceder de carpeta (USB)* desde el panel superior *(23)* y *(19)* o desde el mando a distancia *(37)* y *(39)* respectivamente.
 
-### Modo de reproducción USB.
+### Modo de reproducción USB
 
 Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
 
