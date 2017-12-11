@@ -1,4 +1,4 @@
-## Radio FM.
+## Radio FM
 
 Para utilizar esta función es necesario sintonizar previamente las emisoras de radio disponibles, para ello conecta la antena de radio (incluida) en la parte posterior del panel superior y manten pulsado el botón *Inicio y pausa / Sintonización FM* del panel superior *(22)* o del mando a distancia *(45)* durante dos segundos cuando el dispositivo esté en modo radio. Esta operación tardará unos minutos. Estas emisoras quedarán almacenadas en la memoria de tu *Energy Party 6* por lo que no es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la frecuencia de la emisora deseada.
 
