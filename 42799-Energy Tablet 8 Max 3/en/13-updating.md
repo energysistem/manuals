@@ -1,8 +1,8 @@
 ## Updates
 
 Your Energy Tablet 8" Max 3 has an Android based operating system that can be reinstalled or updated if necessary. Updates will be carried out via OTA (Over-The-Air) by default, so your tablet will automatically connect to our servers, will download the update and will install it as soon as it is available.
-
-You can also update your tablet using your PC. The process is simple but has to be done carefully and only when is really necessary. If the device does not respond, restarts unexpectedly or you experience problems accessing the content stored on the built-in memory, you should reinstall or update the operating system to the latest compatible version available.
+	
+You can also update your tablet using your PC. The process is simple but has to be done carefully and only when is really necessary. If the device does not respond, restarts unexpectedly or you experience problems accessing the content stored on the internal memory, you should reinstall or update the operating system to the latest compatible version available.
 
 Please follow these steps to install it:
 
@@ -19,4 +19,6 @@ Please make sure the firmware version you are downloading is intended for your m
 5. Unzip the file on your computer.
 
 6. Open the text file that you will find in the folder and follow the instructions to install the firmware.
+
+
 
