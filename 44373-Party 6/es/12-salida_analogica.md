@@ -1,4 +1,4 @@
-## Salida analógica RCA.
+## Salida analógica RCA
 
 Tu *Energy Party 6* cuenta con una conexión de *Salida RCA estéreo (30)* para poder compartir la música que estás reproduciendo con otros altavoces que dispongan de entrada analógica.
 
