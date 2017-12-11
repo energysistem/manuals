@@ -28,7 +28,7 @@ EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013
 
 conformément aux dispositions de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014.
 
-Finestrat, 1 septembre 2017.
+Finestrat, 1er septembre 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
