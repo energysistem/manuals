@@ -2,23 +2,23 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
 
-1.  Saída para auscultadores
+1.  Porta microUSB
 
-2.  Porta microUSB
+2. Slot do cartão microSD
 
-3. Câmara frontal
+3. Saída para auscultadores
 
-4. Botão ligar/desligar
+4. Câmara frontal
 
-5. Botão de volume +
+5. Botão ligar/desligar
 
-6. Botão de volume -
+6. Botão de volume +
 
-7. Altifalantes
+7. Botão de volume -
 
 8. Microfone
 
-9. Slot do cartão microSD
+9. Altifalantes
 
 10. Câmara traseira
 
