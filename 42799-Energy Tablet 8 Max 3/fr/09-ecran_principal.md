@@ -1,6 +1,6 @@
 ## Écran principal
 
-![Image1](http://static.energysistem.com/images/manuals/42800/58d8e1f177e1f.jpg)  
+![Image1](http://static.energysistem.com/images/manuals/42799/5a12a1501ae0a.jpg)  
 
 1. Navigateur : accès directe au moteur de recherche Web de Google.
 2. Recherche vocale : accédez sur la recherche vocale de Google et beaucoup plus.
@@ -12,6 +12,6 @@
 8. Play Store : Boutique d'applications de Google.
 9. Google Photos : affichage et copie de sauvegarde des images et vidéos dans le Cloud.
 10. Energy Music : lecture de fichiers audio.
-11. Multitâche : vous montre les applications récemment utilisées.
+11. Arrière : permet de revenir à l'écran précédent sur l'application en cours d'exécution.
 12. Accueil : vous permet de revenir à l'écran principal.
-13. Arrière : permet de revenir à l'écran précédent sur l'application en cours d'exécution.
+13. Multitâche : vous montre les applications récemment utilisées.
