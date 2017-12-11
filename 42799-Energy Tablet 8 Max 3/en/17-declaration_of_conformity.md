@@ -32,5 +32,5 @@ Finestrat, 01st September 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42547/586ce335eb9df.jpg)
 
-Marco Antonio Velázquez Fierro
+Marco Antonio Velázquez Fierro 
 Product Management Director
