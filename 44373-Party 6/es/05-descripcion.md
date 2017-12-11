@@ -1,4 +1,4 @@
-## Descripción.
+## Descripción
 
 
 ![Schema](http://static.energysistem.com/images/manuals/42360/59c36d97f1ac2.jpg)<br> <br> <br>
