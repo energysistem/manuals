@@ -1,4 +1,4 @@
-## Salida USB para carga de dispositivos.
+## Salida USB para carga de dispositivos
 
 El *Energy Party 6* dispone de una *Conexión USB de carga* (9) para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
 
