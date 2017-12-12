@@ -1,22 +1,20 @@
-## Ecualización (EQ).
+## Égalisation (EQ)
 
-Tu *Energy Party 6* cuenta con dos opciones de ecualización para que puedas ajustar el sonido como más te gusta:
+Votre *Energy Party 6* dispose de deux options d'égalisation pour régler le son comme vous voulez :
 
-### EQ predefinidos.
-Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón * Habilitar EQ digital predefinidos* (2) para cambiar entre las disponibles:
-- FLAT (respuesta plana)
+### EQ prédéfinies
+Appuyez sur le bouton *EQ numérique prédéfinies* (2) pour choisir parmi les 6 égalisations numériques prédéfinies :
+- FLAT (réponse plate)
 - CLASSIC
 - VOCAL
 - POP
 - ROCK
 - JAZZ
 
-### EQ manual.
-También puedes personalizar el sonido usando el ecualizador analógico de 5 bandas. Para ello, pulsa el botón de *Habilitar EQ manual* (8) para habilitar esta opción y después usa los 5 reguladores para  ajustar cada una de las bandas de frecuencia disponibles.
+### EQ manuelle
+Vous pouvez aussi régler le son avec l'égaliseur analogique 5 bandes. Pour ce faire, appuyez sur le bouton *Activer EQ manuelle* (8) pour activer cette option, puis utilisez les 5 régulateurs pour régler toutes les bandes de fréquences disponibles.
 
-#### EQ manual conectando dos Energy Party 6.
-Como ya se ha comentado en el apartado **Salidas analógicas**, puedes conectar dos *Energy Party 6* utilizando un cable "RCA-RCA" para reproducir por ambos dispositivos a la vez.
+#### EQ manuelle avec deux Energy Party 6
+Comme indiqué dans la section **Sorties analogiques**, vous pouvez connecter deux *Energy Party 6* à l'aide d'un câble RCA-RCA pour diffuser le même contenu sur deux appareils en même temps.
 
-Nuestra propuesta para encontrar el mejor sonido es que mantengas todos los *Regulador EQ manual* (25) del altavoz secundario en el centro y ajustes los *Regulador EQ manual* (25) del altavoz principal reduciendo en dos puntos la banda de los 10 KHz y en un punto el la banda de los 3 KHz y mantengas el resto de reguladores en el centro.
-
-
+Pour trouver le meilleur son, nous vous conseillons de garder tous les *Régulateur EQ manuelle* (25) du haut-parleur secondaire au centre et de régler les *Régulateur EQ manuelle* (25) du haut-parleur principal en réduisant deux points la bande de 10 KHz et un point la bande de 3 KHz et de garder le reste des régulateurs au centre.
