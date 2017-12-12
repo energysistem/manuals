@@ -1,7 +1,7 @@
-## Conexión Bluetooth.
+## Connexion Bluetooth
 
-Para sincronizar un dispositivo Bluetooth con tu *Energy Party 6* debe estar en modo Bluetooth. Selecciona este modo presionando el botón *Función Bluetooth* (4) y visualizarás las letras "Bluetooth" en la *Pantalla* (14). En ese momento puedes comenzar con la sincronización.
+Vous devez activer le mode Bluetooth sur votre *Energy Party 6* pour la synchronisation avec un appareil Bluetooth. Sélectionnez ce mode en appuyant sur le bouton *Fonction Bluetooth* (4) et vous verrez les lettres « Bluetooth » sur l'*Écran* (14). À ce moment-là vous pouvez commencer la synchronisation.
 
-Cuando visualices en tu dispositivo Bluetooth el nombre “Energy Party 6”, pulsa “conectar”. La conexión se realizará de forma inmediata. Escucharás un sonido que confirma la sincronización entre ambos dispositivos.
+Lorsque le nom « Energy Party 6 » sera affiché sur votre appareil Bluetooth, appuyez sur « connecter ». La connexion sera établie immédiatement. Vous entendrez un bip qui confirmera la synchronisation entre les deux appareils.
 
-Si deseas emparejar otro dispositivo Bluetooth, mantén pulsado el botón *Modo de reproducción (USB) / reinicio (Bluetooth)* (7) durante unos segundos hasta que escuches un sonido de confirmación, entonces tu Energy Party 6 entrará modo búsqueda de nuevo.
+Si vous souhaitez coupler un autre appareil Bluetooth, maintenez enfoncé le bouton *Mode de lecture (USB)/ Redémarrage (Bluetooth)* (7) pendant quelques secondes jusqu'à ce que vous entendrez un son de confirmation. Votre Energy Party 6 passera alors en mode de recherche à nouveau.
