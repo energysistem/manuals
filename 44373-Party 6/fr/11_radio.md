@@ -1,10 +1,9 @@
-## Radio FM.
+## Radio FM
 
-Para utilizar esta función es necesario sintonizar previamente las emisoras de radio disponibles, para ello conecta la antena de radio (incluida) en la parte posterior del panel superior y manten pulsado el botón *Inicio y pausa / Sintonización FM* del panel superior *(22)* o del mando a distancia *(45)* durante dos segundos cuando el dispositivo esté en modo radio. Esta operación tardará unos minutos. Estas emisoras quedarán almacenadas en la memoria de tu *Energy Party 6* por lo que no es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la frecuencia de la emisora deseada.
+Pour utiliser ce mode il faut d'abord régler les stations de radio disponibles. Pour cela faire, connectez l'antenne radio (fournie) à la partie arrière du panneau supérieur et maintenez enfoncé le bouton *Lecture et pause/ Réglage FM* sur le panneau supérieur *(22)* ou sur la télécommande *(45)* pendant deux secondes lorsque l'appareil sera en mode radio. Cela prendra quelques minutes. Ces stations seront sauvegardées sur votre *Energy Party 6*. Il n'est donc pas nécessaire de répéter cette recherche, sauf si vous changez de localisation ou si la fréquence de la station désirée est modifiée.
 
-Después de la sintonización podrás seleccionar entre las distintas emisoras usando de nuevo el botón *Inicio y pausa / Sintonización* del panel superior *(22)* o el mando a distancia *(45)*. Mediante pulsaciones cortas podrás cambiar de emisora entre las que se han almacenado en la memoria interna.
+Après le réglage, vous pouvez choisir entre les différentes stations à l'aide des boutons *Lecture et pause/ Réglage FM* du panneau supérieur *(22)* ou de la télécommande *(45)*. Appuyez brièvement pour changer entre les stations sauvegardées dans la mémoire interne.
 
-Para aumentar la recepción de ondas de radio puedes conectar el altavoz a la toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. Ambos cables de antena se conectan en el conector *Toma de radio FM* (34) situado en el panel trasero de tu *Energy Party 6*. Se recomienda sintonizar las emisoras de radio con alguna de estas opciones, de esta manera conseguirás mejor recepción de la señal.
+Pour augmenter la réception des ondes radio, vous pouvez connecter le haut-parleur à la prise murale de votre maison via un câble radio IEC mâle-femelle. Les deux câbles d'antenne se connectent au connecteur *Prise radio FM* (34) sur le panneau arrière de votre *Energy Party 6*. Il est recommandé de régler les stations de radio en utilisant ces options pour obtenir une meilleure réception du signal.
 
    ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563b1c48efa.jpg)
-   
