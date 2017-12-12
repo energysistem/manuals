@@ -1,8 +1,8 @@
-## Iluminación.
+## Éclairage
 
-Tu *Energy Party 6* cuenta con un juego de luces LED que te ayudará a animar la fiesta. Estas luces tienen varios modos de funcionamiento que podrás cambiar mediante el botón *Modos de iluminación* (13):
+Votre *Energy Party 6* est muni d'éclairage LED pour vous aider à animer la fête. Ces lumières ont plusieurs modes de fonctionnement que vous pourrez modifier avec le bouton *Modes d'éclairage* (13) :
 
-  - OFF: Las luces permanecerán apagadas.
-  - ON: Las luces permanecerán encendidas en color azul.
-  - Pulse: Las luces irán cambiando al ritmo de la música.
-  - Breathe: Las luces realizarán transiciones suaves de color.
+  - OFF : Les lumières resteront éteintes.
+  - ON : Les lumières resteront allumées en bleu.
+  - Pulse : Les lumières changeront avec la musique.
+  - Breathe : Les lumières feront des transitions douces entre les couleurs.
