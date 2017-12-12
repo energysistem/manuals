@@ -1,11 +1,11 @@
-## Salida USB para carga de dispositivos.
+## Port USB pour charger des appareils
 
-El *Energy Party 6* dispone de una *Conexión USB de carga* (9) para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+L'*Energy Party 6* est muni d'une *Connexion USB de charge* (9) pour connecter un câble USB et charger d'autres appareils tels que smartphones, tablettes ou lecteurs MP3, même s'ils sont en cours d'utilisation.
 
-Especificaciones salida "DC OUT": 
-Tensión= 5V 
-Intensidad= 2A
+Spécifications de la sortie « DC OUT » : 
+Tension = 5 V 
+Intensité = 2 A
 
-Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
+Tout appareil ayant besoin d'une tension au-dessus de 5 V ne pourra pas être chargé.
 
-**Nota:** En caso de que estés usando el la radio FM, para evitar interferencias durante la carga de dispositivos mantén separada la antena de la radio del cable USB de carga.
+**Note :** Si vous utilisez la radio FM, pour éviter les interférences pendant le chargement des appareils, gardez l'antenne radio séparée du câble de chargement USB.
