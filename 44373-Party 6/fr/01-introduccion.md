@@ -1,7 +1,5 @@
-## Introducción.
+## Introduction
 
-* Gracias por confiar en nosotros y adquirir tu nuevo *Energy Party 6*. Esperamos que lo disfrutes.
+* Merci de votre confiance et de l'achat de votre nouvel *Energy Party 6*. Nous espérons que vous l'apprécierez.
 
-* Antes de comenzar a disfrutar de tu *Energy Party 6* te invitamos a que leas este manual para familiarizarte con el producto y puedas sacarle el máximo partido.
-
-
+* Avant de commencer à profiter de votre *Energy Party 6* nous vous conseillons de lire ce manuel pour vous familiariser avec le produit et en profiter pleinement.
