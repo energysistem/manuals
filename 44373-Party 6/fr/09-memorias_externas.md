@@ -30,5 +30,5 @@ Les chansons contenues dans la racine de la mémoire sont lues d'abord par ordre
 
 4) **RANDOM :** Lecture aléatoire de tout le contenu de votre mémoire.
 
-5) **OFF : ** Tous les contenus de la mémoire sont lus dans le même ordre que le mode ALL, mais sans répéter aucune piste.
+5) **OFF :** Tous les contenus de la mémoire sont lus dans le même ordre que le mode ALL, mais sans répéter aucune piste.
 
