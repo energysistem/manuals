@@ -1,11 +1,11 @@
-## Contenido del producto
+## Contenu du produit
 
 * Energy Party 6.
-* Mando a distancia.
-* 2 pilas AAA.
-* Cable de alimentación.
-* Cable de audio miniJack.
-* Antena de radio.
-* Micrófono.
-* Cable de micrófono.
-* Guía rápida de uso.
+* Télécommande.
+* 2 piles AAA.
+* Câble d'alimentation.
+* Câble audio mini jack.
+* Antenne radio.
+* Microphone.
+* Câble de microphone.
+* Guide de démarrage rapide.
