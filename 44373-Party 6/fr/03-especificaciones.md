@@ -1,44 +1,43 @@
-## Especificaciones técnicas.
+## Caractéristiques techniques
 
 #### AUDIO
-- Sistema de sonido 2.1.
-- Potencia: 240 W. 
-- Procesador de audio digital (DSP) de 16 bits / 48 kHz.
-- Altavoz de agudos de 2“.
-- Altavoces frontales de rango completo de 6.5”.
-- Respuesta en frecuencia: 20 Hz ~ 20 KHz.
-- Ecualizador analógico de 5 bandas.
-- Caja acústica de madera.
+- Système de son 2.1.
+- Puissance : 240 W. 
+- Processeur audio numérique (DSP) de 16 bits / 48 KHz.
+- Haut-parleur d'aigus de 2".
+- Haut-parleurs frontaux large bande de 6,5".
+- Réponse en fréquence : 20 Hz ~ 20 KHz.
+- Égaliseur analogique 5 bandes.
+- Boîtier en bois.
 
-#### CONEXIÓN BLUETOOTH
-- Protocolos A2DP; AVRCP.
-- Bluetooth 4.0. Clase II. 
-- Hasta 10 metros de alcance.
+#### CONNEXION BLUETOOTH
+- Protocoles A2DP ; AVRCP.
+- Bluetooth 4.0. Classe II. 
+- Portée jusqu'à 10 mètres.
 
-#### ENTRADAS DIGITALES
-- Decodificador de memoria externa USB con capacidad de hasta 64 GB. Formatos compatibles: WAV y MP3.
+#### ENTRÉES NUMÉRIQUES
+- Décodeur de mémoire externe USB avec 64 Go de capacité sur le système de fichiers FAT/ FAT32. Formats audio compatibles : WAV et MP3.
 
-#### ENTRADAS ANALÓGICAS
-- Entrada analógica estéreo minijack de 3,5 mm.
-- Entrada analógica estéreo RCA. 
-- Entrada de micrófono jack mono. 
-- Entrada de guitarra jack con potenciómetro.
+#### ENTRÉES ANALOGIQUES
+- Entrée analogique stéréo mini jack 3,5 mm.
+- Entrée analogique stéréo RCA. 
+- Entrée microphone Jack mono. 
+- Entrée guitare Jack avec potentiomètre.
 
-#### SALIDAS ANALÓGICAS
-- Salida analógica estéreo RCA.
+#### SORTIES ANALOGIQUES
+- Sortie analogique RCA stéréo.
 
 #### RADIO FM
-- Conexión de antena IEC.
-- Rango de frecuencia (FM): 87,5 ~ 108MHz.
-- Función de auto búsqueda.
+- Connecteur antenne IEC mâle.
+- Plage de fréquence (FM) : 87,5 ~ 108 MHz.
+- Fonction recherche automatique.
 
-#### OTROS
-- Luces LED con 4 modos diferentes.
-- Pantalla de segmentos LED de 2.4”.
-- Mando a distancia de hasta 10 metros de alcance.
-- Función ENERGY MUSIC POWER 600.
-- Efecto regulable de reverberación para la entrada de micrófono. 
-- Puerto USB de carga: 5V, 2A.
-- Alimentación. 200-240V , 50Hz.
-- Cable de alimentación IEC de 150 cm.
-
+#### AUTRES
+- Lumières LED avec 4 différents modes.
+- Écran LED de 2,4" à segments.
+- Portée de la télécommande : jusqu'à 10 mètres.
+- Fonction ENERGY MUSIC POWER 600.
+- Effet réglable de réverbération pour l'entrée microphone. 
+- Connexion USB pour charger la batterie : 5 V, 2 A.
+- Alimentation. 200-240 V, 50 Hz.
+- Câble d'alimentation IEC de 150 cm.
