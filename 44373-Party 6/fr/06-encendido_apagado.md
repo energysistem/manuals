@@ -1,4 +1,4 @@
-##Allumer et éteindre
+## Allumer et éteindre
 
 Une fois branché à une prise, placez l'*Interrupteur d'alimentation* (27) sur la position ON pour allumer votre *Energy Party 6*. À partir de ce moment-là, vous pouvez l'allumer et l'éteindre en utilisant le bouton *Marche/ Arrêt* sur le panneau supérieur (16) ou sur la télécommande (35).
 
