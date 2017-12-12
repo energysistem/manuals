@@ -1,37 +1,34 @@
-## Memorias externas USB.
+## Mémoires amovibles USB
 
-Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 64 Gb de capacidad.
+Votre *Energy Party 6* peut également lire des fichiers au format .mp3 et .wav via des clés USB jusqu'à 64 Go.
 
-Inserta la memoria en el *Conector USB de reproducción (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
+Insérez la clé dans le *Connecteur USB de données (26)* et votre *Energy Party 6* passera automatiquement en mode USB pour lire le contenu de la clé que vous venez d'insérer.
 
-Si apagas el *Energy Party 6* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si vous éteignez votre *Energy Party 6* ou vous retirez la clé, le moment où vous avez arrêté la lecture sera enregistré sur la mémoire interne de l'appareil. Lorsque vous reconnecterez la même clé, l'appareil continuera la lecture à partir du moment où vous l'avez arrêtée.
 
-Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente. Para avanzar y retroceder en una canción, mantén pulsado durante 4 segundos los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente.
+Pour changer la piste, appuyez sur les touches *Avance* et *Retour* sur le panneau *(20)* et *(21)* ou sur la télécommande *(38)* et *(46)* respectivement. Pour changer à la piste suivante ou précédente, maintenez les boutons *Avance* et *Retour* enfoncés pendant 4 secondes sur le panneau *(20)* et *(21)* ou sur la télécommande *(38)* et *(46)* respectivement.
 
-También puedes cambiar de carpeta pulsando el botón *Ajuste + frecuencia FM / Avanzar de carpeta (USB)* y *Ajuste - frecuencia FM / Retroceder de carpeta (USB)* desde el panel superior *(23)* y *(19)* o desde el mando a distancia *(37)* y *(39)* respectivamente.
+Vous pouvez également modifier le dossier en appuyant sur les boutons *Réglage + fréquence FM/ Dossier suivant (USB)* et *Réglage - fréquence FM/ Dossier précédent (USB)* sur le panneau supérieur *(23)* et *(19)* ou sur la télécommande *(37)* et *(39)* respectivement.
 
-### Modo de reproducción USB.
+### Mode de lecture USB
 
-Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
+En appuyant sur *Mode de lecture (USB)/ Redémarrer (Bluetooth) (7)*, vous pouvez choisir parmi 5 options :
 
-1) **ALL:**  Se repite todo el contenido de la memoria. 
+1) **ALL :** Votre appareil répétera la lecture de tout le contenu de votre mémoire. 
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
+Les dossiers et les chansons contenus dans les mémoires amovibles sont lus par ordre alphabétique.
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+Les chansons contenues dans la racine de la mémoire sont lues d'abord par ordre alphabétique, puis les chansons contenues dans les dossiers. Les dossiers sont lus dans l'ordre où ils ont été créés. Une fois à l'intérieur du dossier, le même processus est effectué et les chansons sont lues par ordre alphabétique.
 
-   A continuación se muestra un diagrama del orden de lectura:
+   Vous trouverez ci-après un schéma de l'ordre de lecture :
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** Se repite la canción que estás escuchando infinitas veces.
+2) **ONE :** Votre appareil répétera sans fin la chanson en cours de lecture.
 
-3) **FOLDER:** Se repite el contenido de la carpeta que estás escuchando infinitas veces.
+3) **FOLDER :** Votre appareil répétera sans fin le contenu du dossier en cours de lecture.
 
-4) **RANDOM:** Reproducción aleatoria de todo el contenido de la memoria.
+4) **RANDOM :** Lecture aléatoire de tout le contenu de votre mémoire.
 
-5) **OFF:** Se reproduce todo el contenido de la memoria con el mismo orden que con el modo ALL pero sin repetir ninguna pista.
-
-
-
+5) **OFF : ** Tous les contenus de la mémoire sont lus dans le même ordre que le mode ALL, mais sans répéter aucune piste.
 
