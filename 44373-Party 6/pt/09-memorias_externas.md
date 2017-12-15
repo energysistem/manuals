@@ -31,6 +31,6 @@ O dispositivo reproduz em primeiro lugar as faixas armazenadas na pasta raiz da 
 
 4) **RANDOM:** reproduz o conteúdo da memória aleatoriamente. 
 
-5)**OFF:** reproduz o conteúdo da memória seguindo a ordem de leitura do modo ALL mas sem repetir nenhuma faixa.
+5) **OFF:** reproduz o conteúdo da memória seguindo a ordem de leitura do modo ALL mas sem repetir nenhuma faixa.
 
 
