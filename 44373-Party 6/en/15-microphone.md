@@ -1,12 +1,13 @@
-## Micrófono.
+## Microphone
 
-Tu *Energy Party 6* dispone de una *Entrada JACK para micrófono* (33) a la que puedes conectar el micrófono incluido. Está opción estará habilitada en todos los modos de uso. 
+Your *Energy Party 6* features a *Jack audio-in for microphone* (33) to connect the provided microphone. This option may be used while using any mode. The microphone has a switch to turn it on and off.
 
-Puedes modificar la intensidad de la señal del micrófono gracias al *Volumen micrófono* (12); y el eco del mismo micrófono mediante el *Efecto eco del micrófono* (17). Ambos controles se encuentran en el panel superior.
+You can modify the microphone strength using the *Microphone volume* (12) button and applying the *Microphone echo effect* (17). Both controllers are on the device top display.
 
 
-## Entrada de guitarra.
+## Audio-in for guitar
 
-Al igual que en caso de la *Entrada JACK para micrófono* (33), podrás utilizar esta entrada cuando estés reproduciendo música o sin reproducir nada más que el sonido de tu guitarra. Te recomendamos que, cuando vayas a conectar la guitarra, coloques el * Volumen entrada jack para guitarra* (31) al mínimo  y ajustes a partir de ahí el nivel de volumen que quieras.
+You will be able to use this input while playing content in playback mode or while playing the guitar only, as when using the *Jack audio-in for microphone* (33). We recommend that you turn down the *Guitar volume (jack audio-in)* (31) to the lowest level before connecting your guitar. You may select the volume that you prefer from that moment on.
 
-**Nota:** Un nivel de volumen excesivo de entrada puede llegar a dañar tu *Energy Party 6*, por lo que te recomendamos ajustarlo siempre a partir del nivel mínimo.
+**Important:** We recommend to turn down the volume to the lowest level first and select the volume that you like after connecting the guitar since extremely high volume may damage your *Energy Party 6*.
+
