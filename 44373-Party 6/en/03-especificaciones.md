@@ -35,7 +35,7 @@
 
 #### OTHER FEATURES
 - LED lights with 4 different modes
- 2.4" LED display
+- 2.4" LED display
 - Remote control with up to 10 meters range
 - ENERGY MUSIC POWER 600 function
 - Adjustable reverb effect for microphone input 
