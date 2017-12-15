@@ -6,5 +6,5 @@ Te recomendamos que cuando no vayas a utilizar el altavoz durante un periodo lar
 
 ## Funciones de reproducción
 
-En la parte superior del panel superior encontrarás los botones de acceso a las diferentes modos de uso disponibles (USB, Bluetooht, AUX y Radio FM). Visualizarás en la *Pantalla* (14) la función seleccionada. También puedes cambiar de función desde el mando a distancia pulsando el botón *Cambio de función* (36). 
+En la parte superior del panel superior encontrarás los botones de acceso a las diferentes modos de uso disponibles (USB, Bluetooth, AUX y Radio FM). Visualizarás en la *Pantalla* (14) la función seleccionada. También puedes cambiar de función desde el mando a distancia pulsando el botón *Cambio de función* (36). 
 
