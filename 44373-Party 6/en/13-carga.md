@@ -1,11 +1,10 @@
-## Salida USB para carga de dispositivos.
+Your *Energy Party 6* features an *USB charging port (9)* to connect an USB cable and charge other devices such as smartphones, tablets or MP3 players, even when the speaker is playing music.
 
-El *Energy Party 6* dispone de una *Conexión USB de carga* (9) para poder conectar un cable USB y cargar otro dispositivo como un smartphone, una tablet o un reproductor MP3, incluso mientras lo estás usando como reproductor.
+"DC OUT" technical specifications: 
+Voltage = 5 V 
+Current = 2 A
 
-Especificaciones salida "DC OUT": 
-Tensión= 5V 
-Intensidad= 2A
+Any device that requires more than 5 V voltage cannot be charged.
 
-Cualquier dispositivo que necesite una tensión superior a 5V no se podrá cargar.
+**Important:** If you are using the FM radio, it is important to keep the radio antenna away from the USB charging cable to avoid any interference while charging devices.
 
-**Nota:** En caso de que estés usando el la radio FM, para evitar interferencias durante la carga de dispositivos mantén separada la antena de la radio del cable USB de carga.
