@@ -1,4 +1,4 @@
-## Descripción.
+## Overview
 
 
 ![Schema](http://static.energysistem.com/images/manuals/42360/59c36d97f1ac2.jpg)<br> <br> <br>
@@ -9,8 +9,5 @@
 
 |  |  |
 |:-------|:-------|
-|1. Soporte para dispositivos. <br>2. EQ digital predefinidos. <br>3. Función USB. <br>4. Función Bluetooth. <br>5. Función entrada de audio. <br> (miniJack / RCA). <br>6. Función Radio FM. <br>7. Modo de reproducción (USB) /reinicio (Bluetooth). <br>8. Habilitar EQ manual. <br>9. Conexión USB de carga. <br>10. Entrada de audio miniJack. <br>11. Control de volumen. <br>12. Control de volumen micrófono. <br>13. Modos de iluminación. <br>14. Pantalla. <br>15. Energy MUSIC POWER 600. <br>16. Encendido / Apagado. <br>17. Efecto eco del micrófono. <br>18. Parada / Reinicio USB. <br>19. Ajuste - frecuencia FM / retroceder de carpeta (USB). <br>20. Avance. <br>21. Retroceso. <br>22. Inicio y pausa / Sintonizar. <br>23. Ajuste + frecuencia FM / avanzar de carpeta (USB).|24. Salida de auriculares. <br>25. Regulador EQ manual. <br>26. Conexión USB de datos. <br>27. Interruptor de alimentación. <br>28. Conector cable de alimentación. <br>29. Entrada RCA estéreo. <br>30. Salida RCA estéreo. <br>31. Volumen entrada jack para guitarra. <br>32. Entrada jack para guitarra. <br>33. Entrada jack para micrófono. <br>34. Toma de radio FM. <br>35. Encendido / Apagado. <br>36. Cambio de función. <br>37. Ajuste + frecuencia FM / avanzar de carpeta (USB). <br>38. Avance. <br>39. Ajuste - frecuencia FM / retroceder de carpeta (USB). <br>40. Volumen +. <br>41. EQ predefinidos. <br>42. Modo de reproducción (USB) / reinicio (Bluetooth). <br>43. Modos de iluminación. <br>44. Volumen -. <br>45. Inicio y pausa / Sintonización FM. <br>46. Retroceso.|
-
-
-
+|1. Device holder <br>2. Digital equalizer with presets <br>3. USB function <br>4. Bluetooth function <br>5. Line-in function <br> (mini jack/ RCA). <br>6. FM radio function <br>7. Playback mode (USB)/ restart (Bluetooth)  <br>8. Enable manual equalizer <br>9. USB charging port <br>10. Mini jack audio-in <br>11. Volume control <br>12. Volume control (microphone) <br>13. Lighting modes <br>14. Display <br>15. Energy MUSIC POWER 600 <br>16. On/ Off  <br>17. Microphone echo effect <br>18. Stop/ Restart (USB) <br>19. Adjust - FM frequency/ Previous folder (USB) <br>20. Next <br>21. Back <br>22. Play and pause/ Tune in <br>23. Adjust + FM frequency/ Next folder (USB).|24. Headphones output <br>25. Sound equalizer controller (manual EQ) <br>26. USB port to transfer data <br>27. Power switch <br>28. Power cable connection <br>29. RCA input (stereo input) <br>30. RCA output (stereo output) <br>31. Guitar volume (jack audio-in) <br>32. Jack audio-in for guitar <br>33. Jack audio-in for microphone  <br>34. FM Radio connection <br>35. On/ Off  <br>36. Change function <br>37. Adjust + FM frequency/ Next folder (USB) <br>38. Next <br>39. Adjust - FM frequency/ Previous folder (USB) <br>40. Volume + <br>41. Equalizer with presets <br>42. Playback mode (USB)/ restart (Bluetooth)  <br>43. Lighting modes <br>44. Volume - <br>45. Play and pause/ FM tuning <br>46. Back.|
 
