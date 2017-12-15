@@ -13,7 +13,7 @@
 
 #### BLUETOOTH CONNECTION
 - A2DP; AVRCP protocols
-- Bluetooth 4.0 Class II
+- Bluetooth 4.0. Class II
 - Distance range up to 10 m
 
 #### DIGITAL INPUTS
