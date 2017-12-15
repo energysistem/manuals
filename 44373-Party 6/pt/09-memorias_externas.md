@@ -15,7 +15,7 @@ Prima o botão *Ajuste + frequência FM / Pasta seguinte (USB) (23) * ou *Ajuste
 
 Prima o botão *Modo de reprodução (USB) / Reiniciar (Bluetooth) (7)* para seleccionar uma das cinco opções seguintes:
 
-1) **ALL:** Repete todo o conteúdo da memória. 
+1) **ALL:** repete todo o conteúdo da memória. 
 
 As pastas e faixas armazenadas nas memórias externas são lidas em ordem alfabética.
 
