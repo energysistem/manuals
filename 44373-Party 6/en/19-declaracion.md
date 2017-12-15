@@ -6,11 +6,11 @@ Tel: + 34 902 388 388 / + 34 966 813 257
 
 We declare under our own exclusive responsibility that the product
 
-Description: Sound tower
-Brand: Energy Sistem 
-Model: Energy Party 6
+Description: Sound tower.
+Brand: Energy Sistem.
+Model: Energy Party 6.
 Manufacturer: Energy Sistem Technology, S.A. 
-Manufacturing Country:  China
+Manufacturing Country:  China.
 
 referred to in this declaration is in compliance with the essential norms and standards:
 
