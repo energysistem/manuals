@@ -5,7 +5,7 @@ Your *Energy Party 6* features two analogue stereo inputs to connect external de
 #### Mini jack input
 Once you connect the cable to this input, "Line-in" mode will be enabled automatically and you will see the word "AUX 2" on the *Display (14)*. You will be able to change playback mode even if the cable is still connected.
 
-To start, pause or resume playback press *Play and pause/ FM tuning (22)* on the device top display or the same button,*(45)*, on the remote control.
+To start, pause or resume playback press *Play and pause/ Tune in (22)* on the device top display or the same button,*(45)*, on the remote control.
 We recommend to use this input to connect small devices such as mp3 players or smartphones. 
 
 #### RCA input
