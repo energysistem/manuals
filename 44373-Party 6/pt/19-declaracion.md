@@ -6,11 +6,11 @@ Tel.: + 34 902 388 388/ + 34 966 813 257
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Descrição: Coluna de altifalantes
-Marca: Energy Sistem 
-Modelo: Energy Party 6
+Descrição: Coluna de altifalantes.
+Marca: Energy Sistem. 
+Modelo: Energy Party 6.
 Fabricante: Energy Sistem Technology, S.A. 
-País de fabricação:  China
+País de fabricação:  China.
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
