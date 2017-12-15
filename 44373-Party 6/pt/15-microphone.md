@@ -1,12 +1,13 @@
-## Micrófono.
+## Microfone
 
-Tu *Energy Party 6* dispone de una *Entrada JACK para micrófono* (33) a la que puedes conectar el micrófono incluido. Está opción estará habilitada en todos los modos de uso. 
+O seu *Energy Party 6* tem uma *Entrada jack para microfone* (33) para ligar o microfone fornecido com o produto. Esta opção está disponível para todos os modos de reprodução. O microfone inclui um interruptor para ligar/desligar o sinal no corpo do mesmo.
 
-Puedes modificar la intensidad de la señal del micrófono gracias al *Volumen micrófono* (12); y el eco del mismo micrófono mediante el *Efecto eco del micrófono* (17). Ambos controles se encuentran en el panel superior.
+Pode alterar a intensidade do sinal do microfone com ajuda do botão *Controlo de volume (microfone)* (12) e aplicar o efeito de reverberação com o botão *Efeito de reverberação (microfone)* (17). Ambos controles estão no painel superior.
 
 
-## Entrada de guitarra.
+## Entrada para guitarra
 
-Al igual que en caso de la *Entrada JACK para micrófono* (33), podrás utilizar esta entrada cuando estés reproduciendo música o sin reproducir nada más que el sonido de tu guitarra. Te recomendamos que, cuando vayas a conectar la guitarra, coloques el * Volumen entrada jack para guitarra* (31) al mínimo  y ajustes a partir de ahí el nivel de volumen que quieras.
+Como acontece com a *Entrada jack para microfone* (33), pode utilizar esta entrada enquanto está a reproduzir música ou enquanto está a tocar a guitarra. Aconselhamos diminuir o *Volume (entrada jack para guitarra)* (31) até atingir o nível mínimo antes de ligar a guitarra e ajustar o volume a partir desse momento.
 
-**Nota:** Un nivel de volumen excesivo de entrada puede llegar a dañar tu *Energy Party 6*, por lo que te recomendamos ajustarlo siempre a partir del nivel mínimo.
+**Importante:** Um volume excessivo no momento de ligar a guitarra pode fazer com que o seu *Energy Party 6* fique danificado. É por isso que aconselhamos seleccionar o volume mínimo em primeiro lugar. 
+
