@@ -1,28 +1,28 @@
-## Declaración de conformidad.
+## Declaração de conformidade
 
-Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: + 34 902 388 388  / + 34 966 813 257
+Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 902 388 388/ + 34 966 813 257
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
+Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Descripción: Sistema de altavoces en columna.
-Marca: Energy Sistem. 
-Modelo: Energy Party 6.
+Descrição: Coluna de altifalantes
+Marca: Energy Sistem 
+Modelo: Energy Party 6
 Fabricante: Energy Sistem Technology, S.A. 
-País de fabricación: China.
+País de fabricação:  China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos:
+a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-EN 300 328 V2.1.1 (2016-11) 
+EN 300 328 V2.1.1 (2016-11)
 EN 301 489-1 V2.1.1 (2017-02) 
 EN 301 489-17 V3.1.1 (2017-02) 
 EN 62479:2010
 EN 60065:2014
 
-de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
+em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de Abril de 2014.
 
-Finestrat, 01 de Octubre de 2017.
+Finestrat, 1 de outubro de 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
@@ -30,3 +30,4 @@ Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
+
