@@ -1,9 +1,6 @@
-## Salida analógica RCA.
+## RCA audio-out (analogue output)
 
-Tu *Energy Party 6* cuenta con una conexión de *Salida RCA estéreo (30)* para poder compartir la música que estás reproduciendo con otros altavoces autoamplificados que dispongan de entrada analógica.
+Your *Energy Party 6* features a *RCA output (stereo output) (30)* which allows you to connect other speakers that have an analogue input in order to hear your music simultaneously through several speakers.
 
-Incluso puedes conectar un segundo *Energy Party 6*, para ello conéctandolos mediante un cable RCA-RCA desde la *Salida RCA estéreo* (30) del altavoz principal a la *Entrada RCA estéreo* (29) del altavoz secundario. Independientemente del modo de reproducción seleccionado en el altavoz principal (Bluetooth, USB,  AUX o Radio) compartirá la música con el altavoz secundario y sonarán al unísono. 
+It is also possible to connect a second *Energy Party 6*. To do so, connect one end of an RCA to RCA cable to the main speaker *RCA output (stereo output)* (30) and the other end to the second speaker *RCA input (stereo input)* (29). Music will be transferred to the second speaker and both devices will start playing music simultaneously, regardless of the playback mode of the main speaker. We recommend to adjust sound with the *Sound equalizer controller (manual EQ)* (25) of the main speaker to get a balanced sound. For more information on sound equalization see the **Equalizer** section of this manual.
 
-Para este modo de reproducción te recomendamos mantener el nivel de volumen del altavoz secundario al máximo en todo momento y ajustar el volumen requerido mediante el altavoz principal. 
-
-Además, te recomendamos ajustar *Regulador EQ manual* (25) del altavoz principal para encontrar un sonido equilibrado, para obtener más información al respecto visita el apartado **Ecualización** de este manual.
