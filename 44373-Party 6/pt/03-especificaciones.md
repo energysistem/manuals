@@ -12,7 +12,7 @@
 
 #### LIGAÇÃO BLUETOOTH
 - Protocolos A2DP; AVRCP
-- Bluetooth 4.0 Classe II 
+- Bluetooth 4.0. Classe II 
 - Raio de alcance até 10 m
 
 #### ENTRADAS DIGITAIS
