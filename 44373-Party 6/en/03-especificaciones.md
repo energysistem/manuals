@@ -1,44 +1,45 @@
-## Especificaciones técnicas.
+
+## Technical specifications
 
 #### AUDIO
-- Sistema de sonido 2.1.
-- Potencia: 240 W. 
-- Procesador de audio digital (DSP) de 16 bits / 48 kHz.
-- Altavoz de agudos de 2“.
-- Altavoces frontales de rango completo de 6.5”.
-- Respuesta en frecuencia: 20 Hz ~ 20 KHz.
-- Ecualizador analógico de 5 bandas.
-- Caja acústica de madera.
+- 2.1 sound system
+- Power: 240 W 
+- Digital signal processor (DSP): 16 bits/ 48 kHz
+- 2" tweeter
+- 6.5" full range front speakers
+- Frequency response: 20 Hz ~ 20 kHz
+- 5-band analogue equalizer
+- Wooden cabinet speakers
 
-#### CONEXIÓN BLUETOOTH
-- Protocolos A2DP; AVRCP.
-- Bluetooth 4.0. Clase II. 
-- Hasta 10 metros de alcance.
+#### BLUETOOTH CONNECTION
+- A2DP; AVRCP protocols
+- Bluetooth 4.0 Class II
+- Distance range up to 10 m
 
-#### ENTRADAS DIGITALES
-- Decodificador de memoria externa USB con capacidad de hasta 64 GB. Formatos compatibles: WAV y MP3.
+#### DIGITAL INPUTS
+- USB decoder up to 64 GB capacity with FAT/FAT32 file system. Supported audio formats: WAV and MP3
 
-#### ENTRADAS ANALÓGICAS
-- Entrada analógica estéreo minijack de 3,5 mm.
-- Entrada analógica estéreo RCA. 
-- Entrada de micrófono jack mono. 
-- Entrada de guitarra jack con potenciómetro.
+#### ANALOGUE INPUTS
+- 3.5 mm mini jack input (analogue stereo input)
+- RCA audio-in (analogue stereo input) 
+- Mono jack input (microphone) 
+- Jack guitar input with potentiometer
 
-#### SALIDAS ANALÓGICAS
-- Salida analógica estéreo RCA.
+#### ANALOGUE OUTPUTS
+- RCA audio-out (analogue stereo output)
 
-#### RADIO FM
-- Conexión de antena IEC male.
-- Rango de frecuencia (FM): 87,5 ~ 108MHz.
-- Función de auto búsqueda.
+#### FM RADIO
+- IEC male antenna connector
+- Frequency range (FM): 87.5 ~ 108 MHz
+- Auto search function
 
-#### OTROS
-- Luces LED con 4 modos diferentes.
-- Pantalla de segmentos LED de 2.4”.
-- Mando a distancia de hasta 10 metros de alcance.
-- Función ENERGY MUSIC POWER 600.
-- Efecto regulable de reverberación para la entrada de micrófono. 
-- Puerto USB de carga: 5V, 2A.
-- Alimentación. 200-240V , 50Hz.
-- Cable de alimentación IEC de 150 cm.
+#### OTHER FEATURES
+- LED lights with 4 different modes
+ 2.4" LED display
+- Remote control with up to 10 meters range
+- ENERGY MUSIC POWER 600 function
+- Adjustable reverb effect for microphone input 
+- USB charging port: 5 V, 2 A
+- Power supply: AC 200-240 V, 50 Hz
+- IEC power cable (150 cm)
 
