@@ -1,10 +1,10 @@
-## Encendido y apagado del dispositivo.
+### Switching on and off the device
 
-Una vez enchufado a la toma de corriente, enciende tu *Energy Party 6* poniendo el *Interruptor de alimentación* (27) "ON". A partir de entonces, podrás encenderlo y apagarlo desde el botón *Encendido/Apagado* del panel superior (16) o del mando a distancia (35).
+Once the *Energy Party 6* has been plugged into a socket, turn it on by moving the *Power switch* (27) to the "ON" position. From that moment on, you can turn it on or off by pressing the *On/ Off* button (16) on the device top display or the same button (35) on the remote control.
 
-Te recomendamos que cuando no vayas a utilizar el altavoz durante un periodo largo de tiempo, pongas el *Interruptor de alimentación* (27) en la posición "OFF".
+If you are not going to use the speaker for a long period of time, we recommend to move the *Power switch* (27) to the "OFF" position. 
 
-## Funciones de reproducción.
+## Playback settings
 
-En la parte superior del panel superior encontrarás los botones de acceso a las diferentes modos de uso disponibles (USB, Bluetooht, AUX y Radio FM). Visualizarás en la *Pantalla* (14) la función seleccionada. También puedes cambiar de función desde el mando a distancia pulsando el botón *Cambio de función* (36). 
+You will find the playback mode buttons (USB, Bluetooth, AUX and FM Radio) on the upper part of the top display. You will see the selected function on the *Display* (14). You will be able to change function by pressing the *Change function* button (36) on the remote control. 
 
