@@ -1,22 +1,20 @@
-## Ecualización (EQ).
+## Equalizador (EQ)
 
-Tu *Energy Party 6* cuenta con dos opciones de ecualización para que puedas ajustar el sonido como más te gusta:
+O seu *Energy Party 6* oferece duas opções de equalização para ajustar o som como mais gosta:
 
-### EQ predefinidos.
-Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón * Habilitar EQ digital predefinidos* (2) para cambiar entre las disponibles:
-- FLAT (respuesta plana)
+### Modos de equalização predefinidos
+O dispositivo oferece 6 modos predefinidos de equalização digital. Prima o botão *Equalizador digital com modos predefinidos* (2) para alternar entre os modos disponíveis:
+- FLAT (resposta plana)
 - CLASSIC
 - VOCAL
 - POP
 - ROCK
 - JAZZ
 
-### EQ manual.
-También puedes personalizar el sonido usando el ecualizador analógico de 5 bandas. Para ello, pulsa el botón de *Habilitar EQ manual* (8) para habilitar esta opción y después usa los 5 reguladores para  ajustar cada una de las bandas de frecuencia disponibles.
+### Equalização manual
+Tem a possibilidade de personalizar o som com ajuda do equalizador analógico de 5 bandas. Prima o botão *Ativar equalização manual* (8) para ativar essa opção e utilize depois os 5 potenciómetros para ajustar os níveis das bandas de frequência disponíveis.
 
-#### EQ manual conectando dos Energy Party 6.
-Como ya se ha comentado en el apartado **Salidas analógicas**, puedes conectar dos *Energy Party 6* utilizando un cable "RCA-RCA" para reproducir por ambos dispositivos a la vez.
+#### EQ manual com dois Energy Party 6
+Tal como indicado na secção **Saídas analógicas**, pode ligar dois *Energy Party 6* com ajuda do cabo "RCA-RCA" para ouvir música através dos dois dispositivos em simultâneo.
 
-Nuestra propuesta para encontrar el mejor sonido es que mantengas todos los *Regulador EQ manual* (25) del altavoz secundario en el centro y ajustes los *Regulador EQ manual* (25) del altavoz principal reduciendo en dos puntos la banda de los 10 KHz y en un punto el la banda de los 3 KHz y mantengas el resto de reguladores en el centro.
-
-
+Aconselhamos manter todos os potenciómetros do *Equalizador manual* (25) no segundo altifalante na posição intermédia e ajustar o som apenas com ajuda do *Equalizador manual* (25) no altifalante principal. Para isso, baixe dois pontos o nível da banda de 10 KHz e um ponto o nível da banda de 3 KHZ e mantenha os outros potenciómetros na posição intermédia.
