@@ -19,7 +19,7 @@
 - Decodificador de memoria externa USB con capacidad de hasta 64 GB en sistema de archivos FAT/FAT32. Formatos de audio compatibles: WAV y MP3.
 
 #### ENTRADAS ANALÓGICAS
-- Entrada analógica estéreo minijack de 3,5 mm.
+- Entrada analógica estéreo mini jack de 3,5 mm.
 - Entrada analógica estéreo RCA. 
 - Entrada de micrófono jack mono. 
 - Entrada de guitarra jack con potenciómetro.
