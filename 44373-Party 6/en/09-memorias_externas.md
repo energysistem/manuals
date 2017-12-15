@@ -24,10 +24,10 @@ The songs saved in the root folder of the storage unit will be read first and in
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** The song you are listening to will be repeated over and over again.
+2) **ONE:** the song you are listening to will be repeated over and over again.
 
-2) **FOLDER:** The folder with the songs you are listening to will be repeated over and over again.
+2) **FOLDER:** the folder with the songs you are listening to will be repeated over and over again.
 
-4) **RANDOM:** Random playback of all the contents of your removable storage unit.
+4) **RANDOM:** random playback of all the contents of your removable storage unit.
 
-5) **OFF:** Playback of all contents of the storage unit in the same order as in ALL mode but without repeating tracks.
+5) **OFF:** playback of all contents of the storage unit in the same order as in ALL mode but without repeating tracks.
