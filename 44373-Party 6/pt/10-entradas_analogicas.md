@@ -1,7 +1,7 @@
 #### Entrada mini jack
 Quando liga o cabo à entrada, o modo "Line-in" é ativado automaticamente e verá aparecer a palavra "AUX 2" no *ecrã (14)*. Pode mudar o modo de reprodução, mesmo se o cabo está ligado.
 
-Prima o botão *Início e pausa / Sintonização* no painel superior ou o mesmo botão ,*(45)*, no telecomando para começar, parar ou continuar a reproduzir o conteúdo.
+Prima o botão *Início e pausa / Sintonização* no painel superior ou o mesmo botão, *(45)*, no telecomando para começar, parar ou continuar a reproduzir o conteúdo.
 É recomendável utilizar a entrada mini jack para ligar dispositivos pequenos como leitores MP3 ou smartphones. 
 
 #### Entrada RCA
