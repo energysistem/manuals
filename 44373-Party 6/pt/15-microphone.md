@@ -7,7 +7,7 @@ Pode alterar a intensidade do sinal do microfone com ajuda do botão *Controlo d
 
 ## Entrada para guitarra
 
-Como acontece com a *Entrada jack para microfone* (33), pode utilizar esta entrada enquanto está a reproduzir música ou enquanto está a tocar a guitarra. Aconselhamos diminuir o *Volume (entrada jack para guitarra)* (31) até atingir o nível mínimo antes de ligar a guitarra e ajustar o volume a partir desse momento.
+Como acontece com a *Entrada jack para microfone* (33), pode utilizar esta entrada enquanto está a reproduzir música ou enquanto está a tocar guitarra. Aconselhamos diminuir o *Volume (entrada jack para guitarra)* (31) até atingir o nível mínimo antes de ligar a guitarra e ajustar o volume a partir desse momento.
 
 **Importante:** Um volume excessivo no momento de ligar a guitarra pode fazer com que o seu *Energy Party 6* fique danificado. É por isso que aconselhamos seleccionar o volume mínimo em primeiro lugar. 
 
