@@ -1,7 +1,7 @@
-## Conexión Bluetooth.
+## Bluetooth connection
 
-Para sincronizar un dispositivo Bluetooth con tu *Energy Party 6* debe estar en modo Bluetooth. Selecciona este modo presionando el botón *Función Bluetooth* (4) y visualizarás las letras "Bluetooth" en la *Pantalla* (14). En ese momento puedes comenzar con la sincronización.
+In order to synchronize any Bluetooth device with your *Energy Party 6*, you must enable Bluetooth mode first. To do so, press the *Bluetooth function* button (4) and the word "Bluetooth" will appear on the *Display* (14). At this point you can start the pairing process.
 
-Cuando visualices en tu dispositivo Bluetooth el nombre “Energy Party 6”, pulsa “conectar”. La conexión se realizará de forma inmediata. Escucharás un sonido que confirma la sincronización entre ambos dispositivos.
+Press "connect" when you see "Energy Party 6" on your Bluetooth device screen.  The devices will be connected immediately. You will hear a sound that confirms that both devices have been paired correctly.
 
-Si deseas emparejar otro dispositivo Bluetooth, mantén pulsado el botón *Modo de reproducción (USB) / reinicio (Bluetooth)* (7) durante unos segundos hasta que escuches un sonido de confirmación, entonces tu Energy Party 6 entrará modo búsqueda de nuevo.
+If you want to pair your speaker to another Bluetooth device, press and hold the *Playback mode (USB)/ Restart (Bluetooth)* button (7) for a few seconds until you hear a confirmation sound. At this point, your Energy Party 6 will start a new search.
