@@ -12,7 +12,7 @@ También puedes cambiar de carpeta pulsando el botón *Ajuste + frecuencia FM / 
 
 ### Modo de reproducción USB
 
-Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
+Pulsando el *Modo de reproducción (USB) / Reinicio (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
 
 1) **ALL:**  Se repite todo el contenido de la memoria. 
 
