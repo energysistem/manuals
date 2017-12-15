@@ -16,7 +16,7 @@
 - Raio de alcance até 10 m
 
 #### ENTRADAS DIGITAIS
-- Leitor de memórias USB até 64 GB. Sistema de ficheiros FAT/FAT32. Formatos de áudio suportados: WAV e MP3.
+- Leitor de memórias USB até 64 GB. Sistema de ficheiros FAT/FAT32. Formatos de áudio suportados: WAV e MP3
 
 #### ENTRADAS ANALÓGICAS
 - Entrada para mini jack de 3,5 mm (analógica estéreo)
@@ -38,6 +38,6 @@
 - Telecomando com raio de alcance até 10 metros.
 - Função ENERGY MUSIC POWER 600
 - Reverberação do som regulável para a entrada do microfone 
-- Porta USB de carregamento: 5 V, 2 A.
-- Carregamento: 200-240 V, 50 Hz.
-- Cabo IEC de 150 cm.
+- Porta USB de carregamento: 5 V, 2 A
+- Carregamento: 200-240 V, 50 Hz
+- Cabo IEC de 150 cm
