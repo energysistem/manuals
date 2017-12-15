@@ -9,7 +9,7 @@ Se desliga o *Energy Party 6* ou extrai uma das memórias, o momento em que a re
 
 Utilize os botões *Avançar (20)* e *Voltar (21)* no painel ou os botões *(38) e (46)* no telecomando para mudar de faixa. Prima durante 4 segundos os botões *Avançar (20)* e *Voltar (21)* no painel ou os botões *(38) e (46)* no telecomando para avançar ou retroceder na faixa que está a reproduzir.
 
-Prima o botão *Ajuste + frequência FM / pasta seguinte (USB) (23) * ou *Ajuste - frequência FM / pasta anterior (USB) (19)* no painel superior ou o botão *(37)* ou *(39)* no telecomando para mudar a pasta.
+Prima o botão *Ajuste + frequência FM / pasta seguinte (USB) (23) * ou *Ajuste - frequência FM / Pasta anterior (USB) (19)* no painel superior ou o botão *(37)* ou *(39)* no telecomando para mudar a pasta.
 
 ### Modo de reprodução USB
 
