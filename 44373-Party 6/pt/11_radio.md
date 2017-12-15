@@ -1,10 +1,10 @@
-## Radio FM.
+## Rádio FM
 
-Para utilizar esta función es necesario sintonizar previamente las emisoras de radio disponibles, para ello conecta la antena de radio (incluida) en la parte posterior del panel superior y manten pulsado el botón *Inicio y pausa / Sintonización FM* del panel superior *(22)* o del mando a distancia *(45)* durante dos segundos cuando el dispositivo esté en modo radio. Esta operación tardará unos minutos. Estas emisoras quedarán almacenadas en la memoria de tu *Energy Party 6* por lo que no es necesario repetir esta búsqueda a menos que se cambie de localización o se modifique la frecuencia de la emisora deseada.
+Para poder utilizar essa função tem que sintonizar em primeiro lugar as estações de rádio disponíveis. Para isso, ligue a antena de rádio (fornecido com o produto) na parte traseira do painel superior e prima o botão *Início e pausa / Sintonização (22)* no painel superior ou o botão *(45)* no telecomando durante dois segundos enquanto o modo rádio estiver habilitado. Isso leva alguns minutos. As estações de rádio são guardadas na memória do seu *Energy Party 6* e portanto, não precisa de repetir a pesquisa se alterar a posição do dispositivo ou modificar a frequência da estação de rádio preferida.
 
-Después de la sintonización podrás seleccionar entre las distintas emisoras usando de nuevo el botón *Inicio y pausa / Sintonización* del panel superior *(22)* o el mando a distancia *(45)*. Mediante pulsaciones cortas podrás cambiar de emisora entre las que se han almacenado en la memoria interna.
+Prima o botão *Início e pausa / Sintonização (22)* no painel superior ou o botão *(45)* no telecomando para seleccionar a estação de rádio que quiser depois de procurar todas as estações disponíveis. Só tem que premir brevemente o botão até encontrar a estação de rádio preferida entre as frequências que tem sido armazenadas na memória interna.
 
-Para aumentar la recepción de ondas de radio puedes conectar el altavoz a la toma de pared de radio de tu vivienda usando un cable de radio IEC macho-hembra. Ambos cables de antena se conectan en el conector *Toma de radio FM* (34) situado en el panel trasero de tu *Energy Party 6*. Se recomienda sintonizar las emisoras de radio con alguna de estas opciones, de esta manera conseguirás mejor recepción de la señal.
+Pode ligar o dispositivo à tomada de parede para a rádio da sua casa através do cabo IEC macho-fêmea (rádio) para melhorar a recepção do sinal. Os dois cabos de antena podem ser ligados à *conexão de rádio FM* (34) na parte traseira do seu *Energy Party 6*. Aconselhamos seleccionar uma destas opções para realizar uma pesquisa das estações de rádio. Desse modo a recepção do sinal é melhor.
 
    ![Imagen1](http://static.energysistem.com/images/manuals/42360/59563b1c48efa.jpg)
-   
+
