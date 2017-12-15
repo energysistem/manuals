@@ -1,3 +1,7 @@
+## Entradas analógicas mini jack e RCA
+
+O seu *Energy Party 6* tem duas entradas analógicas estéreo para ligar dispositivos externos. Trata-se de uma *Entrada de áudio (mini jack) (10)* para ligar o cabo com conector mini jack fornecido com o produto e de uma *Entrada RCA estéreo (29)*. 
+
 #### Entrada mini jack
 Quando liga o cabo à entrada, o modo "Line-in" é ativado automaticamente e verá aparecer a palavra "AUX 2" no *ecrã (14)*. Pode mudar o modo de reprodução, mesmo se o cabo está ligado.
 
