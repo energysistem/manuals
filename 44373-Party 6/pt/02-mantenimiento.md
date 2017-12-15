@@ -1,8 +1,8 @@
-## Cuidado y mantenimiento.
+## Cuidado e manutenção
 
-* No expongas tu *Energy Party 6* a golpes, humedad o altas temperaturas.
+* Evite que o seu *Energy Party 6* sofra impactos fortes ou entre em contacto com altas temperaturas ou humidade.
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Não utilize produtos de limpeza corrosivos ou abrasivos.
 
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
+* Não desmonte o dispositivo.  Qualquer reparação deve ser efetuada apenas por pessoal qualificado da Energy Sistem Technology, S.A.
 
