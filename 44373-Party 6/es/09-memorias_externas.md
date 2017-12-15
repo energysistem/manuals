@@ -2,7 +2,7 @@
 
 Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 64 Gb de capacidad.
 
-Inserta la memoria en el *Conector USB de reproducción (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
+Inserta la memoria en el *Conector USB de datos (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
 
 Si apagas el *Energy Party 6* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
 
