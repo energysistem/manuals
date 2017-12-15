@@ -1,20 +1,15 @@
-## Entradas analógicas miniJack y RCA.
+#### Entrada mini jack
+Quando liga o cabo à entrada, o modo "Line-in" é ativado automaticamente e verá aparecer a palavra "AUX 2" no *ecrã (14)*. Pode mudar o modo de reprodução, mesmo se o cabo está ligado.
 
-Tu *Energy Party 6* dispone de dos entradas analógicas estéreo para conectar dispositivos externos. Una es la *Entrada de audio miniJack (10)*, a la cual se le conecta el cable miniJack incluido, y la otra es la *Entrada RCA estéreo* (29). 
-
-#### Entrada miniJack.
-En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la *Pantalla* (14) del panel superior. Podrás cambiar el modo de reproducción aunque este cable se encuentre conectado.
-
-Podrás utilizar el botón *Inicio y Pausa / Sintonización FM* del panel superior *(22)* o mando a distancia *(45)* para iniciar, pausar o reanudar la reproducción.
-Se recomienda su uso para conectar pequeños dispositivos como reproductores mp3 o smartphones. 
+Prima o botão *Início e pausa / Sintonização* no painel superior ou o mesmo botão ,*(45)*, no telecomando para começar, parar ou continuar a reproduzir o conteúdo.
+É recomendável utilizar a entrada mini jack para ligar dispositivos pequenos como leitores MP3 ou smartphones. 
 
 #### Entrada RCA
-Esta conexión está ubicada en la parte superior trasera e identificada como "INPUT", la cual está pensada para que conectes de manera permanente tu televisión o equipo de música. 
+Esta porta encontra-se na parte superior traseira e leva o nome "INPUT". Foi criada para ligar de modo permanente a sua televisão ou equipo de música. 
 
-En este caso no se activará automáticamente el modo "RCA", debes activarlo manualmente utilizando el botón *Función entrada de audio (miniJACK / RCA)* (5) del panel superior o el botón *Cambio de función* (36) del mando a distancia hasta que visualices "AUX 1" en la *Pantalla* (14).
+O modo "RCA" não é ativado automaticamente. Para ativá-lo manualmente, prima o botão *Função de entrada de áudio (mini jack / RCA)* (5) no painel superior ou o botão *Mudar função* (36) no telecomando até a palavra "AUX 1" aparecer no *ecrã* (14).
 
-Se recomienda su uso para conectar equipos de sonido externos de manera permanente como mini-cadenas, televisores o mesas de mezclas. 
+É recomendável utilizar essa entrada para ligar de modo permanente dispositivos de aúdio externos como mini aparelhagens, televisões ou mesas de mistura. 
 
-**Nota:** En ambos casos, el control de la música (cambio de canción, volumen de entrada y ecualización) dependerá del dispositivo reproductor externo al que conectes tu *Energy Party 6*.
-
+**Importante:** Em ambos os casos, tem que utilizar o leitor externo ao que ligue a sua *Energy Party 6* para controlar as funções de reprodução (mudar faixa, ajustar volume e equalização).
 
