@@ -1,7 +1,7 @@
-## Introducción.
+## Introduction
 
-* Gracias por confiar en nosotros y adquirir tu nuevo *Energy Party 6*. Esperamos que lo disfrutes.
+* Thank you for your trust in our company and for buying the new *Energy Party 6*. We hope you enjoy it.
 
-* Antes de comenzar a disfrutar de tu *Energy Party 6* te invitamos a que leas este manual para familiarizarte con el producto y puedas sacarle el máximo partido.
+* Before using your *Energy Party 6* we strongly recommend to read this manual in order to get used to it and make the most of the product.
 
 
