@@ -1,20 +1,19 @@
-## Entradas analógicas miniJack y RCA.
+## Mini jack and RCA inputs (analogue inputs)
 
-Tu *Energy Party 6* dispone de dos entradas analógicas estéreo para conectar dispositivos externos. Una es la *Entrada de audio miniJack (10)*, a la cual se le conecta el cable miniJack incluido, y la otra es la *Entrada RCA estéreo* (29). 
+Your *Energy Party 6* features two analogue stereo inputs to connect external devices. The first one is a *Mini jack audio-in (10)* where you can connect the mini jack cable that comes with the product and the other one is a *RCA input (stereo input) (29)*. 
 
-#### Entrada miniJack.
-En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la *Pantalla* (14) del panel superior. Podrás cambiar el modo de reproducción aunque este cable se encuentre conectado.
+#### Mini jack input
+Once you connect the cable to this input, "Line-in" mode will be enabled automatically and you will see the word "AUX 2" on the *Display (14)*. You will be able to change playback mode even if the cable is still connected.
 
-Podrás utilizar el botón *Inicio y Pausa / Sintonización FM* del panel superior *(22)* o mando a distancia *(45)* para iniciar, pausar o reanudar la reproducción.
-Se recomienda su uso para conectar pequeños dispositivos como reproductores mp3 o smartphones. 
+To start, pause or resume playback press *Play and pause/ FM tuning (22)* on the device top display or the same button,*(45)*, on the remote control.
+We recommend to use this input to connect small devices such as mp3 players or smartphones. 
 
-#### Entrada RCA
-Esta conexión está ubicada en la parte superior trasera e identificada como "INPUT", la cual está pensada para que conectes de manera permanente tu televisión o equipo de música. 
+#### RCA input
+This audio-in is situated on the rear top part with the name "INPUT". It has been conceived to connect your TV or audio devices permanently. 
 
-En este caso no se activará automáticamente el modo "RCA", debes activarlo manualmente utilizando el botón *Función entrada de audio (miniJACK / RCA)* (5) del panel superior o el botón *Cambio de función* (36) del mando a distancia hasta que visualices "AUX 1" en la *Pantalla* (14).
+When using the RCA input, the "RCA" mode will not be enabled automatically. Press *Line-in function (mini jack/ RCA)* (5) on the device top display or *Change function* (36) on the remote control until the word "AUX 1" appears on the *Display* (14) to enable it manually.
 
-Se recomienda su uso para conectar equipos de sonido externos de manera permanente como mini-cadenas, televisores o mesas de mezclas. 
+We recommend to use this input to connect audio systems such as stack systems, televisions or mixing desks permanently. 
 
-**Nota:** En ambos casos, el control de la música (cambio de canción, volumen de entrada y ecualización) dependerá del dispositivo reproductor externo al que conectes tu *Energy Party 6*.
-
+**Important:** In both cases, you will have to control music playback (volume, equalizer or track changes) from the external device that you connect to your *Energy Party 6*.
 
