@@ -1,8 +1,7 @@
-## Cuidado y mantenimiento.
+## Care and maintenance
 
-* No expongas tu *Energy Party 6* a golpes, humedad o altas temperaturas.
+* Do not expose your *Energy Party 6* to impacts, humidity or high temperatures.
 
-* No uses productos de limpieza corrosivos o abrasivos.
+* Do not use neither corrosive nor abrasive cleaning products.
 
-* No desmontes el aparato. Cualquier reparación debe hacerla exclusivamente personal cualificado de Energy Sistem Technology, S.A.
-
+* Do not dismantle the device. All reparation works should be carried out exclusively by qualified staff of Energy Sistem Technology, S.A. 
