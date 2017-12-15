@@ -1,22 +1,22 @@
-## Ecualización (EQ).
+## Equalizer (EQ)
 
-Tu *Energy Party 6* cuenta con dos opciones de ecualización para que puedas ajustar el sonido como más te gusta:
+Your *Energy Party 6* offers two equalizer modes to adjust sound the way that you prefer:
 
-### EQ predefinidos.
-Dispones de 6 ecualizaciones digitales predefinidas, pulsa el botón * Habilitar EQ digital predefinidos* (2) para cambiar entre las disponibles:
-- FLAT (respuesta plana)
+### Equalizer with presets
+Press the *Digital equalizer with presets* button (2) to choose between the following 6 digital equalizer modes with presets:
+- FLAT (flat response)
 - CLASSIC
 - VOCAL
 - POP
 - ROCK
 - JAZZ
 
-### EQ manual.
-También puedes personalizar el sonido usando el ecualizador analógico de 5 bandas. Para ello, pulsa el botón de *Habilitar EQ manual* (8) para habilitar esta opción y después usa los 5 reguladores para  ajustar cada una de las bandas de frecuencia disponibles.
+### Manual equalizer
+You can also use the 5-band analogue equalizer to customize sound manually. Press the Enable manual equalizer button (8) to enable this option and use afterwards the 5 sound equalizer controllers (manual EQ) (25) to manually adjust each frequency band.
 
-#### EQ manual conectando dos Energy Party 6.
-Como ya se ha comentado en el apartado **Salidas analógicas**, puedes conectar dos *Energy Party 6* utilizando un cable "RCA-RCA" para reproducir por ambos dispositivos a la vez.
+#### Manual EQ with two Energy Party 6
+As mentioned in the **Analogue outputs** section, you can connect two *Energy Party 6* using a "RCA to RCA" cable to play music on both devices simultaneously.
 
-Nuestra propuesta para encontrar el mejor sonido es que mantengas todos los *Regulador EQ manual* (25) del altavoz secundario en el centro y ajustes los *Regulador EQ manual* (25) del altavoz principal reduciendo en dos puntos la banda de los 10 KHz y en un punto el la banda de los 3 KHz y mantengas el resto de reguladores en el centro.
+We recommend that you set the sliders of the *Sound equalizer controller (manual EQ)* (25) on the second speaker in the middle and adjust sound with the *Sound equalizer controller (manual EQ)* (25) on the main speaker. To do so, move down the 10 KHz band slider 2 points and the 3 KHz band slider one point. Keep the sliders of all other bands in the middle.
 
 
