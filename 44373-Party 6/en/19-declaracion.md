@@ -1,28 +1,28 @@
-## Declaración de conformidad.
+## Declaration of conformity
 
-Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: + 34 902 388 388  / + 34 966 813 257
+Issuer’s name: Energy Sistem Technology, S.A. - CIF: A53107488
+Address: C/ Calpe, 1 - 03509 Finestrat - Alicante (Spain)
+Tel: + 34 902 388 388 / + 34 966 813 257
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
+We declare under our own exclusive responsibility that the product
 
-Descripción: Sistema de altavoces en columna.
-Marca: Energy Sistem. 
-Modelo: Energy Party 6.
-Fabricante: Energy Sistem Technology, S.A. 
-País de fabricación: China.
+Description: Sound tower
+Brand: Energy Sistem 
+Model: Energy Party 6
+Manufacturer: Energy Sistem Technology, S.A. 
+Manufacturing Country:  China
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos:
+referred to in this declaration is in compliance with the essential norms and standards:
 
-EN 300 328 V2.1.1 (2016-11) 
+EN 300 328 V2.1.1 (2016-11)
 EN 301 489-1 V2.1.1 (2017-02) 
 EN 301 489-17 V3.1.1 (2017-02) 
 EN 62479:2010
 EN 60065:2014
 
-de acuerdo con las disposiciones de la Directiva 2014/53/EU del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Mayo de 2016.
+in conformity with the essential norms and standards of the Directive 2014/53/EU of the European Parliament and of the Council of April 16th 2014.
 
-Finestrat, 01 de Octubre de 2017.
+Finestrat, 1st October 2017.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
