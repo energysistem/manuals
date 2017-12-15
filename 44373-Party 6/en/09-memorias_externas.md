@@ -1,37 +1,33 @@
-## Memorias externas USB.
+## Removable USB units 
 
-Con tu *Energy Party 6* también puedes reproducir archivos en formato .mp3 y .wav de memorias USB de hasta 64 Gb de capacidad.
+Your *Energy Party 6* allows you to play .mp3 and .wav files from USB sticks up to 64 GB.
 
-Inserta la memoria en el *Conector USB de reproducción (26)* y tu *Energy Party 6* cambiará automáticamente a modo USB para reproducir el contenido de la memoria que acabas de insertar.
+Connect the USB stick into the *USB port to transfer data (26)* and your *Energy Party 6* will switch automatically to USB mode to play the USB contents.
 
-Si apagas el *Energy Party 6* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+If you turn off the *Energy Party 6* or remove any storage unit, the internal memory will save the moment when you paused playback. If you connect the same removable storage unit once again, playback will resume from the point at which it stopped.
 
-Para navegar entre canciones, utiliza los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente. Para avanzar y retroceder en una canción, mantén pulsado durante 4 segundos los botones de *Avance* y *Retroceso* del panel *(20)* y *(21)* o del mando a distancia *(38)* y *(46)* respectivamente.
+To browse songs, press *Next (20)* and *Back (21)* on the display or the same buttons, *(38)* and *(46)*, on the remote control. To move to the next or the previous track, press and hold *Next (20)* and *Back (21)* on the display or the same buttons, *(38)* and *(19)*, on the remote control for 4 seconds.
 
-También puedes cambiar de carpeta pulsando el botón *Ajuste + frecuencia FM / Avanzar de carpeta (USB)* y *Ajuste - frecuencia FM / Retroceder de carpeta (USB)* desde el panel superior *(23)* y *(19)* o desde el mando a distancia *(37)* y *(39)* respectivamente.
+Press *Adjust + FM frequency/ Next folder (USB)* or *Adjust + FM frequency/ Previous folder (USB)*, *(19)* and *(23)* on the device top display or *(37)* and *(39)* on the remote control to change folder.
 
-### Modo de reproducción USB.
+### USB playback mode
 
-Pulsando el *Modo de reproducción (USB) / Reinicion (Bluetooth) (7)* puedes seleccionar una de estas 5 opciones:
+Press *Playback mode (USB)/ restart (Bluetooth) (7)* to select between these 5 options:
 
-1) **ALL:**  Se repite todo el contenido de la memoria. 
+1) **ALL:** all USB contents will be repeated. 
 
-Las carpetas contenidas en las memorias externas se leen en orden cronológico de escritura y las canciones contenidas en las carpetas se leen por orden alfabético.
+Folders and songs of removable storage units will be read in alphabetical order.
 
-Ejemplo: si al copiar dos carpetas de música con los nombres "A" y "B" copiamos el primero en al carpeta "B" y después en     la carpeta "A", la primera canción al reproducir será la primera canción por orden alfabético de la carpeta "B".
+The songs saved in the root folder of the storage unit will be read first and in alphabetical order. The songs saved in folders will be read afterwards. Folders will be read in chronological order. When reading a folder, the same process starts once again and songs are read in alphabetical order.
 
-   A continuación se muestra un diagrama del orden de lectura:
+   Here you have a diagram of the reading order:
 
    ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
 
-2) **ONE:** Se repite la canción que estás escuchando infinitas veces.
+2) **ONE:** The song you are listening to will be repeated over and over again.
 
-3) **FOLDER:** Se repite el contenido de la carpeta que estás escuchando infinitas veces.
+2) **FOLDER:** The folder with the songs you are listening to will be repeated over and over again.
 
-4) **RANDOM:** Reproducción aleatoria de todo el contenido de la memoria.
+4) **RANDOM:** Random playback of all the contents of your removable storage unit.
 
-5) **OFF:** Se reproduce todo el contenido de la memoria con el mismo orden que con el modo ALL pero sin repetir ninguna pista.
-
-
-
-
+5) **OFF:** Playback of all contents of the storage unit in the same order as in ALL mode but without repeating tracks.
