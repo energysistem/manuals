@@ -12,7 +12,7 @@
 
 #### CONEXIÓN BLUETOOTH
 - Protocolos A2DP; AVRCP
-- Bluetooth 4.0. Clase II.
+- Bluetooth 4.0. Clase II
 - Hasta 10 metros de alcance
 
 #### ENTRADAS DIGITALES
@@ -33,7 +33,7 @@
 - Función de auto búsqueda
 
 #### OTROS
-- Luces LED con 4 modos diferentes
+- Luces LED con 3 modos diferentes
 - Pantalla de segmentos LED de 2,4”
 - Mando a distancia de hasta 10 metros de alcance
 - Función ENERGY MUSIC POWER 600
