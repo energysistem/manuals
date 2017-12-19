@@ -5,7 +5,7 @@ Tu *Energy Party 6* dispone de dos entradas analógicas estéreo para conectar d
 #### Entrada mini jack
 En el momento que se conecte el cable a esta entrada, el modo "Line-in" se activará automáticamente y visualizarás "AUX 2" en la *Pantalla* (14) del panel superior. Podrás cambiar el modo de reproducción aunque este cable se encuentre conectado.
 
-Podrás utilizar el botón *Inicio y Pausa / Sintonización FM* del panel superior *(22)* o mando a distancia *(45)* para iniciar, pausar o reanudar la reproducción.
+Podrás utilizar el botón *Inicio y Pausa / Sintonizar* del panel superior *(22)* o *Inicio y Pausa / Sintonización FM (45)* del mando a distancia para iniciar, pausar o reanudar la reproducción.
 Se recomienda su uso para conectar pequeños dispositivos como reproductores mp3 o smartphones. 
 
 #### Entrada RCA
