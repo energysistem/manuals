@@ -33,7 +33,7 @@
 - Função de pesquisa automática
 
 #### OUTROS:
-- Luzes LED com 4 modos
+- Luzes LED com 3 modos
 - Ecrã LED de 2,4"
 - Telecomando com raio de alcance até 10 metros.
 - Função ENERGY MUSIC POWER 600
