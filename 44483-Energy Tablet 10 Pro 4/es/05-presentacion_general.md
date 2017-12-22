@@ -1,16 +1,15 @@
 ## Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44483/5a3d361c6492b.jpg)
 
-1. Conector microUSB
-2. Conector microHDMI
-3. Ranura para tarjeta microSD
-4. Salida de auriculares
-5. Cámara delantera
-6. Botón de encendido / apagado
-7. Botón de volumen +
-8. Botón de volumen -
-9. Micrófono
-10. Altavoces
-11. Cámara trasera
-
+1. Conector microHDMI
+2. Conector microUSB
+3. Salida de auriculares
+4. Ranura para tarjeta microSD
+5. Cámara trasera
+6. Cámara delantera
+7. Micrófono
+8. Botón de encendido / apagado
+9. Botón de volumen +
+10. Botón de volumen -
+11. Altavoces
