@@ -1,5 +1,4 @@
-## Contenido del producto
+## Contenu du produit
 
-- Cargador USB *Energy Home Charger 2.4A*.
-- Manual de usuario.
-
+- Chargeur USB *Energy Home Charger 2.4A*.
+- Manuel de l'utilisateur.
