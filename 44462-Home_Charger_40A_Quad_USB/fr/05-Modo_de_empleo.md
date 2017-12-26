@@ -1,4 +1,4 @@
-﻿##  Modo de empleo
+## Instructions d'utilisation
 
-1. Conecta tu cargador *Energy Home Charger 4.0A* a una toma de corriente eléctrica.
-2. Conecta tu dispositivo externo al cargador *Energy Home Charger 4.0A* mediante un cable USB para iniciar la carga.
+1. Connectez votre chargeur *Energy Home Charger 4.0A* à une prise de courant.
+2. Connectez votre appareil externe au chargeur *Energy Home Charger 4.0A* via un câble USB pour commencer la charge.
