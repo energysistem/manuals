@@ -1,5 +1,4 @@
-﻿## Presentación general
+## Présentation générale
 
-1. Conector Europlug (tipo C) para la conexión a la red eléctrica.
-2. Conectores USB (tipo A) para alimentar tus dispositivos.
-
+1. Connecteur Europlug (type C) pour le raccordement au réseau électrique.
+2. Connecteurs USB (type A) pour alimenter vos appareils.
