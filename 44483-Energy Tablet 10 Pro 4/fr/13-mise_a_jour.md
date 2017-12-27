@@ -1,6 +1,6 @@
 ## Mise à jour
 
-Le système d'exploitation installé sur votre Energy Tablet 8" Max 3 est basé sur Android. Vous pouvez le réinstaller ou le mettre à jour si nécessaire. Les mises à jour sont réalisées via OTA (Over-The-Air) par défaut, ce qui veut dire que votre tablette se connectera automatiquement avec nos serveurs, téléchargera la mise à jour et l'installera dès qu'elle sera disponible.
+Le système d'exploitation installé sur votre Energy Tablet 10" Pro 4 est basé sur Android. Vous pouvez le réinstaller ou le mettre à jour si nécessaire. Les mises à jour sont réalisées via OTA (Over-The-Air) par défaut, ce qui veut dire que votre tablette se connectera automatiquement avec nos serveurs, téléchargera la mise à jour et l'installera dès qu'elle sera disponible.
 
 Vous pouvez aussi mettre à jour votre tablette en utilisant un ordinateur. Le processus est très simple mais il doit être réalisé avec soin et uniquement quand il sera vraiment nécessaire. Si l'appareil est bloqué, il redémarre de façon imprévue ou vous avez des problèmes pour accéder au contenu de la mémoire, il est nécessaire de réinstaller le système d'exploitation ou de le mettre à jour avec la nouvelle version compatible, si elle est disponible.
 
