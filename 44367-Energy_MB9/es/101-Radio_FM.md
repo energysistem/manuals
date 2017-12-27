@@ -7,3 +7,6 @@ Para realizar dicha sintonización de emisoras de radio pulsa el botón *Cambio 
 Para mejorar la recepción de la señal de radio puedes utilizar el cable de audio Jack que viene incluido en el producto como cable de antena. Para ello, conecta dicho cable a la conexión AUX, vuelve al modo FM y realiza de nuevo el proceso de sintonización indicado anteriormente.
 
 Para seleccionar entre las distintas emisoras, mantén pulsado los botones de *Avance* (6) o *Retroceso* (4). Las emisoras irán apareciendo en el mismo orden en el que fueron almacenadas. Para un ajuste fino de la frecuencia seleccionada pulsa los botones *Avance* (6) o *Retroceso* (4).
+
+
+**Nota:** El adaptador de alimentación puede interferir en la señal de radio, se recomienda realizar la sintonización con el adaptador desconectado. 
