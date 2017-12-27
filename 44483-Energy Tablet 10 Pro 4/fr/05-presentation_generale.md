@@ -1,23 +1,15 @@
 ## Présentation générale
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44483/5a3d361c6492b.jpg)
 
-1. Sortie pour les écouteurs
-
+1. Connecteur microHDMI
 2. Connecteur microUSB
-
-3. Appareil photo frontal
-
-4. Bouton de marche/ arrêt
-
-5. Bouton de volume +
-
-6. Bouton de volume -
-
-7. Haut-parleurs
-
-8. Microphone
-
-9. Fente pour carte microSD
-
-10. Appareil photo arrière
+3. Sortie pour les écouteurs
+4. Fente pour carte microSD
+5. Appareil photo arrière
+6. Appareil photo frontal
+7. Microphone
+8. Bouton de marche/ arrêt
+9. Bouton de volume +
+10. Bouton de volume -
+11. Haut-parleurs
