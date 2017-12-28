@@ -1,6 +1,6 @@
-﻿## Principales Características
+## Main features
 
-- Cargador con dos salidas USB (tipo A)
-- Entrada: AC 100V-240V 50/60 Hz
-- Fusible: 0,35A
-- Salida: DC 5V ± 0,3V - 2,4A
+- Charger with two USB (type A) ports 
+- Input: AC 100-240 V, 50/60 Hz
+- Fuse: 0.35 A
+- Output: DC 5 V ± 0.3 V - 4.0 A
