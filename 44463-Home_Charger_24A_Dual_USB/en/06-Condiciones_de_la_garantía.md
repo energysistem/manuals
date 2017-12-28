@@ -1,23 +1,21 @@
-﻿## Condiciones de la Garantía
+## Warranty
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Technology, S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del bien, en los términos y bajo las condiciones establecidas en la citada norma.
+Energy Sistem Technology, S.A. is liable for any lack of conformity that exists at the time the goods are purchased during a period of 36 months.
 
-En el caso de que el bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución, a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
+This warranty covers all defects in workmanship or materials and does not cover product failures due to accidents, misuse or alteration made by an unauthorized person. 
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero por un uso indebido, negligencia, uso o empleo del bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación. Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
+The special 36 month warranty is valid for the European Union. For other countries please refer to your specific legislation or your local distributor.
 
-La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+## Warranty procedure
 
-## Funcionamiento de la garantía
+Visit the Support section at www.energysistem.com/en/support and select your product to view the FAQ (Frequently Asked Questions) and user manual as well as to submit a query to our Technical Support or manage the warranty. 
 
-Entra en www.energysistem.com/support y, tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto.
+You may also contact the distributor that sold the product by presenting the purchase receipt or invoice.
 
-Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+Specifications are subject to change without notice.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+## Trademarks
 
-## Marcas comerciales
+All company, brand and product names are trademarks or registered trademarks of their respective companies.
 
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
-
-© 2017 por Energy Sistem Technology, S.A. Todos los derechos reservados.
+© 2017 by Energy Sistem Technology, S.A. All rights reserved.
