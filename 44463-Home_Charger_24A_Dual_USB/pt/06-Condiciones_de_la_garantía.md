@@ -1,23 +1,22 @@
-﻿## Condiciones de la Garantía
+## Condições da garantia
 
-Durante un periodo de 36 meses a partir de la fecha de la primera compra del producto por el consumidor, de conformidad con el RDL 1/2007, Energy Sistem Technology, S.A. responderá ante cualquier falta de conformidad que exista en el momento de la entrega del bien, en los términos y bajo las condiciones establecidas en la citada norma.
+Energy Sistem Technology, S.A. é responsável por qualquer falta de conformidade que exista no momento que o produto é adquirido pelo consumidor durante um período de 36 meses.
 
-En el caso de que el bien no fuera conforme al contrato, y previa entrega del ticket de compra o factura, se reconoce al comprador el derecho a la reparación del bien, a su sustitución, a la rebaja del precio o a la resolución del contrato, de conformidad con la citada Norma.
+Esta garantia cobre defeitos de fabrico ou materiais e não se aplica se o defeito foi causado por pessoas não autorizadas devido a acidente, utilização indevida ou modificações do produto. -
 
-Esta garantía no será aplicable si el defecto ha sido causado por el comprador y/o por cualquier tercero por un uso indebido, negligencia, uso o empleo del bien distinto de aquel para el que fue concebido, uso o instalación del producto no conforme con las instrucciones del manual, o por cualquier otra causa no relacionada con defectos de material o fabricación. Esta garantía es independiente y compatible con la Garantía Legal establecida por el RD 1/2007.
+A garantia especial de 36 meses é válida para a União Europeia.  Para outros países deve verificar a legislação em vigor ou consultar o seu distribuidor local.
 
-La garantía especial de 36 meses es válida para la Unión Europea. Para otros países consultar la legislación vigente o tu distribuidor local.
+## Aplicação da garantia
 
-## Funcionamiento de la garantía
+Visite http://www.energysistem.com/pt/support e selecione o seu produto para ver as FAQ (perguntas mais frequentes) e o manual do utilizador assim como para contactar o Apoio Técnico ou solicitar a garantia. 
 
-Entra en www.energysistem.com/support y, tras seleccionar tu producto, podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía. Antes de efectuar la llamada telefónica ten a mano el ticket o factura de compra y el número de serie del producto.
+Também pode entrar em contacto com a loja onde foi adquirido o produto, apresentando o recibo da compra ou fatura.
 
-Opcionalmente, puedes dirigirte al lugar donde compraste el producto, presentando la factura o ticket de compra.
+As especificações estão sujeitas a alterações sem aviso prévio.
 
-Las especificaciones están sujetas a cambios sin previo aviso.
+## Marcas registadas
 
-## Marcas comerciales
+Todos os nomes de empresas, marcas e produtos são marcas comerciais ou registadas das suas respectivas empresas.
 
-Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
+© 2017 Energy Sistem Technology, S.A. Todos os direitos reservados.
 
-© 2017 por Energy Sistem Technology, S.A. Todos los derechos reservados.
