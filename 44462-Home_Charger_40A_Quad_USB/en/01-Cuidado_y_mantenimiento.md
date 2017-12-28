@@ -1,6 +1,7 @@
-﻿## Cuidado y mantenimiento
+## Care and maintenance
 
-- No expongas tu cargador *Energy Home Charger 4.0A* a golpes, polvo, fuego, luz solar directa, humedad o altas temperaturas.
-- No uses productos de limpieza corrosivos o abrasivos.
-- No trates de desmontar el *Energy Home Charger 4.0A*. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy Sistem.
+- Do not expose your *Energy Home Charger 4.0A* to impacts, dust, fire, direct sunlight, humidity or high temperatures.
+- Do not use neither corrosive nor abrasive cleaning products.
+- Do not try to dismantle the *Energy Home Charger 4.0A*. All reparation works should be carried out exclusively by qualified staff of Energy Sistem.
+
 
