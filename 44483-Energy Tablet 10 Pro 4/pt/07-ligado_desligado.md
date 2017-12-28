@@ -1,4 +1,4 @@
-## Ligar e desligar
+## Ligar e desligar o dispositivo
 
 Para ligar o seu tablet prima o botão ligar/desligar (6) uns segundos. Uma vez carregado o sistema operativo, deslize o dedo para cima no ecrã de bloqueio para desbloquear o dispositivo. Siga os passos do assistente de instalação ao ligar o dispositivo pela primeira vez para definir os parâmetros básicos. Isso pode levar alguns minutos.
 
