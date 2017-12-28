@@ -1,8 +1,6 @@
-﻿## Introducción
+## Introdução
+Agradecemos a sua confiança assim como a aquisição do seu novo Energy Home Charger 4.0A Quad USB. Trata-se de um carregador universal de 4 amperes, compatível com todos os dispositivos USB, incluíndo Android e iOS. Combina potência e design compacto e cuidado de cor branco. Com quatro portas USB para carregar até quatro dispositivos em simultâneo. Esperamos que desfrute do produto.
 
-Gracias por confiar en nosotros y adquirir tu nuevo Energy Home Charger 4.0A Quad USB. Se trata de un cargador universal de 4.0 A compatible con todos los dispositivos USB incluidos Android e iOS. Combina potencia con un diseño compacto y cuidado en color blanco. Incluye cuatro salidas USB para cargar simultáneamente hasta cuatro dispositivos. Esperamos que los disfrutes.
+Aconselhamos ler o presente manual para desfrutar do produto em segurança e aproveitando todas as suas prestações.
 
-Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
-
-**Nota:** Comprueba el amperaje de entrada admitido por tu dispositivo USB. Si el amperaje no es el
-correcto en cada caso, el dispositivo podría no cargar correctamente.
+**Importante:** Verifique a amperagem de entrada permitida pelo seu dispositivo USB. Se a amperagem não for a adequada, o dispositivo pode não carregar corretamente.
