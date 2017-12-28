@@ -1,8 +1,8 @@
-﻿## Introducción
+## Introduction
 
-Gracias por confiar en nosotros y adquirir tu nuevo Energy Home Charger 2.4A Dual USB. Se trata de un cargador universal de 2.4 A compatible con todos los dispositivos USB incluidos Android e iOS. Cuenta con doble salida USB para cargar simultáneamente dos dispositivos, especialmente tablets y smartphones. Esperamos que los disfrutes.
+Thank you for your trust in our company and for buying the new Energy Home Charger 2.4A Dual USB. This 2.4 ampere universal charger is compatible with all USB devices including Android and iOS. It features two USB ports to charge two devices, particularly tablets and smartphones, simultaneously. We hope you enjoy it.
 
-Te aconsejamos que leas el presente manual de usuario para disfrutar del producto de una manera segura y aprovechando al máximo todas sus prestaciones.
+We recommend you to read this manual to enjoy your device safely and make the most of all its features.
 
-**Nota:** Comprueba el amperaje de entrada admitido por tu dispositivo USB. Si el amperaje no es el
-correcto en cada caso, el dispositivo podría no cargar correctamente.
+**Important:** Please check the input current that your USB device can handle. In case that the current provided by the charger is not appropriate for your device, it may not charge correctly.
+
