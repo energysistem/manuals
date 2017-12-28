@@ -1,4 +1,4 @@
-﻿##  Modo de empleo
+##  Utilização
 
-1. Conecta tu cargador *Energy Home Charger 2.4A* a una toma de corriente eléctrica.
-2. Conecta tu dispositivo externo al cargador *Energy Home Charger 2.4A* mediante un cable USB para iniciar la carga.
+1. Ligue o seu carregador *Energy Home Charger 2.4 A* à tomada.
+2. Ligue o dispositivo externo ao carregador *Energy Home Charger 2.4 A* com ajuda do cabo USB para iniciar o processo de carregamento.
