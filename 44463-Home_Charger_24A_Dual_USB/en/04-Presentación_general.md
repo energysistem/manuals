@@ -1,5 +1,5 @@
-﻿## Presentación general
+## General overview
 
-1. Conector Europlug (tipo C) para la conexión a la red eléctrica.
-2. Conectores USB (tipo A) para alimentar tus dispositivos.
+1. Europlug (type C) to connect your charger to a socket.
+2. USB (type A) ports to charge your devices.
 
