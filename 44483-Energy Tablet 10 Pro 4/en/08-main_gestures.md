@@ -24,4 +24,3 @@
 
 ![Imagen1](http://static.energysistem.com/images/manuals/39530/53556afc48900.jpg)
 
-
