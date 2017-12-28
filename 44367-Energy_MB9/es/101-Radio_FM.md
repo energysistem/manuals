@@ -9,4 +9,4 @@ Para mejorar la recepción de la señal de radio puedes utilizar el cable de aud
 Para seleccionar entre las distintas emisoras, mantén pulsado los botones de *Avance* (6) o *Retroceso* (4). Las emisoras irán apareciendo en el mismo orden en el que fueron almacenadas. Para un ajuste fino de la frecuencia seleccionada pulsa los botones *Avance* (6) o *Retroceso* (4).
 
 
-**Nota:** El adaptador de carga puede interferir en la señal de radio FM. Se recomienda separar al menos 50 cm el adaptador de carga del altavoz durante el uso de la función de radio FM.
+**Nota:** El adaptador de carga puede interferir en la señal de radio FM. Se recomienda separar al menos 50 cm el adaptador de carga del altavoz cuando se esté haciendo uso de la función de radio FM y simultáneamente se esté cargando la batería. 
