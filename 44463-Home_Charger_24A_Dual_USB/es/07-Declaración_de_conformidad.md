@@ -4,15 +4,15 @@ Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Dirección: C/Calpe, 1 - 03509 Finestrat, Alicante (España)
 Tel: + 34 966 813 257
 
-Declaramos bajo nuestra exclusiva responsabilidad la conformidad de los productos
+Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Cargador
 Marca: Energy Sistem
-Modelos: Energy Home Charger 2.4A Dual USB
+Modelo: Energy Home Charger 2.4A Dual USB
 Fabricante: Energy Sistem Technology, S.A.
 País de fabricación: China
 
-a los que se refiere esta declaración, con las normas u otros documentos normativos
+al que se refiere esta declaración, con las normas u otros documentos normativos
 
 EN 55032:2012+AC:2013
 EN 61000-3-2:2014
