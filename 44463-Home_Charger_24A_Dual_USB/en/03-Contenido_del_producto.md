@@ -1,4 +1,4 @@
 ## Product content
 
-- *Energy Home Charger 2.4A Quad USB*
+- *Energy Home Charger 2.4A*
 - Manual
