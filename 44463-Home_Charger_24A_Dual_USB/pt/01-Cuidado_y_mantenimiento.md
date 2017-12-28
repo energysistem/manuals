@@ -1,6 +1,7 @@
-﻿## Cuidado y mantenimiento
+## Cuidado e manutenção
 
-- No expongas tu cargador *Energy Home Charger 2.4A* a golpes, polvo, fuego, luz solar directa, humedad o altas temperaturas.
-- No uses productos de limpieza corrosivos o abrasivos.
-- No trates de desmontar el *Energy Home Charger 2.4A*. Cualquier reparación debe hacerla exclusivamente el personal cualificado de Energy Sistem.
+- Evite que o seu *Energy Home Charger 2.4A* sofra impactos fortes ou que entre em contacto com altas temperaturas, pó, fogo e humidade. Mantenha o produto protegido da luz solar directa.
+- Não utilize produtos de limpeza corrosivos ou abrasivos.
+- Não tente desmontar o *Energy Home Charger 2.4A*. Qualquer reparação deve ser efetuada apenas por pessoal qualificado da Energy Sistem.
+
 
