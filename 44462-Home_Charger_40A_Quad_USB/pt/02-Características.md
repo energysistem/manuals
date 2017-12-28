@@ -1,6 +1,7 @@
-﻿## Principales Características
+## Características principais
 
-- Cargador con cuatro salidas USB (tipo A)
-- Entrada: AC 100V-240V 50/60 Hz
-- Fusible: 0,65A
-- Salida: DC 5V ± 0,3V - 4,0A
+- Carregador com quatro portas USB (tipo A)
+- Entrada: AC 100-240 V, 50/60 Hz
+- Fusível: 0,65 A
+- Tensão de saída: DC 5V ± 0,3 V - 4,0 A
+
