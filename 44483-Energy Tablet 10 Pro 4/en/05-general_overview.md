@@ -1,23 +1,15 @@
 ## General overview
 
-![Imagen1](http://static.energysistem.com/images/manuals/42799/5a12aee791f05.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44483/5a3d361c6492b.jpg)
 
-1. Headphones output
-
+1. MicroHDMI connection
 2. MicroUSB port
-
-3. Front camera
-
-4. Power button
-
-5. Volume + 
-
-6. Volume - 
-
-7. Speakers
-
-8. Microphone
-
-9. MicroSD card slot
-
-10. Rear camera
+3. Headphones output
+4. MicroSD card slot
+5. Rear camera
+6. Front camera
+7. Microphone
+8. Power button
+9. Volume + 
+10. Volume - 
+11. Speakers
