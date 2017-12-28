@@ -1,4 +1,4 @@
-## Función radio  
+## Función radio FM.
 
 Para usar la función radio FM, en primer lugar es necesario realizar una sintonización de las emisoras disponibles que quedará almacenada en la memoria del altavoz. No será necesario repetir esta búsqueda a menos que se cambie de localización, o se modifique la frecuencia de la emisora deseada. 
 
@@ -9,4 +9,4 @@ Para mejorar la recepción de la señal de radio puedes utilizar el cable de aud
 Para seleccionar entre las distintas emisoras, mantén pulsado los botones de *Avance* (6) o *Retroceso* (4). Las emisoras irán apareciendo en el mismo orden en el que fueron almacenadas. Para un ajuste fino de la frecuencia seleccionada pulsa los botones *Avance* (6) o *Retroceso* (4).
 
 
-**Nota:** El adaptador de carga puede interferir en la señal de radio FM. Se recomienda usar el modo radio con el adaptador de carga desconectado.
+**Nota:** El adaptador de carga puede interferir en la señal de radio FM. Se recomienda usar la función radio FM con el adaptador de carga desconectado.
