@@ -1,40 +1,37 @@
 ## Características principais
 
 ECRÃ
-* Ecrã IPS de 8 polegadas com resolução HD (1280 x 800 píxeis)
-* Ecrã táctil de 5 pontos
+- Ecrã IPS de 10,1" com retroiluminação LED 
+- Panorâmica: 16:10
+- Resolução FHD (1920 x 1200 píxeis)
+- Revestimento oleofóbico
 
 PROCESSADOR
-* Processador Mediatek MT8163. Quad Core ARM Cortex A53 até 1,3 GHz 
-* GPU Mali-T720 MP2
+- Processador Quad Core ARM Cortex A53 1,5 GHz 
+- GPU Mali-T720
 
 SISTEMA OPERATIVO
-* Android 7.0 Nougat
+- Android 7.0 Nougat
 
-CÂMARAS
-* Câmara traseira de 2 MP
-* Câmara frontal de 0,3 MP
-
-MEMÓRIA
-* 1 GB de RAM DDR3
-* 16 GB de memória interna expansível através de cartões microSD-HC/XC (até 256 GB).
-
-CONECTIVIDADE
-* Wi-Fi 802.11 b/g/n
-* Bluetooth 4.0
-* GPS integrado
-
-SISTEMAS DE LIGAÇÃO
-* Porta microUSB com função OTG
-* Conector de áudio Jack de 3,5 mm com standard CTIA
-
-BATERIA:
-* Capacidade da bateria: 3500 mAh
-* Adaptador de corrente AC/DC (Eu plug) Entrada: 100-240 V AC 50-60 Hz Saída: 5 V 2 A
+MEMÓRIA 
+- 2 GB RAM
+- 32 GB de memória interna expansível através de cartões microSD-HC/XC (até 256 GB)
 
 OUTROS
-* Dois altifalantes frontais de 1 W cada um
-* Microfone omnidireccional integrado
-* Sensor de movimento (acelerómetro)
-* Rádio FM de 87.5 até 108 MHz com estações predefinidas
+- Câmara traseira de 5 MP
+- Câmara frontal de 2 MP
+- Altifalante integrado 2 x 1 W
+- Microfone omnidireccional
+- Sensor de movimento (acelerómetro)
+
++ BATERIA
+- Capacidade da bateria: 3,8 V / 6000 mAh, Li-Ion
+- Carregamento através do adaptador AC 100-240 V 50-60 Hz DC 5V/2,0 A
+
++ SISTEMAS DE LIGAÇÃO
+- WI-FI 802.11 a/b/g/n
+- Bluetooth 4.0
+- MicroHDMI
+- Função USB Host
+- Função USB OTG
 
