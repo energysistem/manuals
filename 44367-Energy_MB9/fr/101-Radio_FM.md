@@ -7,3 +7,5 @@ Pour syntoniser les stations de radio, appuyez sur le bouton *Changement de mode
 Vous pouvez utiliser le câble audio jack fourni avec le produit en tant que câble d'antenne pour améliorer la réception du signal de radio. Pour ce faire, connectez ce câble à la connexion AUX, retournez au mode FM et recommencez le processus de syntonisation indiqué ci-dessous.
 
 Pour sélectionner une station, maintenez les boutons *Avant* (6) ou *Arrière* (4) enfoncés. Les stations apparaîtront dans le même ordre dans lequel elles ont été sauvegardées. Pour un réglage précis de la fréquence sélectionnée, appuyez sur les boutons *Avant* (6) ou *Arrière* (4).
+
+**Note :** L'adaptateur secteur peut interférer avec le signal radio FM. Nous vous recommandons de séparer l'adaptateur secteur de l'enceinte au moins 50 cm lorsque vous utilisez la fonction radio et chargez la batterie en même temps.
