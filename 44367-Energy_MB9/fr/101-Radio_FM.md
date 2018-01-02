@@ -8,4 +8,5 @@ Vous pouvez utiliser le câble audio jack fourni avec le produit en tant que câ
 
 Pour sélectionner une station, maintenez les boutons *Avant* (6) ou *Arrière* (4) enfoncés. Les stations apparaîtront dans le même ordre dans lequel elles ont été sauvegardées. Pour un réglage précis de la fréquence sélectionnée, appuyez sur les boutons *Avant* (6) ou *Arrière* (4).
 
+
 **Note :** L'adaptateur secteur peut interférer avec le signal radio FM. Nous vous recommandons de séparer l'adaptateur secteur de l'enceinte au moins 50 cm lorsque vous utilisez la fonction radio et chargez la batterie en même temps.
