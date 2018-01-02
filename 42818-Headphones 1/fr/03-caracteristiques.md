@@ -12,7 +12,7 @@
 
 ### Spécifications techniques
 
-- Version Bluetooth : Bluetooth 3.0, classe II.
+- Version Bluetooth : Bluetooth 4.2, classe II.
 -Profils supportés : A2DP1.2 AVRCP1.4 HSP1.2 HFP1.6.
 - Portée : 10 m.
 - Réponse en fréquence : 40HZ – 20 KHZ.
