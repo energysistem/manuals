@@ -1,3 +1,5 @@
+![Imagen1](http://static.energysistem.com/images/manuals/44463/5a4ca23c685cb.jpg)
+
 ## Introdução
 
 Agradecemos a sua confiança assim como a aquisição do seu novo Energy Home Charger 2.4A Dual USB. Trata-se de um carregador universal de 2,4 amperes, compatível com todos os dispositivos USB, incluíndo Android e iOS. Com duas portas USB para carregar dois dispositivos, nomeadamente tablets e smartphones, em simultâneo. Esperamos que desfrute do produto.
