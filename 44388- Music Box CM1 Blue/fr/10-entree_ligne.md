@@ -1,17 +1,8 @@
-## Lecture via clé USB
+## Connexion entrée audio
 
-Si vous préférez, vous pouvez également diffuser votre musique en utilisant une clé USB. 
+Il est également possible de profiter de votre *Energy Music Box CM1 Bluetooth* sans le synchroniser avec un appareil Bluetooth ou sans utiliser une mémoire amovible USB, car il est équipé de CONNEXION D'ENTRÉE AUDIO (12) qui vous permet de connecter votre lecteur en utilisant un câble audio avec jack de 3,5 mm (fourni).
 
-Connectez une clé USB et attendez quelques secondes jusqu'à ce que le haut-parleur lise le contenu de la mémoire* (voir note) et démarre la lecture automatiquement. Pour changer à nouveau le mode de lecture, appuyez simplement sur la touche *CHANGEMENT DE MODE* (3).
+Il est nécessaire que votre *Energy Music Box CM1 Bluetooth* soit allumée pour utiliser cette fonction.
 
-Vous pouvez parcourir les dossiers de votre clé USB à l'aide du bouton *CHANGEMENT DE DOSSIER* (5). Les dossiers de mémoires externes sont lus dans l'ordre chronologique d'écriture et les chansons dans le dossier sont lues dans l'ordre alphabétique.
+**AVIS :** Lorsque vous utilisez l'enceinte en mode Audio-in, vous ne pourrez pas contrôler la lecture ou le volume depuis l'enceinte, mais depuis le lecteur connecté.
 
-Par exemple: si vous copiez deux dossiers de musique 'A' et 'B', premièrement il faut copier le dossier 'B' et puis, après le dossier 'A'. De cette façon, la chanson qui sonne avant les autres sera la première chanson par ordre alphabétique dans le dossier 'B'.
-
-   Vous trouverez ci-après un schéma de l'ordre de lecture :
-
-   ![Esquema](http://static.energysistem.com/images/manuals/42260/5492cea8f11f3.jpg)
-  
-  
-  
-**AVIS :** Il est recommandé de ne pas interrompre le processus de lecture, veuillez ne pas retirer la mémoire pendant que l'enceinte lit le contenu.
