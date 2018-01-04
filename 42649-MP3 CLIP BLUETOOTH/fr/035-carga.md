@@ -13,4 +13,7 @@ Le temps de charge varie de 2 à 3 heures, selon que le lecteur soit éteint ou 
 Pour optimiser l'autonomie de la batterie de votre *Energy MP3*, vous pouvez désactiver le rétroéclairage automatique de l'écran après quelques secondes d'inactivité. Pour cela faire, allez sur *DÉFINIR -> Réglages de l'affichage -> Prog. de rétroéclairage*.  Pour réactiver l'éclairage de l'écran, appuyez sur n'importe quel bouton.
 
 Pour prolonger la durée de vie de la batterie, nous vous recommandons de ne pas désactiver ce système d'économies d'énergie.
-Note : Nous vous recommandons de ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
+**Note :** Nous vous recommandons de ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
+**Note 2 :** Si votre *Energy MP3* Clip Bluetooth ne répond pas à vos commandes ou si votre ordinateur ne le détecte pas, vous pouvez toujours redémarrer le système en insérant un objet pointu dans le trou de *reset*.
