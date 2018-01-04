@@ -1,6 +1,6 @@
 ## Soin et entretien
 
-*Ne pas exposer vos *Energy Music Box CM1 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
+* Ne pas exposer vos *Energy Music Box CM1 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
 
 * Ne pas utiliser des produits corrosifs ou abrasifs.
 
