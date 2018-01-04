@@ -12,3 +12,5 @@ Pour prolonger la durée de vie de la batterie, nous vous recommandons de ne pas
 
 
 **Note :** Nous vous recommandons de ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
+**Note 2 :** Si votre *Energy MP4* Touch ne répond pas à vos commandes ou si votre ordinateur ne le détecte pas, vous pouvez toujours redémarrer le système en insérant un objet pointu dans le trou du microphone.
