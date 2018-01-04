@@ -15,4 +15,7 @@ Pour optimiser l'autonomie de la batterie de votre *Energy MP3*, vous pouvez dé
 Note : Choisissez '0' secondes pour que l'écran soit toujours éclairé.
 
 Pour prolonger la durée de vie de la batterie, nous vous recommandons de ne pas désactiver ce système d'économies d'énergie.
-Note : Nous vous recommandons de ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
+**Note :** Nous vous recommandons de ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
+**Note 2 :** Si votre *Energy MP3* Clip ne répond pas à vos commandes ou si votre ordinateur ne le détecte pas, vous pouvez toujours redémarrer le système en insérant un objet pointu dans le trou de *reset*.
