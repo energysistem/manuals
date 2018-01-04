@@ -1,27 +1,30 @@
-<quick_guide>
-##  Déclaration de conformité
+## Déclaration de conformité
 
-Nom du Fournisseur:
-Energy Sistem Technology, S.A.
-Adresse: C/ Calpe, 1
-03509 Finestrat - Alicante (Espagne).
-Tel: +34 902 388 388 // Fax: +34 902 119 034
-NIF: A53107488
+Nom du déclarant : Energy Sistem Technology, S.A. Numéro d'identification fiscale : A53107488
+Adresse : C/ Calpe, 1 - 03509 Finestrat Alicante (Espagne)
+Tél. : + 34 902 388 388  / + 34 966 813 257
 
+Nous déclarons sous notre seule responsabilité que le produit 
 
-Déclarons sous notre seule responsabilité que le produit:
+Description : Haut-parleur portable sans fil <br/>
+Marque : Energy Sistem <br/>
+Modèle : Energy Music Box CM1 Blue<br/>
+Fabricant : Energy Sistem Technology, S.A. <br/>
+Pays de fabrication : Chine <br/>
 
-*Energy Music Box CM1 Bluetooth*
+visé par cette déclaration est conforme aux normes ou documents normatifs
 
-*Pays de fabrication:* Chine
+EN 60065:2014 <br>EN 62479:2010 <br>ETSI EN 301 489-01 V2.1.1: 2017-02  <br>ETSI EN 301 489-17 V3.1.1: 2017-02  <br>EN 300 328 V2.1.1: 2016-11 
 
-Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 1999/5/EC du Parlement Européen et du Conseil du 09 mars 1999.
+conformément aux dispositions de la directive 2014/53/UE du Parlement européen et du Conseil du 16 avril 2014.
 
-Finestrat, 01 octobre 2015
+Finestrat, 1er septembre 2017.
 
-|  |  |
-|:-------|:-------|
-|![Imagen1](http://static.energysistem.com/images/manuals/39930/52d42d0e441fc.jpg) |Ce symbole sur le produit ou les instructions signifie que vos appareils électriques et électroniques devront être recyclés à la fin de la durée de sa vie par séparément des déchets.|
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
+
+Marco Antonio Velázquez Fierro
+Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-</quick_guide>
+
+
