@@ -1,8 +1,5 @@
-<quick_guide>
 ## Contenu du produit
 
-* Energy Music Box CM1 Bluetooth.
-* Câble audio: 3.5mm.
+* Energy Music Box CM1 Blue Bluetooth.
+* Câble audio : 3,5 mm.
 * Câble USB pour charger la batterie.
-
-</quick_guide>
