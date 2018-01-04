@@ -1,19 +1,25 @@
-<quick_guide>
-
 ## Fonctions principales
 
-### Allumer et éteindre
+### Marche et arrêt de l'appareil
 
-Pour allumer l'appareil, appuyez sur la touche allumer / éteindre (4) pendant 2 secondes. L'icône du cœur s'allume, INDICATEUR D'ALLUMAGE (11).
-Pour éteindre l'appareil, appuyez sur la touche allumer / éteindre (4) pendant 2 secondes.
-Alors que l'appareil est allumé, l'INDICATEUR D'ALLUMAGE (11) restera allumé.
+Pour éteindre l'appareil, maintenez enfoncé le bouton *MARCHE/ARRÊT (4)* pendant 2 secondes. L'*INDICATEUR D'ALLUMAGE (11)* s'allumera.
 
-### Changement de mode de lecture
+Pour éteindre l'appareil, maintenez enfoncé le bouton *MARCHE/ARRÊT (4)* pendant 2 secondes.
 
-Lorsque vous allumez l'appareil, la recherche de périphériques commence automatiquement.   Pour passer au mode Audio-in, il suffit de connecter le câble audio (fourni) à la connexion Audio-in (12).
+Lorsque l'appareil sera allumé, l'*INDICATEUR D'ALLUMAGE (11)* restera allumé.
 
-### Chargement de la batterie.
+### Changement du mode de lecture
 
-Lorsque le haut-parleur n'émet plus des sons ou que ne s'allume pas, il est temps de la recharger en branchant l'extrémité micro USB du câble USB (fourni) au port microUSB pour CHARGER DE LA BATTERIE (8), et l'autre extrémité à un dispositif avec port USB qui puisse fournir de l'énergie (PC, chargeur USB de mur, voiture, etc.). Le INDICATEUR DE CHARGE (9) devient rouge et lorsque la charge est complète s'éteint.
+Lorsque vous allumez l'appareil, la recherche de périphériques commence automatiquement.   Pour passer en mode Audio-in ou USB, connectez simplement le câble audio (fourni) ou la mémoire USB à la *CONNEXION ENTRÉE AUDIO (12)* ou à la *CONNEXION DU LECTEUR DE MÉMOIRES (10)*.
 
-</quick_guide>
+Pour changer à nouveau le mode de lecture, appuyez simplement sur la touche *CHANGEMENT DE MODE (3)*.
+
+### Charge de la batterie
+
+Lorsque la batterie est en dessous de 10%, une alerte vous préviendra de manière répétée pour recharger la batterie. 
+
+Connectez l'extrémité mini USB du câble USB (inclus dans le contenu de l'emballage) à la *CONNEXION MICROUSB POUR CHARGER LA BATTERIE (8)* de votre Energy Music Box CM1 Bluetooth, et l'autre extrémité USB à un périphérique avec port USB qui puisse fournir de l'énergie. L'*INDICATEUR DE CHARGE (9)* deviendra rouge et lorsque la charge sera complète, il s'éteindra.
+
+
+
+**Avis :** Il est recommandé de charger l'appareil éteint.  Ne pas stocker ou laisser l'appareil tomer en désuétude longtemps avec la batterie complètement déchargée. 
