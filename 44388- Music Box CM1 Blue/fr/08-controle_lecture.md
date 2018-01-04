@@ -1,9 +1,9 @@
 ## Contrôle de lecture
 
-Quand la synchronisation de l'*Energy Music Box CM1 Bluetooth* soit réalisée, contrôlez le volume de lecture depuis votre haut-parleur. Pour cela, appuyez sur les boutons "VOLUMEN - " (1) ou "VOLUMEN + " (2).
+Une fois la synchronisation de votre *Energy Music Box CM1 Bluetooth* soit établie, vous pourrez contrôler le volume de lecture depuis l'enceinte. Pour ce faire, appuyez sur les boutons *VOLUME -* (1) ou *VOLUME +* (2).
 
-Pour arrêter ou recommencer la lecture, appuyez sur le bouton PLAY/PAUSE (4) une seule fois.
+Pour interrompre ou reprendre la lecture, appuyez une seule fois sur le bouton *MARCHE/ARRÊT* (4).
 
-Pour avancer ou reculer dans une chanson, appuyez sur les boutons AVANCE (7) ou RECUL (6).
+Pour avancer ou reculer un morceau, appuyez sur les touches *AVANT* (7) ou *RETOUR* (6).
 
-Pour changer le dossier dans le mode USB, appuyez sur la touche CHANGEMENT DE DOSSIER (5).
+Pour changer de dossier en mode USB, appuyez sur le bouton *CHANGEMENT DE DOSSIER* (5).
