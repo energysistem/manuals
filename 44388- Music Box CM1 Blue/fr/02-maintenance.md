@@ -1,8 +1,14 @@
-## Soin et maintenance
+## Soin et entretien
 
-* Ne pas exposer votre *Energy Music Box CM1 Bluetooth* à des chocs, à la poussière, à l'humidité ou à hautes températures.
+*Ne pas exposer vos *Energy Music Box CM1 Bluetooth* à des coups, à la poussière, à l'humidité ou à hautes températures.
+
 * Ne pas utiliser des produits corrosifs ou abrasifs.
-* Conserver l'enceinte propre et sans de la poussière, pour cela, utilisez un chiffon sec et doux.
-* Ne pas démonter l'appareil. Toutes les réparations doivent être réalisées exclusivement par le personnel qualifié d'Energy Sistem Technology, S.A.
-* Assurez-vous d'avoir votre *Energy Music Box CM1 Bluetooth* éteint s'il ne est pas utilisé.
-* Ne pas laisser l'appareil inutilisé pendant une longue période de temps avec une batterie complètement déchargée.
+
+* Gardez votre appareil propre et sans poussière ; utilisez à cette fin un chiffon doux et sec.
+
+* Ne pas démonter l'appareil. Toute réparation doit être exclusivement réalisée par le personnel qualifié d'Energy Sistem Technology, S.A.
+
+* Vérifiez que votre *Energy Music Box CM1 Bluetooth* est éteinte quand elle n'est pas en cours d'utilisation.
+
+* Ne pas stocker ou laisser l'appareil tomber en désuétude longtemps avec la batterie complètement déchargée.
+
