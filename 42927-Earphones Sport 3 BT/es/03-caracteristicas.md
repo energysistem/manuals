@@ -6,7 +6,7 @@
  
 #### DRIVERS
 - Respuesta en frecuencia: 20  Hz ~ 20 KHz
-- Diámetro: 6 mm
+- Diámetro: 13 mm
 
 #### MICRÓFONO
 - Sensibilidad: -42 dB±3 dB
