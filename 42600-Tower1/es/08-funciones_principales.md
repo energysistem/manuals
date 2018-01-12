@@ -4,7 +4,7 @@ Una vez enchufada a la toma de corriente, enciende tu Energy Tower 1 poniendo el
 
 Te recomendamos que cuando no vayas a utilizar la torre durante un periodo más largo de tiempo, además de apagar la torre desde el panel superior, pongas el interruptor trasero en la posición "OFF".
 
-*Nota:* Una vez conectado el interruptor trasero en posición "ON" es necesario esperar unos 5 segundos para que la tower encienda desde el panel superior. 
+**Nota:** Una vez conectado el interruptor trasero en posición "ON" es necesario esperar unos 5 segundos para que la tower encienda desde el panel superior. 
 
 
 
