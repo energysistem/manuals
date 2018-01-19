@@ -1,6 +1,6 @@
 ## Entrada de audio
 
-Si no quieres utilizar la conexión inalámbrica Bluetooth tienes otra opción más para disfrutar de tus *Energy Headphones 7 Bluetooth ANC*: conectarlos a tu reproductor mediante el cable de audio (incluido). No es necesario encender los auriculares para usarlos con el cable de audio. Para su correcto funcionamiento, la batería del dispositivo no debe estar completamente agotada.
+Si no quieres utilizar la conexión inalámbrica Bluetooth tienes otra opción más para disfrutar de tus *Energy Headphones 7 Bluetooth ANC*: conectarlos a tu reproductor mediante el cable de audio (incluido). No es necesario encender los auriculares para usarlos con el cable de audio. Para su correcto funcionamiento, la batería no debe estar completamente agotada.
 
 Para usar este modo simplemente tienes que conectar el cable incluido a la ENTRADA DE AUDIO (8).
 
