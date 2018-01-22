@@ -4,6 +4,8 @@ Tu *Energy Party 6* dispone de una *Entrada JACK para micrófono* (33) a la que 
 
 Puedes modificar la intensidad de la señal del micrófono gracias al control *Volumen micrófono* (12); y el eco del mismo micrófono mediante el *Efecto eco del micrófono* (17). Ambos controles se encuentran en el panel superior.
 
+**Nota:** Se recomienda guardar una distancia de al menos 5 cm entre la boca y el micrófono para evitar la saturación de la señal. 
+
 
 ## Entrada de guitarra
 
