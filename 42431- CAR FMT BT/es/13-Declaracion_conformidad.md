@@ -9,7 +9,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto:
 >**Energy Car Transmitter Music Bluetooth**
 
 _**País de fabricación:**_ China
-Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre.
+Al que se refiere esta declaración, con las normas u otros documentos normativos de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de mayo.
 
 |  |  |
 |:-------|:-------|
