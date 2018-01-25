@@ -4,7 +4,7 @@ _**Nome do fabricante:**_ Energy Sistem Technology S.A.
 _**Endereço:**_ C/ Calpe, 1 - 03509 Finestrat Alicante (Espanha).
 _**Tel:**_  902 388 388 // _**Fax:**_  902 119 034 // _**NIF:**_  A53107488
 
-Declaramos sob nossa exclusiva responsabilidade a conformidade que o produto **Energy Car FM-T Bluetooth** (**País de fabricação:** China) está en conformidade com as normas e outros documentos normativos de conformidade com a Diretiva 99/5/EC do Parlamento Europeu e do Conselho de 9 de Março de 1999.
+Declaramos sob nossa exclusiva responsabilidade a conformidade que o produto **Energy Car FM-T Bluetooth** (**País de fabricação:** China) está en conformidade com as normas e outros documentos normativos de conformidade com a Diretiva 2014/53/EU do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 Pode solicitar uma cópia da declaração de conformidade em: C/ Calpe, 1 - 03509 Finestrat - Alicante (Espanha) Tel. +34 966 831 058
 
 Finestrat, 01 de septembro de 2015
