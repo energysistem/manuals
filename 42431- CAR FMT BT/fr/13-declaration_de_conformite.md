@@ -10,7 +10,7 @@ Déclarons sous notre seule responsabilité que le produit:
 >**Energy Car FM-T Bluetooth**
 
 _**Pays de fabrication:**_ Chine
-Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 1999/5/EC du Parlement Européen et du Conseil du 09 mars 1999.
+Auquel se réfère cette déclaration, est conforme aux normes ou documents normatifs de la Directive 2014/53/EU du Parlement Européen et du Conseil du 16 Avril 2014.
 
 |  |  |
 |:-------|:-------|
