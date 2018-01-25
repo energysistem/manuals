@@ -6,18 +6,18 @@ Tel: + 34 966 830 324
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
-Descripción: Auriculares deportivos inalámbricos <br/>
-Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 3 Bluetooth <br/>
-Fabricante: Energy Sistem Technology, S.A. <br/>
-País de fabricación: China <br/>
+Descripción: Auriculares deportivos inalámbricos 
+Marca: Energy Sistem 
+Modelo: Energy Earphones Sport 3 Bluetooth 
+Fabricante: Energy Sistem Technology, S.A. 
+País de fabricación: China 
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-ETSI EN 301 489-1 V2.1.1 (2017-02) <br/>
-ETSI EN 301 489-17 V3.1.1 (2017-02) <br/>
-ETSI EN 300 328 V2.1.1 (2016-11) <br/>
-EN 62479:2010 <br/>
+ETSI EN 301 489-1 V2.1.1 (2017-02) 
+ETSI EN 301 489-17 V3.1.1 (2017-02) 
+ETSI EN 300 328 V2.1.1 (2016-11) 
+EN 62479:2010 
 
 de acuerdo con las disposiciones de la Directiva 2014/53/UE del Parlamento Europeo y del Consejo de 16 de Abril de 2014, traspuesta a la legislación española mediante el Real Decreto 188/2016, de 6 de Marzo de 2016.
 
