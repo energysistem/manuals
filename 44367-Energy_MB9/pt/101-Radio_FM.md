@@ -8,5 +8,5 @@ Para melhorar a intensidade do sinal da rádio pode utilizar como cabo de antena
 
 Pode selecionar uma estação de rádio se mantiver premido o botão *Avançar* (6) ou *Voltar* (4). As estações de rádio aparecem na ordem em que foram guardadas. Prima o botão *Avançar* (6) ou *Voltar* (4) para ajustar a frequência da estação de rádio selecionada.
 
-Importante: O adaptador de carregamento pode interferir com o sinal da rádio FM. É recomendável manter uma distância de 50 cm entre o adaptador de carregamento e o altifalante enquanto a função rádio FM estiver ativada e a bateria estiver a ser carregada em simultâneo.
+**Importante:** O adaptador de carregamento pode interferir com o sinal da rádio FM. É recomendável manter uma distância de 50 cm entre o adaptador de carregamento e o altifalante enquanto a função rádio FM estiver ativada e a bateria estiver a ser carregada em simultâneo.
 
