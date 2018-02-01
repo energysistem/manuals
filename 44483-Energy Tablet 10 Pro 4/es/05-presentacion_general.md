@@ -1,6 +1,6 @@
 ## Presentación general
 
-![Imagen1](http://static.energysistem.com/images/manuals/44483/5a3d361c6492b.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/44483/5a3d361c6492b.jpg?1)
 
 1. Conector microHDMI
 2. Conector microUSB
