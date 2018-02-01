@@ -1,6 +1,8 @@
 ## FM radio
 
-To be able to use this function, you have to tune in the radio stations first. To do that, connect the radio antenna on the tower top panel and press and hold the *Start/ Pause (4)* button on the display or the very same button on the remote control *(18)* for two seconds while radio mode is enabled. The process may take a few minutes. The radio stations will be saved to the memory of your *Energy Tower 8 g2*, therefore it is not necessary to carry out a new search each time you switch it on. You will only have to carry out a new search if you place the device in a new location or if you change the frequency of the saved radio station.
+To be able to use this function, you have to tune in the radio stations first. To do that, connect the radio antenna on the tower top panel and press and hold the *Start/ Pause (4)* button on the display for two seconds while radio mode is enabled. The process may take a few minutes. 
+
+The radio stations will be saved to the memory of your *Energy Tower 8 g2*, therefore it is not necessary to carry out a new search each time you switch it on. You will only have to carry out a new search if you place the device in a new location or if you move the power switch on the back side of the tower to the "OFF" position to cut off power supply. If you want to keep the radio stations, turn your Tower off by pressing the button on the top display or using the remote control. This way, you won't need to repeat the whole tuning process.
 
 Press briefly the *Start/ Pause (4)* button on the display or the very same button on the remote control *(18)* once again to switch from one saved station to another. 
 
