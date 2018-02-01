@@ -1,6 +1,6 @@
 ## Pantalla Principal
 
-![Image1](http://static.energysistem.com/images/manuals/44483/5a3d3622334ba.jpg)  
+![Image1](http://static.energysistem.com/images/manuals/44483/5a3d3622334ba.jpg?1)  
 
 1. Buscador: acceso directo al motor de búsqueda web de Google.
 2. Barra de estado: muestra información sobre el estado de la cobertura, la batería y la hora. Deslizando con un dedo hacia abajo en esta zona se despliega el centro de notificaciones. Si se desliza de nuevo se accede al panel de ajustes rápidos. A este panel también se puede acceder desde la pantalla de inicio deslizando con 2 dedos en la barra de estado.
