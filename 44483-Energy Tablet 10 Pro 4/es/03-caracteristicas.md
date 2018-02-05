@@ -25,7 +25,7 @@ OTROS
 - Sensor de movimiento (acelerómetro)
 
 + BATERÍA
-- Capacidad de batería: 3,8 V /6000 mAh Li-Ion
+- Capacidad de batería: 3,8 V /6200 mAh Li-Ion
 - Alimentación mediante adaptador AC 100-240 V 50-60 Hz DC 5 V/2.0 A
 
 + CONEXIONES
