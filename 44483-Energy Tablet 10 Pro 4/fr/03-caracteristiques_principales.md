@@ -14,8 +14,8 @@ SYSTÈME D'EXPLOITATION
 - Android 7.0 Nougat
 
 MÉMOIRE 
-- 2 Go RAM
-- 32 Go de mémoire interne extensible via cartes microSD-HC/XC (jusqu'à 256 Go)
+- 2 GB RAM
+- 32 GB de mémoire interne extensible via cartes microSD-HC/XC (jusqu'à 256 Go)
 
 AUTRES
 - Appareil photo arrière de 5 Mpx
@@ -25,7 +25,7 @@ AUTRES
 - Capteur de mouvement (accéléromètre)
 
 + BATTERIE
-- Capacité de la batterie : 3,8 V/ 6060 mAh Li-Ion
+- Capacité de la batterie : 3,8 V/ 6200 mAh Li-Ion
 - Adaptateur d'alimentation courant AC 100-240 V 50-60 Hz DC 5 V/ 2,0 A
 
 + CONNEXIONS
