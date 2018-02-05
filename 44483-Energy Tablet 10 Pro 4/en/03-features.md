@@ -25,7 +25,7 @@ OTHER FEATURES
 - Motion sensor (accelerometer)
 
 + BATTERY
-- Battery capacity: 3.8 V / 6000 mAh, Li-Ion battery
+- Battery capacity: 3.8 V / 6200 mAh, Li-Ion battery
 - Power supply using an AC/DC power adapter (Input: AC 100-240 V 50-60 Hz. Output: DC 5 V/2.0 A)
 
 + CONNECTIONS
