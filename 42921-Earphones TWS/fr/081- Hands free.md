@@ -11,4 +11,3 @@ Appuyez brièvement sur le bouton multifonction (3).
 Maintenez enfoncé le bouton multifonction (3).
 
 #### IMPORTANT : Lors de l'appel téléphonique le son sera disponible uniquement sur l'écouteur gauche (écouteur principal).
-
