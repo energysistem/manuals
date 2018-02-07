@@ -20,5 +20,5 @@
 - Charging time: 1.5 hours
 
 #### OTHER FEATURES
-- Earphones' battery level on iOS devices
+- Earphones battery level on iOS devices
 - It supports HSP / HFP / A2DP / AVRCP protocols
