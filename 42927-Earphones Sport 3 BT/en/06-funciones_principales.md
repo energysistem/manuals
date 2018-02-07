@@ -1,3 +1,14 @@
+
+## Main functions
+
+### Switching on and off the device
+
+To turn on your earphones, press and hold *PLAY/ PAUSE* (1) for 2 seconds and the *LED INDICATOR* (4) will light in blue. You will hear a confirmation sound when switching them on. The *INDICATOR* (4) will keep flashing blue while the device is on. 
+
+To turn off the earphones, press and hold *PLAY/ PAUSE* (1) for 4 seconds. You will hear a sound when turning them off.
+
+
+
 ### Charging the battery
 
 When the battery level is below 10%, the *LED INDICATOR* (4) will flash red and you will hear a sound to remind you to charge the battery through the *CHARGING PORT* (6). 
