@@ -21,7 +21,7 @@
 
 ### Características de la batería de litio recargable
 
-- Capacidad nominal: 3600 mAh.
+- Capacidad nominal: 4000 mAh.
 - Tensión nominal: 3.7 V.
 - Autonomía en modo radio: 15 horas.*
 - Autonomía en modo USB / SD: 12 horas.*
