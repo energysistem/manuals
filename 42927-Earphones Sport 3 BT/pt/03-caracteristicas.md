@@ -6,10 +6,10 @@
  
 #### DRIVERS
 - Resposta em frequência: 20 Hz ~ 20 KHz
-- Diâmetro: 6 mm
+- Diâmetro: 13 mm
 
 #### MICROFONE
-- Sensibilidade: -42 dB±3 dB
+- Sensibilidade: -42 dB ±3 dB
 
 #### BATERIA:
 - Capacidade: 100 mAh
@@ -20,5 +20,5 @@
 - Tempo de carregamento: 1,5 horas
 
 #### OUTROS:
-- Nível da bateria dos auscultadores em dispositivos iOS
+- Indicador do nível da bateria dos auscultadores em dispositivos iOS
 - Suporta protocolos HSP / HFP / A2DP /AVRCP
