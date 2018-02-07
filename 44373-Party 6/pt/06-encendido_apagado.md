@@ -4,6 +4,8 @@ Uma vez ligado o *Energy Party 6* à tomada de corrente, deslize o *Interruptor 
 
 Aconselhamos deslizar o *Interruptor principal* (27) para a posição "OFF" se não vai utilizar o altifalante por longos períodos de tempo.
 
+**Importante:** O seu *Energy Party 6* oferece uma função de desligamento automático, pelo que desliga automaticamente após 15 minutos se o dispositivo estiver ligado e se não estiver a reproduzir música.
+
 ## Modos de reprodução
 
 Na parte superior do painel estão os botões dos modos de reprodução disponíveis (USB, Bluetooth, AUX e Rádio FM). No *ecrã* (14) pode ver a função seleccionada. Também pode mudar a função premindo o botão *Mudar função* (36) no telecomando. 
