@@ -1,34 +1,32 @@
-## <quick_guide> Declaração de conformidade
+## Declaração de conformidade
 
 Declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Morada: Rua Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
-Tel.: + 34 902 388 388  / + 34 966 813 257
+Morada: C/ Calpe, 1 - 03509 Finestrat, Alicante (Espanha)
+Tel.: + 34 966 830 324
 
 Declaramos sob a nossa exclusiva responsabilidade que o produto
 
-Descrição: Auscultadores <br/>
-Marca: Energy Sistem <br/>
-Modelo: Energy Earphones Sport 1 Bluetooth <br/>
-Fabricante: Energy Sistem Technology, S.A. <br/>
-País de fabricação: China <br/>
+Descrição: Auscultadores desportivos sem fios 
+Marca: Energy Sistem 
+Modelo: Energy Earphones Sport 3 Bluetooth
+Fabricante: Energy Sistem Technology, S.A. 
+País de fabricação:  China 
 
 a que se refere a declaração cumpre com as normas e outros documentos normativos
 
-EN 300 328 V1.9.1 (2015-02) <br/>
-EN 301 489-1 V1.9.2 (2011-09) <br/>
-EN 301 489-17 V2.2.1 (2012-09) <br/>
-EN 62479:2010 <br/>
-EN 60950-1:2006+A11:2009+A1:2010+A12:2011+A2:2013 <br/>
+ETSI EN 301 489-1 V2.1.1 (2017-02) 
+ETSI EN 301 489-17 V3.1.1 (2017-02) 
+ETSI EN 300 328 V2.1.1 (2016-11) 
+EN 62479:2010 
 
-e está em conformidade com as normas e padrões essenciais da Diretiva 1999/5/EC do Parlamento Europeu e do Conselho de 09 de março de 1999.
+em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 
-Finestrat, 01 de setembro de 2016.
+Finestrat, 15 de janeiro de 2018.
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
-Daniel Havillio
+Marco Antonio Velázquez Fierro
 Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
-
-</quick_guide>
+ 
