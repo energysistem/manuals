@@ -43,8 +43,8 @@ Rácio sinal/ruído: >80 dB.
 
 ### Características da bateria de lítio recarregável
 
-* Capacidade nominal: 1800 mA.
-* Voltagem nominal: 3.7V.
+* Capacidade nominal: 2000 mAh.
+* Voltagem nominal: 3.7 V.
 * Autonomia em modo radio: 15 horas.*
 * Autonomia em modo música: 12 horas.*
 * Autonomia em modo Bluetooh: 10 horas.*
