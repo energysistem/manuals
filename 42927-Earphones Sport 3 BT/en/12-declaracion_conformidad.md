@@ -23,7 +23,7 @@ in conformity with the essential norms and standards of the Directive 2014/53/EU
 
 Finestrat, 15th January 2018
 
-![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
+![Imagen1](http://static.energysistem.com/images/manuals/42833/5915cdf54910a.jpg)
 
 Marco Antonio Velázquez Fierro
 Product Management Director
