@@ -1,7 +1,5 @@
-## <quick_guide> Product content
+## Product content
 
-* Energy Earphones Sport 1 Bluetooth
-* USB charging cable
-* Spare ear pads
-
-</quick_guide>
+* Energy Earphones Sport 3 Bluetooth
+* MicroUSB charging cable
+* Interchangeable ear tips
