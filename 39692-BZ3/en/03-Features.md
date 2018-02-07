@@ -44,8 +44,8 @@
 
 ### Battery specifications
 
-- Nominal capacity: 1800 mAh.
-- Nominal voltage: 3.7V.
+- Nominal capacity: 2000 mAh.
+- Nominal voltage: 3.7 V.
 - Autonomy in radio mode: 15 hours*.
 - Autonomy in music player mode: 12 hours*.
 - Autonomy in Bluetooth mode: 10 hours*.
