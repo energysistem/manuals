@@ -1,10 +1,7 @@
-## <quick_guide> Introduction
+## Introduction
 
-*	Thank you for your trust in our company and for buying the new *Energy Earphones Sport 1 Bluetooth*. We hope you enjoy your new earphones.
+*	Thank you for your trust in our company and for buying the new *Energy Earphones Sport 3 Bluetooth*. We hope you enjoy them.
 
-*	Bluetooth earphones for all sport lovers. Great sound and functionality. You can answer your calls and control your music while you are training.  All this with perfect fit thanks to their secure-fit system.
+*	Bluetooth sport earphones with aptX technology to enjoy high quality sound. Sweat and water-resistant earphones with built-in microphone, ergonomic design and Secure-Fit system to fit your ears perfectly and provide maximum comfort.
 
-*	We recommend you to read this manual and familiarize yourself with it before you start using your *Energy Earphones Sport 1 Bluetooth*.   
-
-</unique> </quick_guide>
-
+*	We recommend you to read this manual to familiarize yourself with your *Energy Earphones Sport 3 Bluetooth* before using them.
