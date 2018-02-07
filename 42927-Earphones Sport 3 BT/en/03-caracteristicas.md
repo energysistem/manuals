@@ -6,10 +6,10 @@
  
 #### DRIVERS
 - Frequency response: 20 Hz ~ 20 KHz
-- Diameter: 6 mm
+- Diameter: 13 mm
 
 #### MICROPHONE 
-- Sensitivity: -42 dB±3 dB
+- Sensitivity: -42 dB ±3 dB
 
 #### BATTERY
 - Capacity: 100 mAh
@@ -21,4 +21,4 @@
 
 #### OTHER FEATURES
 - Earphones' battery level on iOS devices
-- It supports HSP / HFP / A2DP /AVRCP protocols
+- It supports HSP / HFP / A2DP / AVRCP protocols
