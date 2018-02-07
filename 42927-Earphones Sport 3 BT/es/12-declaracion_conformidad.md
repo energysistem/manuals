@@ -1,7 +1,7 @@
 ## Declaración de conformidad
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
-Dirección: C/. Calpe, 1 - 03509 Finestrat Alicante (España)
+Dirección: C/ Calpe, 1 - 03509 Finestrat Alicante (España)
 Tel: + 34 966 830 324
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
@@ -12,7 +12,7 @@ Modelo: Energy Earphones Sport 3 Bluetooth
 Fabricante: Energy Sistem Technology, S.A. 
 País de fabricación: China 
 
-Al que se refiere esta declaración, con las normas u otros documentos normativos
+al que se refiere esta declaración, con las normas u otros documentos normativos
 
 ETSI EN 301 489-1 V2.1.1 (2017-02) 
 ETSI EN 301 489-17 V3.1.1 (2017-02) 
