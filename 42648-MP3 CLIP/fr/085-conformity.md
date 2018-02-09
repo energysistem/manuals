@@ -14,11 +14,11 @@ Pays de fabrication : Chine <br/>
 
 visé par cette déclaration est conforme aux normes ou documents normatifs
 
-EN 60065<br/>
-EN 300 328 V1.9.1 (2015-04)<br/>
-EN 301 489-1 V1.9.2 (2011-09)<br/>
-EN 301 489-17 V1.2.2.1 (2012-09)<br/>
-EN 62479:2010<br/>
+EN 60065:2014<br/>
+EN 62479:2010 <br/>
+EN 55032:2015<br/>
+EN 55020:2007+A11:2011+A12:2016<br/>
+EN 303 345 V1.1.7 (2017-03)<br/>
 
 
 
