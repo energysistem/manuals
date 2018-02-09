@@ -14,7 +14,7 @@ País de fabricación: China <br/>
 
 Al que se refiere esta declaración, con las normas u otros documentos normativos
 
-EN 60065<br/>
+EN 60065:2014<br/>
 EN 62479:2010 <br/>
 EN 55032:2015<br/>
 EN 55020:2007+A11:2011+A12:2016<br/>
