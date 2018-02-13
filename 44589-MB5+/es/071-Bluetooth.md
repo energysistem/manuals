@@ -6,7 +6,7 @@ Puedes iniciar entonces la reproducción desde tu Smartphone o table. El alcande
 
 Podrás controlar la reproducción desde el propio altavoz, usando los botones *Avance (6)*, *Retroceso (5)* e *Inicio/Pausa (1)*.
 
-Cuando apagues tu "Energy Music Box 5+", este recordará el último dispositivo conectado y se sincronizará automaticamente cuando vuelvas a encenderlo.
+Cuando apagues tu *Energy Music Box 5+*, este recordará el último dispositivo conectado y se sincronizará automaticamente cuando vuelvas a encenderlo.
 
 Para sincronizar otro Smartphone o tablet, vuelve a mantener pulsado el botón *Cambio de función (2)* pulsado durante 2 segundos para iniciar de nuevo la búsqueda Bluetooth.
 
@@ -16,4 +16,4 @@ Una vez sincronizado con tu Smartphone también podrás contestar las llamadas e
 
 Al recibir una llamada, la canción que estés escuchando se detendrá y sonará el tono de llamada. Para contestar la llamada sólo tienes que pulsar el botón *Inicio / Pausa  y control de llamada (2)*, y para finalizarla pulsa nuevamente dicho botón. La canción se reanudará automáticamente.
 
-Guarda una distancia con el altavoz de entre 30 y 50 cm para una correcta recepción de la voz. El *Micrófono (8)* se encuentra oculto trás la rejilla frontal de tu "Energy Music Box 5+".
+Guarda una distancia con el altavoz de entre 30 y 50 cm para una correcta recepción de la voz. El *Micrófono (8)* se encuentra oculto trás la rejilla frontal de tu *Energy Music Box 5+*.
