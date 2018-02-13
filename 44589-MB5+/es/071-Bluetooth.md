@@ -14,6 +14,6 @@ Para sincronizar otro Smartphone o tablet, vuelve a mantener pulsado el botón *
 
 Una vez sincronizado con tu Smartphone también podrás contestar las llamadas entrantes desde el propio altavoz.
 
-Al recibir una llamada, la canción que estés escuchando se detendrá y sonará el tono de llamada. Para contestar la llamada sólo tienes que pulsar el botón *Inicio / Pausa  y control de llamada (2)*, y para finalizarla pulsa nuevamente dicho botón. La canción se reanudará automáticamente.
+Al recibir una llamada, la canción que estés escuchando se detendrá y sonará el tono de llamada. Para contestar la llamada sólo tienes que pulsar el botón *Inicio / Pausa  y control de llamada (1)*, y para finalizarla pulsa nuevamente dicho botón. La canción se reanudará automáticamente.
 
 Guarda una distancia con el altavoz de entre 30 y 50 cm para una correcta recepción de la voz. El *Micrófono (8)* se encuentra oculto trás la rejilla frontal de tu *Energy Music Box 5+*.
