@@ -1,4 +1,4 @@
-## <quick_guide> Funcionamiento de la garantía
+## Funcionamiento de la garantía
 
 Entra en http://www.energysistem.com/es/support y tras seleccionar el producto podrás encontrar FAQs (respuestas a preguntas más frecuentes), manuales, guías de usuario, drivers y actualizaciones, así como la posibilidad de realizar una consulta al servicio técnico o gestionar la garantía.
 
@@ -11,7 +11,7 @@ Las especificaciones están sujetas a cambios sin previo aviso.
 
 *Marcas comerciales.* Toda compañía, marca y nombres de producto son marcas comerciales o marcas comerciales registradas de sus respectivas compañías.
 
-©2016 por Energy Sistem Technology, S.A. Todos los derechos reservados.
+©2018 por Energy Sistem Technology, S.A. Todos los derechos reservados.
 
 
 
