@@ -2,7 +2,7 @@
 
 Nombre del declarante: Energy Sistem Technology, S.A. - CIF: A53107488
 Dirección: c/. Calpe, 1 - 03509 Finestrat Alicante (España)
-Tel: + 34 96 683 03 24
+Tel: + 34 966 830 324
 
 Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
