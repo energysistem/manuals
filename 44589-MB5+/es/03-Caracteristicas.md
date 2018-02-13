@@ -16,7 +16,7 @@
 *	Capacidad: 2000 mAh.
 * Tipo: polímero de litio.
 *	Sistema de carga por microUSB.
-*	Tiempo de carga: 2,5 horas.
+*	Tiempo de carga: 3 horas.
 * Autonomía al 50% de volumen: 14 horas. *
 * Autonomía al 70% de volumen: 9 horas. *
 * Autonomía al 100% de volumen: 5 horas. *
