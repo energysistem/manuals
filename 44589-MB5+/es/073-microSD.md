@@ -2,7 +2,7 @@
 
 Reproduce archivos en formato .mp3 y .wav   desde una memoria microSD de hasta 128 GB de capacidad. Una vez insertada la memoria microSD, el *Indicador de función (7)* empezará a parpadear, señalando de esta manera que está leyendo la memoria y tras unos segundos comenzará la reproducción de manera automática. 
 
-Si apagas el *Energy Tower 8 g2* o extraes alguna de las memorias, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción en el mismo instante donde lo dejaste.
+Si apagas el altavoz o extraes la memoria, se almacenará el instante de reproducción en la memoria interna del dispositivo. Cuando vuelvas a conectar la misma memoria, continuará la reproducción por la última canción que escuchaste.
 
 Utiliza los botones de *Avance (6)* y *Retroceso (5)*. Para avanzar y retroceder en una canción. 
 
