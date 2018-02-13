@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Altavoz portátil inalámbrico
 Marca: Energy Sistem 
-Modelo: Energy Music Box 5 
+Modelo: Energy Music Box 5+ 
 Fabricante: Energy Sistem Technology, S.A. 
 País de fabricación: China
 
@@ -22,7 +22,7 @@ ETSI EN 300 328 V1.7.1 (2006-10)
 
 de acuerdo con las disposiciones de la Directiva 99/05/CE del Parlamento Europeo y del Consejo de 9 de marzo de 1999, traspuesta a la legislación española mediante el Real Decreto 1890/2000, de 20 de Noviembre de 2000.
 
-Finestrat, 01 de Septiembre de 2016.
+Finestrat, 01 de Abril de 2018.
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42178/574c726744d98.jpg)
 
@@ -31,7 +31,7 @@ Product Management Director
 
 ![](http://static.energysistem.com/images/manuals/39052/54887c2a4f567.jpg)
 
-</quick_guide>
+
 
 
 
