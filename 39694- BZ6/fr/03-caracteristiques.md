@@ -48,8 +48,8 @@
 
 - Capacité nominale: 4000 mAh.
 - Tension nominale: 3.7 V.
-- Autonomie en mode radio: 15 heures.*
-- Autonomie en mode musique: 12 heures.*
-- Autonomie en mode Bluetooth: 10 heures.*
+- Autonomie en mode radio: 27 heures.*
+- Autonomie en mode musique: 18 heures.*
+- Autonomie en mode Bluetooth: 22 heures.*
 <br/><br/>
  **La durée  de la batterie est approximative. Une plus grande puissance dan les haut-parleurs se traduit en une plus grande consommation de batterie.
