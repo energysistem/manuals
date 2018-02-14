@@ -46,8 +46,8 @@
 
 - Capacidade nominal: 4000 mAh.
 - Voltagem nominal: 3.7 V.
-- Autonomia em modo radio: 15 horas.*
-- Autonomia em modo música: 12 horas.*
-- Autonomia em modo Bluetooh: 10 horas.*
+- Autonomia em modo radio: 27 horas.*
+- Autonomia em modo música: 18 horas.*
+- Autonomia em modo Bluetooh: 22 horas.*
 <br/><br/>
  **A duração da bateria é aproximada. Maior potência nos altifalantes se traduz num maior consumo da bateria.
