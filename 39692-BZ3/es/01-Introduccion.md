@@ -6,5 +6,4 @@
 
 * Te aconsejamos que leas el presente manual de usuario para sacar el máximo partido a tu producto de forma segura, aprovechando todas sus prestaciones. 
 
-* Encuentra el manual completo del *Energy Music Box BZ3 Bluetooth* en el siguiente enlace http://www.energysistem.com/guide/39692 
 
