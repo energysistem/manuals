@@ -19,12 +19,15 @@
 - Distancia de uso hasta 10m de alcance.
 
 
-### Características de la batería de litio recargable
+### Características de la batería recargable:
 
-- Capacidad nominal: 4000 mAh.
-- Tensión nominal: 3.7 V.
-- Autonomía en modo radio: 15 horas.*
-- Autonomía en modo USB / SD: 12 horas.*
-- Autonomía en modo Bluetooth : 10 horas.*
-<br/><br/>
+- Capacidad: 4000 mAh.
+- Tipo: polímero de litio.
+- Voltaje nominal: 3.7V.
+- Autonomía en modo radio: 27 horas.*
+- Autonomía en modo Bluetooth: 18 horas.*
+- Autonomía en modo SD/USB: 22 horas.*
+- Sistema de carga: microUSB.
+- Tiempo de carga: 3.5 horas.
+
 * La duración de la batería es aproximada. Mayor volumen en el altavoz se traduce en un mayor consumo de la batería.
