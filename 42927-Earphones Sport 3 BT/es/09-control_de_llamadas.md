@@ -11,5 +11,5 @@ Para terminar una llamada pulsa el *BOTÓN PLAY / PAUSE* (1) una única vez.
 ### Rellamada
 Pulsa dos veces seguidas el *BOTÓN PLAY / PAUSE* (1) para realizar una rellamada al último número de la lista de llamadas realizadas de tu Smartphone.
 
-### Rechazar una llamada
-Para rechazar una llamada mantén pulsado e *BOTÓN PLAY / PAUSE* (1) durante aproximadamente 2 segundos.
+### Rechazar una llamada 
+Para rechazar una llamada mantén pulsado el *BOTÓN PLAY / PAUSE* (1) durante aproximadamente 2 segundos.
