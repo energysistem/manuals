@@ -1,4 +1,4 @@
-## Hands-free
+## Hands-free function
 
 You can answer incoming calls while using your "Energy Earphones 6 True Wireless". These are the actions available and the buttons that you have to use:
 
