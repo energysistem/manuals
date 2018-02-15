@@ -4,6 +4,8 @@ Une fois branché à une prise, placez l'*Interrupteur d'alimentation* (27) sur 
 
 Lorsque vous n'utilisez pas l'appareil pendant une période prolongée, nous vous conseillons de placer l'*Interrupteur d'alimentation* (27) sur la position « OFF ».
 
+**Remarque :** Votre *Energy Party 6* dispose d'une fonction d'arrêt automatique qui éteindra l'appareil si ce dernier reste allumé sans fonctionner pendant 15 minutes.
+
 ## Fonctions de lecture
 
 En haut du panneau supérieur, vous trouverez les boutons pour accéder aux différents modes d'utilisation disponibles (USB, Bluetooth, AUX et FM Radio). La fonction sélectionnée s'affichera sur l'*Écran* (14). Vous pouvez également changer la fonction sur la télécommande en appuyant sur le bouton *Changement de fonction* (36).
