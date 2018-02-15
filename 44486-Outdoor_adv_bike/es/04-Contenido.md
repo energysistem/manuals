@@ -11,7 +11,7 @@
 * Cable de audio.
 *	Cable USB para carga.
 * Mosquetón.
-* Bolsa de transporte para la bicicleta.
-* Soporte para la bicicleta.
+* Bolsa de transporte para el cuadro de la bicicleta.
+* Soporte para el manillar de la bicicleta.
 
 
