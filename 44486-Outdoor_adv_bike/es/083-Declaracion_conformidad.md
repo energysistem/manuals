@@ -8,7 +8,7 @@ Declaramos bajo nuestra exclusiva responsabilidad la conformidad del producto
 
 Descripción: Altavoz portátil inalámbrico
 Marca: Energy Sistem 
-Modelo: Energy Music Box 5+ 
+Modelos: Energy Outdoor Adventure /  Energy Outdoor Bike
 Fabricante: Energy Sistem Technology, S.A. 
 País de fabricación: China
 
