@@ -4,11 +4,11 @@ You can answer incoming calls while using your "Energy Earphones 6 True Wireless
 
 ### Answer an incoming call/end a call
 
-Press the *multifunction button* (3) briefly.
+Press the multifunction button (3) briefly.
 
 ### Reject an incoming call
 
-Press and hold the *multifunction button* (3).
+Press and hold the multifunction button (3).
 
 #### IMPORTANT: Sound will only come out from the left earphone (main earphone) during the call.
 
