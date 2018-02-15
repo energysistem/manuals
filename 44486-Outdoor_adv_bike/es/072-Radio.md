@@ -4,4 +4,4 @@ Una vez seleccionado el modo Radio FM, mantén pulsado el botón *Cambio de func
 
 Si cambias el altavoz de ubicación, realiza una nueva sintonización para conseguir un correcta recepción de ondas de radio. 
 
-Tu *Energy Music Box 5+* recordará la última emisora seleccionada cuando lo apagues y vuelvas a encenderlo.
+Tu *Energy Outdoor* recordará la última emisora seleccionada cuando lo apagues y vuelvas a encenderlo.
