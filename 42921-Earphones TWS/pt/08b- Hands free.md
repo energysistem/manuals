@@ -1,13 +1,14 @@
-## Manos libres
+## Função mãos livres
 
-Podrás atender llamadas entrantes mientras usas tus "Energy Earphones 6 True Wireless". Para eso usa estos controles:
+Pode atender chamadas enquanto está a utilizar os seus "Energy Earphones 6 True Wireless". A seguir as acções disponíveis e os botões que deve utilizar:
 
-### Contestar llamada entrante / finalizar llamada
+### Atender chamadas / terminar chamadas
 
-Pulsación corta del botón multifunción (3).
+Prima o *botão multifunção* (3) brevemente.
 
-### Rechazar llamada entrante
+### Rejeitar chamadas
 
-Mantén pulsado el botón multifunción (3).
+Prima o botão multifunção (3) durante alguns segundos.
 
-#### IMPORTANTE: Durante la llamada telefónica el sonido sólo está disponible en el auricular izquierdo (auricular maestro).
+#### IMPORTANTE: Ouvirá som apenas através do auscultador esquerdo (auscultador principal) enquanto está a atender a chamada.
+
