@@ -1,6 +1,6 @@
-## Linterna.
+## Linterna
 
-Tu *Energy Outdoor* dispone de una linterna LED en el lateral derecho. Puedes controlarla mediante el botón *Linterna ()*. Mediante una pulsación cambiarás entre los siguientes modos:
+Tu *Energy Outdoor* dispone de una linterna LED en el lateral derecho para alumbar en la oscuridad o para hacer señales lumínicas a distancia. Puedes controlarla mediante el botón *Linterna ()*. Mediante una pulsación cambiarás entre los siguientes modos:
 
 - Encendida.
 - Encendida en modo ahorro de energía.
