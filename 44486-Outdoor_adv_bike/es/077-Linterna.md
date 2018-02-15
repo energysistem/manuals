@@ -9,3 +9,5 @@ Tu *Energy Outdoor* dispone de una *Linterna LED ( )* para alumbar en la oscurid
 
 Si mantienes pulsado el *Linterna ()* comenzará una secuencia en código Morse de SOS (señal de socorro). Vuelve a pulsar dicho botón y la secuencia se detendrá. 
 
+¡Ya estás listo para la aventura!
+
