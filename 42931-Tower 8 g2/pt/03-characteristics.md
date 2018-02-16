@@ -35,7 +35,7 @@
 
 #### OUTROS:
 - Ecrã LCD de 2,2"
-- Telecomando com raio de alcance até 7 metros
+- Telecomando com raio de alcance até 10 metros
 - Porta USB de carregamento: 5 V, 2 A
 - Alimentação eléctrica: 100 - 240 V / 50 - 60 Hz
 - Cabo IEC de 150 cm
