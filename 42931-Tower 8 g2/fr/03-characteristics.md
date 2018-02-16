@@ -34,8 +34,8 @@
 - Fonction RDS.
 
 #### AUTRES
-- Écran LCD de 2,4”.
-- Portée de la télécommande : jusqu'à 7 mètres.
+- Écran LCD de 2,2”.
+- Portée de la télécommande : jusqu'à 10 mètres.
 - Connexion USB pour charger la batterie : 5 V, 2 A.
 - Alimentation : 100 - 240 V/ 50 - 60 Hz.
 - Câble d'alimentation IEC de 150 cm.
