@@ -16,11 +16,11 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 
 EN 60950-1-2006+A11:2009+A1:2011+A12:2013
 
-EN 301 489-1 V1.9.2:2011-09 
+EN 301 489-1 V2.2.0 (2017-03)
 
-EN 301 489-17 V2.2.1: 2012-09
+EN 301 489-17 V3.2.0 (2017-03)
 
-ETSI EN 300 328 V1.7.1 (2006-10)
+ETSI EN 300 328 V2.1.1 (2016-11)
 
 EN 62479:2010 
 
