@@ -16,13 +16,13 @@ a que se refere a declaração cumpre com as normas e outros documentos normativ
 
 EN 60950-1-2006+A11:2009+A1:2011+A12:2013
 
-EN 301 489-1 V1.9.2:2011-09 
+EN 301 489-1 V2.2.0 (2017-03)
 
-EN 301 489-17 V2.2.1: 2012-09
+EN 301 489-17 V3.2.0 (2017-03)
 
-ETSI EN 300 328 V1.7.1 (2006-10)
+ETSI EN 300 328 V2.1.1 (2016-11)
 
-EN 62479:2010
+EN 62479:2010 
 
 está em conformidade com as normas e padrões essenciais da Diretiva 2014/53/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014.
 
