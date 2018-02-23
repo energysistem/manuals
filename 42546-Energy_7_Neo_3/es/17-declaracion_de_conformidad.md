@@ -1,4 +1,3 @@
-﻿<quick_guide>
 ## Declaración de Conformidad
 
 Nombre del fabricante:
@@ -18,6 +17,3 @@ Al que se refiere esta declaración, con las normas u otros documentos normativo
 Usted puede solicitar una copia de la declaración de conformidad en: C/ Calpe, 1 - 03509 Finestrat - Alicante (España) Tel. +34 966 831 058
 
 Finestrat, 01 de Enero de 2016
-
-</quick_guide>
-
