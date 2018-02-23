@@ -1,4 +1,4 @@
-﻿## Principales Características
+## Principales Características
 
 * Pantalla IPS 7" (1024x600 píxels).
 * Pantalla capacitiva multi-táctil de 5 puntos.
