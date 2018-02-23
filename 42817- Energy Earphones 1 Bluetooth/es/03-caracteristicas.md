@@ -14,7 +14,7 @@
 
 *	Bluetooth® V4.1, Clase II.
 * Frecuencia de funcionamiento: 2,4 GHz.
-* Potencia de emisión máxima: 20 dBm.
+* Potencia de emisión máxima: 0,63 dBm.
 * Soporta protocolos HSP / HFP / A2DP /AVRCP.
 *	Distancia de uso de hasta 10 m de alcance.
 * Respuesta en frecuencia: 60Hz ~ 18 KHz.
