@@ -1,4 +1,4 @@
-## <quick_guide> Presentación general
+## Presentación general
 
 
 ![Imagen1](http://static.energysistem.com/images/manuals/42546/56a643ee7c760.jpg)
@@ -24,6 +24,3 @@
 10. Ranura para microUSB
 
 11. Ranura para microSD
-
-</quick_guide>
-
