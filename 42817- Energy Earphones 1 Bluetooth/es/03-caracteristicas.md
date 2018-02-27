@@ -30,4 +30,4 @@
 *	Tiempo de carga: 1,5 horas.
 *	Autonomía en uso: 5 horas.
 
-**Nota:**  Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería. 
+**Nota:**  Cálculo de la autonomía aproximado para volumen medio. Un mayor volumen supone un mayor consumo de la batería.  
