@@ -13,6 +13,8 @@
 ### Technical features
 
 *	Bluetooth® V4.1, Class II.
+* Operating frequency: 2.4 GHz.
+* Maximum output power: 0,63 dBm.
 * It supports HSP/ HFP/ A2DP/ AVRCP protocols.
 *	Distance range: up to 10 m.
 * Frequency response: 60 Hz ~ 18 KHz.
