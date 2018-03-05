@@ -4,8 +4,8 @@
 - Sistema de sonido 2.1
 - Potencia: 240 W
 - Procesador de audio digital (DSP) de 16 bits / 48 kHz
-- Altavoz de agudos de 2“
-- Altavoces frontales de rango completo de 6,5”
+- 2 altavoces frontales de rango completo de 6,5" y 100 W.
+- 4 altavoces de agudos de 2" y 5 W.
 - Respuesta en frecuencia: 20 Hz ~ 20 KHz
 - Ecualizador analógico de 5 bandas
 - Caja acústica de madera
