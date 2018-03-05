@@ -4,8 +4,8 @@
 - Système de son 2.1
 - Puissance : 240 W
 - Processeur audio numérique (DSP) de 16 bits / 48 KHz
-- Haut-parleur d'aigus de 2"
-- Haut-parleurs frontaux large bande de 6,5"
+- Haut-parleur d'aigus de 2" et 10 W.
+- Haut-parleurs frontaux large bande de 6,5" et 100 W.
 - Réponse en fréquence : 20 Hz ~ 20 KHz
 - Égaliseur analogique 5 bandes
 - Boîtier en bois
