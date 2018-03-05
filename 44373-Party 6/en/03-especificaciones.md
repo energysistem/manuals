@@ -5,8 +5,8 @@
 - 2.1 sound system
 - Power: 240 W 
 - Digital signal processor (DSP): 16 bits/ 48 kHz
-- 2" tweeter
-- 6.5" full range front speakers
+- 4 tweeters of 2" and 10 W each one.
+- 2 full range speakers of 6.5" and 100 W each one.
 - Frequency response: 20 Hz ~ 20 kHz
 - 5-band analogue equalizer
 - Wooden cabinet speakers
