@@ -4,8 +4,8 @@
 - Sistema de som 2.1
 - Potência: 240 W 
 - Processador digital de som (DSP) de 16 bits / 48 kHz
-- Altifalante para reproduzir frequências agudas de 2"
-- Altifalantes frontais de 6,5" de gama total
+- Altifalante para reproduzir frequências agudas de 2" e 10 W.
+- Altifalantes frontais de 6,5" de gama total e 100 W.
 - Resposta em frequência: 20 Hz ~ 20 KHz
 - Equalizador de 5 bandas (analógico)
 - Corpo dos altifalantes em madeira
